@@ -112,3 +112,32 @@ def test_channel_home_scan_failure_does_not_block_video_tab(monkeypatch, tmp_pat
     assert [item["id"] for item in entries] == [video_id]
     assert any(item["type"] == "CHANNEL" and item["status"] == "FAILED" for item in scan_results)
     assert not any(error.startswith("CHANNEL:") for error in fatal_errors)
+
+
+def test_missing_shorts_tab_is_nonfatal(monkeypatch):
+    import youtube_channel_transcripts as engine
+
+    channel_id = "UC" + "2" * 22
+    video_id = "abc12345678"
+    class FakeYDL:
+        def __init__(self, params): pass
+        def __enter__(self): return self
+        def __exit__(self, *args): return False
+        def extract_info(self, url, download=False):
+            if url.endswith("/shorts"):
+                raise RuntimeError("ERROR: [youtube:tab] This channel does not have a shorts tab")
+            return {"channel_id": channel_id, "uploader": "Example", "entries": [{"id": video_id, "title": "One video"}]}
+    class FastRateLimiter:
+        def run(self, operation, **kwargs): return operation()
+    monkeypatch.setattr(engine.yt_dlp, "YoutubeDL", FakeYDL)
+    _, entries, scans, fatal_errors = engine.discover_channel("https://www.youtube.com/@Example", None, None, None, set(), FastRateLimiter())
+    assert len(entries) == 1
+    assert any(row.get("status") == "NO_TAB" for row in scans)
+    assert fatal_errors == []
+
+
+def test_auth_challenge_is_detected_without_retrying_all_videos():
+    import youtube_channel_transcripts as engine
+    assert engine.is_auth_required("Sign in to confirm you're not a bot")
+    assert engine.is_auth_required("ERROR: confirm you’re not a bot")
+    assert not engine.is_auth_required("No captions found")
