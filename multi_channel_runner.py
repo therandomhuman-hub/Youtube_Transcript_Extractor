@@ -180,13 +180,13 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
     summary_path = folder / "collection_summary.txt"
     manifest = extractor.load_manifest(manifest_path)
     if discovery_error is not None and not entries:
-        entries = extractor.merge_pending_manifest_entries([], manifest)
+        entries = extractor.merge_pending_manifest_entries([], manifest, output_dir=folder)
         if not entries:
             return {"channel_url": channel_url, "status": "SCAN_FAILED", "error": extractor.explain_error(discovery_error),
                     "folder": str(folder), "saved_this_run": 0, "last_checked_at": utc_now()}
 
     extractor.seed_manifest_from_entries(manifest_path, manifest, entries)
-    entries = extractor.merge_pending_manifest_entries(entries, manifest)
+    entries = extractor.merge_pending_manifest_entries(entries, manifest, output_dir=folder)
     whisper_instance = None
     if use_whisper:
         try:
@@ -262,6 +262,8 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
                 shutil.copy2(channel_folder / filename, updated_channel_folder / filename)
     result = {"channel_url": channel_url, "channel_name": name or folder.name, "status": status,
               "saved_this_run": saved_now, "saved_total": saved_total, "known_items": total,
+              "video_count": sum(1 for item in entries if str(item.get("kind", "VIDEO")).upper() != "SHORT"),
+              "short_count": sum(1 for item in entries if str(item.get("kind", "")).upper() == "SHORT"),
               "unresolved_items": unresolved, "scan_errors": fatal_scan_errors,
               "folder": str(channel_folder), "last_checked_at": utc_now()}
     channel_state.update(result)
