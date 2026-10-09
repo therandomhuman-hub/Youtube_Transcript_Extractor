@@ -143,17 +143,11 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
     channel_state = state["channels"].setdefault(key, {})
     folder = locate_channel_folder(root, channel_url)
     archived = locate_channel_folder(completed_root, channel_url)
-    if archived is not None:
-        # Archived channel folders remain canonical; stage a working copy for this scan.
-        folder = root / archived.name
-        if folder.exists():
-            shutil.rmtree(folder)
-        shutil.copytree(archived, folder)
-        prior_manifest = {}
-        try:
-            prior_manifest = json.loads((folder / "transcript_manifest.json").read_text(encoding="utf-8"))
-        except Exception:
-            pass
+    # Prefer an active working folder if a prior new upload could not be
+    # transcribed. Otherwise update the canonical archive in place, avoiding a
+    # full copy of every transcript at each six-hour scan.
+    if folder is None and archived is not None:
+        folder = archived
     prior_manifest: dict[str, Any] = {}
     if folder and (folder / "transcript_manifest.json").is_file():
         try:
@@ -227,11 +221,25 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
     complete, saved_total, unresolved, total = manifest_complete(folder)
     status = "COMPLETED" if complete and not fatal_scan_errors and discovery_error is None else "IN_PROGRESS"
     is_update = bool(prior_ids) and saved_now > 0
+    is_archived_folder = folder.parent.resolve() == completed_root.resolve()
     if status == "COMPLETED":
-        channel_folder = archive_completed_channel(folder, completed_root)
+        channel_folder = folder if is_archived_folder else archive_completed_channel(folder, completed_root)
         channel_state.update({"status": "COMPLETED", "folder": str(Path("completed") / channel_folder.name),
                               "completed_at": channel_state.get("completed_at") or utc_now()})
     else:
+        # A new unresolved upload means this channel is no longer fully archived.
+        # Move the updated manifest back to the working area and remove any stale
+        # older archive so the latest scan state cannot be lost on the next run.
+        if is_archived_folder:
+            working_destination = root / folder.name
+            if working_destination.exists():
+                shutil.copytree(folder, working_destination, dirs_exist_ok=True)
+                shutil.rmtree(folder)
+            else:
+                shutil.move(str(folder), str(working_destination))
+            folder = working_destination
+        elif archived is not None and archived.exists():
+            shutil.rmtree(archived)
         channel_folder = folder
         channel_state.update({"status": "IN_PROGRESS", "folder": folder.name})
 
