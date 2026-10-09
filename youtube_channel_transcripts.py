@@ -745,8 +745,8 @@ def safe_title_filename(title: str, video_id: str, kind: str) -> str:
 
 def item_has_saved_transcript(item: dict[str, Any], manifest: dict[str, dict[str, Any]], output_dir: Path) -> Path | None:
     record = manifest.get(item["id"], {})
-    filename = record.get("filename")
-    if record.get("status") == "SAVED" and filename:
+    filename = str(record.get("filename") or "")
+    if record.get("status") == "SAVED" and filename and Path(filename).name == filename:
         path = output_dir / filename
         if path.is_file() and path.stat().st_size > 100: return path
     return find_existing_transcript(output_dir, item["id"])
