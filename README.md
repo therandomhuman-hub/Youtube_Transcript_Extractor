@@ -63,3 +63,16 @@ A channel is not labeled complete if enumeration failed, a transcript is missing
 - `.youtube_rate_limit_state.json`: persisted YouTube 429 cooldown.
 
 For private/account-required videos, authorized browser cookies can be configured locally. Do not commit cookies or credentials to this repository.
+
+
+## Authentication for hosted runners
+
+The Isaacverse live test could enumerate the public channel tabs but YouTube returned `Sign in to confirm you're not a bot` for video metadata/transcript extraction from the GitHub-hosted runner. That is an access challenge, not proof that transcripts are unavailable. The runner now stops further video requests after that response rather than repeatedly requesting the same channel.
+
+If you have permission to use an authenticated YouTube session, you may configure an optional repository Actions secret named `YOUTUBE_COOKIES_BASE64` containing the Base64 encoding of a current Netscape-format cookies.txt exported from your own browser session. The workflow writes it only into the runner's temporary directory, passes it to yt-dlp, and does not add it to the repository or test artifact. On Windows PowerShell, you can copy the Base64 value using:
+
+```powershell
+[Convert]::ToBase64String([IO.File]::ReadAllBytes(".\\youtube-cookies.txt")) | Set-Clipboard
+```
+
+Add the secret under **Settings → Secrets and variables → Actions → New repository secret**. Treat cookies as login credentials: do not paste them into chat, source files, logs, or artifacts; use only a session you are authorized to use, and revoke/refresh the session if needed. Cookies may expire or still be challenged by YouTube. If that happens, run from a local or self-hosted machine where you can use your own authorized browser session. This project intentionally does not bypass YouTube access controls.
