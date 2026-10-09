@@ -63,7 +63,22 @@ def load_state(path: Path) -> dict[str, Any]:
 def locate_channel_folder(root: Path, channel_url: str) -> Path | None:
     preferred = root / extractor.fallback_folder_name(channel_url)
     if (preferred / "transcript_manifest.json").is_file():
-        return preferred
+        # Validate that a display-name folder belongs to this exact channel.
+        # This prevents channels with overlapping names/handles from sharing
+        # transcripts accidentally.
+        summary = preferred / "collection_summary.txt"
+        if summary.is_file():
+            try:
+                for line in summary.read_text(encoding="utf-8", errors="replace").splitlines():
+                    if line.lower().startswith("channel url:"):
+                        if line.split(":", 1)[1].strip().casefold() == channel_url.casefold():
+                            return preferred
+                        break
+            except OSError:
+                pass
+        elif preferred.name.casefold() == extractor.fallback_folder_name(channel_url).casefold():
+            # Safe for an interrupted first run in a unique handle-named folder.
+            return preferred
     for folder in root.iterdir():
         if not folder.is_dir() or folder.name.startswith("."):
             continue
@@ -199,6 +214,16 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
     for index, item in enumerate(entries, start=1):
         existing = extractor.item_has_saved_transcript(item, manifest, folder)
         if existing is not None:
+            record = manifest.get(item["id"], {})
+            if record.get("status") != "SAVED" or record.get("filename") != existing.name:
+                # Recover from a crash between transcript-file write and manifest
+                # update, or from a moved/renamed file. Otherwise the channel can
+                # remain IN_PROGRESS forever despite the transcript being present.
+                extractor.update_manifest(manifest_path, manifest, item, status="SAVED",
+                    source=record.get("source") or "Recovered existing transcript",
+                    language=record.get("language") or "", filename=existing.name,
+                    message="Manifest reconciled to existing transcript file")
+                saved_now += 1
             continue
         print(f"[{index}/{len(entries)}] {name or folder.name} — {item.get('title', item['id'])}", flush=True)
         try:
