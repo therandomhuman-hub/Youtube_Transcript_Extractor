@@ -279,7 +279,9 @@ def main() -> int:
     root = Path(args.output_dir).resolve()
     channels_file = Path(args.channels_file)
     if not channels_file.is_absolute():
-        channels_file = root / channels_file
+        # Relative config paths are resolved from the caller's working directory,
+        # independently of --output-dir (which may not exist yet).
+        channels_file = Path.cwd() / channels_file
     channels = read_channels(channels_file)
     if args.max_channels > 0:
         channels = channels[:args.max_channels]
