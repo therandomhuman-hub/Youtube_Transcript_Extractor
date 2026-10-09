@@ -23,3 +23,11 @@ def test_manifest_completion_requires_transcript_file(tmp_path):
     assert runner.manifest_complete(folder) == (False, 0, 1, 1)
     (folder / transcript_name).write_text("x" * 200, encoding="utf-8")
     assert runner.manifest_complete(folder) == (True, 1, 0, 1)
+
+
+def test_channel_url_normalization_and_parser():
+    import youtube_channel_transcripts as engine
+
+    assert engine.normalize_channel_url("https://www.youtube.com/@Example/videos") == "https://www.youtube.com/@Example"
+    vtt = "WEBVTT\\n\\n00:00:00.000 --> 00:00:01.000\\nhello everyone\\n\\n00:00:01.000 --> 00:00:02.000\\nhello everyone welcome\\n"
+    assert engine.parse_vtt(vtt) == "hello everyone welcome"
