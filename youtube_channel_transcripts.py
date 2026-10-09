@@ -456,12 +456,19 @@ def discover_channel(channel_url: str, browser: str | None, runtime_name: str | 
                 count, new_count = consume(info, page_url, kind)
                 print(f"Found {new_count} new item(s); {count} entries returned.", flush=True)
             except Exception as exc:
+                message = explain_error(exc)
+                # Some channels genuinely have no Shorts tab. Record that explicitly
+                # and do not let an absent optional tab block a valid full backfill.
+                if kind == "SHORT" and "does not have a shorts tab" in message.casefold():
+                    scan_results.append({"type": kind, "url": page_url, "status": "NO_TAB", "message": message})
+                    print(f"Shorts tab not present; continuing with videos: {page_url}", flush=True)
+                    continue
                 # The channel root is a useful fallback, not a required source
                 # when the /videos and /shorts tabs can be enumerated directly.
                 if kind in {"VIDEO", "SHORT"}:
                     failed_kinds.add(kind)
-                scan_results.append({"type": kind, "url": page_url, "status": "FAILED", "message": explain_error(exc)})
-                print(f"Scan failed: {explain_error(exc)}", flush=True)
+                scan_results.append({"type": kind, "url": page_url, "status": "FAILED", "message": message})
+                print(f"Scan failed: {message}", flush=True)
         if channel_id and channel_id.startswith("UC"):
             canonical = f"https://www.youtube.com/channel/{channel_id}"
             for kind, suffix in (("VIDEO", "/videos"), ("SHORT", "/shorts")):
