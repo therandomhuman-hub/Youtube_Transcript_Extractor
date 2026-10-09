@@ -1,2 +1,3 @@
 # Isolated live test target. Do not put production channels here.
+# Retest after channel-list path resolution fix.
 https://www.youtube.com/@isaacverse
