@@ -66,6 +66,32 @@ jobs:
           else
             echo 'No runner report was generated; extraction may have failed before channel processing.' | tee -a "$GITHUB_STEP_SUMMARY"
           fi
+      - name: Enforce live transcript test acceptance criteria
+        if: always()
+        shell: bash
+        run: |
+          if [ ! -f live_test_output/last_run_report.json ]; then
+            echo "FAIL: no live-run report exists."
+            exit 1
+          fi
+          python - <<'PY'
+          import json, sys
+          payload = json.load(open("live_test_output/last_run_report.json", encoding="utf-8"))
+          rows = payload.get("results") or []
+          row = next((x for x in rows if "isaacverse" in str(x.get("channel_url", "")).lower()), rows[0] if rows else {})
+          expected = 9
+          actual = int(row.get("video_count", 0))
+          known = int(row.get("known_items", 0))
+          saved = int(row.get("saved_total", 0))
+          unresolved = int(row.get("unresolved_items", max(0, known - saved)))
+          status = row.get("status")
+          print(f"Expected regular videos: {expected}; actual: {actual}")
+          print(f"Transcript coverage: {saved}/{known}; unresolved: {unresolved}; status: {status}")
+          if actual != expected or status != "COMPLETED" or saved != known or unresolved != 0 or row.get("scan_errors"):
+              print("FAIL: live test did not meet production acceptance criteria; inspect the generated audit artifact.")
+              sys.exit(1)
+          print("PASS: exact channel count and all transcripts saved.")
+          PY
       - name: Upload live test transcripts and audit
         if: always()
         uses: actions/upload-artifact@v4
