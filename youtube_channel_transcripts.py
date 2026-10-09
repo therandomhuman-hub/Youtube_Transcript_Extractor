@@ -415,8 +415,19 @@ def discover_channel(channel_url: str, browser: str | None, runtime_name: str | 
     found: dict[str, dict[str, Any]] = {}
     scan_results: list[dict[str, Any]] = []
     channel_name = None; channel_id = None; failed_kinds: set[str] = set()
+    class CaptureLogger:
+        def __init__(self) -> None:
+            self.errors: list[str] = []
+        def debug(self, message: str) -> None:
+            pass
+        def warning(self, message: str) -> None:
+            pass
+        def error(self, message: str) -> None:
+            self.errors.append(str(message))
+
+    scan_logger = CaptureLogger()
     params = {**base_ydl_params(browser, runtime_name, runtime_path, remote_components), "extract_flat": True,
-              "ignoreerrors": True, "playlistend": None}
+              "ignoreerrors": True, "playlistend": None, "logger": scan_logger}
 
     def consume(info: dict[str, Any], page_url: str, kind: str) -> tuple[int, int]:
         nonlocal channel_name, channel_id
@@ -448,11 +459,18 @@ def discover_channel(channel_url: str, browser: str | None, runtime_name: str | 
 
     pages = [(channel_url, "CHANNEL"), (channel_url.rstrip("/") + "/videos", "VIDEO"), (channel_url.rstrip("/") + "/shorts", "SHORT")]
     with yt_dlp.YoutubeDL(params) as ydl:
+        def extract_page(page_url: str, context: str) -> dict[str, Any]:
+            scan_logger.errors.clear()
+            info = rate_limiter.run(lambda: ydl.extract_info(page_url, download=False), context=context)
+            if not info:
+                details = " | ".join(scan_logger.errors[-3:])
+                raise DownloadError(details or "yt-dlp returned no data")
+            return info
+
         for page_url, kind in pages:
             print(f"Scanning {kind}: {page_url}", flush=True)
             try:
-                info = rate_limiter.run(lambda: ydl.extract_info(page_url, download=False), context=f"channel scan: {kind}")
-                if not info: raise DownloadError("yt-dlp returned no data")
+                info = extract_page(page_url, f"channel scan: {kind}")
                 count, new_count = consume(info, page_url, kind)
                 print(f"Found {new_count} new item(s); {count} entries returned.", flush=True)
             except Exception as exc:
@@ -475,8 +493,7 @@ def discover_channel(channel_url: str, browser: str | None, runtime_name: str | 
                 if kind not in failed_kinds: continue
                 retry_url = canonical + suffix
                 try:
-                    info = rate_limiter.run(lambda: ydl.extract_info(retry_url, download=False), context=f"channel retry: {kind}")
-                    if not info: raise DownloadError("yt-dlp returned no data")
+                    info = extract_page(retry_url, f"channel retry: {kind}")
                     consume(info, retry_url, kind + "_ID_RETRY"); failed_kinds.discard(kind)
                 except Exception as exc:
                     scan_results.append({"type": kind + "_ID_RETRY", "url": retry_url, "status": "FAILED", "message": explain_error(exc)})
@@ -484,8 +501,7 @@ def discover_channel(channel_url: str, browser: str | None, runtime_name: str | 
                 upload_id = "UU" + channel_id[2:]
                 url = f"https://www.youtube.com/playlist?list={upload_id}"
                 try:
-                    info = rate_limiter.run(lambda: ydl.extract_info(url, download=False), context="uploads playlist fallback")
-                    if not info: raise DownloadError("No upload playlist data")
+                    info = extract_page(url, "uploads playlist fallback")
                     consume(info, url, "UPLOADS_FALLBACK"); failed_kinds.discard("VIDEO")
                 except Exception as exc:
                     scan_results.append({"type": "UPLOADS_FALLBACK", "url": url, "status": "FAILED", "message": explain_error(exc)})
