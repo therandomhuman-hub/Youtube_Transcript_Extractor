@@ -66,7 +66,7 @@ def test_completed_channel_is_updated_in_place(tmp_path, monkeypatch):
     result = runner.process_channel(channel_url, root, completed, updates, state, "deno", "/usr/bin/deno", set(), False, "small", None)
 
     assert result["status"] == "COMPLETED"
-    assert result["folder"] == str(channel)
+    assert result["folder"] == "completed/Example Channel"
     assert channel.is_dir()
     assert not (root / "Example Channel").exists()
     assert copy_calls == []
