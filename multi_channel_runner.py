@@ -322,10 +322,16 @@ def main() -> int:
         print(json.dumps(result, ensure_ascii=False), flush=True)
     safe_json_write(root / "last_run_report.json", {"run_at": utc_now(), "configured_channels": len(channels),
         "processed_channels": len(results), "results": results})
+    auth_blocked = sum(int(x.get("auth_required_count", 0) or 0) > 0 for x in results)
     print("Run summary: " + json.dumps({"processed": len(results),
         "completed": sum(x.get("status") == "COMPLETED" for x in results),
         "in_progress": sum(x.get("status") == "IN_PROGRESS" for x in results),
+        "auth_blocked_channels": auth_blocked,
         "errors": sum(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results)}), flush=True)
+    # Preserve the report and let the workflow's always() commit step persist state,
+    # but signal failure to CI/monitoring if YouTube explicitly requires sign-in.
+    if auth_blocked:
+        return 1
     return 1 if results and all(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results) else 0
 
 
