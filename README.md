@@ -10,6 +10,7 @@ Scheduled, resumable transcript collection for every channel listed in [`channel
 - Resumes incomplete work from each channel's `transcript_manifest.json` and skips transcripts already saved.
 - Stores transcripts in a folder named after the channel while a full backfill is in progress.
 - Moves a channel directory to `completed/<Channel Name>/` only when every known video has a valid saved transcript and no channel-scan errors remain.
+- Generates or refreshes a deterministic `completed/<Channel Name>.zip` beside each completed channel folder; the ZIP contains the transcript files, manifest, audit CSV, and collection summary.
 - Copies newly found transcripts into `updated/<Channel Name>/`, with a `new_transcripts.json` index.
 - Reports channel/video state in `channel_state.json`, `last_run_report.json`, per-channel audit CSV and `collection_summary.txt`.
 - Persists rate-limit cooldown state to reduce repeat requests after HTTP 429 responses.
@@ -27,6 +28,7 @@ youtube_channel_transcripts.py
 channel_state.json
 last_run_report.json
 completed/<Channel Name>/*transcripts + manifest/audit/summary*
+completed/<Channel Name>.zip (generated ZIP snapshot of the matching channel folder)
 updated/<Channel Name>/*new transcript copies + new_transcripts.json*
 <Channel Name>/*working transcript backfill until complete*
 ```
@@ -80,4 +82,17 @@ Add the secret under **Settings → Secrets and variables → Actions → New re
 
 ## Production readiness status (2026-10-09)
 
-The repository has a detailed [production-readiness audit](PRODUCTION_READINESS_AUDIT.md), including the live `@isaacverse` test. The public channel enumeration returned **9 regular videos and 0 Shorts**, matching the expected count. The live transcript job did **not** pass: GitHub-hosted YouTube requests were challenged with “Sign in to confirm you're not a bot,” and no authorized cookie secret was configured. As a result, **0/9 transcripts were saved** in that test. The acceptance gate fails intentionally until a live run saves all nine transcripts. Configure the optional `YOUTUBE_COOKIES_BASE64` repository Actions secret with your own authorized session or use a local/self-hosted runner, then rerun the isolated live test.
+The latest isolated live test for [@isaacverse](https://www.youtube.com/@isaacverse) **passed** after the authorized cookie secret `YOUTUBE_COOKIES_BASE64` was configured in repository Actions secrets.
+
+- Workflow: [Isaacverse live test](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956540873)
+- Regular videos discovered: **9/9**
+- Transcript files saved: **9/9**
+- Unresolved items: **0**
+- Authentication-blocked items: **0**
+- Channel status: `COMPLETED`
+- Acceptance gate: **PASS**
+- Results artifact: [download transcript output and audit](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956540873/artifacts/11632157521)
+
+The live runner successfully decoded the authorized cookie secret into its temporary workspace. Cookie contents are never included in the repository or test artifacts. The test validates this channel and this session only; it does not guarantee access to all 18 configured channels or future runs. YouTube may expire or challenge a session, and the workflow is designed to stop rather than evade access controls.
+
+Every scheduled archive run now refreshes deterministic ZIP snapshots for completed channel folders before committing archive/state changes. The isolated live-test workflow also includes a ZIP snapshot in its uploaded results artifact.
