@@ -38,6 +38,19 @@ jobs:
         run: |
           test "$(grep -Ev '^[[:space:]]*(#|$)' live-test.txt | wc -l | tr -d ' ')" = "1"
           grep -F 'https://www.youtube.com/@isaacverse' live-test.txt
+      - name: Configure optional authorized YouTube cookies
+        env:
+          YOUTUBE_COOKIES_BASE64: ${{ secrets.YOUTUBE_COOKIES_BASE64 }}
+        shell: bash
+        run: |
+          if [ -n "$YOUTUBE_COOKIES_BASE64" ]; then
+            printf '%s' "$YOUTUBE_COOKIES_BASE64" | base64 --decode > "$RUNNER_TEMP/youtube-cookies.txt"
+            chmod 600 "$RUNNER_TEMP/youtube-cookies.txt"
+            echo "YOUTUBE_COOKIES_FILE=$RUNNER_TEMP/youtube-cookies.txt" >> "$GITHUB_ENV"
+            echo "Authorized cookie file configured from repository secret."
+          else
+            echo "No cookie secret configured; live transcript extraction may be challenged."
+          fi
       - name: Run live discovery and transcript extraction
         timeout-minutes: 300
         env:
