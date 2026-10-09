@@ -27,6 +27,7 @@ def main() -> int:
     saved_total = int(match.get("saved_total", 0))
     known = int(match.get("known_items", 0))
     unresolved = int(match.get("unresolved_items", max(0, known - saved_total)))
+    auth_required = int(match.get("auth_required_count", 0))
     folder = Path(str(match.get("folder", "")))
     if not folder.is_absolute():
         folder = Path.cwd() / folder
@@ -50,6 +51,7 @@ def main() -> int:
              f"- Regular video count: **{video_count}** (expected {args.expected_videos}: **{video_status}**)",
              f"- Shorts count: **{short_count}**", f"- Total unique manifest items: **{known}**",
              f"- Transcripts saved: **{saved_total}/{known}**", f"- Unresolved items: **{unresolved}**",
+             f"- Items blocked by authentication challenge: **{auth_required}**",
              f"- Scan errors: {json.dumps(match.get('scan_errors', []), ensure_ascii=False)}",
              f"- Output folder: `{folder}`", "", "## Per-video transcript audit", "",
              "| Type | Video title | Video ID | Status | Language | Transcript filename |",
@@ -69,7 +71,7 @@ def main() -> int:
     print(f"LIVE_TEST_STATUS={match.get('status')}")
     print(f"LIVE_TEST_REGULAR_VIDEOS={video_count}; EXPECTED={args.expected_videos}; CHECK={video_status}")
     print(f"LIVE_TEST_SHORTS={short_count}; UNIQUE_ITEMS={known}")
-    print(f"LIVE_TEST_TRANSCRIPTS_SAVED={saved_total}/{known}; UNRESOLVED={unresolved}")
+    print(f"LIVE_TEST_TRANSCRIPTS_SAVED={saved_total}/{known}; UNRESOLVED={unresolved}; AUTH_REQUIRED={auth_required}")
     print(f"LIVE_TEST_AUDIT_FILE={output}")
     return 0
 
