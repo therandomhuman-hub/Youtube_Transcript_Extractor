@@ -76,3 +76,8 @@ If you have permission to use an authenticated YouTube session, you may configur
 ```
 
 Add the secret under **Settings → Secrets and variables → Actions → New repository secret**. Treat cookies as login credentials: do not paste them into chat, source files, logs, or artifacts; use only a session you are authorized to use, and revoke/refresh the session if needed. Cookies may expire or still be challenged by YouTube. If that happens, run from a local or self-hosted machine where you can use your own authorized browser session. This project intentionally does not bypass YouTube access controls.
+
+
+## Production readiness status (2026-10-09)
+
+The repository has a detailed [production-readiness audit](PRODUCTION_READINESS_AUDIT.md), including the live `@isaacverse` test. The public channel enumeration returned **9 regular videos and 0 Shorts**, matching the expected count. The live transcript job did **not** pass: GitHub-hosted YouTube requests were challenged with “Sign in to confirm you're not a bot,” and no authorized cookie secret was configured. As a result, **0/9 transcripts were saved** in that test. The acceptance gate fails intentionally until a live run saves all nine transcripts. Configure the optional `YOUTUBE_COOKIES_BASE64` repository Actions secret with your own authorized session or use a local/self-hosted runner, then rerun the isolated live test.
