@@ -77,7 +77,7 @@ Treat browser cookies like passwords. Do not commit them or paste them into chat
 
 ## CI verification
 
-- Latest code validation before this audit report: [Validate transcript project](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956326039) — **passed, 11 tests passed**.
+- Latest code validation after the audit hardening: [Validate transcript project](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37957139725) — **passed, 11 tests passed**; validation now uses the upgraded Node 24-compatible checkout/Python actions.
 - The live extraction gate is intentionally **failing** while the external authentication prerequisite is missing. That is the truthful result; the project should not be labeled fully production-ready until the live test passes.
 
 ## Overall assessment
