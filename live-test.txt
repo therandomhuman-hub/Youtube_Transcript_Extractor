@@ -1,3 +1,3 @@
 # Isolated live test target. Do not put production channels here.
-# Final validation with upgraded Node 24 compatible workflow actions.
+# Final post-audit live test after all reliability fixes, with no credentials committed.
 https://www.youtube.com/@isaacverse
