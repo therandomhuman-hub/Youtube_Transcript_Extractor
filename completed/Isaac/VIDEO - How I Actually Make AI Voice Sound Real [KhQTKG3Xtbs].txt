@@ -1,0 +1,169 @@
+Title: How I Actually Make AI Voice Sound Real
+Channel: Isaac
+Type: VIDEO
+Video ID: KhQTKG3Xtbs
+URL: https://www.youtube.com/watch?v=KhQTKG3Xtbs
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T17:25:37+00:00
+
+Kind: captions Language: en So, in this vid- no, wait. So, in this video, we’re going to… break down the… Ugh,
+that sounds terrible… Still recording? I can’t get it right. I just don’t sound… like a youtuber. Good. Good?
+What’s good about that? Have you heard an advice, “if you’re homeless, just buy a house”. What the f? That
+doesn’t make any sense. I mean if you don’t sound like a youtuber, then just use something that does. And just
+like that, I went down the rabbit hole of… AI voice generators. So… this is how I actually make an AI voice
+sound… real… Okay, look. Before we get into the technical stuff, if you wanna make a realistic voice with AI,
+you need to understand what the hell makes human voice realistic in the first place. Really, like why does
+your brain think you're listening to a real person right now instead of a computer pretending to be a ginger
+dude with a fancy suit? Well, if you break it down, there are 4 elements. If I keep the same tone throughout
+the entire video with no ups and downs in my voice, that would make it sound robotic. I talk like that in real
+life… Oh, man, this robot can talk more human than me? Anyways! If all of a sudden I change my tone from
+monotonous to super excited, that would make it sound more human. You probably heard that cutting all the
+pauses in your video boosts retention. Even though that’s kinda right, it’s not worth making yourself look
+like a lifeless robot that’s been controlled by the algorithms. Instead, pause on some important points… to
+make your message… more impactful… And make your AI voice sound more natural, of course. Just like making
+pauses, emphasizing important words in your script… no… EMPHASIZING important words in your script, is also a
+powerful way to make your AI voice sound more realistic. And lastly, of course, if you use ChatGPT to write
+your entire script, no matter how realistic your AI voice is, at some point, it will start to sound robotic.
+And yeah, if you write your scripts with AI, and think that nobody knows… trust me… we know… Alright, so with
+these 4 elements, you can cook a 96.2% pure ai voice. These are the main things you need to keep in mind while
+creating your voiceovers. And we’ll use each of this in a minute while creating the actual voiceover. But
+before that, we need to… Choose a software. Look, there are so many AI voice generators out there right now
+that I just gave up counting. I tested almost every single one for this video, and you know what? Most of them
+are… fine. They do a decent job at replicating a human voice. But the one I always come back to, is called,
+ElevenLabs. So that’s gonna be the software we’ll use for this video. And no, they didn’t pay me to say this.
+I wish they did, but they didn’t. I’ve been using it since I started this channel, and you’re seeing… or
+hearing how realistic it sounds. Be honest. You sometimes forget it’s not a human voice, right? You… you
+don’t? Okay, nevermind… There’s a link in the description if you wanna check it out and follow along with your
+own script. Just create and account, and try the techniques we’re gonna use by yourself. Okay, fine. Let’s do
+this. So you know the theory. Now, what do you need? A voice! This is an important step. Because once you pick
+a voice, you're basically married to it. All your future videos. That voice. So don't just click the first one
+you see and call it a day. You’re gonna need something solid. Take your time. Pick a nice one. Now there are a
+few ways to create a voice. First, if you wanna use your own voice, you can go with this route. You may think
+“why would I clone my own voice when I can just… use my throat”, but it’s gonna be a really important step for
+the end of the video. Just let me cook. Click the ‘voices’ tab. ‘clone a voice’, then ‘instant voice clone’,
+and upload a sample. If you got time, you can create a professional voice clone as well. But keep in mind that
+it requires at least 30 minutes of voice sample. Once you generated your voice clone, “you can use it wherever
+you want. that’s crazy”. Wait, actually… yeah, that’s completely illegal. You can’s clone someone else’s voice
+without their permission. It’s like, against every terms of service ever written. So you better use it with
+your own voice only. And, uh, Finzar, if you’re watching this… please don’t sue me, dude. get the hell out of
+here! seems like no ai can say it like the original Now if you don’t like your own voice, you can choose one
+of the voices from the huge voice library here. Anyways, so, the most asked question in this channel, after
+“how you edit your videos”, is “which voice are you using in ElevenLabs”. Well, the voice you’re hearing right
+now, isn’t from the voice library or a cloned voice… It’s a custom voice! Most tutorials don’t mention this,
+but you can actually create an entirely new unique voice in ElevenLabs. It’s usually as realistic as the ones
+from the voice library, while being not available to everyone with one click. So it’s a great choice for
+creating a brand “that doesn’t use this voice”. No one else can use it for their channel. Uhm, well, if they
+don’t clone your voice with the cloning feature, but you get my point, right? In the ‘voices’ tab, click
+‘create a voice’, ‘voice design’. When I created my voice a few years ago, this feature was just a single
+button that you can click, and hope for a good voice. But now, you can describe the voice in your mind however
+you want. Like “a young man in his 20s, american accent, speaking with quirky, but charismatic style. speaks
+with a lot of emotions and variances in his speech, changes the tone and speed continuously throughout the
+speech”. I don’t know, something like that. And let’s reduce the guidance a bit to see what it comes up with.
+Damn, can I change my voice to that? No? Okay… Now, if you found a voice that works for you, we can move on
+to… Generating the actual voiceover. At this point, you have a nice voice, and you know what realistic voice
+sounds like. So you can just copy your script, paste it to Elevenlabs, and hit ‘generate’ wait, hold on for a
+second. Of course, you can do it. You may even get a pretty good result from it as well. But if you do that,
+after listening to it for a few minutes, something will feel off. And the viewers gonna feel it as well. I
+don’t know what it is, but it’s there in all AI voices. It’s like they follow a pattern that just… gives it
+away… And once you notice it, you can’t unnotice it. So let me show you how I generate my voiceovers. It takes
+much more time, but it’s the only way I found to get rid of that uncanny feeling. And it’s probably the secret
+sauce that makes you wonder how this ginger dude sounds so realistic. Alright, enough yapping, let’s get
+started. First off, put the script down slowly. We have to choose a voice model first. V3 is their latest
+model. It can do crazy stuff like making the voice giggle, whisper, or be excited. It sounds great, right? But
+when I tried it with my own voice… “it sounded like this”. Who the hell is that?! That’s like… my evil twin or
+something. I even tried it with other voices, and every time, it slightly changes the voice itself. Except for
+a few voices that are designed for this model. So you can give them a try if you want. It’s still in the alpha
+stage, so hopefully it will be more stable in the future versions. But it’s not really usable right now. So I
+use the V2 model instead for all my videos. Unlike V3, this model has a few more sliders. Increase the speed,
+reduce the stability, and… turn of that annoying music! I’m trying to focus here, dude. Thank you. Drag the
+similarity to something like 70%, and increase the style exaggeration. Now select just a few sentences from
+your script, and paste it to Elevenlabs. What did we needed for a realistic voice? Changing tone and speed,
+pauses, emphasis, and writing like a human. I assume you already nailed the last part. So let’s focus on the
+other three. Using 3 dots makes the voice sound disappointed, or confused. To make it more excited, use
+exclamation marks. It always works. If it doesn’t, use more exclamations! We’ll play with the pauses in the
+editing, but you can try 3 dots or commas to make them a bit more natural. And for emphasizing important
+words, write them in all caps. Another example, this is how it sounded like before making the changes. “Say my
+name. You’re Isaac. You’re goddamn right” Pretty normal. And this is how it sounds like after making the
+changes. “Say my NAME! You’re ISAAC… You’re GODDAMN RIGHT!!” Sounds much better, but if you’re not happy with
+how the result turned out, you can generate it again a few more times. “you’re goddamn right. you’re goddamn
+right. you’re goddamn right” But why are we generating a few sentences at a time? Couldn’t we do the entire
+script at once? Well, we could, but we shouldn’t. One reason is, if it generates a bad take, we can easily
+regenerate it without wasting too much credits. But the second reason? This is the secret sauce. If you
+realized, each time you hit generate, “the tone changes slightly. the tone changes slightly” even though we
+input the same text. So, we’re taking advantage of that. For each generation, you get 2 extra regenerations
+for free. Use those free generations, and download them as well. You’re gonna see why in the editing part.
+With every batch we generate, we get a slightly different tone and speed. That’s just like how normal humans
+sound like. So when combined together in the edit, it makes the final result sound more natural and fixes that
+uncanny feeling we talked about earlier. After knowing these, it just takes a few hundred more generations,
+and you get this. Yes, it takes ages, but it’s like cooking. Small changes make a huge difference. Now put
+them all in a single folder, select them all, and rename. That’s much more organized. Now we can move on to
+the next step. --- I’m gonna show this in Premiere Pro, but you can do it in any editing software that has a
+timeline. Import the voiceovers you generated to Premiere Pro, and start choosing the best takes. Don’t worry
+about timing or anything else at this point. Just line the voiceover based on your script. If you downloaded a
+few versions of the same sentence, listen to all, and choose the one that fits the context better. But the
+real magic, happens when you chop some parts from each generation, and combine them together. For this
+sentence, I generated 3 versions. Let’s listen to each one. But the real magic, happens when you chop some
+parts from each generation, and combine them together. But the real magic, happens when you chop some parts
+from each generation, and combine them together. But the real magic, happens when you chop some parts from
+each generation, and combine them together. Now they sound good on their own, but to make it more human-like,
+I took the best sections from each version, and got the final result. But the real magic, happens when you
+chop some parts from each generation, and combine them together. Once you got a single long straight line,
+start cutting the pauses. Use the second line to start the next sentence right after the last one ends. But
+don’t forget to add pauses and intentional spaces for the important parts of your video. Now, even though
+Elevenlabs had a speed slider in its editor, you may realize just now that your voiceover is too slow, or too
+fast. Don’t worry, it happens… I mean I’m not the only one, right? Premiere Pro allows you to change the
+speed, but it turns you into a chipmunk if you do that. Oh, there’s an option to ‘keep the pitch’. How’s that
+sound? Oh great, it distorts the voice now. Is it really that hard to make a speed changer, Adobe? Fine, I’ll
+do that myself… Great, the voiceover is almost ready. But we can make it sound more professional. Here’s
+something new I learned for this video. Take the parametric equalizer effect, add a high-pass filter, increase
+the h value, find echo-y frequencies, drag them down, take this slider, find a point where… Or, just drag and
+drop the preset I made! I also added a few fun voice effects and other useful stuff as well for you to try
+out. So feel free to download the link in the description. Well, I think we’re done here. But wait a minute…
+What does youtube say? Does it allow using AI voices? Even more important, does it allow monetizing videos
+with AI voices? Yes. What, you expected a long list of explanations? Haha. I mean as long as you’re making an
+original content, not funny video compilations, yeah, you should be fine. But should you be fine? I mean…
+should we all just start using AI voices now? What about, I don’t know… authenticity? Wow… that’s… better than
+I could ever do… See? Told you it would work. Sounds great, man! Yeah, but… it’s just… not me. What’s wrong,
+man? You’re becoming a youtuber. Wasn’t that what you wanted? I don’t know, it feels like cheating. It feels
+more like I’m becoming a fraud, dude. A fraud? You wanna know what’s fraud? That… Silence… Having something
+worth saying, and keeping it locked up because you’re too scared of how it sounds. THAT’S fraud. Who says it
+should sound like you? As long as it’s your own thoughts, who cares how it sounds, huh? Come on, we don’t have
+time for this. He was right. I was so obsessed with how I sound, I was forgetting the most important part.
+Actually saying something valuable… Yeah I mean I could end this video here, and call it a day, but that’s not
+all. I kept the best one for the last… I get it now. It’s a great solution if you don’t have a mic, or if
+english isn’t your first language. I mean at least that’s progress, but you’re thinking too small, dude.
+You’re still thinking about replacement. Don’t you see? Everything you learned, this isn’t just about finding
+a voice. There’s a bigger picture. Man, talk in english, I don’t understand. Okay, name a big youtuber. I
+don’t know, does MrBeast count? Too cliche, but okay. When did his videos start to get viral? I mean, he had
+over 10M subs in 2018. Yeah, but I mean, super viral. Look here. 2023. Yeah that’s quite a jump. Now, when did
+he start dubbing his videos? 2023. Exactly! Ruhi Cenet. Mark Rober. Joe Hattab. Anyone who started dubbing his
+videos to other languages, suddenly doubled, tripled their views and subscribers. Does it really make that
+much difference? Think about it. There are 2.5 billion active youtube users in the world. Around half a
+billion of them speaks english. That’s less than 20%. If we just add up the next 5 most known languages to
+this, it makes up almost ha- Half of the entire youtube! Do you see the potential? Sheet! Well, that was the
+twist. AI voiceover isn’t just for narrating your scripts for you. It’s real superpower is dubbing your
+videos. You can dub your videos, and get a massive audience. To try it myself, I added just 2 languages to my
+last video, and the results were pretty clear… Oh, it’s actually blurry, heheh. Don’t worry, I’ll show it
+after showing how to dub your videos. As an example, let’s take my last video. I already dubbed it into
+Spanish and Hindi, so let’s do Portuguese now. Before we touch any AI, we need to separate the ingredients.
+After finishing your video, go to your editing timeline. Mute everything except the voiceover and export as an
+MP3. Next, do the opposite. Mute the voiceover, and export an MP3 with only the music and sound effects.
+You’ll see why in a second. Now go to ElevenLabs and click the ‘Dubbing’ tab. Create a new dub. Select your
+original language, the target language, and upload that voiceover we just exported. Hit generate, and go make
+yourself a coffee. It takes a few minutes. Once it’s done, download the file and drag it back into Premiere
+Pro. Here’s what you need to build here. The top, is your original native voice. We’re gonna use this as a
+guide for timing. Middle, is the new AI Portuguese voice. And the bottom line, is for music and sound effects
+we exported earlier. Line them up so the timing matches the visuals. Once it sounds good, mute the original
+English track, slap my preset on the Portuguese track to make it sound crispy, and export just the audio. Now
+the only thing left, is to add it to your video. In YouTube Studio, click ‘languages’, and choose the video
+you just dubbed. Make sure youtube didn’t automatically dubbed to that language with their google translate
+voice. If so, just delete it from the menu here. Then click here, select the dubbed language, and upload your
+audio file. Also, translate your video title and description with ChatGPT to reach the 99.1% purity. And, you
+basically unlocked a new country! Keep repeating it for other languages as well, and you tripled your
+potential audience size. Now as promised, here’s what it looked like in the analytics tab… So… yeah. It
+doesn’t look that impressive, does it? I mean, where’s the millions of views? Well, hold on. If you look at
+the views by audio track instead… THIS, is how it looks like. Here’s Youtube’s auto-dubbed Hindi track. And
+THIS, is where I added the Elevenlabs version. That’s what I’m talking about. And this is the difference in
+spanish dub. Wow… that’s… thousands of people… who watched my video! People who would have seen none of it if
+I had listened to that voice in my head. Turns out, Steven was right…

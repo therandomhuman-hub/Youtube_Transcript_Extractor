@@ -1,0 +1,218 @@
+Title: How I Actually Edit Viral Videos
+Channel: Isaac
+Type: VIDEO
+Video ID: ciAywjey0cY
+URL: https://www.youtube.com/watch?v=ciAywjey0cY
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T17:26:20+00:00
+
+Kind: captions Language: en Where's the editing tutorial? How do you edit? Bro, are you using Adobe to edit
+your videos? How do you edit so good? Your editing style is crazy, man. Where do you edit videos? How to edit
+smooth like you? How to edit? Bro, we need a tutorial… Yep, this is the editing tutorial. But why the hell did
+it take 9 months to make it? Well, it all started one year ago… An editing tutorial? From me? Really? Why not?
+Have you ever checked your views? People love your videos, man. Look, I know a thing or two about editing, but
+making a tutorial?! There are fricking editing wizards out there making stuff I can’t even imagine! I mean
+look at this guy. How the hell does he do that?! The best I can do is “how to edit slightly above average”
+tutorial… And? Isn’t that the point? You don’t need to be an editing wizard. You just need to be… You… Someone
+who’s been through the journey. What do you mean? Remember your early days, man. You knew nothing about
+editing. I’ve been there. Wait. You were there? I mean for the most part… Oh… Everything you know, you learned
+the hard way. Wouldn’t you want someone to guide you through that path back then? Yeah… Just keep it real.
+Show the way for past Isaac. How you edit your videos, from start until the end. The stuff you learned along
+the way. And hey, who knows, maybe I’ll send it back to him. Alright. That’s my man! But if I’m doing this,
+I’m making the best editing tutorial YouTube has ever seen… Yeah, I know, you’ve probably heard this a million
+times and rolling your eyes. But different audiences want different editing. You can’t use a MrBeast style
+editing in a Ruhi video. It just doesn’t feel right. Now, every editing tutorial is saying this exact same
+thing, but the problem is, all of them proceed to explain both editing styles in theory and never actually
+give you practical advice. You know why? Because they don’t want to lose the other side of their viewers. It’s
+all about keeping the retention high! I know, it’s not a wise choice for retention, but I don’t wanna be one
+of them. I want to actually teach you something. So instead of juggling 2 different editing styles and giving
+random tips from each one, let’s pick the one that I’m better at, which is, fancy editing! The editing like
+this… and this. I want you to walk away from this tutorial actually knowing how to edit, not watching another
+video that explains the same theory for the 100th time. You wouldn’t wanna sit down to edit and realize
+halfway through that your script isn’t good enough, or even worse, the video idea doesn’t make sense! If you
+wanna edit viral videos, everything else should be made with that in mind as well. An amazing edit can’t save
+a boring script, or a bad video idea. So let’s quickly fix these at first. Think about your target audience.
+Is the idea interesting for them? Would someone click on this video if they didn’t know you? I already covered
+it in another video. For the script, start by outlining all the points you want to cover in the video, and
+write everything that’s on your mind. Most youtubers stop here. But after writing everything, I always come up
+with a secondary story. Something deeper. Almost like a short film that runs alongside the main video. After
+that, create a structure. Cut out useless parts, ask ChatGPT to make it easier to understand, and build some
+kind of progress from the start until the end of your video. We’re gonna dive a lot deeper into scripting in a
+future video, so I’ll not waste much time on that here. Just record your voice on a microphone, or like me,
+use an AI voice generator like Elevenlabs. Create a voice, and paste everything in your script, but little
+little, in the middle. Some people still think that AI voices are too robotic, but trust me, it has improved a
+lot. I mean I can get random emotions like SIUUU. See? You can check out Elevenlabs with the link in
+description. It’s not sponsored by the way. I just get a small commission if you use my link. And it’s a great
+tool. SIUUU! Haha. Sorry… Okay, let’s move on. Here’s the thing about filming… I have absolutely no clue. I
+get all my footage from the internet… So… yeah… Look at other youtubers’ videos, but even better, watch a good
+movie before editing. Uhh, just a heads-up, don’t watch 5 seasons of Breaking Bad just to get inspired for one
+video. Don’t ask me how I know… With all the rise of short-form content, some people haven’t even sat and
+watched a 2 hour long movie in years. But if you find any type of movie that you like, and watch it with your
+editor's eye, you’ll get so much inspiration that you can’t even make that much video! Transitions,
+storytelling, montages, cool camera angles, you name it. Most of this stuff hasn't even been implemented once
+on youtube yet. So, you want originality? This is where you get them. Even though it’s not gonna be as good as
+a masterpiece like Morbius, you’re making your own movies here. Once these are ready, move on to the next
+step. When I say assets, I’m talking about music, sound effects, overlays, and presets. It takes hundreds of
+trial and error to find the right ones. But if you don’t have time for that, I put together all the assets I
+use to edit my videos. Here’s where I get them from. Now, this part may seem a bit unnecessary, but it made
+everything way faster for me in the actual editing. Take your script, and color code what’s happening in each
+sentence. I like to divide it into 6 categories, but you can adjust this based on your style. Once you’re done
+with the entire script, collect all the elements you need for each part. I marked this part as ‘screen
+record’. So now I’ll gather all the screen recordings for this section. The same process for images, videos,
+and everything else. And for the animations, uhh… Just keep it there. I’m gonna explain it in a few minutes.
+After you went through the entire script and got everything you need, you’re ready to move on to… Alright,
+finally, it’s time to open Premiere Pro. Click create a new project. Create again, and add a new sequence. I
+like to make my videos in 1920 by 1080, which is high enough so no one’s counting pixels, and low enough to
+not burn my computer. Though you can use 4k if you got a beast in your house. Oh, and 60fps. Create your
+workplace by dragging windows around, however you’re comfortable with. Personally, I like this layout, which
+has the main video in the center, timeline at the bottom, footage and effects here, effect controls and raw
+footage monitor here. If you’re missing any windows, just enable them from the menu here. Next up, import your
+voiceover, drag to the timeline, cut it based on the script, and remove any awkward pauses or moments where it
+drags the flow. Okay, this one might not fit for everyone's workflow, but I like adding the music right after
+the voiceover. I know, most editors save it for the end, but I think it gives more clarity on the vibe you’re
+going for in the entire edit. Plus, it lets you make cuts based on the beat. And most importantly, it’s more
+fun! So, where to find good music? I used to grab no copyright music from youtube for a long time, but lately,
+I’ve been hooked on Epidemicsound. It’s just more convenient to find music and sound effects based on every
+detail, and you don’t need to worry about copyright issues. One thing I didn’t realize until editing this
+video, is that you can copy and paste your favorite songs from Spotify, and get similar music. I mean what the
+hell? Why didn’t anyone told me that?! Once you’ve got your music, drop it to the timeline, and adjust the
+volume based on the voiceover. Now comes the fun part. Remember the highlights on the script? Start layering
+in all your videos, images, and screen recordings based on the highlights. It’s not necessary if you’re new to
+editing, but it’s a good idea to experiment with some cuts based on the music beats. It gives your edit that
+extra punch and keeps it flowing easier. Another little trick I like to use, is just plain text on a black
+background. Just like I’m doing right now. We’re gonna dive into text in a minute, so leave it blank for now.
+Okay, looking good so far! But remember? You highlighted one more thing in your script. Animations… Alright,
+here’s the truth. Animation is not as easy as it looks. Especially if it’s your first time. But don’t worry,
+we’ll break it down together. So, in the script that you highlighted, let’s take the first animation. I’m just
+gonna take a cool one from my previous videos. And show you the exact method I use to make them go viral. Grab
+a pen and paper, and imagine the animation. You’re probably thinking of something that walks the viewer
+through the method step by step, right? Picture this. We’ll have some boxes connected to each other by arrows,
+like a flowchart. Inside each box, is a heading, but they’re blurred out for now. Then, we will zoom into the
+first box, and boom. The text is revealed. That’s a solid one. Let’s create it. Now there are two ways to
+create the animations. Easy way, and hard way. Let’s start with the first one. If your animation is too
+simple, and not much fancy stuff is going on, you can create it in Canva. I made my first video’s animations
+using only Canva. Just create the animation you sketched, with shapes, text, and graphics. For our example, it
+might look something like this. Once you’ve got your design set, add some animations. And that’s it! Keep in
+mind, if you want to add some zoom-ins to them in the edit, export the video in a higher quality. Or it may
+look like this. That works for simple animations, but if you want to edit like a pro, it’s time to dive into…
+After Effects… But here’s your warning. This route gets much more complex than Canva. So it’s okay to freak
+out if it’s your first time using it. Every editor has been there. Honestly… I think I'm still freaking out
+each time I see it... OH! Sh… There’s too much detail to explain here, so I’m gonna do a separate video for
+creating more complex animations in the future. But the idea is the same as Canva. Use tools like text,
+shapes, or pen to create the base of your animation. Once you have something similar to your sketch, adjust
+them based on the voiceover. Add typewriter animation to texts, and trim paths to move shapes. Lastly, add
+some glow effect to make them pop. At least that’s what I do. It takes more time, but the result is next
+level. You can repeat the same process for all the other animations as well. Sketch, create, animate. Until I
+make the full animation tutorial, if you want to do some research yourself, I shared some keywords and
+tutorials from other creators that might help. And once all the animations are ready, drop them to the
+timeline as well. Line them up with your voiceover, and we’re one step closer to a polished final edit. By
+now, your timeline should be looking pretty solid. But here’s the thing. The first rough cut is never perfect.
+So if you have time, go back and watch it again. Trust me, you’ll spot points to improve. Add extra
+animations, screen recordings, some funny memes. Sometimes I even rewrite parts of the script if a better idea
+pops in my head. But it’s not about just adding things. At some point, you’ll need to cut off useless parts.
+Look out for boring lines in the script, unnecessary footage, or bad jokes. Cut everything that doesn’t serve
+the video’s main goal. And yeah, I only keep the good jokes. You wouldn’t wanna see the bad ones… Don’t, hey,
+don’t show it! So you added new stuff, removed useless stuff, but that’s still not enough. There’s one more
+thing you need... Space. I know, I know, you always heard that people’s attention span is shorter than a
+jellyfish, and if you wanna make a viral video, you’ve gotta keep up the pace. Get to the point as fast as
+possible, and move on to the next one. Because if you slow down for too long… you’re gonna be… boring… So cut
+every single millisecond where something interesting isn’t happening, fry people’s dopamine receptors, make
+them hate their life after watching your video, give them a heart attack… and maximize your retention… But
+here’s the twist. Cutting every space may mean cutting the actual story from your video… So how do you balance
+it? The best way to summarize this point is, ‘People don’t have shorter attention spans. They just have higher
+standards’. So make the stop worth waiting for… Alright, we’re done with the boring parts. Now it’s time to
+get our hands dirty. Before we dive in, just remember this. Good editing doesn’t mean using as many effects as
+you can. It means using it to complement what’s being said in the video. So you need to resist the urge to
+throw in every flashy thing you find in the effects tab. Sometimes you need to zoom in and out to highlight
+something on the screen, or just to add a little movement to your video. To do that, use a transform effect,
+add scale and position keyframes to the start, move forward in the timeline, and adjust where you want the
+zoom to end. Sure, it gets the job done, but it’s not smooth at all. To make it flow better, expand the
+effect, and make the curves smoother. Much better. Well, that's basic knowledge. To take it further, you need
+to keep the point of focus consistent in between cuts. This keeps the viewers’ eyes from wandering all over
+the place, and makes it easier to watch. To do that, use guides. Center point, eye line, but my favorite is
+the rule of thirds. The idea is that the main focus of each zoom and cut must stay at the same spot. Like
+this. Text in videos is a subjective choice. Some people never use it, some use it all over the place.
+Personally, I use it in 3 places. First - as a caption. Captions are the most obvious one, but I try not to
+slap them all over the video. Because it can become irritating to see a text pop every second throughout the
+entire time. So I use it where I talk about something important. Second - as a center text. Center text, is
+for moments where captions aren’t enough. It can have its own color, glow, or whatever makes it pop. Third -
+as a part of the video. And then, there’s text that becomes a part of the scene. Attached to a screen, a wall,
+or something in the background. Now, how do you actually create these? It’s simple. Click this text tool,
+click on the video, type something, and adjust its settings in the effect controls to match your channel’s
+brand. To give it a pop animation like you see in my videos, we’re gonna use the ancient technique of sensei
+Finzar. Take the transform effect, add it to the text, set a scale keyframe at the start around 70%. Then,
+move about 7 frames forward, increase the scale to 110%, move forward another 5 frames, and bring it back to
+100. I smoothed out the keyframes, but there isn’t a big difference. Also, add glow, glitch, or whatever else
+fits your style. Repeat the same for other texts as well. Looking good! To save time in the future, select
+your text and animations. Right click, and save as a preset. Next time, you can just drag and drop that preset
+to a text box, and you’re done! Obviously, using a character isn’t a must. So if you don’t use it, just skip
+this part. But if you do, here’s the process. Create a head, or a logo with an AI image generator. I have a
+video diving deeper into this matter if you’re interested. Once you got something you like, slap it onto a
+stock image, export the image, and add it to your video. Again, use keyframes to move it around, smooth out
+the keyframes, the same stuff. And of course, create presets to use it next time. By the way, if you’re
+looking to save time with some of these effects, I’ve put together a few of my presets for free. Link’s in the
+description if you want to check them out! You’ve probably noticed those fancy electric effects, dust, light
+leaks, and other textures throughout the video. They’re called overlays. Basically, a video with black
+background, so that you can change the display mode to ‘screen’, and make it transparent. You can use them as
+highlighters, transitions, or just to make your video fancier. I mostly use light leaks for transitions, but
+there are some preset packs for changing in between scenes. Like slides, shakes, zooms, rotations, and things
+like that. I don’t go too heavy on effects, but when I do, my go-to options are glow, 3D, transform, blur,
+mosaic, and things like that. At this point, I get it. You’re probably overwhelmed by the things you have to
+learn to make a single video. That’s normal. But here’s the secret. You don’t have to learn everything at
+once. Just pick one small thing from this tutorial, and try it in your next video. Practice until you’re
+decent at it. Then take another. Then another, then another, and repeat. Nobody is chasing you. Now keep in
+mind. Just because you can use an effect or a transition, doesn’t mean you should. Sometimes keeping things
+simple is more effective than using every single effect you can. But no matter how great your edit turns out,
+without proper sound effects underneath, the video will feel flat, and viewers will sense something’s missing.
+There are 3 main types of sound effects. Whoosh, riser, and impact. These are the basics, so don’t limit
+yourself. Based on your video, you can throw in keyboard sounds, gears, memes, clicks, bomb, clock, pretty
+much anything you can come up with. You can find all kinds of sound effects from youtube, and paid platforms
+like Epidemicsound. I use a combination of both. Now, the technique I found that makes the process easier, is
+just mute all the other audio tracks. Watch the video, and add the sound effects you think would fit best. May
+sound obvious, but when I started, I was doing my sound designs with voiceover and music enabled. It wasn’t
+good… And don’t be afraid to experiment and combine different sound effects together. It may feel too time
+consuming and unnecessary since you can’t see anything visually changing in the video, but sound design is
+literally half of the video. So it’s definitely worth investing time on that part. And finally, lower the
+volume of the sounds, so that they don’t become annoying. We’re almost done, but the colors look a bit off. To
+fix that, I add a lumetri color effect on each clip, and change the exposure, contrast, saturation, and things
+like that. Alright, so mastering the basics and improving in all those skills with every video is essential.
+But here's where a lot of channels fail. At one point, they stop trying anything new. You know the channels,
+where each video feels like the exact same copy of the last 10, and that’s the recipe for failure. Now, I have
+to admit something... I still don’t know 90% of the stuff in editing. And neither does anyone else! But the
+key is, are you learning with every video? If you keep trying new things each time, and that gap between what
+you know and what you don’t know will slowly get smaller. Sure, it will never go down to zero, but that’s the
+point. Most people are stuck here forever. And even if you’re here, you can overtake them just by learning
+with each video. Because most people don’t even try… Editing isn’t just what you see in tutorials. There’s so
+much out there you can improvise or learn from others. For every video I make, I try something new that I
+could not do until that point. For my first video, I didn’t know how to make animations, so I tried making
+crappy animations with Canva. For the second one, I tried these electricity effects. Next, I used After
+Effects for the first time, and tried creating an entire storyline. The list goes on for every single video.
+That’s why these videos take so much time to create. Sometimes I spend 3 hours learning a new technique to use
+in a 5 second part of my video. Most editors just do what they already know - to be more efficient. But if you
+invest 3 hours to learn that new effect, the next time that 3 hours will become 1 hour. Then 30 minutes, 10
+minutes, then just a few minutes. And once an impossible effect will become an ordinary thing. That’s how I
+learn to edit better… Sounds cool, right? But sometimes, well, most of the times, things don’t go as planned…
+How’s the masterpiece coming along? Almost done. Just adding some final touches. You know, little details to
+make it perfect. Dude, you said the same thing last week. And the week before… Just a few more tweaks, okay?
+Trust me. It’s gonna be the ultimate tutorial. Alright, man. But remember, sometimes ‘done’ is better than
+‘perfect’. Oh. You sound like an AI generated motivational video. Just don’t get lost in details, okay?
+Alright, don’t worry about me. So I kept editing, applied everything I learned, even researched new techniques
+to take my video a step further. Every day, it felt like the video was getting better and better. But after a
+while, something started to feel… wrong… What the f… is going on?! Almost 60 days had passed, and I was still
+editing the same video. Wanna grab some drink? It… it feels like I’m stuck in a loop that will never end. What
+should I do? Isn’t there a tutorial for this? I mean, you’re the one that’s making tutorials here. Yeah… You
+know, I’ve been watching you since the beginning of your journey. Do you know what your weakness is? You think
+that you can learn everything just by watching a tutorial about it. But there isn’t a tutorial for this. So,
+am I gonna stuck here? Look, I’m not an editor, but let me tell you what I know. That's the thing about
+anything creative you do. It’s never done. You can always improve it. Add a new effect. Create a better
+animation. Find better music. Tell a better story. It’s a cycle that never ends… So, how do I escape? Maybe
+you just need to say it’s good enough, take a deep breath, and press publish. It's good enough. Yeah, I still
+couldn’t fully overcome my perfectionism, but I’m trying my best. Even if it’s not flawless, it’s still gonna
+help someone out there. More than you know. Sometimes it’s better to see the process. Not only the right
+things, but the mistakes as well. That’s what makes it real. Dude, I didn’t finish my motivational speech…
+Don’t worry… They get it… Alright, whatever… I know, some of you were probably expecting some kind of secret
+technique that I use to make my edits stand out. While making this video, I thought about this a lot. But the
+truth is, such a technique doesn’t exist. I can’t fully explain how I edited those videos. The only technique
+was to keep learning new things each time. Combine different styles, draw inspirations, break the rules, and
+add something from… you.
