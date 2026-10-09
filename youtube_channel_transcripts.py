@@ -61,6 +61,14 @@ def explain_error(exc: Exception) -> str:
     return message[:2000] or exc.__class__.__name__
 
 
+def is_auth_required(error: object) -> bool:
+    """True for a YouTube login/bot challenge; do not repeatedly hammer the endpoint."""
+    text = str(error).casefold().replace("’", "'")
+    return ("sign in to confirm you're not a bot" in text
+            or "confirm you're not a bot" in text
+            or "login required" in text)
+
+
 def clean_name(text: str, max_len: int = 110) -> str:
     text = re.sub(r'[<>:"/\\|?*\x00-\x1F]', "_", (text or "Unnamed").strip())
     text = re.sub(r"\s+", " ", text).strip(" .") or "Unnamed"
@@ -387,6 +395,12 @@ def base_ydl_params(browser: str | None, runtime_name: str | None, runtime_path:
         "extractor_args": {"youtube": {"skip": ["translated_subs"]}}}
     if browser:
         params["cookiesfrombrowser"] = (browser,)
+    # GitHub-hosted runners can be challenged even while public channel tabs
+    # remain visible. Accept only a user-supplied authorized Netscape cookie file;
+    # never embed credentials in the repository or try to bypass access controls.
+    cookie_file = os.getenv("YOUTUBE_COOKIES_FILE", "").strip()
+    if cookie_file and Path(cookie_file).is_file():
+        params["cookiefile"] = cookie_file
     if USER_AGENT_OVERRIDE:
         params["http_headers"] = {"User-Agent": USER_AGENT_OVERRIDE, "Accept-Language": "en-US,en;q=0.9"}
     if runtime_name and runtime_path:
@@ -689,10 +703,10 @@ def manifest_rows(manifest: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
 def write_summary(path: Path, *, channel_name: str, channel_url: str, entries: list[dict[str, Any]],
                   scan_results: list[dict[str, Any]], fatal_scan_errors: list[str], manifest: dict[str, dict[str, Any]],
                   whisper_mode: bool, rate_limiter: RateLimitManager) -> None:
-    counts = {state: sum(1 for item in manifest.values() if item.get("status") == state) for state in ("SAVED", "NO_CAPTIONS", "FAILED", "RATE_LIMITED", "DISCOVERED")}
+    counts = {state: sum(1 for item in manifest.values() if item.get("status") == state) for state in ("SAVED", "NO_CAPTIONS", "FAILED", "AUTH_REQUIRED", "RATE_LIMITED", "DISCOVERED")}
     lines = [f"Channel name: {channel_name}", f"Channel URL: {normalize_channel_url(channel_url)}", f"Last updated UTC: {utc_now()}",
         f"Discovered in current scan: {len(entries)}", f"Manifest total: {len(manifest)}", f"Transcripts saved: {counts['SAVED']}",
-        f"No captions: {counts['NO_CAPTIONS']}", f"Failures: {counts['FAILED']}", f"Rate limited: {counts['RATE_LIMITED']}",
+        f"No captions: {counts['NO_CAPTIONS']}", f"Failures: {counts['FAILED']}", f"Authentication required: {counts['AUTH_REQUIRED']}", f"Rate limited: {counts['RATE_LIMITED']}",
         f"Still discovered/pending: {counts['DISCOVERED']}", f"Whisper fallback enabled: {whisper_mode}",
         f"HTTP 429 events this run: {rate_limiter.run_429_events}", "", "Scan results:"]
     lines.extend(f"- {r.get('type')}: {r.get('status')} — {r.get('url')} {r.get('message', '')}" for r in scan_results)
@@ -730,7 +744,9 @@ def process_item(item: dict[str, Any], output_dir: Path, manifest: dict[str, dic
             text, language, source = build_transcript_from_youtube_captions(item, info, output_dir, browser, runtime_name, runtime_path, remote_components, rate_limiter)
         except Exception as caption_exc:
             if not use_whisper or whisper_model is None:
-                status = "RATE_LIMITED" if RateLimitManager.is_rate_limited(caption_exc) else "NO_CAPTIONS" if isinstance(caption_exc, LookupError) else "FAILED"
+                status = ("AUTH_REQUIRED" if is_auth_required(caption_exc) else
+                          "RATE_LIMITED" if RateLimitManager.is_rate_limited(caption_exc) else
+                          "NO_CAPTIONS" if isinstance(caption_exc, LookupError) else "FAILED")
                 update_manifest(manifest_path, manifest, item, status=status, message=explain_error(caption_exc))
                 return False, explain_error(caption_exc)
             text, language, source = transcribe_with_whisper(item, output_dir, whisper_model, browser, runtime_name, runtime_path, remote_components, rate_limiter)
@@ -740,7 +756,8 @@ def process_item(item: dict[str, Any], output_dir: Path, manifest: dict[str, dic
         update_manifest(manifest_path, manifest, item, status="SAVED", source=source, language=language, filename=filename, message="Transcript saved")
         return True, filename
     except Exception as exc:
-        status = "RATE_LIMITED" if RateLimitManager.is_rate_limited(exc) else "FAILED"
+        status = ("AUTH_REQUIRED" if is_auth_required(exc) else
+                  "RATE_LIMITED" if RateLimitManager.is_rate_limited(exc) else "FAILED")
         update_manifest(manifest_path, manifest, item, status=status, message=explain_error(exc))
         return False, explain_error(exc)
 
