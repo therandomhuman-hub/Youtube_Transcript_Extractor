@@ -43,7 +43,7 @@ jobs:
         env:
           USE_WHISPER_FALLBACK: "false"
           PYTHONUNBUFFERED: "1"
-        run: python multi_channel_runner.py --channels-file ../live-test.txt --output-dir live_test_output --max-channels 1
+        run: python multi_channel_runner.py --channels-file live-test.txt --output-dir live_test_output --max-channels 1
       - name: Generate per-video audit report
         if: always()
         run: |
