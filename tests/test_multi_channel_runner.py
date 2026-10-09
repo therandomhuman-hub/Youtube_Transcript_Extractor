@@ -70,3 +70,45 @@ def test_completed_channel_is_updated_in_place(tmp_path, monkeypatch):
     assert channel.is_dir()
     assert not (root / "Example Channel").exists()
     assert copy_calls == []
+
+
+def test_saved_manifest_entry_with_missing_file_is_requeued(tmp_path):
+    import youtube_channel_transcripts as engine
+
+    video_id = "zxy98765432"
+    manifest = {video_id: {"status": "SAVED", "filename": "missing.txt", "type": "VIDEO", "title": "Lost file"}}
+    pending = engine.merge_pending_manifest_entries([], manifest, output_dir=tmp_path)
+    assert len(pending) == 1
+    assert pending[0]["id"] == video_id
+
+
+def test_channel_home_scan_failure_does_not_block_video_tab(monkeypatch, tmp_path):
+    import youtube_channel_transcripts as engine
+
+    channel_id = "UC" + "1" * 22
+    video_id = "abc12345678"
+
+    class FakeYDL:
+        def __init__(self, params):
+            self.params = params
+        def __enter__(self):
+            return self
+        def __exit__(self, *args):
+            return False
+        def extract_info(self, url, download=False):
+            if url == "https://www.youtube.com/@Example":
+                raise RuntimeError("temporary root page error")
+            return {"channel_id": channel_id, "uploader": "Example", "entries": ([{"id": video_id, "title": "One video", "webpage_url": f"https://www.youtube.com/watch?v={video_id}"}] if url.endswith("/videos") else [])}
+
+    class FastRateLimiter:
+        def run(self, operation, **kwargs):
+            return operation()
+
+    monkeypatch.setattr(engine.yt_dlp, "YoutubeDL", FakeYDL)
+    name, entries, scan_results, fatal_errors = engine.discover_channel(
+        "https://www.youtube.com/@Example", None, None, None, set(), FastRateLimiter()
+    )
+    assert name == "Example"
+    assert [item["id"] for item in entries] == [video_id]
+    assert any(item["type"] == "CHANNEL" and item["status"] == "FAILED" for item in scan_results)
+    assert not any(error.startswith("CHANNEL:") for error in fatal_errors)
