@@ -57,11 +57,16 @@ jobs:
       - name: Run transcript archive
         timeout-minutes: 300
         env:
+          MAX_CHANNELS_INPUT: ${{ github.event.inputs.max_channels || '0' }}
           USE_WHISPER_FALLBACK: "false"
           PYTHONUNBUFFERED: "1"
+        shell: bash
         run: |
-          MAX_CHANNELS="${{ github.event.inputs.max_channels || '0' }}"
-          python multi_channel_runner.py --max-channels "$MAX_CHANNELS"
+          if [[ ! "$MAX_CHANNELS_INPUT" =~ ^[0-9]+$ ]]; then
+            echo "max_channels must be a non-negative integer."
+            exit 2
+          fi
+          python multi_channel_runner.py --max-channels "$MAX_CHANNELS_INPUT"
       - name: Commit transcript and state changes
         if: always()
         run: |
