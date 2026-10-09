@@ -141,3 +141,56 @@ def test_auth_challenge_is_detected_without_retrying_all_videos():
     assert engine.is_auth_required("Sign in to confirm you're not a bot")
     assert engine.is_auth_required("ERROR: confirm you’re not a bot")
     assert not engine.is_auth_required("No captions found")
+
+
+def test_seed_manifest_does_not_update_timestamp_on_every_scan(tmp_path):
+    import youtube_channel_transcripts as engine
+
+    video_id = "abc12345678"
+    manifest_path = tmp_path / "transcript_manifest.json"
+    record = {"video_id": video_id, "type": "VIDEO", "title": "Stable", "url": f"https://www.youtube.com/watch?v={video_id}",
+              "channel": "Example", "status": "SAVED", "filename": f"VIDEO - Stable [{video_id}].txt",
+              "last_discovered_at": "2026-01-01T00:00:00+00:00", "updated_at": "2026-01-01T00:00:00+00:00"}
+    manifest = {video_id: dict(record)}
+    manifest_path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+    before = manifest_path.read_text(encoding="utf-8")
+    engine.seed_manifest_from_entries(manifest_path, manifest, [{"id": video_id, "title": "Stable", "url": record["url"], "kind": "VIDEO", "channel": "Example"}])
+    assert manifest_path.read_text(encoding="utf-8") == before
+
+
+def test_manifest_completion_rejects_path_traversal(tmp_path):
+    folder = tmp_path / "channel"
+    folder.mkdir()
+    outside = tmp_path / "outside.txt"
+    outside.write_text("x" * 500, encoding="utf-8")
+    (folder / "transcript_manifest.json").write_text(json.dumps({
+        "abc12345678": {"status": "SAVED", "filename": "../outside.txt"}
+    }), encoding="utf-8")
+    assert runner.manifest_complete(folder) == (False, 0, 1, 1)
+
+
+def test_runner_repairs_manifest_when_alternate_transcript_file_exists(tmp_path, monkeypatch):
+    import youtube_channel_transcripts as engine
+
+    root = tmp_path
+    completed = root / "completed"
+    updates = root / "updated"
+    completed.mkdir(); updates.mkdir()
+    folder = root / "Example"
+    folder.mkdir()
+    channel_url = "https://www.youtube.com/@Example"
+    video_id = "abc12345678"
+    good_name = f"VIDEO - Existing [{video_id}].txt"
+    (folder / good_name).write_text("Recovered transcript text. " * 20, encoding="utf-8")
+    (folder / "collection_summary.txt").write_text(f"Channel URL: {channel_url}\n", encoding="utf-8")
+    manifest = {video_id: {"video_id": video_id, "type": "VIDEO", "title": "Existing", "url": f"https://www.youtube.com/watch?v={video_id}",
+                           "channel": "Example", "status": "SAVED", "filename": "deleted-file.txt", "source": "captions", "language": "en"}}
+    (folder / "transcript_manifest.json").write_text(json.dumps(manifest), encoding="utf-8")
+    monkeypatch.setattr(engine, "discover_channel", lambda *args, **kwargs: (
+        "Example", [{"id": video_id, "url": f"https://www.youtube.com/watch?v={video_id}", "title": "Existing", "kind": "VIDEO", "channel": "Example"}], [], []
+    ))
+    result = runner.process_channel(channel_url, root, completed, updates, {"channels": {}}, "deno", "/usr/bin/deno", set(), False, "small", None)
+    archive = completed / "Example"
+    saved_manifest = json.loads((archive / "transcript_manifest.json").read_text(encoding="utf-8"))
+    assert result["status"] == "COMPLETED"
+    assert saved_manifest[video_id]["filename"] == good_name
