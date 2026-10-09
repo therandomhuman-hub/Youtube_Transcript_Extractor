@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.yt_dlp_tools/
+*.part
+_*_caps_*/
+_*_audio_*/
