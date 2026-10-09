@@ -694,6 +694,9 @@ def merge_pending_manifest_entries(entries: list[dict[str, Any]], manifest: dict
     for vid, record in manifest.items():
         if not isinstance(record, dict) or not is_probably_youtube_video_id(vid) or vid in by_id:
             continue
+        # An item with no available captions is a terminal, auditable outcome.
+        if record.get("status") == "NO_CAPTIONS":
+            continue
         saved_file_ok = False
         filename = str(record.get("filename") or "")
         if record.get("status") == "SAVED" and output_dir is not None and filename and Path(filename).name == filename:
@@ -727,9 +730,12 @@ def write_summary(path: Path, *, channel_name: str, channel_url: str, entries: l
                   scan_results: list[dict[str, Any]], fatal_scan_errors: list[str], manifest: dict[str, dict[str, Any]],
                   whisper_mode: bool, rate_limiter: RateLimitManager) -> None:
     counts = {state: sum(1 for item in manifest.values() if item.get("status") == state) for state in ("SAVED", "NO_CAPTIONS", "FAILED", "AUTH_REQUIRED", "RATE_LIMITED", "DISCOVERED")}
+    resolved_outcomes = counts["SAVED"] + counts["NO_CAPTIONS"]
     lines = [f"Channel name: {channel_name}", f"Channel URL: {normalize_channel_url(channel_url)}", f"Last updated UTC: {utc_now()}",
         f"Discovered in current scan: {len(entries)}", f"Manifest total: {len(manifest)}", f"Transcripts saved: {counts['SAVED']}",
-        f"No captions: {counts['NO_CAPTIONS']}", f"Failures: {counts['FAILED']}", f"Authentication required: {counts['AUTH_REQUIRED']}", f"Rate limited: {counts['RATE_LIMITED']}",
+        f"No captions: {counts['NO_CAPTIONS']}", f"Resolved items (saved transcript or explicit no-caption outcome): {resolved_outcomes}",
+        "No-caption outcomes remain visible in the audit and do not count as saved transcripts.",
+        f"Failures: {counts['FAILED']}", f"Authentication required: {counts['AUTH_REQUIRED']}", f"Rate limited: {counts['RATE_LIMITED']}",
         f"Still discovered/pending: {counts['DISCOVERED']}", f"Whisper fallback enabled: {whisper_mode}",
         f"HTTP 429 events this run: {rate_limiter.run_429_events}", "", "Scan results:"]
     lines.extend(f"- {r.get('type')}: {r.get('status')} — {r.get('url')} {r.get('message', '')}" for r in scan_results)

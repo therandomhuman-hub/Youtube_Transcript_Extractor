@@ -1,6 +1,12 @@
 name: YouTube Transcript Archive
 
 on:
+  push:
+    paths:
+      - "multi_channel_runner.py"
+      - "youtube_channel_transcripts.py"
+      - ".github/workflows/transcript-archive.yml"
+      - "scripts/finalize_run_report.py"
   schedule:
     # Runs every six hours; GitHub cron uses UTC.
     - cron: "17 */6 * * *"
@@ -11,13 +17,18 @@ on:
         required: false
         default: "0"
         type: string
+      max_items_per_channel:
+        description: "Transcript attempts per channel per run (6 recommended; 0 = unlimited)"
+        required: false
+        default: "6"
+        type: string
 
 permissions:
   contents: write
 
 concurrency:
   group: youtube-transcript-archive
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   collect:
@@ -55,9 +66,11 @@ jobs:
             echo "No cookie secret configured; YouTube may challenge hosted runners."
           fi
       - name: Run transcript archive
+        id: archive
         timeout-minutes: 300
         env:
           MAX_CHANNELS_INPUT: ${{ github.event.inputs.max_channels || '0' }}
+          MAX_ITEMS_PER_CHANNEL_INPUT: ${{ github.event.inputs.max_items_per_channel || '6' }}
           USE_WHISPER_FALLBACK: "false"
           PYTHONUNBUFFERED: "1"
         shell: bash
@@ -66,10 +79,30 @@ jobs:
             echo "max_channels must be a non-negative integer."
             exit 2
           fi
-          python multi_channel_runner.py --max-channels "$MAX_CHANNELS_INPUT"
-      - name: Package completed channel archives
+          if [[ ! "$MAX_ITEMS_PER_CHANNEL_INPUT" =~ ^[0-9]+$ ]]; then
+            echo "max_items_per_channel must be a non-negative integer."
+            exit 2
+          fi
+          python multi_channel_runner.py --max-channels "$MAX_CHANNELS_INPUT" --max-items-per-channel "$MAX_ITEMS_PER_CHANNEL_INPUT"
+      - name: Finalize report and package completed channel archives
         if: always()
-        run: python scripts/package_completed.py --root .
+        env:
+          ARCHIVE_STEP_OUTCOME: ${{ steps.archive.outcome }}
+        shell: bash
+        run: |
+          python scripts/finalize_run_report.py --status "$ARCHIVE_STEP_OUTCOME" || true
+          python scripts/package_completed.py --root .
+      - name: Upload run report and channel state
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcript-archive-report-${{ github.run_id }}
+          path: |
+            last_run_report.json
+            channel_state.json
+            **/collection_summary.txt
+          if-no-files-found: warn
+          retention-days: 14
       - name: Commit transcript and state changes
         if: always()
         run: |

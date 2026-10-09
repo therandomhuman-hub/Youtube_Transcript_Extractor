@@ -194,3 +194,74 @@ def test_runner_repairs_manifest_when_alternate_transcript_file_exists(tmp_path,
     saved_manifest = json.loads((archive / "transcript_manifest.json").read_text(encoding="utf-8"))
     assert result["status"] == "COMPLETED"
     assert saved_manifest[video_id]["filename"] == good_name
+
+
+
+def test_manifest_completion_accepts_no_caption_as_terminal_outcome(tmp_path):
+    folder = tmp_path / "Jad M.H _ AI Automation"
+    folder.mkdir()
+    (folder / "transcript_manifest.json").write_text(json.dumps({
+        "avtN46IusFU": {"status": "NO_CAPTIONS", "title": "No caption tracks", "filename": ""}
+    }), encoding="utf-8")
+    assert runner.manifest_complete(folder) == (True, 0, 0, 1)
+
+
+def test_no_caption_items_are_not_requeued_on_next_scan(tmp_path):
+    import youtube_channel_transcripts as engine
+
+    video_id = "avtN46IusFU"
+    manifest = {video_id: {"status": "NO_CAPTIONS", "type": "SHORT", "title": "No captions"}}
+    assert engine.merge_pending_manifest_entries([], manifest, output_dir=tmp_path) == []
+    # Fresh discovery may still list it; the runner recognizes terminal status and skips it.
+    assert engine.merge_pending_manifest_entries(
+        [{"id": video_id, "title": "No captions", "kind": "SHORT"}], manifest, output_dir=tmp_path
+    ) == [{"id": video_id, "title": "No captions", "kind": "SHORT"}]
+
+
+def test_report_checkpoint_contains_partial_results():
+    report = runner.make_run_report(
+        "2026-10-10T00:00:00+00:00", 18,
+        [{"status": "COMPLETED", "saved_this_run": 123, "no_caption_items": 0},
+         {"status": "IN_PROGRESS", "saved_this_run": 184, "no_caption_items": 1}],
+        "RUNNING"
+    )
+    assert report["configured_channels"] == 18
+    assert report["processed_channels"] == 2
+    assert report["remaining_channels"] == 16
+    assert report["completed_channels"] == 1
+    assert report["saved_transcripts_this_run"] == 307
+
+
+def test_per_channel_budget_checkpoints_partial_progress(tmp_path, monkeypatch):
+    import youtube_channel_transcripts as engine
+
+    root = tmp_path
+    completed = root / "completed"
+    updated = root / "updated"
+    completed.mkdir()
+    updated.mkdir()
+    channel_url = "https://www.youtube.com/@Example"
+    items = [
+        {"id": "abc12345678", "url": "https://www.youtube.com/watch?v=abc12345678", "title": "One", "kind": "VIDEO", "channel": "Example"},
+        {"id": "def12345678", "url": "https://www.youtube.com/watch?v=def12345678", "title": "Two", "kind": "VIDEO", "channel": "Example"},
+        {"id": "ghi12345678", "url": "https://www.youtube.com/watch?v=ghi12345678", "title": "Three", "kind": "VIDEO", "channel": "Example"},
+    ]
+    monkeypatch.setattr(engine, "discover_channel", lambda *args, **kwargs: ("Example", items, [], []))
+
+    def fake_process_item(item, folder, manifest, manifest_path, *args, **kwargs):
+        filename = f"VIDEO - {item['title']} [{item['id']}].txt"
+        (folder / filename).write_text("Transcript text. " * 20, encoding="utf-8")
+        engine.update_manifest(manifest_path, manifest, item, status="SAVED", source="test", language="en", filename=filename)
+        return True, filename
+
+    monkeypatch.setattr(engine, "process_item", fake_process_item)
+    state = {"channels": {}}
+    result = runner.process_channel(channel_url, root, completed, updated, state,
+        "deno", "/usr/bin/deno", set(), False, "small", None, max_items_per_channel=1)
+
+    assert result["attempted_this_run"] == 1
+    assert result["saved_this_run"] == 1
+    assert result["batch_limit_reached"] is True
+    assert result["status"] == "IN_PROGRESS"
+    checkpoint = json.loads((root / "channel_state.json").read_text(encoding="utf-8"))
+    assert checkpoint["channels"][channel_url.casefold()]["saved_total"] == 1

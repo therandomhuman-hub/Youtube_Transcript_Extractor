@@ -96,3 +96,12 @@ The latest isolated live test for [@isaacverse](https://www.youtube.com/@isaacve
 The live runner successfully decoded the authorized cookie secret into its temporary workspace. Cookie contents are never included in the repository or test artifacts. The test validates this channel and this session only; it does not guarantee access to all 18 configured channels or future runs. YouTube may expire or challenge a session, and the workflow is designed to stop rather than evade access controls.
 
 Every scheduled archive run now refreshes deterministic ZIP snapshots for completed channel folders before committing archive/state changes. The isolated live-test workflow also includes a ZIP snapshot in its uploaded results artifact.
+
+
+## Long-run safety and completion policy
+
+The scheduled archive attempts a bounded number of new transcripts per channel (default: 6 per run), so a large channel cannot monopolize a run. Adjust the workflow-dispatch input `max_items_per_channel`; `0` means unlimited and is intended only for controlled runs.
+
+Run reports are checkpointed after each channel. Channel state, transcript manifests, audit CSV, and collection summaries are checkpointed after each attempted item. A finalization step records the collection-step outcome and preserves partial checkpoints on timeout or failure. Run reports and channel state are also uploaded as a GitHub Actions artifact for 14 days.
+
+A channel is archived as completed when each discovered item is either `SAVED` (valid transcript exists) or `NO_CAPTIONS` (no parseable captions; explicitly recorded in manifest and audit). **Completed means every discovered item has a resolved collection outcome, not 100% transcript coverage.** No-caption items never count as saved transcripts. Authentication blocks, unresolved failures, and missing/corrupt transcript files still prevent completion.

@@ -1,6 +1,64 @@
 {
-  "run_at": null,
+  "run_id": "37967095967",
+  "run_number": "1",
+  "run_status": "PARTIAL_FAILURE_TIMEOUT",
+  "workflow_step_outcome": "failure",
+  "run_at": "2026-10-09T17:33:16+00:00",
+  "run_started_at": "2026-10-09T17:33:16+00:00",
+  "updated_at": "2026-10-09T22:33:52+00:00",
+  "finished_at": "2026-10-09T22:33:52+00:00",
   "configured_channels": 18,
-  "processed_channels": 0,
-  "results": []
+  "processed_channels": 3,
+  "remaining_channels": 15,
+  "completed_channels": 2,
+  "in_progress_channels": 1,
+  "error_channels": 0,
+  "discovered_items": 634,
+  "saved_transcripts_this_run": 408,
+  "no_caption_items": 1,
+  "results": [
+    {
+      "channel_url": "https://www.youtube.com/@One-Person-Business",
+      "channel_name": "One Person Business",
+      "status": "COMPLETED",
+      "video_count": 111,
+      "short_count": 12,
+      "known_items": 123,
+      "saved_this_run": 123,
+      "saved_total": 123,
+      "unresolved_items": 0,
+      "no_caption_items": 0,
+      "folder": "completed/One Person Business"
+    },
+    {
+      "channel_url": "https://www.youtube.com/@JadM.H",
+      "channel_name": "Jad M.H | AI Automation",
+      "status": "COMPLETED",
+      "video_count": 37,
+      "short_count": 148,
+      "known_items": 185,
+      "saved_this_run": 184,
+      "saved_total": 184,
+      "unresolved_items": 0,
+      "no_caption_items": 1,
+      "resolved_without_transcript": 1,
+      "folder": "completed/Jad M.H _ AI Automation",
+      "note": "Completed under the terminal NO_CAPTIONS rule; transcript coverage is 184/185."
+    },
+    {
+      "channel_url": "https://www.youtube.com/@JasonWardrop",
+      "channel_name": "Jason Wardrop",
+      "status": "IN_PROGRESS",
+      "video_count": 289,
+      "short_count": 37,
+      "known_items": 326,
+      "saved_this_run": 101,
+      "saved_total": 101,
+      "unresolved_items": 225,
+      "no_caption_items": 0,
+      "folder": "Jason Wardrop",
+      "timeout_note": "The collection step timed out during this channel; its saved transcript files and manifest were committed."
+    }
+  ],
+  "failure_reason": "The Run transcript archive step timed out after 300 minutes; packaging and commit/push succeeded."
 }

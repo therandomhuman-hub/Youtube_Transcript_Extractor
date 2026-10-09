@@ -11,6 +11,8 @@ Rate limited: 0
 Still discovered/pending: 0
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
+Archive status: COMPLETED under the resolved-outcome policy (184 transcripts saved, 1 item recorded as NO_CAPTIONS).
+No-caption outcome remains visible in transcript_manifest.json and transcript_audit.csv; it is not counted as a saved transcript.
 
 Scan results:
 - CHANNEL: OK — https://www.youtube.com/@JadM.H 

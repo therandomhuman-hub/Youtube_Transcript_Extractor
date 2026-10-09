@@ -95,6 +95,13 @@ def locate_channel_folder(root: Path, channel_url: str) -> Path | None:
 
 
 def manifest_complete(folder: Path) -> tuple[bool, int, int, int]:
+    """Return (resolved, valid transcript count, unresolved count, manifest total).
+
+    A valid transcript is resolved. NO_CAPTIONS is also an explicit terminal
+    outcome, so caption availability must not keep a channel outside completed/.
+    Such items remain in manifests/audits and are not counted as saved transcripts.
+    Other failures and missing/corrupt saved files still block completion.
+    """
     manifest_path = folder / "transcript_manifest.json"
     if not manifest_path.is_file():
         return False, 0, 0, 0
@@ -106,20 +113,23 @@ def manifest_complete(folder: Path) -> tuple[bool, int, int, int]:
         return False, 0, 0, 0
     saved = 0
     unresolved = 0
+    resolved = 0
     for record in manifest.values():
         if not isinstance(record, dict):
             unresolved += 1
             continue
+        if record.get("status") == "NO_CAPTIONS":
+            resolved += 1
+            continue
         filename = str(record.get("filename") or "")
-        # Manifest contents are data, not trusted paths. Only count a transcript
-        # that lives directly inside this channel folder.
         transcript_path = folder / filename if filename and Path(filename).name == filename else None
         file_ok = bool(transcript_path and transcript_path.is_file() and transcript_path.stat().st_size > 100)
         if record.get("status") == "SAVED" and file_ok:
             saved += 1
+            resolved += 1
         else:
             unresolved += 1
-    return unresolved == 0 and saved == len(manifest), saved, unresolved, len(manifest)
+    return unresolved == 0 and resolved == len(manifest), saved, unresolved, len(manifest)
 
 
 def archive_completed_channel(folder: Path, archive_root: Path) -> Path:
@@ -155,7 +165,7 @@ def load_runtime_settings() -> tuple[str, str, set[str], bool, str, str | None]:
 def process_channel(channel_url: str, root: Path, completed_root: Path, updated_root: Path,
                     state: dict[str, Any], runtime_name: str, runtime_path: str,
                     remote_components: set[str], use_whisper: bool, whisper_model_name: str,
-                    browser: str | None) -> dict[str, Any]:
+                    browser: str | None, max_items_per_channel: int = 0) -> dict[str, Any]:
     key = channel_url.casefold()
     channel_state = state["channels"].setdefault(key, {})
     folder = locate_channel_folder(root, channel_url)
@@ -213,20 +223,50 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             use_whisper = False
 
     saved_now = 0
+    attempted_this_run = 0
+    batch_limit_reached = False
+
+    def persist_channel_checkpoint() -> None:
+        extractor.atomic_csv_write(audit_path, extractor.manifest_rows(manifest))
+        extractor.write_summary(summary_path, channel_name=name or folder.name, channel_url=channel_url,
+            entries=entries, scan_results=scan_results, fatal_scan_errors=fatal_scan_errors,
+            manifest=manifest, whisper_mode=use_whisper, rate_limiter=rate_limiter)
+        _, saved_checkpoint, unresolved_checkpoint, total_checkpoint = manifest_complete(folder)
+        try:
+            folder_label = folder.relative_to(root).as_posix()
+        except ValueError:
+            folder_label = str(folder)
+        channel_state.update({
+            "channel_url": channel_url, "channel_name": name or folder.name,
+            "status": "IN_PROGRESS", "folder": folder_label,
+            "saved_this_run": saved_now, "attempted_this_run": attempted_this_run,
+            "saved_total": saved_checkpoint, "known_items": total_checkpoint,
+            "unresolved_items": unresolved_checkpoint,
+            "no_caption_items": sum(1 for rec in manifest.values() if isinstance(rec, dict) and rec.get("status") == "NO_CAPTIONS"),
+            "batch_limit_reached": batch_limit_reached, "scan_errors": fatal_scan_errors,
+            "last_checked_at": utc_now()
+        })
+        state["updated_at"] = utc_now()
+        safe_json_write(root / "channel_state.json", state)
+
     for index, item in enumerate(entries, start=1):
         existing = extractor.item_has_saved_transcript(item, manifest, folder)
         if existing is not None:
             record = manifest.get(item["id"], {})
             if record.get("status") != "SAVED" or record.get("filename") != existing.name:
-                # Recover from a crash between transcript-file write and manifest
-                # update, or from a moved/renamed file. Otherwise the channel can
-                # remain IN_PROGRESS forever despite the transcript being present.
                 extractor.update_manifest(manifest_path, manifest, item, status="SAVED",
                     source=record.get("source") or "Recovered existing transcript",
                     language=record.get("language") or "", filename=existing.name,
                     message="Manifest reconciled to existing transcript file")
                 saved_now += 1
             continue
+        if manifest.get(item["id"], {}).get("status") == "NO_CAPTIONS":
+            continue
+        if max_items_per_channel > 0 and attempted_this_run >= max_items_per_channel:
+            batch_limit_reached = True
+            print(f"Per-channel batch limit reached ({max_items_per_channel} attempts); remaining items will resume in a later run.", flush=True)
+            break
+        attempted_this_run += 1
         print(f"[{index}/{len(entries)}] {name or folder.name} — {item.get('title', item['id'])}", flush=True)
         try:
             ok, message = extractor.process_item(
@@ -238,11 +278,13 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             else:
                 print(f"Transcript not obtained for {item['id']}: {message}", flush=True)
                 if extractor.is_auth_required(message):
-                    print("YouTube requires authentication / is presenting a bot challenge. Stopping further video requests for this channel in this run; add an authorized cookie secret or run locally with an authorized browser session.", flush=True)
+                    print("YouTube requires authentication / is presenting a bot challenge. Stopping further video requests for this channel in this run; refresh the authorized session rather than attempting to bypass the challenge.", flush=True)
                     break
         except Exception as exc:
             extractor.update_manifest(manifest_path, manifest, item, status="FAILED", message=extractor.explain_error(exc))
             print(f"Item failed {item['id']}: {extractor.explain_error(exc)}", flush=True)
+        finally:
+            persist_channel_checkpoint()
 
     extractor.atomic_csv_write(audit_path, extractor.manifest_rows(manifest))
     extractor.write_summary(summary_path, channel_name=name or folder.name, channel_url=channel_url,
@@ -290,15 +332,37 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             filename = str(manifest[video_id].get("filename", ""))
             if filename and (channel_folder / filename).is_file():
                 shutil.copy2(channel_folder / filename, updated_channel_folder / filename)
+    no_caption_count = sum(1 for rec in manifest.values() if isinstance(rec, dict) and rec.get("status") == "NO_CAPTIONS")
     result = {"channel_url": channel_url, "channel_name": name or folder.name, "status": status,
-              "saved_this_run": saved_now, "saved_total": saved_total, "known_items": total,
+              "saved_this_run": saved_now, "attempted_this_run": attempted_this_run,
+              "batch_limit_reached": batch_limit_reached, "saved_total": saved_total, "known_items": total,
               "video_count": sum(1 for item in entries if str(item.get("kind", "VIDEO")).upper() != "SHORT"),
               "short_count": sum(1 for item in entries if str(item.get("kind", "")).upper() == "SHORT"),
               "auth_required_count": sum(1 for item in manifest.values() if item.get("status") == "AUTH_REQUIRED"),
+              "no_caption_items": no_caption_count, "resolved_without_transcript": no_caption_count,
               "unresolved_items": unresolved, "scan_errors": fatal_scan_errors,
-              "folder": str(channel_folder), "last_checked_at": utc_now()}
+              "folder": str(channel_folder.relative_to(root)) if channel_folder.is_relative_to(root) else str(channel_folder),
+              "last_checked_at": utc_now()}
     channel_state.update(result)
     return result
+
+
+def make_run_report(run_started_at: str, configured_channels: int, results: list[dict[str, Any]],
+                    run_status: str, finished_at: str | None = None) -> dict[str, Any]:
+    return {
+        "run_id": os.getenv("GITHUB_RUN_ID") or None,
+        "run_number": os.getenv("GITHUB_RUN_NUMBER") or None,
+        "run_status": run_status, "run_at": run_started_at, "run_started_at": run_started_at,
+        "updated_at": utc_now(), "finished_at": finished_at,
+        "configured_channels": configured_channels, "processed_channels": len(results),
+        "remaining_channels": max(0, configured_channels - len(results)),
+        "completed_channels": sum(x.get("status") == "COMPLETED" for x in results),
+        "in_progress_channels": sum(x.get("status") == "IN_PROGRESS" for x in results),
+        "error_channels": sum(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results),
+        "saved_transcripts_this_run": sum(int(x.get("saved_this_run", 0) or 0) for x in results),
+        "no_caption_items": sum(int(x.get("no_caption_items", 0) or 0) for x in results),
+        "results": results
+    }
 
 
 def main() -> int:
@@ -306,7 +370,14 @@ def main() -> int:
     parser.add_argument("--channels-file", default="channels.txt")
     parser.add_argument("--output-dir", default=str(ROOT))
     parser.add_argument("--max-channels", type=int, default=0, help="Optional test limit; 0 processes all")
+    parser.add_argument("--max-items-per-channel", type=int,
+                        default=int(os.getenv("MAX_ITEMS_PER_CHANNEL", "0") or "0"),
+                        help="Max transcript attempts per channel per run; 0 means unlimited")
     args = parser.parse_args()
+    if args.max_channels < 0:
+        parser.error("--max-channels must be non-negative")
+    if args.max_items_per_channel < 0:
+        parser.error("--max-items-per-channel must be non-negative")
     root = Path(args.output_dir).resolve()
     channels_file = Path(args.channels_file)
     if not channels_file.is_absolute():
@@ -324,20 +395,26 @@ def main() -> int:
     completed_root.mkdir(parents=True, exist_ok=True)
     updated_root.mkdir(parents=True, exist_ok=True)
     state_path = root / "channel_state.json"
+    report_path = root / "last_run_report.json"
     state = load_state(state_path)
+    run_started_at = utc_now()
+    results: list[dict[str, Any]] = []
+    safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "RUNNING"))
     try:
         runtime_name, runtime_path, remote_components, use_whisper, whisper_model_name, browser = load_runtime_settings()
     except Exception as exc:
         print(f"Cannot start extractor: {exc}", flush=True)
+        safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "STARTUP_FAILED", utc_now()))
         return 2
-    results: list[dict[str, Any]] = []
     for index, channel_url in enumerate(channels, start=1):
         print("\n" + "=" * 76 + f"\nCHANNEL {index}/{len(channels)}: {channel_url}", flush=True)
         try:
             result = process_channel(channel_url, root, completed_root, updated_root, state, runtime_name,
-                runtime_path, remote_components, use_whisper, whisper_model_name, browser)
+                runtime_path, remote_components, use_whisper, whisper_model_name, browser,
+                args.max_items_per_channel)
         except KeyboardInterrupt:
             print("Interrupted; transcripts and manifests are preserved for the next run.", flush=True)
+            safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "INTERRUPTED", utc_now()))
             break
         except Exception as exc:
             traceback.print_exc()
@@ -346,20 +423,20 @@ def main() -> int:
         state["channels"][channel_url.casefold()] = {**state["channels"].get(channel_url.casefold(), {}), **result}
         state["updated_at"] = utc_now()
         safe_json_write(state_path, state)
+        safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "RUNNING"))
         print(json.dumps(result, ensure_ascii=False), flush=True)
-    safe_json_write(root / "last_run_report.json", {"run_at": utc_now(), "configured_channels": len(channels),
-        "processed_channels": len(results), "results": results})
     auth_blocked = sum(int(x.get("auth_required_count", 0) or 0) > 0 for x in results)
+    errors = sum(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results)
+    final_status = "PARTIAL_AUTH_BLOCKED" if auth_blocked else ("FAILED" if results and errors == len(results) else "COMPLETED")
+    safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, final_status, utc_now()))
     print("Run summary: " + json.dumps({"processed": len(results),
+        "remaining": max(0, len(channels) - len(results)),
         "completed": sum(x.get("status") == "COMPLETED" for x in results),
         "in_progress": sum(x.get("status") == "IN_PROGRESS" for x in results),
-        "auth_blocked_channels": auth_blocked,
-        "errors": sum(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results)}), flush=True)
-    # Preserve the report and let the workflow's always() commit step persist state,
-    # but signal failure to CI/monitoring if YouTube explicitly requires sign-in.
+        "auth_blocked_channels": auth_blocked, "errors": errors}), flush=True)
     if auth_blocked:
         return 1
-    return 1 if results and all(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results) else 0
+    return 1 if results and errors == len(results) else 0
 
 
 if __name__ == "__main__":

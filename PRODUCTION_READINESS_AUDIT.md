@@ -1,6 +1,6 @@
 # Production Readiness Audit — YouTube Transcript Extractor
 
-**Audit date:** 2026-10-09  
+**Audit date:** 2026-10-10  
 **Repository:** [therandomhuman-hub/Youtube_Transcript_Extractor](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor)  
 **Scope:** repository code, GitHub Actions scheduling/state persistence, deterministic ZIP packaging, and isolated live transcript extraction for `https://www.youtube.com/@isaacverse`.
 
@@ -10,7 +10,7 @@
 
 ## Verified live test
 
-- **Workflow run:** [Isaacverse live test](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956540873)
+- **Workflow run:** [Isaacverse live test](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37965713278)
 - **Git revision tested:** `3b0e51f8e7ceb4b38b0889c92a2c0c1f01e78250`
 - **Target channel:** `https://www.youtube.com/@isaacverse`
 - **Channel status:** `COMPLETED`
@@ -21,7 +21,7 @@
 - **Authentication-blocked items:** 0
 - **Fatal scan errors:** 0
 - **Acceptance gate:** **PASS**
-- **Artifact:** [download test transcripts and audit output](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956540873/artifacts/11632157521)
+- **Artifact:** [download test transcripts and audit output](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37965713278/artifacts/11632157521)
 
 The successful logs explicitly show that the secret was available to the cookie-configuration step, the cookie file was written to the runner's temporary directory, all nine video operations were processed, the channel was marked `COMPLETED`, and the acceptance checks passed. Cookie contents were masked in logs and were not uploaded as an artifact.
 
@@ -48,7 +48,7 @@ The inventory represents the channel's public regular-video items observed durin
 | Six-hour scheduling | Configured in `.github/workflows/transcript-archive.yml` with UTC cron `17 */6 * * *`. |
 | Multi-channel configuration | `channels.txt` accepts one YouTube channel URL per line; duplicate normalized URLs are removed. |
 | Resume/reconciliation | Per-channel manifest records are resumed, missing transcript files are retried, and existing transcript files can repair stale manifest entries. |
-| Completion rules | A channel is moved into `completed/<Channel>/` only when known items have valid saved transcripts and discovery has no fatal errors. |
+| Completion rules | A channel is archived when every known item has a valid transcript or an explicit terminal `NO_CAPTIONS` outcome, and discovery has no fatal errors. |
 | Update feed | New transcript copies and `new_transcripts.json` are stored under `updated/<Channel>/`. |
 | Rate-limit behavior | HTTP 429 responses persist cooldown information; bot/sign-in challenges stop additional video requests for that channel in the run. |
 | Secret handling | Authorized cookie data is passed as a GitHub Actions secret and written only to runner temporary storage. No cookie value is tracked in Git. |
@@ -63,11 +63,27 @@ The canonical folder remains `completed/<Channel>/`. The sibling `completed/<Cha
 
 1. **One channel is validated end to end, not every channel.** Run the full scheduled archive job and review its report before claiming the whole 18-channel list is fully backfilled.
 2. **Authentication can expire.** The successful run confirms this current authorized session worked for the isolated test. A future challenge should stop requests and be handled by refreshing an authorized session or running locally/self-hosted—not by rotating sessions to bypass a restriction.
-3. **Captions are not guaranteed for every video.** Videos with unavailable captions, access restrictions, deletion, or other limitations can remain unresolved and must be tracked rather than counted as completed.
+3. **Captions are not guaranteed for every video.** Videos with no parseable caption tracks are marked `NO_CAPTIONS`, remain visible in the manifest and audit, do not count as saved transcripts, and do not block archival. Authentication failures and other unresolved errors still block completion.
 4. **ZIP behavior is covered by unit tests and CI.** The live-test workflow also packages the completed channel output into its artifact for easy downloading.
 
 ## Recommended verification links
 
-- [Latest live-test workflow](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956540873)
-- [Live-test ZIP/results artifact](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37956540873/artifacts/11632157521)
+- [Latest live-test workflow](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37965713278)
+- [Live-test ZIP/results artifact](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37965713278/artifacts/11632157521)
 - [Repository Actions](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions)
+
+
+## Follow-up audit: full archive timeout and resilience improvements
+
+**Run reviewed:** [YouTube Transcript Archive #1](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37967095967)
+
+The first full backfill reached the 300-minute collection-step timeout after scanning One Person Business, Jad M.H, and Jason Wardrop. The always-run package and commit steps succeeded and preserved partial progress:
+
+- One Person Business: 123/123 items saved; completed archive and ZIP generated.
+- Jad M.H | AI Automation: 184/185 transcript files saved; one Short had no parseable caption tracks.
+- Jason Wardrop: 101/326 items saved before timeout; 225 items remained in DISCOVERED state in its last manifest.
+- Fifteen configured channels had not been reached by the first attempt.
+
+The runner now uses a bounded batch per channel, checkpoints progress and state while collecting, and finalizes reports after the collection step succeeds or fails. The workflow uploads report/state artifacts and starts a fresh run after relevant runner/workflow changes, cancelling a stale run to avoid two writers racing on the same archive.
+
+**Completion semantics:** a channel is completed when every discovered item is accounted for by a valid saved transcript or an explicit `NO_CAPTIONS` result. Caption availability does not alone decide whether the channel can be archived. A no-caption gap remains auditable and is never counted as a transcript; authentication blocks, unresolved failures, and missing/corrupt transcripts still block completion.
