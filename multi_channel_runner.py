@@ -198,7 +198,7 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
         existing = extractor.item_has_saved_transcript(item, manifest, folder)
         if existing is not None:
             continue
-        print(f"[{index}/{len(entries)}] {name or folder.name} — {item.get('title', item['id']}", flush=True)
+        print(f"[{index}/{len(entries)}] {name or folder.name} — {item.get('title', item['id'])}", flush=True)
         try:
             ok, message = extractor.process_item(
                 item, folder, manifest, manifest_path, browser, runtime_name, runtime_path,
