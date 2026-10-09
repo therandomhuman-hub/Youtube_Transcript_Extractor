@@ -149,6 +149,11 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
         if folder.exists():
             shutil.rmtree(folder)
         shutil.copytree(archived, folder)
+        prior_manifest = {}
+        try:
+            prior_manifest = json.loads((folder / "transcript_manifest.json").read_text(encoding="utf-8"))
+        except Exception:
+            pass
     prior_manifest: dict[str, Any] = {}
     if folder and (folder / "transcript_manifest.json").is_file():
         try:
