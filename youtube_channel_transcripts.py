@@ -671,7 +671,7 @@ def seed_manifest_from_entries(manifest_path: Path, manifest: dict[str, dict[str
             existing = manifest[vid]
             merged = {**existing, "video_id": vid, "type": item.get("kind", existing.get("type", "VIDEO")),
                 "title": item.get("title") or existing.get("title") or vid, "url": item.get("url") or existing.get("url") or video_watch_url(vid),
-                "channel": item.get("channel") or existing.get("channel") or "Unknown", "last_discovered_at": utc_now()}
+                "channel": item.get("channel") or existing.get("channel") or "Unknown"}
             if merged != existing: manifest[vid] = merged; changed = True
         else:
             manifest[vid] = {"video_id": vid, "type": item.get("kind", "VIDEO"), "title": item.get("title") or vid,
@@ -804,7 +804,7 @@ def main() -> None:
     name = clean_name(name or fallback_folder_name(channel_url))
     folder = script_dir / name; folder.mkdir(parents=True, exist_ok=True)
     manifest_path = folder / "transcript_manifest.json"; manifest = load_manifest(manifest_path)
-    seed_manifest_from_entries(manifest_path, manifest, entries); entries = merge_pending_manifest_entries(entries, manifest)
+    seed_manifest_from_entries(manifest_path, manifest, entries); entries = merge_pending_manifest_entries(entries, manifest, output_dir=folder)
     model = load_whisper_model(whisper_model_name) if use_whisper and whisper_available() else None
     for i, item in enumerate(entries, 1):
         if item_has_saved_transcript(item, manifest, folder): continue
