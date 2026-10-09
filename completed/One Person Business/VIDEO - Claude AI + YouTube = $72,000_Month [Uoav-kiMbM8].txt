@@ -1,0 +1,219 @@
+Title: Claude AI + YouTube = $72,000/Month
+Channel: One Person Business
+Type: VIDEO
+Video ID: Uoav-kiMbM8
+URL: https://www.youtube.com/watch?v=Uoav-kiMbM8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:07:37+00:00
+
+Kind: captions Language: en All right, I just found a faceless YouTube channel that just started 2 months ago
+and he's already doing over 70 grand a month. So, I spent the last 7 days trying to see if I can recreate this
+channel with AI. And not only did I succeed, but I'm able to recreate these videos in less than 10 minutes.
+So, in this step-by-step tutorial, not only will I show you how to start a channel with AI, but I'm also going
+to show you how to beat this new AI algorithm to get views fast. And the reason I know this works is because I
+have a venture capital that invests in YouTube creators. So, I have access to data that literally no one else
+has. And I've been doing faceless YouTube myself for over a decade. I know you don't really care, so let's
+start with step number one. Now, first I want to show you the channel so you know that this is real. So, we're
+going to search for David Rector's and you're going to see the channel that shows up here. You see, this is
+actually not a real human. This is an AI avatar. If you go to his most popular videos, you'll see hundreds of
+thousands of views and he started posting 2 months ago. But even more importantly, he actually made this
+account 2 months ago. You can see that right here. So, he wasn't posting anything before this. And he's
+selling PDF guides and digital products, which allows him to make even more money. I have this tool that
+allows me to calculate their estimated earnings just from ad revenue and it estimates they're doing around 70
+grand a month from ad revenue, which I honestly think might be a little bit inflated. I think they're doing a
+little bit less from ads, but if they're selling a digital product, they could easily be doing a lot more than
+that. And they're not the only one. Like this channel over here, they also started 1 month ago and their first
+video got a million views. And we can see that they started their account in May of 2026. That's literally 31
+days ago and they already got 3.4 million views, which this tool estimates made them almost $10,000 from ad
+revenue in the first 30 days of starting. And here's another YouTube channel using the same format. They also
+started 1 month ago and they're getting millions of views. Here's another one using that same format. Also
+started just 1 month ago getting millions of views. Here's another one over here. First video 2.1 million
+views. Here's another one over here. This one has been around for a while and he consistently gets millions of
+views with this format. The point is a lot of people are now blowing up on faceless YouTube because of this
+new algorithm. I have a list of over a thousand channels making between $5,000 and $50,000 a month. All right,
+step number two is to build a brain. For this, you're just going to go over to Claude.ai. You're then simply
+going to go to the projects and then click on new project right over here and you just want to name it after
+your niche type in that you're trying to achieve. We're going to reverse engineer the winners and pull better
+than them and then we'll come back to it every single video we ever make. So, I'm going to create a project
+like this. Now, in the instructions box, we're going to make this act as a actual YouTube strategist and not a
+generic chatbot. So, there is a very specific prompt that you must use for this and you also need to insert
+your niche inside of this box and then everything else stays the same. Now, all of the prompts that I'm
+sharing are available for free inside of my free community. When you go to the classroom right here, just
+click on AI systems and then on the left side, you will find David retires. You will click on this link that
+opens a notion document with all of the prompts that we're using and you can just copy this first prompt from
+here and click on save instructions. Step number three. All right, now we need to use steal like an artist.
+So, you are going to go to your competitor channel. You will go to their most popular videos and you will
+simply take a screenshot of as many videos as you can catch. So, I'm going to go like this. I'll upload that
+to the chat inside of this project and alongside with it, I'm just going to copy and paste this prompt. Now,
+as I submit this, I need you to understand that that's how the whole YouTube platform works. I mean, I just
+recently made a post showing that people are turning birds channels into insects channels, then insects
+channels into fish channels, that into cats, cats into dogs and parenting and babies. Everyone is getting some
+inspiration from somewhere, including the biggest YouTuber on the planet. So, there is nothing wrong with
+stealing like an artist. So, let's just let Claude do its work. Now, we can see that it's first extracting the
+title formulas, then the thumbnail formulas. It's showing us what's actually working, and then based on that,
+it's giving us even stronger ideas. And I like these because they're targeting seniors, which is the highest
+paying audience on the platform. Step number four, just pick one of those ideas, and then move on to the next
+prompt. We have to actually make these videos non-generic because if you just share generic stuff that
+everyone already knows, you're never going to get views. That's why we sometimes see great videos and great
+packaging that just don't get views. Because YouTube's AI algorithm can now read through your videos instantly
+and understand that you're just sharing what everyone already knows. So, to fix that, we're literally just
+going to go to Claude, and we're going to paste that prompt from the document. Where you just have to copy and
+paste your title. Next step, once we have those unique points, we have to write the script. And there are
+three ways to write the script. Option number one is to go to Fiverr and just hire someone to do that for you.
+If you go and search for a YouTube script writer, you'll find a couple of options. They usually start at $175
+per 1,000 words script, but that's not enough because we need longer scripts, which are over 2,000 words long,
+and that can end up being $250, which is pretty expensive. So, then option number two is to just go to Google
+Docs and start writing the script yourself, which is completely free, but is very time-consuming. And I mean,
+yes, you can ask Claude and ChatGPT to write scripts for you, but they don't have access to YouTube data. They
+don't understand what actually works and what doesn't, and they usually give you generic slop that no one
+wants to listen to. People use these scripts, and then they wonder why they're not getting views or making any
+money from their channels. So, what I personally use is this AI tool called solo.ai, where inside you can go
+to the content category on the left, and you can select YouTube script writer, which was trained on thousands
+of different channels that are already viral, that are getting results, and it has access to frameworks and
+hooks that are actually proven to get results. And first of all, you can just describe what the video is
+about. You can paste your title in this box, and when it asks you for details, you can add different YouTube
+links, PDF files. The more data that you give it, the more unique with script you're going to get. Or you can
+just click on the text node and you can grab these points that Claude has wrote for you, like 10 points that
+feel new and unique. And then when it asks you for a style of writing, you can just model the style that's
+already working. I can just go to this YouTube video, I can copy its URL, paste it inside of this box, and
+then select my monetization goal to be our revenue. I just want to maximize my watch time. And then you can
+select how long you want your videos to be. Let's say I want around 10 minutes, and then just generate the
+script. It takes about 90 seconds. It is like less than a dollar to get a highest quality possible script
+compared to paying a human who would take 10 days to deliver and would charge $250. That's absolutely crazy.
+Next step, once you have the script, we need these visual and you and you see he has these animations running
+in the background. And then he also has this sort of avatar that speaks. This is an AI avatar. This is flagged
+as AI and we can see him speaking on the right and there is also some captions showing on the screen. And this
+is insanely easy to make now. There are two ways to do it. The first is what I do as I just go to solo.ai, I
+go to visuals on the left and I select a scene generator. And right here you can just paste your YouTube
+script on the right side you can select how many scenes you want. It goes up to 150 scenes. And then there is
+many different styles that you can pick and choose from so you can have something unique. There is also GTA 6
+style for those of you that want to get into GTA because it's a very trendy thing right now. But for the sake
+of this tutorial, I'm just going to go with cinematic 2D animation. I like that one the most. And now I can
+just copy my script. By the way, you can see it's 2.1 thousand words long. That's crazy. Paste the full script
+in this box and just click on generate full bulk scenes. And once it does generate, I can just download them
+with one press of a button. I mean, the alternative is to go to ChatGPT or Claude and just ask it to write
+these prompts for you. You can say, "I will now paste my YouTube script. For each sentence, I need you to make
+a prompt that I can copy and paste to generate consistent 2D animation scenes and then each prompt needs to
+include 16 by 9 aspect ratio." And then it's going to analyze your script and then for each sentence it's
+going to give you a prompt that you can then copy and paste manually into a Nano Banana one by one, which to
+be fair, it is a completely viable option. It just takes a couple of days to create one video. So, you just
+select create image right here, then copy one of these prompts, paste it, submit, and then you have to wait
+for it to generate because you're not allowed to submit the next prompt until the first one has been created.
+But, in the meantime, you can copy it and paste it again and just continue doing it over and over again. All
+right, the next step is to just create this AI host. Now, this is completely optional because most of these
+channels do not have an AI host like that. And I actually don't even like these AI hosts because it makes it
+look a little bit spammy and sketchy. This just looks like someone drew this and it looks like high-effort
+video, but when you slap an AI host, it kind of screams AI slop. So, honestly, completely optional. But, if
+you do want to do it, you can just go to personas on the left side inside of Solo and you can either select
+avatar or influencer. Pretty much the same thing where you can create a new avatar from scratch either by
+uploading a photo or by generating it with AI. And then you just paste your script and it creates that AI host
+that speaks for you. It reads the script for you. It's pretty much the same thing you can get with heygen.com
+where they allow you to create these AI avatars by just pasting a script and then you can just select who you
+want to read your script. You can even copy yourself. You can clone yourself if you wish. All right, the next
+step is to get someone to read your script. Now, honestly, this is the part where I recommend you not use AI.
+I actually do recommend recording your own voice. Not that you are not allowed to use AI. All my channels use
+AI and they're completely monetized. But, in order to stand out in a sea of everyone using AI voices, when
+people don't have time to record their own voice like myself, you can actually use a real human voice, your
+own voice that is unique. Perhaps you have an accent, which is really good. Perhaps you're not a fluent
+English speaker, which is even better. It's more interesting. It's more unique. If it's too perfect, it's
+actually not good. So, you can just use a free online voice recorder. Just press here and start recording your
+voice, start reading your script, and there you go. You have a voice over for free. Because honestly, the
+alternative, if you were to hire someone to read your scripts, like even if you select the cheapest option
+here, 150 words is $100. So, that means that our script, which is over 2,000 words, would be over a grand.
+Like, that's crazy. Now, what I actually use is inside of Solo, you can just copy your script, you can go to
+the voice category on the left side, and click on voice over right here, and you can pick and choose from 9
+and 1/2 thousand different voices. Just select the style you like. select the age, the gender, the language,
+then choose which one you want, paste your script, and click generate. Then, you just download the voice over.
+Now, before we continue with the most important part, some of you might be wondering why on earth would I even
+be showing you a channel that's making 70 grand a month. Why am I not just keeping this for myself? Why would
+I make this tutorial? Well, first of all, because I run a venture capital, which only invests in YouTube
+channels that make at least $5,000 a month. So, my goal is to get as many of you to at least five grand a
+month, so that you can then potentially sell that channel to me, and I would scale it further. That's how I
+make majority of my money. But, if you're not making money from YouTube, and you're not applying to my venture
+capital for me to invest in it, then I have absolutely nothing. Secondly, I use Solo for everything, but I am
+an affiliate, so I also earn an affiliate commission when someone signs up using my link. I actually get 10%
+every single month from every single one of you that signs up using the link from the description. So, so far,
+I've actually made over seven grand as an affiliate, and it's kind of compounds because it's recurring every
+month. So, that's yet another reason why I'm making this tutorial. And third, because there is no competition
+on YouTube, and the more people that are doing faceless YouTube, the better for everyone in this community. I
+recently made a post explaining how YouTube is not saturated even 1%. I highly recommend you check out this
+post. I'm proving to you that there is zero saturation, and we actually need to post more. All of us need to
+start channels in different niches, so we can all grow all together. Also, this second post explains also why
+there is no competition if you do it the way that I teach. Anyways, next let's talk about thumbnails.
+Thumbnails are these small images that you see before you click on someone's video. There are two options.
+There is a thumbnail maker inside of Solo where you can recreate thumbnails just by pasting a link. So, you
+can click here and then you can copy the link of a thumbnail that you're trying to recreate, paste it inside
+of this box, and on the right side you can upload a persona. So, you can select your images. You can also
+describe what changes you would like to make to your thumbnail. I'm just going to keep it as it is and I'll
+see if it's going to insert me correctly. Now, we can see at the bottom that it's processing. To be honest,
+the result is really good considering I didn't enter any prompts. You can also make thumbnails for free inside
+of canva.com. You would have to do it manually, but it is completely free. Next up, you just have to put
+everything together inside of CapCut. Here's I have some random scenes from the last video. All I have to do
+is just import everything, drag and drop it to the timeline, add that voice over that I've generated in the
+past, and then I can just adjust the scenes so they fit correctly. I would have to listen to the voice and
+then adjust the scenes. Now, unfortunately, at the moment you have to do this manually, but there is new
+feature coming into Solo very soon which automatically does this for you. So, it time stamps everything and
+you don't have to manually have to drag and drop everything and put it together. It just puts it together for
+you. But, at the moment we have to do it manually. And then you see like the scenes are changing as the video
+goes on. Now, the question many of you have, can you still monetize AI? And the answer is of course you can.
+All my faceless channels are still monetized and I earn every single day from them. Again, I have a list over
+a thousand channels that are using AI. They're not just monetized, but making five to fifty thousand dollars a
+month consistently. The YouTube CEO, Neal Mohan, strongly supports AI and they are building AI tools for
+creators. They're constantly launching new stuff for us to use. I mean, I don't know if you know this, but AI
+is baked directly into YouTube Studio now. If you just press here, you'll see the AI Gemini inside over here
+analyzing everything for you. So, they want us to use AI. Now, someone might be asking, but is YouTube maybe
+be saturated now? Is it too late? And the answer is absolutely not. We're not saturated even 1%. I again made
+a post sharing that for example, this channel started 1 month ago, gets millions of views with this style of
+content. This channel started a month ago. Their first video has half a million views. By the way, you can
+check that for yourself. Go to Battlefront Show. Go to all these videos. First channel half a million views,
+second video 4.2 million views. This channel over here, Blackwater, literally first video got 2 million views.
+It's still growing. Like just go to Blackwater Labs and you'll see 9 days ago 2 million views first video on
+the channel. Here's another one using this style of animation. First video on the channel almost 100,000
+views. First upload over here 900,000 views, second one 1.5 million views. First upload on this channel
+900,000 views. And in this post you'll see a bunch of other examples of channels that literally started just
+30 days ago that are absolutely exploding. And even the niches where people say that they're way too saturated
+or not, there are new channels exploding. But just keep in mind that these are not average results. So not
+everyone that starts explodes in the first 30 days and that's completely normal. It just proves that it is
+possible it can happen if you do things the right way. This is a business just like any other and I know that
+people like to call it YouTube automation, but honestly nothing here is fully automated and it shouldn't be.
+If you fully automate everything with N8N and AI, you're not going to grow. You're going to get shadowbanned
+or demonetized completely. That's not how you do it. You can use AI as a tool to create videos faster and
+better, but you're not allowed to fully automate everything so you become a content farm and you don't do
+anything and you just press a button and somehow money shows up. That's not how it's ever going to work.
+Anyways, next step we saw that he's also selling a digital product which is a huge reason why he's able to
+make so much money and we know that a lot of other faceless channels are also making a lot more money from
+digital products than they are making from ad revenue. Here's a faceless channel sharing the Japanese method
+which is a book that they sell for $26. Like a PDF guide. Here's another one over here, American Hearth, and
+they're selling a PDF guide. There's another channel over here selling a ebook also from their faceless
+channel. And there is a new feature inside of Solo which builds these digital products for you. You can either
+describe your niche and fill it out all manually by yourself, fill out how much you want to sell this for, and
+it creates the entire product for you so you just start selling it right away. Or even easier, if you don't
+feel like filling anything out, you just paste a screenshot of your channel. So let's say for example, if this
+were my channel, I can just paste that screenshot inside of this box. I can just paste the link to my YouTube
+channel so it analyzes videos, titles, transcripts, and my audience. Then I just click build it for me. Now
+the manual is also pretty cool because you can just say who your audience is, who's the buyer type, and what
+do you want to sell it for, then what's their desired outcome. You can fill this out and it's using formulas
+and frameworks that are proven to convert, that are proven to actually sell, and it creates PDF guides that
+genuinely help your audience. You're not just selling generic slope. It also builds a sales page for you. Let
+me show you some of the previous products that I was able to build with this. So it gives unique points that
+we can use, a full guide that I can download with my browser button. Let me just say download PDF and that's
+it. Then you also have the sales page completed that you can copy and paste right away. I'm selling this one
+for example for 99 bucks, and it also gives users checklists and templates so that this feels actionable and
+not just like yet another PDF guide that looks sloppy. Now one last warning, even though this channel is
+monetized and is selling digital products, this is not something I would personally do. I would really not
+mess with finances, money, mortgages, and all of these things. It's a very sensitive subject and if they say
+something wrong, they could easily get terminated from YouTube. But the style and the format of their videos
+is something that applies to literally almost any other niche. So I would rather find some other niche and
+just apply that format and start making videos there. So everything that we spoke about today, just apply it
+to a different niche that's a little bit more safe and just create a digital product to sell. Again, there's a
+guy literally talking about backyard birds and he's getting millions of views. The hell, this guy is talking
+about insects in your backyard and getting millions of views. Or like this guy who makes videos about the
+World Cup getting hundreds of thousands of views and he started 1 month ago. So just choose a safe niche,
+apply this style of animation format to your videos, use the prompts that I gave you to create viral video
+ideas and attach a digital product that you can sell so you not only make money from ad revenue, but you make
+even more with digital products that you link in the description. This, like any other business, is risky and
+results are not guaranteed. I'm just showing you what it works for me and for thousands of other people, but
+whatever you do very much may not work for you. If you want to see how to beat this new AI algorithm and
+actually get views on YouTube, then make sure to watch this video next. You can just click here and I guess I
+will see you there.

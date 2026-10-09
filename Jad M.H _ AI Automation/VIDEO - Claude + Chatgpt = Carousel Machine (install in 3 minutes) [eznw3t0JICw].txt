@@ -1,0 +1,64 @@
+Title: Claude + Chatgpt = Carousel  Machine (install in 3 minutes)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: eznw3t0JICw
+URL: https://www.youtube.com/watch?v=eznw3t0JICw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:25:31+00:00
+
+Kind: captions Language: en A while back, I posted a video about carousel on TikTok, and it kind of went wild.
+Hundreds of thousands of views, hundreds of comments. A lot of people loved it, but a lot of people were also
+asking the same thing. How do I actually use this? And that's fair. Everyone's at a different point with AI,
+and that video I gave you the resource, but I never really showed you how to implement it. So, that's what
+this video is. I'm going to show you exactly how to run it. Before I built my own carousel generator, I went
+through YouTube, I went through every resources I could find on the internet, and I couldn't find a single AI
+generated carousel that actually looked good. They all looked sloppy, vibe coded, nothing where you could just
+drop in a prompt and get something you'd actually want to post. You always had to go back and forth and
+changing a few things. I actually wasted so much time by doing this. This one took me nights and days to
+build, and I'm giving it away completely free. You can copy it and use it as your own. All I ask is that you
+show me some support. Leave a like, a follow, and a comment. Tell me what you think. One more thing before we
+start. Someone commented that all the carousels looked the same. That video, yeah, they did. That was
+intentional because that specific carousel had to follow one particular style. But in this video, you'll be
+able to build your own style and change it however you want. All right, let's get right into the video. So,
+this is how it works. First, you come up with an idea. And sometimes you can just give it a title and it will
+understand the context. As I did and you can see here, I just wrote Opus 5. That's it. And once it gets the
+Opus 5, it goes and looks into the internet what is relevant. Then we see Kai.ai. Kai.ai is basically the
+image generator. It's the cheapest place where you can pay to get images. It connects with Nano Banana GBT um
+whatever models there are to create images on. And to save time and money, we're using the code. That's the
+step three. Basically, you see the headlines, the accent, the words, the charts. All those things will be
+coded by Claude code. >> Step four, it's quite simple. It goes through your browser internally, and it goes
+and tries to find the relevant posts, Reddit posts, YouTube posts, whatever it is that is relevant to your
+topic. And it pulls those and puts them into your carousel. Step five is the export-ready post, and you can
+use it. Now, let's talk a little bit about math and how much does this cost. So, if you didn't have the
+carousel generator, you would spend around 45 minutes to 3 hours designing something really pleasing. Um and
+with the carousel generator, we're talking about pennies that you will be spending. So, if you're using Kai,
+you can just put $5, and you will have 4 months um generating images for your Instagram, TikTok, whatever page
+you want to put it in. And on top of that, you don't need to have the Claude subscription. You can take the
+cheapest one, which is $20, so $25 and $20 monthly, which I think now everybody has a Claude subscription. >>
+Okay. So, now we're going to go to our home page, and we're going to double-click and create a new folder.
+Let's call it carousel YouTube video. We're going to open this folder, and we're going to go to our Google
+Drive that I will be sharing down the description. You only install the zip. Once it's installed, we're simply
+just going to go, drag it, and drop it into our folder. So, there are two ways we can do it. The first way is
+we can have our Claude terminal right here, or we can just use our Claude app. Where now I'll be using our
+Claude app. So, this is how it should look like. You click on Claude, new code, new session. Let me close
+this, and choose the folder. Voilà. Generate carousel, YouTube video, and I will open it. Once you have the
+folder in, we're simply going to go to our prompt. So, there are two documents. One is like read me first. If
+you're not watching the video, this will show you step-by-step how to do this. But, we're going to go here,
+paste into Claude. I copy all of this, and I paste the prompt. Once Claude is working on it, we're going to go
+and fetch our API. So, to be able to get an API, we're going to go create new API key, and we can call it
+carousel. And you want to make sure you have all models by default, and you create. Yeah, already have one.
+It's right here. So, now I want to talk a little bit about how does this work? So, it's quite simple. It's a
+carousel style sheet, where it's going to respect the guardrails, and not have these hallucinations. It's
+going to know what type of fonts it's supposed to use, what type of pallets, and the world that it lives in,
+and how in general it should look like this slide anatomy. And here is another one. Also looks kind of the
+same as the other image, but it's the carousel style sheet, where it's also going to respect the fonts, the
+colors, the world, the slide anatomy. So, you can change this in a way that matches your style. Now, let's go
+back to our Claude session. Okay, so for the first one the topic, let's say Claude code for not coders. Let's
+just say yes. The number two, three, we're going to say six and let's put our handle build.with.jades. And
+then last one, should we add a mascot? Let's say yes. But before I paste this in, I'm going to give them my
+API, the one that we got from Kai. Simply copy it. Here is my kai.pai API key and I paste it. It looks like
+it's done and this is what it came up with. So, that's nice. It came reference image from the internet.
+Changed background. So, these things you see how makes the call. This is fully coded that Claude code did. Got
+us another charts. Honestly, I'm quite pleased with these images. That'll be it for this video. If you have
+any questions, just leave a comment. I would love to help and I'll see you on the next one.

@@ -1,0 +1,18 @@
+Title: How now you can run an AI completely offline. #ai #qwenai #ollama #llm #aimodel
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 031h8owTe2g
+URL: https://www.youtube.com/watch?v=031h8owTe2g
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:28:40+00:00
+
+Kind: captions Language: en You can now run a genuinely capable AI model completely offline on a normal laptop
+for free. Alibaba just open-sourced a set of tiny Qwen 3.5 models, versions small enough to run on your own
+machine with no internet and no monthly bill. Here's how it works. You install a free app called Ollama, with
+double L. You pull the model down once, and from then on, it runs entirely on your computer. Your prompts
+never leave the device. So, you can draft emails, summarize documents, sort your notes, all of it private and
+offline, even on a planet with no Wi-Fi. And the smallest one is under a gigabyte, so it would actually run on
+a regular laptop instead of a some big monster gaming rig. The catch is are small models, so they're for
+everyday private stuff, not the deep reasoning. But free, offline, and it's forever yours. It's a real trade.
+Comment Qwen and I'll send you the setup directly.

@@ -1,0 +1,61 @@
+Title: The Higgsfield API Changes Everything
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: h32jJQdewko
+URL: https://www.youtube.com/watch?v=h32jJQdewko
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:18:01+00:00
+
+Kind: captions Language: en While subscription credits expire at the end of the month, meaning any leftovers
+that you don't use are [music] gone forever and they don't roll over. >> I just paid for the ultra plan and
+burned through 42% of my monthly credit in 3 days. >> Subscription credits don't roll over, period. The dark
+patternings of their subscription funnel >> is not unlimited. That's a leash. They're taking advantage of you.
+>> I'm paying for a Higgsfield plan right now and after this week, I'm honestly not sure if I need it anymore.
+Higgsfield just released their API, that means you don't need a monthly subscription to use it as playing and
+all the top videos image models. You [music] just pay for what you generate and that's it. Here's the thing,
+every month I end up with credits I don't use and I know I'm not the only one. It has been a huge issue for a
+while. A lot of people were complaining that Higgsfield needs an API because you pay for the plan, you get
+busy and the month resets. So, basically that money is gone. So, this video will go through things. The first
+one is pricing. It's super important. We should definitely not skip this part because this is the whole reason
+to care. And the second part, I will show you how to set it up so you can just tell Claude or Codex, "Make me
+a video." and it does it correctly. And do not take the pound that they're giving you ahead in Higgsfield.
+[music] And like always, I'm not sponsored. Higgsfield isn't paying you for this. If you find this valuable,
+just leave a like and a follow. It will mean a lot to me. So, first, what did we have before? Only
+subscription plans. And if you look at them, you have plus, ultra, and the team plans that go up per seat.
+Every single plan gives you a fixed amount of credits every month, whether you use them or not. Now, the API
+is a complete separate thing. This is important. If you pay for a subscription, that money does not work on
+the API. And if you only want the API, you don't need the subscription at all. It works like any API. You put
+money in a wallet and and every generation takes a little bit out. And if you sign with a business email, they
+will give you $15 to try it. You just need to add a card first to unlock it. Now, this is the most important
+part. Is this actually cheaper? So, I compared it to Pexels, which was basically the main pay-as-you-go option
+before this. On CeeDee Arnault, it's around 30% cheaper. On Kling, it's around 50% cheaper. And the image
+model is around 20% cheaper. So, it's either cheaper or has models you can't pay to get on Pexels. Also,
+there's a launch deal for the first 7 days. You pick two video models and one image model, and those get up to
+50% off. My honest advice, use one of your picks and CeeDee Arnault 2.5. It's the best video model right now.
+Okay, now let me make it clear and super simple. This is a part that people get confused about. The base plan
+is $59 a month. That gives you 1,200 credits, which Hicksfield says it has 137 Kling videos. Those exact same
+videos, 137 on the API, 5 seconds each, it costs about $57. So, even if you use every single credit, the API
+is already a bit cheaper. But, let's be honest with ourselves. Are we really making 137 videos every month? If
+you make only 40 this month, the subscription is still 59. On the API, that's $16. Now that you understand the
+pricing, let's set it up. It's five steps, and it takes literally a few minutes. I already have an Hicksfield
+account, but for this case of this video, I'll create a new one. Okay, they're giving me a few questions right
+here. I'm just going to say this personal to cinematic generation. Then under discounts, Hicksfield is then
+saying when it comes to discounts, okay, I see. I cannot use my work email. Okay, now that we're in the API
+key, we're just going to click in here at the So, once you're in the API key, you simply click on create API.
+Well, let's call it YouTube video, and I copy my API key there. This is the part that a lot of people get
+confused. On here, you see quick start. In here, it gives us a prompt to paste into your agent. You have to
+skip this prompt. The prompt is the developers building Higgs Field into their own app. You and me. We just
+want to say, "Make me a video with C Dance." and get the video. So, we don't need the entire app, basically.
+Now, this is the part that is really cool. So, we have here, basically, that we can just have. And basically,
+either we take the skill and we run our Higgs Field locally, create and cloud design, or we can simply just
+use their own platform. And you paste here the API key. Once you have your API key pasted, and that's it,
+you're able to use any model you want without needing to use a Higgs Field subscription. What I'll do right
+now is generate video to see if it actually works. I'm just going to put it in 10 seconds. I'll leave the
+audio on. And I'll paste the this prompt of a video, and I'll click on generate. Some reasons I'm getting an
+error. I don't understand why. Oh, I didn't add the uh money in the API keys. I just need to add credits here.
+It's just done the video. Let's see. Yeah, I mean, the sound and the visual looks like it's actually C Dance
+2.5. So, this is a short video. Hopefully, it's not too long for you. I appreciate you sticking all the way to
+the end. If you want to learn more about AI, there Here is my free school community. You can join it whenever
+you want. I do leave some free resources, some skills that you can simply just have. I'll see you on the next
+one.

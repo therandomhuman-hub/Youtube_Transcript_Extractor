@@ -1,0 +1,20 @@
+Title: OpenAI just cut the price of its cheap models byup to 80%. #ai #chatGPT #luna #OpenAI #aiautomation
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: urrQH4gnie0
+URL: https://www.youtube.com/watch?v=urrQH4gnie0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:27:26+00:00
+
+Kind: captions Language: en OpenAI just cut the prices of its cheap model by 80% and if you're building
+anything on the API, your bill changed overnight. As of July 30th, GBT 5.6 Luna went from a dollar per million
+input tokens down to 20 cents with output at a dollar 20. Terra dropped 20% to $2 in and 12 out. Another
+model, Sol, the Frontier one, didn't move, still five and 30. So, the cheapest tier is now roughly five times
+cheaper than it was last week. For most of what people actually do with these models is summarizing,
+extracting, classifying, or drafting. Luna clears the job fine. OpenAI also swapped priority processing for a
+fast model in the API, which runs Sol up to two and a half times faster for double the price. Here's the
+honest parts of the price. A price cut is not a quality upgrade. Luna is still the small model, so if you're
+doing a hard reasoning, it will fail cheaper, not better. Test it on your own prompts before you switch
+everything over. Comment cheap and I'll send you the new prices table and where each tier actually makes
+sense.

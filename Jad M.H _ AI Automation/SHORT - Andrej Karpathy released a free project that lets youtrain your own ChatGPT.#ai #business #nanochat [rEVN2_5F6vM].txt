@@ -1,0 +1,18 @@
+Title: Andrej Karpathy released a free project that lets youtrain your own ChatGPT.#ai #business #nanochat
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: rEVN2_5F6vM
+URL: https://www.youtube.com/watch?v=rEVN2_5F6vM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:55:45+00:00
+
+Kind: captions Language: en The guy who ran AI at Tesla just handed you the entire receipt to train your own
+ChatGPT for 100 bucks. It's called NanoChat. It's completely free on GitHub and it's already passed 40,000
+stars. Here's what it actually does. It's one clean code base under 8,000 lines that run the whole ChatGPT
+process end-to-end. It prepares the data, trains the model, teaches it to hold a conversation, and then hands
+you a web page where you can actually talk to the thing. To the thing you just built. And there's only one
+dial to turn, how deep the model is, and this sets everything else for you automatically. About 4 hours later,
+you're chatting with your own mini ChatGPT. Now, the honest catch, $800 buys you something closer to a clever
+kid, and it takes around a thousand to get a real reasoning. But you built it start to finish. Comment Nano
+and I'll send you the repo and the setup directly.

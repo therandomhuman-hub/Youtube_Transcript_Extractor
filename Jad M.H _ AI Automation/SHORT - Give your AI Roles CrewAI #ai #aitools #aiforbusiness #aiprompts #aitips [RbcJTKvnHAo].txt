@@ -1,0 +1,18 @@
+Title: Give your AI Roles CrewAI #ai #aitools #aiforbusiness #aiprompts #aitips
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: RbcJTKvnHAo
+URL: https://www.youtube.com/watch?v=RbcJTKvnHAo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:42:44+00:00
+
+Kind: captions Language: en Instead of an AI trying to do everything badly, this free framework gives you a
+crew with actual job roles. It's called Crew AI. 44,000 stars, over 5 million downloads a month, and the idea
+is simple. You define a research, a writer, and an editor. You give each one a role, a goal, and the tools
+it's allowed to use. Then, they hand work to each other like an actual team. The researcher gathers, the
+writer drafts, the editor cleans it up. And it works way better than one giant prompt because each agent only
+has to be good at one job. People are running real content pipelines, lead qualifications, and support triage
+on this thing. Here's the catch. You need to hear this first. Every agent is its own model. So, a five-agent
+crew costs roughly five times what a single agent costs. And it's five times slower. I made a starter guide
+with a working two-agent crew called Crew AI, and I'll send it over.

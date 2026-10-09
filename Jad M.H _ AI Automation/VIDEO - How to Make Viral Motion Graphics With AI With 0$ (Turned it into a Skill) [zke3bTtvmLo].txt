@@ -1,0 +1,104 @@
+Title: How to Make Viral Motion Graphics With AI With 0$ (Turned it into a Skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: zke3bTtvmLo
+URL: https://www.youtube.com/watch?v=zke3bTtvmLo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:09:28+00:00
+
+Kind: captions Language: en Everything you're watching right now, Claude made. The story, the animation, the
+music, every single sound effect, and there are 375 of them. No After Effect, no Sono, no stock music
+websites, and it cost me $0. This is the third of three videos I made with Claude to test it out. The first
+one from a simple prompt, second one with a bit better. I didn't think AI could do this yet, and today I'll
+show you all three exactly what changed between them so you can make your own. And before anything, I turned
+everything in this video into a skill that you can install and use on your own Claude under 2 minutes. It's
+free and my skill community link is in the description. As you know me, I'm not gatekeeping any of this. And
+because the music and the sound all run locally on my laptop, it's literally $0. No API keys, no credits,
+nothing on top of Claude. And just so you know, I'm not sponsored. Nobody paid me to make this video. I don't
+make a single dollar from the skill by I'm doing this because I genuinely enjoy it and I thought I would share
+it with you. So you can go grab it right now, but the only thing I'm asking, I would really appreciate if you
+stick all the way to the end of this video. First reason is because if you don't, there's no how it works, you
+won't you won't get the good videos out of it. And the second reason, it really pushes my videos. I'm not
+asking for [music] money. I'm asking for something more important. I'm asking for your attention, and I will
+try to give you the most value there is. So let's get right into it. So on September 22nd, Anthropic released
+Opus 5.5, and within a few days, my Twitter feed was just motion graphics. Like this one from Stefan Levero,
+"Sentence make a dynamic 50 seconds motion graphics video that shows what an incredible motion designer you
+are." And it got 2.2 million views. >> [music] >> This one from Tony, just 1 year ago, I paid over $1,000 for
+a video like this. Now, I made Opus 5.5 in less than 30 minutes, which I also did in less than 30 minutes. >>
+[music] >> And this one is actually crazy. It's from Dolmolt. He posted it. I spoke to my computer for 5
+minutes, Claude worked for 12 hours, and I woke up to this, almost 4 million views. >> I see sparks [music] of
+AGI in your eyes. Your circuits make me nervous. That's no [music] surprise. There was a sudden drop in your
+training loss. Now, I'm your servant, and you're my boss. ChatGPT, please don't [music] eat me alive. I'm up
+in my people, my hear the bass elicit boom, and trapped in the trippy room with a bag [music] of shrooms. See
+through the sugar flies. >> [music] >> We had a stable training run, [music] but now the singularity's begun,
+and you're optimizing, [music] accelerating. I feel my atoms rearranging. Please let me I'm up in my people,
+my hear the bass elicit boom, [music] and VDA to the moon. Your mega points coming soon. 2035 the second. And
+that was safe enough, we ran. >> [music] >> And all the captions say the same thing. One prompt, one shot. So,
+of course, everybody tries it. And Rexton Wong said what everyone was thinking. Everyone says they created it
+with one prompt, but his video looked like it looked mid. So, is it really one prompt or is it just a trust
+me, bro situation here? Harik, who works on Claude code at Anthropic, answered on one tweet. The post, Claude
+one shot this prompt, 10,000 characters plus skill examples and API keys. And Donald's prompts almost 10,000
+characters. That's not one prompt. That's a whole document. There is this article on Twitter by Moves, 1.7
+million views. And one line stuck with me, the prompt is 10% of the video. The other 90% is the setup around
+it. So, what I did is I took and I fed my AI with all the knowledge and I tested it for my three videos. One,
+the same simple prompt, better and best. But first, one thing most people don't get, Claude can't make video.
+It's outputs. It can't output MP4. It only writes text. So, what it does is writes code. Basically, a web page
+that knows exactly what the screen should look like at every moment. Then, a browser opens in the background,
+takes a screenshot of every single frame, and a free tool called FFmpeg >> [music] >> glues them together into
+an MP4. At 60 frames a second, a 16-second video is 960 screenshots. And because it's code, everything is
+editable. You don't like the color, you can change it, line and the render again. So, why did I use a open
+free source framework for this, called Hyperframes, as a lot people know? Because if you don't give Claude a
+framework, he usually builds everything from scratch. Every single time it starts from a setup that already
+works. All right. [music] So, here's the first video. It's a simple prompt. I took a viral sentence, the show
+real one, and I added a few lines about the look, the soft space, the colors, a nice serif fonts. I'll let you
+look at it and watch it. So, 16 seconds, 60 frames, seven techniques, and labels every one of them in a
+corner, like a real showreel. For one short message, this is actually insane. But, here's the thing. Hundreds
+of people use the exact same sentence. So, all those reels kind of look the same now. And there is no sound,
+there is no real idea behind it because the prompt doesn't have one. So, I tried to test that first with a
+single prompt. Now, for my second video, is a bit better. There is a huge difference, I'd say, because motion
+graphics without sound feel like a PowerPoint. Sound is the start to feel like a real video. Now, the normal
+way to do this is either Suno for the music and Eleven Labs for the voice. >> [music] >> A stock site for
+sound effects, that's three subscriptions, three API keys, and you pay per song, per character, per download.
+And I didn't want any of that. [music] So, I found a music model called Ace Step 1.5. It's free. It's open
+source, and it runs on my laptop. And my laptop is not a beast. It's a MacBook Air, 16 gigs of RAM. So, for
+video two, I told Claude, "You're the songwriter, you're the animator, and the sound designer. With original
+song about making motion graphics with AI. Make it on my Mac, and make a lyric video where every word shows up
+exactly when it's sung." And Claude did the whole thing by itself. Wrote the lyrics, the hook, the sentence,
+the 60 frames. It made 12 versions of the songs. Then it checked every one. I'll let you watch it, and you
+tell me what you think. >> Talking out loud, head in >> [music] >> hand in time, watch the words come alive.
+>> [music] >> Every word becomes a picture, every beat a brand new >> [music] >> There is a fun fact. One line
+has much effect on the voice the that the transcription heard. Something else should insert instead of type it
+out. It's enter same syllables. So Claude just matched them in order. And the sound effects, it didn't
+download a single one. It made them with code. Wooshes, [music] impacts, a riser into the drop like sparkles.
+Basically a math that sounds like a woosh. And there's one trick I used. I told Claude exactly what's not
+allowed what it's not allowed to use. Every color, every font, every effect from my computer, every effect
+from my other videos. Because if you don't ban the defaults, it goes back to that. Center text, everything
+everything fading in. That's the look that everyone gets. And that video too literally cost me zero dollars.
+The only thing that cost me was the Claude subscription I have. Video three is the best one. And honestly,
+this is where it gets crazier. You're able to give an emotion and a story in this. For video one and two, I
+gave Claude a task. For video three, I gave it a crew. [music] The prompt starts with you're a director,
+writer, animator, composer, sound designer, and a render engineer. And [music] instead of describing a video,
+I gave it a story. It's called one conversation. It's 2:00 a.m. A creator with a big idea and no team. They
+type they have an idea and they don't have a team. I'll let you watch it. >> [music] >> The good thing is
+Claude can see images. So, it can look at what it made after every round. It takes a screenshot from the
+middle of every shot, puts them all in one page, and grades every shot 1 to 10. Story, composition, motion,
+typography, sync with the music. Then it writes down the three worst problems and fixes them and goes again.
+Every shot is an eight or more. And that's where I saw really a difference. And the people that are really
+honest about it say the same thing. Like Mapel Joseph made a beautiful watercolor short film with the Opus
+5.5, 163 models calls, almost 7 hours. >> [music] [bell] >> And the post has its strengths. It doesn't really
+nail it in one shot. It needs a good sell. I took all these videos from Axe, the ponds, and what to connect it
+with with zero BIs, turned it into a scale, so you don't have to write 10,000 character prompts. The structure
+is already in there. The story, the steps, can't skip the music, the sound effects, the critical loop, and all
+the lessons that I have to learn. I damaged definitely my computer to make this. I also want to mention, if
+you want a voice over, you don't need to pay for that either. There are free voice models that run on your
+computer, too. My three videos don't have a voice. The story works with a text on screen, but you can add one.
+One thing though, the music model takes some space on your disk, so check if you have space for that before
+you install it. Here's my take. Are motion designers cooked? No. Everyone of these videos needed someone to
+decide what the story is, what it should feel like, and what's good versus what's basically mid. Claude did
+the work, still I had to direct it. A year ago, someone had to pay over $1,000 for a video like this. Now,
+it's as simple as just one conversation. So, again, if you want the skill, it's free in my It's in my school
+community. Link is in description. Install it, make a video, and please show me what you have done. And thank
+you so much for staying all the way to the end of this video. Seriously, it really helps me a lot. I'm making
+a carousel motion graphic designer. So, stay tuned. And tell me in the comments which one was your favorite.
+Subscribe if you want more skills like these, and I'll see you in the next one.

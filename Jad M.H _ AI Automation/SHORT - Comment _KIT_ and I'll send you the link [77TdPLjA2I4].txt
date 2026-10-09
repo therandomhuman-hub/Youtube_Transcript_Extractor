@@ -1,0 +1,19 @@
+Title: Comment "KIT" and I'll send you the link
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 77TdPLjA2I4
+URL: https://www.youtube.com/watch?v=77TdPLjA2I4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:58:49+00:00
+
+Kind: captions Language: en Everyone has the same Claude Edo. The difference is what they install before they
+start typing. The default setup is the slowest version of the tool. So, here are the five I install first.
+Context engineering kit and built skills that fix the context instead of the prompt. Second one would be
+compound engineering. 33 skills from every. It runs in cursor and Codex too, not just Claude. Chrome dev
+tools. It was made by Chrome team themselves. 50,000 stars and it gives Claude a real browser to inspect.
+Archifind. One command and it draws your architecture. It went from 20 to 38,000 stars in four days. And last
+one is awesome Claude skills. The catalog for everything else. One thing to note that the catalog has a
+license file. You have to rewrite it before you send anything out of it. With these skills, you'll be using
+the same model as you were using already, but it will be having different answers. Only in common stack, now
+the administrator.

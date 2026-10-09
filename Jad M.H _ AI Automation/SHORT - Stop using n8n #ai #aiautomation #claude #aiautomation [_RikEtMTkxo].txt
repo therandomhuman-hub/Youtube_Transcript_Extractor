@@ -1,0 +1,19 @@
+Title: Stop using n8n #ai #aiautomation #claude #aiautomation
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: _RikEtMTkxo
+URL: https://www.youtube.com/watch?v=_RikEtMTkxo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T21:10:25+00:00
+
+Kind: captions Language: en I spent the last year learning N 8 N. If you're starting from zero right now, do
+not waste a year learning what I learned. Skip straight to this. I've basically stopped using N 8 N, and it's
+not because it's a bad tool. Something way better just showed up. Here's what I believe. N 8 N teaches you how
+to connect steps. Claude just does the whole thing. You stop building workflows and start telling it what you
+want exactly. It plans, it builds, it debugs itself, and it gathers sharper the more you use it. No drag and
+drop, no broken nodes at 2:00 a.m., no why did this webhook stop firing? You just describe the outcome and it
+ships. This is a completely different way of working. The people stitching together 40 nodes workflows are
+about to feel really silly. I broke the whole thing down how to use Claude and how to have a conversation to
+do better tasks. And this is why I quit N 8 N, but not fully. Comment Comment N 8 N and I'll send it over to
+you.

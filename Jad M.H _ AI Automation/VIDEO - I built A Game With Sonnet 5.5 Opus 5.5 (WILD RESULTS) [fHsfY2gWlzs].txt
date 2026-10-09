@@ -1,0 +1,53 @@
+Title: I built A Game With Sonnet 5.5 Opus 5.5 (WILD RESULTS)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: fHsfY2gWlzs
+URL: https://www.youtube.com/watch?v=fHsfY2gWlzs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:15:10+00:00
+
+Kind: captions Language: en So, Anthropic just dropped Sonnet 5.5 only a few days after Opus 5.5. And the
+question everyone's asking, is the cheap model finally good enough or do you still need to pay for the big
+one? So, I tested it and I gave both models the exact same prompt, build me a full 3D car racing game,
+basically like a Mario Kart from scratch in one single prompt. Opus 5.5 is the flagship and the brand new
+Sonnet 5.5, which is half the price. I'm going to play both games and I'll show you exactly how long each one
+took and how many tokens each one burned. By the end of this video, you'll know which one is actually worth
+your money. So, let's get into it. First, what is Anthropic actually claiming? They're saying Sonnet 5.5 is a
+clear upgrade over Sonnet 5, around 30% faster and up to 30% cheaper for most work. And look at the price
+compared to Opus. Input tokens, $2 versus $4. Output, $10 versus $20. Hash rates half the price, too. So,
+Sonnet is basically half the cost of Opus across the board. And they also say that it uses fewer tokens per
+task. So, it's cheaper per token and it uses fewer of them. Keep that in mind because we're about to test
+these claims and we're going to see it. In here, I'll be giving the same prompts at for Sonnet and Opus 5.5.
+Um and basically, I'll kind of like recreate the car racing game of like Mario Kart is it one of my favorite
+games when I when I was younger. Let's look right now at Sonnet 5.5. This is what it made for me. Looks pretty
+good. I haven't tried it at all. Otherwise and time wise, it did it in 58 minutes and 24 seconds with one
+single prompt. Okay, I just need to make sure I got everything, shift. But, I mean oh yeah, there it is. Okay.
+So, shift, mute. Is it muted? Okay, so there's music. Can turn it off. Let's just turn that off here. Take
+that. Okay. It looks pretty solid actually. In 50 minutes, did a pretty good job. Let me try and take that and
+see. Okay, and even goes slower. The texture looks really sharp. Okay, I got the boost there. I will go ahead.
+I will go ahead twice. Okay, I think I'm just like really bad at this game. I used to be much better. Okay,
+just hit this guy. Okay, honestly, pretty good so far. It looks good. Let's look at now Opus 5.5 what it did
+with the same prompts. Okay, it's kind of like addictive playing this game. I'm not going to lie. And let's
+get there, but I'm pretty bad at it. Okay, let's check the 5.5 Opus. For Opus 5.5, it did it in 1 hour and 19
+minutes, slightly longer than Sonnet 5. I think that Sonnet 5 did it in like 58 minutes. And this is the game
+what it did for me so far. Looks pretty good. I like how it looks like here. And I can pick the character in
+this one, I think. On YouTube again here. Hey, it looks a little bit more sharper and cleaner. Okay, I had a
+bad takeoff. Oh, it feels much better like the the driving. That's too fast for me. I'm tired for my bad
+skills. Okay, I think I'm getting there. It It feels much much much better. Okay, but I think you'll be the
+judge of it. I think I'm going to play a little bit longer. One. Now, let's put it side by side. Opus 5.5, 1
+hour and 19 minutes, 428,000 tokens. Sonnet 5.5, 411,000 tokens. Now, remember those claims from Anthropic.
+The first claim, it's about 30% faster. Sonnet was about 25% faster here. So, pretty cool. I'll give them that
+one. The second claim, it uses fewer tokens, and it did, but barely. Only about 4% fewer. So, basically the
+same amount of work. But, here is the part that actually matters. Everyone owns Sonnet's tokens cost half as
+much as Opus. So, same amount of tokens, half the price per token. That means Sonnet builds this game roughly
+half of what Opus costs. And it did it in 20 minutes faster. Well, in this case you really do get what you pay
+for. Opus was clearly better. And for something as complicated as a full racing game, that shows. But, here's
+the thing. Sonnet still built a working game in 20 minutes faster for about half the price. So, for smaller
+everyday tasks, Sonnet 5.5 is still the one I would start with. One especially for a big project and
+complicated builds, and then I would use Opus to fix the details. Now, I know most of you aren't building
+racing games with AI, but this is a really good way to see how these models handle a big messy coding job and
+what actually costs you time and money. These two builds ran for over 2 hours combined. So, if you got
+something out of this, subscribe. It generally helps me to keep making these videos. And I'm excited actually
+for today. There's going to be Dev Day today. So, stay tuned. I'll be making a video today, too. Let me know
+what you think down below, and I'll see you in the next one.

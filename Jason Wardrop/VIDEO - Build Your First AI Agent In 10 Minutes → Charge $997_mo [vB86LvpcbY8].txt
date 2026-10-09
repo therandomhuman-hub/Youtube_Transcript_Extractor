@@ -1,0 +1,168 @@
+Title: Build Your First AI Agent In 10 Minutes → Charge $997/mo
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: vB86LvpcbY8
+URL: https://www.youtube.com/watch?v=vB86LvpcbY8
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T21:41:09+00:00
+
+Kind: captions Language: en The first GoHighle AI agent that I ever built took less than 10 minutes to set up.
+And it's the same exact AI setup that you can turn around and then sell to clients for as much as $500 to even
+$1,000 per month. So, in this video, I want to show you exactly how to build these AI agents inside of GoHigh
+Level, how to set them up so that they can help you generate more leads for your business as well as your
+clients businesses and help you respond to these leads faster and be able to book more appointments from the
+leads that you're generating. I even want to give you my copy and paste prompts that you just copy, throw in a
+chat GPT with the link to the business's website, and it's going to create all the custom instructions and
+knowledge base in just a matter of seconds that you're already set up and ready to go. So, if you want to see
+the full setup, plus the templates and scripts, everything that you can copy and paste and get running as soon
+as today, make sure you smash the like button, drop a comment down below so I can hook you with a private link
+to unlock my courses, templates, scripts, everything 100% for free. And make sure you stick around with me
+here to the end of this video so you can see everything step by step. So, now that you smash the like button
+and dropped a comment down below, let me jump on my computer so I can show you how to set all of this up. Let
+me show you guys first how you're going to go about getting your first clients. So, what I like to do, I like
+to leverage Google Maps. People go to Google Maps, people go to Google to find local service businesses. So,
+like yesterday, um I actually had a plumber come over to my house because my daughter dropped her toothbrush
+down the toilet, flushed the toilet. We had no idea why the toilet wasn't working. I kept getting plungers and
+all these different gadgets. And then I had to go reach out to a plumber. So, for this example, we're going to
+use a plumber in we'll say Bentonville, Arkansas, right here, the home of Walmart, right? So, what it's going
+to do is pop up all the different plumbers in this specific area. So, we can go through and find plumbers. And
+we're just going to zoom in a little bit, and we'll go through and we want to find one of these plumbers that
+does not have a website. A lot of these small businesses will have a website. However, there are still so many
+businesses that do not have a website. And Jerry's Plumbing right here is one I actually know that does not
+have a website. And so what we see right here, you can go down and see right here, add a website. Don't have
+anything on there. However, they've got seven fivestar reviews. So more than likely, they provide an awesome
+service. So what I'm going to be doing here is I'm going to reach out to Jerry's Plumbing and I'm going to
+say, "Hey, I see you don't have a website. I've built a website for you. Would you like me to send it over to
+you to see what it looks like?" Right? And you might be thinking, "Well, Jason, I don't know how to build a
+website. I don't know how to code. I don't know how to do any website design or anything like that. And don't
+worry, I don't know how to do any of that either. And you actually don't even have to build out the website
+until you get somebody saying yes. But let's say that Jerry right here says yes, I am interested in having
+your website. I want to see what website you built. All we're going to do is come over here to their Google My
+Business profile. We're going to click on share right here. And we're just going to copy a link to their
+Google My Business profile. And then I'm going to just come over here and I'm going to paste it. I've already
+got it pasted in right here, but into this prompt that I have, create a professionally designed website for a
+plumber. Make sure it's optimized to convert website visitors and leads. Make sure you have a website chat
+widget. Here's the business profile link to grab their information. I'm just going to literally copy and paste
+all of this. And I'm going to come in here to this AI software. And in here, we've got two amazing tools.
+We've got one called Ask AI, which we're going to be using here in just a second. And then we have this brand
+new AI studio. So, this is what we're going to be using here. And if you're watching this and like, "Hey,
+Jason, how do you actually go through and get access?" Because this is brand new. Literally was just released
+to me about 10 minutes ago. Um, so all you got to do is come over here to settings and then you go over here
+to labs. Labs are kind of the new features that are being released. And you see a lot of these different
+features that are being released right now. So we're going to scroll down. We want to go find Ask AI. You can
+see there's a lot of features being released. AskAI, we want to make sure that's turned on. And then we go
+down a little bit more and we got AI Studio. Turn that one on as well. And like I said, this one was literally
+just released just a few minutes ago. So, this is brand new. This is not anything that you have ever seen.
+This will absolutely blow your mind. And as far as which software I'm using, if you guys want to go through
+and get started with an extended 30-day free trial, plus my full course, templates, scripts, everything from A
+to Z, um there's going to be a link down the description or just drop a comment down below. I'll share with
+you the private link to get everything 100% for free. So, we're going to come over here to this AI studio. And
+this is crazy. This is imagine like a chat GPT, but you can tell it, hey, go build a website, go do this, go
+do that, whatever you wanted to do. But because this is internal inside of this all-in-one sales and marketing
+software, it will be able to go through and use all those tools inside of that software. it just natively. So,
+it can go and build the websites, build sales funnels, email marketing campaigns, text marketing campaigns,
+social media posts, and we're going to do all that right here in this video because I want to show you guys
+how simple and easy this is. Even if you are getting started as a complete beginner and you have no experience
+with any of this. So, I've got this prompt. I already copied it, right? I'm just going to paste in right here.
+Okay. So now what this is going to go through and do if you guys have ever used claude like co-work or claude
+code it is literally going to go in and build this all out. But the cool thing that I like as opposed to like
+a cloud code or cloud co-work is those platforms they need access to your desktop to your computer all the
+files on your computer which can be honestly kind of a bit of a privacy risk and that's why so many people are
+buying Mac minis right now. However, the cool thing about this is it's only using this specific software
+account. So, it's not going into any of your um local files on your computer or anything like that. It's just
+using the pre-built tools that are already inside of this software. Now, this is just going to take a couple
+of minutes. So, we'll pause right here and then I'll show you guys the exact product once it is all done. But,
+it's cool. You can see the step by step of what it's doing. So, it already fetched the business from the
+Google Maps link that I gave it, right? It's setting up a plumbing design system and generate images, building
+lead optimized landing page with the chat widget like I asked it to. Then it's going to update the SEO meta
+metadata and finalize the app and have it all 100% ready for us to then once that plumber comes back and says,
+"Yes, I want to see it." We're just going to be able to send them a link. And that is the initial start to the
+conversation where we can start charging on a monthly ongoing basis. And we'll get to more of that here in
+just a minute. All right, guys. Check this out. It just built this entire website for me and you can see
+everything. It looks beautiful and it's even got their information. So, it's got their address, phone number,
+their hours that they're open, fivestar Google rating. Pulled that all from Google. This looks amazing. Okay.
+So, now what I'm going to do is I'm going to come over here. I'm just going to this business owner that said,
+"Yes, I'm interested. Let me check out what you got." Guys, this looks amazing. I have never done any website
+design before. I'm absolutely horrible at it. But this this looks like a professional website designer went
+through and did all this. So, now we just hit publish right here. Says your app is live. You can go through
+and add a custom URL later, but that's after they actually become a client. So, now we're going to come over
+here and we're just going to copy and paste this into a new tab. And look at this. This is all done, all set
+up and ready to go to go and show our potential new client. Now, let me show you this next step. That's
+absolutely crazy. Now, if we come back over here, you can see we can add a contact form in the footer. Has all
+these suggestions that we could do. The website got all the dedicated service page carousel. like it's got I'm
+going to do however is I'm going to come over here and I'm going to tell it to conversation AI with the
+information from the website and Google send this URL. So what that is is as we come over here I told it to
+add a little chat widget and this is to help go through and convert more of the website visitors into actual
+leads and sales conversations. The only thing is is we haven't trained this to go through and respond to
+customers the right way with the proper information. So, I'm going to do is I'm going to come back over here
+to this agent studio and I'm just going to copy and paste this and hit enter. So, right now it's going through
+and it's creating the chat widget with all the AI logic going through and pulling all the information that it
+can go and respond to new people that are going to be visiting this website right here. All right. So, it
+looks like it finished. It says, "I extracted the status chat widget component acts as a mock AI agent. It can
+now respond to common questions about Jerry's plumbing such as our service, location, contact information
+using internal knowledge base." Now, let's just hit publish. And I want to just test this and make sure that
+it actually is working like we would hope it would. Okay. So, now we're going to copy this. And so, we'll
+paste this in right here. We're coming down to the chat widget and say, "What days of the week are you open?"
+And we'll see the AI now is pulled in and is responding to this. We're open Thursday, 7:30 a.m. to 4:30 p.m.
+We also offer emergency services. Okay. Okay. So, it's saying Thursday because it is Thursday today when I'm
+filming this. And so, we might be able to say, "What's the best phone number to contact you?" So, it's going
+through pulling from the database. All right. 47949, which looks like it accurate with um right here. And then
+we say, "What services do you actually offer?" Going through pulling from the database. We specialize in
+emergency repairs, water heater installation, drain ch drain um cleaning, um blah blah blah. What do you need
+help with? Guys, this is absolutely insane. I'm literally just prompting it, telling it what to do. It's
+already built out the whole entire AI agent, built out the whole website. And I hope you're seeing this. If
+you're a total beginner and you've never done any of this before, literally the only thing that is stopping
+you is reaching out to these business owners and saying, "Hey, I'd love to help you get set up with a
+professionally designed website." And if you're looking at this right now, knowing that I have zero design
+skills whatsoever, I hope you can feel confident if I just give you these copy and paste prompts that you can
+go in and make a website that looks beautiful like this, has a chat AI widget just like this. And so the
+business is already seeing immense value. Now, one more thing I wanted to show you guys because this is
+absolutely crazy. A huge thing with these small local businesses is they want more exposure. They want more um
+leads. And so a way that we can do that is by posting on social media. And historically, you would go through
+and you would create the content and there was some easy programs like Canva that you'd create the content and
+then you'd be able to schedule out those posts on some social media scheduler, but you still had to take the
+post and you had still had to manually go through and schedule it and you could schedule out over the next 7
+days, 14 days, 30 days, whatever it was. However, now with AI, we can just use a simple prompt that I have
+down right here. create a full week's worth of social media content for my business that I can post to
+Facebook and Instagram. I want you to create two posts per day and schedule them from 10:00 a.m. and 400 p.m.
+for Jerry's plumbing business. And let me just add this link right here because what we're going to do on this
+one instead of using this uh AI Studio, I'm actually going to go through and use another tool that's in here.
+So, we're just going to hit publish right here. Should be good to go. We're going to come back here. We're
+going to use one called Ask AI. So over here, AskAI, very similar to like a chat GPT prompting, and we just
+say, "Hey, I want you to create a full week's worth of social media content." Blah, blah, blah. Here's the
+link. And we're just going to hit let's go. And we're going to let the AI go to work, create all the posts,
+schedule them all out for us. And all we have to do at the end is just say, "Yep, looks good. Let's approve
+it." All right, guys. Looks like it has wrapped this up. And you can see it is going through and giving me the
+images plus all the content. If I can scroll up, it's kind of creating this as we're going on the fly, but
+it's got the full post of what it's saying, the written text plus the image. And it's going through and
+saying, "Okay, here's the one. April 1st, uh, the five stars on there. Jerry's team arrived within hours and
+fixed our burst pipe. That was from an actual customer review from the Google My Business profile link, which
+is super cool. You've got all the images with the plumber." And so it has gone through and done all of this.
+Okay. So now you can see a full schedule summary of the next seven days. There's 14 posts. There's obviously
+two posts per day. And we can go through and we can see every single post that is in here. Right now if we
+scroll down, this is obviously just a demo account. So it says next steps go live. Connect Jerry's Plumbing
+Facebook page. Connect their Instagram account. And then just come back here and say schedule all posts. So
+this is a demo account. So I don't have their pa their page and Instagram account connected. But if they were
+connected, all I would just do is come over here and just say schedule posts and just hit enter and it would
+schedule them all for me. Because inside of the software as well, there is a social media planner that you can
+go through and schedule all of your posts. You can connect the client's Facebook business pages, you can
+connect their Instagram accounts, Tik Tok, all their different platforms X. And so these are just three simple
+use cases of using AI. And I hope you can see the value from going through and building the website completely
+from scratch. All you need is the Google My Business profile share link. Throw it in there. Use that same
+share link to start a conversation AI chatbot that this is going to be massive value for these small business
+owners. In another video, if you guys want, you drop a comment down below. I can show you how to use the same
+AI technology to create a voice AI agent. So, if they call in to this phone number right here and let's say
+Jerry or someone on his team is unable to answer because they're out at an appointment and they're super busy,
+which statistics show that 62% of calls going into small businesses go unanswered. And so, instead of that
+call just going to the voicemail and then them just calling the next business owner, we can set up a voice AI
+agent that's able to take those calls. is trained on all the same information that this conversation AI bot is
+trained on and will be able to automatically book an appointment with that client on Jerry's calendar which is
+absolutely mind-blowing. So once again guys this is totally changing the game of how AI is used for small
+businesses. I hope you guys can see even as a total beginner you can go through and start your own business
+from the comfort of your own home and you don't need any prior tech skills. You don't need to know be some
+like AI guru because AI is doing the heavy lifting for you. You just tell it what to do. And if you guys smash
+the like button, drop a comment down below, I'll hook you up with my full step-by-step course, a 30-day
+extended trial to this AI software, plus a live boot camp, and I'll get you all of these prompts, plus more
+prompts 100% for free, so you know exactly what to tell the AI to optimize it to get the best results for
+these clients. So anyway guys, thanks so much for watching and I'll see you in the next

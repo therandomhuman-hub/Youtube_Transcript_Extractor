@@ -1,0 +1,19 @@
+Title: MCP lets an AI assistant plug into a company's real tools#MCP #Claude #ClaudeCode #ai  #devtools
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: _KJlX4pSx8s
+URL: https://www.youtube.com/watch?v=_KJlX4pSx8s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:21:06+00:00
+
+Kind: captions Language: en If you're running an MCP server, there's a new update that's going to break it,
+but it comes with a big upside. If you don't know MCP, think of it as a universal adapter for AI. It's what
+lets AI assistant plugs into companies real tools. It's files, it's database, it's Slack, so it can actually
+do the work, not just chat about it. So, what changed? MCP servers no longer have to remember each
+conversation. Every work quest now stands on its own. Why does that matter? You can finally run like a normal
+website, spread across lots of machines, and handling heavy traffic, which used to be a real headache.
+Security got an upgrade, too. The one thing you'll need to plan for, it's a breaking change. If you maintain a
+server, it'll stop working as is, and you will need to update it. The one relief, anything they are retiring
+has to keep working for a full year first. So, you've got time. If you want the migration checklist or how to
+do it, comment handshake now and I'll DM it straight to you.

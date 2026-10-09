@@ -1,0 +1,105 @@
+Title: I Tested New Claude For YouTube And It's INSANE
+Channel: One Person Business
+Type: VIDEO
+Video ID: rPnPTl3oPEk
+URL: https://www.youtube.com/watch?v=rPnPTl3oPEk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:31:28+00:00
+
+Kind: captions Language: en Yeah, I know the title is crazy. Disregard that. There is a lot of hype around
+Claude, but it's for a reason, kind of. There is actually a new way to use Claude for YouTube, and it can
+actually change everything for you right now, and nobody talks about these use cases. For example, you can
+literally ask it to scrape viral niches for you and find channels and show you how much money these channels
+are making. You can also spy on competitors for you, or even just analyze comments from pasting a link to a
+YouTube video. Now, I'm just going to stop the app thing, and I'm going to give you five new use cases with
+Claude and YouTube. Okay, number one, pretty cool, but the least impressive one out of these five that I'm
+about to show you is this new NextLevel Chrome extension. This video is not sponsored. I'm just showing you
+because it's free for now. So, when you connect this to Claude, it's going to find niches for you. It's going
+to show you who's winning, what thumbnails are working, and a lot of different things. So, it kind of has
+access to YouTube when you connect this MCP. So, all you basically need to do is click on a see how to
+connect. Then, it's going to scroll all the way down where you're going to find this for both Claude and
+ChatGPT. Do not do this on ChatGPT. Do it on Claude. It's just much better. So, when you create an account,
+simply go over to Claude, click on your profile picture here, click on settings, then click on connectors
+right over here, then click on add custom connector. Here, just type in NextLevel, and then here, you're going
+to copy and paste this code. Just copy this, go back to Claude, paste it in this box, and click add. Now,
+that's going to show up like this. Now, I can go to the search bar and ask it to find outlier YouTube channels
+getting way more views than their size suggests. And then, we're going to hit see this filter out by niches as
+well, which is crazy. It's going to show me the amount of subscribers this YouTube channel has, the average
+amount of views they're getting, and how much they're potentially making from ad revenue. This one is making
+1.4K with 6K subs. It also shows me whether it's a monetized channel or not. And then, if I want to view the
+channel, I can just click here and open up the link to go to YouTube. Yeah, that's pretty cool. Here's another
+use case. I found this YouTube channel called Falloon, and they are posting faceless videos. They're getting a
+lot of views. So, now I just asked it to give me a full breakdown of this channel and its top-performing
+videos. And then, it just shows me how much they're potentially making every single month, how many
+subscribers they have, views, and all of that. And everything I did is I asked it to find the thumbnails
+similar to the video that I found. So, I went to their most popular videos, and I was like, I want to see if
+there are any similar thumbnails to this. Well, I just pasted the link, and then it found similar thumbnails,
+but it's crashing, and it's not really showing me visually these thumbnails. So, that's not working well.
+There are a lot of errors with this one. That's why I said it's actually the least impressive one on our list.
+And it also says that it's free for a very limited time, so I would assume that the goal with this tool is for
+them to then try and upsell us to a paid membership, which you honestly don't need because the main use case
+is to just analyze niches, which you can actually just find for free by going to YouTube. If a video shows up
+on your feed naturally, it's most likely an outlier, so you don't really have to pay for these tools. Don't
+spend any money, and let's move on to use case number two, which is actually insane because you can now build
+custom apps and websites specifically for your YouTube channel with Claude code simply by speaking these apps
+into existence. So, I needed a faceless channel title generator, so I don't have to come up with titles all of
+the time for my channels. And whenever I have an idea, I can just type it in this box, select the style of
+video I'm making. So, maybe I'm working on a listicle video, or maybe I'm working on a history video, or a
+tutorial, or a documentary. Now, I can select the hook angle, the main keyword if needed. If not, just
+generate a title from that. And all of that was freaking built inside of Claude. I literally just spoke this
+app into existence. Well, here's actually how I did it, or or how we could do it. So, we can either speak into
+the prompt box, we can describe what app we want, or you can first open up a chat, which is what I did,
+describe the kind of app you're trying to build for your YouTube channel, and then ask it to create a prompt
+with all the details, like a very detailed prompt, and then copy that prompt, and then paste it into Claude.
+So, for example, I described that I was looking for a title generator, and I also pasted some example titles
+that I saw work very well on YouTube because I don't want it to use generic titles. I actually pasted some
+really good title frameworks that I found. So, literally just going over to YouTube, seeing an outlier
+channel, seeing an outlier video, and then pasting the title there just to train this chatbot all with this
+single prompt. I'm also going to link in the description for free if you want to use it. And then, once I had
+Claude, I just submitted that here. Now, some of the apps that we could build for our YouTube channels can
+include building a thumbnail AB testing tracker where you input CTR data from two thumbnails, and it
+visualizes which concept performs better over time. You can build a video idea pipeline app where you dump in
+a niche, and it generates 30 ideas, scores them by RPV potential, and lets you mark them as used. Or you can
+build a personal dashboard that tracks your channel's RPM, views, ad revenue across multiple channels if you
+have more. Build a comment sorter that takes your video comments and categorizes them by sentiment and
+question type, and surfaces the best video ideas, or just build a script formatter that takes a raw brain dump
+and outputs it in your exact video structure with timestamps and hook placements. So, I really think the new
+meta is building apps specifically for your YouTube channel inside of Claude. And the cool thing is that even
+if you cancel your subscription, these apps stay there. Like, the code stays there. You can still use these
+apps. Use case number three is building a script diagnosis project where, for example, you can just paste your
+script, submit it, and then it goes against this checklist that I've created to make sure that you actually
+have a viral script written properly. You know, I've made over 2 and 1/2 thousand videos over the years, and I
+know a lot about YouTube. And this is the checklist that I use for all my videos that actually get millions of
+views. I'm going to share it for free. You can find it below. It's a checklist that I go through for my
+intros. Click on file, click on download, download it as PDF. And then, once you have it, you can create a new
+project inside of Claude. Just go to projects on the left-hand side, and once there, just click on new
+project. I'm going to call this one intro checklist. And on the right-hand side in the files box, you can just
+upload that PDF. In the instructions box, just say ask user to submit their YouTube video script, and audit
+their intro based on this checklist. In simple terms, everyday language, explain what part of the checklist
+that they did right and what they missed. And when you paste one of your scripts that you wrote, it's going to
+analyze it for you and audit it to make sure that it's optimized well. It's going to tell you what you've
+missed from the checklist, and it's even going to rewrite it for you. And when you have a specific project
+like this one inside of Claude, you don't have to explain again and again from scratch every time you log into
+Claude what you want to do. You can just go back to that same project and just paste your script, and that's
+it. You don't have to give it any more context because it saves that context in the project file. Use case
+number four, as I promised, every use case will get more and more insane, and this one is no exception. So,
+there is this new thing called Claude Co-work. And the reason this kind of changes everything is because
+Claude can now work from your computer. It can access folders and apps and websites on your behalf. You can
+just message it from your phone wherever you are, and it's going to work from your computer. So, some of the
+things that we can do with this for YouTube can include having it to monitor news in my niche and notify me on
+my phone whenever something big happens, and then it can even write a script for my YouTube video right away
+in my style. Or have it scan your Google Drive for unfinished scripts and give you a weekly what needs
+finishing or read brand deal emails for you and even auto email hundreds of brands until you start getting
+sponsorships. Use case number five, we can use Claude to find high RPM topics for almost any niche. Or, if you
+haven't started a channel yet, then you can use one of these prompts to find niches where audiences that spend
+more money are in. So, for example, I can ask it what topics are people aged 50 plus searching for on YouTube
+right now. Or, if I want someone from a wealthier country, I can say list me 50 YouTube channel ideas that
+target a wealthy audience within the US with a lot of ad demand, high RPMs, and high buying intent. You know,
+I just copy this prompt, paste it here, and submit. Or, list me 50 hobbies and content categories popular
+among older adults in states like Florida, Texas, and Arizona. These places, like viewers from these places,
+result in higher ad rates, so you make more money per 1,000 views. You make significantly more when topics are
+speaking to these people. So, these are some crazy prompts. You can pause the video right now to copy them for
+yourself. But if you want to see what's actually the best business to start with Claude for completely free,
+then make sure to watch this video next that's on the screen right now. It's also on the same channel. I'm
+going to see you there, and yeah.

@@ -1,0 +1,154 @@
+Title: How To Write A Killer Script With AI That Keeps Viewers Hooked
+Channel: One Person Business
+Type: VIDEO
+Video ID: jR9L-9RXCZY
+URL: https://www.youtube.com/watch?v=jR9L-9RXCZY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:19:38+00:00
+
+Kind: captions Language: en This may surprise you, but 91% of YouTube videos never reach 1,000 views. Well,
+it's because if your scripts fail to hook viewers in the first 15 seconds, they click away very fast. And when
+YouTube sees your average view duration is only 12% compared to your competitors 55%, it immediately stops
+recommending your videos. But here's the thing, in order to write perfect YouTube scripts in 2026, you need to
+be insanely good at psychology, human behavior, and on top of that, you have to know what YouTube's new AI,
+Google Gemini, is actually looking for inside your transcript. However, just like me, you're probably not a
+psychology expert and definitely not an algorithm engineer. And so, what you need to do instead is easy-to-use
+proven AI scripting system that keeps viewer hooked throughout your entire video and writes in a way that the
+algorithm actually pushes you without you needing a deep understanding of any of this. Because this way, you
+can make scripts that get high watch time, and then YouTube will recommend your videos to millions of people.
+This solution isn't for everyone, but you should pay close attention if you're a creator who's been putting in
+hours of work to only see your videos get a few views before completely dying, or you're someone who knows
+your content is valuable, but viewers are dropping off in the first 30 seconds, or you're a creator who tried
+using ChatGPT for scripts, but ended up with generic robotic content that sounds nothing like you, or you're
+someone who's serious about growing your YouTube channel, but you can't really afford hiring professional
+script writers, which costs $200 to $1,000 per script. If that's you, then what I'm about to share in this
+video will completely change how you do YouTube. Because I run multiple YouTube channels with over 5 million
+subscribers combined and over 700 million views on long-form content, and I make all these scripts in less
+than 60 minutes about video topics that sometimes I know nothing about, yet they do get recommended by YouTube
+all of the time. So, trust me, what I'm about to show you really works. And as we're entering this AI
+revolution, creators that are using the right AI tools, not any, will outperform the ones that don't use AI or
+use the wrong tools in the first place. And I mean, here's why. First of all, let's be honest, you're probably
+not that good at script writing yourself. You might have amazing ideas and valuable knowledge to share, but
+translating that into a script that actually keeps viewers watching is an entirely different skill. And
+without proper training in storytelling, pacing, and viewer psychology, your brilliant ideas can easily get
+lost in poor delivery, resulting in high drop off rates and the YouTube algorithm not recommending your
+videos. Second of all, it's incredibly time-consuming to write yourself. Even if you were capable of writing
+excellent scripts, the reality is that it often takes 15 to 20 hours of focused work to transform a decent
+script into something truly exceptional. And most creators simply don't have that luxury to invest so much
+time and effort in the writing one script. And that creates a serious problem because the YouTube algorithm
+loves creators who can predictably publish content. Plus, if you've got a ton of subscribers, they want to see
+new content. And then besides that, the only option you really have is to hire a professional script writer.
+However, at the top level, they can easily charge anywhere from 200, even up to a thousand dollars per script,
+which I don't know about you, but for me, that sounds way too expensive. And so these challenges of manual
+script writing are exactly why so many creators are struggling. But here's actually a third thing that nobody
+really talks about, and that is that the YouTube algorithm has completely changed recently. The algorithm now
+uses Google Gemini to literally read your transcript as soon as you upload your video. If your script sounds
+like every other video on that subject, the algorithm flags it as generic and doesn't push it. Nobody will see
+it. And on top of that, people stopped watching generic videos. I mean, if they want a basic answer, they just
+open ChatGPT and get it in 5 seconds. So if your script gives them the same surface-level stuff that ChatGPT
+does, they're not going to pay attention. And that's where a real AI comes in. Instead of spending hours
+writing scripts that are not even good, or worse, using ChatGPT and getting buried by the algorithm anyway,
+you can now create watch time optimized scripts within minutes that are designed to maximize viewer retention
+and pull from unique sources so the algorithm actually pushes them. And you can do all of this without any
+previous experience just by using a method that I like to call Solo Script Writing Method, which by the way
+puts generic AI tools like ChatGPT to complete shame. I run multiple channels with over 5 million subscribers
+and over 700 million views simply by using this Solo Script Writing Method. To implement this, we're going to
+be using a tool called Solo.ai, which completely changed my life when I switched from ChatGPT. If you want to
+follow along with this tutorial, I'm going to leave a link to Solo.ai in the description below. But first,
+here's how it actually works. So, Solo is actually an all-in-one operating system for running a one-person
+business. It replaces your employees completely with AI. It handles video, audio, voice, SEO, chatbots, it's
+the whole thing. And you actually get access to all of this even with the lowest tier account. But the feature
+I want to share with you today is the YouTube script writer that is available in the content studio. When you
+open it up, you're going to see something that looks like this. Now, let me walk you through the entire
+process of how I would, for example, write a viral script like this channel which got 10 million views in 1
+month. First of all, we need to describe what this video is going to be about. And this is what I recommend
+just writing in your own words. Don't use AI for this. Just say, "I'm working on a video that speaks about the
+subject." Number two, it's going to ask you for the title of this video. For me, that's going to be seven lost
+technologies from ancient civilizations that we still can reproduce. Now, number three is where the actual
+magic happens. This is where you kill the generic content problem that's now killing millions of channels on
+YouTube. You can paste in YouTube videos as sources. You can paste in PDF guides. And you can also add text
+notes. So, before you even generate the script, you can do some research and find unique ideas related to the
+subject. So, for example, here I've asked Claude to find lesser-known facts and obscure details when it comes
+to this title. And then it gave me 25 unique lesser-known facts that I can use. So, I can just copy this, go
+back to Solo, add this as a text note, and it's going to use that throughout my scripts. Now, the more details
+that they add, especially if they're from new sources, perhaps I can go to some other YouTube channel and then
+copy the link to one of their YouTube videos and also add that as reference right over here. I can insert it
+with one press of a button. And this step is crucial because it gives the AI all the factual information it
+needs about your video topic. And unlike other AI tools, Solo AI can actually transcribe and understand any
+piece of content directly from just a URL link, which makes this workflow extremely easy to use. Without
+feeding this information in, you would usually get generic info that everyone has already shared. But then,
+one of the biggest problems with AI-generated scripts is that it sometimes sounds robotic and generic. And
+that's why at number four, we fix that. At number four, you can enter an example style of writing that you're
+looking for. And a really cool thing is that you can even grab links from other channels that you might be
+using as inspiration because if that script style worked for them, chances are it might work for us as well.
+So, I can just copy that link here, but it can also be your own old videos, so it sounds like you, or could be
+another creator whose pacing you want to copy. And then the AI analyzes these videos to understand the
+speaking style, vocabulary choices, and personality. And then it applies that style to your new script. And
+then at number five, it's going to ask you for your monetization goal. You just need to tell it what you're
+trying to do with your video. Whether it is to promote an affiliate link or sell a course or just maximize
+your ad revenue. And it's going to optimize the script specifically for that goal. This is what I call RPV
+maxing. RPV stands for revenue per view, and when you optimize your scripts, you end up essentially collecting
+more revenue with less or same views. And then finally, you get to video length. You can go anywhere from 4
+minutes for really short videos, or go as high as 16 minutes for long-form videos. Now, I like the sweet spot
+of about 10 minutes, and then it just generates a script. And then in less than 90 seconds, I get a full
+script written for me. But let's see if it's any good. First of all, it starts with a very strong hook. What
+you're about to see shouldn't exist. Then if you read through the intro, it's not a random intro that it
+wrote. The Solo Script method specifically uses what I call pattern interrupt curiosity hook. It starts with a
+question that seems almost unbelievable and immediately grabs attention. Then it eliminates potential
+objections to click away by stating it didn't require special equipment or experience, which makes it
+accessible to anyone watching. Then finally, the script creates information gaps over and over again so that
+people have to continue watching to fill them. Instead of just listing facts, it puts viewer into a
+perspective that they can really feel like they're being there as well. So, there's a clear pattern here.
+Number one, it identifies a common problem or misconception for the viewer. It creates an emotional connection
+to that problem. Then it reveals a surprising insight or solution, provides specific actionable advice, and
+then quantifies the results. This structure is not an accident. It's designed to maintain engagement
+throughout the entire video by constantly opening and closing curiosity loops. And the most impressive thing
+is this entire fully optimized script was written in less than 90 seconds with one press of a button. Just
+think about how long it would take to write this by yourself, and then use all of these curiosity gaps and
+information loops. Probably hours, if not even days. And even then, would you really know how to include all
+these psychological triggers to make people watch longer? Probably not. I mean, at least I wouldn't be able to
+do that. And I think that's the real power of this solo script writing method. It creates strategically
+optimized content not just for human behavior, but for this new algorithm as well. However, I know what you
+might be thinking right now. Yeah, David, but I really enjoy writing scripts myself. I just want them to
+perform better so I get more views. And that's exactly why there's a new feature inside of Solo that lets you
+clone any sort of content and just fully optimize it for this new YouTube algorithm. You can simply paste your
+own script in and ask AI to analyze and suggest improvements. Now, at this point, I feel like there's three
+options if you're looking to create a high-quality YouTube scripts. Option one, continue writing scripts
+manually. You can spend between 10 and 20 hours per script struggling with viewer retention and watching your
+videos get buried by the algorithm. Then, if you're able to upload one or two videos a month because it takes
+painfully long to do all of this research and write manually, your channel growth will be painfully slow. And
+let's be honest, most creators simply don't have the specialized knowledge or psychological triggers and
+retention patterns needed to write truly high-performing scripts. And to solve that, you might resort to using
+generic AI tools like Claude or ChatGPT. Because you might think, why not just use these? I mean, it's even
+cheaper. And that's the kind of thing that I thought myself initially. But after testing it extensively, I
+discovered the painful truth. Generic AI tools produce generic results. Your videos just don't get promoted
+that much. And even when they do, you just don't get enough views that you would have otherwise gotten if the
+script was fully optimized. Because these tools were not built for YouTube. And they don't have those
+retention strategies baked in them. They cannot easily analyze successful videos in your niche. And they
+certainly cannot capture your unique voice without adding in a bunch of typical AI words. So, you'll just end
+up with robotic-sounding scripts that perform no better than manually writing ones. So, then you'll need to
+spend some time editing these scripts and manually adding and removing stuff which just is a headache. On top
+of that, Gemini reads those generic scripts and the algorithm now buries your videos. And then there's the
+third option. Just use Solo AI with my Solo Script method. This is the approach that allows me to run multiple
+channels with millions of subscribers and hundreds of millions of views. With Solo AI, you can generate
+scripts in minutes instead of hours and integrate proven psychological triggers at exactly right moments. And
+you maintain your style and tone and voice. You can pull from unique sources so the algorithm pushes your
+video and produce content that the YouTube algorithm loves to recommend. You'll be able to upload more
+frequently and higher quality content for much cheaper than hiring a real script writer. And when you compare
+these three options, the choice becomes clear. You can either continue to struggle with manual script writing
+or use generic AI tools that will keep you stuck where you are, or you can use a proven system for creating
+scripts that actually perform with Solo AI. And I mean, on top of just the script writer, Solo AI gives you
+pretty much everything you need to run and operate a one-person business. You can also generate voice-overs on
+the left-hand side for any sort of channel. And in fact, there are over 9 and 1/2 thousand unique voices that
+you can use from this library. There are also video generation models that you also get full access to. You
+can just select video creator right over here, and there you're going to find new video models like Solo LX,
+Solo NX, PX, and VX. And you can also do motion control inside of Solo. You can essentially run an entire team
+of AI employees from this one platform. I also make my own thumbnails inside of Solo as well, because there is
+the Visuals Studio. And they have a really cool affiliate program which pays you two-tier affiliate
+commissions every single month, and commissions are for a lifetime. So, if someone signs up using your link,
+you get money every single month. Plus, if someone signs up using their link, you get also money from that
+person every single month, which quickly compounds. And you can also check out the leaderboard at the bottom.
+So, if you want to start using Solo AI for writing high-quality YouTube scripts in your tone and your voice
+that actually perform on YouTube, then I'm going to leave a link to it in the description box down below and I
+will see you in some of the future videos.

@@ -1,0 +1,19 @@
+Title: OmniRoute is an open-source gateway that connects your coding agents #ai #omni #llm #claude #chatgpt
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: LX8kvqnAy5g
+URL: https://www.youtube.com/watch?v=LX8kvqnAy5g
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:26:27+00:00
+
+Kind: captions Language: en This free tool plugs every coding agents you use into every model on the planet
+through one endpoint and the setup is one command. It's called Omni route. It's MIT licensed and it's gateway
+you'll run yourself. On one side you point Claude code, Codex, cursor, client, co-pilot, open code, 16 plus
+tools added. On the other side it reaches roughly 290 providers and 500 models. Claude, GPT, Gemini, Kimi,
+Deep Seek, GLM, 90 plus of those providers have a free tier. It translates between the OpenAI, Claude and
+Gemini API formats. That means any tool can talk to any model. It fails over automatically when you hit a
+quota, so you don't stop working. It compresses prompts the projects claims into 90% fewer tokens. Now here's
+the catch. Free providers means quotas and rates limits, not unlimited. And every request you make now flows
+through one gateway that's holding all of your API keys. So run it locally and don't expose it to the
+internet. Comment hub now send you the setup command for your agents.

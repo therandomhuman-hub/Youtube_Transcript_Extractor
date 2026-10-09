@@ -1,0 +1,69 @@
+Title: Got Banned by OpenAI Twice Building His "Uncensored" AI (Open-source)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 8WtNRFzEJ3U
+URL: https://www.youtube.com/watch?v=8WtNRFzEJ3U
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:11:12+00:00
+
+Kind: captions Language: en How's it going, bros? My name's PewDiePie. Do you remember this guy? PewDiePie
+just announced his own AI. It's called Ajax. It runs on your computer. It can handle your emails, your
+calendar, and your web searches. And nothing you do with it ever leaves your device. It's not out yet, but I
+think it's worth keeping an eye on. So, in this video, I'll explain to you what it is, why it matters, and
+whether you should actually use it. You don't have to be technical to watch this video. I'll make it super
+simple. So, let's get right into it. Okay. So, first, what is it? There are actually two things, Odysseus and
+Ajax. He took the name Ajax from the cleaning products. Odysseus is a free app PewDiePie started a few months
+ago. It puts an AI assistant on your own computer, chats, email, calendar, notes, research, all in one place.
+Ajax is the AI that runs inside it. Think of it of Odysseus as the house and Ajax as the assistant who lives
+there. And obviously, he didn't build Ajax from scratch because that would use a lot of money. He took a free
+AI called Quinn, which is made by Alibaba, and he trained it to do one job well, be the assistant inside
+Odysseus. So, the question is, why did he even make his own? Because people were using Odysseus with all kinds
+of random AIs, and things kept breaking. If he has his own AI made for his own app, then when something
+breaks, he can actually fix, which kind of makes sense now. All right, here's why I think you should keep an
+eye on it. Reason one, your stuff stays on your computer. When you use ChatGPT, everything you type gets sent
+to the company's computers. Your emails, your questions, your calendar, it all leaves your device. Ajax is
+different. It runs on your own computer. Nothing gets sent anywhere. And he's very serious about this. His app
+doesn't collect any data from the people using it. Even when he needed examples to train Ajax, he didn't take
+them. He asked his fans to send some in. He built a whole website for it with tutorials. And he was a little
+bit bummed out cuz nobody did it. So, he had to find another way, but he still didn't collect anything. Reason
+two, it's small on purpose. The big AIs from OpenAI and Anthropic are rumored to be around 1 trillion
+parameters. Think of parameters as the size of AI's brain. Now, that's a rumor, obviously. These companies
+don't say how big their models are, but Ajax is 9 billion. So, the rumor is, right? It's over 100 times
+smaller. And that's the point. PewDiePie did some rough math. He says running one copy of one of those giant
+AIs would take about 27 of his computers and about so much electricity as 150 houses just to check your email.
+His idea is you don't need that for checking emails, searching things, and sorting your calendar. A small AI
+trained for the job that can be done enough. And small means it can run on your own computer, which is really
+important. Now, how do you make a small AI smart? One common way is to learn from a bigger AI. You ask the big
+AI a lot of questions and you train the small one on its answers. He used Soul from OpenAI because he says he
+really loves it and OpenAI banned him. He actually banned him twice, but it's pretty clear that OpenAI didn't
+love what he was going. So, keep that in mind. Big AI companies don't like people using their AI to train
+someone else's. The third reason it says not a lot less. You know when you ask AI something and it says,
+"Sorry, I can't help you with that." He changed Ajax so it does that a lot less. Will it be like Grok or
+worse? We'll see. But, he did draw a line. He says it won't help with anything that hurts people or hurts
+yourself. And his website says, "Please use it responsibly." Now, this one cuts both ways. Some people will
+love an AI that doesn't refuse all the time. Other people will see that reason to stay away. And he says
+himself removing those refusals can make AI a bit worse at other things. So, this is something to watch once
+people actually test it. The fourth reason a lot of people are paying attention, his videos about Ajax got
+almost 2 million views and Odysseus has around 88,000 stars on GitHub. GitHub stars are basically like likes
+for code projects. Most projects never get to 100 and it's not just him working on it anymore. There's a whole
+group of volunteers helping build it. That really matters. Most normal people have never heard of a running AI
+on your own computer. Now, millions of them are hearing about it from PewDiePie, which is super strange. He
+says it's still getting better. He's still training it the way he does it. Ajax tries the same task 16 times.
+If it gets it right even once, he used that to teach it. So, it slowly learns from its own wins. He was
+supposed to release it 2 months ago. He had a countdown and a timer on his website and he took the timer down
+and now it just says coming when it's ready. He also says that there's a big update on Odysseus coming. So, is
+this a real thing or is this just a trust me, bro? Here's what we actually know. It's the first version, he
+says it works about nine out of 10, but that's his own numbers. Nobody else has tested it yet because it's not
+out and every AI company grades its own work. >> [music] >> So, I would wait for real people to test it before
+trusting that. If this video does well, I'll definitely give it a test. Also, right now setting up Odysseus
+means typing a few commands into the terminal. So, if you're not technical, this isn't something to download
+tonight. It's something to keep it an eye on, but here is my own personal take. I think he's going in the
+right direction. Not every question needs a giant AI in a data center. A lot of what we use AI for, email
+searching, our calendars, could just run on our own computers, cheaper and private. He also says something I
+really agree with. AI is good at getting you information fast. It's not supposed to replace your thinking or
+creativity and that's what he's building it for. And honestly, when one of the biggest YouTubers ever starts
+telling people to run AI on their computers, a lot of people are going to listen. I'll put the link to his AI
+chat page in the description, so you can see when it comes out. Tell me in the comments what you would let an
+AI read your email if it never left your computer. I'm really intrigued to know what you would say. Subscribe
+if you want more AI news explained simply, and I'll see you in the next one.

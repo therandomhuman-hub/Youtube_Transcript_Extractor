@@ -1,0 +1,18 @@
+Title: Two free apps that turn Claude into a second brain for all your notes.#ai #aitools #claude #obsidian
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: lAPuML34Y1A
+URL: https://www.youtube.com/watch?v=lAPuML34Y1A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:54:14+00:00
+
+Kind: captions Language: en You can turn Claude into a second brain that's read every note you ever written.
+Here's the setup and it's completely free. There are two free apps, Claude desktop and a note called Obsidian.
+You drop your notes into Obsidian as plain text files, then you point Claude at the folder with one prompt.
+Now Claude can read across all of it at once. It finds connections between all the ideas you completely forgot
+you had and answers and answers questions using your own thinking instead of the whole internet. This isn't my
+idea. Andrew Karpathy, the guy who run AI Tesla, posted it. It blew up to millions of views and some turned it
+into a single instruction file that's now past 100,000 stars on GitHub. One honest tip, don't dump your entire
+life on day one. Start with your best notes. A focused set is where this actually shines. Comment brain and
+I'll send you the exact setup and the prompt directly.

@@ -1,0 +1,92 @@
+Title: How I Create Viral Content with AI for 0$ (Turned it into a skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: x0iR9Tl6zZI
+URL: https://www.youtube.com/watch?v=x0iR9Tl6zZI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:16:32+00:00
+
+Kind: captions Language: en Don't allow yourself to be left behind by AI. >> Five people using AI to do the
+work of what used to cost me 100 people. >> I am your entire marketing department. >> TikTok post away from
+your life-changing. [music] >> What are the trending visual hooks, not just verbal hooks? >> That was the
+worst video I've ever made. That video sucked. >> We're also unveiling new ways to edit. >> This is 30 days of
+content, carousels, post, and this short video right here, fully edited. Also with the animations, the
+backgrounds, I didn't edit any of it. And all of it came from a single prompt. [music] And I'm not talking
+about a massive prompt. Basically, it went online, found out what's going on viral in my niche right now, made
+the carousels in my color fonts, wrote me the script for my video, and when I recorded it, it edited the whole
+thing. And the best part, I'm not posting any of [music] it. It posts it itself once it edits everything. By
+the end of this video, you're for free. [music] All right, I feel like I need to say something first. I see so
+many videos on YouTube, long format, 200,000 views to 500,000 views, and the title is like 30 days of content
+in 60 minutes, 200 posts in 10 minutes. And I click it because I also want to learn how are these people doing
+[music] it? And then they give you the most useless thing ever. Something you will never actually do so you
+can use their services. Connect this app, pay for this plan, build a brand kit, make templates, label
+everything text box, copy it into Google Doc, download it. I think you understand where I'm going with this.
+And after all that, you still haven't posted every single one yourself. That's not a system. That's generally
+a second job. We live in a moment where you can hand out skills to everyone, and I just don't understand why
+people are not giving away the skills, showing you how to build it and they're not giving it. And in one of
+those videos, at the very end, the person says themselves, this isn't a growth strategy. This is a filler
+content. It's really funny. You spend an hour making 30 posts you already know it that perform. I don't want
+to point fingers at anyone, but I'm not doing that to you in this video. Because here's the thing, you have to
+post. When someone checks out your business or your brand, the first thing they do is look at your socials.
+I'm sure you do, too. And if your last post was 8 months ago, they're asking, are these people still open yet?
+Everyone knows posting is free and people see it enough. The algorithm is good right now, but nobody does it
+consistently. And it's not because you're lazy, because life gets really busy. But right now, we have three
+problems. The first one is you don't know what to post. You open your phone, you got nothing, so you post
+nothing. The second one, when you use AI, it looks like AI. Same layout, same fonts, that generic look people
+scroll right past. And that's not the AI's fault, it's on the system. The third one is video. Video is the
+thing that grows you the fastest and it's the thing [music] everyone avoids because editing takes forever. So,
+all the shorts that you're going to see here are fully edited with AI and also came up with the topic. Well,
+part one, it finds what's viral. It goes online and finds what people in your niche are talking about right
+now. The posts that are already blowing up. So, you're not guessing and you're not posting filler content.
+You're taking something that's already proven and making it work and making it yours. Part two, the post and
+carousels. It writes your 30-days hook, body, call to action, and design that your style. [music] Sheet
+colors, your fonts, your vibe, kind of like the same thing as I did in my last video. If you remember the
+style sheet reference, or if you don't have a style sheet reference, you want to use actual image, you just
+can put in your library of pictures and it will [music] edit those carousels for you. So, imagine you're a
+roofer and if finds everyone's talking about a storm damage and insurance claims this month. You've got a
+carousel on it with your real before and after. Whether [music] even you're a dentist, you have a gym, you're
+a coach, the same thing applies to you. Part three, and this is a new one that I haven't really went in depth
+into my channel, [music] it's the short video editor. It finds the topic and it writes your scripts or just
+the idea if you would rather talk freely. You put it on a teleprompter, you record it, you give the video to
+Claude and Claude edit, cuts it, [music] makes the animations, the backgrounds. And if you talk about
+something specific, it goes online, takes screenshots or video recordings and adds them into the editing. Part
+four, you don't post. Blow title [music] connects directly to your Instagram, TikTok, LinkedIn, YouTube
+[music] and schedules everything so you don't really need to open your app and keep posting manually. So, when
+you take the skill, you tell it who you are once you'll have a few questions >> [music] >> that you need to
+answer, your niche, what type of content you want to be making, and what's [music] the end result. And then,
+you have two options. Either you let Claude control your computer and lets it do the thing, or it walks you
+through how to install it cuz it needs access to Blow Title, Fire Crawl and Hicksfield to generate those
+images. You can either have it locally with $0 or you can just use the API with Hicksfield and you pay as you
+go. Because right now there is GBT image 2.5 flare that is really cheap to make carousels with and make posts.
+Again, everything is in the link in the description. You're not coding anything. First, you open Claude, the
+app, create a new folder, drop the skill. It will be in a zip, same as my last video. Then you change the name
+of the folder to the name that you want. Then go to settings, click on connectors, add Higgs Field, [music]
+add Blow Tail, and make sure your socials are connected inside Blow Tail. I timed it myself, and it takes
+around 2 to 5 minutes to do this. Once you upload it correctly, the first thing it will ask is who you are,
+who you're talking to, how do you talk, and you answer it once and it remembers. Now, when you want to make a
+post, you only prompt one thing. My niche, 30 days, and just click enter. And look what it's doing. It's going
+online, finding what's trending right now in my niche, real topics people are actually talking about. If you
+look at the calendar, it will show you the carousels, the posts, and the video scripts. [music] You can read
+it 5 minutes before like it's all scheduled, and tell it which ones you want to change. And then all those
+posts are basically planned. So, in the carousel, look at the colors, if they respected the style sheets. Uh
+you can create a style sheet reference by going to the school community. I made a prompt. You go on Pinterest
+and find some images that you like, or you can give the color fonts, and you'll always follow those
+guardrails. Now, for the video, if you're doing the scripts, it's okay to do the mistakes. You can do it all
+in one take because the AI is smart enough to cut the mistakes that you're doing. Here is a video. I give it
+raw, and now the editing, cutting the pauses, adding the animations. I'll let you watch it. AI doesn't make
+bad carousels. Bad prompts make bad carousels. And the worst part, you can see everywhere. You can spot some
+AI-made carousel in seconds, and you can spot a Canva one just as fast. Same layouts, same fonts, same colors,
+same everything. So, now let's really talk about money because I >> [music] >> I know that's one of a lot of
+people's concerns. Uh the skills are free. Hicksfield uses credits, and Blowtello is a subscription. So, I'll
+be honest, this one isn't like a $0 like last video. If you want zero, your own pictures and post yourselves,
+you can do that locally. But if you don't want to use Blowtello, you have to post manually. But if you look at
+the return of investment, a social a social media manager for a video editor also, you're looking over $1,000
+a month. And it depends on how many posts you do. So, that's it. It finds what's viral, makes your posts and
+carousels in in your style, writes your videos, edits them, and posts anything for you in one prompt. Now, I
+want to say this. There are a few people doing this, and even a fewer people giving away the skills. I'm
+literally giving you everything here. The skills, the style sheets, all of it. As you know me, I'm not
+gatekeeping any of this. All I ask is that you leave a like, a subscribe. It really pushes the video. If you
+really like me and the content I give, you can also follow me on my other social media platforms. It genuinely
+means a lot to me. Everything is in the description and my school community. If you made your 30 days, share
+in the community. I want to see what you make, and I'll see you on the next one.

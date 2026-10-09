@@ -1,0 +1,18 @@
+Channel name: Jad M.H  | AI Automation
+Channel URL: https://www.youtube.com/@JadM.H
+Last updated UTC: 2026-10-09T21:13:59+00:00
+Discovered in current scan: 185
+Manifest total: 185
+Transcripts saved: 184
+No captions: 1
+Failures: 0
+Authentication required: 0
+Rate limited: 0
+Still discovered/pending: 0
+Whisper fallback enabled: False
+HTTP 429 events this run: 0
+
+Scan results:
+- CHANNEL: OK — https://www.youtube.com/@JadM.H 
+- VIDEO: OK — https://www.youtube.com/@JadM.H/videos 
+- SHORT: OK — https://www.youtube.com/@JadM.H/shorts 

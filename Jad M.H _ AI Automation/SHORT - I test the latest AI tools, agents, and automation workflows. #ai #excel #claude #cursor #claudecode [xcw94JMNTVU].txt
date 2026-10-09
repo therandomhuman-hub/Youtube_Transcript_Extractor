@@ -1,0 +1,18 @@
+Title: I test the latest AI tools, agents, and automation workflows. #ai #excel #claude #cursor #claudecode
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: xcw94JMNTVU
+URL: https://www.youtube.com/watch?v=xcw94JMNTVU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:24:10+00:00
+
+Kind: captions Language: en Your AI can write code all day, but ask it for a real Excel file and it falls
+apart. This free tool fixes that. It's called Office CLI. It's free and open source and it lets any agent
+build a real Word docs, Excel sheets, and PowerPoint stacks for you. No Microsoft Office, no license, nothing
+to install. And these aren't the half-broken working files AI usually hands you. You get spreadsheets where
+the formulas actually calculates real documents, real slide decks that a few can't send without fixing it
+first. The best part, it can look at what kind of file that it made and sees what's wrong and fixes it. So,
+what you get opens properly instead of being a mess. One thing to know, this isn't an app you click. Your AI
+runs it, so you need something like Cloud Code or a Codex driving it. So, point it at a copy until you trust
+it. If you want to set it up, comment office and I'll send you how to install it.

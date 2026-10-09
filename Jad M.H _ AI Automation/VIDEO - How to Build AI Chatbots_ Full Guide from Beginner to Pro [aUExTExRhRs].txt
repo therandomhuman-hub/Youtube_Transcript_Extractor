@@ -1,0 +1,206 @@
+Title: How to Build AI Chatbots: Full Guide from Beginner to Pro
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: aUExTExRhRs
+URL: https://www.youtube.com/watch?v=aUExTExRhRs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:31:07+00:00
+
+Kind: captions Language: en in this video I'm going to make an AI chat out that you could create for your own
+business this is also something that you could sell for businesses for thousands of dollars and provide actual
+value I also want to mention this will be a series of How I build my chat Bots for my clients I'll not be
+creating a chatall that someone can recreate in 10 minutes this will be an in-depth chat B with automations
+API connections and AI powered features that being said if you're looking to get a look into the world of AI
+and how it could help you in your business or how you could profit from make sure to like this video leave a
+comment and subscribe to this channel to stay up to date as I will be doing a series on building chat Bots
+with topics like setting up voice flow integrating Google Calendar working with apis building a knowledge base
+automations how to maintain the chat B also how to test and debug you probably don't know me my name is Jade I
+run my own AI automation agency with my partner called phaselink we work with companies in all niches to
+integrate Ai and see where you could help them the most now let's get right into it okay so today we're going
+to be looking into voice flow I Believe voice flow is hands down one of the greatest platforms for chat Bots
+and AI automations the reason why I believe this is the best one because voice flow is very customizable
+compared to other platforms there is a platform that I also like which is called bot press which I will do a
+video later on this channel but now let's just start with with voice flow first you got to sign in okay now
+I'll probably be blurring this out the these are some of our clients chat Bots now if you look in the top
+right we're going to be creating there our new agent let's just call it a law firm chatbot today we're going
+to be creating a chatbot for law firms I just recently created one for one of our new client now here is the
+import web page so this basically does it's just going to gather the information of the company we're just
+going to skip that right now we're going to leave it after okay now this is voice flow let's remove this this
+is the knowledge base this is where we would add the information about the company but now what we're going to
+look into is workflows okay now we need to create our workflow just let's just go to home right here and just
+basically press here press on trackpad and just delete everything okay now the number one thing that we should
+really focus on is how what do we want from this chatbot basically do we want to gather information do we
+actually want to get it some leads or do we simply just want to answer the client's questions what I will be
+building today is just basically chatbot that does everything in general and the way we would do it is
+basically something like this so this is what we're going to be building in this series is a chatbot that
+basically does everything and it is AI powered so it is pretty um a little bit complicated with gathering
+information and all that but rest to be assured I will be showing exactly how I'm doing this and as you can
+see here at the end we're going to get the API and how to basically automate it and get actual leads from this
+chatbot going back to our chatot what we would like to do is basically first we would like to talk to the
+clients let's just open the message up and we would like to ask them a question something along the lines of
+Welcome to J's Law Firm how can I help you today so this should be the first message what I would like to add
+on it is probably like an emoji emojis are pretty nice people are feel more welcomed when you use some emojis
+so we're just going to put this up how can I help you today now that's the first thing that we would like to
+do and what I like to do is give them options some people even though they know what they're looking for if
+you give them options they're more likely to basically answer the chot so what we're going to do here is just
+go to listen we go to buttons and the button number one should probably be like learn about our services I
+really recommend using emojis emojis they do really help by the way feel free to skip because this is going to
+be pretty repetitive what I'm going to be doing now we have learn about our services we add another button
+which is going to be like something if it's it's a law firm they probably have a case so like I have a case
+second button speak to a lawyer a lawyer which I'm understanding standing your rights and we should also add a
+no match button which should be a path to something called E A New Path which I like but we're going to not
+we're not going to be doing that right now so right now if they press on learn about our services we're just
+simply going to drag it and put it here and probably put a message this is what I had already prepared it's
+like welcome to jads Law Firm at jads Law Firm we specialize in a wide range of legal services to protect and
+defend your rights our mission is to provide etc etc etc you tell them the services right after you put the
+services what I would like is add another chat here messages and what I would like to write on this one would
+be something along the lines would you like to learn more about our crimes and defenses so I'll just would you
+defenses question mark this way we can basically guide the conversation we should always try to push the
+clients to yes no questions never leave him to ask a question basically always try to direct the conversation
+so you can get his information and let's just put some buttons here and another button no if he says yes we're
+going to probably going to open something else but now if he says no here and open a message and ask him
+directly do you have a case yeah pretty simple right now here if he says yes what I would really recommend to
+put is put a link of the website or if you have a website or if it's one of your clients put a link where he
+said like it like they basically writes all their services so what I would be doing here is I already had it
+prepared yeah so I already had this prepared so I'm just going to copy and paste for example let's try to run
+and see how this looks so I'll just go here boom welcome to op jads Law Firm how can I help you today learn
+about our services and if I press yes it'll just give me a link boom and I go in the link it'll take me here
+basically we can go back here and continue into our chatbot now the way I would use we should really focus on
+I have a case I have a case would be that that's our goal to get the client to speak to us up put a messages
+and ask it something like could you please clarify whether it relates to criminal law or defense law so I'm
+just going to write this down could you Bo and yeah once you write this is also putting buttons you know we're
+really trying to make all the work for them we don't want them to chat with it we really want to get them as
+soon as possible okay so let's say it's criminal law and here defense law just going to put it right here
+criminal law where going to put a big text here and defense law put in it basically here then I would be
+putting something like choose the type of category case you have this way and we would be putting buttons of
+what type of crimes your company or your client's company does and basically we're just going to keep adding
+buttons here here you give them options also the same thing here what I will be writing is the same thing
+choose the category the same thing I'm just going to come here come here come here come here and paste right
+and same thing I go on listen buttons and probably just juvenile okay he has a juven Nile case or if he has a
+DUI DUI uh federal crimes yeah let's just remove this this is just for an example up and here he has an alibi
+illegal search okay and let's just delete this I'm not a lawyer expert right here this is very important so we
+would like to set a category to an alibi now this one this way here's an example so we go to Alibi we go to
+actions we go to set variable we're going to come here we're going to go basically we're going to create a new
+variable and this variable we're just going to call it uh case category case Cate here to Alibi Boom the
+reason why we're putting um K Sky category to Alibi this way once we set up the entire chatbot basically this
+needs to be remembered and needs to be sent to the email that's why we need to put it in a set variable so
+once we make the automation it can just take the variable and send it basically to the email okay we really
+want to push the to talk to us as much as possible you should write something like could you briefly explain
+this situation for me right okay so now what we're going to do going to capture capturing means we listen to
+what the clients is saying he's probably going to type and we have to listen exactly what to what he says
+we're going to leave it at last utterance actually we're not going to add any type of actions then we just
+simply add it to uh gen lead gen lead before I ask a few more important questions about your case may I have
+your name before I ask here a few important questions about your case may have your name now we're also going
+to keep here we're going to go to capture let's listen capture we're going to capture his name last utterance
+we're going to keep going he said his name we're going to same thing uh yeah what is a good email to reach you
+at same thing go to listen capture boom now here we're going to create a new one up up up we're going to talk
+to it and here is the most important one is his phone number the way I personally like to ask their phone
+number is something like may I also have a phone number in case we need to speak to you or if we get
+disconnected may I have your phone or if we get disconnected here we're also going to be capturing up up up
+okay now the reason why I like to put it all the way at the end at the end so let's say you're a client right
+let's say you're somebody who uses the chatbot I go to I have a case uh criminal defense law and probably go
+to Alibi up up up and here we're just going to put it like I don't feel like sharing it here it's all right
+before I ask a few important questions about about your case may have your name so and here he's already
+invested he wasted time and effort so now he's more not I wouldn't say obliged to it but once someone puts the
+effort into it they would like to finish it so they're just going to put Jade and the best email to reach you
+out Jade gmail.com and this is not my real email and have your phone number so yeah always try to put them
+basically work for it I would not recommend it automatically and ask them for their name they'll simply just
+ignore it because if you ask for their phone number and their email address automatically they would say okay
+this was going to take a lot more time to get an actual response they wouldn't think it's an actual AI chatbot
+I really really not recommend doing that okay now let's keep going and building our chatbot this is pretty
+simple what we made so far right now I need to actually make here some variables okay some actions let's go to
+say variable let's put it in the same category as we already created okay can AR and illegal search set now
+here we're also going to do the same thing oh oops here we go on wait let me clean this up up and go to
+actions say variable case category and in trapment okay and we're just going to come here and basically just
+connect it and this I'll do the same thing as I did here I'll do it here so I'll skip this part okay so we
+built it here it is now this way once we set into like the automation everything is going to be recorded that
+he was in juvenile or like if he was a uh if he did a crime committed a crime or if allegedly or if he um is
+in a defense law now here would be understanding your rights I'll probably just put something uh pretty Blain
+and for lawyers don't don't give advices just give them a just in general idea of their rights don't go too
+in- depth I already prepared something which is something going to be like this up like it's important to
+understand your rights ensure you're treated fairly uh legal rights depending on your location so yeah and
+criminal defense rights if you're facing criminal charges you have the right to a defense attorney and then
+what I would do into it is probably ask I'll add the new chat and ask them hey like do you have a specific
+case that you want to talk about basically right I'm just going to ask do you have a specific case that you
+talk about and also same thing here we're going to put putting buttons yes no it's really important guys that
+you keep track of the conversation you're the one who's directing the conversation always give them options if
+he says yes put it here yes okay and if it goes to no here's what I would like to do here we're going to put a
+new one we're going to make a new path for it this way this is going to be called a call to EOS this is a
+really important part that I would not recommend skipping so here we're going to be using AI actually we're
+going to set a AI right here we're going to call it call to e what does call us stand for it stands for
+evaluate user statement and that's what we're looking for we're going to evaluate the user statement so we
+need to basically make a prompt here now the prompt I already uh made something so what we' be putting is this
+is how the prom is going to look like analyze the following user statement and the conversation history and
+return only the categorize so this is an AI that basically is going to see what the person said and from this
+it's going to make another block this block it's going to be an if logic but let's go back to call E this is
+what I'll be writing uh response options these are the options that I have here on the new block is learn
+Services I have a case speak to a lawyer legal we're probably going to be removing legal advice I haven't put
+that one your rights and general question and then it would have descriptions options description options like
+learn Services ask a question regarding the type of services we offer so this is if a client instead of
+pressing the buttons he wrote hey I would like to learn about your services we would basically the AI is going
+to be sped enough and see that and we're just going to automatically guide it through this so here's how it's
+so here we're going to put add a condition a variable if e and we need to create that one learn learn Services
+go here and this will make a block from it we're going to go action go to to block correct here takes us to
+home learn services or if he has a case is going to come here and as you can see here I uh like I have a case
+I'm just going to copy the name up I'm going to make an add a new condition here a variable a EOS same thing
+and I have a case b same thing we're going to put it into a block we're going to come here action add a block
+and go to I have a case so here we're just going to go to E and basically add this as a variable of the case
+and up up up second one we have to put it also into well sorry learn about our services and press the plus
+button and create the variable now these are variables now the way it works is if we go here and try to talk
+to it instead I would say like I have committed a crime see that's what we built right now it's basically an
+AI that is smart enough to categorize what the client said and goes and picks one of like options and goes so
+we said I have committed a crime so the AI thought that this person committed a crime so it put them
+automatically to I have a case uh what else do we have missing so here speak to a lawyer we'll just put it a
+talk here we want this as a link uh with the email but the email doesn't exist so it looks like something like
+this let me remove delete this and we're going to understand our rights so it's going to be here and here we
+also would like to add another message and this message we're going to be saying something of like same thing
+over and over would you like to tell me more about your case same thing buttons yes and no and I would also
+add a no like a no match button put a path and with this path we're going to put it into call to e same thing
+here no match path call to us now if yes I have a case it says no we're just going to make another chat and
+basically in this chat is just going to say something like um you're welcome to ask anything else we're going
+to put same here what all and this we're going to go here go to capture last utterance call to e and see what
+type of match it would be we need to add more options of course the options I would be putting it in call to e
+would be like I'll have a case speak to a lawyer your rights or general question if he would like to know what
+time do you guys close what time do you guys open um and he keeps asking multiple questions we need to create
+an AI that takes care of that but we also need to prompt the AI to be able to direct the conversation into I
+have a case basically always needs to be I have a case now we're only we only added two options here and uh we
+did speak to lawyer learn about Services speak to lawyer understand your rights no match now what we're going
+to be doing is the automation the API automation oh yeah we're going to be using make for the automations the
+role of make is basically once we gather all the information of the lead we need to automatically get it into
+our Excel sheet or for the email but now we're only going to put in the Excel sheets for you guys to be able
+to understand but further on this series I'll show you exactly how to put in emails so now here we are in make
+what we're going to do is just simply go to scenarios and basically create a new scenario once we go here
+always when you're using make always you always need to make a web hook this is what's G like it basically
+gets the information through voice flow so we're just going to make a custom web hook uh and we're going to
+call it we're going to add we're just going to call it jads Law Firm yeah just it right right herey address
+clipboard we're just waiting for it to load while it's loading we're going to go here we're GNA wrap it up
+here like may have your phone number up talk to it and here what we're gonna be saying is something of the
+lines of thanks for sharing this information with us we're we're here to support you I passed on everything
+you wrote to our team um you should be expecting a call in a few right smiley face okay once we do that
+automatic Ally we're going to make an API so we come here boom and here we're going to go back to make we're
+going to copy the address try not to copy it here this is not going to work voila come here copy now here
+we're just going to call it Heather this doesn't really matter and here the variable it's called Pizza who
+cares let's just put it pizza now and parameters name and the variable will be name we're going to also add
+another one call it phone number and in the variable we're going we're going to call it phone number here if
+you don't have it you can just create the variable now what we need to do is basically go back to make run
+once okay so as you can see the model is not set up the model contains unsaved changes so what I would be
+doing is go edit save okay run boom go here send request and here for example name phone number we're just
+going to go generate as you can see it's working we should be getting yeah here it is Jade 4 one no now what
+we would like to do is we make a Excel sheet now I've made one earlier it's a complete uh blank sheet there is
+nothing on it so we're just going to go here create a new sheet and add a row here and here we're going to
+take this spread sheet that we would like J's Law Firm let's put it go call sheet name this we do not really
+care so we're going to grab here the name and here the phone number we go back to here and we're just going to
+send a request again wait is it wait we have to run it live the module is not saved let's just do the same
+thing save okay run us value must not be empty probably let something here empty oh yeah I need to redo this
+we're going to go here J's Law Firm just going to put name phone number okay and run once it's running we can
+generate let's call it pizza because I'm feeling a little bit hungry right now phone number we're just going
+to write one two three generate so here it says okay it h it's normally now in my Excel sheets and as you can
+see here Pizza 23 so that's how you connect your voice flow with make and it's able to automatically once
+somebody fills his information automatically get it in your CLM or your Excel next video we're going to be
+creating the knowledge BAS and get the accurate knowledge basee through somebody's website or your website
+once we do that we're also uh going to create like natural language processing which means we're going to be
+using AI features and that's where I believe voice flow tops in to other uh platforms if you got to this part
+I really appreciate you guys tuning in and watching this video it's one of my first videos actually um if you
+guys have any recommendations or if you guys are having any type of issues please leave a comment I would love
+to help you guys and I'll see you guys in the next video thank you

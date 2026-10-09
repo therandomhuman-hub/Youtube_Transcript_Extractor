@@ -1,0 +1,19 @@
+Title: Comment **MAP** and I’ll send it over. #ClaudeCode #AI #Coding AIAgents #OpenSource
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: b_9s2CJOg2A
+URL: https://www.youtube.com/watch?v=b_9s2CJOg2A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:06:17+00:00
+
+Kind: captions Language: en Stop wasting your cloud code usage on it reading files one at a time. So instead,
+use this free tool that already knows where everything in your project is. It's called code base memory and
+CP. It's like giving cloud code a map instead of making it walk every sheet. Here's what it does. First, it
+maps everything. Every function, [music] every class, and how your separate services talk to each other. So
+cloud code looks it up instead of opening 20 files to find one thing. Second, it's fast. It mapped all 28
+million lines of the Linux kernel in 3 minutes. Then, it answers it under a millisecond. Third, it's saving.
+In their own test, five questions project cost around 3,400 tokens. Getting every single five answers out of
+the files cost over 400,000. Finally, it covers 158 languages, installs a single file, so you don't need
+Docker or an API key. It's already past 39,000 stars on GitHub. So if you want to give this a try to your own
+project, just follow me and comment to map and I'll do it with you.

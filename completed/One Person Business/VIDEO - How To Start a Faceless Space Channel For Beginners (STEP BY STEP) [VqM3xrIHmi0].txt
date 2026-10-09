@@ -1,0 +1,179 @@
+Title: How To Start a Faceless Space Channel For Beginners (STEP BY STEP)
+Channel: One Person Business
+Type: VIDEO
+Video ID: VqM3xrIHmi0
+URL: https://www.youtube.com/watch?v=VqM3xrIHmi0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:58:42+00:00
+
+Kind: captions Language: en This Faceless channel is making 25 grand a month. And he's not the only one.
+Plenty of other Faceless Space channels are exploding right now. But we're going to take it a step further and
+we will apply a new style to the space niche, which at the moment has zero competition. I explain how style
+mixing works on my second channel where I shared my 400K case study. But either way, I will walk you through
+the entire step-by-step process in this video as well. And I know this works because all my Faithless channels
+follow the same principles. And I also have access to data that literally no one else has because of my
+venture capital where we invest in YouTube creators. And I've been doing YouTube myself for over 15 years. I
+know you don't really care. So let's just begin with a tutorial. But first, I want to show you proof that this
+works. If you go to YouTube and you search for this channel called Astrome Earth and you open up the first one
+that shows up, you can go ahead and check out their videos. You will see they are posting around two videos a
+month. Most of their videos get millions of views. And since they're very long form, if we check out their
+analytics, we can see they're doing about $25,000 a month. And that doesn't count in all the other stuff that
+they are promoting. But there's also other AI space channels like Cosmicus that also get millions of views,
+but they all make very similar style of content. Then there is also Cosmic Lens, which actually used to get 6
+million views. There's also this crazy space channel that gets hundreds of thousands of views on two-hour long
+videos, which results in them making almost $20,000 a month. And then there is this space channel that makes
+almost 10 grand a month. And this space documentary channel also getting hundreds of thousands of views. Now,
+instead of copying exactly what they do word for word and just becoming yet another copy in a sea of hundreds
+of different space channels, we're actually going to do style mixing, which means going to a completely
+different niche, seeing what style of content works for them and then bringing into the space niche. So, for
+example, I found this channel called Deep Made Simple. Right now, they're making 22 grand a month. And if you
+go to their videos, you will see that they are creating these slideshow videos where they just showcase
+different images that look like they were handdrawn or animated. But this is all AI. These are all AI images
+which can literally be done just by pasting a script in this AI tool and you just select how many scenes you
+want and just generate. But we're just going to bring that to the space niche. So we're not going to be making
+videos about religion like they do in this case. We will just model their style. Now you don't necessarily
+have to model their style. You can bring any other style of your choice into the space niche. I mean, I have a
+list of over a thousand faceless channels making between $5 and $50,000 a month. So, I can go to pretty much
+any of these channels, see what style works for them outside of the space niche, and then just bring that
+style of content but to the space niche. All right. Now, to make things easier for you, I've built a free
+notion document with all of the prompts that we're going to be using. So, you can just copy and paste
+everything and follow along. To find this free document, just go to my free community, which I'm going to link
+below. Go to AI systems and then select space niche right here and open up the notion link. Then head over to
+cloud.ai. Then go to the projects on the left. Click on new project. Type in space niche and click create
+project. Then copy this prompt from the notion document and then paste it in the instruction box right here
+and save instructions. So now every answer that cloud project gives to you is going to go through this
+instruction box that we gave it. All right. Step number two, coming up with video ideas. There are two
+different ways to do this. First of all, we can just go to one of the space channels out there that are our
+competitors. We can go to their most popular videos and then simply just take a screenshot of a couple of them
+and just paste that into this project. Grab this prompt right here that allows us to steal their ideas and
+basically come up with something new and unique. And then you just let Claude give you video ideas. Or if you
+are using solo, you can go to video title remix in the social media sector. And then right here you can paste
+a link to a similar channel channel that is outside of your niche. And then just describe your niche, which in
+this case is going to be space. And then just click generate and it will remix their most popular titles and
+it will apply them to your new niche, which in this case is space and universe. That way, you're not copying
+video ideas directly from your niche and being a copic head, but you're also not blindly shooting with new
+titles that are not proven to get results, but you go in and you see what's already getting views in other
+niches and you just remix it for your own niche. Next step is really optional, but since YouTube is now using
+Gemini AI for everything, one of the things you can do is you can paste in this prompt from the document which
+asks Gemini to research this niche for you and find winning angles. So you can generally use it as an
+assistant for YouTube because other AI tools like Chubby and Clode, they don't have access to YouTube the way
+that Gemini does. And now just pick one of these ideas either from Gemini, which is not really something I
+recommend because Gemini doesn't really know how to write good titles, or from Solo, if you've used that one,
+it's going to give you different title variations based on title skeletons that are actually getting results
+or from cloud project that we built earlier. Next step, we're going to grab this prompt from the notion
+document, which is going to ask Claude to give us lesserk known facts and obscure details on this subject so
+that we're not sharing generic slope that everyone has already heard a thousand times. So, we are using Claude
+for research. And right here, you just need to paste in your title, the one that you chose. If you just use
+random AI tools and generic advice from Chad GPT, it's going to give you stuff that most people have already
+heard and you're going to be sharing things that have already been said on YouTube a thousand times and then
+the YouTube algorithm has no reason to promote your videos. That's one of the main reasons why people don't
+get views. So, this really helps quite a lot. Now, the next optional step if you would like to speed up
+monetization before you even reach 1,000 subscribers and 4,000 hours of watch time is to create your own
+digital product. And if you are using solo, there is this feature called digital product builder where you can
+either manually build digital products based on your niche and you can also select the price or you can select
+auto where you can just describe your niche. And right here you can paste a channel link which doesn't
+necessarily have to be your channel but it's channel that is similar to what you are creating. And then you
+just click build it for me and it creates an entire digital product with the sales copy and everything ready
+for you to just start selling it for between $50, $100, $200 a piece, whatever you prefer. But having a
+digital product linked in the description from day one will help you make more money faster and monetize this
+channel even before getting into the partner program. All right, next step is to write a YouTube script that
+actually keeps people watching because most of the YouTube scripts that you get generated with treptt or clude
+are generic as these tools don't have access to what works on YouTube and what keeps people on. Therefore, you
+can either use clo or treptt but you have to heavily prompt it or if you are already using solo just go to the
+YouTube script writer right here which has these frameworks included. I mean you can unselect them if you want
+but you can also add more psychological trigger emotional stakes etc. so that it fully optimizes your script
+for best performance. Now, you would first of all need to describe what the video is about, which you're going
+to grab from Claude or whatever tool you've used to come up with the video ideas. Then, you're going to paste
+the title in this box. Then, for number three, you can add YouTube links, PDF files, or text notes regarding
+this subject. The more info that you give it, the more unique your video script is going to be and less
+generic it is going to be as well. So, what we're going to do is I'm going to grab these 10 points that I
+asked Clude earlier for. So, I asked it for 10 unique points that most people have not heard about when it
+comes to this subject and I'm going to paste them in the text note. I can again also just add YouTube links if
+I want to different videos that speak about this. And then for the style, this is where I can just model the
+style of a channel that is already getting results. I can go to their most popular videos. I mean, this one
+got 6 million views, so obviously their style of writing was probably good. So, I'm just going to copy the
+link to this YouTube video and then I will paste it inside of this box. You can also add text notes. For
+example, I like to say avoid using choppy oneliners. Use simple language only. And then for monetization, if
+you are promoting a digital product, then select this. It's going to create a call to action in the video so
+that people click the link in the description. Or if you're just focusing on ad revenue, then just click on ad
+revenue maximizing watch time and engagement. Then you can select frameworks if you want. And you can also
+select intra boost. This is if you already have a thumbnail, you can paste it here and then it's going to
+match the hook with the thumbnail so that you deliver on the promise right away. And then you can select the
+length of your video and click generate script. All right, the next step is creating visuals. And again, we're
+going to bring visual style from a different niche. We're going to use this style of animation which looks
+like handdrawn or 2D cinematic style of animation. It's basically just images. It's static images. the same
+way that this channel did. For example, Zen got 7 million views on this video, for instance. We're going to
+model that style, but we're just going to bring it to the space niche because most of these space videos, they
+use different style of footage and everyone is kind of used to it. Now, if you are using solo, you can just go
+to scene generator. Then you can simply copy your script, paste it in this scene generator box, and on the
+right side, select how many scenes you want and then select a visual style. You have everything from cinematic
+to the animation to hand the drone sketch to stickman style all the way down to GTA 6 style if that's the
+style of content you want. But for this I would either go with cinematic, hand drone or stickman style. Let's
+go with handdrawn sketch because I think that's going to model closely to this style and then just click
+generate bulk scenes. Now personally I would actually mix in some real life footage where needed. So, if
+you're mentioning some specific planet or a specific telescope, you can just go to storyblocks.com or pixabay
+or pixels.com for free alternatives and then you can search for that and you can find some real life footage
+that you can use as an overlay at some parts where needed. But for the most of it, I would just use the images
+that we're going to get generated. I mean, here's an example of what I got from one of my earlier videos. It's
+another history Egypt related video in 2D animation style. It's pretty cool. It's pretty unique and you can
+just download it with one press of ao button and use. I've done it in this is a stickman style like handdrawn
+sketch style. This is one of my GTA 6 videos. Next step, now that we have visuals, we also need a voice over
+someone reading the script. And this is the part where I do actually recommend you read your own script. Like
+just pull up a microphone. Even if it's a trip $20 microphone, do it because it's going to sound a lot more
+unique and it's going to sound a lot more human in the sea of generic AI voices. You're really going to stand
+out. Now, do I do that myself with my channels now? Absolutely not. We use AI voices. All of them are
+monetized. But when I started, I did use my own voice, even though I had a really bad accent. Now, you have
+these free online voice recorders where you can just press record and read your script into the microphone and
+you have a voiceover done for free. It's only that it takes a while to record it. Now, the other alternative
+is to hire a real voiceover artist, though they go from $100 for 150 words. And by the way, our scripts are
+over 1.5,000 words. So if I were to type that in over here, it would be like $1,000 per voiceover, which is
+crazy. And then the other alternative is to just go back to solo, copy your script, then go to the voice
+studio, and then select voice over, choose which voice you would like from the right hand side, and there's a
+library of 9 and a half thousand different voices. I have some of my favorites here. Then you just paste your
+script and click generate. Then you can just download your voice over with one press of a button. All right,
+next step is thumbnail. Now, whatever AI tool you use to create your thumbnails or whether you create them
+yourself manually, I don't really care. But what matters the most is that the thumbnail psychology is on
+point. The biggest mistake that people make is they just repeat what was said in the title in the thumbnail as
+well. So, you're wasting your space. You have limited space. I mean, look at this. You have title and then you
+have thumbnail. So, you have to make sure that the thumbnail complements the title. Now, how do you know what
+to actually put in the thumbnail? Where this is where you can use this prompt. You're going to copy it from
+the notion template. Then go to that cloud project, paste in that prompt, and then right here, you're just
+going to insert your title. And then here where it asks you for the script, you just copy and paste it right
+here. Now, when you submit this into code, it will analyze what your video is about and it will find the right
+text for you to use based on my formula, which is curiosity, gap, fear, scarcity, or desire. It's going to
+give you a bunch of different options. Now, out of all of the options, I personally like this text the most.
+Like, we can't stop this now. And then our title talks about how our galaxy is moving or we are being pushed
+is also a really good one. And now I'm going to model this thumbnail style from this channel because no one in
+the space niche has done this yet. So, what I like to do is I like to copy the link address of that YouTube
+video. And then there's two ways to make thumbnails with AI. Option number one is to go to solo and then go to
+the thumbnail maker here. Click on edit, then paste the link from YouTube and just say what changes you would
+like to make and then click edit thumbnail. Or the alternative is to go to YouTube thumbnail downloader,
+download that YouTube thumbnail, go to Trej or Gemini, upload that thumbnail and just describe your changes. I
+like to speak to it. So, I would just say, "Hey, I need you to replace this map, this visual that is on the
+screen with a Milky Way galaxy drawn in that exact same style, but just completely remove whatever is
+currently on this YouTube thumbnail." And you see that text that's above it, the book of Something Explained.
+Well, remove that text and replace it with the text that just says, "We were wrong." and make sure it is in
+the exact same font and it is the same style composition of a thumbnail. Now, here is what Solo has done. I
+can use this thumbnail and then this is what Tre GPT has done. Pretty much the same thing. Now, we just need
+to put everything together inside of Cap Cut or any other video editing tool you use. I use Cap Cut because
+it's really simple and I think you can do it for free. I mean, right now I pay five bucks a month, but I've
+used it for free for a long time. You just need to import all this footage like all of these scenes that I've
+generated with Solo. They're also mapped as scene 1 2 3 4 5 etc. So I just need to drag and drop them and
+they're going to be in the correct order. And here's how that looks like as of right now. And then I just need
+to add the voice over which I've generated also inside of solo and drag and drop that to the timeline right
+over here. And now we have the voice over where now just need to listen to it and match the scenes correctly.
+So, I would just need to adjust them like this. And then technically, it will be switching the scenes every 1,
+three, sometimes 5 seconds depending on what the voiceover says. It's a really cool style if you ask me. This
+is pretty awesome. It looks like someone put the effort to draw this by hand every single time. It doesn't
+look like AI slope. And look how happy these guys look like. I'm This is cool. This is really awesome. I'm
+going to export this. And then we just need to upload that to YouTube. And later, I'm going to show you
+exactly which settings to use. But first, I just want to go over why the hell am I even sharing this? Well,
+one of the reasons is because I run a venture capital that invests in YouTube creators that make at least
+$5,000 a month. So, my goal with these free tutorials is to get as many of you to build channels that you can
+then go here and sell to me so that I can scale them further. Secondly, I am an affiliate for solo. So, if you
+go to the partner program, which is at the bottom right over here, you'll see that it pays 10% reoccurring
+commissions and 5% on tier 2. And I do earn affiliate commissions when someone sign ups using my link. I just
+like to be transparent. But in terms of how to upload your videos properly, I have explained that in this
+tutorial which you can watch next by clicking on the box that's on the screen right now. And I will see you
+there. It is a really awesome tutorial and uh I can't wait to see you

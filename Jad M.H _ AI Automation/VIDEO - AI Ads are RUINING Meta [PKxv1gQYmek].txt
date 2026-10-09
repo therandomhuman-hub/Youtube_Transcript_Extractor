@@ -1,0 +1,114 @@
+Title: AI Ads are RUINING Meta
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: PKxv1gQYmek
+URL: https://www.youtube.com/watch?v=PKxv1gQYmek
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:19:38+00:00
+
+Kind: captions Language: en AI is actually probably going to be able to find who is going to be interested in
+your product better than you can. You won't even need to have have to >> [music] >> start off with a creative.
+>> Uh, directly into an ad campaign that launches every single day with >> So, you could theoretically manage
+your ad [music] spend on Instagram. >> It can basically just connect to our ad systems. >> The days of [music]
+spending paid media dollars on guessing on your content are over. >> pretty dramatically change what
+advertising is. >> I built something that finds the Facebook ads that are actually working right now and works
+[music] out why they're working and builds the ones off that. And I think anyone running paid ads needs to see
+this. Here's why. Number one, finding the winning ones. I connected to Firefall and just pulled [music] the
+ads that are actually running, then sorted them into categories for me. The [music] hooks, the offers, the
+formats, whatever pattern it kept seeing. And then, all I had to do was approve. That's genuinely it. And it
+showed me everything it found and I said yes or no. Number two, the part that is actually shocking. It
+connects straight into my ad account. [music] So, it generates the post, sets the budget, picks the target,
+pulls the keywords, and points it at my landing page. Or if I don't have a landing page, they'll just generate
+me a landing page. And it's all happening inside Meta. [music] So, now I can just ask it things like, "Why did
+this ad win? What's the offer underneath it? Which angle is everyone else missing? Or even build me 10
+versions of this one." Number three, this is the part that you should definitely not skip. It's Meta's
+policies. You don't want to get your account banned. Automation on an ad account is exactly how people get
+banned. So, you need to know what Meta rules actually say before you point it and it does something completely
+wrong. I've got this running on my ads right now. If you ask me, I think we're about to see Facebook ads
+change dramatically. Most people are not ready for it. A lot of people are not using AI at this moment.
+[music] And everything that you will see in this video will fully be a skill that you can just have. Let me
+show you the biggest cheat code there is. All you have to do is go on your Google and type Facebook [music]
+library. And you click on search the meta ad library. I can't emphasize on how much people don't know this.
+All you have to do is type in, for example, the market that you're in and where you want to publish your ads.
+You go to United States, for example. You click on all ads. And let's do roofing, for example. So, what it's
+going to show us now, it can show us the active and non-active ads. >> [music] >> And here's what we can
+assess from this. If we see an active ad that has been since, for example, here, January 2018, that means this
+ad has been working for this company for so long that they decided not to stop this ad cuz it brings them
+revenue. [music] And right here, we can see more detail. And this is genuinely a winning ad. What you don't
+want to do is here at the top right, active status, you want to keep it as [music] active ads. So, we only see
+the ads that are winning at the moment. For example, also in this one, in December 12, 2014 24, [music] this
+is a winning ad also cuz it has been there active for quite a long period of time. If you remove that, we're
+also going to see the ads that were not winning and we don't want to do that cuz we want to have higher
+chances with our ads. Now, let me show you how we can do this and have it fully automated. All we have to do
+is go on our quad. Right here, right here, I'm using Visual Studio Code because I'm turning this as a skill
+and you'll have full access to it. So, I'm creating a new terminal and I'm just going to say quad. >> [music]
+>> You can also have it in your quad app. That's completely fine. So, all I'm going to type here in Explain to
+Claude is, "Hey, find me [music] winning ads for roofing in Austin, Texas, and Florida, and then open it for
+me locally so I can see what are the results that it found, what are the winning ads, and what are the reasons
+that their ads are winning." Instead of doing this manually, it would take [music] me a few hours, but having
+Claude doing this automatically would be great. But, we do need to connect with Fire Crawl. give it first the
+assignments. Okay, so that's the assignment that we're giving right now, and it's going to use Fire Crawl.
+Now, let me show you how to connect Fire Crawl and [music] Hixfield at the same time. Connecting to Fire Crawl
+is super simple. All we have to do is click on settings. Once we're in settings, we're [music] going to go all
+the way to the bottom where we see connectors. And in here, I have it already, but if you want to do it on
+your own, you just click on add and browse connectors. It's already there, you just have to write Fire [music]
+Crawl, and you add it, and it will open this tab for you, and you just click on authorize. As mine is already
+connected, I don't have to do this, and that's all you have to do. So, you have to create an account. You can
+use a thousand credits, which will be enough to do your Facebook library, and >> [music] >> it will be it will
+it will cost you nothing. Now, going back to connectors, we have to connect now Hixfield. Same thing, you just
+click on add, browse connectors, and you connect Hixfield, and it will do the same thing. Super simple.
+[music] That's it. Now, we have our Fire Crawl and our Hixfield. All we have to do now is connect it to our
+Facebook ads. So, the way to do that is now we have to do it >> [music] >> custom made. You go back to
+connectors, you click on add at the top right, >> [music] >> and you click on add custom connector. Let's call
+it Facebook ads right here. I'm just going to [music] take this example and you simply remove example and we
+put Facebook. And there it is. You're going to get also like a pop-up where you need to connect to the same
+way as we did with Firecrawl and the Higgs Field. You just allow it, as simple as that. And now they're
+showing us the approvals that we need. So, the great part here, we don't need to go into Facebook anymore. All
+we have to do now is go to our cloud and let our cloud control it for us. So, in here you could either remove
+some actions or [music] block them from ever being able to create or ad sets and campaigns. >> [music] >> And
+it needs approval every time that it wants to do something. I would definitely recommend leaving this as
+default. Now, going back to our agent, it was able to get us the ads, the winning ads, and the stats and why
+they were winning. It as you can see here at the top left, we have Austin and Orlando, which is great. [music]
+And we're able to scroll through them and see what is the hook, the creative, and why this is ranking. Also,
+how long has it been active? Now, in here what I think is interesting, I kind of even though this is 49 days,
+Alta Roofing is something that looks interesting. Insurance denied your roof claim, let's take a second look.
+Think I would definitely want that one. And also, if you want to get more clients, for example, in [music]
+this one, Kaizen Roofing, they did like their ad is active for like 21 days. >> [music] >> So, they are very
+interested into getting more business. And if you're an agency, you can reach out to them and say, "Hey, I've
+seen you've been doing your ads for [music] 21 days and it looks like only from like their image right here,
+it needs [music] a lot of work. Save up to $1,000." Super vague. Get any leads out of this? So, right now what
+we're going to do, I'll pick real quick the ads that I'm finding interesting >> [music] >> and give it to my
+AI. And then let's see how it's going to create the campaigns for us in Meta. I went back to the chat and I
+give it the ones that I really liked. As I mentioned the insurance denied, I really liked that and it changed
+everything. [music] So, what it did, it generated the images in Hicksfield. And if I go log in right now in my
+Hicksfield accounts, I can see right here in my field AI created this image and also this image. So, to save
+also like the tokens and not to get a lot of errors, I decided to put only the images generated by AI and then
+the writing style will be done by HTML. So, this is only it like the image generated and this is the final
+result. Next phase, free roof inspection and also the image that we saw. Okay, your roof estimate, free
+estimate, which looks great. Now, going back to our conversation, I simply say they look good. You can create
+the campaign [music] now. You have access to my Meta account. And now we just wait. So, what I'm building
+already >> [music] >> has this skill, Cloud Ads, and I do want to give credit to this one because it's one of
+the best skills on GitHub repo for Meta Ads. It has 9.1 thousand [music] stars. So, a lot of people are
+already using it and I had already added also the Meta Ads Analyzer. So, essentially what's it going to do is
+it will give us a report after the first week or the first three days how our ads are performing and [music]
+should we just remove some of our ads and replace them with different images. [music] It's essentially like
+kind of having a team that is helping you with Meta Ads. So, the question that you might ask yourself is does
+>> [music] >> using your AI connected to the MCP Facebook get you banned? So, you [music] are using Meta's
+official MCP server at Meta Ads. AI connector does not get your accounts banned. [music] So, what I did, I
+went straight to Meta news and check what is really basically going on to not get our accounts banned. And I
+should let you know this that AI Meta Ads AI connectors lets advisors and agencies create, manage, and analyze
+campaigns in the AI tools they already use. So, it is possible and we're not trying to bypass it. [music] So,
+essentially what I did is I gave all the guardrails and what it's supposed to follow, the structure, >>
+[music] >> into our cloud. So, it understands that it's not supposed to act that way, so it doesn't get our
+accounts banned. Now, looking at our results, we can see Freeze Link Roofing Ottawa, and we can see also that
+it did a budget of $50 here. So, it did like Ottawa 40 km range, age 30 to 65 broad, and [music] it goes
+through the website. Let's look at the ads, how they look like. The insurance denied, the roof looks it's
+good. Single image, and they give it the website for the landing page, the [music] Transclined. So, basically
+it followed the winning ads. So, it did exactly what it's supposed to do. Just follow the winning ads and
+literally just do copy and paste, and it will see which one is winning. Now, going back, let's check this one,
+this [music] one too. And it looks like it's same thing, and this one. So, now, like running ads will take
+much less time than doing it manually. All right, that'll be it for this video. Everything that you see here
+is turned into a skill. All you have to do is >> [music] >> click on the link in bio. You will have access to
+my free school community. And as you know me, I'm not gatekeeping any of this. You have full You have full
+access in my free resources. >> [music] >> And thank you for sticking all the way to the end.

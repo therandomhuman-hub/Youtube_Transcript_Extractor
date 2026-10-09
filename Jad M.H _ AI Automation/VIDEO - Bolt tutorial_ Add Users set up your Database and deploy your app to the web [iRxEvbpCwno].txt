@@ -1,0 +1,84 @@
+Title: Bolt tutorial: Add Users set up your Database and deploy your app to the web.
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: iRxEvbpCwno
+URL: https://www.youtube.com/watch?v=iRxEvbpCwno
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:28:44+00:00
+
+Kind: captions Language: en if this is your first time hearing about bolt. new or if you have been using bolt.
+new for a while you know how good it is but if you're unsure how to add users in the database this is the
+right video for you in this video we're not only going to make this app look good but we'll also add the
+database and users recognition that can be connected with an automation if you're inure how powerful this tool
+is let me tell you about my experience I tried to make a 3D product on B.O and only took me 8 minutes and I
+have no coding experience whatsoever now in the other hand imagine a developer using this tool to their
+advantage they could save a tremendous amount of time and effort allowing them to focus on creating even more
+complex projects if you want to watch a video of me creating a 3D module product leave a comment below and the
+like and I'll send the details over to you in my last video I created an App for a law firm called free from
+jail which allows clients to view videos about their firm Services I also added an AI chaot if this is your
+first time learning about b. new I highly recommend watching my last video now that we're in baldon for those
+who are not familiar with this platform baldon is essentially like chat gbt before app development what's
+really interesting about this app is that you only need to write a prompt and it will code for you an app
+sometimes just like Chad gbt you need to have a back and forth conversation to get your idea around clearly
+personally I don't know how to code but I know how to talk to Ai and prompt it which is why I believe this
+tool is very powerful now from my last video um uh as I mentioned here is what we made so far we also added
+this uh AI chatot that I made with voice flow you can see at the bottom right you can ask whatever questions
+about like regarding the law firm it will answer and get the information and put it into their database right
+now what I would like to add here is also like a not mode effect and then we'll just add a signin method and a
+database okay the quick detail that I really like about B on you is the fact that we're able to see the code
+being coded at the same time I know nothing about coding and I think it does give us a really nice touch to it
+as we can see here there's a issue let's see if Bolt is able to fix it by itself if not we'll try to tell hey
+there's an issue let's give it a first try Okay from here it looks like bolt was able to find the problem and
+fix it by itself I really recommend just pressing once and see if Bolt can fix it for you instead of you
+trying to explain the issue and as we can see here at the top right they added the night mode effect it does
+it is night mode effect but it does look weird we're not able to see the text format what I will simply do is
+say when it's on night mode I'm not able to see the [Music] text it looks like I'm getting an error which is
+completely fine it there are three ways how to fix this type of area you get it either you take the code and
+you write it back into the language or you take a screenshot of the issue you're facing and the third option
+that you have is also you can just say hey I'm getting an error pop up I'm not I'm not able to see the page
+all right let's see what it was was able to do for us okay so here we're able to see the text format which is
+great now let's add the login with Google so gr let's now add the ability to add users to login via Google
+with Firebase now the reason why I chose Firebase is just a platform that I'm really familiar with you have
+other platforms like back four app sub base Cloud fire store here it gave us the link to Firebase and also the
+instructions so here we're simply just going to press on the link that they gave us and go and create a
+project you uh name the project whatever you would like here I'm just going to name it free from jail you
+press on continue you also press on continue configure Google analytics you simply press on default account
+for Firebase and press on continue once we're in the main page you simply just go at the top left and you
+click on Project projects uh project settings oh you're supposed to actually go on build and authentification
+and it's going to take you here so you only have to get started once we're in You're simply just going to add
+on Google press on unable and put an email account and click on Save and you also do the same thing with the
+email password you can see here add new provider at the top right you press on it and you go on email password
+click on unable and save now that we have our Google and our email password we're simply just going to go to
+b. new here I'll say I'm adding the domains could you give me the domains to add on my Firebase and also it
+looks like we had an error but it's completely fine we're just going to keep going through it with our prompt
+here it looks like it gave us the domains to add on our Firebase and also uh again what I likeable B on you
+it's giving us the instructions as you can see here on what to do so what is telling us is a step by step of
+how we should go on the app so you go on settings you open authorized domains and you add a domain you go back
+to Bol on you and add the domains that it gave us like here so you just go and copy and add a domain and add
+press on ADD let's add our Firebase on our app so you go on Project settings you go all the way down you and
+here you need to register the app let's just call it free from jail it'll give us a code and this code we're
+just going to Simply go and copy it do not be overwhelmed there are multiple ways to add the code on your app
+one of these options is you put it manually you go on firebase.com to add on our Firebase that was missing
+we're going to copy it and go back to authenticate authen ification settings authorized domains and add domain
+paste and add here we have to make sure that we're not missing any type of domains so I'm just making a quick
+check and it looks like I'm missing one so I'll just add it again onto our domain click on ADD okay now let's
+try to use our Google and it looks look like we're not able to use it but the reason why we're not able to use
+it is simply because we haven't deployed our app and we didn't add the Firebase database here let's leave it
+at default and press on next same thing just press on continue and now we should be able to have a cloud fire
+store here's our database that is implemented into our app this database allows us to store and sync data for
+clients it's a SQL database that is implemented now in our app on bolt. you can see at the Middle top there's
+rules you're going to click on it and copy the code that they gave us here I'll simply just write let's store
+the data in Firebase and here's my config and you paste the code that Firebase gave us now we added the
+database let's just press on deploy it's at the top right and deploy our app so we can see if our Google
+signin method works here as you can see I'm able to see my emails I'm just going to click on one and it looks
+like I'm signed in even my logo is appearing which is quite nice now let's add the ability to talk and have a
+messaging system on our Law Firm where we can interact with some lawyers that work in the company okay from
+the notes that it's showing us says that it's already implemented into the database fire store and here at the
+top right of the website we're able to see the messaging system and here we can see the top of lawyers but I'm
+not really a fan of the way it's displayed the messages so what I'll simply do is say that I want to be able
+to be taken in another page where I can see only the messages same as Facebook or Instagram okay this is much
+more better now let's try to type a message and see if it's able to be sent automatically to the database on
+Firebase okay here we're not able to see sometimes it's good to refresh here we go we're able to see the
+message and also the user who sent the message and the time and the date of when was the message sent this is
+how you add a Firebase data on bolt. new

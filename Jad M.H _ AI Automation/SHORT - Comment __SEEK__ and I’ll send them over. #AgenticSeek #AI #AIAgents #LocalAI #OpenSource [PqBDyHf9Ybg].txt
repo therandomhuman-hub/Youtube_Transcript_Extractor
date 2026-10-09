@@ -1,0 +1,19 @@
+Title: Comment **SEEK** and I’ll send them over. #AgenticSeek #AI #AIAgents #LocalAI #OpenSource
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: PqBDyHf9Ybg
+URL: https://www.youtube.com/watch?v=PqBDyHf9Ybg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:04:39+00:00
+
+Kind: captions Language: en This free AI tool searches the web, writes the code, and checks its own work all
+locally. It's called Agentic Seek. It's like hiring a researcher who never sends your files anywhere. It's
+already at 26,000 stars on GitHub. Manas does this as a subscription, and the top plan is $200 every single
+month. This one literally costs you anything. [music] Here's exactly what it does. First, it browses the web
+on its own. It searches, reads the pages, pulls out what you asked for, and fills in the forms itself. Second,
+it writes code in Python, Go, and Java, and then it checks its own work and fixes what's broken before it
+comes back to you. Third, you don't pick the tool for the job. You ask for the outcome, and it works out which
+part of itself handles it. And finally, all of it happens locally. So, your files stay in with you, and there
+is nothing to subscribe to. It's good for local models, so you will want a good GPU. If you want to give this
+a try yourself, just follow me and comment seek, and I'll DM you.

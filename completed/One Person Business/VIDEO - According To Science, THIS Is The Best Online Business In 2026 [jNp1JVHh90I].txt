@@ -1,0 +1,197 @@
+Title: According To Science, THIS Is The Best Online Business In 2026
+Channel: One Person Business
+Type: VIDEO
+Video ID: jNp1JVHh90I
+URL: https://www.youtube.com/watch?v=jNp1JVHh90I
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:25:38+00:00
+
+Kind: captions Language: en 99% of AI solo business ideas you see online are a complete waste of time. I know
+this because I've tested pretty much every kind of AI business on my million subscribers channel. I've been
+lucky enough to have generated over $6 million from these businesses, and I've seen real-world results from
+over 90,000 AI solo founders in my community. So, I know exactly what actually works in real life and what's
+just going to take time, energy, and money from you without giving you much in return. And in this video, I'm
+going to give you my a completely honest no-BS ranking of these business models, so you know exactly what to
+focus on. To keep this ranking fair and grounded in reality, I'm going to be ranking each of these solo AI
+businesses on a 50-point scale based on these five things. First is upfront cost. How much do you actually
+need to throw in before you see a single dollar back? Second is income limit. How much can you realistically
+earn from this if you stick with it long enough? Third is client dependency. Do you actually have to
+constantly find new clients, or can the money come in more passively? Fourth is skill stack. Like, how
+valuable are the skills you pick along the way, and can you carry them into other projects later? And finally,
+beginner-friendliness. How easy it is to start this without any experience, any audience, or any tech
+background? I'll be ranking each of these on a tier list from S for super all the way down to F for fail. And
+in the end, you'll see exactly which ones are worth your time and which ones you should run away from. Let's
+get into it. The first one is AI agent development. So, this is where you build custom AI agents for
+businesses. Think things like a chief of staff agent that manages someone's email and calendar, or sales bots,
+or operational bots that supposedly run a whole company on autopilot. And you've probably seen a lot of people
+hyping this up as the new big thing. The problem is that most of the people selling courses on this stuff have
+never actually built any working AI agents that consistently pay the bills. The reality from my experience is
+way uglier than what most people share online. First of all, building these AI agents is incredibly hard. You
+actually need real coding skills. You need to know how to train models together. You need to know how to
+handle errors when AI hallucinates, and you need to baby sit these things constantly because they break all
+the time. The second some model gets updated, everything you built breaks. And now you have to spend the whole
+week in fixing it over and over again for free. And I have friends in this space who lost a lot of money
+selling these services. They they land the sale somehow, but eventually they end up losing money on API costs
+and all the other costs that come along the way. Now, some people don't have any problems with that, but here
+we're specifically talking about one-person businesses, and most businesses will not trust a one-person
+operator to build an AI agent that's going to run the whole operation for them. Most of them would rather wait
+6 months and pay a real software company than trust their email and customer data to some guy who learned this
+from a YouTube video last month. And I mean, even once you land a client somehow, you're on the hook forever.
+Every time something breaks, every time they want a new feature, every time the model updates, there goes your
+weekend. So, the upfront cost is very high, the technical barrier is sky high, and the client dependency is
+brutal because these things need constant maintenance. So, for most people watching this, AI agent development
+is straight up F tier. I almost fell for it as well, and gurus are selling us a dream that actually requires 5
+years of engineering experience to really work out properly. Number two, AI automation agency. So, this is
+where you build automations for businesses using tools like make.com, n8n, and Zapier connected to AI models.
+This one requires way lower barrier to entry than building and deploying actual AI agents inside of
+businesses, and you've probably seen a bunch of people speaking about this for the last few months here on
+YouTube. Actually, the biggest complaint that I heard from people doing this inside my community is that
+client work really never ends once you build these automations. You sign up a small business and they start
+paying you, but then they start messaging you at night asking for different requests because some random thing
+in the automation broke and they break all of the time. Then you have to deal with onboarding calls, refunds,
+chasing invoices, and clients who don't even understand what you built for them. The market is also way more
+saturated than most people think. There are tens of thousands of people offering same automation services on
+platforms like Upwork, Fiverr, and similar. And sometimes you're competing with someone in a third-world
+country who's going to do something for 300 bucks and you're trying to charge $3,000 for the same service.
+From my opinion, a one-person business that requires plenty of clients and you chasing clients every single
+month is more of a new stressful job than a business. You have a boss now. Like you have 10 bosses and they
+all have your phone number. Though the skills you learn along the way are very decent, though. Knowing
+automation tools is very useful, but the lifestyle of constantly dealing with clients and putting out fires, I
+don't think that's the reason most people sign up for building a business. I think most people love the
+freedom of doing whatever they want whenever they want and this is not going to give it to you. So I'd put the
+AI automation agency in D tier. It can pay the bills if you grind hard. It gives you decent skills, but
+constantly working and dealing with clients is just not ideal. All right. Next we've got AI influencer. This
+is where you use AI image and video tools to create a fictional character with a personality and a storyline.
+Then you grow their social media with funny and interesting content and once you have an audience, you can
+sell digital products or let brands pay you for shout-outs. You've probably seen these types of accounts that
+keep showing up on everyone's feed. I mean, the skills you pick up here are actually really good because
+getting deep into AI video and image generation right now puts you ahead of 99% of people. The challenge
+though is that this whole thing depends on you being creative or funny or having a really sharp eye for what
+makes people love and share or get views on social media. And that instinct is not something you can just copy
+from a tutorial. The other issue is that even when you build an audience, brand deals are not really
+consistent. One month you might land a $5,000 brand deal, but the next month you have to look for a new one.
+So the income can be real, but sometimes it's lumpy. It goes up and down. Still, the upper cost is almost
+zero. You don't need clients in the traditional sense, and the skill stack is solid. So I'm going to put AI
+influencers in B tier. Good potential if you're naturally creative, but not for everyone. Next, we have
+selling AI ebooks built with tools like Claude. So this is where you use AI to write a short ebooks on a niche
+topic and then sell them either on your own site or on platforms like Amazon. And there are actually real
+success stories from people who managed to make six-figures selling these sort of AI ebooks. But here's why
+it's not really sustainable for most people today. If you look at it logically, I mean the market is flooded
+since AI made writing almost free. The number of ebooks being published every single day is insane. And just
+imagine how many bros sit in their basements and have automations set up to pump out hundreds of books on a
+daily basis completely with AI. And you're going to compete with them just by coming over and writing one book
+manually with ChatGPT. Amazon is full of low-quality AI books that look identical, and customers are getting
+wise to it. And don't think that people are not going to leave reviews saying that this is AI slop. But just
+one of these reviews can ruin the listing forever. The other thing is that ebook is a one-time sale, and
+usually a very low sale. You can sell it for 20-30 bucks, and then you have to sell it thousands of times to
+actually build a decent business. And then to actually sell these ebooks, you still need traffic, which is
+fine. I mean, the profit margins are almost 100% because you create ebook once, you can sell it again and
+again technically. But without an audience or paid ads, your ebook just kind of sits there. So, you end up
+either spending money on Facebook ads that may or may not work, or you spend years building an audience
+anyway, which means you should have just gone straight to building the audience in the first place. So,
+selling AI ebooks gets a C tier from me. Yep, real money can be made there, but it's not really as passive as
+most people make it out to be. Next, we have faceless AI YouTube. This is where you build a YouTube channel
+where you never show your face. You use AI tools like Claude, Solo, and Gemini to research, write scripts,
+generate voice-overs, create visuals, and edit videos. The channel grows on autopilot, and you make money from
+ad revenue, affiliate deals, promoting your digital products in the description. You don't need to chase
+clients or get on meetings at all with anyone. You can just run it completely solo. I recently started this
+brand new channel from scratch with zero subscribers, and the channel is up to 27 grand a month just from
+YouTube ad revenue alone. I don't need to sell anything, and that's not counting any sponsorships or digital
+products that I'm going to plug into it. I mean, the thing that I like the most is that I don't need clients
+or customers from it. I don't need to build any products or websites. You can just make videos with AI on
+stuff that you are interested in, stuff that you like, and then you get paid every month based on how many
+views you get. And I have a list of over a thousand channels that started 20 to 60 days ago that are now
+making between 5 and 50,000 dollars a month. I mean, just look at this list over here on almost any topic
+imaginable, and none of them are showing their face on camera. Hundreds of people in my community are sharing
+their results as well. The skills you build along the way are insanely valuable as well. You learn
+storytelling, you learn how AI video tools actually work, you learn how to research with AI, you learn AI
+design, you learn what makes people click and watch. And those skills carry on into anything else that you
+want to do later or anywhere else. Another thing nobody really talks about is how many other doors YouTube
+opens for you. I mean, once you learn how to grow a YouTube channel, you can use it to promote your other
+services and offers and digital products, anything else that you want to build in the future. I mean, that's
+how I'm promoting my agencies and platforms and software. And if for some reason you decide you don't even
+want to run your own channel anymore, there's many big creators that are now hiring YouTube managers for
+$200,000 a year because they desperately need people who actually understand this stuff. So, even in a
+worst-case scenario, you have a skill that pays top 1% salary. And faceless YouTube only gets better as more
+AI tools and newer AI models come out because you're using AI as leverage and you're not being the one selling
+it. The upfront cost is basically zero if you use tools like Claude and similar. The income ceiling is
+essentially unlimited. It can take time to build a profitable channel, though. There are plenty of them that
+started less than 30 days ago and are already very successful even from their first upload. There are faceless
+channels doing seven figures a year run by one person. So, without a doubt, this is S-tier and it's the one
+I'd bet on for the next 5 to 10 years. Next up is selling PDF guides and digital products built with Claude.
+This is where you create things like templates, prompt packs, mini courses, checklists, and short guides on a
+specific topic and then sell them as digital downloads. The reason this works well is because once you create
+the product, you can sell it as a downloadable file over and over again forever. The catch is that this only
+works really well if you have some social media presence where you can promote these digital products. I mean,
+that could be a small Instagram account, TikTok page, faceless YouTube channel, or and Twitter account with
+only a few thousand followers. For example, some people are using these AI influencers to sell their digital
+products. We can see them linked here. They're selling ebooks and guides for like 23 bucks. As long as you
+have somewhere to point traffic, this is OP. I mean, the skill stack is also solid. You learn how to package
+knowledge, write sales copy, build simple landing pages, and figure out what people actually pay for. It's
+also perfect thing to combine with your faceless YouTube channel. We can see plenty of people doing that. Not
+only are they monetizing this with ad revenue, but they're using faceless AI channels to also sell guides. So,
+if you have an audience or any willingness to build one, this is a strong A-tier business. Next one-person
+business is vibe coding. This is where you use AI tools like Lovable, Bolt, and Cursor to build websites or
+simple apps for clients without writing the code yourself. And this, in my opinion, is one of the most
+overhyped businesses right now. Because what nobody tells you is the main reason why vibe coding is being
+pushed so much is because people pushing it are high affiliates for these offers and tools that allow you to
+vibe code on them. They make money when you sign up for Lovable using their link. They make money when you
+sign up for Lovable or any other tool they're pumping when you use their link. Vibe coding can work great for
+like 80% of the project. I mean, you can throw together a landing page or a basic dashboard, and it can look
+impressive, but the second you want to build something real like real users coming in and stress testing the
+platform, it will start failing. So, you either need to actually learn coding to fix things yourself, or you
+need to hire an actual developer to go in and fix stuff for you. Either way, your margins can be eaten alive,
+and it doesn't sound beginner-friendly to me. The barrier to entry is so low that you're technically training
+your competition on what they should build every time you build something simple. So, vibe coding is a C-tier
+business for me. It's fun to learn the skill, and it can genuinely be fun to just sit around like speak apps
+into existence, but they're not actually going to produce incredible results. I think people online are
+massively overselling this one. Next up is AI voice agents. This is where you build phone agents that answer
+calls for law firms, dentists, any place where there's appointments. The idea is that you replace a
+receptionist and charge a few hundred to a thousand dollars a month per business. The income potential is
+real, but I think the work is brutal. You're essentially running an automation agency with phones, which means
+you have all the same client headaches plus the added stress of when the agent says something wrong when a
+real customer calls. Reputation is everything in local businesses and if your AI bot says something or wrong,
+I think you're in real trouble with your clients. The technical setup, at least for me, was way more complex
+than what most people described online even when I followed tutorial. It was not easy. Yet this telephony
+integration, it's call routing, and real-time response handling. So, I'm going to have to put voice agents in
+B tier. I mean, there's real chance to make a lot of money because not a lot of people are doing this at the
+moment, but it's not super beginner friendly. Next is AI print on demand. This is where you create AI designs
+for t-shirts, mugs, and posters and then sell them on platforms like Etsy or Printify. Now, the platforms are
+actually starting to crack down on these AI designs and even if your AI design gets through, you're competing
+with millions of similar AI designs. Finding a winning design can take pretty much the same effort as grinding
+drop shipping, which means a ton of testing and a ton of failed designs as well. You also probably need to
+spend the thousands of dollars in paid ads in order to get some traction. So, the autopilot dream might be
+real for 0.1% of the sellers, but the path to get there is insane. So, print on demand is C tier for me. Next
+up is AI for personal brand ghost writing. More and more people are realizing the power of personal branding.
+So, being their ghostwriter means writing their LinkedIn posts, tweets, and content for executives and
+founders who want presence on social media, just don't understand the landscape, or don't have time to do that
+themselves. I mean, the skill of writing in someone else's voice is genuinely valuable, and AI can help you do
+it much faster if you use it correctly. I mean, the only downside I would think of is the fact that you still
+have to deal with clients, which is not ideal for a one-person business. So, I'm going to have to put
+ghostwriting in B tier. The next one I want to add to this list is selling AI prompt packs and prompt
+libraries. This is where you create a curated library of prompts for specific use cases, like real estate
+marketing for YouTube scripts, and then you can just sell one-time access to these prompt packs. This is
+pretty cool. You won't make a lot of money doing this. It's a decent one-person business or one-person side
+hustle. The only problem I can think of is that the prompts can be commoditized. They can get screenshotted
+and shared all over the place for free, and you can't really control that. Plus, I think the AI models are
+getting so smart right now that you don't even need any fancy prompts to get decent results, and they're only
+going to get smarter, and prompts can get shorter and more simpler. So, people are not going to be buying
+these prompts anymore. So, this whole category is shrinking pretty fast. I'm going to have to put prompt packs
+in B tier. Oh, next we have AI newsletters. This is where you build an email list of people interested in a
+specific subject, and then you use AI to send them emails with affiliate links and sponsorships. One
+newsletter was actually sold for $75 million. The problem is that newsletters were kind of overdone even
+before AI, and now that there is AI, the barrier to entry so much lower. There's so much spam out there. To
+make any real money, you're going to need tens of thousands of subscribers, which isn't unrealistic. It's
+definitely possible. It just takes a lot of time. So, newsletters get C tier from me. The next one I want to
+cover is AI niche communities. This is where you build a paid community on platforms like school, Volop, and
+similar, and you teach specific AI skills. For example, this community here teaches people how to create
+videos with AI. So, it's specific to video content. They're charging $9 a month, and they have 19,000 members.
+Now, that may look impressive, like $153,000 a month is pretty decent, but I found this clip from recent
+school recording, and the person that runs that community, this guy over here, well, he actually said that
+they're spending $100,000 a month on ads. Well, yeah, 50K is probably profit, so that's not bad. From personal
+experience, I know that communities can be very lucrative. So, for me, communities are A tier if you have an
+audience, a real edge in your niche, or B tier if you're starting from absolute zero. Now, if you want to see
+what's, in my opinion, the best one-person business model right now, you can watch this absolutely free
+step-by-step guide that I made recently on this YouTube channel. You can click here to watch it, and I'll see
+you there.

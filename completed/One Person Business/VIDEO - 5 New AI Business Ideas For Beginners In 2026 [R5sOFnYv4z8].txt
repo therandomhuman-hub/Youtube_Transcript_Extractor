@@ -1,0 +1,105 @@
+Title: 5 New AI Business Ideas For Beginners In 2026
+Channel: One Person Business
+Type: VIDEO
+Video ID: R5sOFnYv4z8
+URL: https://www.youtube.com/watch?v=R5sOFnYv4z8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:44:38+00:00
+
+Kind: captions Language: en Most beginners think they need a huge audience or some crazy tech skills and
+experience to make some money with AI. But can I show you five AI businesses that are earning people between
+10,000 and 30,000 a month without any of those things? And even more importantly, can I show you the exact AI
+tool they're using to automate the entire process? Well, that's exactly what we are doing today. So, let's
+start with AI business number one. And I mean, this is ridiculous. So, I just found this guy on Instagram.
+He's called Jack and he has 3,000 followers. His content sometimes gets millions of views as he teaches young
+men how to stop watching adult movies. That's all cool, but he doesn't actually exist. This is an AI avatar.
+This is not a real human. There could be a girl behind this channel. And we would never know because they
+never really showed their face. And we can see that his main monetization thing is promoting this app in his
+bio called Get a Grip, which helps people build better habits. Now, if we look up that same app on Censor
+Tower, we can see it made $10,000 last month. An account that only has 3,000 followers, and the owner doesn't
+even show his face. So, first, we need to build an AI influencer. When you find a person you like, you can
+just ask Jupit to create a JSON prompt that would allow me to replicate this exact same image with AI. While
+that's being made, one of the more important things is how do we replicate apps and digital products that
+these AI influencers sell? Well, I can just ask Treasure to create a prone that I can copy and paste into
+Lovable, which is a tool that we're going to use to build these apps. And while Trebupt is writing this line
+of code that we're going to use to build an app just by copy pasting, our other JSON prompt is now done. And
+I'm going to go over to Gemini. I'll paste it here. I'll select create image with Nano Banana Pro. And I'll
+submit it. And now I have an image that I can use. As you can see, it is a completely different person, but it
+looks 100% realistic. This is crazy. Now for my app, my code is now done. I'll just copy this prompt. All the
+details are already there. All I have to do is grab it and go to Lovable or similar app and paste it here and
+just submit. Now, Lovable or any other similar tool of your choice will start building and coding this entire
+app behind a $10 a month payw wall. So, people will have to pay $10 a month to access that app. And that's
+actually not the only AI influencer. There are more and more of these AI influencers that are selling digital
+products and getting a lot of views. Like for example, this rabbi is not really real. He's giving tips on
+finance. And we can see that he sells his own wealth expert book for nine bucks. Or here's this monk that gets
+millions of views and has 2.5 million followers and sells five different digital products in his bio. Like we
+can open them up. We can see VO community selling for $24 here. Now, as I'm waiting for this app to be
+finished, I'll show you the result at the end of this video. So, let's move on to business model number two,
+which is to build AI agents using this tool called Solo.ai. Solo.ai allows people to run entire businesses all
+from one dashboard. So, we can just go ahead login and then on the left-hand side access different features
+with the external agents option. We can build human agents and bots and chat bots and we can sell this as a
+service to clients. I can, for example, search for gyms in Ohio and then find companies that don't have chat
+bots installed on their website. By the way, here's how a chatbot looks like on my website. So, people can
+just click here and they can chat with a bot to get responses instantly. And a lot of websites don't have
+that, but we can build that inside of Solo when we click on add a new chatbot. So, I'll just call it Ohio Gym
+as an example. And then we can customize it. And we can give it instructions on what to reply to clients that
+go to their website. And we can easily charge hundreds of dollars for building something like this for
+someone. And the process is pretty simple. Once we describe everything, we just click next. And that gives us
+a line of code that we literally just have to paste and give away to our client and they can add it to the
+website instantly. The bot can answer to frequently asked questions. It can book calls. It can qualify leads.
+And it can reduce support emails, which is all a viable thing. People usually spend over $1,000 a month on
+support. And now they can get it all done with an AI instantly. Way better. And we can charge at least 200,
+300 or $500 for a service like this. And not just that, pretty much almost any feature that's available inside
+of solo like YouTube script writing, blog article writing can be then sold as a service in different
+platforms. Like this guy is charging $20 for a starter blog article and he has 3.2,000 orders completed
+already. And this goes as high as $55 for a big blog article. That's $176,000. Next AI business is really
+interesting. So, I found this website called Fable where they're selling pet portraits made with AI where you
+can upload a photo of your pet, click create masterpiece, and it will then generate a portrait that I can
+download for $29. Or I can fine print it for $89 or get a large canvas for $300. And we can see that even on
+Fiverr, people are paying $45 for a service like this. This guy got 2,000 reviews to just create this sort of
+portrait. But I found a way to do it with AI instantly for free. You can just go to my free community, click
+on AI systems here, close this out, go to prompts for my videos, go here, and then select pet portrait prompt.
+And then you'll get this prompt that you can copy from the document. Just select everything. Go to
+nanoangemini.google.com. Paste it here. Submit it alongside with a photo of your pet or your client's pet. and
+you will instantly get a result that looks exactly like it came from this website that is charging $29 per
+image. AI business number four. You see, there is a lot of people now selling digital products and online
+communities. And even just on school, which is a platform that I use, we can see that some of them are doing
+half a million dollars a month. MR stands for monthly reoccurring revenue. $300,000 a month, $200,000 a month.
+Now, you don't have to start a community. You can sell this template or similar templates to help out people
+that have school communities or that have just started out and want to build their own community or their own
+digital product. For example, I have this sales video script template. Sales video is very important. It is
+the about section where people have to decide whether they want to purchase a community or not. And this VSSL
+helps people convert more buyers, saves them time, and it can easily be sold for over $100. And that's just
+one of the services that can be sold. Again, there are more and more people selling these communities in
+different categories. Even if you go to the hobbyist category, we can see this guy making $42,000 a month. If
+you go to the music category, $35,000 a month teaching how to play a guitar. Helping all of them with
+optimizing either their communities or helping them with the back end, helping them integrate AI or even build
+apps for them and for their communities is a viable option. By the way, here's the app that I got built using
+the prompt from the first business model that we spoke about. I literally just pasted a prompt and got a fully
+functional app that I can log into. I can build an account. I can sign up. And when I log in, everything is
+fully functional. We have the habits category here that I can takeick and untick the boxes and I can add more
+habits here. This is insane. There's also the community, the progress bar, the baseline. This is beautiful.
+Fully functional app from a single prompt that I can now charge $10 a month for. And I can go and I can reach
+out to these communities. If this guy has a guitar player community, I can say, "Hey, I'm going to build apps
+for you that you can either sell in a community or you can add for free to your members to increase the value
+of your community." Because, for example, for my school community, we have this category called free apps
+where I'm adding apps that I'm building with AI that are now valuable to my audience inside and I can access
+them for completely free. So, offering this as a service to people that are already making tens of thousands
+of dollars a month is an absolute no-brainer. One person AI business number five is running a faceless YouTube
+channel. So, I recently found this one which started only a few months ago. It only has 10 videos, but they
+already make $14,000 a month from ad revenue. And this one over here makes $30,000 a month from ad revenue.
+And they're all posting completely faceless videos. Now once you go to my free community, if you go to AI
+systems, you can now open up AI systems and you can find extinct zoo and they will give you the exact
+framework they're using and all the prompts that you can copy with one press of a button to generate the
+similar channel like they have all the video ideas. The entire process is explained in a completely free dol
+for that channel but for many others. Here's one example where a channel only has four uploads. Let's go to
+their up their channel. Four uploads. The first one got 1.8 8 million views and they're already making $10,000
+a month from this channel just from four videos. I've personally been doing faceless YouTube for 15 years all
+the way to the point that now I have a venture capital that buys other creators because I believe in this
+space so much. And now that we have AI is getting bigger and bigger than ever. There are so many niches and so
+many topics to be covered that most people don't even know about that is absolutely crazy. Everyone is
+focusing on just the basic videos like dinosaurs and stuff and that still yep gets really good results. Don't
+get me wrong. But to learn the right way of starting a faceless YouTube channel in 2026, make sure to click on
+the tutorial that's on the screen right now and you can watch that for free on this same YouTube channel. I'll
+see you there.

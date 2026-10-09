@@ -1,0 +1,88 @@
+Title: Build Your Own Sora AI Bot - Beginner's Guide (no code, free template) n8n
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: xkj74ykB9Fw
+URL: https://www.youtube.com/watch?v=xkj74ykB9Fw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:27:11+00:00
+
+Kind: captions Language: en Everyone is talking about Sora right now and for a good reason. Here's the thing.
+A lot of people don't actually know how to use it into their business. So what I did today is I built a full
+automation using Sora and NA10 connected to Telegram. Now anyone can go from a single image or text to a full
+cinematic video automatically. I'm pretty sure you've seen these type of videos in your for you page at least
+once. Now, imagine you're a business owner. You've got a new product, right? Let's say you run an e-commerce
+store. Normally, you would need to bring a videographer, set up the lighting, shoot the product, edit
+everything just to get a 15-second video promo. But with this, you just go to Telegram, upload your product
+photo, or type a short description, and Sora will turn it into a professional studio video. Now, let's not
+waste time. Before I start dissecting the automation that I've built, let me run it and show you how it works.
+On the left side, I got Telegram, the chat, and in the right side, I have an A-10. I'm going to execute the
+workflow. Hey, I would like you to make me a video of a lion fighting a tiger in the jungle. And then out of
+nowhere, a kangaroo jumps in and makes them hug it out. All right, so as you can see here in NA10, the
+automation is going through. It got triggered. Now it's a matter about time before we get our video. All
+right, it looks like we just got the video. Let's see how it looks. All right, perfect. Yeah, they're hugging
+out exactly what I said. Of course, there's a little bit of tweaks maybe saying the quality to make the
+quality better, but it did work perfectly and it went to Sora and generated the video everything through
+Telegram. We've got the video, we've seen the results. Now, let's try to dissect this workflow. [music] Also,
+just want to mention in the description down below, you will have access for free this automation that you can
+just copy and sell it to other people or use it for your own business. Let's start by the trigger. Telegram.
+It's quite simple. You just need to create a Telegram account and go to the bot. If you're having some issues
+with that, just leave a comment down below. I'll show you exactly how to do it. I've connected to my own
+Telegram with the access token. Never show your tokens or your access or your APIs. Once it's connected, I'm
+using a Kai API key. Essentially, Kai API key gives us access to Sora and it's not publicly available at the
+moment, but if you get an invite, you can have access to it. This is my API key. Again, never never show your
+API key. I simply you simply have to log in. You simply have to log into KAI, create an API key, and you could
+name it whatever test video Sora and it does it instantly. And here is my new API key that I just go in NA10
+and put it there. Right after our K API, we have the module of switch rules. Essentially what it does, as you
+can see here in the routing rules, it went it it's green, which means that I sent an audio message and it went
+through the audio section and I made it into three sections. Audio, text only and file only. If it goes
+through audio and [music] telegram has a section where you get the file from here you can see in resources you
+get you do file and operation you get the file and then you connect the kai API key and here in the expression
+I put a JSON format once it gets through that we have a transcriber recording which is essentially open AI
+taking the audio and putting it into a text format once we get the text format here I'll show you you don't
+need to have a prompt on it on operation. It only transcribes the audio. And as you can see here, this is what
+I said earlier. Once you transcribe the recording, it goes to our text to video prompt creator. Here we go.
+The prompt user me message from our Telegram trigger. Then here we have the system, the prompt. you're a video
+prompt engineer specializing in text to video generation. Essentially what it does, it makes the voice audio
+or the message makes it better because sometimes you will be quite lazy to actually write an in-depth prompt.
+So I just made an AI that is able to make your prompt with only a few words. Make me jungle lion fighting.
+Yeah. Not with not a lot of details. Then I use an open AI chat model. I use GBT5 as the module. You could
+also put a memory. A memory is simply you put a simple memory which goes back to the conversation that it had
+before. For example, if you put four messages before, it's going to have context and see what's going on. Once
+we get our goated prompt from our text to video prompt creator, it goes through the text to video and that we
+will be using Kai AI simply that it's going to be connected to Sora. I simply just the method I put post and
+the URL I put the API of Kai which I think I'll I'll be blurring on this video. Um I put it into JSON. I take
+the header uh parameters name authorization the value I put bearer with the API key then send body put into
+body content type JSON specify body using JSON and here is what I did on the expression again I'll give you
+this completely for free in the description down below once we do that we're have we have here three modules
+and that's a pull mechanism Which means because we're creating a video, it can take quite some time. And you
+can see here, I'll zoom in a little bit more. You can see it pulled six times. That means it pulled every time
+it did a call back to see if the video was done. So it did that six times and the six the video and once the
+video is done, we have a download video uh method get the URL. I put the J a JSON URL that you can get here on
+the input. Simply you just come and drag it. Then we send to Telegram. Send video message. This is uh my
+telegram credentials resources. You put message operation send video and chat ID. I just take from the input
+and I drag it here. binary file put it on input binary field data reply markup none then simply it sends as
+you saw in telegram in the beginning it sent a video and also a text message what the text message says it
+says basically what I asked for and it gives me a reply back same thing resources messages operation send
+message chat ID from the input I just drag it as a JSON format and text. Same thing here. In the other hand,
+if there is an error, I just say, "Yeah, send error." Yeah. Uh messages operation and the text. I made it
+fixed, not an expression. Video generation error. Try again. Now, that's from like a text to a video. What if
+you have an image? What happens? Let's You have multiple product. You have multiple products that you want to
+sell to. here. Basically, what I made is image to video. It's simple. It has the same as text to video. It's
+now just for images. We have the image creator with a different prompt. It takes um it's almost the same thing
+as the video, but it just says that you have the image. Then I also use the same module. I use GBT5. And here,
+okay, here the next node, let's make it brief. When you upload a picture on Telegram, it sends multiple
+versions. The non-compressed version as well as the compressed version. This code right here is simply there
+to be able to retrieve the highest quality image. Then we go right here and retrieve it. You just put on
+resources file operation get a get and then we put it into a Google drive. This way the Google drive of course
+you have to connect it to your Google account which I already did. You go resources file operation upload
+input data field name data and the file name also. Now what it does it simply just creates a URL for the
+video. Uh I mean I'm sorry it creates a URL for the image. This way it can be shared as a file here as
+permission role writer type anyone anyone can have access to it. Next node simply it's where the URL is going
+to be at and that's where we're getting from the Google drive right here that they made and we just take the
+uploaded file as a JSON format. same as up here in the text to video we simply just connect it with API uh Kai
+AI and we wait for the same thing the same pull mechanism and if there's an error it sends an error and if it
+goes through same as in the text to video it will be it for today's video if you're still here and you're
+watching all the way through the video I appreciate you sticking all the way to the end if you have any
+questions any type of those sorts of questions just leave a comment. I'll answer it gladly. And if you enjoyed
+the video, I would love if you could leave a subscribe. I'll see you on the next one.

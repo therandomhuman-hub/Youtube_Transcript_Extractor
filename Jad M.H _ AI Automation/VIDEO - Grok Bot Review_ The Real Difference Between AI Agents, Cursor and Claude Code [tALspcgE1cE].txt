@@ -1,0 +1,78 @@
+Title: Grok Bot Review: The Real Difference Between AI Agents, Cursor and Claude Code
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: tALspcgE1cE
+URL: https://www.youtube.com/watch?v=tALspcgE1cE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:24:30+00:00
+
+Kind: captions Language: en So, GrokBot just got released and it's one of the most interesting AI tools I've
+seen recently. It can work like an AI teammate using websites and apps and continue working even when your
+computer is turned off. But, is it actually a replacement for tools like Cursor or Claude Code? In this video,
+I'm going to explain the difference between GrokBot, Claude Code, and Cursor. I'll show you exactly what
+Claude Bot can do and how to use it in some practical ways you could potentially use it in your own workflow.
+But, personally, I don't think GrokBot completely replaces Cursor or Claude Code if thinking of that because
+they are designed for a different type of work. Cursor and Claude Code are primarily focused on software
+development, while GrokBot is more like a general-purpose AI agent that can operate across websites and
+applications. But, I can definitely see myself using it to monitor new trends, research opportunities,
+organize information, and handle repetitive tasks in the background. So, let's get a closer look and see how
+we could use this. All right, so to be able to have GrokBot, you do need to have an account in Cursor and you
+need to have it installed, or else you're going to have a login issue. So, once you're connected and you have
+your Cursor, we're just going to click on next and here, next, next, and next. So, essentially, how it works
+and how you should see this is more like each user that you have is focused into one simple task. For example,
+one that researches on LinkedIn or one that basically checks your flights, like the cheapest flights there
+are. Um and it's super simple. You don't have to go and actually try and connect it yourself. You can simply
+do literally everything in the chat. So, I'm thinking right now of building an agent that or a bot that would
+find flights for me cuz I have a flight soon in Florida. So, I would like to find one of the cheapest flights
+there is and I would like to get a notification. The best thing about this bots is that it doesn't live when
+your computer is on. So, even when you turn off your computer, it's still doing its work and it's still
+looking for the best offers and things like that. And it will notify you on your phone. All right. So, I don't
+really need to call Let's call it flights saver. Let's put in think. Say, "Hey, I'm here to hunt cheaper
+flights so you don't have to keep refreshing Google Flights at midnight." So, now what we can see, it's
+already asking me which city I want to go to, what time, what dates. Let's have a chat with it. All right. So,
+I have a flight on the 27th uh of September. That's the flight that I want to take in. I am in a Greece in
+Thessaloniki. I would like to be in Florida or Orlando and my budget is $500. I would like you to find me the
+cheapest flights you can have that you can find and I would like you to notify me on my Twitter account. Send
+me a message or a notification. It felt like I'll start fares now. So, here while it's doing this, we can see
+at the bottom left there are the plugins. You can either have them yourself manually or you can just simply
+add one in the chat. Don't think I'll be using it much on my computer, but I'll definitely be using it on my
+phone. All right. So, here it replied to me our plugin one thing I can do for you is one All right. Let's try
+and get it our Twitter handle. So, let's go right here and just copy my handle. And what we could do is
+basically if you see at the top right, we can see what the flight saver is doing in parallel. So, at the
+moment, as you can see, it's in its own Google Chrome tab and it's looking at the flights and it's just
+searching on its own. And you can also, right here, I don't want to do it in this chat, but you can teach it a
+task. So, every time that you use a bot and you train it or you give it a task, it will keep getting optimized
+and getting better. Okay. And here it says first look Google, they found it for 842. Oh, and our 42 Wednesday
+all still well over $500. So, and what is really fascinating it gave itself its own task. You can see here
+I'll recheck weekday mornings at 9:15 and only ping you if the price drops below like $500 that I gave it. So,
+we can see now it's outside of it and also it is allowed to connect to LinkedIn, YouTube, whatever it is it
+will be able to connect to those platforms. So, right now what I'm thinking of is basically build a bot that
+basically monitors Twitter, Reddit, and YouTube and sees what is trending with AI at the moment because it is
+really difficult even for me to keep tab and and find what's going on right now in the media. What are the new
+models? What are the new tools? What are the new skills? Uh let's try and give that a try here. Well, this one
+is working. Just click on create new bot. Waiting for you to sign in. Okay, so it wants me to sign in. Let's
+take over at the What is my Twitter account? I think I'm just going to skip this step. It's not really
+something interesting for me at the moment. I need you to name this bot for this specific task. I need you to
+be a uh web searcher for viral trends and skills uh when it comes to AI. I need to see what are the new tools,
+what are the new tips and tricks uh that you can find in posts either in Twitter, Reddit, YouTube, or in the
+web of or in the web like Google. So, rename the bot. Stop it there and we send that through. Okay, it's going
+to call it an AI scout. So, we can see here even it gave the description hunts for AI tools, tips, and tricks
+across the web, Twitter, Reddit, and YouTube then surface what's actually new so you can share it. That's
+exactly what I needed in the one I'm working on right now. And if we click here, it's like at the moment it's
+not doing anything. It has its own terminal, a file manager, and Grok. What are you to I so got back to us
+agents to actually finish the job, press flow. So, Grok AI co-workers, Grok 4.6, and we didn't see this. Want
+to draft post from these, just drop them here. Let's see how it looks like. We're just going to drop them
+here. And the thing that we could do is we could add another bot where it's kind of like the chief where it
+manages other bots and sees how they're doing. Um this is generally super interesting because it really feels
+like it's fighting for the task that I'm giving it. It's not being lazy and say I have a problem. And I'm not
+sure if I'm supposed to say this, but when it comes to regulations, the AI that has the least regulations in
+my opinion is definitely Grok. It doesn't have a lot of regulations or at all, you could say. Oh, right there.
+I'll sweep weekday mornings at 8:15 and drop the new stuff here. I didn't even need to tell it, "Hey, I need
+you to be getting for me content every single day." It just automatically understood that where it made the
+most sense. Super interesting. But, it does come with a caveat at the end. If you look into the pricing of um
+Grok bots will only be available with super Grok heavy. So, it'll be $300. Um so, it is definitely a hard pill
+to swallow for a lot of people. But, this, if they can put it more affordable, I can definitely see a lot of
+people using a Grok bot, and hopefully we'll get it soon as soon as possible. If you like this video, I would
+genuinely appreciate a like and a follow. And if you have any questions, please just let me know, and I'll see
+you on the next one.

@@ -1,0 +1,18 @@
+Title: Claudecode can now gothrough youbrowser andclick though it. #ai #aitools #claude #claudecode #aitips
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 42YISKEIIj4
+URL: https://www.youtube.com/watch?v=42YISKEIIj4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:46:43+00:00
+
+Kind: captions Language: en Claude code can now open a real browser, read the page, and click it through it
+for you. This is on the desktop app, and it's a proper built-in browser, not a screenshot. So, you can point
+Claude at your documentation, at a design, at a dashboard, at basically any site, and it will actually go look
+at it, scroll it, click through it, and pull what it needs. That means it stops guessing at an API, and it
+just reads the docs. It stops asking you to paste a page and just opens it. Here's the important part, though.
+The browser is sandboxed, and it's configurable. It's not silently roaming the internet with your logins. You
+decide what it can reach, and it works inside those limits. It turns Claude from something that only sees your
+files into something that you can see the web that your project actually depends on. I'm adding a card on how
+to turn it on and how to set the limits. Common browser now send over.

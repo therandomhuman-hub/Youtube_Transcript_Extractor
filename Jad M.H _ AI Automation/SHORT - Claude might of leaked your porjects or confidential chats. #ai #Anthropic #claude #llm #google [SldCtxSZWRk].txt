@@ -1,0 +1,22 @@
+Title: Claude might of leaked your porjects or confidential chats. #ai #Anthropic #claude #llm #google
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: SldCtxSZWRk
+URL: https://www.youtube.com/watch?v=SldCtxSZWRk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:26:57+00:00
+
+Kind: captions Language: en If you ever hit share on a cloth conversation, go check it out right now because a
+bunch of those links that you might have used ended up in Google. A Reddit user found it on July 25th. A
+simple search returns hundreds of fully readable cloth shots and artifacts still. The little apps that you
+might have built inside Claude are fully readable now. Let me tell you what some people found. Inside of them,
+people found crypto wallet credentials, what looked like social security numbers too, private legal questions,
+and the cause of all of this is kind of boring and technical. But, Anthropic had a robot.txt telling you
+crawlers to stay out, but there was no index tag on the page itself. And blocking the crawl doesn't stop the
+indexing. A share link shows up anywhere public, Google can index the URL without ever opening the page to see
+the instructions inside it. Here's the honest part and what matters. This only affects conversations you
+deliberately shared with that button. Your private chats were never in there, and Anthropic says it doesn't
+hand search engines out a directory or a site map of them. Still, I really recommend going to your settings,
+look at your list of shared links, and delete the ones you forgot about. Comment index and I'll send you the
+30-second cleanup steps.

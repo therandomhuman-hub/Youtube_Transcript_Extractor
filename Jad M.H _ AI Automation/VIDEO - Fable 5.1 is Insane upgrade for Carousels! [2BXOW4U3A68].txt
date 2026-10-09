@@ -1,0 +1,88 @@
+Title: Fable 5.1 is Insane upgrade for Carousels!
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 2BXOW4U3A68
+URL: https://www.youtube.com/watch?v=2BXOW4U3A68
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:20:38+00:00
+
+Kind: captions Language: en This is probably my favorite carousel that I've made with Claude. All I had to do
+is just give it one single prompt and it was able to recreate all of this for me. I made this carousel for a
+travel agency. So, all they had to do is say "Make me a post about traveling." and it went and fetched all
+trending topics at the moment. Apparently, there's some sun that is going out over Luxor. So, what it did, it
+fetched everything and what we can see here that is really cool, animated for me even the carousel so we can
+keep the person interested. And it showed us also the map of where it's going and if I press play it keeps
+moving. It's kind of like a GIF effect. I mean, look at the hook. Especially the hook is the most important
+part. This is what's going to bring those viewerships and like I actually start scrolling through your
+carousel. So, if you were wondering if it's being consistent with other carousels or this is just like one
+single prompt that we were lucky with, let's look at another example here. So, this one is the art of
+carousels and this one is also super nice. I'm probably going to also do this as a thumbnail for this video
+and it recreated the same things but here's some things online about it. What it's saying, [music] it says
+that carousels are more performing than reels and we also have the same animation effects all within Claude.
+You can see here even the colors, the fonts, the caption. I think this is really cool. It makes it super clean
+and neat. Now, what I want to talk about is how do we get this consistency? Is it because of Fable 5.1 and how
+do we avoid AI slot carousels? It's quite simple. The more you give context to your agents, the better it is
+and especially if you have strict guardrails. You cannot just give Claude a vague prompt of saying that "Redo
+it. Make it look more professional. Change the colors." That's too vague for Claude. And that's the reason why
+we came up with the style sheets cuz the style sheets, they have these guardrails that they're not supposed to
+go outside of and start hallucinating what is the correct way of doing carousels. Okay, now what I want to
+talk about is how do we get this consistency and how is Claude able to do this without having AI slot
+carousels? It's quite simple. As you know, the more you feed into Claude, the more the knowledge is, the
+better [music] it is. But also what people kind of forgets is the guardrails. If you don't put strict
+guardrails, Claude can have hallucinations and [music] can imagine things that aren't true. And the way to
+avoid this is by giving a style sheet reference. As simple as that. With the palettes, the components, the
+type of specimens, and the world that it needs to deliver. So now, whenever you're like, "Hey, this make it
+more look professional." It's not going to hallucinate and imagine what is a professional way, what is a
+professional thing to its point of view. It's going to go back to the style sheet and refer it to the style
+sheet. Let me show you more of the hooks that Claude was able to create for me. So, [music] there is this one
+that we already seen, but this is a different caption in the back. And then there is this one, "Make a viral
+carousel." All these prompts that you see here, the image reference and everything, that's not me. That's
+Claude. The way it does, for example, in here is >> [music] >> it tells the topic and it also takes the image
+that I gave as the style sheet and pastes it into Hexfield. [music] Okay, we have this one as a hook, a
+different world, a different style sheet reference. Also this one for cars and this one that we saw earlier,
+"Band New York public schools are bad." Or something like that. Now I want to address two things. I know I'm
+using Hexfield, but you're also able to run it locally on your computer, which is not going to cost you
+anything. Or you can also use Kai.ai, which is the cheapest API, which would give you the cheapest API cost in
+the market [music] and you wouldn't need to use Hexfield and pay their subscription. In here, that you can see
+I still recommend using [music] a paid model to generate images, but the way I designed this carousel
+generator simply is just generates me the hook and that's it. Because once you invest into the hook, that's
+all it takes for a carousel. It's that it lands and a swipe. Once they swipe, they don't care about the
+visual. What they're looking for is more about what's inside. Is it resourceful? What is it about? So, now let
+me show you how I do it in my own carousel. So, now I have Visual Studio Code. You can just open your app
+because all of this will be in the link in the description. Before I show you how the system works, you don't
+have to stay all the way till the end of this video. All of it will be in my school community. It's a free
+one. And if you were wondering I'm gatekeeping and I'm not actually putting resourceful in here. You can see I
+made the post and right there Dorian just said he tried it and actually worked for $0 carousel. Link is in
+bio. Right now I'll be using Visual Studio Code with Claude Code obviously. It's right here you can see the
+logo of Claude at the top right. I prefer using Visual Studio Code because I like to feed my AI a lot of
+skills and to keep the knowledge base concise. But you don't have to use it. You can just use like the Claude
+app and that's it. It still works. Let me log in here and let me use Claude. Okay, so the only thing I have to
+do here is just come up with an idea. Maybe something that has to do with >> [music] >> Apple iOS. Okay, so we
+can see here it's coming up with the topics that we can pick and choose. There's the iOS 27 just broke a
+gesture. There's [music] Tim Cook's first keynote in 6 days. Let's just go by OpenAI by Max by 10,000. So, it
+finds the topic for me and then after the topic it shows me these style sheets. It opens it automatically for
+you and it gives you which reference do you want to go with. You saw me faded, the constraints, [music]
+celestial. Think I want to change it up a little bit. I would like to use maybe contrarian. Let's paste it
+here. Contrarian. So, once we get the style sheets and we got our topic, then what it's going to do it's going
+to ask us do you [music] want the paid version or the $0 version? The paid version is only the hook as I said.
+So, it would cost you only like two tokens or four tokens depending on the model that you want to use. If you
+want to use ChatGPT, if you want to use GPT image, that can be more expensive. That can look around 14 tokens.
+Right now, I'm going to click on paid. As while it's doing this and doing its research and generating those
+images, um what I do basically to generate those style sheets references is I go on Pinterest. There are so
+many amazing images in Pinterest that are interesting. I think this one, I'm guessing you have seen it. Uh
+this one, too. This one. These >> [music] >> uh this is my library and I keep adding if I find something
+interesting for my carousel. Now, what I do for my carousel, I do use GPT image tool uh cuz GPT image tool is
+more detail and has more depth. Um and if you want the prompt how to generate this type of prompt, everything
+will be in the link in the description. So, right here, what it did is it gave us an idea of the hook, the
+scoop, the my max. And if you approve, you just say go. Which we're going to do now. Um so, you can fully
+automate this. You don't have to look into your Claude code or your terminal. Um you could put it into Claude
+co-work and then use uh Bloop Tato. Bloop Tato connects to your Instagram so it can post weekly, daily,
+however you want. So, you can completely forget about your carousel and just keep working on other stuff. All
+right, I just got this pop-up. It looks like it's done. I really like that it added a Mac Mini in there. I
+don't know how they did that. Um all right, okay, let's see if the animation works. Amazing. Okay, they also
+included the Mac Mini in there. That's nice. There. All right, that'll be it for today's video. I'm not
+gatekeeping any of this. So, if you want to just join my free school community, that you will have access to
+the prompts, to the style sheets, and to some tips and tricks how to implement them. Thank you for watching.
+And if you haven't dropped a follow, please do. It really pushes me to make more content. I'll see you on the
+next one.

@@ -1,0 +1,148 @@
+Title: Claude AI + YouTube = $51,280/Month
+Channel: One Person Business
+Type: VIDEO
+Video ID: CuFxCtop0VU
+URL: https://www.youtube.com/watch?v=CuFxCtop0VU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:53:51+00:00
+
+Kind: captions Language: en All right, I just found a faceless channel that posts one video a week and makes
+$51,000 a month. So, I spent the last 7 days trying to see if I can recreate this channel with AI. And not
+only did I succeed, but I'm able to create these types of videos in 20 minutes. And I'm also going to show you
+how to actually beat this new algorithm so you can get views. The reason I know this is because I have access
+to data that literally no one else has because I invest in YouTube creators through my venture capital. And
+I've been doing YouTube myself for over a decade. you don't really care, so let me show you some examples
+first and then we'll get into step one. The main channel we're going to be focusing on is Trust Me, Bro. It's
+an animation channel and there are quite a few similar ones. For example, this guy hasn't even posted in over
+a year and before that his latest upload was a year prior. Like he might be posting one video a year, but
+despite that, if you check his analytics, he still makes 40 grand a month. I think that's the pure power of
+YouTube and the passive income that it can produce. I think this guy forgot that this channel doesn't even
+exist, yet still gets 40K a month from it. And of course, he promotes different things, so he's probably
+making even more than that. Or this faceless channel over here that posts one video a week. Or this faceless
+channel here that posts only two videos a month. Or our beloved Trust Me, Bro channel that has a compilation
+channel where they literally just re-upload the same videos from their main channel, but just as compilation
+of multiple ones. And when you have a compilation, since they're longer, people spend more time, so more ads
+are being shown and they probably make very decent amount of money. Probably adds another 20, 30 grand a month
+without much extra work. The point is there are a lot of people running faceless animation channels. I mean, I
+have a list of over a thousand channels making between five and fifty thousand dollars a month. But for this
+example, we're going to be focusing on Trust Me, Bro. To make things easier for you, I made a completely free
+document with all of the cloud prompts that we're going to be using to create a similar channel. You can find
+these prompts inside of my free community when you go to the classroom, go to AI systems, and then go to trust
+me bro Claude prompts, and open up this document. Step number one, head over to Claude, and I never recommend
+copying anyone one by one, copying them word for word. I always prefer making a variation in something similar
+in my own style. And then there is this prompt that you can use inside of Claude alongside with their channel
+screenshot just so that Claude understands what you're speaking about. But we're asking it for 15 niche or
+category ideas that are similar to this that naturally support longer videos and that are built in curiosity
+and mystery. And then Claude never disappoints. These are some really good ideas. But we're going to move on
+to step number two, which is to create Claude brain. You're going to go to the left side, click on projects,
+click a new project. I'm going to call this one trust me bro. I will click create project. And then you're
+going to grab this prompt and customize variables highlighted in red. So, copy this, go to instructions box,
+paste it, and then just choose a channel name. Channel name is not going to affect anything, so it can
+literally be anything. I'm going to call it hug me bro. I'm going to do prison escapes. I'll paste that
+category here. Then you can describe the tone you want. Let's say I'm going to go with dry humor. I'm going to
+remove this one and I'm going to leave curious and ass based. Then just click save instructions, and this
+becomes the brain behind the channel. Step number three, now we're going to use Claude for video ideas. We're
+going to copy this prompt, go to our Claude brain, paste that prompt here, attach a screenshot of their
+videos, and then I'm going to say, "This is a channel I'd like to model, but my niche is" and then I'm going
+to copy it from the other Claude chat and then paste it here. So, adapt these to my niche. I also recommend
+not just doing this with their latest uploads, but also with their most popular uploads as well. Let's say for
+example, top six, and then add that screenshot as well. So, it's going to analyze why their videos worked so
+well, and then it will apply them to my niche, which is an adjacent one, very similar one. Now, it does the
+formula breakdown for me, what worked in the thumbnails, what templates worked for them, biggest outliers, and
+then more importantly, it gives me 15 video ideas for my specific angle, ranked by how many views they could
+likely get. And damn, these are some insane video ideas. So, now when you were picking the video, recommend
+copy-pasting the same title into YouTube search box just to see if there are any smaller channels in the last
+3 months that posted in the same style that you want. So, in this case, it's going to be animation style. Are
+there any channels with the posted in the last 3 months that didn't get any views with the exact same title?
+From what I'm seeing right here, there aren't any. So, this is a really good title. All right, next step is to
+get unique information on this subject so that we're not sharing generic stuff that most people are already
+familiar with. So, if you just go to try to get your Claude and you ask it to write a script, you are going to
+get generic stuff that not only will YouTube flag, but viewers are not really going to enjoy listening to AI
+slop. That's why we're going to use this prompt over here. We're going to go back to our Claude project, we'll
+paste it, and we'll just insert this title. Now, we're just asking it to find lesser-known facts, and obscure
+details, and surprising insights, and then give us 10 unique points that we can use in our video that most
+people haven't heard about before. This is going to take maybe a minute or two, but it's going to do tons of
+research for us. All right, the next step is to write the script, and you can use Claude for this, though it
+will need a lot of prompting to understand how to hook the viewers, and different frameworks that are going to
+keep people watching, and how to optimize them so that you open up with a question that only gets answered at
+the end, and so many different things. Or, you can just do what I do, and that is to use this tool called
+solo.ai, which already has a database of viral hooks and it already has these frameworks baked in that I can
+select which with just one press of a button. And first of all, I just need to describe what what is the video
+that I'm working on and then I need to paste my title in this box and then when it asks me for details, I can
+add multiple YouTube video links so that it combines data from different places or different PDF documents if
+I've done some research or if I click on text note, I can also just copy and paste these 10 unique points and
+it will include them in the script. So now my scripts are not generic. Now when it asked me for style of
+writing, I can go to pretty much any channel where I like the style of their writing, open up their most
+popular videos, copy the link, paste that link here and then it will model the way that they write their
+scripts, the way that they speak. If you like the language that they use, you can just paste it. This is an
+optional step, by the way. And then when it asks you for monetization, if you are promoting some PDF files or
+digital products, you can select that or if you're just focusing on ad revenue, then select that and it will
+optimize script based on your monetization goal. And then for frameworks, I'm just going to leave it as it is.
+I'm actually going to untick psychological triggers and then we can bump up the length of this video to let's
+say 10 minutes or longer. And then just click generate script. By the way, that tool is not just for script
+writing, it is actually all-in-one operating system for one-person businesses and if let's say for example,
+you also want to sell digital products with your channel, you can just go to digital product builder, you can
+just describe what your niche is, paste the YouTube channel link, click build it for me and it will create a
+digital product that you can just link in your description. And just to show you how well this works, I just
+saw these two guys discuss a channel of that they started, which is a faceless AI channel. So this is not a
+real human. It was started two months ago and in the first 30 days of them selling a PDF guide, a digital
+product through Gumroad, they made $138,000 in one month. So this is absolutely insane. You can pump out as
+many digital products as you want and it has a bunch of different other use cases. Either way, step number
+seven is to create visuals. Now, there is no doubt that these animations are high quality and that higher
+quality animations that are custom and human-made will almost always perform better. They put tons of effort
+in this, no doubt. But, again, that's expensive and takes tons of time. And you also don't want to waste money
+and risk on the first couple of video ideas without having a proven concept. So, my strategy is I use AI tools
+that are cheap and fast so I can test video concepts. And once my channel gets off the ground and once I'm
+making some profits, then I can reinvest into higher quality animation. So, for example, this faceless channel
+over here, they got 7 million views and made hundreds of thousands of dollars off of a channel that is AI. All
+of these animations are most likely just AI-made because because I mean, if you just go to Solo Visuals
+category and you go to Scene Generator, you can simply just copy your script, paste it inside of this box, on
+the right-hand side select how many scenes you want, select the style of animation you want, and then Solo
+will create all the visuals for you in whatever style you have selected, and it will look like a human made
+these, and you can just stack them together, just download them with one press of a button, and again,
+whatever style you chose. And that's cheap and fast, and it can work sometimes, but I mainly use those types
+of videos to test before committing to higher quality videos. I mean, quite frankly, these guys are doing 50
+to $100,000 a month posting about one video a week, which is only four videos a month. That's about $4,000
+spent revenue, at least $50,000 from ads, which just from ads would be 47K thousand profit, and then all the
+other products that they're selling in their bio. And then probably some sponsorships if some videos are
+sponsored. And then there are trust me, bro, compilations channel where they just re-upload the same videos
+from their main channel, which yeah, we can see ads in that are 11K a month. So, technically, my estimate is
+they're profiting about 58 grand a month. So, yeah, honestly, in the beginning, I wouldn't spend that much
+money hiring animators and human creators to make really high-quality videos before I have proven concept. I
+would make a couple of videos to test the ground, especially because this is so straightforward. You literally
+just paste your script, click generate bulk scenes, and it's created for you. And then all you got to do is
+put it together with CapCut. Quite frankly, it takes less than 10 minutes. So, I made a full step-by-step
+tutorial showing exactly how to do that. It's on my channel. And then only afterwards would I post on Upwork
+and Fiverr to find people that could help me create higher-quality videos and reinvest some profits into it to
+try and scale further. Next step is a voice over, and the same thing goes with that. In the beginning, I
+always test with AI voices. You go to the voice-over studio inside of Solo. There's over 9 and 1/2 thousand
+different voices to choose from, and most of them are really good. I would assume that around 3,000 of them
+sound robotic, but at least 6 and 1/2 thousand of them are really good. And then you just pick the ones you
+like the most and then use that, whatever sounds the best for your channel. And then all you got to do is copy
+and paste your script, and then you have a voice over done. But then, if you want to scale further and build
+something bigger, like these guys did, then I recommend having a human voice over. But again, I wouldn't waste
+money on human voice overs from the start cuz you don't have proof of concept. Only after your channel is
+profitable can you go to Fiverr, Upwork, and similar places to look for YouTube voice overs. Or you record
+your own voice if you don't want to spend any money on it. But on branded channels like these, human voices
+work much better. Next up, we need to create the hero of our show, and you can take inspiration from wherever
+you want. I found this old channel that hasn't posted in ages, and I asked ChatGPT to just create a different
+sort of character, a similar one in that style. And he's going to be the hero of my show and in the thumbnails
+as well. So, I'm going to download this, and now we need to make the thumbnail for our video. Now, luckily
+Claude gave me exactly what I need to put in the thumbnail. So, all that I'm going to do is I'm going to go to
+Chat GPT. Unfortunately, we can't use Claude for this, but I'm going to upload a my character, and then I'll
+take a screenshot of these thumbnails. I'm going to copy this from Claude, and then I'm just going to speak my
+thumbnail into existence. So, you can just press on the microphone button here, and then just talk to it. I
+have attached an image of my character whom I would want to be in my thumbnails. And then I have attached
+another screenshot which shows example thumbnails that I'm trying to model, but just with my channel host. My
+video is about prison break. Therefore, my host could be strapped into an electric chair, one wrist cuff
+broken open, clock on the wall behind him frozen at 11:59, and overall it's like prison vibes. Good thing is
+that Chat GPT gives you 10 images for free. So, you can basically create 10 YouTube thumbnails every day for
+free. And here's the thumbnail I got. I really like this. This is pretty cool. And here's another thumbnail
+example just got from Chat GPT as well. I mean, really 5 years ago I was spending tons of money per faceless
+video, like having someone to write scripts, and you wait days for them to do the research and write the
+script, and you wait for the voice over artist, and you still spend like 700 bucks per video. And all that,
+thanks to Claude and these other AI tools, has gotten down so significantly. It's actually insane. But again,
+true animators will perform better. But I would still start with AI animation so we can test the concept. Now,
+if you want a full step-by-step tutorial, make sure to watch this video next. It's 1 hour long, it's
+completely free, and I explain everything in details.

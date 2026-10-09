@@ -1,0 +1,20 @@
+Title: Comment "SIGNED" and I'll DM it. #AIagents #opensource #devtools #ClaudeCode #softwareengineering
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: o0Clx2ilJyc
+URL: https://www.youtube.com/watch?v=o0Clx2ilJyc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:20:35+00:00
+
+Kind: captions Language: en Right now, you can prove which of your AI agents wrote which line of code. And
+Block just open-sourced the fix. The second you've got multiple agents working in your project, you lose track
+of who did what. If three of them touch your code, you can't tell which one wrote a bad line or who approved
+it. This fixes that. It's called Buzz. Every agent gets its own identity and everything it does gets stamped
+with a signature that can't be fake. So, you can always prove exactly which agent made a change and who signed
+it off on it. You have to think of it as Slack and GitHub in an app. Except every action is on the record.
+Plus, the chat and the code live together. So, the full story behind any change sits on the place, not
+scattered across two tools. We're screen and open-source and Block's own AI agents plugs right in. One thing
+to note, it's very early version 0.4 and it asks your team to switch tools, the hardest selling the software.
+So, you have to see as a bet where this is heading, not a Slack replacement this quarter. If you want to try
+it to see how it looks like, just come and sign and I'll send you the repo and this app.

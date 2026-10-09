@@ -1,0 +1,136 @@
+Title: VIRAL Carousels With Motion Graphics 0$ (Turned It Into a Skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 1CSh8tBR1oc
+URL: https://www.youtube.com/watch?v=1CSh8tBR1oc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:06:37+00:00
+
+Kind: captions Language: en I'm actually super excited to make this video. These are three carousels. One for
+a SAS app, one for a restaurant, one for a clothing brand, and every single slide is moving. And Claude made
+all of it. 3 days ago, I made a video about motion graphics in carousels because I saw nobody has made ever a
+video about it because this is new and it did over 40,000 views. I was not expecting it to do so well. Then
+the best thing is you guys start using the skill. You made your own carousels and and posted them in our
+school. Thank you so much for that. Honestly, that's why I'm showing them right here. But the thing is, I read
+the comments also on YouTube and people kept saying the same thing. It looks really cool, but what's really
+the use case? How can we do this? They really don't see it. And kind of they're right. A lot of them kind of
+look the same. So that's the whole video. Three real businesses. what I asked squad for, what it made, and how
+much did it actually cost me, which model did I use then also I'll explain how much graphics actually work so
+you understand why these looks so good, how to install the scale, which model you need to use again, and a
+bunch of ideas for where you can use this for your own business or to your clients. As you know me, I'm not
+geeky any of this. I have multiple carousel skills away already in my school and have shared them completely
+with the prompts and everything and the skill, the zip. Everything you see here is free in my school community
+link is in the link in the description. And just so you know, nobody paid me to make this video. You can look
+at the description. I don't actually make any revenue out of this. Somebody in the comments said I'm
+monetizing, but I'm far from that. Everything I'm doing here is out of my own pocket. But here's the thing. I
+do have one thing to ask. I would love if you could stay all the way to the end of this video. First, you
+could actually understand how it works and second because it really helps also my video and the algorithm
+pushes it and more people get to see it. I'm not asking for your money. What I am asking for is your attention
+and it's worth way more than money. And in return, I'm going to give you as much value as I can. And everyone
+that subbed, thank you. You don't know how much this means to me. These last three days went crazy. I had 400
+subscribers and now I'm at 2,500. It just shows that consistency pays. I really appreciate you guys. Okay,
+I'll stop yapping. I promise. You guys hate that. Let's get right into it. First, real quick, how does motion
+graphics actually work? Because once you know this, you will see every slide I show you. So, the first rule is
+easy. Nothing in real life moves at the same speed from from start to finish. A car speeds up then slows down.
+So in motion graphics, nothing moves leaner. If it moves at one speed, it looks like a robot. That's the
+number one reason cheap animations look cheap. When something lands and squashed when it fails fast, it
+stretches. That makes a bun look heavy when it drops instead of looking like a sticker. The third rule is
+rhythm. Every hit, every bounce, every every flash lands on beats, even with the sound off. And then two rules
+that are just for carousels. Rule number four, the loop on Instagram. A video slide loops forever. So the last
+frame has to flow right back into the first one. If it doesn't, you see a jump every single time. And that can
+be annoying. And rule number five, one word. The slides aren't six separate videos. They're one long scene cut
+into six things across the edge from one side into the next. So when you swipe, it feels like the camera is
+moving, not like you're flipping pages. Like you can see with the clothing brand that I have every time I
+swipe. And here's the thing most people don't get. Claude isn't generating a video like those AI video models.
+It writes code. Every shape, every particle, every letter is coded. And the code knows exactly where
+everything is at and what frame it is. So it goes frame by frame on your computer. That's why the loops are
+actually perfect. And that's why you can change anything after you don't like the color, it's simple. You can
+just change it. You don't pay again to try again. Okay. So now let's look at the use cases. So the first use
+case is a SAS app. The business flow pilot, an AI tool that takes care of team busy work, emails, reports,
+task updates. They're launching and they need a post that shows product actually working. The prompt for this
+one, I barely told Claude anything. Just the goal. Tell a story, the problem, the product in action, the
+results, then the call to action. Make the UI look real like you're watching the product. Work one rule, no
+dark background with neon glow. And I added at the end surprise me so it can use its own creativity. And look
+at this. It turned the whole carousel into a flight chart. Warm paper contour lights because the product is
+called Flow Pilots. Even the logo, the cursor and the little plane are same as an arrow shape. I didn't ask
+any of it. It just used its own creativity. Opus 5.5 is really going crazy right now. Slide one, the problem.
+Your team is flying. Manual notifications slams in faster and faster. Slide two, you meet flow pilot. The AI
+cursor flips an autopilot switch and the whole mess snaps into neat rows. Slide three, the product in action.
+The AI writes a reply, makes the PDF reports, and you can, if you have a dashboard, it can actually take the
+screenshots of your dashboard and make them into a motion graphic design. Slide four, little planes fly from
+low pilot to every app like an airline route. The slide five is the kind of the results, a departure board
+flips, and finishes the task. And of course, the call to action, the CTA, the last slide, your teams work on
+autopilot. Most SAS posts are either screenshots or they need to hire a UGC to make them post. This one
+actually shows the product in an entertaining way that has never done or it has been done in the past, but you
+had to pay a crazy amount for that and maybe for a post that could potentially flop. So, here are the costs
+for this. There is there are no costs. No image, no API calls, no sound. Literally, the only thing that you're
+paying for is cloud. Use case number two, a restaurant, the business, Ember and Bun, a Smashburger spot.
+They're launching a new burger called the Inferno. It's $14. So, the pump that I gave it is this time it did
+the opposite. I wrote out every slide, the colors, the vibe, what happens on each slide, and then rules, real
+bounce, camera shakes, when things land. So, now let's look at slide by slide. The first slide is the pitch
+black strikes. The fire ignites. Something hot is coming. You know the second slide, the bun drops. The two
+patties slam down with a shock wave and grease flying everywhere. And keep in mind here what we can do. This
+is like obviously $0. You can use Hicksfield to generate a burger. And of course, it could be connected to the
+MCP. I'll show you. Okay, I'll stay quiet actually and we will see the last one. So the third slide is the
+cheddar melts. The onions rain down, the jalapenos bounce, so it looks really clean here. Slide four, the
+chili sauce wraps around the burger, the top of the bun drops, and the whole thing just squishes. The fifth
+slide is the reveal of the burger, the ring, the fire, the inferno slaps with a camera shake. And slide six is
+the CTA. It's order now. And this is my favorite part. At the end of every slide, a burger whips into the next
+one like an assembly line. So when you swipe, you're literally watching the burger getting built. And that's
+really entertaining to the viewer. And this burger is not a photo. Claw drew every single ingredient in code.
+And that's crazy thanks to JavaScript. It even renders the six slides as ready to post. 8 seconds each and
+checked that every loop is seamless. I know for sure restaurants would pay an agency for an ad like this. And
+if you run a different restaurant, you just changed the entire thing. Use case number three, a clothing brand.
+And honestly, this is far my best one. The business voidware, a streetear brand dropping collection 01 called
+gravity. a hoodie, cargo pants and puffer jackets and sneakers drop is Friday 8 p.m. So the prompt that I gave
+it is kind of crazy on this one. I wanted a real product, real ID models. So I connected Claude with
+Hicksfield and told it to make all the assets itself first, then build the carousels around them. The slide
+one, it's total darkness. A a violet beam cuts in and it's called gravity. The slide two, and it's my favorite
+slide, is the hoodie floats in zero gravity. The fabric and ripples and call outs to the details. Slide three,
+the 3D sneaker spins 360°, explodes into pieces, and snaps back together. Honestly, just look at that. It's
+amazing. Slide four, the full fits. The pieces burst out and lock into place. Slide five, defy, gravity flips
+upside down, then flips back. Slide six is the drop. A black hole, the pieces spiral, HPM, slams on the
+screen, the CTA. And this one has a sound. It's made on my computer, too, for free. And every slide is exactly
+four bars. So, the loop never jumps. That's the rhythm and the loop working together. So, I'll stay quiet and
+you watch it. So basically fashion sells our own product and here the product is the star every single slide.
+And if you already have a product or photos, you don't need basically to use Hicksfield. Now, a lot of people
+asked, "How much does it actually cost?" So, I didn't want them to really guess and I went back into all three
+Claude Code sessions and counted every token. So, first one, the tools, the rendered, the fonts, the music,
+the sound effects, all free, all running on your computer at $0. What you're paying for is Claude. And if
+you're on cloud subscription like me, I'm on personally the max plan, you don't pay per carousel. It just
+comes out on the plan's usage. But if you were paying through the API, here's how each one would cost. Each
+one took an hour and a half. And I ran all three at the same time. But that's just the API cost. And the
+clothing brand has an extra cost, uh, which is Hicksfield. The five images are GBT image 2.5 uh sunburst
+version at 2.75 credits each. Removing the backgrounds 1 credit each and 3D sneakers, hoodies. Now think about
+an agency. How much would they charge? A lot more than that for one animated ad. And here you would get
+carousels. You can change anything you want after. Which model I use? I personally use Opus 5.5. Honestly, I
+did try on GBT. It's just it's not the best. I'll be honest. 5.5 Opus 5.5 is really clicking at the moment.
+And that's where I built all three carousels. Now, how to install it and I will go slow step by step. So, the
+first step is go to my school community. It's free. Link is in the description. Step two, you will find a post
+that I made specifically on this one and it will have a link on it. You click on the link, it will take you to
+uh the free resources in our school community. When you scroll down, you will be able to see the prompts and
+you will also be able to see a link to the Google Drive. So, what you have to do is download, you will see two
+things. You will see the prompt, you will see a zip. You install the zip, you open cloud code in that folder.
+So, you either can do it in chats, grab the zip and drag it into cloud code and say and give the prompt at the
+same time or you can open the folder and drag the zip in there. Then you just give it the prompt dissect.
+Basically, the prompt will help to dissect and install the zip properly. Once it's installed, you can just say
+type uh build me a carousel. You can choose either you want to use hicksfield or you can say build me carousel
+for my SAS platform and you'll see how it will make the carousels. So, I have a library that is in the skill
+which it will go through the designs that I've already put in there for you. Now, where can you actually use
+this? because that's the whole situation that I've seen in the comment section. It can be in ads. Instagram
+lets you run carousels as ads with video slides and slides that move stops people from scrolling. The second
+one for marketing for your own business. It could be organic or if you want to launch something. Honestly,
+anything that you would normally post a static carousel, uh your static images, if you already have a carousel
+you made in Canva or anywhere, the skill can bring those images to life without changing your designs. You
+give it the image and then it animates them. Then you can also sell it for local businesses, restaurants,
+gyms, salons, real estates, events. And when I'm saying selling it, if you were one of these restaurant owner
+or you have a gym, you could be having those too for yourself. My honest take, carousels aren't dead. They're
+still very good. But when everybody's carousels look the same and you have motion graphics and good designs, I
+think yours will basically top out of the other ones. Okay, I think that'll be it for this video. You want the
+skill, it's free in the description. Link is in. And if you stayed all the way to the end of this video, thank
+you so much for watching. I'm a little bit tired to be honest. The entire day I've been working on this. Uh
+seriously, it helps me a lot. You guys really motivate me to keep making these videos and keep giving skills
+away. I I have one thing to ask is if you have an idea, please share it in the comment section. That's the
+entire reason why I'm making this video right now because I saw so many people comment. And if you didn't
+click on that subscribe button, please do. And I'll see you on the next one. Thank you.

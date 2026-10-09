@@ -1,0 +1,102 @@
+Title: NEW Faceless Channel Blew Up in 30 Days! (FULL GUIDE)
+Channel: One Person Business
+Type: VIDEO
+Video ID: 1hUa3qu6Pro
+URL: https://www.youtube.com/watch?v=1hUa3qu6Pro
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:39:25+00:00
+
+Kind: captions Language: en This faceless channel started less than 30 days ago and they only made this much
+from ad revenue. So, I spent the last week building this entire Notion template with all of the prompts you
+can copy and paste to recreate a channel like that with AI. If you don't know who I am, I've been doing
+YouTube for the last 15 years and during this time I got millions of subscribers for myself and my clients.
+Now, I'm just building these free Notion templates that I'm giving away in these tutorials. Anyways, let's
+begin with channel breakdown. The channel in question is Space Guy. His first video was posted one month ago
+and he's essentially making videos about space, anything space-related. And we can see that this is created
+with AI because he says all third or synthetic content. These are all AI visuals, AI script, and AI voice-over
+in the background. And this is how much they made over the last 30 days just from ad revenue alone. Now, to
+make it easier to recreate a channel like this, I've built this entire completely free Notion template. Now,
+you can find it inside of my free community that I will link below. When you're inside, click on classroom
+over here and click on AI systems and you will find AI YouTube systems Space Guy and you will find the system
+here. When you click on this, it will open up this Notion template. Now, I personally don't like to copy
+YouTube channels one by one because chances are we will not get the same results if we just copy exactly what
+someone is doing. Rather than that, we extract formats and we just apply it to a different niche. So, instead
+of copying space, we could go with like human brain and psychology, biology, ancient civilization, mysteries,
+future, nature, and so on and so forth. For the sake of this tutorial, I'm just going to pick human brain as
+an example. Now, for step number one, we're going to copy this prompt from the Notion template and then we
+will just head over to chat GPT. We will paste that prompt and insert over niche. In my case, that's going to
+be the human brain niche. And I'll also insert that at a bottom as well. I really like this idea which is
+Brain Atlas. So, I'm going to go with that channel name. Now, step number two is to then generate a profile
+picture and we are going to do that inside of Google Gemini. There's going to be this prompt over here that
+we're going to paste. I'm going to select Nano Banana Fast just to speed up the process. And now, here's the
+logo that I can use and I can also customize colors if I want something to change or if I want to add some
+text, but I will just keep it as it is and I will download full size. Step number three is where things get
+really interesting because we're not going to copy their titles. We will just extract their title frameworks.
+So, again, if you go back to this YouTube channel that started only 30 days ago, we can see which things got
+the most views. So, here's a title framework. 10 things in space that should not exist according to physics.
+Now, if you were to apply that to our niche, that could be slightly different. So, here's the template. 10
+things in niche that should not exist. So, for example, I can say 10 things in the human brain that should not
+exist. Now, regardless of what niche you're in as long as it's like in the mysterious space, you could adjust
+this title framework for yourself. Or here's another framework again extracted from their most popular videos
+like seven theories about what existed before the Big Bang. Well, I can go back here and be like seven
+theories about the mystery. So, seven theories about consciousness or seven theories about the human brain.
+Six alien scenarios scientists say are statistically possible. Six psychological scenarios experts fear. And
+so on and so forth. And when I do that, I will get like 20 video ideas based on their most popular titles just
+adjusted for my niche. All right, now let's move on to step number four which is to then write a script. We're
+going to use this completely free tool called Notebook LM. Just click on try Notebook LM and then simply copy
+this prompt and go back to this YouTube channel or any channel of your choice. And when there, you can
+essentially just copy links to their YouTube videos like this. And when you're here, click on create a new
+notebook, click on websites and links and you can just paste those YouTube links because this will then allow
+Notebook LM to analyze their style of writing instantly because Notebook LM is made by Google and YouTube is
+also a Google platform. So, they kind of work together and it's essentially instant. And when you copy and
+paste this prompt alongside with example style of writing and then you insert one of these video ideas that
+you got, you're instantly getting very similar scripts to what's already producing results on that given
+channel but just adjusted to your niche. And just like that, in less than a minute, I got the entire script
+written and the most beautiful part is that if you check with a word counter, it is actually 2,000 words all
+for completely free. All right, the very next step is to then generate a voice-over and for this we're going
+to use the tool called Eleven Labs. So, when you're inside of Eleven Labs, you're going to find AI voices on
+the left-hand side. You can click on voices and then what I recommend is filtering through only high-quality
+voices. Then you can pick either conversational or social media and then that's going to give you even more
+voices. And then you're going to change the language to whatever language of your choice is. For me, that's
+going to be English. I want to make a channel that is going to be in English. And then I just choose which
+voice I think would be the most suitable for myself. Then once I choose that, I will just go to text speech
+and then right here I will start pasting my script. So, again, I'm going back to this script that I wrote and
+I will just paste it here and click generate speech. I've also selected version two of Eleven Labs and if I'm
+satisfied, I will just download the voice-over. All right, the very next step is to copy visuals that they
+have in their videos. So, when you open them up, you can essentially just take a screenshot of these visuals
+that you're seeing on the screen of almost any channel that you like that is creating visuals with AI. And if
+you're not sure how to recreate this, one of the best things you can do is to simply head over to chat GPT,
+upload those screenshots and say create a detailed JSON prompt to recreate the illustration that I attached.
+And then once you submit it, chat GPT will analyze this and then it will give you this prompt that you can use
+inside of Google Gemini. So, I'm going to go back to Google Gemini. I will start a new chat from scratch. I
+will select create an image and then I will go back here into chat GPT. I will wait for it to finish writing
+my prompt and once it does finish everything, I will just copy all of it with one press of a button. Now,
+we're going to paste that prompt inside of Gemini. We'll submit it and check this out. Now, we have our own
+illustration that is not a complete copy of what they have. So, we didn't just steal an image. We created
+something new and unique that we can use in our own videos and we can do this with any scene that we're trying
+to create. All right, the very next step is to create YouTube thumbnails and I found this tool called Pexels
+which now allows anyone to create 300 thumbnails with AI for only $1. And this video is not sponsored by
+Pexels. I genuinely love using this tool. Some of these images are absolutely insane generated with one click
+with one prompt. So, when you go over to Pexels AI, you can essentially just log in and here you can either
+enter a prompt to create thumbnail or you can recreate thumbnails with whatever you like. So, let's say I'm
+going to go back to this YouTube channel and I'll go to their most popular thumbnails. Like for example, this
+one. I will simply paste the link here and I will say instead or change the text to 10 things in brain that
+should not exist. And I will also say change the visuals below to be brain-related as well. While it's doing
+that, I just want to show you some of the example thumbnails that I was able to generate with this tool with
+my own face. I absolutely love this stuff. Like check this out. Or for example, these are some of the
+thumbnails that I was able to generate for my AI influencer. I have an AI avatar channel. And by the way,
+going back, this is the thumbnail that I got generated for me, very similar style to what has already
+performed on this space account. So, now I can just download this with one press of a button. The next step
+mainly talks about monetization. We do talk about ad revenue but also I briefly mentioned School and selling
+digital products as School is a platform where you can create digital communities. Here are the results that
+some people are getting off this platform. MRR stands for monthly recurring revenue. So, I propose some ways
+that we can funnel this traffic from YouTube to not just make money from ad revenue but also make money by
+promoting different products and building communities and so on and so forth depending on the niche you're in.
+Again, the reason I know that this stuff works incredibly well is because hundreds of people inside of my
+community Online Business Club are getting incredible results by doing [music] this stuff. People are able to
+quit their jobs. People are able to build really big faceless businesses even if they're just 20 years old and
+build YouTube channels where they can make money with AI without having to show their face. Unfortunately,
+this is only inside of my paid community but still you can play around with this free Notion template that
+I've left out inside of the free community as well. Anyway, I hope you got some value and I will see you next
+time.

@@ -1,0 +1,19 @@
+Title: Comment "LISTED"and I'll send you the setup! #Claude #Anthropic #ClaudeCode #AITool #OpenSource
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: Vub8ezmzjLg
+URL: https://www.youtube.com/watch?v=Vub8ezmzjLg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:31:37+00:00
+
+Kind: captions Language: en Anthropic just opened a marketplace inside Claude. Now, the question is, why would
+they do that? Because they want other people to build what Claude's missing. On September 23rd, they put
+plugins, connectors, agents, and service partners in one place. And there are already over 2,000 plugins and
+connectors in there. And the part nobody's talking about is getting a plugin into their directory doesn't need
+a sales team. You put in a public GitHub repo, run one, and check and submit a form. So, let's say you do
+marketing for dentist. You package your best prompt as a plugin, a review reply skill, a recall email skill, a
+before and after caption skill. Now, anyone using Claude code or co-work can find it and install it, and every
+install has your name on it. And that's a lead magnet for you. It's a little bit complicated to explain, but
+there is a lot of beneficial for this. Comment listed and I'll send you the step-by-step to get your first
+plugin listed.

@@ -1,0 +1,150 @@
+Title: How I Built a $32K/Month Faceless Channel With GPT 6 Astra
+Channel: One Person Business
+Type: VIDEO
+Video ID: TZuevEe3YV4
+URL: https://www.youtube.com/watch?v=TZuevEe3YV4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:42:55+00:00
+
+Kind: captions Language: en Chat GPT just launched a brand new model 6 called Astra. Now, I already have a
+faceless AI channel doing very well. I just want to show you this. I want to refresh the page so you know that
+this is actually real. So, about $32,000 a month from ads. And yes, those are US dollars and not any other
+currency, as you can see. And what most people don't realize is that I actually started this channel about 70
+days ago. But then, I recently saw Hicks' video, a $5.4 billion company, make a video to build a 39k a month
+faceless channel. But the problem I have with that is that not only did they not show any channel making
+$39,000 a month in that video, but I assume that the guy teaching it has never even done faceless YouTube
+before. So, how would they know what actually works and what doesn't? So, everything I'm about to show you is
+what works for my channels right now. And more importantly, I have over 100,000 creators in my community, so
+I'll be showing you real-life examples as well. So, before I explain exactly how I'm using the new model, here
+are a few example faceless channels. American Secrets. If you go to their oldest uploads, their first video
+has 400,000 views, and they started posting 1 month ago. Now, according to this revenue estimator, they're
+doing 30,000 a month. Here's another faceless AI channel. They started 1 month ago, and their first video has
+400,000 views. This guy doesn't exist. Everything here is AI. He's even selling a digital product. My tool is
+not loading, but 6 million long-form views in 1 month. But according to Chat GPT, that could be around $25,000
+just from ads. And then, here's another faceless channel that just started 1 month ago, and some of their
+videos already have hundreds of thousands of views. All right, step number one, to start using this new model,
+just go over to Chat GPT and switch to work mode. Once you switch to work mode, click here and select this new
+model, GPT 6 Astra. Now, the reason I'm using this new model instead of the old ones is because this new model
+was built to complete way more complex tasks much faster. Like for example, with this new model, you can have
+ChatGPT find niches and channels on YouTube for you. It can actually browse YouTube and even go through videos
+for you. Anyways, step number one was to just select GPT-6. Step number two is to understand the strategy.
+Unlike what most people believe, you can't just press one button and pump out an AI video about pyramids and
+make 39K a month. It doesn't work like that. Instead, what I usually do is I find a proven title format that
+already works on YouTube. Then I find a new hot topic that I can apply that format to, whether this is news or
+an update or something that everyone talks about. Then I find a proven thumbnail style from a completely
+different niche, and that's how I create unique content that didn't exist before based on something that is
+proven to get a result. And for highest RPM, I prefer to choose niches where I can make longer videos for a
+Western audience above the age of 40. Which brings me to step number three, which is to head over to this new
+ChatGPT model and enter this prompt. We're asking it to research faceless YouTube channels targeting Western
+audience above the age of 40, ideally educational niches where people can watch longer videos. Now, to make
+things easier for you, I built a completely free Notion template with all of the prompts you can copy and
+paste with one press of a button. You can find this document and many others in my free community when you go
+to AI systems. Just look for GPT-6 and click here. Now, as you can see, GPT Astra worked for 6 minutes to do
+all this research for me. It gave me example channels. Here's a faceless channel GPT Astra found for me, and
+it gave me niches I can get into with highest potential. Step number four, I will go with practical home
+keeping and teaching people how to improve their home, make their kitchen more clean, and overall home keeping
+related gadgets. So, I'm going to head back to GPT-6 Astra, and I'm going to say, "Hey, I'm going to go with
+this niche selected from above." And then, I'm going to feed ChatGPT with three different YouTube channel
+links, which before this new update, we were not able to do because in the past, GPT didn't really have access
+to YouTube the way that it does right now. And then, it goes through those channels, extracts title
+frameworks, and just adapts them to my new niche. For example, it saw that this video got 2.2 million views in
+7 days, and it just came up with this video idea. Step number five. Now, to not make our videos generic, we're
+going to go back to GPT-6 Astra, and we're going to paste in this prompt asking GPT Astra to do research and
+find lesser-known facts and obscure details that people haven't heard about before when it comes to one of
+these topics. Now, instead of just robot vacuums, I'm actually going to call mine Chinese vacuums because I
+feel like that's the hot thing right now. We can see this guy got 2.2 million views. I'm now just going to
+submit this into ChatGPT Astra, and then it will spend a couple of minutes researching this topic. The reason
+this is so important is because if you share generic stuff that everyone has already heard, and you're not
+bringing anything new to the table, not only will YouTube detect that right away and will have no reason to
+push your channel, but people will open up your videos, see it's just generic info, and they will leave
+immediately. Step number six. All right, to produce these videos, I'm going to be using Solo AI, which is
+all-in-one operating system for one-person businesses. It has a bunch of different tools, one of them being
+YouTube script writer. This is where we can just paste our video title, and then in the details box, we can
+either add YouTube videos, PDF files, or text notes to make our video more diverse and less generic. So, I'm
+going to take out this research that ChatGPT has done for me previously, and I will paste it in the text note.
+And then, when it asks me for style of writing, a really cool thing is I can go to any YouTube channel out
+there. And if I like the way they structure their scripts, I can just paste one of their YouTube video links
+here. Solo will understand the way they write these scripts, and it will apply those frameworks to my script
+as well. And I mean, if they got 2.2 million views in 7 days, they're probably doing something right. When it
+asks me for my monetization goal, unless I have something to promote, like a digital product or a PDF guide, I
+could just select ad revenue and maximizing watch time. And then when it asks you for frameworks, Solo has a
+database of hundreds of viral hooks that it can integrate with just one press of a button. You can add
+psychological triggers if you wish. I just like to keep it with default frameworks. And then we can select the
+video length. We can bump this up and then just click generate script. All right, step number seven is to
+generate a voiceover. And for this, we can head over to AI Voice Studio, click on voiceover, and then on the
+right-hand side, you can choose from 9,500 different voiceovers based on gender, age, or language. You can
+preview the voice first, and then if you like it, you can just add it to your favorites, select it here, then
+just copy your script from Solo, paste it in this box. But as you can see, we can only do 10,000 characters at
+the time. So we have to remove some parts and then add that later, but you can do majority of the script at
+once. Then just click generate voiceover. Step number eight are visuals. What is actually going to be showing
+on the screen? And there are many ways to approach this. The first option is to do sort of animation that a
+lot of channels do right now, but they usually work in documentary videos or educational fun facts videos.
+Like for example, this guy right here got 7.9 million views with just a slideshow of animated images. But his
+channel niche is more of history and biology and ancient humans, and this usually works for those sort of
+channels where videos don't really need to show any real products or real events. But for the sort of content
+that I'm working on right now with this channel, we would actually need to show some real-life footage,
+especially because my video is about different Chinese vacuum cleaners. So, one of the options is to go to
+Fiverr and search for YouTube video editors, and you can usually find some decent ones for 25 to 50 bucks,
+especially for a video that is 10 minutes long. You can see that this guy offers motion graphics, sound
+design, all this stuff, but you don't really need that. You can just show them a very basic example and tell
+them that the video is slightly shorter. Or, if you don't want to pay a freelance video editor, there is also
+this AI tool called VidRush. You can go to brand profiles, and when you go to editing style, you can paste a
+reference YouTube video link. So, I can go to this YouTube channel, just copy their video link, paste it in
+this box, and then this AI tool will edit in that style. And here's how it usually works. You just come here,
+you click on the plus icon, you click custom audio or custom script, depending on whether you already
+generated a voice over with Solo or not. But, even if you just have the script, you can click on the custom
+script here, copy that from Solo, paste it in this box, save script, and then it will generate the entire
+video for you with motion graphics and real-life footage in this case. Let's watch the example video together.
+>> We are talking about machines that duck under furniture, robots with little mechanical legs that lift them
+over raised doorways, floor cleaners that wash their own rollers while they are still cleaning your kitchen,
+and one vacuum that opens a compartment, unfolds a robotic arm, and picks a sock up off the floor. Yes, an
+actual arm on a vacuum cleaner. These are real products with real model names and real hardware. And once you
+see what they do, that old vacuum sitting in your closet starts looking a little different. >> that's not bad
+for AI. Obviously, if I don't like something, I can click on elements right here, and I can replace footage, I
+can add new things, or I can even upload my own footage if I want to show something different. But, if I am
+satisfied, I can just click on render video, continue rendering, start render, and simply download this video
+file. Bear in mind that it did take about 2 hours for this AI tool to generate this whole thing and edit
+everything for me. And this tool is very expensive. You're basically paying around $3 per minute. If your
+video is 10 minutes long, that's about $27 a video. This video is not sponsored. I don't have any affiliate
+links for it. But to access that tool, you will need a referral code. So, I'm going to leave that code inside
+of the classroom of this free community. Just look for a VidRush referral code here. Again, that's not an
+affiliate link and I don't get anything from you using this tool. It's just what I've been testing myself
+these days and I'm telling you it is an expensive tool, so be careful when using it. I mean, it literally
+starts at $99 a month, which yeah, is pretty expensive. Step number nine, what do you even put in the
+thumbnail? Biggest mistake most people make is they repeat their title in their thumbnail. But you have very
+limited space to convince someone to click. So, your thumbnail has to complement the title by adding
+curiosity, deep, scarcity, urgency, creating fear. For this, you can use thumbnail text generator inside of
+Solo, where you can simply paste your YouTube title, then paste your YouTube script, and click generate
+thumbnail text, and then it will generate text based on curiosity, fear, scarcity, or desire. It has some
+really good options here. I'm just going to go with the first one as an example. Next step is to create a
+YouTube thumbnail, and for this, you can either use Solo thumbnail designer, where you can enter a prompt and
+get a thumbnail done and then just download it, or you can also use ChatGPT as well, as they do a very similar
+job. All right, the next step. As you might have noticed, a lot of these faceless channels are now selling
+their own digital products, which helps them mostly double their revenue. And even though they're completely
+faceless, they can sell PDF guides and digital products, and a lot of people actually buy these. Now, inside
+of Solo, there's a digital product builder, where you can select auto, you can just paste your niche, and then
+paste your YouTube channel link. If you want, you can add it some context, and then just click build it for
+me, and it will create an entire digital product for you, a full guide that you can download as a PDF, and
+then you can sell it. This can add some extra income, no matter what you sell it through, whether through
+Volop, Gumroad, Payhip, or any website of your choice. It also creates sales page copy and everything from a
+single press of a button. Okay, now let's look serious for a moment. I don't want you to look at my channels
+or all the channels that I'm showing that are making tens of thousands of dollars a month and assume that any
+channel where you post AI generated videos are going to get the same results, because they're not. I have
+plenty of channels that failed. Recently, I had a channel that completely flopped. It didn't get any views,
+and I abandoned it. I also have channels that got deleted by YouTube. I had over a million subscribers on one
+of them. So, it's not all sunshine and rainbows. But, if you ask me, this is the best business model, because
+you don't necessarily have to sell anything. You don't have clients. Nobody's calling you at any time. You can
+just make videos on almost anything, and you can get views. Like, I have a list over a thousand faceless
+channels making between five and fifty thousand dollars a month, and most of them started thirty to ninety
+days ago. That is absolutely insane. Like, you don't have to show your face. You don't have to sell products.
+You can do this whenever you want to from wherever you want to. But, like any other business, it's not easy.
+It's risky. Results are not guaranteed, and most channels don't have an RPM of thirty-one dollars per one
+thousand views. That's insane. Even the channel you're watching right now, which is supposed to be in one of
+the highest RPM niches out there, my RPM is only four dollars per one thousand views. So, when you you see
+people telling you you can just generate AI documentary about pyramids and make it thirty-one dollars per one
+thousand views, I don't think that's actually the case. My opinion. Now, if you want my help with building a
+faceless YouTube channel, like Chris who went from zero to ten thousand dollars a month, actually made over a
+hundred thousand dollars from this channel, or Alexander who made two point six thousand dollars, I'm going to
+leave a link to to paid community in the description box down below. But even without that, I hope you got
+some value out of this video, and I will see you in the next one.

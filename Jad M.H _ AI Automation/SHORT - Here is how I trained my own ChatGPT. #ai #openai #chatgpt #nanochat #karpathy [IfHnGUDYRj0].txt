@@ -1,0 +1,18 @@
+Title: Here is how I trained my own ChatGPT. #ai #openai #chatgpt #nanochat #karpathy
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: IfHnGUDYRj0
+URL: https://www.youtube.com/watch?v=IfHnGUDYRj0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:29:41+00:00
+
+Kind: captions Language: en You can train your own chat GPT without owning a single GPU. Here's the two tool
+combo that does it. Tool one is nano chat, the first repo that runs [music] the entire chat GPT training
+process for you. Second tool is Modal, which rents your powerful GPUs by the hour in the cloud with almost no
+setup. So, instead of buying a $4,000 graphics card, you point nano chat's speedrun script at Modal. It spins
+up the GPUs in cloud, runs the whole 4-hour build, and then shuts them down automatically the moment it's
+done. So, you stop paying. You come back to a link where you can chat with the model you just trained, and the
+total cost lands around 100 bucks for actually training your own AI from scratch. You only catch is you're
+paying per GPU hour, so don't walk away with it running. Download speedrun and I'll send you both tools and
+the exact commands directly.

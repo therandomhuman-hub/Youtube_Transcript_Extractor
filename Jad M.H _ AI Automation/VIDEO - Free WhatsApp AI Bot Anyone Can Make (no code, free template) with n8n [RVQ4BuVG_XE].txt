@@ -1,0 +1,98 @@
+Title: Free WhatsApp AI Bot Anyone Can Make (no code, free template) with n8n
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: RVQ4BuVG_XE
+URL: https://www.youtube.com/watch?v=RVQ4BuVG_XE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:27:43+00:00
+
+Kind: captions Language: en Steal my AI automation for restaurants that I've just built. With this automation,
+you'll have a fully functional AI agent that doesn't just take orders. It books appointments on your calendar,
+updates your Google Sheets, does all the calculation, and has every detail about your menu. From food items
+and quantities to pricing and more. Basically, it runs your ordering system on autopilot. All right, let's get
+right into it. On my left side, we have WhatsApp. On the right side, we have NA10. And A10 is quite popular as
+an AI automation platform. Same as make.com or Zapier. Right here, we're just going to execute the workflow
+and see how it works. Hey, could you tell me what type of food you guys serve and if you could send me the
+menu, too. All right. As you can see here, it's retrieving the data and it's going because I sent an audio.
+It's transcribing it and sending it to our AI agent. All right. Right there. Okay. We serve an authentic
+Italian cuisine at etc. etc. Our menu includes a variety of delicious options. Okay, let's try to see what
+would happen if I want to make a reservation. Yeah. Uh I would like to make a reservation for three people.
+And let's try not to give it too much detail. Let's see if the AI is going to retrieve the information that we
+need. Keep in mind this is very customizable. It's I'll I'll give you this of course uh this N810 uh workflow
+and you can use it and change the prompt as you would like. All right, looks like we got a message. I would be
+happy to help you make a reservation for three people. Could you please provide me with your name, email, and
+preferred reservation time? Okay, we've been sending audio messages. Let's send text. Let's see if it's still
+going to work quite as good when I text. Also, this is not my email, so make sure to not send it to whoever's
+email is this for three. Let's make it for three people. Okay, my email is tetra. Would love to make a
+reservation on November the 25th. For three people, my name is Jade. Let's see. All right. Okay. Your
+reservation for three people on November the 25th is confirmed. Jade, the booking is under your name with
+email. Ta ta. If you need further assistance or want to explore our menu, please let me know. We look forward
+to serving you. Okay. So, what I'm going to do now is I'll check my Google Sheets. And as we can see, we got
+the order ID of the time. So, it looks like we got the customer name, the phone number, and um I'll I'll make
+sure to set my editor to blur this out because this is actually my phone number, uh the email, confirmed
+reservation, and like the notes also on the 25th. But keep in mind, this is my prompt. So you can change it to
+however however you would like to have it too. All right, let's check our also like Google calendar. And as we
+can see here, reservation for three people on November 25th. All right, let's dissect this workflow. First, I
+use WhatsApp as the trigger. Uh if you're having some issues with WhatsApp, just leave a comment down below. I
+would love to send you a video of actually how to get your credentials from um Meta. You need your client ID
+and the client secret which I will be blurring everything here. On the next block we have the switch rule.
+Essentially what it does it just like sees the trigger from WhatsApp and sees if it's a text message or an
+audio file. If it's an audio file it goes directly to the HTTP request. If it's a text message it goes
+directly to the AI agent. The way I did this was I took the JSON format but before you have to do the JSON
+format you have to get your WhatsApp trigger working so we can get the previous notes and you will get the
+JSON format and I just simply did if it exists it goes on the HTTP request as I showed earlier and if there's
+a text message if it exists it goes as text you simply just add ruling rule and You go object. You go object
+exists and then you take from your previous notes. What happened? We have here two HTTP requests. One is that
+it gets the audio from the WhatsApp trigger and the second one is it downloads the audio and sends it to Open
+AI to transcribe the recording so they can send it to our AI agents. Essentially, we're going to have two AIs.
+one that transcribes the audio and the second one that goes through through the entire process with with the
+Google documents, the um Google calendar and the Google Sheets. From here on the HTTP request, I did get
+method. Simply I just put the URL that I get from WhatsApp. They can they make our life easier. You can just
+take the previous notes. Uh I just put it predefined credential type and bear o and WhatsApp bot connection.
+Here you need your bearer token. You get it from me. Then same thing here we take the JSON URL from the
+previous notes to get method authentification. I just put a predefined credential type bear O from WhatsApp.
+Same thing the bearer token from meta. Once we do all of that, we send it to OpenAI to transcribe our
+recording because it got downloaded. I take resources as audio transcriber recording and input data field name
+data. Simple as that. No settings and it goes through our AI agent. Here's simply what I did for our AI agent.
+I just give it a basic prompt. You are you are a restaurant AI agent. you can handle the following tasks from
+the menu content the menu tool check the availability from our Google calendar for and create uh basically I'm
+just saying all the process that is here they like the AI agent needs to go through these steps for this
+demonstration because it's quite simple I'm using open air chat model but the best one to use if it's quite
+complex not only for restaurants but if you have more complex maybe into the stock market or other type other
+niches I would recommend using claude. Claude works really well on NA10. Here I did a simple simple memory. So
+the simple memory works for example when I send a message on WhatsApp it goes through the messages. So context
+window length. So kind of like 10 messages before. And you could do more. Here I did the find below for key 10
+um 10 context window length. here simply on Google Docs. I just made a simple menu to be able to have kind of
+like a knowledge base. I put in the pricing and the type of food they serve. And this this is the menu. It's
+called Restaurante Balavita. It's kind of like an Italian food. I put in the pricing and the type of food they
+have, the appetizers, etc., etc. I just used a simple knowledge base for that. We need our AI agent to be able
+to connect to our Google account. Not only even for Google doc, you need to sync your account with NA10 to
+have access to your Google uh Google account which I already did. So here simply it just checks our Google
+calendar uh if there's availability or if there isn't. And I made a description a fixed description. So Google
+calendar account connected it to mine. I set it to manual and the description is this is a calendar get tool
+for you to check is there any event in certain time slots start time to search end time to search before so
+resources event operation get many and on it's connected to my business email account here I just put it on
+return all and this is it yeah as simple as that and also if you're having some issues with connecting your
+Google account to NA10. Just leave a comment down below. I would love to help you. And this is the create
+event. So, same as the one that we did before, same account, everything. We just changed the description. This
+is our calendar create tool. You need to pass start time, end time for booking. Also pass a name for the time
+slot right here. And we also put the summary from the previous notes. We take the JSON files and all the way
+to the end we have our Google sheet account where it's connected to our account and from the list of documents
+restaurant orders that's what I called the Google sheet the description is quite simple this is the food order
+sheet you can put the name contact and food under the sheet column include name contact delivery address and
+also the food if they want to order food um I the tool description put into set manually resources sheet
+within document operation appen row and from the document the Google sheet as I mentioned and the sheet one
+because there are multiple sheets I did only one sheet and this just gives like an idea of how powerful NA10
+is. You could have your own CRM and be able to connect it to your CRM. It doesn't mean that you have to use
+Google sheet. Um so yeah, I'll put the order ID. I'll let the AI uh automatically do it. I accept the date and
+customer name and phone number because I like once my WhatsApp gets triggered, I can automatically get their
+phone number and put it in here. Also, their name because it's connected to their account. Yeah, let the AI do
+it. All the rest I just let the AI do it. All the way to the end, we have the calculator. Calculator is quite
+simple. It just calculates if they ask what's the price for everything. Simply you do nothing on it, even the
+settings. You don't have to touch it. It just calculates everything. And once it's done, it sends us the
+message. Oh, I need to blur this out. So, here it's blurred. And that's how you do it. All right, that'll be
+it for this video. I hope you enjoyed it. It was quite short. I appreciate you watching until the end. And if
+you're still having issues with building this workflow, just leave a comment down below and join the link down
+the description. you will have access to all of our NA10 automations. And yeah, I appreciate you watching and
+I'll see you on the next one.

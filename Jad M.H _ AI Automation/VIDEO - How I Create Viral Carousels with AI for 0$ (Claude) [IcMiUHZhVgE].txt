@@ -1,0 +1,93 @@
+Title: How I Create Viral Carousels with AI for 0$ (Claude)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: IcMiUHZhVgE
+URL: https://www.youtube.com/watch?v=IcMiUHZhVgE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:25:00+00:00
+
+Kind: captions Language: en You can spot an AI made carousel in seconds. Same layout, same style, that generic
+look everyone scrolls right past. This system that I built makes people actually stop and you don't have to
+build anything. You install it on your own computer and it's running under 2 minutes. So you're not paying any
+APIs, you're not paying any platforms. The only thing you're paying is your subscription. I'll walk you
+through how it works so you get the logic, but you're not coding it yourself and you can change it however you
+want. So why does this exist? Cloud code doesn't make bad carousels. Bad prompts do. If you spend some time on
+Instagram or LinkedIn, you've seen AI carousels that look identical. Same layout, same style, practically
+screaming made with AI. And that's not the tool's fault. It's people using it wrong and giving AI a bad name
+in the process, which is kind of a shame because carousels are one of the highest performing formats on social
+media. Done well, they will pull in a real reach, drive engagement, and bring new followers and customers. If
+you've done it in a lazy way, they just get scrolled past and people will just find it as AI I slop. Okay, so
+these are the carousels that you would be able to make that you can see here. Each one looks different from
+each other because each one respects a font and style sheet that it goes reference to. And I'll show you also
+how to make a style reference sheet. So every carousel that you'd be making would look exactly the same from
+page to page, especially if you have your own business and you have your color fonts, your style sheets that
+they need to be respected. This is it. These ones are however paid. What I would actually recommend is [music]
+having the first image, essentially the hook, that you pay for. And I say pay, you use a model like Nano
+Banana or GBT images only for a hook and then the rest you run locally. So you don't pay anything. When I say
+locally, I mean it runs on your computer and you're not paying a single dime. The only payment that you have
+to do is on your cloud >> [music] >> subscription. So yeah, we can see here every color looks different, every
+sheets, uh every writing style looks different. So, let's get right into it. The first thing that you need to
+do is basically go on your Chrome. If you don't have [music] Claude installed yet, install it on your Chrome.
+Once you have it installed, open the app [music] and you go in your code session. Let me close this. There we
+go. In the link under my video in the description, you will have access to the zip. Okay, so once you have
+Claude opened, what you need simply to do is create a new folder and that folder is specifically only for
+carousels. >> [music] >> We go here, new folder. Let's call it carousel YouTube video one. [music] I'm going
+to open the folder. This will be in the link in the description where you have the zip. This is the skill.
+We're just going to put the skill here and in here we'll have also what to paste into Claude. You can either
+read me first or start from here. This is for the people that are are not going to watch the video. Or you
+don't really need these two. You only need the prompt. So, once you put the zip into the folder, you can just
+close that folder again, go back to our app and open the folder that we have done. Here's our YouTube video
+one. We'll open it in our trust workspace. Now, we're going to go back >> [music] >> and take the prompt. It
+says here, copy everything below this line. So, I'm just >> [music] >> taking all this and I paste it. So,
+basically what it does, it goes through the zip that I've created. It tells it how to open it and what skills
+to take and how to put them. The only thing you have to do is basically always allow whatever it asks. While
+it's doing this, we want to get our own style sheets reference. And let me give you an idea of how I do my
+style sheet references. Basically, it should look like something like this where the AI has to respect the
+guardrails, has to respect the type specimen, >> [music] >> the palettes, the components, the slides and the
+tone of the world that it lives in. So, for example, this one is a little bit more Greek and more nature. It
+wouldn't add cars and have those hallucinations. So, how do we build this? First, let's go on Pinterest and
+let's see something that peaks our eye, something that is quite nice. You don't know how to find this on
+Pinterest. You just click on carousel design, and that's it. [music] I actually think quite like this one. So,
+all I have to do, I'm going to save it for my personal use, and I'm going to Okay, click on those three dots,
+download image. So, it's downloaded. I have a prompt that I'll be also sharing. So, this prompt is only to be
+able to create the style sheets reference. I take the image, I drop it. The prompt is already there. And I
+just send it. Let's go back to our cloud. Once a different style sheet that I've made, which is I'm just going
+to always allow. In here, I want to show you how it looks like if you run it locally. Um um It got the
+reference style sheets that I've made. Let me show you how it looks like. It was supposed to look like this.
+And I think for something that got run locally, it actually did a really good job. So, what it essentially
+did, this AI is trained on, it gets resources online, screenshots, numbers, data online, and screenshot and
+basically gets those images and puts them into your carousel. So, we can see here the Ferrari. Um it took a
+screenshot of the Ferrari in the Chrome and basically just put it to the carousel, which makes it look also
+static. And these numbers that we can see here um are basically AI powered. Yeah. I think I'm pretty happy and
+satisfied about how it looks like. And let's go back to our prompts. It looks like it has made our prompt
+here. So, I just copy it. Now, I go in Higgsfield. So, I would put the frame at 16:9, and I would use GPT
+image, too, and paste the prompt. You don't have to do this. I already added the style sheets that I've
+implemented in the zip. And I think there is around six or seven. Um you can open them and look if you like
+them. But here we're just going to generate and we go back to our Claude. Okay, it looks like it has been
+installed, but I do want to change the style sheet reference. I want to see how it looks like first. Here's
+the style sheet reference. I think it looks pretty dope. It's exactly what it's supposed to be building. So
+we're just going to take this, download it, going to drag it and drop it here and say use this as a style
+reference for my carousel. And here it's also asking questions what topic we should talk about. Was it talk
+funk? It's like Let's just call it Claude can make your carousel. So we just say yes. Third one, we'll just
+put five. Then fourth one, [music] built with J's. And we liberate. So one thing that is really nice also is
+the fact that we have unlimited data uh for carousels. You can have so many styles, so many fonts, so many
+colors, uh and designs. Um, it's just all in Pinterest. Um, I could stay here for like hours and just keep
+making style sheets um because I really genuinely just like all of them. And also if you don't want to run it
+locally, in my previous video I've shown how to do it if you want to use an model tie.ai, which is the
+cheapest API model out there and it really wouldn't cost you anything to make those carousels. So it got back
+to us. Um, more we can see here it's giving us the hug your body and the CTA call to action all the way to the
+Instagram account. Um, all we have to do is basically either make some modifications what I found in the
+research and how it looks like in the internet. Um, either we want to change something here or not. At the
+same time, the other one making any changes, I just want to get it over with. So I'm just going to say go. So
+it looks like it's done here and this is what it came up with so far. So it went and browsed into the
+internet. It took a little bit longer than it was supposed to because this is just fully run locally in the
+code that it does by itself. Quite satisfied. It follows a pattern and the color sheets that it's supposed to
+follow. We can see a little bit here. Uh needs a little bit of tweak. The T we cannot see it properly. I said
+it's just a frame problem. But overall, doesn't look bad. And I went ahead you can say to your cloud basically
+to you connect to with cloud API. Basically it only creates the hook with a model. So the hook would look
+essentially better. I went ahead and did one for myself which looks like something like this. Made for dressel
+posts. You're able to do that inside your cloud directly. So I hope this shed a little bit of light to see the
+process start to finish. If you like this video, leave a like and a follow. It really helps me to make more
+content like these and to give skills that you can implement fully for free. Link in bio if [music] you want
+to have it for yourself or if you have any questions, just comment and I'll reply to you.

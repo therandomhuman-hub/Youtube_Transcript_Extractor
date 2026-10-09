@@ -1,0 +1,18 @@
+Title: A free Claude Code plugin called Superpower that makes it.#ai #aitools #claude #claudecode #vibecode
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: W2ftZFUK8cw
+URL: https://www.youtube.com/watch?v=W2ftZFUK8cw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:58:04+00:00
+
+Kind: captions Language: en Most people using Claude code are getting vibe code as slop. Code that looks fine
+and quietly breaks. There is a free plugin that fixes it. It's called superpowers. It's got over 100,000 stars
+on GitHub and Anthropic put it in their official marketplace. Here's what it actually does. Normally, Claude
+code just starts typing code the seconds you ask. Superpowers stops that. It forces Claude through the same
+seven steps a senior engineer uses. First, it brainstorms what you actually want. Then, it breaks the work
+into tiny planned tasks. Then, and this is the key part, it writes the test before the code. And if Claude
+writes the code without a test, it throws that code out and starts over. Then, it reviews its own work against
+the plan like a strict reviewer before anything ships. You install it with one command in Claude code, comment
+powers, and I'll send you the install and the setup guide.

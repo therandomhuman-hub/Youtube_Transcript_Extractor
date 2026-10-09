@@ -1,4 +1,36 @@
 {
-  "channels": {},
-  "updated_at": null
+  "channels": {
+    "https://www.youtube.com/@one-person-business": {
+      "status": "COMPLETED",
+      "folder": "/home/runner/work/Youtube_Transcript_Extractor/Youtube_Transcript_Extractor/completed/One Person Business",
+      "completed_at": "2026-10-09T19:05:05+00:00",
+      "channel_url": "https://www.youtube.com/@One-Person-Business",
+      "channel_name": "One Person Business",
+      "saved_this_run": 123,
+      "saved_total": 123,
+      "known_items": 123,
+      "video_count": 111,
+      "short_count": 12,
+      "auth_required_count": 0,
+      "unresolved_items": 0,
+      "scan_errors": [],
+      "last_checked_at": "2026-10-09T19:05:05+00:00"
+    },
+    "https://www.youtube.com/@jadm.h": {
+      "status": "IN_PROGRESS",
+      "folder": "/home/runner/work/Youtube_Transcript_Extractor/Youtube_Transcript_Extractor/Jad M.H _ AI Automation",
+      "channel_url": "https://www.youtube.com/@JadM.H",
+      "channel_name": "Jad M.H  | AI Automation",
+      "saved_this_run": 184,
+      "saved_total": 184,
+      "known_items": 185,
+      "video_count": 37,
+      "short_count": 148,
+      "auth_required_count": 0,
+      "unresolved_items": 1,
+      "scan_errors": [],
+      "last_checked_at": "2026-10-09T21:13:59+00:00"
+    }
+  },
+  "updated_at": "2026-10-09T21:13:59+00:00"
 }

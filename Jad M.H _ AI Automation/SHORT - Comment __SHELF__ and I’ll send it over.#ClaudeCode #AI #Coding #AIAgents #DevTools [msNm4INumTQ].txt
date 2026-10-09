@@ -1,0 +1,15 @@
+Title: Comment **SHELF** and I’ll send it over.#ClaudeCode #AI #Coding #AIAgents #DevTools
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: msNm4INumTQ
+URL: https://www.youtube.com/watch?v=msNm4INumTQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:13:20+00:00
+
+Kind: captions Language: en If you keep pasting book chapters in Claude code, I've got a tool for you that
+just dropped. It's called book to skill. You point it to the book or file or PDF or word doc and it will write
+the skills right into Claude code. It loads a map of the book then pulls only the chapter you actually need.
+You can load 600 page book and still have room for your actual work. [music] And it works on Copilot CLI and
+AMP, too. I really recommend giving it a try. You pay the tokens once up front and that's it. So, if you want
+the repo, just follow me and comment shelf and I'll send it to you.

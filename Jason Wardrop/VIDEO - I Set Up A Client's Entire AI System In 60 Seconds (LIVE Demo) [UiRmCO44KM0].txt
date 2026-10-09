@@ -1,0 +1,139 @@
+Title: I Set Up A Client's Entire AI System In 60 Seconds (LIVE Demo)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: UiRmCO44KM0
+URL: https://www.youtube.com/watch?v=UiRmCO44KM0
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T21:28:21+00:00
+
+Kind: captions Language: en In this video, you're going to watch AI do an entire week of agency work in about
+60 seconds live on my screen. No cuts, no editing tricks. Two AI employees, one that finds local businesses
+who need help, and one that sets up a client's entire system in just one simple click. And by the end of this
+video, you'll understand why this business model is absolutely exploding right now. And if you want the full
+training, the free workshop is linked down below in the description. And real quick, if you like what you're
+seeing in this video, go ahead and smash the like button. Drop a comment down below. Consider sharing this
+video with a friend who might also find this valuable and I'll hook you up with a private link to unlock my
+brand new AI workshop completely free. It walks through this entire system step by step. Okay, so now that you
+smash the like button, dropped a comment down below so you can get access to that brand new AI workshop. Let's
+dive into things. So, first some quick context so you understand what you're actually watching here. The stack
+I'm about to show you, website, AI chat, AI voice, bookings, reviews, is what local businesses pay providers
+$1,500 or more per month for. And the reason why it costs that much is that it's traditionally built by hand,
+hours of manual setup per client. And that bottleneck is what the AI just removed for us. $1,500 to $2,000 a
+month. and honest providers can still only handle a handful of clients because the delivery is the bottleneck.
+So keep that number in your head while you watch what happens next. And real quick, just so you know that I'm
+not just theorizing here, back in 2015, I started my own software company completely from scratch the hard
+way. And I grew it to over 14,000 paying clients over the course of the next six years. So recurring software
+revenue is literally my expertise. It is what I have done for over a decade now. And I've lived this model
+from the inside out at scale. And because talk is cheap, here are the actual real receipts that you can check
+out and see. These are real Stripe screenshots from that business. 15, 18, $20,000 days from recurring
+software subscriptions. Now, obviously, my results were from years of work. And they're not typical and not a
+promise of what you'll be able to do as well. But when I explain how this model works, know that it's coming
+from some online guru. Okay, so now I want you to meet AI employee number one, the prospector. Its whole job
+is finding local businesses that genuinely need this stack. The old way to do this was brutal. Okay, so let me
+show you what it replaced. The old way was basically you go to Google Maps, you open Google Maps, build a list
+by hand, copy numbers into a spreadsheet one at a time, then cold call for hours getting hung up on and hours
+of soul crushing work per lead. This is the exact stage where most beginners quit. And honestly, I don't blame
+them. It absolutely sucks. Now, watch what the AI version does here. Okay, I want you to watch this live and
+I'm going to show you guys step by step how easy this AI prospecting employee has made this entire business.
+Okay, so here's a look at this AI employee that we built for you. So, all you got to do is come up here and
+click on add prospect. Type in any type of industry. So, for this one, we're going to type in plumber. And
+then right here, this is synced with Google Maps. So, for this one, we're just going to type in Bentonville,
+Arkansas. And you can see it's powered by Google. So, as you start typing the city, it's going to
+automatically pop up. So, we're just going to click on that right there. And then the radius. Let's do a
+pretty wide radius because honestly our radius doesn't really matter. So we're going to go about like 25 and a
+half miles right there. And click on search. So now what it's doing is it's pulling up all of the plumbers in
+this local area within a 25 mile radius. And so you can see it's popping up all the contact information, the
+exact businesses. Do they have a website? How many reviews? Are they good reviews? Bad reviews. How likely are
+you to actually convert this person into a prospect? and we can easily click add right here to add them to our
+prospecting list. Now, if we want to find businesses that do not have a website, all we got to do is come over
+here and just click on this and it's going to sort them by the businesses that do have websites and don't.
+Now, obviously in this specific area, there's only these three businesses that do not have websites. But what
+we can also do is we can go through and search every location, every small city, big city, whatever across the
+United States and just simply add them to our prospecting list. Now, also in on top of this, if we want AI to
+actually go out and scan all these businesses that don't have websites, so you can focus on other things in
+your business, we can just come over here to prospect AI and just create a new AI sales agent. Now, this is an
+AI agent that I've created in the past. So, if we click over here on view prospects, it's going to pop up all
+of the different prospects that do not have a website in this specific area. And if we click right here to
+view report, it gives a full marketing audit of this business. So, an overall score, business details, and you
+can see right here it says, "We couldn't find a website link to your Google business profile or local
+listings, and then it has recommendations of what to do for this business." And then you can see it's fully
+connected with the Google My Business profile. So, you can actually click this. It'll open up the Google My
+Business profile link. And I'm just going to show you real quick. All we do to create this website for them is
+click share, copy the link to their Google My Business profile page, come back over here into this same
+software, the same AI software, and all I have to do is say, make a professional plumbing website for this
+business. And then I just hit enter. And now it's going to go through and build this entire website for us.
+So, let's just give this a couple of seconds and I'm going to show you guys the final product. Even if you
+have no tech skills, you're not a designer, you've never built a website, you're not an AI expert, it's as
+simple as literally giving a simple prompt to AI. And check this out. In a matter of seconds, it has a
+beautifully professionally designed website. And you don't even have to be a coder or know anything about
+website design. I mean, that's pretty easy, right? How many of you feel like you could go through that AI
+prospecting tool, type in whatever industry, the city, and then copy and paste the Google My Business profile
+link into the simple AI website builder and get something built like this in a matter of minutes? Yeah, you
+totally can. And you don't have to be some AI expert or some tech genius to do this. All right, so you see
+that 15 seconds, a hot list of local businesses that need exactly what I've got with demo sites already built
+for each of them. Prospecting, the thing that kills most new businesses, just became the easiest step. But
+finding clients is only half the story. Here's where it gets crazy. So, meet AI employee number two, the
+onboarder. Because here's the fear of every beginner. They think, "Okay, well, I landed a client. I got
+someone saying yes. Now what? I can't actually build all this stuff. I've never done it. I don't have any tech
+skills. I have no prior marketing experience. I don't know if I can actually get these clients results now.
+So, the old answer was a week of technical setup trying to figure out all of the hard stuff and just hoping
+and praying that was actually going to work for the client. Well, the new answer is this. When a local
+business says yes, they need all of this. They need a website with lead capture, AI chat, voice agents trained
+on their specific business, calendars and pipelines and follow-up automations, review requests, reporting, and
+the list goes on and on. That's the week of work clients pay 1,500 a month for. Now, let me just show you guys
+what AI can now do for you. Okay, so let's stick with this Petri refrigeration, heating, and air. So, all
+we're going to do is just copy this link once again. We're going to come back over here to the simple AI tool
+and then we're just going to come over here and type in create a new sub account for this business and then
+paste in the share URL and set it up like shown in this skill file. And I'm just going to drag and drop this
+skill file right there. And we're just going to hit enter. And it's going to go through and create the entire
+sub account. And then based on what is in the skill file, it's going to automatically set up the entire AI
+systems for this business. Okay? And check this out. It found the business on Google Maps. The business name,
+found everything. All we have to do is go through and click create sub account. And it's going to now go
+through and automatically create this sub account for this business to then be able to go help this business
+get onboarded. All leveraging AI. And then check this out. In just a couple of seconds, says sub account
+created successfully. Here's the rundown. And this is next steps per your a AI client pro setup the skill that
+we gave it. Switch the new sub account. Fill in the 10 custom values. Assign the phone number. Do these
+things. It says want me to switch to the new sub account now and start filling the custom values. And we're
+just going to say yes and hit enter. And then the AI automatically scanned and found all custom values. And
+we're just going to click on set all values for this business. And it's automatically onboarding and updating
+this client in real time. So, I hope you're seeing how even if you've never done this before, you can get
+started even as a total beginner and you don't have to be an expert with this because AI does a majority of
+the heavy lifting for you. And then you can see how this AI just walks you through everything step by step.
+Sub account created, check. The snapshot is loaded. Check. All 10 custom values. What do you want to go
+through and have me do next? And then what we would do is just say, "Hey, assign a phone number." And hit
+enter. And honestly, we're not going to go through all these steps, but I want to show you guys how simple and
+easy this is just having AI going through the step-by-step checklist and doing a majority of the heavy lifting
+for you. I mean, it's pretty cool, right? I mean, I I hope you can see that this is very simple and
+straightforward that you just copy and paste the share profile for the Google My Business link into Ask AI.
+It's going to create the account. It's going to set all the values and you just upload that simple skill that
+we already have pre-built, pre-done for you. And this AI is doing a majority of the heavy lifting for you. How
+crazy was that, right? 60 seconds. The entire client system live, the exact work that justifies those $1,500 a
+month retainers done while you watch me talk on screen. So that's not an incremental improvement. That's the
+fulfillment bottleneck completely deleted. Okay. So connect the dots here. If the AI finds a client and the AI
+setups up the client, what's actually left for you? The answer, owning the business, having the conversations,
+collecting the recurring payments. You are now the owner steering the ship. The AI employees are doing a
+majority of the grunt work for you. And here's the business model sitting on top of those demos. Everything
+you just watched runs on white label software, meaning it carries your brand and the clients pay you for it
+every single month. around $299 a month per client is a typical price point. So 10 clients, that math gets
+exciting extremely fast. Now, obviously, these are illustrative numbers. No promises or guarantees, but that
+is the whole business model right there. But here's what it looks like when real people run this. So, Victor
+right here said, "Boom, first sale, and if I set her up well, she's happy to pay for the other four team
+members that she manages." One good delivery snowballs into more success. Now, Nathan closed his first client
+in four days. Troy just made his first sale. Shawana booked her first high ticket client leveraging the same
+exact AI system. Different people, different cities, same system, the one you just watched. Now, as always,
+these are individual experiences. is they are not typical and there are no guarantees of income or anything
+like that here, but the pattern is hard to ignore. So, the demos you watch fit into a simple fourstep method.
+Open the door with a free branded demo site like we showed you. Find prospects with the AI. Fulfill in 60
+seconds with the onboarder and stack recurring clients month after month. Four steps and the AI handles the
+two that used to be the hardest. Now, one honest note, because I don't do hype here. This is a real business.
+The AI removes a majority of the grunt work, not the work. You still have to show up, follow the steps, and
+talk to real business owners. No income is ever guaranteed here. All right? But if you're willing to do that
+part, you've never had leverage like this before, ever in the history of the world. Okay? Now, this video was
+just the demos. If you want the full system, the complete four-step method, and these demos in way more depth,
+and exactly how beginners land their first recurring client, I walk through all of it in my free AI workshop
+that's brand new. I literally just recorded it because this stuff is all very cutting edge. It's the first
+link in the description. It's free and it connects every dot from this video. That's the link right below this
+video. Grab your seat and I'll see you inside the workshop. And if watching AI do a week worth of work in 60
+seconds absolutely blew your mind, even just a little bit, go ahead, smash the like button, send this video to
+a friend who might also want to see this and me, maybe even the friend you'd want

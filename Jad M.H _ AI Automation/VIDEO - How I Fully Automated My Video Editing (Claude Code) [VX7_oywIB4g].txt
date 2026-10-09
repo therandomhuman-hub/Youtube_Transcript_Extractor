@@ -1,0 +1,119 @@
+Title: How I Fully Automated My Video Editing (Claude Code)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: VX7_oywIB4g
+URL: https://www.youtube.com/watch?v=VX7_oywIB4g
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:21:45+00:00
+
+Kind: captions Language: en Did you know you can spot five coded websites in a few [music] seconds? I can tell
+you there's the same thing for editing and you feel it instantly if you know the market. And obviously
+everything that you're watching right now frame by frame is edited by AI. Look, [music] it's not a surprise.
+You've seen AI that can edit, that's not news. What I can't [music] stand is the sloppy version of it. There
+is basically one or two tools that everyone is using and [music] I see a huge amounts on YouTube that takes
+that skill, only changes the color and make a YouTube video about it that says this is revolutionary. But when
+they have no idea what AI sloppy is and what it looks like, this is it. Um it's these emojis flying in random,
+squares popping everywhere. You've seen it [music] already and especially these color fonts. So today I'm
+showing you what it looks like when you put a little bit more effort and I want to show you one of the three
+styles that I recently got and I like and everything will be shared right here. First one I call this motion
+graphic. [music] I had an editor for a while. I hired him because I wanted to build my personal brand
+specifically because of my clients. Sometimes they wonder how much you actually know about AI, how much you're
+actually making and the fastest way to kill that doubt that they have >> [music] >> is if I could tell them,
+"Hey, look at my social media. I have around 100 videos about AI." The problem was my editor always had
+excuses. Everything took forever and that's normal editor experience. Money up front, you have to wait. Then
+you get something okay and that's the outcome. Half the time you're sending back for revision. Meanwhile the
+whole game is about volume, shorts, long form constantly and I just believe an editor cannot keep up with with
+that especially if they have a multiple clients and this genuinely solves it. Second style I call it prosa.
+It's more of a personal preference thing. Color grading, clear [music] captions and the part I actually like
+is the transparent effect because I trained my AI >> [music] >> to take the context of what I'm saying and go
+fetch things online that match it. For example, if I'm talking about Claude's new design [music] skill for
+/design, it pulls something that's actually useful. And the viewer gets something worth watching instead of a
+stock filler. Boosting has never been this easy. This is genuinely the moment to make the gap. If you have a
+business or a personal brand, this is how you bring traffic. I made a video that took me 1 minute to film and
+0 minutes to edit, >> [music] >> and it did 100,000 views. And it actually brought me real business and
+engagements. That's when it [music] clicked for me. This is real. And the things that I see online can happen
+to me, too. Now, I'm not saying editing solves your content system. [music] It doesn't. It fixes one of the
+biggest missing pieces, but it's one piece. The real thing is data. It's not just about volume, it's about
+finding the right content to publish in the first place. >> [music] >> And that's a whole different
+conversation that I'm not going to be talking about today. What I'm saying is that with AI, you can have
+agents doing all of it. Finding topics, editing, analysis to see what performs better. >> Right. Switching
+gears, um third style, I call it deep talk. It's for when I need to actually transfer an emotion to the
+viewer. You probably don't know me. 4 years ago, I deleted everything. No personal TikTok, no Instagram,
+nothing. I cut off my whole circle, friends, family, so I could go all in my work as a lot of people do.
+[music] I missed birthdays, parties, a lot of memories that could have tightened those friendships. Honestly,
+it was still the most refreshing thing I'd ever done. I stopped comparing myself to people I didn't like. I
+spent 4 years telling myself social media was [music] poison. Now I'm on it every What changed is that I
+stopped confusing, consuming [music] it, with using it. Four years ago, I was scrolling, comparing, watching
+other people's lives. It was [music] genuinely poison. And I was right to cut it off. This is a different
+thing. This is for work. I actually know what I'm talking about. One minute of Selman turning into 120,000
+people who now know that I exist. >> Okay, so right now, let me show you exactly how to build it with your own
+design. Let's pop a quick Red Bull and log in. Okay. All right. So, the first thing I want to talk about is
+this guy, uh Train Boom. I love his content. You know what? I'mma drop a follow. Shout out to him. Basically,
+his content is kind of I feel like it's top-tier. And not a lot of fitness influencers are doing the same
+style, which is the reason why he's crushing it at the moment. We can see 20 million views, 20 want the 1.9,
+which is 2 million. All of his views are insane. So, let's see if our AI can basically reproduce even 60 to
+70% of his type of edits. Let's look at his videos. >> Yeah, tell me that video >> Let's look, for example,
+the most viewed video he has. >> By now, I think everyone agrees that these are horrible for you. But, what if
+everyone's wrong? This is the chemical makeup of one sugar-free Monster. Most of them are harmless, like
+water, electrolytes, or vitamins. But, four stick out that have been linked to cancer, heart attacks, and
+kidney disease. The first and most dangerous is actually caffeine. One can has 160 mg, which sounds like a
+lot, until you realize that this large coffee from Starbucks has over 400, the max recommended daily intake.
+You get more AK in this one cup of vanilla Greek yogurt, more citric acid in this one orange, and more taurine
+in a small cut of tuna. So, are all of these dangerous? Well, no, because nothing is dangerous until it's
+taken in the wrong amount. Even something as clean as water will kill you if you drink too much of it. The
+dose is what makes the poison. And the way scientists figure out what the safe dose of these ingredients is is
+by first finding the highest amount you can still consume where nothing bad happens in research, called the
+NOAEL. And to create our safety intake limit, they divide that number by another 100 to create a massive
+safety buffer. And even then, when you look at the highest dose ingredient out of all these besides caffeine,
+it's still >> All right, I'm going to pause it right there. I think we get the logistics of it. So, let's now
+build something similar. It's super simple. So, the first thing that you have to do is basically go on your
+Chrome, Safari, whatever it is, and just go on Hyperframes. So, Hyperframes is built by HeyGen. HeyGen is
+super known for basically make AI avatars. So, what you need to do is basically take this entire skill, and
+here, if you want to look more in depth, you click on catalog, >> [music] >> and you have all the styles that
+they have, all the codes, everything. So, those are the skills uh that would help a lot our AI to edit. But,
+also, Claude is able to learn by itself. Let me give you an example. All right, so, the only thing you have to
+do is basically copy all of this, and you go on All right, so, it's actually quite simple. You just create a
+folder, you call it what it is. Uh mine is called YouTube long format editor uh because I like to separate my
+edits from shorts and long format. They need to learn their own skills. So, you open your app Claude. If you
+don't have that, it's quite simple. Just go on Chrome and type basically Claude app, and you download it right
+there. Once you download it, you open, you go on Claude code, not the normal chats, and you put [music] your
+folder right there. So, now, what I'm going to ask it is "Hey, take this skill from Hyperframes, and what I
+want you basically to do is to guide how he's editing in videos. Basically, I want kind of the same motion
+graphic style, same color fonts, same layout for my short content form. And I want to call this style fitness
+influencer. If you have any questions, just let me know. To have a better result. Paste. I don't even have to
+explain it. I just paste the Hyperframes link and also the Instagram reel. So, I go back, come here, paste it.
+So, I don't really need to put Hyperframes cuz I already have that >> [music] >> in there and I'm just going
+to take the reel, paste the reel. So, while it's working, I want to explain to you how the system works. Every
+time that you create your own style, I've personally seen there is a much better results when you have a
+library and you take your time and explain to your AI what is your style, your color fonts, and the type of
+edits that you want. And every time you find something on social media, you can keep adding those things into
+your library. So, for example here, I created this library for my old design that I used to have and we can
+replay here the scene. These are [music] fully customizable. And every click here, you see this. So, it
+depends on the context obviously that I'm talking about and it will change those things accordingly. So, I
+really recommend you taking your time and putting the time of fixing your own library for your own style. And
+honestly, that's what people really look for. They really look for character, own personality. All right. So,
+this is what AI gave that it gave back to me, the library. >> [music] >> Um so far, we can see that it has
+taken some things of the B rolls of that guy. It definitely took the colors. It took the writing style, which
+is literally the same thing as that person did. Um kept And here you can keep modifying and going back and
+forth with it. So, what I'll do now is basically record a short for my Red Bull and see how AI can actually do
+this. A can of Red Bull has about the same caffeine as a cup of coffee. The difference is seven teaspoons of
+sugar. The caffeine bar genuinely works. 80 mg and half an hour later, you're sharper and you last longer
+before you feel tired. The taurine and the B vitamins on the can aren't doing so much. It's the caffeine. The
+sugar is what gets you. 27 g goes in fast and then you drop usually with half [music] the afternoon still go
+and the caffeine hangs around half of it is still in you 5 hours later. So at 4:00, can is still working at
+9:00. Sugar-free fixes half of [music] that. The caffeine's the same. So the time and still matters. Now, even
+the method that I just showed you, building your own style, putting together the library, I'll be honest, I
+don't think it's the best way to do this, but it will get you there, especially if you don't have the time.
+That's the whole reason why I'm making this video, to show you the simplest way to do it with a little bit
+more effort on your end. You like do more? No, absolutely. There's always more, but when you are starting a
+business, hiring an editor is a real bottleneck. Sometimes it's just not an option for a lot of people. Is
+this the best it's ever going to be? No, it will definitely get there. And if you're looking at your edits
+thinking they're sloppy, that they're in dodge it's probably not because of the AI. It's most likely you. If
+you think that this takes away creativity to some extent, sure, maybe it does, but we have to look at it from
+the other side. Someone's running a one-person business trying to change their life, has 100 things to do,
+think about with almost no budget. This saves them that time. The time they can put into other parts of the
+company that actually need them. That's how I look at it. Let me know obviously what you think. And [music] as
+you know me, I'm not gatekeeping any of this. Everything is down in the description. I'm literally giving it
+away. The only thing I will ask is that you leave a like and a follow. It genuinely helps me keep making these
+videos. I'll see you on the next video. Peace out.

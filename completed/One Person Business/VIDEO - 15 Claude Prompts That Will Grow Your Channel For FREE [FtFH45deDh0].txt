@@ -1,0 +1,148 @@
+Title: 15 Claude Prompts That Will Grow Your Channel For FREE
+Channel: One Person Business
+Type: VIDEO
+Video ID: FtFH45deDh0
+URL: https://www.youtube.com/watch?v=FtFH45deDh0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:58:09+00:00
+
+Kind: captions Language: en There are YouTube cheat codes that almost nobody is using, but even if you have a
+free Claude account, these 15 prompts will help you grow your channel much faster. I mean, I know that because
+my channels are blowing up faster than ever. So, in this video, I'm going to give you 15 prompts you can copy
+and paste for free. My name is Dave. I've been doing YouTube for the last 15 years, and right now I run a
+venture capital that invests in YouTube creators. So, I have access to data that literally nobody else has.
+So, let's start with prompt number one. First is a prompt you can use for chapters and timestamps. This allows
+viewers to navigate through your videos. So, it helps with a viewer's satisfaction and watch time, but it can
+also help you rank higher in the search results. And that's what this prompt is optimized for. The way you use
+it is you copy it from the document, which in a second I'm going to show you where to get for free, and then
+you just need to add your transcript. How do you find a transcript? You just go to your YouTube video, scroll
+down, open up your description, and then click on show transcript, and then you will see it here. Make sure
+you can see the timestamps as well. Then just scroll through this and select everything, and then simply paste
+them alongside this prompt, and now every chapter is going to be optimized for search on its own. You can then
+copy this and paste it in your description box. Number two is a prompt for anyone picking a niche right now or
+looking to start a second channel that could be profitable as fast as possible. I know that most people pick a
+niche based on what they like, and then they spend 6 months making videos that pay $2 per 1K views. And you
+could be doing right and still be broke. You could be getting views, but still not be paid enough because you
+chose the wrong niche. So, what this prompt does is it forces three things at the same time. It's going to
+allow you to find a topic that naturally attracts an audience that can watch videos that are over 25 minutes
+long, so you can place more ads and be promoted by YouTube more. Secondly, the audience is going to be Western
+from US, Australia, Canada, or UK, which obviously pays more per 1,000 views. And lastly, the audience is
+going to be 40 or older because they have more buying power than teenagers. And when you stack those three
+things together, you get very high-profit niches. So, you're going to copy this prompt, and you'll just paste
+it into Claude, and it will research topics for you, and it will give you 30 topic or niche ideas. And once
+you have this prompt locked in, even if you don't find anything interesting within the first 30 topics batch,
+just ask it for another 30 following that same framework. Number three is my favorite one. Like I always say,
+you should never ask ChatGPT or Claude to give you random YouTube video ideas because it has no idea what
+actually works on YouTube. It doesn't have YouTube data. So, what you want to do instead is is you take a
+title structure that has already worked in a different niche, and then you just bring that title formula into
+your niche. So, you're technically taking something that is proven to work, but you're not directly copying
+your competitors, which is also a bad thing to do. You're just bringing something completely new, but again,
+proven to work. So, what you do is you grab this prompt, you paste it into Claude, then you describe your
+niche. Let's say my niche is how to learn storytelling, and my audience are people who want to improve their
+career with storytelling. And then in this document, which in a second I'm going to show you where to get for
+free like this entire Notion template with all the prompts, you're going to find a list of 100 viral title
+frameworks. These are the titles that have worked in different niches that you can just click on file on,
+click download, and download as a PDF guide, and you're going to feed Claude with 100 proven title frameworks,
+and it will just adjust them to your niche. And then just submit that all along, so it's going to find the
+right fit, and then it will create titles that are again proven to work, but just applied to your niche.
+Number four is a prompt that's going to allow you to create better YouTube thumbnails. And this is one of the
+biggest reasons why people don't get views. I mean, if you go into your YouTube studio right now, you go to
+your video analytics for a specific video. You go to reach. You can check out the impressions. And if your
+click-through rate is below 5%, it means that YouTube is trying. They're showing your videos to an audience,
+but no one is clicking. And that's because of a bad thumbnail and bad packaging. And look, you only get two
+things to convince someone to click. You have very limited space. You have a title, and then you have
+thumbnail text. And most people waste it by just repeating what was already said in the title. But your
+thumbnail text needs to complement the title and create a loop in between that they can only feel by clicking
+on the video. And that's what this prompt does. You're going to copy this. You're going to paste it into
+Claude alongside with your title. I'm going to use this title right over here. Paste it in. Submit into
+Claude. And then it's following one of these angles: curiosity gap, fear or warning, proof or skill, or
+surprise. And you see my title was, "This framework helps you tell any story." And then if my thumbnail says,
+"Nobody teaches this." Or, "Instantly hooked." That's really cool. It's really going to help me create
+irresistible packaging. Next is a prompt I use every time I write a new YouTube script. You see, right now
+YouTube is using AI to analyze our videos. As soon as you upload them, it will know exactly what you're
+talking about. And if your video scripts are sharing generic stuff that everyone has heard a thousand times,
+YouTube will know that and there is no reason for them to push your videos to a wider audience because why
+would they push something that everyone already knows? That's why you need this prompt that's going to find
+new points, lesser-known facts, obscure details. And it will challenge common advice so that your videos
+actually stand out. Now just paste your title in this box and submit it, and it will do research and find
+unique things that again most people haven't heard about before. Really cool if you're trying to stand out and
+if you want to get more views. Next prompt is pretty similar and it's going to allow you to find obscure
+information you can bake into your script. So you're going to grab this prompt and it will ask Claude to give
+you 15 pieces of information about this topic that has little known numbers or dates, failed attempts,
+recording cases, etc. Anything that is unique that we can use. Number seven is for first 30 seconds of your
+videos. If you go to your retention graph, you will see that by second 30, so in the first 30 seconds, most
+more than 50% of your audience will already leave. So that means you have less than 30 seconds to convince
+them to watch the rest of the video. And that's why hooks are extremely important. And I have a list of hooks
+that I have extracted from different channels that have worked incredibly well. So these are from most popular
+videos in different niches, different channels, and these are the frameworks that they've used for those
+hooks. And you just have to fill in variables in the brackets, and you have a viral hook. So this is a list of
+them. You can find it in this free document that I'm going to share later. Next up is something I called niche
+quilting in February of 2025, and it is this concept where you have a market plus format. You don't have to
+reinvent the wheel on YouTube. You should not do that. You can just take out what is already proven to work
+for other channels and adapt it to your own niche. People are adapting something that was working for birds,
+and then they have to supply it to insects. And then they take insects and they apply their title frameworks
+for fish, and so on and so forth. And this prompt will allow you to do that. You copy this prompt, you just
+paste it into Claude, you describe your niche, and then you can either manually insert titles from a
+completely different channel that you found, or you can just take a screenshot of their most popular videos,
+and then it will take out their title frameworks and it will apply them to your niche. It will also tell you
+what you could potentially talk about in those videos and why this format works on this market specifically.
+For number nine is when you have your very first outlier, you should double down on that by using the prompt
+that I'm about to give you. So if on average, let's say you get only 100 views a video, and there is one video
+that got 150 views and got a couple of more comments, you should be using this prompt to you why that is
+[music] happening. So you're going to insert your title, the thumbnail description, you can also just
+screenshot your thumbnail, and then the typical views that you get on your channel, and how many views this
+video got. You could also add the transcript of that video, and then Claude will understand what was happening
+here, and what's different, and how you can leverage this to keep on making similar videos that outperform the
+others, and that's how you grow your channel much faster, because you're not shooting blindly, you're just
+using what has already worked better on the channel. So, for example, here, I would average get 2,000 5,000
+sometimes 10,000 views, but then I have some with 30 and 40,000 views now. Well, now I can feed that to Claude
+using that prompt to understand why more people are watching this, and then I can just make it again and
+again. I can also copy all of the comments and feed them into Claude, so that Claude knows what people are
+saying about the video, which brings me to my next prompt, which is comment mining. This is where you copy the
+prompt, you paste it into Claude, you grab your title, and then you copy all of the comments that you have
+underneath that video. This can also be taken from your competitor channels, because comments are public, so
+you can just try and understand what people are saying in on similar videos, and then it will analyze the
+video, and it will analyze the comments, and tell you what you should mention next time, or what you can make
+videos about next time. That's if you want to do it on your competitor channels, but if you want to do it for
+your own channel specifically, by the way, you can just do that natively now inside of YouTube Studio. Just
+click on Ask Studio right here, and just click on Summarize Comments, and then we'll look through your own
+content, because this is a native YouTube tool, and it's free to use, and I can understand what you guys are
+asking without even reading all of the comments, but just looking at the summary. Oh, this next prompt is
+really cool, and it will help you understand why your video underperformed, and it didn't get views. So, what
+you can do is you can copy this prompt. Now, when you paste it into Claude, you don't submit it yet, you're
+going to need to insert your title, and then you're manually going to enter your details. You're going to
+first of all enter impressions, copy-paste that here, click-through rate, which you can see in the reach
+section, just like that, average view duration, then video length you can see here, then the channel average
+click-through rate, channel average view duration, and then you're also going to need the transcript so that
+it understands what the video is about. And you find that in the description box like this, you click show
+transcript, you copy-paste it from the right side, and then you submit it. And now it's analyzing absolutely
+everything, and it will tell you what you've done right and wrong, and what you can do next in order to
+potentially get more views next time when you post. And next prompt is very similar, and this is specifically
+for completely dead videos. Like if you have a video that absolutely underperformed, it just completely
+flopped, this is where you use this prompt. You also enter the data manually, and then it's going to tell you
+what happened. Prompt number 13 is for YouTube video description, which is actually now really important
+because your description can rank really high on Google. I mean, all the AI tools that we're using right now,
+like ChatGPT, Claude, Gemini, Perplexity, most of the information they pull from is from YouTube. And in order
+for the AI to understand, first of all, what the video is about and what it should pull in from you, is based
+on the description box that you put. So, the description is not so relevant for your viewers, most of them are
+not going to read it, but it's more for the AI. So, the first two lines have to be a hook that we use, then a
+100-word summary of the video written in a natural language, then five related search phrases woven into full
+sentences, and then something that asks a question that people will actually want to argue about. This is
+going to help us with engagement. You paste that right here, type in your title, and then paste your
+transcript as well, and submit it. And now that we get this description, we can just copy-paste it. Number 14,
+as AI is now analyzing your videos as soon as you upload them onto YouTube, you want to make sure you're not
+spreading misinformation. So, when you're writing your scripts and when you're preparing to create videos, it
+is really important to fact-check what you're saying because again, if you really spread misinformation,
+YouTube might flag your channel and might shadow ban it, and then you just don't get the views that you
+deserve. Therefore, there is a prompt at number 14 that you copy and paste alongside with your script, and
+then Claude does all of the research and tells you whether the things you're sharing are right or wrong, and
+then you just rewrite the script accordingly, or you just ask Claude to rewrite it for you based on these
+facts. And number 15 is for content maxing. If you already have your video and it is a good one, you can just
+ask Claude with this prompt to give you three community posts or different hooks or different tweets that you
+can then use on different platforms to grow your brand overall. You can just copy-paste it alongside with your
+video. Now, to get all these prompts for free, just go to my free community linked below, go to the classroom,
+go to AI systems right here, and then look for 15 Claude prompts that will grow your channel, and just open up
+this Notion document, and there you're going to find all these prompts. Now, if you want to see how I blew up
+a channel to 60 grand in the first 47 days of starting a faceless AI channel, make sure to watch this
+step-by-step tutorial next.

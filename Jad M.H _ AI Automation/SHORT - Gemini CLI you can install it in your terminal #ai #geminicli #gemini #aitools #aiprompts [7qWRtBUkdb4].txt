@@ -1,0 +1,18 @@
+Title: Gemini CLI you can install it in your terminal #ai #geminicli #gemini #aitools #aiprompts
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 7qWRtBUkdb4
+URL: https://www.youtube.com/watch?v=7qWRtBUkdb4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:45:39+00:00
+
+Kind: captions Language: en Google put a full AI coding agents inside your terminal. It's open source and the
+free quota is big enough to do a real work with. It's called Gemini CLI. You install it, you point it at a
+project, and it reads your files, writes codes, runs commands, and fixes what it breaks. Right there in your
+terminal. No wait or turn, no subscription to start. And because it's open source, you can see exactly what
+it's doing and change it. For anyone who's been priced out of the paid coding agents, this is the easiest free
+entry point there is now. Here is the catch though. Free means a quota, not unlimited. Heavy days will hit the
+limits and free tier usage follows Google's free tier data terms. So, don't point it anything secret. Use it
+on a side project and learning, not on your company's private repo. I've put together a setup that guide that
+takes you from install to your first working task. Comment gem CLI and I'll send it to you.

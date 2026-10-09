@@ -1,0 +1,190 @@
+Title: 15 Boring Things Making Me $300K/Month On YouTube
+Channel: One Person Business
+Type: VIDEO
+Video ID: s2knfD7QuCM
+URL: https://www.youtube.com/watch?v=s2knfD7QuCM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:00:04+00:00
+
+Kind: captions Language: en 15 years ago, I started my first YouTube channel, and ever since I gained millions
+of subscribers across many channels. I also run a venture capital that invests in YouTube creators, so I have
+access to data that literally no one else has. I run the largest community on this subject with over 100,000
+creators, and I made every mistake under the sun, some of which has led me to lose a million subscribers. But
+in this video, I'll share with you 15 things I wish someone told me earlier about YouTube. You'll basically
+get 15 years of advice in one short video, so let's start. First of all, if you have multiple interests, start
+multiple channels. A few years ago, I would have told you that that was a terrible idea, and back then, I was
+100% right. Because back then, making videos was not just slow and painful, but the YouTube algorithm worked
+in a way where if you didn't have subscribers, you wouldn't get the views. But that has completely changed
+with AI and with this new algorithm. If you use AI tools the right way, you can make better videos much faster
+and cheaper than before. Like literally, sometimes it takes me less than 20 minutes to make one video ends up
+getting millions of views on a niche that I have zero knowledge about. I'm not even experienced in any of the
+subjects when I make videos on those channels, on those faceless channels. But secondly, this new algorithm
+really favors small and brand new accounts as well, and you don't need a lot of subscribers. Like this guy
+literally just made this YouTube channel July 1st, he joins YouTube, July 2nd, he posts a video that gets
+250,000 views, faceless video. And this is happening with big personal as well. For example, Ali Abdaal, who
+was a massive YouTuber with like 6 million subscribers, now barely gets 30,000 views. We can see his
+subscribers and views declining every single month. Iman Gadzhi as well, his views are really declining like
+crazy. And then you have these brand new channels that get millions of views in their first uploads, while the
+channels with 44 million subscribers are stuck at like 5 to 10K views. So you no longer need subscribers. But
+the biggest reason is you learn way faster with more channels because you get to borrow what works from one
+and drop it into the others. I mean, it's kind of like how Elon runs his companies. Whatever he figures out
+over at SpaceX, he carries over to Tesla, and whatever he learns there goes back the other way. So, each
+company keeps leveling up off the other ones, and your channel can work the exact same way. I mean, I know
+that there are some channels that I start and I post really good videos with good packaging, but they just
+don't go anywhere. And then I take the same uploads, the same video files on a brand new channel with zero
+subscribers with slightly different packaging, and then it suddenly takes off. So, more channels, more data,
+more shots. The second one ties right into that, and that is to make your videos stupid simple to produce.
+Take a look at this YouTube channel. Their first upload got a million views, and it's just this very simple
+whiteboard style of animation, like hand-drawn animation, but this is all just AI. I made a step-by-step
+tutorial explaining why this actually works so well and how to make these videos step-by-step, but I think
+it's consistency is the thing that actually wins on YouTube, and you just can't be consistent if every video
+requires you a lot of time to create. I had a client who had a channel where it took her 20 days to make one
+single video because she wanted this complex editing and complex visuals, and sure, her stuff was good, but it
+was not sustainable. After two uploads, she said that she's going to quit because there's no way she's going
+to sustain making a video for 20 days. So, we just sat down, ripped her whole process apart, and made it a
+little more simple. And once we did that, it now takes her a little less than 20 minutes to make a single
+video that gets a lot more views because your viewers don't care how you made the videos as long as they
+provide value, and your viewer can get something out of it. You don't need crazy animations or tens of hours
+of editing to give someone value. I've noticed this with my own personal brand channels as well. A channel
+where I just speak into the camera, and there's no editing, no animations, gets like 30 to 20,000 views, even
+though I just started at account. I barely have any subs. Compared to this one where we have crazy thumbnails
+and crazy animation and I'm sitting in the studio, but we get like four to five K views. That's because I
+would assume that no one really cares about editing and transitions and animations unless they are getting
+value out of the video. And remember, this is a long game. The person who puts out a simple video every week
+for a year will always beat the person who burns out of the three fancy ones every single time. Simple scales,
+fancy fails. Next one is also quite boring, but really important. If you are using AI to write your scripts,
+no matter what AI tool you're using, it will in most of the cases confidently tell you things that are just
+not true. And if you post the video on YouTube with full made-up facts, funnily enough, their AI, Google
+Gemini, will analyze the script and if it notices that you are spreading misinformation, they will limit your
+reach. They will not allow you to get tons of views because they don't want to spread misinformation.
+Therefore, you can either manually fact-check your scripts or you can use this prompt right over here, which
+in a second I'm going to show you where to get it for free. But you're going to copy this prompt, you're just
+going to go to Claude, paste it, and then just paste your script at the bottom. So, we're essentially telling
+Claude to use its strongest model, which is at the moment Opus 4.8. Make sure that one is selected. It's for
+complex tasks, and it's going to take about five minutes to research this properly, and it's either just going
+to rewrite the script for you or tell you which stuff is unconfirmed, which is not accurate, and then you just
+change those parts. You can get this free prompt and many others inside of my free community when you go to
+the classroom and then go to AI systems. Number four, use this free tool to find high-profit niches. I just
+want to say I'm not sponsored by this tool. I don't have an affiliate link. The reason I'm showing it is
+because at the moment it is completely free to use, and it's going to allow you to find new niches and
+faceless channels for free with Claude. It's this thing called nextlevel.io/mcp. When you go to this part of
+the website, you can scroll a little bit down, and you can find the link right over here. If you are using
+Claude or ChatGPT, just copy that, go into your Claude account, click on the plus icon, then simply go to
+connectors, add connector, add a custom connector, then paste that link in this box. The link is right here,
+and then just call it next level, and then just click add. Now, you can, for example, ask it to find 10
+channels that started less than 60 days ago and already have 500,000 total views, and it's just going to tell
+you the channels, and it's going to tell you their stats as well, including the RPM or how much they're
+potentially making every month. And at the moment, you can do this for free, but obviously, they're they're
+probably going to try and upsell you different things, so you don't have to pay for anything, and you
+shouldn't. Use it only while it's free. If it's no longer free by the time you're watching this video, here's
+what you can do. You can ask Claude with any account with no other AI tools to find some channel topics that
+you can cover that would attract an audience that can watch 25-minute-long videos, audience primarily Western,
+and ideally people that are 40 and older. And then once it gives you some ideas, you can copy those keywords,
+you can paste them into the YouTube search bar, then click on filter, upload date this month, and oh, you can
+also, optionally, prioritize by popularity. And this is just going to show you the most popular videos on that
+subject in the last 30 days, and you can just take out those subjects because, for example, this channel over
+here only has 18K subscribers, but in the first 2 weeks, they got 53,000 views. So, perhaps that's a topic
+that's really hot right now in that niche. So, this allows you to research niches and channels and video ideas
+for free. Number five is to stop hunting for the perfect niche. This is a question that I get a lot, and it is
+like, "How do I find a perfect niche that I know will get views and make me money?" And the honest answer is
+that that niche usually doesn't exist because if a niche has low competition, it's normally low competition
+for a reason, which is that there's no real money or demand sitting there. But what I can tell you is that
+this is my holy trinity of high profit niches. Basically, anything that allows you to make long videos,
+attractive audience above the age of 40. That way you're maximizing your revenue per view because those people
+are more likely to spend money on YouTube. Next up, I wouldn't rely just on ad revenue, but I would sell
+digital products. There are a lot of faceless channels This is not a real person, by the way. This is an AI
+avatar that sell PDF guides and digital products right now. And most of my faceless channels make five times
+more money from digital products than they do from ad revenue. Because if you think about it, the reason
+you're even earning money from ads is because someone is spending money to show ads to your audience, and then
+YouTube is just splitting that ad revenue with you almost 50/50. So, when you make $10,000 in ad revenue, that
+means that someone spent at least $20,000 to show ads on your channel. And the reason they spent that much is
+because they probably made more by selling something to your audience. And so, that's why we're seeing more
+and more faceless channels that just do that directly. They just sell different things with their channels
+even though most of it looks like AI slop, but still works very well. All right, next up we're going to talk
+about how to fix the zero views problem because I know a lot of you are stuck on this. You're not getting
+enough views. And the first thing we want to do is we don't want to look at the view count. We actually just
+want to look at impressions. So, you're going to open up your YouTube studio. You're going to go to one of the
+videos that you've posted. You're going to go to the analytics and then click on reach, and that's going to
+show you the impressions. If you are getting impressions, but you're not getting any clicks, and your
+click-through rate is below 5%, that means that you immediately have to change title or thumbnail or both. If
+you are seeing impressions here, YouTube algorithm is trying to get you views, but you didn't do a good job at
+packaging your video and no one is clicking. But, if you are getting almost no impressions at all, that means
+that YouTube likely doesn't know yet who to show your videos to. And this can be the reason that perhaps you
+just started your YouTube channel and you only have a couple of videos, so it takes a little bit of time for
+the algorithm to figure out who to even push these videos to. Or you're just making one of the 11 mistakes
+that I spoke about in my last video on this exact same channel. Either way, one of the cool fixes, now if you
+are using Solo AI, you can go to YouTube Performance Analyzer. You can just copy your YouTube link, paste it
+in this box, click collect video, and right here where it asks you for the analytics, just go to this page,
+upload at least three different screenshots where you show your reach and ideally your retention graph as
+well. You can also manually confirm your metrics, and then just click generate diagnosis, and it's going to
+tell you exactly what's going on, how many views you have missed, why you're not getting views, it's going to
+recommend different titles that you should test, different thumbnail fixes, and then at the bottom, it's even
+going to give you a checklist of things that you should do in order to actually revive that video. Number
+eight, quit the channel that's not working. If you've been posting for a while, like you have at least 10
+videos on your channel and none of them are getting any traction, just let it go. If you don't feel excited
+about the niche anymore, it, just let it go. And especially if you're not getting any impressions after 10
+uploads, it means that YouTube had basically decided that it doesn't trust that channel, and there's usually
+no magic button that you have to click on to fix that. But if you are getting impressions and you're just not
+getting clicks, that's a different story. That means the channel is alive, you just need to fix something
+about ideas or packaging. And this is really where running multiple channels pays off because again, you are
+collecting data from different points, and you can also just give up on the channel that you don't really like
+anymore. Next, a lot of you are asking me, how do I even find all of these faceless channels that are blowing
+up and then I model what's working from them. I'm usually looking at channels that are new but already getting
+a lot of views. Like a channel with only five to 10 videos, but in total, they got at least 500,000 views. So
+I'm hunting for the outliers, the videos that are doing way more views than the channel subscriber count,
+because basically that's the algorithm screaming at you telling you that this subject is hot right now. And
+then I go make videos on the stuff they haven't covered yet in the same lane. And especially if you find new
+faceless channels and you go to their most popular videos and videos from about a month ago have a lot more
+views than they have subscribers, you need to model that. Next one is the most boring on the entire list and
+that's your channel settings. Here's what you got to do especially if this is your brand new channel. You're
+going to go to channel settings. You're going to go to your channel right here, basic info and then to the
+keywords just enter five to 10 keywords that are actually related to your channel. If you spam with random
+keywords not related to your channel just so you can try and trick the algorithm to get you views, you will
+not get the best results. Then go to advanced settings, select no this channel was not made for kids. Then go
+to feature eligibility and make sure all of these three are enabled and you've verified your account. Next up
+in the upload defaults, if there are some default links that you would love to always have in your
+description, just paste them here and it will stay there forever until you remove them of course or change
+them. Then go to advanced settings and make sure to unselect automatic chapters and key moments. Then go to
+community moderation and if you see any scams being promoted in your comments, block all of those words. If
+anyone is spamming this is AI, this is an AI voice, make sure to put them here so even when they comment,
+those comments are just not going to show up. Next up you want to fix your hooks. You basically have less than
+15 seconds to convince someone to watch the rest of the video and that's really, really important. And instead
+of asking AI for generic hooks which are based on nothing because ChatGPT doesn't have access to YouTube data,
+I've actually compiled a list of hooks from the most popular videos on different channels and I made them into
+frameworks. So these are the first lines of videos that are already getting millions of views and I just made
+a list you can then adjust this framework to your own niche and to your own videos and you have viral proven
+hooks that work. I've compiled this list, it is completely free inside of my free community. When you go to
+the classroom, go to AI systems, click on hooks on the left side, and you'll find a document here. Next up,
+you need to start AI maxing. YouTube is investing billions of dollars in building AI tools for creators, and I
+mean their CEO really loves AI. I feel like that they're now rewarding channels that do use AI compared to
+those that do not. And I mean all my monetized faceless channels use AI. YouTube built VIO 3 for video
+generation. They built Re Imagine AI for YouTube shorts. They own Gemini. They're baking AI directly into
+YouTube studio, and they built Google AI studio for voices. Now, I'm not saying that you should stop making
+good videos and start pumping AI slope, but I'm saying that you should find a way to use AI in your content.
+Whether it's to use the native AI tool Ask Studio directly in your YouTube studio that summarizes your
+comments or gives you new video ideas, or you use Gemini to research your scripts, or you use that Re Imagine
+AI for your shorts. Whatever it is, you should bake a little bit of AI in your content to make it better and
+faster and cheaper. Honestly, there's no real pride in doing everything the hard way just to say you did it
+yourself because while you're refusing to touch any of this, creators that are using AI to create content
+that's again better, faster, and cheaper are going to get all the views. And viewers don't really care how you
+made a video as long as the video is good and valuable. There's plenty of ways to use AI the right way that
+actually make your content better. Next up, you want to make every video say something new. This new AI
+algorithm reads your transcript and tries to figure out whether you shared something that everyone already
+knows and is generic or whether you have something that's obscure and novel because if you don't bring
+anything new to the table, there's no reason for the YouTube algorithm to show your videos to a wider
+audience. Why would they? So, I've created this prompt where you can say, "I'm writing a YouTube video title."
+and then just paste your title. "I want this video to feel new and unlike something people have already heard
+before. Find lesser known facts, obscure details, surprising insights." and just do the research and give me
+10 unique points that I can use in this video. And then we submit that, and then Claude does the research and
+finds these facts, so we can share something that people are not already sharing. Number 14, use Google Gemini
+that's baked into your studio. Next time you log in, click on this button here to ask studio, and this is
+where you can ask it to like summarize comments, suggest new video ideas. You can even ask it like based on
+what people are commenting and other channels they're watching, what are some of the things I should address
+in my videos next? So, it's kind of going to feel like you're reading your viewers' minds, and this is really
+cool because it's all done automatically for you for free. Like, this is YouTube building AI tools for
+creators because they love AI. For example, this is where I saw the point that I made in this video about
+fact-checking your scripts. Lastly, if you are just starting out, make sure to watch this video next. It's
+basically a free course that I've posted on YouTube and I mean, the most liked comment says that it's worth
+more than a $900 course he bought, and it's completely free. Like, you can watch it simply by clicking on this
+box right here, and uh I'll see you there. There's tons of free value.

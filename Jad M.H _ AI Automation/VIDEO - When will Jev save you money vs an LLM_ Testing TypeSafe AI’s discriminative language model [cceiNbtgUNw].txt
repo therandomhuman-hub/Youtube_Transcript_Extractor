@@ -1,0 +1,62 @@
+Title: When will Jev save you money vs an LLM? Testing TypeSafe AI’s discriminative language model
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: cceiNbtgUNw
+URL: https://www.youtube.com/watch?v=cceiNbtgUNw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:17:32+00:00
+
+Kind: captions Language: en There's a new AI that just came out and it can talk, it can write you an email, it
+can answer a question, it can even say hello to you. And somehow it went really viral. Tens of a millions
+viewers in two days and the company raised $40 million before anyone was even using it. Sounds super strange,
+right? It's not. This thing is around 200 times faster and 400 times cheaper than the AI you're using right
+now. If you run any kind of business, this is the part that should make you actually sit down. So in this
+video I'll explain you in super simple words what it actually is and what you can do with it. No technical
+stuff, I promise and I'm not sponsored, I'm not getting paid for this. If you get a value out of it, just
+leave a like and a follow, it'll mean a lot to me. So it's called Jeff and it's made by a company called
+Type-Safe AI. The guy who built it is one of the people who helped create ChatGPT and for some reasons he went
+quiet for two years and came back with this. Here's the thing that you need to understand. ChatGPT, Claude,
+all of them, they write you a paragraph. That's [music] what they're built for. Jeff doesn't write anything of
+that. Jeff only decides. You give it a situation and you give it the options and it picks one. That's it.
+[music] It can answer yes or no, it can pick one thing from a list you give it or it can give it a score, like
+rate this from one to 10. So for example, an email comes in, ChatGPT would write you a summary of it. Jeff
+just says this is a billing question, this person is angry, [music] nine out of 10, send it to this team,
+done, no writing, just the answer. And this is why it's actually so fast. Think about when you watch ChatGPT
+answer, you use it typing word by word and you sit there waiting. That's AI thinking out loud, it takes
+seconds. Jeff doesn't type anything. So there's nothing to wait for. It answers in less than half a second. >>
+[music] >> Most of the time it's about a tenth of a second, which is kind of like faster than you can notice.
+And because it doesn't write, you're not paying for all those words. You only pay for what you sent. And
+honestly, it's it's pennies. So, let me make this clear because numbers like 200 times cheaper don't mean
+anything until you see that. Somebody took a thousand emails and asked the AI seven questions about each one.
+Is this a scam? Is this urgent? Who should it handle it? A normal AI model took five minutes and cost 62
+cents. Jeff did it the same thing in 60 seconds for 9 cents. Then if you were running a million of these
+decisions every month, you'd be paying around $42. That's the whole bill. Now, I'm going to tell you the
+dream. Jeff cannot write. It cannot explain itself. It can't tell you why it chose something. It's also bad
+with numbers and dates. And you can't feed it huge documents. They only can handle small amounts of text at a
+time. [music] So, the way I think about this is this. ChatGPT is the brain and Jeff is the hands. The brain is
+slow and expensive and smart. The hands are fast and cheap. They just do the same thing. You want both. And by
+the way, the company themselves are the ones telling you all of this, which honestly, I respect. Okay. So, now
+can you actually do something with it? Let me give you six things that you can possibly do. The first one is
+customer support. Every message that comes in gets read, sorted, and sent to the right person instantly. The
+second thing is leads. You can score somebody while you're still typing in your phone. Third thing is spam and
+AI slop. You can clean your inbox or your feed in real time. You can go through thousands of them and flag the
+risky ones for pennies again. And the fifth one is testing. You can have it click through your website every
+day looking for things that are broken. And the last one is safety. You can have it check what your AI is
+about to say to a customer before they ever see it. Every single one of them was possible before. The
+difference is nobody could afford doing it. Now you can. And if you do automations for clients, this is the
+place. It's super simple. There's just three steps. [music] Step one, find the slow parts. Every business has
+moments where humans is sorting something >> [music] >> or they're waiting on a slow AI to decide something.
+The second step, put Jeff in front of it. It decides in 10th of a second and the expensive AI only gets used
+when it's really needed. Step three, and this is like genuinely the most important one, you charge for the
+results, not for the [music] tool. Nobody cares what model you use. They care what their inbox sorts itself
+and their good leads get called first. [music] Your cost would be around like a few dollars a month and you do
+the math on that. So if you want to try it yourself, there are two ways. You can go on typesafe.ai and join
+the waiting list or if you don't want to wait, it's already on openrouter so you can use it today. But one
+last thing, and this is me being honest with you. Every number I said in the the 200 times >> [music] >>
+faster, the 400 times cheaper, all of it comes from the company itself. Nobody outside has tested it yet. So
+try it on your own stuff before you promise anything to a client. Everything I use will be in my school
+community. As you know, I'm not gatekeeping any of this. Let me know in the comments what you would build with
+it or what business you're in and I'll try and help as much as possible. I really appreciate you sticking all
+the way to the end of this video. If you can leave a like and a follow, it would mean a lot to me and I'll see
+you on the next one.

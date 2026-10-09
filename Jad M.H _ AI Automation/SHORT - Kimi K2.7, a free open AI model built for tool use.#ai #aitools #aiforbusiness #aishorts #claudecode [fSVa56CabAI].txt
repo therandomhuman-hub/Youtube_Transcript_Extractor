@@ -1,0 +1,17 @@
+Title: Kimi K2.7, a free open AI model built for tool use.#ai #aitools #aiforbusiness #aishorts #claudecode
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: fSVa56CabAI
+URL: https://www.youtube.com/watch?v=fSVa56CabAI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:54:43+00:00
+
+Kind: captions Language: en Forget about paying for a top model just to run your agents. This free one just
+beat them at the thing that actually matters. >> [music] >> It's called Gimme Key 2.7 code. It's open and it's
+built for one job, actually using your tools. As you know, most models can write code, but then the second you
+hand them an agent that has to call APIs and run real steps, they get sloppy. Gimme Key 2.7 is tuned exactly
+for that. It's topping the tools used charts and it thinks where with about 30% fewer wasted tokens than the
+last version. So, it's faster and cheaper. And because it's open way, you just plug it in as the engine behind
+Claude code or your own agents and run it for pennies compared to the paid models. Comment Gimme and I'll send
+you the setup and the way to plug it in directly.

@@ -1,0 +1,84 @@
+Title: I Tested GPT-6.1 Sol vs Opus 5.5 (WILD RESULTS)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 6ASYIAUUdJM
+URL: https://www.youtube.com/watch?v=6ASYIAUUdJM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:13:39+00:00
+
+Kind: captions Language: en So, OpenAI just dropped GPT-6.1-Soul. It's their answer to Claude-Opus-5.5. And
+they're saying it's almost as smart as their top model for a fraction of their price. So, I put that to the
+test, but not with a game this time, and not with a to-do list. With something a real business would actually
+pay for. I gave both models the same exact prompt. Build an app where contractors scan a room with their
+phone, sees it's in 3D, and hands the customer a price quote they can sign. All under two minutes. And there's
+only one correct price at the end. So, by the end of this video, you'll know exactly which one got it right,
+how long it took, and what it cost. So, let's get right into it. So, first, why this app? If you ever had a
+room painted, or floors put in, you know how it goes. Someone comes over, measures every wall with a tape,
+writes it all down, goes home, does the math at night, and then you get a quote a few days later. And a lot of
+the time, whoever sends the first quote gets the job. So, imagine this instead. The contractor walks in, scans
+the room with their phone, and then the customer picks a paint a color, and the floor right there. They see
+it's in 3D, they see the price, and they design it on the spot. So, basically, that's the app. Let's really
+talk about money, because that's the whole pitch of Soul. GPT-6.1-Soul cost $2 per million token going in, and
+then $10 coming out. Opus-5.5 is $4 in, and 20 out. So, Soul is half the price of Opus. And OpenAI's own team
+says Soul is almost as good as their top model on the benchmark. But, where it falls behind, most of it is
+used using a computer in making professional documents. And a quote for a customer, that's a professional
+document. So, we're testing Soul right where OpenAI says it's at their weakest. So, here's the prompt I gave
+them both, word for word, the same. One single file, no server, no pay tools, nothing to install, and it has
+to work on a normal phone. So, the first step is to scan your QR code, and the app opens on your phone. Step
+two, the camera turns on, and the AI has to spot the furniture in the room live, the sofa, the chair, the TV.
+And then there is the step three, it measures the room. Step four, it builds the room in 3D like a little
+dollhouse you can spin around with your finger. The fifth step, you pick a paint color and floor and the 3D
+room changes instantly. Sixth step, it prices everything, makes a branded quote, and the customer signs in
+with their finger. And that's really what makes it hard, it's not one app, it's five apps in one, an AI
+recognizing furniture, a 3D model, calculator, and a contract. And all of it has to work on a phone. Now, >>
+[music] >> I want to be up front about one thing, some iPhones have special sensors called LiDAR that can
+measure a room almost perfectly, but only real apps from the App Store get to use it. Our website can't. So, I
+told both models, don't fake it, if you didn't actually measure a number, you have to show it in the estimate
+because if a contractor quotes a fake measurement, they lose money, and I'm going to check if they listened.
+And to make it fair, I made both of them build the same sample room with the same prices, 16 ft, 12 and 8-ft
+ceiling, one door, two windows, and six pieces of furniture. Paint the walls, paint the ceilings, new vinyl
+floor, baseboards, move the furniture, plus tax. If you do the math, the right answer is $3,104. So, if the
+app gets the number wrong, that's the contractor either losing money or losing the customer. So, here's what
+I'm scoring. One, does the scan actually work on my phone? Two, >> [music] >> does it get the price right?
+Three, does the quote look good enough to show it to a real customer? and how long did it take and what did it
+cost. All right, let's test both of them right now. Okay, so the first one that we're looking at right now,
+this is made by OpenAI ChatGPT. So I tried the scanner, it's not really working and it did get the price right
+>> [music] >> what it's supposed to do. So that's a good thing. Now let's just click on the try sample. In
+here I'm able to change the colors, it looks pretty good. [music] I'm able to drag Oh, okay. The 3D I'm able
+to scan to zoom also able to zoom in. Looks pretty clean actually. Okay. It has the measurements. Can I modify
+also the measurements? Okay, it looks like I can change the measurements right here. If I put a 15 the price
+is changed also here. So good [music] and change the floor. It's pretty good. You can either measure manually
+or you can use your phone to scan. This looks really clean actually. I really like it so far from one simple
+prompt this looks pretty and you can remove things here. So what if I click on review customer your room
+renewed? Okay, the deposit financial accounts review and then yeah, they can just sign here. Okay, it looks
+like it's working. I can download the PDF which right here. Wow, this looks great actually. Yeah, all right.
+I'm pretty satisfied for 51 minutes and it cost it really like a dollar and 36 if I'm not mistaken. Amazing
+work really. So now let's try Opus 5.5. This is what Opus 5.5 made. So far you can scan a code here also not
+working which makes sense. So what here looks more vibe coded. I'm not a big fan of dark theme but that's just
+preference obviously. Can change. Okay. [music] So you can either put it manually pass quotes. I can just try
+sample. Oh wow, this looks I would say more realistic, especially when it comes to the library. Zoom in also
+works. Yeah, it looks more clean when it comes to the interior, actually. I like that the walls come down,
+too. So, if I click on the total, it's the same thing. So, we got that right with the quote, and I can change
+in here. What is nice, and I was not able to do in GBT, is click directly in here and change the dimensions.
+So, like what if I put 13, would it change the price? And it does change the price. Interesting. I'm also able
+to add a window in here. Oh wow, it really did just add a window right there. If I click on plan, maybe clean
+work, really. Floor items, it shows what items are in there. I can add the furniture, apparently. I can add
+the fridge. Can I drag the fridge? No, I cannot drag the fridge. Pretty solid, actually. And see quotes. This
+looks really vibe coded in here, but that's fine. And then, present to clients. They can also sign. Okay.
+Then, download PDF. Wow, this is pretty cool. Look at this one. Okay. They have my signature in there. Oh, I
+need to accept the quote. And I get an animation, and then I can just download it right there. And there's my
+signature, and it's accepted. Amazing. [music] Clean work. Okay, let's put it side by side. Opus 5.5, it took
+1 hour and 3 minutes, and it cost about $3. [music] GBT 6.1 Sol, it took 51 minutes, and it cost about $1.36.
+Now, remember, Sol is half the price per token. So, the real question isn't just who built the better app.
+It's Opus worth paying double for? The winner is up to you, but honestly, here's the part that matters. If you
+run a business, not long ago, an app like this meant hiring a developer for weeks. Today, you type one prompt,
+and you can get a working prototype in a few minutes. Is it ready to hand to your customer tomorrow? No, it's
+a prototype, but it's a real starting point >> [music] >> for a tiny fraction of what it used to cost. And
+this isn't just for painters, it's for roofers, cleaners, landscapers, anyone who has to go look at a job
+before they can give a price. This is kind of the tool that you can now build for your own business. So, tell
+me in the comments what kind of business should I make them build software for next. I'll pick the best one
+for the next video. Uh at the moment, I'm testing dots that it just got released yesterday by DevDay. And if
+you feel like you got something out of this video, please leave a subscribe. It generally helps me to keep
+making these videos. I genuinely appreciate you sticking all the way to you to the end, [music] and I'll see
+you on the next one.

@@ -1,0 +1,16 @@
+Title: Comment **ULTRA** and I’ll send it over. #ClaudeCode #AI #Coding #AIAgents #DevTools
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: y41dsFX3P7M
+URL: https://www.youtube.com/watch?v=y41dsFX3P7M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:16:04+00:00
+
+Kind: captions Language: en Clothcode has a review code, it will never offer you. You have to type it
+yourself. It's called /codereview. The top setting is ultra. Ultra puts multiple agents on your code at once.
+They [music] each check it separately, then check each other's work. So, you don't end up with a huge list of
+stuff that isn't actually broken. All you do is type with nothing after [music] it, and it will review
+whatever you're working on right now, or add a pull request number, and it will review it instead. So, you
+don't even need it on GitHub, as long as you're in the GitHub repo, it [music] will package your branch and
+review it. If you're on the command, just comment ultra and then it will DM it to you.

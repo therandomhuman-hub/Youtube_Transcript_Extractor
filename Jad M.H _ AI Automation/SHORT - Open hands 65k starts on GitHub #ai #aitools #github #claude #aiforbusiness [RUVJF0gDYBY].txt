@@ -1,0 +1,18 @@
+Title: Open hands 65k starts on GitHub #ai #aitools #github #claude #aiforbusiness
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: RUVJF0gDYBY
+URL: https://www.youtube.com/watch?v=RUVJF0gDYBY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:49:40+00:00
+
+Kind: captions Language: en There's a free tool, open-source coding agent sitting at 65,000 stars on GitHub,
+and companies are running in it production instead of paying for tools like Devin. It's called OpenHands. You
+point out a task, and it writes the code, runs it, reads the errors, and fixes them, looping until the job is
+actually done. The same way a real developer works, and because it's open-source, you can host it yourself, so
+your code never has to leave your machine. There is a catch, though. It's bring your own model. The software
+itself is completely free, but it runs on the top of an AI model you plug in with an API key. So, the model
+behind it can still cost you. Pair it with a free open model through, and you can get the bill down closer to
+zero. I made a setup guide that walks you from install to your first working task. Comment OpenHands now,
+I'mma send it over.

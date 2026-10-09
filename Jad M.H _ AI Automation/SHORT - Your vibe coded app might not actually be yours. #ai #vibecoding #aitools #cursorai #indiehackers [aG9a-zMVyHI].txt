@@ -1,0 +1,27 @@
+Title: Your vibe coded app might not actually be yours. #ai #vibecoding #aitools #cursorai #indiehackers
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: aG9a-zMVyHI
+URL: https://www.youtube.com/watch?v=aG9a-zMVyHI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T21:06:09+00:00
+
+Kind: captions Language: en Okay, if you vibe code in an app, you got to stop scrolling right now because the
+thing you think you own, you might not actually own it and nobody told you about this. Here's the part that
+breaks founders. It's not that open AI or cursor is going to steal your code. They're obviously not going to
+steal it. It's worse. Copyright in the US needs a human author and the copyright office said pretty
+straightforward, typing prompts, even the genius ones, doesn't make you the author. So, that code your AI
+generated and you just shipped, legally it might not belong to your clients, to you or to no one else. So,
+basically what that means, a competitor can copy line for line and you've got nothing to it. And here's the
+annoying part. You're not going to see this today or tomorrow or the next week. It's the time that you're
+trying to raise money or sell or stop a copycat. Someone in a suitcase will definitely ask you who wrote that
+code. And if you say the AI did, that doesn't close the round. Another thing that you might know, AI quietly
+hands you open source codes with license strings that force you to give your whole code base away. That's what
+shows up in the due diligence. Okay, where do we go from here and how do we fix this problem? Obviously, you
+don't have to stop vibe coding. It's a superpower and we love to vibe code. Just document what's AI generated,
+make real human edits, scan your dependencies. A working app and an app you actually own are two different
+things. Most founders find find out which ones they have when it's already too late. Come on, own and I'll DM
+you the full checklist, what documents, what the scans and the exact steps to lock down your code before you
+raise or you sell the company. If you like this type of content, leave me a like and a follow. It really
+pushes me to make more content. I'll see you in the next one.

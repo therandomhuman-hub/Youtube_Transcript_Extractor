@@ -1,0 +1,180 @@
+Title: NEW Faceless Channel Got 4M Views First 30 Days! (FULL GUIDE)
+Channel: One Person Business
+Type: VIDEO
+Video ID: 7rYRDetqRck
+URL: https://www.youtube.com/watch?v=7rYRDetqRck
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:43:21+00:00
+
+Kind: captions Language: en This faceless channel started less than 30 days ago, and from ad revenue so far,
+they've done this much. So, I spent the last week creating this entire Notion document with all of the prompts
+you can copy and paste to replicate a channel like this. And honestly, over the past 15 years of me doing
+YouTube automation, I can tell you for a fact that things that are happening in 2026 have never really
+happened before. This genuinely is the golden era of YouTube, and anyone that starts a YouTube channel can now
+compete with channels that have been around for years and have millions of subscribers like this one over here
+just started out, and their first video got 4.5 million views even though they had zero subscribers before
+that. Or this channel as well, their first video 3 weeks ago, 2.5 million views even though before that they
+had zero subs. That's why we're seeing more and more of these channels that within their first 30 days get
+insane results. The YouTube algorithm has completely changed. Side note, for anyone wondering, I'm not in my
+usual setup, as you can see. Unfortunately, the city where I live in, Dubai, is currently getting bombed, so I
+had to move out and probably won't be back for a while, and all my play buttons, camera equipment, it's all
+there. So, for now, the setup is going to be this kitchen in an Airbnb. Anyways, let's begin with channel
+Break Now. So, the channel is called Faloon. They have 49,000 subscribers, but they only started 1 month ago.
+Their very first upload has 2.5 million views, and as you can see, they have these very unique animation
+style, which is generated with AI. And I'm going to show you exactly how to do that. Scripts are AI, voice is
+AI, captions are AI, and even thumbnails are AI. In less than 30 days, they got almost 5 million views. Now,
+in order to access this Notion template, which has all of the steps and all of the prompts you can copy and
+paste, you're simply going to go to my free community that I will link below, then go to the classroom over
+here, go to AI systems. All of this is completely free, and then just go to AI YouTube systems and find Faloon
+and click on access the system here, and that's going to open up this Notion template. Now, step number one,
+once you open up ChatGPT, you're going to copy and paste this prompt the YouTube channel name idea. I really
+like cat sounds, so I'm going to go with that one. Step number two, now we need to generate a profile picture.
+For this, I'm just going to go over to Google Gemini. They just launched the Nano Banana 2, which is
+incredible at generating images. I dare you to try it. Just go to tools, click on create image, and you'll
+find this prompt that you can copy and paste. Now, I'm going to use just the fast version, but if you want
+better results, then select Nano Banana Pro. It's going to take a little bit more time, but the result you get
+will be much better. Now that we have a profile picture, I will just download it. I will now just go to my
+YouTube channel. I will then go to customization on the left side. I will upload this profile picture, click
+done, and click publish. Step number three, we need some video ideas, and the easiest way to find video ideas
+is to just go to the channel that you're trying to recreate, and then take a screenshot of their latest
+uploads. Now, if you have access to this Notion document from my free community, then you don't have to worry.
+You can just copy this prompt. You can download the screenshot that I've already made for you. You just press
+on the download button, and then go over to ChatGPT, upload that screenshot, you can just drag and drop it,
+and then alongside that screenshot, paste that prompt from the Notion document, and ChatGPT will now analyze
+that channel. It will analyze their videos, and then it will follow the prompt to first of all give you
+instructions on how to find future video ideas for this kind of niche, but it's also going to give you exact
+video ideas that you can make, unique frameworks, and unique titles. So, for example, I can grab this title. I
+can grab more of these titles. And at the end, we're actually going to get a full list of video ideas that we
+can take. So, we have we go with 20 new video ideas using these frameworks, and here we go. Here's the first
+one, here's the second one. Ooh, look at this one. Why our cat suddenly runs around the house at night. This
+is an incredible one. There's a lot of curiosity here. Step number four, all right, here comes the juicy part.
+Now, we need to generate scripts for this YouTube channel. And we can use this absolutely free AI tool made by
+Google. When you go over to Notebook LM, just click on try Notebook LM, and then open up a new notebook. It's
+going to start creating everything from scratch, and then go to the channel of your choice, and you're going
+to simply copy links to their YouTube videos, and then you can paste them when you click on websites here. You
+can paste multiple links and click insert. So, now Notebook LM will analyze their writing, will analyze their
+videos and styles, and based on that, when you attach this prompt from the document, will write a brand new
+script in that exact same style. So, we're going to paste this here. We just need to insert our title. So,
+remember, I chose this title because it's damn juicy to use. I'll I'll grab it here. I'll paste it in this
+box, and I'll simply submit. So, now Notebook LM, after analyzing all the videos on their channel, will take
+that style and will write a new unique script in that same style, but just for a brand new video that I will
+use in my channel. And there we go, the script is now being written completely free of charge. If you stay
+until the end of this video, I will show you how to make more money from your faceless channels, so make sure
+to keep watching. But for now, let's move on to step number five, which is to generate a voiceover. So, we're
+going to go over to Eleven Labs, which is the best AI tool for generating voiceovers. There are some free
+alternatives. There is Google AI Studio, where you can generate speech, you can generate voices. So, over
+here, just select single speaker audio, and then you can choose the voice from the left side and then paste
+the script here, but it's incredibly slow. It only has a handful of voices to choose from, and it's not going
+to be as good as if you use a tool like Eleven Labs or any other tool of your choice. Though, this one is
+free. So, if you don't want to invest any money, just go with Google AI Studio. But I'm going to go with this
+one because on the left-hand side, I can pick and choose different voices. If I go to voices section, I can
+filter through high-quality voices, and I can select age, for example, middle age, and then I can just find a
+voice that I want. I also want these voices to be in English. I'm not interested in other languages, and then
+I'll just choose which one I like the most. And once I have it, I will simply go and create text-to-speech.
+I'm going to use Eleven Labs version two because it spends way less credits, and then I just need to go back
+to Notebook LM and grab my script. So, let's pretend like I've copied the entire script, though I'm just going
+to do the first line to speed up the process. Now, I just need to find a voice on the right side, click
+generate speech, and the voiceover is done. I don't have to pay a voiceover artist. I don't have to read this
+into the microphone. I can just download it to my computer, and I'm ready to go. Step number six, now you're
+wondering, "Dave, but how can I make this style of animation without spending thousands of dollars on
+animation without actually drawing this myself manually?" You don't have to do that. This person is not doing
+that. What this person is doing is they're using AI the smarter way. So, as an example, I'm just going to take
+a screenshot of one of these scenes. So, if I like this scene or this style, I'll just take a screenshot like
+this. Here I have an example, and I'll get that, and then I'll just go over to ChatGPT, and this applies to
+literally any channel that you find. You can just go to ChatGPT, and you can just ask it to create a detailed
+JSON prompt to recreate the same animation, the same illustration, the same image, and it's going to give you
+this so-called JSON prompt that is very detailed that then allows you to recreate this style of image, but
+it's not going to be the same photos. So, you're not stealing anything. You're just taking it as a reference
+style. And then you just go back to your friend Google Gemini, and then you select Nano Banana, you copy this
+JSON prompt, you paste it in this box, and you submit. And what do we have here? We have a brand new animation
+that we can use. Now, I can just tell it to remove the text base of there. We don't want the text, right? We
+don't want any of that stuff. That was just taken from a screenshot. We'll We'll just remove it. And again, I
+only use fast Nano Banana. If I used Pro version of Nano Banana, I would get an even better image. Now, I'm
+simply going to download this to my device. Now, you can see that unfortunately, Google Gemini leaves this
+watermark over here. So, to remove that, it's pretty easy and fast. Just go over to Adobe Firefly, drag and
+drop that image, and click remove, and just highlight that part, click remove, and there you go. So, it's
+called Adobe Firefly. Just scroll down, and you'll find it over here. It's free. Now, you might be saying,
+"Dave, but their animation moves. It's not just a static image." Sometimes these videos do have some sort of
+movement in all of these images, but some of them do. Like if you open up the first scene, it usually does
+change a little bit. And you would be damn right if you think that because they animate their first few
+scenes, not the entire video, but they animate the first few scenes inside of Kling AI. So, when you go over
+here, just go to video generation. Here you can see I'm already making some animation from literally just
+uploading a reference photo. I just put it inside of this box, drag and drop, and just click generate, and
+they will add movement to my image. They will animate my image, and then I can just download it with one press
+of a button. So, this can go with the first three or four scenes just to get the ball rolling, and then after
+that, it can just be a static image like we can see here. This is a completely static image. Some of them
+change, most of them are static. So, you don't have to animate all of them, but some of them you can in Kling
+AI. All right, for the next step, we need to create these YouTube thumbnails. And this is very important
+because this is probably the main reason why they're getting so many views. So, I've developed this massive
+prompt that we can copy from the Notion document, but we just have to replace this thing in red in order to
+describe the scene that we want. So, here we have, like I said, cat sitting. Or here we have a happy cat. Or
+here we have a confused cat. So, just go over to Google Gemini, paste this in this box. I'm going to select
+Nano Banana Pro for this, and we just have to replace this part. We just have to describe what we want the
+scene to be. So, let's say I just want an orange cat placing its paw on slipping human chest, and I'll submit
+it. Here's an example of thumbnail that I've generated earlier, so it's pretty cool to use. But let's see what
+Nano Banana comes up this time. Whoa, this is insane. So, now I'm going to download this image. This is
+incredible. I love this. Then I will see I want to add some text to my thumbnail, the same way that they do.
+Add some text, though I believe my thumbnails are even better. But anyways, I'm going to go back here. I'll
+drag and drop. Let me know in the comments if you think that my thumbnails are better, if this image is much
+better than what they have. I forgot to remove the logo of Gemini, so I'll just go back to Adobe Firefly,
+remove this first because I don't want people to think that I'm using AI. Clearly, we are not, right? I
+obviously spent hours drawing out these illustrations and images. That's why I need to be getting millions of
+views from these videos. Now that we have it, I will just duplicate this page and I will remove the
+background. I will then go back to ChatGPT and I will ask it, "What's good thumbnail text for this video that
+would provoke curiosity, open curiosity gaps, and make people want to click?" Oh, I love this one. "Don't
+ignore this." This is a really good thumbnail text. I love how ChatGPT is getting better at this by the day
+because if you used it last year, it was not that good, especially not for YouTube. Most people neglected it.
+They tried it last year or 2 years ago and they were like, "Ah, this is not good." and they never used it
+again, which is a shame because at one point this is genuinely going to become better than most humans at
+developing YouTube videos and just understanding the psychology behind what works and what doesn't. I mean,
+look at this thumbnail. This is incredible. I'm going to download this, click share, click download as a PNG
+file. Next part of the Notion template talks about how to monetize your YouTube channel and different ways to
+benefit from posting these faceless videos because ad revenue is genuinely just a bonus and as I said, there's
+never been a better way to start a faceless channel. I mean, every single day I'm just adding brand new
+faceless channels that started less than 30 days ago and are getting insane results. I'm adding them to my
+secondary community online business club. So, if you're inside of there, you'll find so much inspiration and
+so many niches to choose from. Like even this channel that started 13 days ago and their first video got
+300,000 views. And many members inside OBC are already using faceless YouTube and AI to do some really
+incredible stuff without having to show their face and without having to record anything with a camera. It's
+beautiful to witness. Quick bonus tip for anyone that stayed all the way here. Here's how to 5x your revenue
+from the existing YouTube videos that you already made. There are two ways to do this. The first one is to
+start a compilation channel. So, here I've shown an example where someone made a channel called Trust Me, Bro
+that is a faceless channel and they made a separate channel Trust Me, Bro Compilation where they take the same
+videos, they just make a compilation, they just put together like multiple and now it's like 2 hours long and
+they post it on the second channel. And this is insane because they can put a little more ads. It's
+essentially new content but you already made those videos so you don't have to spend more money or time. Just
+put them together in like 2 minutes and you're ready to publish. You're just making a new thumbnail for that.
+Or someone's made a channel called Old Dude Explained and they just did the same kind of channel but in
+Spanish. And now you can do it in different languages like German, French, Dutch. Those are great languages to
+translate channels in. So, if you're already getting results on YouTube, you're already seeing that you are
+getting views and potentially getting monetized, then just take that same content, make a compilation channel
+or translate it to different languages. You would just translate the script, get a voiceover from 11Labs that
+is in Spanish or in Dutch or in German and just post it on the second channel. Keep in mind that YouTube is
+hard. Not every single channel that I start gets millions of views right away in the first 30 days. Not every
+single channel that all of these people start gets millions of views in the first 30 days. And even the ones
+that we have on this list that did get such incredible results in the first 30 days, perhaps it's not their
+first channel. It's not their first rodeo. Maybe they had four failed channels before that one hit. So, this
+is not a get-rich-quick scheme. This is not something where you can just post one video and instantly get
+millions of views and get rich. That's not how it works. It's never going to work in any niche. It's never
+going to work in any industry. You genuinely have to put effort but it's a beautiful business because you can
+be as creative as you want. You can start a channel on any topic. And even though in this case we talked about
+balloon, you don't have to start a channel about cats. You can just apply this strategy. You can apply these
+formulas to any other channel. You can just talk about pirates, talk about dinosaurs, talk about dogs, talk
+about anything else you want. Be as creative as you want. And if you create something new and fresh, you will
+get better results than copying someone word for word. Here for example, I've talked about how people are
+niche quilting. They're taking topics that have already performed well on other channels and they're just
+applying them to a different niche. So, there was this video about pirates, how every pirate died got 300,000
+views in 1 month. So, someone made a video about how every general died in World War II and they got more
+views even though they kind of copied the framework but they just applied it to a different niche. So, the
+same can be done with this. You just copy the framework and then you apply it to something else, to different
+animal, to a different niche, to different topic but the same subject, the same framework, the same formula.
+Also, last February 2025, I talked about how to stand out on YouTube by niche quilting and I made a trademark
+on this. But now I'm seeing that people are making videos and calling it slightly different. I've seen these
+guys talk about it as niche bending and they posted this 11 days ago. So, it's kind of incredible that things
+that we talk about in my communities, we're 1 year ahead of 99% of people because people are just now finding
+out about this thing. They're calling it like it's a new thing. They're like, "New YouTube strategy." And the
+funny thing is that now I'm seeing that people are even building their workshops and their entire brands off
+of this concept that I've made 1 year ago. So, if you want to be ahead of 99% of people and get things 1 year
+in advance, then make sure that you are inside of our community. Either way, I hope you got some value out of
+this tutorial and I will see you next time.

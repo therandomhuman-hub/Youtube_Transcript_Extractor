@@ -1,0 +1,17 @@
+Title: Run powerful AI on your Mac #aitools #ai #llm #aitools #aitips
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: cjYKkEtp69Q
+URL: https://www.youtube.com/watch?v=cjYKkEtp69Q
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:34:44+00:00
+
+Kind: captions Language: en You can run powerful AI right now on your Mac. No account, no subscription, and
+nothing ever leaving your computer. It's called Native. Instead of sending your questions off to some
+company's servers in the cloud, it runs open AI models. Chats, images, and code directly on your Mac's own
+chip. So, every single word is generated on your machine, and none of your data gets sent anywhere else or
+sold to anyone. There is no account to create, no credits to buy, nothing. And because it's built specifically
+for Apple's M-series chips, it actually runs faster instead of crawling. It's free and open source. The one
+catch is it's Apple silicon only. So, you will need an M-series Mac. Comment Mac and I'll send you the setup
+guide directly.

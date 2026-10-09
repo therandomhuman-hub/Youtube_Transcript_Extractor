@@ -1,0 +1,75 @@
+Title: How I Build INSANELY Beautiful Websites Using Claude Code (NO AI Slop)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: cuHWn5rFcmE
+URL: https://www.youtube.com/watch?v=cuHWn5rFcmE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:20:08+00:00
+
+Kind: captions Language: en Today I'll be showing you how to avoid AI slop websites and how to actually use
+elements to enrich your websites. As you guys can see here, these are some elements that makes that removes
+the vibe coded effects and adding some visual aspects, some videos, and also some motion graphics. I'm sure
+you've seen so many videos and so many websites that look like AI slop, but there is a catch. There are
+actually multiple factors we have to consider. One, if you're looking to build a website or if you're looking
+to sell a website or just building it for yourself, the one thing that I keep seeing that is very misleading
+for people that they say they have the ability to build a $10,000 website with Claude. That's not true. Claude
+cannot simply make a $10,000 website from just Claude design. There are 20 things you have to be telling
+Claude before launching a website. For example, the privacy policy, the term page, clear CTA, a fake you,
+robot.txt, sitemap.xml, custom 404, all text, analytics, meta tags, and the list actually goes on. Building
+and designing the websites is the simplest part of having a website. So today I'll be showing you how to
+design something proper and how to build properly with Claude, how to avoid AI slop as we've seen so many
+pre-made videos. Those are not converters for websites because we don't want our website to look mediocre and
+fail to convert. That's the most important thing. So today's goal is to build this exact website that I've
+already done and make it more responsive and give the user an experience. And in here we have this motion
+graphic that is amazing that adds this element of non-vibe coded effects and it's pretty smooth also for the
+scroll effect. So what should be the first thing you should do is basically try and find an image that you
+like. Personally, I like to use Pinterest. Uh Pinterest has so many beautiful designs and right there where
+you can see is I found the image for our hero section in Pinterest, but the frame is not what is supposed to
+be. So, what we will be doing is simply going to Hicksfield, change the frame and make it more high quality.
+So, as simple as it is, what I do here is simply just say turn this image into 8K and I'm using GBT image too.
+Well, you can also use Nano Banana. It's cheaper. It's just GBT image gives more detail and especially if it's
+going to be in a hero section, detail really does matter. So, what you can see here is basically I have
+multiple houses. So, I do is to save tokens, I lower the quality and I try to see which one aligns more with
+me, which was essentially this one and what I did is basically I used Nano Banana Pro, used 4K quality and I
+just said turn this image into 8K and once I did that, I took that image and I also made a night mode so we
+can have this effect on our website. Now, to save time for the both of us, we're going to open our Claude
+design or whatever platform you're using and we're simply just going to paste the prompt that is in the link
+in the description. I'm not gatekeeping any of this. It's fully in free so have a try yourself and I'm just
+going to copy all of it and paste it into Claude design and say build this for me. Now, once it's building,
+we're going to go in Figma and write the captions zero dollar bills behind the residential house. So, this
+part should be super simple. All we have to do is install our image that we like right here. We're going to
+take it. Okay, once it's installed, we're just going to drag it and drop it into Figma right there. So, now
+we're going to add the captions. Simply, we're just going to write it here. We're going to write $0. You guys
+cannot see it cuz it's too small. $0 bills. Make the size much, much more bigger. So, yeah. You go on
+typography and we're going to put it at 128. Actually, I don't think 128 is enough. So, we're going to type
+here 120. And we're going to change the writing style, the one that I did, I think it was Gold Man the app
+right there. We're going to bring it up. Going to drag it, bring it up there. And here. And right now, this is
+at regular. We're going to put it into bold right there. We're getting closer. So, you can see here it's much
+more nicer. What we only have to do is basically bring the writing behind the residential roof. So, now it
+should be super simple. All we have to do is basically at the bottom, you click on pen. And now we have to
+draw. You can zoom in and draw the lines of the house. So, let me do that right now. Put it here. And make
+sure you get the lines correctly to not make it look cheap. Now that we have our section, which you can see a
+little bit the line here. Let me control Z. We're going to change a little bit. All right. So, we're going to
+fill it up a little bit so we can see it right there. I think we're just going to keep it white for now. Or
+actually, let's put it dark cuz also the captions are white. Here it is. So, I'm going to take the captions,
+bring them down. Just right there. That's enough. If you're on MacBook, you click on command, shift, and $0
+bill. And at the top right, where you just click on subtract. And there it is. Yeah. There's a little bit too
+much spacing in there. So, we need to bring the captions a little bit closer to each other, but it looks good.
+This is how you do it and we can change a little bit the color fonts. So, this is the end result of the house
+and what I only have to do basically now is get the night mode effect that we already have in our hex field.
+So, we simply just go here and install this image and do the same thing over. So, I'm really going to skip
+this part. There it is, night mode, same thing as I did earlier with the day mode. Now, let's go check on our
+cloud design how it looks like. So, let me click on present. Let's do full screen. What we can see there are
+elements that are missing, the house and the day nights, the scroll effects. Okay, so the only thing I'm like
+genuinely missing are like just the images. Also, the animation works here and this section also proven
+results looks good. Okay, now let me go on Figma, grab those images and go find in Pinterest some images to
+put into this website. So, this is really the end result of the website as you have seen. It literally didn't
+take us no time whatsoever. It took me to record this video and make everything in 30 minutes all set and
+ready with the videos and the images. Only you can find them in Pinterest. Super simple. But as I said in the
+beginning of the website, the most important factor about the website as you know. Sure, the design is nice
+and it looks really appealing and it does help us to convert people into our landing page, but I do recommend
+to do all those factors, those 20 things that you need to have into your cloud. If you want to have access to
+all of that, it will be in my school community. As you guys see here, I basically put all the free resources.
+I'm not gatekeeping any of these things with the prompts and everything. How to build carousels or websites
+like is in bio.

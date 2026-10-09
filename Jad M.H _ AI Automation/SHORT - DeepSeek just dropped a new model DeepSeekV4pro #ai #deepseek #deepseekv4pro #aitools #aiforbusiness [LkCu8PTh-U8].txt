@@ -1,0 +1,18 @@
+Title: DeepSeek just dropped a new model DeepSeekV4pro #ai #deepseek #deepseekv4pro #aitools #aiforbusiness
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: LkCu8PTh-U8
+URL: https://www.youtube.com/watch?v=LkCu8PTh-U8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:50:11+00:00
+
+Kind: captions Language: en DeepSeek just dropped a new model that's a beast at code and math, and it's under
+a real MIT license, which means you can use it commercially with basically no strings attached. It's called
+DeepSeek V4 Pro, and for a lot of coding and reasoning task, it goes head-to-head with models you normally pay
+for. Free weight plus a true MIT license is the combination that actually matters because it means you can
+build a real product on top of it without asking anyone's permission. The honest catch, free to license is not
+the same as free to run. This is a big model, so running the full thing will take serious GPU power or hosting
+bill. For most people, that means renting computes or using a hosted version. Having a frontier level code
+model that you fully own is a real shift. I made a card on the specs and the cheapest ways to actually run it.
+Comment DeepSeek and I'll send it.

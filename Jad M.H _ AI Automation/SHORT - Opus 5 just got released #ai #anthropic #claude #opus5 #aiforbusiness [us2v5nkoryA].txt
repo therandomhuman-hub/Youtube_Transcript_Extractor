@@ -1,0 +1,22 @@
+Title: Opus 5 just got released #ai #anthropic #claude #opus5 #aiforbusiness
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: us2v5nkoryA
+URL: https://www.youtube.com/watch?v=us2v5nkoryA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:37:07+00:00
+
+Kind: captions Language: en Anthropic just dropped Claude Opus 5. It's nearly as smart as their most powerful
+AI for half the price. Let me break down why people are kind of freaking out. Opus is Anthropic's heaviest
+model, the model you bring in for the hard stuff, like coding, research, and AI agents that actually get work
+done for you. And I'm not talking about Mythos 5. This new one, Opus 5, more than doubles what the last
+version could do. And it's now one of the best AI on the market at writing and fixing code completely on its
+own. But here's the part nobody expected. They cut the price in half. You're getting frontier level
+intelligence for around $5 per million tokens going in instead of 10. And they added something genuinely
+clever, a dial. Before you send a task, you choose how hard you want it to think, low, medium, or high. Easy
+question, turn it down and pay almost nothing. Hard problem, crank it to high. You're literally controlling
+your own AI bill. On top of that, it can hold a million tokens of context at once. Think an entire code base
+or a whole book in its head. And it's the default model now if you're on Claude Max. So the takeaway is wild.
+The smart model just got twice as capable and half the price, and you get to decide how much you spend per
+question. Comment Opus and I'll send you the full breakdown, every benchmark, and exact pricing.

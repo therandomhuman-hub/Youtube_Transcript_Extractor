@@ -1,0 +1,18 @@
+Title: Claude Code just got a serious upgrade. Comment RELAY.#ClaudeCode #AI #Coding #AIAgents #DevTools
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: GNlBGZWqAHk
+URL: https://www.youtube.com/watch?v=GNlBGZWqAHk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:19:34+00:00
+
+Kind: captions Language: en Your clock code session can now talk to each other and hand off work across every
+computer you have. If you run more than one at a time, you know the pain of babysitting each session waiting
+for the first one to finish before starting the next. Now they do that themselves. The session fixing your
+code can tell sessions writing your test that is done even if they're on different computers. And the long job
+won't quit you halfway through anymore. There used to be a limit on how many helpers one session could add.
+That's gone. One thing you actually need to do is turn on the incoming messaging setting before you switch
+this on. So basically the stray session can't run actions you have never approved. Right now the only bummer
+is it's only on Macs and Linux, not yet on Windows. If you want to set it up safely on your own computer,
+comment relay and I'll DM it to you.

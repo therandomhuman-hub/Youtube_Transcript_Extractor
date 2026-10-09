@@ -1,0 +1,162 @@
+Title: $62,954 in 47 days with 1 AI faceless channel using Claude AI
+Channel: One Person Business
+Type: VIDEO
+Video ID: Wib4p6bbtGo
+URL: https://www.youtube.com/watch?v=Wib4p6bbtGo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:13:34+00:00
+
+Kind: captions Language: en I started this channel last month, and it's so far made me 60 grand in ad revenue.
+And even now, it continues to make almost $2,000 a day just from ad revenue alone. And by the way, I do want
+to show that these are US dollars. It's not any other currency like Zimbabwe or whatever. Now, the best part
+is that it takes me 20 minutes to make one video completely with AI. And I'm not just going to show you
+someone else's channel and then tell you to copy them. Everything I'm showing you here is based on what has
+worked for me, so you're following a proven framework. And in this step-by-step tutorial, I will show you the
+new, faster, and more efficient way to create faceless videos with AI without having to use any complicated
+and expensive tools like Claude Code or Hexville. And also want to say that I'm not the only one getting these
+results. Because of this new AI algorithm, plenty of channels are making 30 to $60,000 a month even though
+they started very recently. So, let me show you some real-life examples first, and then I'll show you how to
+copy all of us with AI. Here's an example of a channel called Professor Historian. They make $15,000 a month.
+And if you go to their oldest videos, they literally started 1 month ago, and they only have nine videos on
+their channel. Here's another one called Forgotten American Survival. They make 17 grand a month, and they
+also started 1 month ago. But this one is crazy. This one is called Axon, and they make $15,000 a month even
+though they've uploaded only seven videos, and they started 1 month ago, and their first video got 600,000
+views. Here's another YouTube channel which started 2 months ago, and right now they're making $29,000 a
+month. Here's another similar YouTube channel making $22,000 a month. And I actually have a list of over a
+thousand channels making between 5 and $50,000 a month. Now, you see the format that works very well now are
+these somewhat low-quality animation slides. Like nothing is really moving in these. These are basically just
+images, but they look like they were hand drawn in a software like Paint. So, it looks like a human made them,
+but you can now create a video like this within minutes just by using AI. In fact, I tried to copy this
+channel Axon because some of their first uploads got millions of views. I hired absolutely no one. I used AI
+and it worked. So, what I've done is I've created a free Notion document with all of the prompts that you can
+copy and paste if you'd like to follow along this tutorial. You can find these prompts inside of my free
+community when you go to the classroom, just go to AI systems right here and just click on how to start a
+faceless animation channel with AI and then you can access the document completely free of charge. Now, the
+same step-by-step process that I'm about to share with you works in pretty much any niche and any kind of
+faceless channel you want to start. In fact, I never recommend just finding a channel and copying exactly what
+they're doing word for word because that's not going to work. You just need to take out the frameworks that
+work for them and just apply it to a similar niche. So, for step number one, you want to head over to
+Claude.com and then take a screenshot of the channel that you're trying to model and copy-paste this prompt
+from the document. Now, Claude is going to look into this channel. It's going to analyze the niche, the
+thumbnail style, the title structures and based on that, it's going to give us new video ideas that they
+haven't covered but are in a similar or same niche. That really depends on you whether you want to be in the
+same or you would like to make some changes. And you can just tell that to Claude. You can literally ask it to
+apply these title frameworks just to a different niche. For example, the other day I saw this channel that
+blew up within the first 30 days of starting and their first video got a million views and they spoke about
+birds. So, I just applied the same title frameworks but for insects. Either way, there are some really good
+titles here, but I'm going to go with how did ancient humans know who their father was? Step number two, now
+we just need to pick one of those ideas, as I just did, and we're going to ask it to find unique information
+around this subject using this prompt. So, you're just going to copy this prompt, and this is probably the
+most important part, because YouTube is now using Google Gemini. It's using AI to instantly analyze your
+videos. And if you just go to some AI tool, and you ask it to write a script for you, it's going to instantly
+know that it is generic, and you are less likely to be promoted. If you're sharing the same stuff as everyone
+everyone else, there is no reason for the YouTube algorithm to show your videos to wider audience. Why would
+they? So, now when I ask Claude for 10 unique points I can use in my videos, it gives me this. Step number
+three. Now, we need to write a script, but the reason 99.9% of people fail at YouTube is because they use AI
+the wrong way to write scripts. I mean, if you don't know already, YouTube is now using Google Gemini, and
+it's baked into the algorithm. I mean, you can ask Gemini itself. It's going to to tell you that behind the
+scenes, they have algorithmic shifts, so the algorithm has completely changed, because Gemini is now being
+used to analyze videos cementing ID. That means, if you share generic stuff that was completely generated with
+AI, it's most likely not going to be pushed to a wider audience. So, now you have three options. You can
+either go to ChatGPT or Claude, and you can ask it to write a YouTube script for you. However, these tools
+were not built for YouTube. They were actually built for mass audiences and mass markets. Therefore, you're
+most likely going to be getting generic stuff that Google Gemini will immediately know it was made with AI,
+and you will probably not get the best results. I mean, even if you read through these scripts, you wouldn't
+listen to this for more than 30 seconds. Option number two, just be a big boy and write the script yourself.
+Do the research, sit down, and write the script. You can use AI to ask it for frameworks, like how I should
+you structure a script, but perhaps you can just sit down and write it in your own words. And that would be
+great, but that takes a lot of time and a lot of practice. But if you are good at writing, this is pretty
+cool, and it's free. Now, what I personally do is I use this feature inside of solo.ai, which was specifically
+built for writing YouTube scripts. I mean, solo.ai is all-in-one operating system for one-person businesses.
+But when you go inside, you can find a content sector right here. And then you can find the YouTube script
+writer. And this tool was trained on thousands of different YouTube videos. And the best part is that it asks
+you multiple questions, which make the script way less generic. Let me show you what I mean. So, first, I'm
+going to describe what my video is going to be about. So, I'm just going to insert the topic here. Then I'm
+just going to paste the title in this box. And right where it asks me about details, I can just go back here
+and collect these 10 points that I asked Claude, these unique and obscure facts that most people haven't heard
+about before. So, Claude did the research for me, and I'm going to add that as a text note. And now, this is
+where it actually works the best. It's going to ask you what style would you like to model. And what you can
+do is you can go to a channel you're trying to model, or any other channel on on the platform. It could also
+be a personal brand channel. You can then copy the link address to their most popular videos, which is what I
+recommend, because there has to be something that they did correctly that the video got millions of views. So,
+now I'm going to paste the link here, and it's going to model their style of writing. Now, I can select the
+monetization goal. So, if you're promoting something, you can select that. But in my case, I just want to
+maximize ad revenue. And now I can also bump up the length of this video to be, let's say, 10 minutes. And
+just generate script. It takes about 90 seconds for it to write the entire script for me with all of these
+unique facts baked in, and in the style of writing of that channel, which is already successful. And now I can
+expand the script to I can add another 1,000 words, or 2,000 words, or whatever else I would like to change, I
+can go ahead and do that, or I can just go up in a script and go with that. Step number four, now we need to
+create these animated images that we're going to use as slides in our YouTube videos. There's multiple ways to
+do this. The legacy old way of doing this was just going to the AI tool like Claude or ChatGPT, pasting your
+script, and then saying, "Hey, I will paste my YouTube script, and then you write 30 prompts that I can use to
+generate these scenes one by one." And then in that case, you would have to go and generate each image one by
+one, which when the last time I did this took about 7 hours of constant copy-pasting without moving from my
+chair to finish an entire video. Or you can do something that's much faster and more efficient, and that is to
+just go to the scene generator inside of Solo, where you can paste your YouTube script in this box. Then on
+the right-hand side, select the model you would like to go with. I'm just going to go with standard. You can
+then select how many scenes you would like to have generated. Let's I'm just going to go with 50. And then you
+can select which style of animation you would like. Now, personally, I really like the cinematic 2D animation,
+but if you'd like to copy exactly what these other people are doing, like if you want this style of animation,
+then you would select the second option. But I like how this guy animates his images. Like it looks like as if
+you were watching a cartoon as a kid. So personally, I would just go with cinematic 2D animation. And then you
+just click generate bulk scenes, and that's it. Now you just sit, relax, and it makes them in a couple of
+minutes. need to install any plugins or copy-paste codes and do all of this complex stuff on your computer.
+You literally just log into your account, paste the script, and it makes all of the scenes. And by the way,
+this is how it would look like if we selected the other style, like the sketch style. This is really cool. And
+what I like the most is I can press one button, download all of these images all at once. And you know, the
+problem that you would otherwise have with Gemini and other tools is that you would have a watermark, but also
+when you download these images, you see how they have this random tag like Gemini generated and then some code
+image for ANF. It's very random and then you would have to figure out which scenes go where. But when you
+download it from Solo, it just shows you exactly scene 1 2 3 4. So it's all in order. And then all you got to
+do is open up your favorite video editing software, import all these images, and just drag them to the
+timeline. And just like that, everything is in the right order. Step number five. Now we need someone to read
+the script. We need a voiceover. Now there is multiple ways to do this. The safest option is to just record
+your own voice and it is completely free. You can just go to Google, you can search for online voice recorder
+and even if you have a decent laptop, you don't really need a fancy microphone like this. You can just press
+record, allow while visiting the site and you just have to read the script into the microphone. Now if your
+English is not good or if you just don't want to spend your time recording these voiceovers, you can go to
+Fiverr or Upwork and you can find these voiceover artists. Though they are very expensive. Like in most cases,
+if we have a script that's 1.5 thousand words long, that's going to cost around $1,000 from this guy. There's
+obviously some cheaper ones, but it's very expensive. So what I personally do is a bit controversial now, but
+I really just use AI for this as well. So I just copy the script, I go to the voice section on the left side
+and all my channels are still monetized, so you are allowed to use AI voices. At least as of right now. You
+can go to the voiceover studio and on the right hand side, you have a library of 9 and a half thousand
+different voices to pick and choose from. Just choose the one you like the most, paste your script in this box
+and you have a voiceover done in less than a minute. And it obviously costs a fraction of what these voiceover
+artists are charging and it sounds realistic. Now when you open up all of these scenes inside of CapCut or any
+other video editing tool, you just have to import your voiceover and drag it to the timeline like this and
+then just listen to the voiceover in the background and try to match the length of these scenes. So, just like
+this and then perhaps I need to drag this a little bit. So, you just have to listen to it. And look, you can
+also add some slow movement to these images. You can click on animation right over here. There's combo
+animation. The some of these are pretty crazy. You can also do it manually. You can just click here to add a
+key frame at the beginning and then drag this and then add another key frame and just bump this up to let's
+say 115 and you'll see how it slowly zooms in. And then you can do that for each of these images or you can
+add different effects from here. Now, for the next step, we need to make a YouTube thumbnail. This small image
+that you see before clicking on a YouTube video. Now, for this, you can also just go to canva.com. You can
+search for a YouTube thumbnail. There's a bunch of templates. When I used to do it in Canva, I would just
+start with a blank template like this. Then we can just take one of these scenes and then we can just add some
+text. I'm going to change the font to something like this. And that's a decent thumbnail. But, if you're
+inside of Solo, you can go to the AI Visual Studio and you will see the YouTube thumbnail maker right over
+here, which is a lot higher quality. You can either enter a prompt or you can recreate thumbnails from
+YouTube. For example, I can grab this YouTube thumbnail, paste the link here and just say change the text to
+say who's the dad. And then they'll just click edit thumbnail. Now, if you just enter a prompt and create a
+thumbnail from scratch, it's going to look something like this. I really like this one. Oh, my bad about this
+one. So, it did change the text, but I forgot that I selected the thumbnail persona. So, right here you can
+actually add yourself to these thumbnails and you can turn it off at any time. I just forgot to turn it off in
+this case. But, when you have it on, it's going to try and put your face on all of these thumbnails. This
+pretty funny. I'm going to download this. Now, please keep in mind that not every channel I start gets these
+results within 30 to 60 days of starting. I have many channels that have completely flopped. Channels where I
+was really confident about the idea and about the niche that just didn't go anywhere and I had to abandon
+them. And even when we look at all of these channels that explode within their first uploads, we have no idea
+if this is their first rodeo or not. Maybe this guy had five other channels that flopped before this one. So,
+don't get discouraged if you've been posting videos and you're just not getting views the same way that
+everyone you're seeing online is because trust me, you're most likely just seeing the top 1%. to say there are
+some exceptions to this rule. Alex who joined my community less than 30 days ago made $2.6 thousand even
+though he's never done YouTube before. This is just eight days after getting monetized. I had to give this man
+$1,000 on top of this, but either way, most people that start a business fail. This, like any other business,
+is risky. However, this is the best time to start a YouTube channel ever and it's never going to be easier
+than it is right now. So, if you're going to risk it, you might as well risk it now. But if you'd like to see
+how this new AI YouTube algorithm works, how you can beat it, and how you can use it to grow your channel,
+make sure to watch this video next. I explain everything and I give you the actionable step-by-step stuff as
+well.

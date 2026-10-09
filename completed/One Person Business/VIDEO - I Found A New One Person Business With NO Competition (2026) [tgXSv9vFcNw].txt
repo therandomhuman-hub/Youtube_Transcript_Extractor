@@ -1,0 +1,110 @@
+Title: I Found A New One Person Business With NO Competition (2026)
+Channel: One Person Business
+Type: VIDEO
+Video ID: tgXSv9vFcNw
+URL: https://www.youtube.com/watch?v=tgXSv9vFcNw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:16:40+00:00
+
+Kind: captions Language: en Look, I just want a new one-person business that has almost zero competition. And
+a few people that are doing this right now are charging their clients between 1 and 1/2 thousand to 5 thousand
+dollars per month. So, obviously, I spent the last few weeks studying this exact business model, talking to
+people running it, and testing the workflow myself. I mean, one person doing this crossed $18,000 last month
+from their apartment from only four clients. I'll break down exactly how he did it later in this video. But,
+before I get into it, the reason this business model has zero competition right now is because of this new
+shift that happened in AI over the last few weeks. You know, most people are still stuck using ChatGPT,
+Midjourney, and Eleven Labs, and jumping between five different tools to make one piece of content. But, there
+is a category of AI called AI agents, and AI agents are different from these regular chats that we are used
+to. You go to an AI chat to just speak to it, and then it gives you information. But, AI agents can run the
+entire project for you. It can literally go to different places and create something for you. It acts as an
+employee. And one particular AI agent is what created this new business model that we're going to talk about
+today. The business in question is running faceless AI creative studio for small brands. So, what it actually
+means is that there are millions of brands out there, like Shopify stores doing 20,000 to 80,000 a month,
+course creators selling on School and Vop, coaches with digital products, small software founders. I mean,
+literally me. I'm your perfect client avatar. And all of us have the exact same problem, and that's that we
+need to have constant creative output. And a normal creative team costs between $8,000 and $15,000 per month.
+A script writer, a UGC creator, a video editor, a graphic designer, and ad strategies. That's at least five
+people. So, these brands either hire freelancers who are slow and inconsistent, or just don't even output that
+much creative stuff out there, which obviously keeps their business at a plateau. And what people are doing
+right now is they come in as a one-person creative studio. They charge 1 and 1/2 to $5,000 a month per client,
+and they deliver everything that those five people would deliver. But, they just do it solo with AI agents.
+The guy I mentioned earlier has only four clients paying 4 and 1/2 thousand dollars a month each, which means
+he made over $18,000 less money from this. And the reason this has zero competition right now is because these
+AI agents are only a few weeks old. So, most freelancers and agencies haven't even heard of them yet. They're
+selling the old way, charging $5,000 to deliver something that takes them weeks to deliver. So, let me show
+you the exact workflow. I'm going to walk you through how I would run a real client project from start to
+finish using the AI agent I've been testing for this, and it's called the Hicksfield supercomputer. And the
+reason I'm using this one in particular is because it works like an actual creative agent. You just describe
+what you want it to create, and it handles planning, scripting, storyboard, visuals, video scenes, and final
+assets all from this one chat. So, you don't have to know anything technical, and you don't need to know how
+to code. I'm not a coder myself. Now, later I'm going to show you how to get those clients, but let's say you
+land at your first client. And let's say that client is myself. And I'm going to use my free school community
+as it's going to make it easier for me to explain how this works. Of course, the exact same workflow applies
+whether your client is a Shopify store, a course creator, or a coach. Step number one is generating the first
+UGC ad concept. For this, you're going to log into Hicksfield.ai, and then you will click on supercomputer
+right over here. There, you're going to see a chat that looks something like this. Then you can type in a
+prompt. For example, I'm going to say, "I'm promoting a free school community that teaches beginners how to
+build faceless YouTube channels using AI tools. Create a 30-second UGC style ad campaign featuring a slick
+Italian narrator." And then I'm going to paste the link to my school. Then an agent will generate a few image
+prompts that we can either approve or ask for some changes. Now let's say I'm going to approve this. Now
+again, it's going to ask for approval before we generate the final video. I can run through it, read it, or I
+can just approve it right away. Once you click generate, it will take some of the time for it to do that, so
+you can just sit down and relax a little bit. And honestly, the first output is not supposed to be perfect.
+The goal is to get a strong first version and then improve it. That's the actual job of running a client
+project. So we just need to keep approving. All right, now let's take a look at the final result. >> Inside
+online business friends, 89,000 solar creators are copying these exact systems for free. You get the
+templates, live Q&As, and direct strategies. Tap below and join us before it goes private. >> That's
+incredible. Now once you have one ad, money is actually mostly made when you have it from multiple angles.
+Because quite frankly, your clients are not going to pay you for one ad. They're going to pay you for testing.
+So instead of stopping at one, you generate three different ad angles for the same offer. You can use a prompt
+like this. Create three different ad variations for the same offer. One should focus on the pain, one should
+focus on the speed, and one should focus on the outcome. Same thing as before, we're going to wait for it to
+generate the prompt, then we're going to approve it, and then let it generate the whole video. Now we're going
+to move on to the next deliverable, which is promo graphics. Because obviously, clients don't just want video
+ads. They want Instagram story graphics, YouTube community post images, meta ad creatives, all the static
+assets that go alongside the video campaign. So what we're going to do is we're going to start a new chat here
+on the left side. Just click on new task, go back to this prompt box, and now we're going to ask it to create
+five premium promotional images for this free school community that I have. Which by the way, not going to
+flex, but 94,000 members. Now it generated these two images, but the problem that I have with this is that
+it's not really on brand. I don't really use these colors and fonts. So to fix this, we're going to have to
+set up a memory. To do that, on the left-hand side, you're going to click on memory right over here, and you
+can add a memory. You can type in whatever font you want, whatever speed you want for your videos, brand
+voice, and it will remember that for you. And now the results I'm getting are far more on brand. These are the
+colors that I use, these are the fonts that I usually use, and this is the exact reason most freelancers can't
+actually do this work at scale because they have to manually rewrite the brand context every single time. Now
+the next layer is using skills. Skills turn supercomputer from a general agent into a specialized one, like
+paid ads specialist, UGC production specialist, cinematic editor, copywriter. You're going to find skills on
+the left-hand side and you can install them almost instantly. You can browse through thousands of different
+skills that you can set up with one press of a button. For example, I'm going to select a paid ads skill. I'm
+going to press on the plus icon and now I can try it out in the chat right away. Now I'm going to try it out
+in the chat. Just go {slash} paid ads and then paste in the prompt, for example, build a simple campaign
+structure for promoting my free school community and then a link to my school community and then it's going to
+go through a specific route of questions that were built in this skill. Now think about all the things you
+just delivered in one single workflow as a one-person business. You delivered multiple UGC video ads with
+different hooks, five promo graphics for Instagram and Meta, a 9 by 16 Instagram story, a full paid ads
+campaign structure. Obviously, that used to be an entire creative team of at least five people doing this for
+at least a week and you just did it solo in a couple of minutes. And here's how to actually get your first
+client. The easiest way is to obviously just make a free sample list. Pick some small brand you like, like
+Star their product, run the entire workflow I just showed you, and create a full creative package for them
+without asking. I mean again, even if you go to school where people start their communities, you can find a
+bunch of people making tens of thousands of dollars every single month in different categories. You have
+hobbies and you have these communities. You can see how much money they make every month and you can reach out
+to founders directly. You can also find smaller school communities in the discovery tab. There's literally
+almost 200,000 communities and these are 200,000 potential clients. And then you can DM the founder something
+like this. Hey, I made you eight free UGC ad concepts and five promo graphics for your product. No catch, just
+wanted to see if you'd like to see them. They are obviously going to open the message because it's a free
+gift. They can see the quality of content you delivered and they they might ask, "What would it cost to get
+this ongoingly?" You can charge 1 and 1/2 thousand a month for the first client, 2 and 1/2 thousand, 3 and 1/2
+thousand once you have two or three clients. Two, three, four clients is a sweet spot for a solo operator. And
+they can be $6,000 to $15,000 a month working a few hours a day. You can also post free samples on Twitter or
+X, on Facebook, on Instagram, and LinkedIn. Then let other people see the results and they might reach out to
+you directly. Obviously, you can also sell this service on fiverr.com or on Upwork. And the reason this
+business right now has zero competition is because the window is really tiny. In six months, every freelancer
+and agency will be using these AI agents. And so the pricing will compress once everyone starts using them.
+That's why right now you can charge premium prices because the brands you're selling to don't even know this
+category of AI exists yet. So to them, you're a magician. You're someone who delivers weeks' worth of content
+in one afternoon. Now, if you want to try out this exact workflow yourself, Hicksfield is the agent I'd
+recommend starting with. I'm going to leave a link to it in the description box down below. And if you want
+more free resources, prompts, and step-by-step workflows, then check out their free community that we spoke
+about in this video. I will also link it down below and I will see you in some of the future videos.

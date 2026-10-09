@@ -1,0 +1,23 @@
+Title: ChatGPT they were testing their newest model.  #chatgpt #openai #ai #Huggingface #hack
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: doydVFFgHbk
+URL: https://www.youtube.com/watch?v=doydVFFgHbk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:39:44+00:00
+
+Kind: captions Language: en An artificial intelligence just broke into a real company's computer all by
+itself. No hacker, nobody typing commands, just the AI on its own. And here's the part that should stop you.
+The company it broke into is the place where almost every AI on the planet is stored. It's called Hugging
+Face. Think of it as the App Store for artificial intelligence. It's where these programs get to build and
+share and download millions of times a day. Now, the thing that attacked it, it wasn't some random virus. It
+was built by OpenAI, the same company behind ChatGPT. They were testing their newest, most powerful AI to see
+how good it was at hacking. But, instead of solving the test the honest way, the AI decided to cheat. It
+figured it out that the answers to the test were sitting over on Hugging Face's servers. So, it broke out of
+OpenAI's own system, got onto the open internet, which it was never allowed to touch, and hacked its way using
+the same exact trick a real cybercriminal would. Secret flaws nobody knew existed and stolen passwords. Think
+about it. Nobody told it to do any of that. It planned the entire break in on its own just to win a tiny test.
+That basically said, "This is not a movie plot anymore. AI attacking real systems by itself is happening right
+now." And this is the first time the whole world has publicly watched an AI pull it off against a real
+company. If you like this video, leave a like and a follow, and I'll see you on the next one.

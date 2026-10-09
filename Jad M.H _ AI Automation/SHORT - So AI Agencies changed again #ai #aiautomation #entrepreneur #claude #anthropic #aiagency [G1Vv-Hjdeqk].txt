@@ -1,0 +1,22 @@
+Title: So AI Agencies changed again #ai #aiautomation #entrepreneur #claude #anthropic #aiagency
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: G1Vv-Hjdeqk
+URL: https://www.youtube.com/watch?v=G1Vv-Hjdeqk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T21:08:50+00:00
+
+Kind: captions Language: en The bar for AI engineers just moved again. In 2023, no one prompt engineering made
+you a sound a hat. In 2024, building a basic rag app or chatbot was enough to stand out. In 2025, shipping AI
+agents put you in the 10%. But 2026 is totally different. Companies aren't hiring people who can spin up a
+chatbot anymore. They want engineers who understand how AI products actually get built in production,
+multi-agent workflows, multi-model ads, context engineering, evals, the real that actually breaks at scale.
+And the only way to actually learn it is to build it yourself. Every weekend, pick one concept, study it deep.
+Read what the major labs are publishing, what lecture from someone who actually ships this stuff. Build a tiny
+version, explain it out loud like you're in an interview. That's how you learn from both sides, the system and
+the trade-offs. This is why you really need to focus on the trade-offs because even if you know how to build a
+product, you got to learn how to sell it to the business. The engineers doing this right now are about to
+leave a huge gap between the others. Comment AI if this is interesting to you and you want to learn how to
+automate and learn into AI workflows, I'll send you a set of influencers that will definitely help you. And if
+you like this content, just leave a like in the comment and I'll see you on the next one.

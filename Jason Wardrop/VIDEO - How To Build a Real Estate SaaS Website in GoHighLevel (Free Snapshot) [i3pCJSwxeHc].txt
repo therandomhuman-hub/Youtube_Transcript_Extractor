@@ -1,0 +1,186 @@
+Title: How To Build a Real Estate SaaS Website in GoHighLevel (Free Snapshot)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: i3pCJSwxeHc
+URL: https://www.youtube.com/watch?v=i3pCJSwxeHc
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T22:18:31+00:00
+
+Kind: captions Language: en Today I'm going to show you how to start your own real estate SaaS website with
+GoHigh Level. And this is exactly what I would do if I was starting all over completely from scratch. And over
+the next couple of days, I'm going to walk you through step by step the exact sales funnels, the templates,
+everything that I would do to rebuild my own real estate SaaS business. And for those of you guys brand new
+here to the channel, my name is Jason Wardrop. Back in 2015, I started my own real estate SaaS CRM. Over the
+next six years, I grew that to thousands of paying clients very profitably. And so, what I want to do is now
+show you exactly how I would think about building my real estate SaaS website, building the funnels, how it
+acquire clients with highlevel system. And so, you can go through and model exactly what I'm doing. And not
+only am I going to build this for you, but at the end of this video, I'm going to actually give you the real
+estate websites and the other videos, all of my salesunnel templates when you get started with High Level
+through my affiliate link. or if you're already on High Level, you can just upgrade with my link and I'll get
+you access to all the freebies, bonuses, snapshots, everything as well. All right, so let's dive into this.
+So, what I'm going to be doing is building this with High Level's AI Studio. And so, if you haven't seen this
+before, if you're like, "Hey, I don't know how to go through and access it. It's not showing up over here."
+What you first have to do because it's in beta, it just released just a couple of weeks ago, is come click on
+settings, then go over here and click on labs, and then there's going to be all the new features that High
+Level is rolling out right here. So, we're just going to scroll down and we're going to activate AI Studio.
+You can see it's live in eight days for everyone. And then also, while I'm over here, I also like to activate
+Ask AI. Now, we're not going to be building with Ask AI right here in this video, but you can check out all
+these other features later, but AI Studio is going to be a must to follow along with this video and do exactly
+what I'm doing. So, I'm just going to click go back. I'm going to click on AI Studio. And I could go through
+and type a prompt of like, hey, build a real estate SaaS website. However, that is what the average person
+would go through and do. Okay? And we're not average here on this channel. We want to think about how we can
+go through and speak directly to our ideal client avatar because before we go through and build anything, we
+want to think about who are we actually selling to? What is it that they actually want to buy? And then how
+can we create an offer that we can charge them money, right? So, what I have done is I've created several
+different avatar worksheets that this is all inside of my private community for people that sign up with my
+affiliate link or upgrade with my affiliate link of my ideal client avatar. And I show you guys exactly step
+by step how to do this. So, let's say our ideal client avatar is not only a real estate agent, it is a burnt
+out solo real estate agent. It's so important that we get very microspecific on who we are talking to because
+a lot of times people think oh real estate real estate SAS website and this is honestly is what I thought in
+the very beginning. I thought okay I can market to real estate agents, real estate brokers, real estate team
+leads, real estate investors. Oh and guess what someone buying home they also need to get a loan. So I could
+also have mortgage brokers, loan officers and they all are going to be the same exact person I could sell to.
+That is so wrong. All these different avatars have very specific needs. And so if we really want to boost our
+conversions online, we need to speak to the specific avatar directly. Or here's another one. You can see
+avatar 4, the tech paralyzed team builder. So someone who is a real estate team lead, which teams are growing
+massively in the United States right now, but they're just paralyzed by the tech. They're a really good people
+person. They're really good at selling homes and going and talking with people, but they're like, "Man, the
+tech, the AI stuff, it just is way over my head." Okay, so you can see how these are two very different
+avatars. And then once we have our avatar nailed down, we want to decide which of all of the highle features
+are actually going to help a real estate agent. And I talk about this all the time because there's so many
+features inside of High Level, but to go and say, "Hey, we offer all these different features." Honestly, it
+can just be an overwhelm and make people not want to buy because they're like, "Man, I don't know. That's way
+too overwhelming. I don't know how to figure all that stuff out." So, for example, a real estate agent is
+never going to need to create their own community inside a high level or build a course or use text to pay
+because they're not going to sell a home via text to pay. Whereas another market, another industry, text to
+pay could be the whole reason why they're signing up for the highle software. And when I say highle software,
+I'm just talking about the white labeled SAS version that you are reselling to your ideal client avatar,
+right? And so we want to go through, we want to nail these things down of who our avatar is and what we are
+actually going to be building here. So the way I like to do this, I'm going to just go through step by step
+exactly how I build this so you guys can see this. And then once I get a V1 of the website, I'll show you guys
+exactly how I go through and optimize it to boost the conversions of people actually sign up for a trial. And
+then at the end, I'm just going to give you this website as well. So, what I like to do, and I only do this
+because High Level does not have in their AI studio yet a little voice icon. I like to come over to Chat GPT
+because I think that their voice to text is the best out there. Okay? It's better than Claude. It's better
+than a lot of these. Claude cuts me off after a little bit. And so I always come over here and we're just I'm
+going to show you guys this example step by step. So I'm going to come over here and just click on this. Hey,
+I want you to create a copy and paste prompt that I can copy and paste into Highle's AI studio to help me
+build a real estate SAS website that I can sell my white labeled version of Highle to real estate agents. I'm
+going to give you the copy and paste text of who my ideal client avatar is as well as the ideal features that
+I want to offer to this client avatar. And so you can include those features and the benefits and speak
+directly to this avatar on the homepage of this SAS website. The call to action is going to be to start a free
+14-day trial where they're going to be able to get access to everything plus a one-on-one call to be able to
+help them get set up with their own account. Okay. So, now I'm just going to come over here and say here's the
+avatar description. And then I'm just going to come over here and just to make this easy, I'm just going to
+copy and paste this. You could throw in the link or whatever. and then say these are the features I want to
+include. And I know having worked with literally thousand over 15,000 real estate professionals, their biggest
+obstacles overcome are getting more leads and then also they need help with faster follow-up that is faster
+and better than their competitors and then converting those leads into booked appointments. Okay. Okay. And so
+the way that we can do that with different highle features is having AI answer the phone calls through voice
+AI, AI texting leads automatically through workflows and automations, mis call text back, instant lead
+response through workflows, email, text marketing, even voicemail drops. Real estate agents are super big into
+voicemail drops. I don't know why, but it is a very industry standard thing that they love the voicemail
+drops. appointment booking automation, reactivating old databases, review generation, website AI chat, and
+also mobile app with all their conversations. Because if you think about a real estate agent, a lot of times
+they're just on the go. They're on the move. And so when new leads come in, they need access on their phone.
+When leads respond to texts or emails, they need access on their phone. So that is a massive feature that you
+should make sure that you're including. Okay, so I'm just going to copy and paste this. I'm going to go over
+there, paste it into chat GPT, and as you can see, it's building out our highlevel AI studio prompt that we
+were just going to copy and paste into high levels AI studio. Okay, so now I'm just going to go through and
+I'm just going to copy literally all this. And the reason why I like to go through and do this inside of Chat
+GPT or Claude or any of these other platforms as opposed to just directly into AI Studio is look how much
+detail is here. All right, so I just copy that, I paste it in here, and then I just hit enter. Now, while this
+is building really quick here, if you guys want to get this template, plus all my courses, templates, scripts,
+everything, and you're not already on High Level, just go ahead start a free 30-day extended trial down below
+in the description, and I'll hook you guys up with all of my bonuses, community, all of the good stuff. Now,
+if you guys are already on High Level and you want to go through and get all my content as well, then all you
+have to do is go and click the link down below that just says upgrade my Highle account, and you'll be able to
+get access to it all as well. Okay? So, you can see this is complete. And let's go through and dissect this
+real estate SAS website really quick. And then I'm going to go through and make a few tweaks cuz I already
+kind of scrolled through and I'm like, "Ah, it's good. It's not great. There's a few things that I actually
+would go through and tweak." And I feel like a lot of times people will just go through and build with AI
+Studio and be like, "Oh man, this is perfect because AI made it and all that stuff." And yes, it's fine. It's
+not amazing yet, but we're going to build it to the point where it is amazing. Okay, so I love the point that
+it says the AI operating system for busy real estate agents. So it's calling out exactly who we are speaking
+to. Okay, stop missing leads. Start booking more appointments automatically. So it's speaking to their pain
+and saying, "Hey, here is the solution." All right, so the first thing I don't like right here is there's kind
+of two call to actions right here. Start your free 14-day trial. Book your free 101 setup call. Okay, so we're
+going to have that actually moved underneath here and we're going to just go through. and it looks like these
+don't click out to anything yet, which is totally fine, but those are a few things that I would go through and
+tweak. Okay, your business shouldn't depend on you being available 24/7. So, it's hitting a lot of the pain
+points. Okay, speaking to this exact ideal client avatar. Sound familiar? Here is the operating system for
+busy real estate agents. Okay, so it's got all the different features that we talked about, we wanted to
+include. Imagine if every new lead received immediate follow-up. So now we're kind of selling them on the
+dream and the solution of what our software, what our system has to offer. Okay. Then there's some basic
+testimonials that are just fillers for right now. Um, which is good. And then some frequently asked questions.
+And then once again down here, I would also have this moved over here and then having a form. Okay. So let's
+just go through. I'm going to type this out. I'm going to kind of pause the video as I'm doing it so that like
+you're not have to like watch me do everything on the typing. Okay. So this is a little tweak I I said, I want
+there to be only one call to action button. Start your free 14-day trial. And I want it to be centered. Okay,
+so just like right down here below this, the book your free 101 setup call should not be a button, but text
+beneath the start your free 14-day trial. Um, also when you click on the start your free 14-day trial button,
+I want it to open a popup modal. So, you know how they pop up with a two-step opt-in form where they'll fill
+out their contact information to get the 14-day trial started. And I want that form fully integrated with this
+sub account CRM and tag the person as a website lead. That way we know, okay, this person came from our
+website. They were a lead, but not necessarily meaning that they put in their credit card information and
+started a trial. And then I have and tag them as a trial if they successfully filled out their credit card
+information. Okay, so I'm just going to hit enter and it's going to go through and build this out for us and
+we'll see what it looks like once it's complete. Okay, so the thing I love about AI Studio is it literally
+goes and builds and does everything that you tell it to, right? So is move this button to the middle. It has
+the inclusive free oneonone setup call right here down below. And if we pop this up, it's got you start your
+free trial, step one, and it says it's going to tag that first step as website lead. They put in their credit
+card information, tag them as trial started. It is fully connected to the CRM, which I love. Now, I do want to
+see if there's multiple call to action buttons. I want to see if those also Okay, it looks like it's all set
+up the right way. I want to just make sure that all of these are Okay, perfect. That looks great. Now,
+honestly, one of the last things I want to go through and do here is I feel like this website, it's it's
+really good still, and it's even obviously getting a little bit better. Uh, but there's a few things I feel
+like it's missing, okay? Because I feel like there's some additional sections that can really help sell the
+free trial. Because there's one thing that a lot of people don't think about is like every step of this whole
+process, we have to be selling from the ad to the landing page to the website to the like opting in and
+starting the trial to onboarding experience. We always have to be selling them and confirming why the decision
+that they're making is a good decision. Okay. So now I want to go over here. I don't feel like they really hit
+these things as well as I would like to. Getting more leads, following up faster than competitors. Yes, they
+explained it through the features, but I feel like we can dive into each one of these a little bit better in
+converting more leads into appointments. Okay, so now I'm going to come over here. I'm just going to type this
+out. Okay, so I just threw in here, great. Now I want you to make three sections diving deeper into these
+three core elements of why the software would make matter to this ideal client. Here are the three core
+elements. Getting more leads, following it faster than competitors, and converting more leads into
+appointments. And then I'm just going to hit enter. And once this is all built out, I feel like it's going to
+be in a pretty dang good spot that I feel like I don't, yes, I could go in and I can nitpick things left and
+right, but at this point, I'm like, "Okay, this is going to be a really good foundation to start our real
+estate SAS website to start getting clients." And if people go to our main domain, our homepage, they'll be
+like, "Oh man, this is legit. They're professional. They know what they're doing." Right? because obviously a
+lot of people just don't move to the next step because they get paralyzed with analysis by paralysis and it
+looks like they're already building this out which I'm kind of loving this. Okay, so just wrapped up. So let's
+scroll down and let's check this out. That was already there. So okay, core element one. I'm going to probably
+I I don't love that it says that but stop leaking leads. Capture every opportunity 247 and it's got a kind of
+a little um animation there or it's got like a little figure there. Um core element number two, be your
+competitors to the conversation. Okay, so your AI assistant under five seconds, average agent, four and a half
+hours. I really love that. I love a lot of the before and afters or the comparison so they can kind of
+visually see what is happening. Okay, automated booking, right? Turn conversations and calendar appointments.
+So, I like how it went through and made these updates. And so the only other thing that I would do is just
+say, "Hey, instead of core element two, core element one is actually going through and say like, hey, get
+leads, um, speed the lead, and then like book more appointments, something like that. Okay, so I just made a
+quick little tweak of get more leads, faster follow-up, and then automated appointments." Now, one thing that
+I just was noticing, and I love that um, High Levels AI Studio does this, is it's got different suggestions
+here. Okay? Okay. And I'm realizing we don't even have a pricing section, which is literally the stupidest
+thing ever because that is like kind of the whole point of having a homepage, right? So, I'm just going to
+click on this. It just says include a pricing section with the 14-day trial details. So, I'm just going to
+click that. It's going to go through and add it. Um, I didn't necessarily give it a price point. I recommend
+charging about a $1.99 per month price point with real estate agents. I think there's more than enough value
+inside of the highlevel platform that when you're white labeling it and reselling it that that is an amazing
+price point and it's not too high to the point where a realtor can't afford it. Especially a solo burnt out
+realtor, they can still afford that and you can go through and justify it by actually getting them leads,
+having better sales conversations and booking more appointments um on their calendar. Okay. And this is one
+thing I love about High Levels AI Studio is it asks you different questions if it's unsure on exactly what
+you're trying to do. Now, I like to do the monthly verse annual toggle. Okay, so let's check out what the
+pricing looks like down here. Scroll down. Okay, so look, it added a monthly billing. So monthly $1.99 a month
+or if we go to the annual um 1990 annual uh which is exactly how I would set it up. It's typically like if you
+do an annual plan, you get two months free and then you're able to secure a lot more of that revenue upfront.
+Okay, so this looks great. Um, once again, if you guys want this exact template, plus all the other templates
+I'm going to be building here in the next couple of days, plus step-by-step training exactly how I grew my own
+real estate SaaS business from zero to over 15,000 paying clients in just six years. Either one, get started
+with my link and down in the description is an extended 30-day free trial to the highle software or if you're
+already a highle user, just upgrade using my link and I'll get you access to all of that as well. So, with
+that said, hopefully this video was helpful and I'll see you in the next

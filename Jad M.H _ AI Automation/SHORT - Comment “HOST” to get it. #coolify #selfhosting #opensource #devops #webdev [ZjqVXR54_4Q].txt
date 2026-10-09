@@ -1,0 +1,20 @@
+Title: Comment “HOST” to get it. #coolify #selfhosting #opensource #devops #webdev
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: ZjqVXR54_4Q
+URL: https://www.youtube.com/watch?v=ZjqVXR54_4Q
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:55:23+00:00
+
+Kind: captions Language: en For their Vercel, you don't need to pay for seller or Heroku to put a website on
+the internet. I've got this tool for you. It's called Coolify. It's open source and 61,000 people have used it
+on GitHub. All you need is your own computer. So, you point it at any computer you already have and it turns
+it into your own hosting platform. So, the thing you were paying per project, you now run once for everything.
+You give it a GitHub link and it builds you your website and puts it online. The same thing as you do in
+Vercel and you already know, but instead now it's in your computer. It runs your database, too. Postgres,
+Redis, MySQL backup on a schedule. Normally, that's a second subscription, but you don't need that anymore.
+And the best thing, if you were wondering about security, it gets security certificate automatically. So, the
+padlock just works. Think of it like buying the coffee machine instead of buying [music] daily coffee. For
+anyone running five or six projects, this turns stack of muffy bills into a machine that you actually own. If
+you want to try yourself, just follow me and comment host and I'll DM it to you.

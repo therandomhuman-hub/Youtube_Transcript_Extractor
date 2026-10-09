@@ -1,0 +1,105 @@
+Title: This Faceless Channel Got 6M Views in The First 30 Days! (FULL GUIDE)
+Channel: One Person Business
+Type: VIDEO
+Video ID: 7hj1DI5D-HE
+URL: https://www.youtube.com/watch?v=7hj1DI5D-HE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:45:41+00:00
+
+Kind: captions Language: en This faceless channel started less than 30 days ago and they already made this
+much from only four uploads. So, I spent the last week building this entire guide with all of the promise you
+can copy and paste for free and I'll share it with you in this video. And the reason I know that YouTube
+automation is becoming crazier than ever is because I spent the last 15 years building channels and things
+that are happening in 2026 have never happened before. So, let me break down this channel and then I'll show
+you step by step how to copy them. The channel in question is called the life outline. They started one month
+ago and their first video got 1.8 million views. Now, this was honestly unheard of back when I started, but
+this is becoming a norm. There are a lot of channels that blow up with their first video. Like this one 5
+months ago, 1.9 million views. Then this one, 2.7 million views in their first upload. And check this out, 11
+million views on their first upload. So, you no longer need subscribers or extreme experience in order to get
+views and potentially benefit from posting faceless videos. Step number one. And once you are inside of my
+free community that will link below, go to the classroom section over here. Then go to AI systems and there
+you will find this template called the life outline. You can access the system here and it will open up a full
+notion template with all of the prompts that we will be following. And in order to model this channel over
+here, we're simply going to open up chat JP3 and then we will copy this very first prompt. Now, this first
+prompt would allow you to generate a channel name idea that is similar to theirs, but not the same. I really
+like Black Blueprint, so I'm going to go with this one. Step number two. Now, we need to generate a logo. For
+this, I will simply open up Gemini or Nano Banana Pro. And in this case, you can just copy the prompt. You can
+paste it here. Select create image and submit. Now, I've got a profile picture that I can download to my
+device. Step number three, I'll simply create a YouTube channel by going over to gmail.com. I'll click on
+create an account for my personal use. I'll enter my birthday. Step number four, one of the most important
+steps is having the right video ideas. And in order to do this, there is a specific prompt that I've left out
+inside of the notion template where you would essentially take a screenshot of the channel you're trying to
+model where whether that's the life outline or any other channel. All you have to do is upload a screenshot of
+the channel and then alongside with that screenshot, copy and paste that prompt from the notion template. Now,
+Tread GPT will analyze their channel and then it will give you video ideas based on this prompt that we gave
+it. So, it's first going to show you visible titles, which is not what you're interested in. It's essentially
+doing that just to analyze frameworks and then based on that in step number four, it will give you 20 new
+optimized titles for your channel. So, for example, this could be a really good video idea for a channel like
+this because they talk about Mexican cartels and Russian mafia ranks, but they haven't really talked about
+Japanese Yakuza or your life as every prisoner gang rank. That is really good video idea. There are already
+plenty of jams in this list, so I will simply move on to step number four, which is to now write a script with
+AI. And this is by far the fastest and most beginnerfriendly option that is also free. and that is to open up
+notebook LM. Notebook LM is a tool made by Google where you can just click on try notebook LM. Click on create
+a new notebook from scratch. Then go back to this YouTube channel and you can copy links to their YouTube
+videos. You can click on websites here and you can just paste those links in this box. Now, if you're
+wondering how I copied all links at once, I'm using this free Chrome extension. It's called Grabbit. You can
+find it in the Google App Store. Just download it and that will allow you to select multiple links at once. Or
+you can also just do it manually. Literally just right click, copy the link and then paste it one by one here.
+And then alongside with that, we will just copy this prompt from the notion template. I'll paste it here and
+then I'll insert the title of my YouTube video from chat GPT. And I'll submit it. And now it will analyze the
+style of writing that that channel has. And based on their style and structure, it will write a brand new
+unique script that pretty much seems like it was written by the same person there just on a completely
+different topic because it was proven to get results for us. To be fair, I already love the script on this.
+One thing you want to make sure is that your script is over 1.8,000 words long, which means your video is
+going to be over 8 minutes long. That's very important. Therefore, when you get the entire script written,
+copy everything and then go to word counter and paste it in this box. And then just remove the unnecessary
+parts, which are these notes. And then if it's still over 1.8,000 words long, that's great. But if it falls
+back below 1.8,000 words, then just expand it a little bit. All right, our very next step is to now turn that
+script into a voiceover. We need someone to read it. And there is this new feature inside of 11 Labs, which is
+a tool that we use to generate voiceovers from scripts. So we don't have to spend thousands of dollars a month
+on real voiceover artists. So when you log into 11 Labs, what I need you to do is go to voices on the left
+hand side. Then click on filters, quality, high quality instead of any. Then select gender. Usually male
+voices sound more realistic. and select the age to be middle-aged. Change the language to English, unless you
+want to start a channel in a different language, of course, and just go with a conversational style because
+those are most realistic. And then just choose whichever one you like the most out of these. >> So, if you
+need to be calm but assertive with >> I love this voice over, so I'm going to choose Jarnathan Cross. Now,
+just go to text to speech and find that voice on the right hand side. Now, simply go back to notebook LM to
+copy my script. I'm going to start with a first paragraph. I'll paste it inside of this box. And you see on
+the right hand side, you're going to see two different models. You have Turbo version two, which is high
+quality, but then you also have version three, which is the highest quality option, but it costs more credits.
+However, when you use this option, you can enhance your voices, and you can then generate speech. It will give
+you two different versions to choose, whichever you think is better for your video. >> You're 21 years old,
+sitting in a cramped apartment in Osaka. >> I love this one. So, I'm going to download the voiceover. Next
+step, let's talk about visuals. So, if you open up any of their YouTube videos, you'll see they have this kind
+of animated cartoonish character, which looks very, very basic. But if you know anything about animation, it
+would take a little bit of time to create this if you do it manually yourself. That's why we're going to use
+AI for this. You'll find any scene you like from any YouTube channel that you're trying to model. You'll
+simply take a screenshot. Then you will open up chat GP3 where where you will upload that screenshot. You'll
+then just say create a detailed JSON prompt that would allow me to replicate this image or this character. And
+a good thing is that without a reference image, the other AI tool will not be able to copy this exact same
+image, which is really good because we're not trying to steal anything. So, we're going to go over to Gemini
+by Nanobanana. And then we'll paste it here. Select Nanobanana Pro and submit it. And then I'll get my own
+character that I can use. I can of course change its color. So I can say change background color to light blue
+and change its shirt color as well and then I'll get a different style. Now if you also want to animate these
+images and simply head over to cling.ai, paste your image on the lefth hand side and simply click generate.
+This will also create movement in your character. Next step, but they actually have different type of
+animation in their thumbnails. You see this is a completely different drawing and it looks much higher quality
+as well. Well, there is a specific prompt that you can use to create those characters for thumbnails. So, copy
+this prompt from the document and you'll just have to replace this with the character description. So, head
+over to Gemini, paste that prompt here. But remember, we have to replace that. So, we have to replace this
+text. You just have to describe what character you want. Once you describe your character, just submit and
+you'll get an image back that you can download. And to create a thumbnail like this, simply head over to
+canva.com. Then on the left-hand side, click on create from scratch custom size and then select 1920x 1080p.
+Upload that person. Remove the background. Then click on add text. Select font that you like. Then go to the
+elements on the left-h hand side. Search for arrow. I'll change its color as well. And then I'll flip it
+horizontally. And there we go. Now I have a thumbnail that is very similar to what performs well on this
+YouTube channel as well. And I can just click on share and download this as a PNG file. Next step is another
+layer of monetization. Besides just making money from ad revenue, a lot of people are now resorting to
+building their own digital products through a platform like school. For example, there is this AI faceless
+channel that is posting faceless videos with a main goal of promoting a school community. and she's selling it
+for $60 a month, has 300 paying members, which is around $18,000 every single month from this one digital
+product that she built. And so in the notion document, I've explained different types of products that we can
+build with a channel like this that build a school community on the back end. Because even though getting
+monetized and making 11K from ad revenue is great, there's a way to add additional income to that which can
+end up being two or three times

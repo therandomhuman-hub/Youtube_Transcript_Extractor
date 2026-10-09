@@ -1,0 +1,19 @@
+Title: Mira Murati's new company just released Inkling.#ai #aitools #ainews #thinkingmachines #inkling
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 1k0i6kRI0is
+URL: https://www.youtube.com/watch?v=1k0i6kRI0is
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:52:26+00:00
+
+Kind: captions Language: en The former CTO of OpenAI just dropped her very first AI model and like her old
+model company, she made it free to download. Her name is Mira Murati. Her startup is Thinking Machines and the
+model is called Inkling. It's a 975 billion parameter model that reasons across text, images, audio and video
+and it does something most models won't. When it isn't sure, it tells you instead of confidently making
+something up. Here's the honest part though. Inkling isn't the strongest model on the market and the team says
+so themselves. It's built to be starting point, something you fine tune on your own data through their
+platform called Tinker. So, it's a less finished ChatGPT killer and more a powerful base you shape for your
+own use. And the weights are already up hugging face right now, so you can actually grab it today. I put
+together a one-page card on what it is, how it compares and where it to download it. Comment Inkling and I'll
+send it over.

@@ -1,0 +1,258 @@
+Title: How To Make Faceless World Cup Videos With AI (STEP BY STEP)
+Channel: One Person Business
+Type: VIDEO
+Video ID: phQOB0yLNZ0
+URL: https://www.youtube.com/watch?v=phQOB0yLNZ0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:12:28+00:00
+
+Kind: captions Language: en I don't want to fear-monger, but before it's too late, I'll show you exactly how
+to make animated faceless World Cup videos with AI step-by-step and how to monetize those videos as best as
+possible. Now, the World Cup begins June 11 and ends all the way on the 19th of July. So, we have about a
+month to take advantage of this. So, you're not late yet, but the sooner you start, the better. I'm not going
+to explain why this is the first and probably the only World Cup over a lifetime when there will be so much
+money to be made. I explained that in my last video. So, if you haven't watched that, I recommend watching it.
+But, in this one, I'll just show you click-by-click exactly how to actually make those faceless YouTube videos
+for the World Cup. So, let's start with step one. Now, just before we get into making videos, I want to be
+clear. We're going to be making very long-form videos because shorts are a waste of time. Shorts pay way less
+per 1,000 views. I mean, the quality of that audience is very low. So, you can never promote anything in your
+videos or build a long-term business. And there's no option for you to even promote anything in the
+description later because links are not allowed there. And advertisers know that the quality of audience that
+is just scrolling shorts on their toilet is much lower than the quality of audience who can sit down and watch
+a 20-minute-long video in one sitting and have an attention span to even do that. And therefore, they spend a
+lot more money advertising in front of the second audience. And even a couple of people that do end up getting
+lucky and somehow go viral from shorts, they will need millions of views to just make a few hundred bucks. And
+it's going to be a one-time thing because shorts are almost impossible to build into a long-term business.
+While with a long-form channel, you have longevity and you can build a brand that then sells products and
+offers and continues to grow long after the World Cup ends. And you're just using the World Cup as a shortcut
+to growing faster now. And And then, the longer the videos are, the more mid-roll ads you can place. And as
+YouTube continues to compete with Netflix and traditional TV, they're doing their best to reward those of us
+making long-form videos. And with shorts, you can only have one ad here and there, and therefore they pay a
+lot less. But if you have a 20-minute long video and there's an ad every 30 seconds or every minute, there's
+like 20 to 40 times more ads, therefore 20 to 40 times more earnings. Okay, first you need to figure out what
+you're going to make videos about, and there's multiple ways to approach this. The first one is my strategy
+called niche quilting. So, I invented this year and a half ago, where you take a proven format from one niche,
+and you copy-paste it into an adjacent one. In this case, we're going to do that with the World Cup. And I
+have a list of over a thousand faceless channels making between $5,000 and $50,000 a month, and we can
+effectively apply whatever they're doing in their niches to the World Cup in this case. So, here's an example.
+There was this cat channel called Fallon. Their angle was educational cat content, and then someone took that
+and turned the exact same title of frameworks, but to dogs. So, you just replaced cats with dogs, and then
+someone did that with birds, and then someone did that with fish, etc. And you can even take that a step
+further and apply it to babies, for example, and then switch from white babies to black babies, and it still
+works. And I'll show you in a second how to apply this niche quilting strategy to the World Cup itself. And
+you can literally do this over and over again. So, it's same type of graphics, same triggers, and this way
+you're not reinventing the wheel, which is not necessary, especially because this is very time-sensitive. You
+don't want to test random ideas. And if you're wondering whether this works or not, these are videos that have
+exploded on channels that had zero subscribers, and they got hundreds of thousands, in some cases millions of
+views on their first upload by applying niche quilting. All right. Now, to make things easier for you, I spent
+the last few days building this entire free Notion document with all of the prompts you can copy and paste if
+you would like to follow along this tutorial. It is completely free inside of my free community. When you go
+to the classroom here, just click on AI systems. That's where we have a bunch of free resources, but you can
+click on AI YouTube systems, click on a World Cup AI animation, click here, and that's going to open up this
+Notion document. Now, for the sake of this tutorial, I'm going to be niche quilting this dogs channel, cats
+channel, and this prehistoric channel for the World Cup and football. So, I'm going to look at their title
+frameworks and I will apply them to the World Cup. And for this, I'm going to be using this prompt right here,
+so you can just copy the first prompt. And then open up any AI model of your choice. I personally prefer
+Claude, but whatever works for you is completely fine. Then just take a screenshot of any successful channel
+that you're trying to niche quilt. And I recommend not copying exactly what channels I'm niche quilting in
+this tutorial because if everyone does the same thing, then no one gets the views. But as I said earlier,
+there are literally thousands of channels that are successful in different niches, and you can apply their
+title frameworks to World Cup. So, this is the part where you just have to be very creative. The rest of the
+process you can copy-paste from me, like making those animations and editing those videos for free. All of
+that stuff is fine, but the first part, you have to create and come up with some unique ideas, but make sure
+that they are proven to get results even in separate niches. Like in my case, I'm taking these dogs and cats
+and dinosaurs and prehistoric humans and applying them to the modern World Cup in 2026. Now, Claude is going
+to give you some ideas, and most of them will be trash. They will not be applicable to the World Cup. For
+example, what did soccer players do all day before the World Cup existed? Is a dumb idea, but he niche quilted
+that from one of the channels that I have attached, and that's completely fine, but I'm just not not to do
+that. I'm going to go through these and pick something that works much better. So, for example, I saw this
+one, the worst time to have ever been a goalkeeper, which was niche quilted from this video that got 6.8
+million views, the worst time to have ever been a human. So, out of 10 different ideas that it gave me, I can
+actually only choose two of them. Eight of them are trash. All right, now in the era where everyone is
+generating scripts with ChatGPT, YouTube doesn't promote generic videos anymore. So, in order for us to get
+views, we have to share something that's new, that's unique, that's obscure, that feels novel to the viewer
+and therefore to the algorithm itself as well. So, what I've done is I've created this prompt that we're going
+to use to research our subject. You're going to copy this prompt, you're going to paste it alongside with the
+title that you chose earlier, and that's going to tell Claude or ChatGPT or any AI model that you're using to
+go and find obscure facts on this subject. It's going to find 10 different points that most people have not
+heard about before because when we share something that is new, people A, pay attention more because it's not
+generic, but B, we get more views because the algorithm can instantly read our transcript now that we upload
+our videos, and if we're just sharing the same stuff as everyone else, the same things that a thousand people
+have that people have already heard a thousand times, there is no reason for the YouTube algorithm to promote
+us to a wider audience, and so we're not going to get views. This is a very important step, and that's what
+these AI tools like Claude and ChatGPT are best for. They're best for research and general assistance. They
+were not built for YouTube, but specifically for researching subjects, they're very good. All right, and the
+very next step is writing a YouTube script that is not generic, so we can actually get views. And there are
+four different ways to do this. The first option that is completely free is to just open up Google Docs and
+start writing the script yourself manually. This is obviously going to take a lot of time, but at least it is
+completely free, and it's going to allow you to produce something that is unique. The second option is to use
+AI tools like ChatGPT and Claude, And there is nothing inherently wrong with this. What I don't like is that
+the scripts are pretty generic, even if you prompt them hard, because these tools were not built for YouTube.
+They were built for mass appeal, and they don't have access to YouTube or YouTube strategies. They don't have
+the context of what actually works on YouTube. They don't have access to high-performing videos and
+high-performing structures and formulas and frameworks and hooks that work. So, they're just spitting out
+whatever they think would be the best, no matter how much you prompt it. In most cases, it ends up being
+generic, though with decent amount of prompting, you can get some okay-ish scripts for long-form videos. You
+can just look up for frameworks and formulas on YouTube and look up for frameworks that you can attach to that
+prompt, and then it can write the script for you. The third option is to just pay someone to write the script
+for you. If you go to Fiverr, uh you can find people doing that from anywhere from 50 to $100 per YouTube
+script. And as you can see, a 150-word script in this case is $67, which is quite expensive, and a natural
+long-form video script is almost $200 to be written by this person. Others do it for uh for 1,000 words, and
+then 2,000 words is $250. So, it can get pretty expensive per video. So, what I personally do is I use this AI
+tool, which is all-in-one operating system for one-person businesses, which also has the feature called
+YouTube Script Writer, which was trained on thousands of successful YouTube channels from different niches,
+and it has access to frameworks and hooks and formulas that have already performed well on other channels. So,
+you can find it in the Content Studio on the left side. You can then click on YouTube Script Writer right over
+here, and then you can just describe what the video is all about, then paste your title in this box, and right
+here where it asks you for details, this is where you can get those 10 unique points from Claude. Again,
+Claude and ChatGPT are really best at doing research and you can just copy the research that they've done for
+you and you can add them into the text note here so that Solo starts using that in the video itself to share
+something that is new and obscure. So it's going to bake it into the script. You can also add PDFs and YouTube
+videos. So the more context that you give it, the more unique the script is going to get. So it's going to
+pull from different places and it's going to write a very unique script. And then when it asks you for style
+of writing, this is really cool because you can go to any channel on YouTube. You can just copy a link address
+to their YouTube videos. I recommend their most popular videos and you can just click here to add a YouTube
+link, paste it and now it's going to model that style of writing. It's going to apply that to your video. And
+then when it asks you for your monetization goal, you just select how you would like to make money from this
+video. You can bump up the length. So for example, I'm going to go with a 10-minute video for this and I'm
+just going to click generate script and I'll let it do in probably 60 to 90 seconds. I'm going to get a full
+script done 1,000 times cheaper than to pay someone to write the script manually. I mean, also it takes them
+quite a while to deliver it, like four days delivery versus 90 seconds. But again, if you don't want to spend
+money, you can either do it manually or you can hard prompt these AI tools and try to get something out of it
+that is good. Now once the script was written for you, it's going to be around 2,000 words in my case. You can
+expand it with one press of a button if you'd like it to be longer. If not, you can just copy everything and
+you're good to go. All right, next up is creating these AI animation visuals and editing of our videos. And
+there is different ways to do this. The first option is to just do it manually by going over to ChatGPT,
+upload a reference style of animation that you like and just say I'm going to paste my YouTube video script
+and you're going to create prompt for each of the sentences. So each sentence is going to be separate scene
+for each prompt. Make sure to add that it's going to be 16 by 9 aspect ratio and it's going to be in that
+style of animation that you like. And make sure that it's not going to have any unrealistic sci-fi elements or
+whatever and then just paste your script to say script and then paste everything in this box and then tragedy
+will give you each prompt that you can copy and paste manually into a tool like Gemini. So Gemini sometimes
+doesn't listen so we'll have to do it again. You start a new chat right here. You select create an image and
+then you just paste the prompt and you wait. Problem is you have to wait for each image to be generated which
+takes about 90 seconds until you can go back and copy the next prompt and then you have to wait and then
+submit it again and then wait and this entire process can actually take a couple of hours. Once you start
+getting these animations, you can download them here. They do have this watermark that you will have to
+remove. So what I do instead that is much faster and more efficient is I go to AI visual studio inside of
+solo.ai. There is this scene generator where you can paste your YouTube script in the box. On the right side
+select the model whether it's premium or standard. Premium obviously takes more credits and you can just
+select how many scenes you want generated at once. You can go up to 150 scenes. Select a style of animation
+you like and that's it. Just click generate bulk scenes and in about 90 seconds you're going to get all of
+these different scenes that you can use in your video and you can download everything with one press of a
+button right here. What's really good is that these images have no watermarks as well and once you download
+them they're named in order so you don't have to figure out which scene goes where but it just shows you 4 5 6
+7 8 9 10 etc. Now you just need to put everything together and you can use any free video editing software of
+your choice. You can even use Canva to edit these videos. I personally use CapCut. I found it to be very
+simple and they do have a completely free option as well. You can just start a project, click import, find the
+folder with all of these images and click open. Now when you drag and drop them to the timeline, again they're
+all going to be in the right order. Now, just before we start editing, we need one more thing, and that is
+someone reading our script. We need a voiceover, and there's three different options. You can either record a
+voiceover yourself, which is something that I actually do recommend because you can just open up a free online
+voice recorder, click here, and start reading your script. It does take a little bit of time to do it
+manually, but your voice is unique, and in the age of AI, it's going to stand out quite a lot. And even if you
+have an accent, that's really good, and I highly recommend it. But if you don't want to record your own voice,
+there's another free option, and that is Google AI Studio. So, YouTube really wants us to start using AI
+tools. So, they have this thing called Google AI Studio, where you can just write your script, and it's going
+to create a voiceover. It's called text-to-speech. Though, it's obviously not the highest quality, and there's
+not many options in terms of different voices, so you're probably going to be having the same voices as almost
+everyone else, and it's not the highest quality. The third option is to go and hire a voiceover artist on
+Fiverr. And if you do that, even if you go with like the cheapest ones, let's go with this one, $10 for 200
+words. Remember, our scripts are around 2,000 words. So, that's around $91 per voiceover. It's not that bad,
+but it can quickly add up if you start posting more videos. So, what I do instead is I just go to AI Voice
+Studio inside of Solo. I click on a voiceover right over here. And there you can find over 9 and 1/2 thousand
+different AI voiceovers that sound realistic, that sound like actual humans, and you can filter by gender, you
+can filter by age, and you can filter by language, and just find whichever one you like the most, and paste
+your script in this box. When you get the script, just click generate. The voiceover is going to show up on
+the right-hand side afterwards, and you you download it. All right, the very next step is optional, so you
+don't have to do it, but it's really going to elevate your videos if you do it. And that is to animate these
+images. And I say you don't have to do it because it takes a lot of time and it can be very expensive, but one
+of the ways to do it is to just go to the AI video studio on the left side inside of Solo, then click on video
+creator right over here, and there's going to be a bunch of native models built specifically inside of Solo
+like Solo LX high-end. This is the best, this is the one that I did use, but it costs quite a lot of credits.
+So, there are some other more budget options as well that are available here, and you can play around with
+generation modes, and you can check out how many credits it's going to take out. But, for example, when I
+chose this one, all I had to do is click on image to video, and then upload an image, and then it just
+animates the scene for me. So, here's an example. I just select an image here, and you have to put some
+prompts, so all I do is I just say slow zoom or slow pan, and then click generate, and then it looks something
+like this. To be fair, you can really only do this for the first couple of scenes to make the video a little
+bit more engaging, but bear in mind that it is going to use quite a bit of credits. All right, the next step
+is to put everything together, so you open up your video editing software, you import all the footage and the
+voiceover, you drag the voiceover to the timeline as well, and then you just have to listen to the voiceover
+and adjust the length of these scenes to match the voiceover. And ideally, you want to be switching these
+scenes faster in the beginning just to grab people's attention, but make sure they are fitting properly what
+the voiceover is saying. Now, if you'd like to add some slow zoom animation to some of these scenes, all you
+have to do is click on the beginning of the scene, select the scene, and then click here to add a keyframe to
+the scale inside of basic, and then at the end of this scene, you add another keyframe, and you can bump up
+the the scale. And then, if you go here, you'll see that it slowly zooms in. You can do the same thing for the
+next scene. And you can do that for a couple of them, again, to just keep it a little bit engaging. And then,
+another thing you can do is you can add auto captions. So, when you click here, auto captions, click generate,
+they're going to uh show up here automatically. But, the default captions look kind of trash. So, what I do is
+I select a template here, and there's a bunch of them that you can choose from. I use this template cuz it
+shows one word at a time. Though, I make it slightly smaller cuz people usually complain if the captions are
+too big, but it really makes it engaging when there's like one word at a time showing up at the at the screen.
+Now, depending on your editing skills, this can take a couple of minutes to half an hour to an hour.
+Sometimes, if you're really a complete beginner, it can take a couple of hours, but that's completely fine. We
+are building a business. This is not a get-rich-quick scheme. So, this requires effort. It requires hard work.
+When you are done, you're just going to click export, and you're going to export it in 4K, format MP4, and
+just click export. Make sure the video is selected here, audio not selected, though it is going to have audio.
+That just means that it's not going to export uh separately. So, just export it in video MP4. Next up, we're
+going to need a YouTube thumbnail. And for this, you can just go over to canva.com, which is a completely free
+tool, or they have a free trial that is also forever. And you can just click on create a blank new YouTube
+thumbnail. And to be fair, you could just upload this one of the animated scenes, remove the background,
+adjust the size of it. And then, for the text, I also like to copy from other niches. So, for example, here we
+got a thumbnail that has 4.9 million views, and it says, "We can't explain." So, it really opens a curiosity
+gap. It's like, "What? We can't explain what?" So, what I can do is I can add something similar, obviously
+depending on what the video is about. And then, I can also just add some elements like an arrow pointing
+towards the element. And then I can click share, click download, and download as a PNG file. Now, there is
+also a thumbnail maker feature inside of Solo where you can either create a thumbnail from a prompt that you
+insert in this box, or you can recreate thumbnails from YouTube. Now is the perfect time to do this because
+this new format of simplified animation is exploding across all niches like Heresy channel that started 2
+weeks ago. Their first upload has 600,000 views. Channel that at the time had zero subscribers and blew up in
+just 15 days of starting. Here's another YouTube channel that started 1 month ago. Their first video 700,000
+views. And in the first 30 days of starting they made $15,000 in ad revenue. Here's another one, Dave
+Explains. Here's another YouTube channel over here that also started just 2 weeks ago. Here's another YouTube
+channel that actually started 1 month ago. Their third upload has 300,000 views then 250,000 views. And it's
+the same simple style of animation. Here's another faceless channel that started 2 months ago and have 7
+million views on this video already. They're doing 30 to 60k a month easily uh from this faceless channel.
+Here's another one over here that also blew up with this simplified style of animation. So, it works across
+niches and we're now just adjusting this for the World Cup and the football niche. Now, another extra income
+stream is also affiliate marketing and promoting affiliate links. And if you're already inside of Solo and
+you're using it, there is a partner program right here that pays two-tier affiliate commissions. So, you get
+10% every single month from a person that signs up using your link. And then if someone signs up using that
+person's link, you also get another 5%. So, it's two tiers and it's recurring for a lifetime. So, you get
+basically passive income every single month into your account as an affiliate for this tool. All right. Now,
+let me answer a couple of your questions to remove the confusion. So, first of all, can you use FIFA's
+official footage because now they have a partnership with YouTube and in the blog post itself it says that
+their content is now unlocked for us. Yes, but not everyone can use that footage. And personally, I wouldn't
+mess too much with their footage because there are some copyright laws. I only use scenes here and there. So,
+it's not the whole video taken from them. It's only beats 5 to 7 seconds here and there. The rest of the video
+is completely unique to me. And we also fixed this problem of where do we even source the footage? But just
+using our own AI animation format that's already proven to work across niches. It's proven to blow up. Now,
+can you still monetize AI though? And absolutely, yeah. You always will be able to. I mean, that's why YouTube
+is investing billions of dollars right now into building AI tools. They're launching AI tools almost every
+month for creators. I mean, they're baking Gemini into the YouTube studio itself. And all my channels that use
+AI are monetized. In fact, I started a channel 47 days ago that got monetized and made over $60,000 in ad
+revenue. And I've used pretty much all the AI tools that I've mentioned in this step-by-step tutorials. Also,
+same principles that you've learned today work on any other niche. You don't have to make World Cup and
+football videos. You can do this in any other niche. GTA 6 is around the corner. That could be a good one, but
+there's a thousand different niches. And I told you like I have a thousand channels on my list that are making
+money in categories you wouldn't even think of. Gardening, fishing, cats, hamsters, like whatever. But just a
+disclaimer though, most of you doing this for the first time will not blow up. I didn't blow up in my first
+channel. I started my first faceless channel back in 2015 and it was hella hard, especially because we didn't
+have these AI tools, but at least the skills that you acquire are the most valuable skills of this era.
+Researching, script writing, editing, creating visuals, niche building ideas, all of those can be spilled into
+other industries or you can later just work for other creators and do those things for them and start charging
+them. I mean, you saw how much money people are charging for on Fiverr for some of these things that we'll
+learn today or you can just start other channels in other niches. Again, you're most likely not going to blow
+up the first time. I have channels that flop. Just like any other business, there is risk with this, but at
+least the deck is stacked in your favor, not only because YouTube's new AI algorithm is now pushing smaller
+channels, the World Cup is really trendy, and I even made this video showing a bunch of videos, a bunch of
+channels that that started 30 days ago and blew up pretty fast, but mainly because what you learn today, you
+can monetize in like 20 different ways if you wish to. But again, this is not a get-rich-quick scheme. I know
+a lot of people call this YouTube automation, but to be fair, there's almost nothing that is fully automated
+here and it shouldn't be. This is a business, it's a creative business. There's no ceiling to how much you can
+earn and we should respect it. We should respect YouTube and just bring original content to the table, have
+fun, create something that provides value to your audience, enjoy making these videos, and perhaps you might
+be able to monetize them as well.

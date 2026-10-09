@@ -1,0 +1,120 @@
+Title: Do THIS To Get More Views in 1 Minute
+Channel: One Person Business
+Type: VIDEO
+Video ID: eEEpAlSy_ko
+URL: https://www.youtube.com/watch?v=eEEpAlSy_ko
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:46:12+00:00
+
+Kind: captions Language: en This video was basically dead after the first 48 hours and I wanted to quit on it
+and just move on to the next upload. But then I did something and it resurrected and then ended up making over
+$31,000 in ad revenue. You see, YouTube has a hidden 48 hours evaluation window that most creators don't even
+know about. And during this time, the algorithm is testing one specific metric that determines whether your
+video leaves or dies. And 90% of creators are failing this test without even realizing it. So, I've analyzed
+over a 100 channels across different niches. And I found the exact pattern that separates videos that explode
+after 48 hours from those that get buried forever and don't get any views. And in this video, I will give you
+11 different things you can do right now to fix that. My name is Dave Nick. I'm the first and only creator
+that invests in my viewers through my venture capital. So, my goal is to get as many of you to at least $5,000
+a month because then you might sell that channel to me and I will scale it further. Anyways, let's begin with
+fix number one. You see, most YouTube videos die after the first 48 hours because the title is promising the
+wrong thing and YouTube's AI system knows that. So, if your video has died after 48 hours, you can regenerate
+that title using this Claude formula or this Claude prompt. So go over to your YouTube video, go to analytics
+on the left hand side, then scroll all the way down and find this retention graph. Now you can just take a
+screenshot of the retention graph. It can look something like this. Make sure you have the entire chart
+inside. So something like this. I just took a screenshot. Then open up that video and open up the YouTube
+transcript. So click on show transcript and then on the right hand side you will get this transcript over
+here. Select the first minute. So, as you can see, the first minute only. And then enter this prompt, which
+I'm going to link in the description so you can copy, but it says, "Here's my video title, thumbnail in first
+60 seconds of transcript." And then the retention graph data. We're asking it to rewrite the title to match
+the strongest hook moment in the first 60 seconds. And now, based on all of this data, Claude is going to give
+me five different titles that I can test to try and revive this video. Fix number two. A lot of creators
+really underestimate this and sometimes your audience doesn't even know that you posted a new video. So, one
+of the easiest and quickest fixes that you can have here is to just share that video on your community tab.
+I've started doing this recently and that added an extra 117,000 views to my channel. So, it really is as
+simple as just adding a link to one of your new YouTube videos and then adding a tagline that's going to
+convince people to go and click and watch that video. As you can see, I've been doing that over and over
+again. Fix number three. You see an influx of new comments in a short window can revive a that video because
+YouTube treats it as fresh engagement spike. So your goal is to pin a question or a controversial comment
+that's going to spark debate underneath and it's going to make people reply under that comment even more. Now
+you can either write those comments and questions manually or you can use AI. In this case I use Poppy AI to
+upload videos. So, as an example, let's say if I were to run this channel called Extinct Zoo, I would just go
+to Poppy AI, I would load a few of these videos, and then I would just ask AI to analyze comments under these
+videos and find controversial or curiosity provoking questions related to this niche that spark the most
+engagement. Or if you don't want to pay for any AI tools, just go to your YouTube channel, take a screenshot
+of your latest videos or even that specific video that you're trying to revive and just ask CHP to analyze
+your video and identify potential controversial topics or curiosity gaps that might spark conversations
+underneath. Then just take one of those questions, leave a comment from your main account, and pin that
+comment under the video. Fix number four, just remake it. You see, some of these videos are not even worth
+saving. And I've personally done this countless times where I would just take literally the exact same video.
+Maybe I would change the intro, but I rarely do that. In most of the cases, I just take the exact same video
+file, just upload it with a different title and thumbnail. And maybe you just published it in the wrong time.
+It's not the right time to publish that specific video. And if you just wait a week or two or 3 weeks or a
+month, you can just re-upload it again with a different title and thumbnail. And you don't necessarily have to
+delete the last one. You can either let it just stay public or just set it as unlisted if you don't want it to
+stay on the channel. But you can literally take the exact same video if you believe that the video is not ass
+if it's like actually good. It just like you're like, "Okay, the algorithm didn't push it at this time, but
+maybe I can try it again with a different title and thumbnail, like a different re-upload." But if the video
+is really bad and no one wants to watch that, you can re-upload it as many times you want. It's just not going
+to get views. Fix number five. Just before you publish your next video, go to Claude and type in rate this
+video from 1 to 10 across storytelling, hoop strength, pacing, information, density, curiosity, and energy.
+Then give me the exact fixes. And then before you submit this prompt, just go to that video that you're trying
+to revive. Then go and copy the transcript. So go here, click show transcript. On the right hand side, you'll
+find it. And also add the title of the video. So Claude has some context and now Claude will just analyze
+everything. And by the way, this is a free tool. I've never really paid for Claude, but it's going to give me
+the exact problems and exact ways that I can fix those problems to actually revive the video or make sure it
+doesn't die after the first 48 hours. And then later, I can also ask Claude to rewrite my script with these
+fixes included, so I don't necessarily even have to read any of this stuff. Fix number six is to add
+timestamps with keywords related to your niche or related to the subject that you're trying to rank for. So
+timestamps are these chapters that you're seeing when you watch a YouTube video. So as you can see, we have
+step one, step two, three, etc. But when setting up these timestamps in my description, I can add keywords. So
+instead of saying step number one, if that step is about something that I want to rank for, so for instance,
+how to start a faceless channel, how to create a faceless video, maybe that's the next step. So instead of
+just saying step two or step three, I can enter keywords that I'm trying to rank for and also I'm trying to
+signal to the YouTube algorithm that this is exactly what the video is about. So it confirms and then helps me
+find the right audience for this. Again, you are going to do this when you go to your video details inside of
+the studio. Then you go to details here and then you go to the description and you just type in all of the
+timestamps. Fix number seven. You see, maybe your video is good. Maybe the title is good and the script is
+good and editing is on point, but you copied someone's thumbnail and it's way too similar to the original one.
+Because there is something called thumbnail similarity penalty. If your thumbnails are extremely similar,
+almost the same as the original ones, YouTube's AI system can now detect that and will either consider it spam
+or someone stealing content and it will try not to push that video as much. Because if you try and imagine
+someone's homepage, there was not this AI system in place and anyone can just copy someone's thumbnail, in
+theory, there could be only one thumbnail being copied across the platform and it will just look extremely
+spammy. So to prevent that, YouTube is not pushing videos that have extremely similar thumbnails to videos
+that are already performing well. Cuz when was the last time that you saw two similar videos, two extremely
+similar thumbnails, one next to another on your YouTube homepage or on the side. So, when trying to get some
+inspiration for thumbnails, don't completely copy someone. You can take their style, but add something unique
+to it. Add your own colors and your own branding instead of literally faking the exact same thing. Fix number
+eight. You see, maybe your videos are just way too broad and you need to niche down more, especially if you're
+just starting out. I get it. You You're seeing your competitors cover these broad topics and get millions of
+views, but your competitors are not beginners and you are not your competitors. You are a beginner. You're
+just starting out. So covering something that's way too broad and not specific, it's going to be very hard to
+compete with channels that have already gotten millions of views or have a ton of subscribers. So I use this
+uh free newsletter and they give out different uh title frameworks that I can use for pretty much any niche.
+So they give you the title that has worked in on someone's channel in some niche and then you can just apply
+to your own channel in your own niche even even if it has nothing to do with the original one. And this is how
+you can come up with some unique titles and unique topics for your own niche and not just blindly copy your
+competitors. Fix number nine. Maybe it's not any of those things. Maybe the reason your videos died after the
+first 48 hours is because you have the wrong settings. So, just make sure that you go to your YouTube studio,
+go to settings, go to channel settings, and then go to advanced settings over here, and make sure that your
+channel is not set for kids. So, if your channel has this enabled, yes, set this channel is made for kids,
+you're going to be severely limited. YouTube is not going to push your videos as much. is going to be way more
+careful as to who sees your videos and you won't be able to earn as much money if your channel was not made
+for kids. Fix number 10 are your channel tags. So what you can do is you can go to your YouTube studio. You
+can go to settings on the lefth hand side and you can go to channel right over here and you can enter keywords
+related to your YouTube channel or keywords that you're trying to rank for. And also you're trying to signal
+to YouTube, hey this is the audience that I'm after. Please show my videos to these people so you save time
+for both you and the YouTube algorithm. So for example, I'm trying to attract an audience interested in
+growing on YouTube. So I can type in grow on YouTube, YouTube automation, faceless YouTube. So anything
+related to my niche, I can just enter inside of this box. And once I'm done, I'll just click save. Fix number
+11. Make more of how I videos. Like how I did something impressive, new, or unique. I mean, some of the most
+popular videos on this channel you're watching right now are how I made or how I did something impressive. Not
+only does it get the most views, but it's also something your competitors can replicate because you did that
+thing. Another really cool example is this girl who was kind of struggling to get views on her videos. And
+then as soon as she made this video called How I Did Something, got two million views and then it lit up her
+entire channel on fire and now she's getting more views than ever on every single upload. And if you're like
+Dave, but I haven't done anything impressive in my niche, then go and do it and then make a video about it.
+And lastly, maybe your channel is just in a completely wrong niche where you can't even get views. So, to make
+sure you're in the right niche, you can watch this video that's on the screen right now, where I share a list
+of the best and most profitable YouTube niches right now. Even if you don't want to show your face on camera,

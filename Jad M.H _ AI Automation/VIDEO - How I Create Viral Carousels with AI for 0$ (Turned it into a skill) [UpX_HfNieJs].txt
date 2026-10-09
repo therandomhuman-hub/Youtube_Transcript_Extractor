@@ -1,0 +1,123 @@
+Title: How I Create Viral Carousels with AI for 0$ (Turned it into a skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: UpX_HfNieJs
+URL: https://www.youtube.com/watch?v=UpX_HfNieJs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:17:02+00:00
+
+Kind: captions Language: en If you don't post, your life will not be what it could be. >> You're more than
+allowed to slowly go out of business. >> Till you show up every day, bro, they're not going to pay attention
+to you. >> Everyone here knows you can post content. It's free, people see it. >> The algorithm is so good
+now. You could just [music] see every single AB thumbnail test every other YouTuber is running. >> You know
+how long this would take designers to make? >> A year and a half with a person, but it can take you 100
+minutes with AI. >> The robots are going to take over me. >> Every carousel that you're about to see was made
+with $0. No Canva Pro, no API, no designer. The only thing you're paying for is your Claude or ChatGPT
+subscription, and even that with the cheapest plan you have. >> [music] >> And it doesn't just design them. It
+goes on the web and finds what are people talking about right now, finds the posts that are already winning,
+and turns them into a carousel in your style. My last carousel video did really well, and a lot of you asked
+for more. This one actually goes further. >> [music] >> Last time I showed you how to make them look good.
+This time I'll show you how to make them look good and also get rich. Even if you are a roofer or a dentist or
+any business, you can pick for like the style sheets reference or your camera roll that you have right now.
+I'm actually really excited to show you this. I've been working on it for a while now, and I was trying my
+best to keep it at $0, no API cost or anything like that. So, the first thing I want to talk about is why
+bother [music] with carousels? Because carousels are one of the highest performing formats on Instagram and
+LinkedIn right now. People swipe, they stay on your post longer, they save it, and then the algorithm pushes
+it. [music] But here's the thing, most people are doing it wrong in two ways. The first problem, they all look
+the same. Same layout, same fonts, that generic AI look. [music] People scroll right past it. That's not the
+AI's fault, it's the prompt. The second problem, nobody knows what to post. You open your phone, you've got
+nothing, so you post nothing. And when someone checks out your business, the first thing that they do is look
+at your socials, and I'm sure you've done it, too. >> [music] >> If your last post was eight months ago,
+they're asking, "Are these guys still even open?" So, you've got two problems. It looks like AI, and you don't
+know what to say. In this video, I fixed both of that. Basically, the system has three points. >> [music] >>
+The first part, it finds the topic. The AI goes through social media, looks at what's recent, and what people
+are talking about in your niche. And finds the posts that are already performing, so you're not guessing
+anymore. You're taking something that's already proven. [music] The AI writes the carousel. The hook, the
+body, call to action, >> [music] >> writing it in a way that people would actually swipe through. Part three
+is the design. And this is the part that people get a lot wrong. It follows a style sheet reference, so every
+slide respects the fonts, the colors, [music] and your vibe. Page one looks like page seven. It looks like
+your brand, not like AI. Now, there are two ways you can use this, depending on who you are. Nice looking
+carousel, you go on Pinterest, find a design you like, and turn it into a style sheet reference. [music] Of
+course, I'll show you exactly how to do that. That every carousel follows that style sheet. Unlimited styles,
+unlimited fonts, and it's all free, because it's on Pinterest. The second option that I'm actually more
+interested in, and I'm super excited, you have a business, you're a roofer, a dentist, a contractor, a gym,
+whatever. You already have hundreds of pictures on your phone. Before and afters. The AI is smart enough to
+understand what is a before and after, or for example, your job sites before and after. The AI takes the real
+pictures, edits them, and builds a viral carousels on a topic that's trending right now. So, it's not stock
+photos, it's your actual work packaged, so people stop and swipe. Now, let's talk money, [music] because I
+know that's the first question. Running it locally, meaning on your own computer, costs $0. >> [music] >>
+You're not paying for a single dime out of your Claude or ChatGPT subscription. If you want the hook slide to
+look a little bit extra, the first slide is the most important one. We can generate that with an AI image
+model, ChatGPT image [music] model. Right now, there's GPT-2.5 Flare that is really popular and is one of the
+cheapest. And it's performing really good. [music] But you don't have to do that. So today, I'll show you
+those two options, of course, and I'll walk you through how to sell the skill and how to use it. Okay, now
+that you know the problem well, we're solving and how we're solving it, let's actually build it. Everything is
+in the link in the description, the zip, the prompt, the stylesheet prompt. You're not coding anything. You
+install it, it's running under 2 minutes. You can either watch this video or just go on the link down below.
+[music] And I want to mention, these videos are not sponsored. I take my own time to make these videos. If you
+could stay all the way to the end, >> [music] >> leave a like and a follow, it really pushes my videos. And
+let me know what you think down [music] below. Now, let's get right into it. The first thing that we need to
+do is go on Claude or ChatGPT, wherever you have your subscription. Right here, I'm just going to type Claude.
+And I type Claude install, and I download it. Once it's downloaded on my computer, I just go and open the app.
+We create a new folder, you double click, new folder, and let's call it Carousel Carousel Style Sheets
+YouTube. So I can make sure out of all my folders that I have, open my Carousel, I mean the the folder. So I
+keep it right here. And in the link down in the description, you will have access to the zip and also the
+prompt that you should paste in. So right here, the only thing I'm going to do is basically download the zip.
+Once it's downloaded, I just drag it to the folder, drop it in here, and close it. Now I'm going to my Claude,
+and I you make sure you're not on chat here, on Claude code and you change the folder year to the folder that
+we've just created. You know right here I can see carousel style sheet YouTube. I open it, trust workspace. I
+go back to the Google Drive and I take basically just the prompt that there's here. Command A, copy and paste
+that in. While it's doing this, let me explain to you how it's generated. So in here in my school, you'll have
+access to the free resources and here we have the style sheet prompt. I'm just going to copy all of it right
+now. And I go in Claude. It's fine to use end web. We're just going to be using the chats. I paste the prompts
+in and I go for example on Pinterest and I want to find something that is kind of like appealing to me, a
+carousel. But stake for example this one. I really like this one so I'm going to save it here to my carousels
+and I will also save the image. If I give the prompt to Claude, the only thing you have to do is basically
+drop the image here and let it cook right now. And to explain to you further, what I'm trying to do is
+basically create the style sheet references. They're super important. These are the guardrails for AI so it
+won't be hallucinating and creating something that is not your color fonts or your design, your business
+design. So you can see here it shows the type of specimens, the palettes, the world and the components. We can
+also see this one for example, very different. So the way we make these images basically, I just use GPT image
+tool high. So I just click on recreates and I think now Claude should be done by making the prompt. So what
+did it like what you should do is take the prompt here, move this. You want to make sure it's high so that
+because the details really do matter here in the statue reference. And you and you drag the picture that you
+liked cuz in here in the prompt that you see in the beginning, a reference photograph is supplied with this
+prompt. So it's not in the dark. There we go. Generate. Now while this is generating, I would like to explain
+to you how it works also if you're a dentist or you have a gym or you're a contractor and you have a bunch of
+pictures. So, what I've done myself is I took some of the pictures that I had and it basically made those
+viral viral case cells. Um so, this is me and my beautiful partner um and you can see it did an effect a grain
+over it. And here is a kept doing this. The writing style is really good. It's respecting everything. It looks
+really appealing. It edited the colors on the image, too. Now, it just added captions. Here is one of the
+pictures that I took on my trip here and it's the last one. I really like that it added a layer a layer on top
+of it. It makes it look super appealing. It's super nice. And this was actually a trip of mine. I didn't even
+say anything. It just did that by itself. But, you can imagine if you had like hundreds and hundreds of
+pictures of your business, your clinic, or whatever, it will go and find the trending topics and it will take
+the library that it has and just generate that prompt and generate those images. Going back to X field, we can
+see our style sheet reference. Super clean, super nice, and it's showing also the components, the writing
+style how it's supposed to be. Do just click here and we'll drink your water scare cells. Now, the most
+important is is it actually going to grade me $0 case cells. So, what I'll do now, we just created a style
+sheet reference. I'm going to download it and I'll drag it. By the way, you will have access to all my style
+sheet references in the zip. I'm going to be skipping all of these questions that it asked me. Um I would
+recommend not to. I'm just testing it for the sake of this video and I'll just write here $0. So, the way it
+works, if we're using the style sheet reference in the $0, it's going to understand that this is about
+surfing. So, it's going to go online and find some images about surfing with the color fronts that you have
+with the style sheet reference that you just put in here and it will just take screenshots online, add the
+color fonts, add the grain overlay on top of it, and find trending topics online. That's the whole reason why
+it's $0. Of course, it's going to add those captions and so on. Those are HTMLs. Claude can do that fine, but
+Claude cannot generate images. And generating images would cost us money. And by avoiding spending money, I
+think it's the best way to actually take screenshots online, uh train our AI to be able to understand the
+images that are really nice to look at. Okay, so this is the result that I came with. Um everything that we
+see here basically was taken from an image as I explained earlier. And here we can see it added those
+captions. It followed the patterns. Here it didn't write the handle because I just simply didn't give it.
+Color fonts are actually really good. Insane. And we can see here also the percentage behind the person. This
+literally cost us $0. It's amazing. Wow. Okay. Uh yeah. Price, things like that. Actually studying. Ooh.
+Insane that it did this for $0. All right, this is the end of this video. I genuinely genuinely appreciate you
+if you stayed all the way here. It means a lot to me, genuinely. I can't I say it multiple times, but it does.
+If you found this valuable, please let me know down in the comments. As you know me, I'm not gatekeeping any
+of this. This will be in my school community, same as I did on my previous carousels. Uh right now, I've been
+kind of like attacked on school. I've had these weird accounts joining my school community that are very
+shady. And I want to keep the community with people with actual real people uh being able to share and help
+each other out. If you generated some carousels, please share them in the community. It would mean a lot to
+me. Uh I want to see what you guys are doing or what you're doing specifically, you. Uh now I'll see you on
+the next one. Thank you.

@@ -1,0 +1,18 @@
+Channel name: One Person Business
+Channel URL: https://www.youtube.com/@One-Person-Business
+Last updated UTC: 2026-10-09T19:05:05+00:00
+Discovered in current scan: 123
+Manifest total: 123
+Transcripts saved: 123
+No captions: 0
+Failures: 0
+Authentication required: 0
+Rate limited: 0
+Still discovered/pending: 0
+Whisper fallback enabled: False
+HTTP 429 events this run: 0
+
+Scan results:
+- CHANNEL: OK — https://www.youtube.com/@One-Person-Business 
+- VIDEO: OK — https://www.youtube.com/@One-Person-Business/videos 
+- SHORT: OK — https://www.youtube.com/@One-Person-Business/shorts 

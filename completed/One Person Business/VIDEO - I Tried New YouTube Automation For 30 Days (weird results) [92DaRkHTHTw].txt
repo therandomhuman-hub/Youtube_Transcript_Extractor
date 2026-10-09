@@ -1,0 +1,120 @@
+Title: I Tried New YouTube Automation For 30 Days (weird results)
+Channel: One Person Business
+Type: VIDEO
+Video ID: 92DaRkHTHTw
+URL: https://www.youtube.com/watch?v=92DaRkHTHTw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:49:05+00:00
+
+Kind: captions Language: en Last year, I started a faceless channel that ended up making $20,000 in 30 days
+just from ad revenue alone. And even better, it still makes thousands of dollars a month in affiliate
+commissions, all without recording videos, without showing face, and by using a brand new strategy that
+literally no one talks about online. And once I shared this inside my community, these are some of the results
+my students got. So, today I want to walk you through the entire 10-steps process. Just a disclaimer though,
+I've been doing YouTube for 15 years, so none of this is going to be easy or fast. And most of what I'm about
+to show you goes against everything you've ever been taught about making money on YouTube because I found a
+way to benefit from YouTube even from day one. All right, so there's actually a new way to do faceless YouTube
+and no one really talks about that. So, lately I've been noticing more and more of these hybrid faceless
+channels that are not personal brands, they're not completely faceless, they're something in between, they are
+hybrid. They're actually just using AI avatars. So, this is not a real human, this is AI generated person. We
+can see that or also here. It's synthetic content, but it acts as a personal brand. Therefore, people trust it
+a lot more. Like for example, they started only 4 days ago and immediately got 100,000 views. I mean,
+literally in just 4 days of starting, they're already doing $3,000 from ad revenue. And there is also these AI
+avatar channels that promote different products either that they own or as an affiliate. And look, I know for
+a fact that even small AI avatars that don't get a lot of views actually make tons of money in commissions as
+affiliates. We can see that through different platforms. Step number one is to pick a boring but rich niche.
+See, there's actually lots of different niches that someone can start in with YouTube. I actually have a list
+of 700 channels that are making $3,000 a month. These are all completely faceless channels. I mean, this one
+also started out pretty recently and they're doing 15K a month. And there are some crazy channels on this list
+that are mainly using AI. Again, this one started just 2 weeks ago, their first video got a million views,
+their second video got 10 million views, all AI generated content. However, I personally like to stick with
+channels that solve a problem so I can sell a product. Because even with millions of views, there is a cap to
+how much you would make from ad revenue. But when I sell a product, even with a lot less views, I can make
+more. And what I like to do is I like to copy what personal brand channels are doing, and I would just do it
+as a AI influencer. So technically, I would run a faceless channel doing pretty much the same thing as that
+person does. As there is proven demand. I mean, here I can see that this lady hasn't posted in 5 months, and
+even then she wasn't getting a lot of views. But she sells a product that is $37 a month. There's 2.4 thousand
+people paying that. That's around $88,000 a month from that channel actively, even though she's not even
+posting anymore. Step number two is to build an AI influencer as the face of your channel. Now, the reason top
+AI influencer creators can go viral consistently is because they're making genuinely high-quality content that
+people actually want to watch. Now, here are some how to actually create these hyperrealistic avatars. Step
+number one, you would find a reference image. That can be from your favorite YouTuber, an image from Pinterest
+or Instagram. Step number two, go over to ChatGPT, click on the plus icon, add photos and files, upload that
+photo or screenshot, and then say create a detailed JSON prompt that would allow me to replicate this image in
+16 by 9 ratio. Once you get that JSON prompt, copy that with one press of a button, and then go over to Google
+Gemini. Paste that inside of this box. Select Nano Banana Pro, so just right over here. And once you have it,
+submit it, and you'll get a realistic image back. You can now download that with one press of a button. Step
+number three is to find outlier video ideas. And one of the best ways to do this is to just go to a competitor
+channel that is posting similar content to what you want to post, and then take a screenshot of their latest
+videos, as many as possible. Then head over to ChatGPT, upload that screenshot, and then simply say give me
+five unique YouTube video ideas for this channel in the same style, same format, and same niche." And then it
+will spit out these kinds of video ideas. Again, something that's similar that already performed well on that
+channel, but you're not stealing exactly word for word what they've used. I mean, for example, I really like
+this video idea. Step number four, now we need to use AI to write viral YouTube scripts. And for this, I'm
+going to use a free tool. It's called Notebook LM. It's made by Google, completely free. When you open this
+up, click on create a new notebook. And then here you can add different resources. You're going to click on
+websites and YouTube links. And then you're going to go to a channel that you're trying to replicate. Now, I
+use this free Chrome extension called GrabIt, so I can copy multiple links at once. Essentially, I can just
+highlight all of these videos. I've copied them, and then I go back here, I can paste them all at once to give
+as much context to this AI tool because I'm trying to create something similar. Then I'll just paste in this
+prompt, "Write a new unique 2,000-plus words YouTube script for a video." And then I'll grab one of these
+video titles. I'm going to use this because I really like the video idea, and I think it would perform well.
+And as I submit that, Notebook LM will analyze all of these videos, will copy the style of speaking, and then
+it will write a new unique script for my new unique video idea. And I mean, check this out. This is insane
+quality, and it's way better and more realistic than ChatGPT. And even better, it's completely free. Step
+number five, now you need something to sell. And if you don't have your own products to sell and promote, then
+you can just find to promote something as an affiliate. So, I would go to Vope, I would go to affiliates on
+the left-hand side, go to refer buyers, and there is a lot of different affiliate programs. So, I'm going to
+select industry type to be health and wellness in this case, and this will give me a lot of different offers
+that I could promote. When I find something that I like and that gives high commissions, for example, this one
+gives 40% commission per sale. I would just click on become an affiliate. And like, if this product is $100 or
+$200, I would make $80 per sale. Now, all I got to do is grab my link here. This is where it takes people to.
+It is a $200 course. Again, I get $80 per sale without having to create anything. I just have to promote it
+with my YouTube channel. Step number six, now we need to animate this AI character. So, I'm going to go to
+this tool called HeyGen. I will then go to avatars on the left-hand side and then simply click on create a
+virtual character, upload a photo, upload a photo of this AI influencer that we've developed earlier, then go
+back and grab the script that was written for me by Notebook LM, give her a name and then choose which voice
+you want her to go with. And once that loads, select that AI avatar using video. On the left-hand side, paste
+your script from Notebook LM, click auto split so it splits the scenes. And now my video will be 13 minutes
+long, which is perfect. I'll just generate it. Step number seven, now when I started my first profitable
+faceless channel from ad revenue, I made only $2,000 my first month. And that's not bad, but I was only able
+to make money from ad revenue my first month because I was monetized from day one. I showed exactly how I did
+it for free inside of my free community and there's this class over here, but keep in mind that ad revenue is
+not the only way to make money from videos. In fact, I've made a lot more a lot faster when I focused on other
+income streams rather than ad revenue. And even one of my students from Online Business Club did $4.2 thousand
+from a relatively smaller channel just from a single brand deal. So, here's how you can get started with brand
+deals if you have a smaller audience. First of all, you want to create a simple media kit that shows your
+audience demographics and engagement rates and any previous results you've achieved. Secondly, you want to
+reach out to 10 to 20 companies per week that sell products your audience would actually want. I mean, here's
+an example that my team sends. And if you want to see a brand deal in action, here's a faceless channel over
+here. We can see includes a paid promotion so they've been sponsored by Masterworks and we can see them
+promoting that company right here. Step number eight, now once you have a profitable channel, scaling becomes
+much easier. I mean, I currently run 16 faceless channels because it's kind of all automated and I try to keep
+each channel slightly similar to each other so I can cross-promote them. For example, if I had a faceless
+channel that talks about history, then I would also have a faceless channel that talks about specifics telling
+me in history like the medieval times. And then I would create another similar channel that would talk about a
+different period in history, but also still slightly related so I can use all of those channels to promote
+each other. Step number nine, you want to forget about shorts. I mean, the main reason I managed to make over
+$20,000 from a relatively smaller channel is because my videos were extremely long so I could put more ads. I
+mean, literally, some of them were over 2 hours long. So, only focus on long-form videos, but understand the
+pros and cons because honestly, it's not for everybody. I mean, first of all, for pros, if you're good enough
+with long-form YouTube, it's the best way to make money online. You can consistently start new channels and
+make them go viral and print a good amount basically whenever you want. I even told my parents when I dropped
+out of school that I would never needed to get a job again because I knew how to do YouTube long-form. And
+then I started to run a lot of different channels to prove that. Now, for some cons, especially if you're a
+complete beginner, long-form can be a little bit hard. It sometimes takes time to make great long-form videos
+that are over 8 minutes long. It can also cost a lot of money and even for me, I can spend up to a thousand
+dollars before I see a return on some of the channels. Despite this though, you can definitely blow up
+long-form channels even without spending money if you're doing everything yourself from the start, which is
+what I did when I was 12 on my faceless animation channel where I was animating, editing, script writing,
+making the thumbnails, and recording everything myself. Step number 10, now this is only for those of you that
+are members of the online business club. I just added a brand new step-by-step program on how to build an AI
+influencer with all of the prompts and PDFs and my entire workflows for creating viral videos that actually
+sell. If you're not a member of OBC, I will link it in the description box down below as this is where you can
+speak on live video calls with me. I will review your channel every single week to make sure you're doing the
+right thing from the start and you're not wasting months and thousands of dollars on mistakes. You can also
+see my channels and my entire step-by-step process for building these faceless channels and I have a list of
+over 700 faceless channels making over $3,000 a month and I also add new channels almost every day. And
+there's also a bunch of different things to get advantage of by being inside of this community. Anyways,
+that's it for today. I will see you in some of the next tutorials.

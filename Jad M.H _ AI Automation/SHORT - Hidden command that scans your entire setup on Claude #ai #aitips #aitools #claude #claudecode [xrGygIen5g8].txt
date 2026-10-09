@@ -1,0 +1,18 @@
+Title: Hidden command that scans your entire setup on Claude #ai #aitips #aitools #claude #claudecode
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: xrGygIen5g8
+URL: https://www.youtube.com/watch?v=xrGygIen5g8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:49:10+00:00
+
+Kind: captions Language: en There's a command hidden in Cloud Code, that's scans your entire sub for problems
+and then fixes them for you. Most people think it's just a report. It's called /doctor and recently got a big
+upgrade. When you run it and it checks your version, your login, your MCP servers, your hooks, even your
+cloud.md files, then wherever it finds something broken, you just press F and it fixes it for you. It will
+even deduplicate cloud file or split overgrown one into cleaner pieces. The one thing to know, it's actually
+editing your config. So, it always asks before it changes anything. Read what it's about to do before you hit
+confirm and you're completely safe. It is genuinely the fastest way to clean up a messy Cloud Code setup in
+about 30 seconds. I'm going to short toolkit with every check it runs and exactly when to use it. How many
+doctor now send it to you?

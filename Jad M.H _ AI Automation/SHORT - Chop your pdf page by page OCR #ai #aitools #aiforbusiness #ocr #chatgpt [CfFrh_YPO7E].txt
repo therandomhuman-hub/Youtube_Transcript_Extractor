@@ -1,0 +1,17 @@
+Title: Chop your pdf page by page OCR #ai #aitools #aiforbusiness #ocr #chatgpt
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: CfFrh_YPO7E
+URL: https://www.youtube.com/watch?v=CfFrh_YPO7E
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:41:24+00:00
+
+Kind: captions Language: en You can now turn a 100-page PDF into a clean editable text right into your own
+laptop, completely free. Baidu just open-sourced a tiny AI model called Unlimited OCR. Here's why it's
+different. Normal OCR tools chop a document up page by page. So, a table that runs across two pages breaks the
+reading order, gets scrambled. Unlimited OCR reads the entire document in one shot. So, the tables, the
+formulas, and the order all stays intact. And it hands you back clean text you can actually use. It's small
+enough to run on your machine, your computer or laptop. It works across languages and and it's genuinely free.
+Meanwhile, Amazon, Google, or Microsoft all charge you per page for the exact same thing. Comment OCR and I'll
+send you the guide on how to set it up directly.

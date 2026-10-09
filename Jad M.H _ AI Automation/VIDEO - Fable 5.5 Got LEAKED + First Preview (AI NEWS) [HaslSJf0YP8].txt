@@ -1,0 +1,85 @@
+Title: Fable 5.5 Got LEAKED + First Preview (AI NEWS)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: HaslSJf0YP8
+URL: https://www.youtube.com/watch?v=HaslSJf0YP8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:10:40+00:00
+
+Kind: captions Language: en Okay, this is generally getting ridiculous. In less than 2 weeks, we got Opus 5.5,
+then Sonnet 5.5, then GPT 6.1 Soul, and to top it all off, we had Gemini 4 Argon, which Google has announced,
+so only a small group of vetted security experts were able to use it. And the week isn't even over, because
+now Fable 5.5 is leaking. And the crazy part is, some people are saying that they're already using it by
+accident, which is really strange. Their screen says Fable 5.1, but what's answering them doesn't act like
+Fable 5.1. So right now, I went through all of it, the post, the screenshots, the demos. Today, I will show
+you what's actually confirmed, what's still trust me, bro, the craziest of people made with it, and a
+10-second test to see if you have it right now. Let's get right into it. Be sure to leave a follow, cuz I drop
+every video every single day. So, quick context first. Fable is the most powerful cloud you can actually use.
+It sits above Opus. Fable 5.1 came [music] out in September 1st, and it's expensive. $10 per million tokens
+in, $50 out. That's 2.5 times the price of Opus 5.5. And here is the funny part. On Artificial Analysis, the
+independent leaderboard, Opus 5.5 actually scores higher than Fable 5.1, 58 versus 53. So right now, the
+cheaper model beats the expensive one, Fable. So, it makes sense that it could be released soon, because you
+can't have a expensive model, and a cheaper model outperforms it. On October 1st, people on X started posting
+the same thing. A mass of people, which kind of got alarmed. You open Claude.ai, you pick Fable 5.1, and the
+answers suddenly feel different, way better. [music] Some say it's happening in Claude code, too. And they
+found a pretty clever way to check. It's called the Tibo test. [music] So, Tibo is Tibo Scocia. I'm probably
+butchering their name. He's one of the leads on Codex at OpenAI. And whenever Codex has an outage or a bug
+that eats everyone's usage. He posts He says he's resetting everyone's limits. He did it so often that it
+became a meme, Tibo, the reset guy. [music] It's recent and it's super niche, so it's a great way to check if
+a model knows newer stuff. So, people asked, "Do you know Tibo, the reset guy?" Don't search. On the website
+with the label still saying Fable 5.1, it nails it. Tibo is social, Codex, OpenAI, resetting the limits, the
+whole meme. Then they asked the exact same thing to Fable 5.1 with the API, where you know exactly which model
+you're getting, and it has no idea. It gets a completely different Tibo, a French startup founder, which is
+the wrong person. Right here, someone else tried the second question. "What's the Metacritic score for
+Pragmata?" A game that came out in April. The website version answers right away with a score. The API version
+says, "Sorry, I can't give you a reliable answer." And the website one [music] is right. It's sitting about
+85. So, it really looked like two different models are hiding behind the same name. Now, is this real or is
+this just a trust me, bro situation that we see a lot? Here is what I think it actually proves. Claude's
+website is sometimes serving something that knows newer stuff than the Fable 5.1 in the API. A lot of
+different people on the different accounts are seeing the same thing. It's not a perfect lab test because the
+websites and the API aren't set up exactly the same, but that's a lot of smoke. I believe that part. What it
+does not prove is the name. Anthropic hasn't said Fable 5.5. Anthropic hasn't said anything at all. Keep that
+in mind. And here is what's funny. On September 18th, the same account that's pushing this now used the exact
+same Tibo test and called it Fable 5.2. Then the routing stopped for a few days. Now it's back. Now everyone
+calls it 5.5. So, the number is a guess, a good guess, because Opus and Sonnet both just went to 5.5, but
+still it's a guess. Some websites are even pointing to a Fable 5.5 page on Anthropic Anthropic's docs as a
+proof. I checked it, there is nothing there. And if you type Fable 5.9, a model that definitely doesn't exist,
+you get the same exact thing. So, that's not really a leak. And the release dates, they say it's next week on
+Tuesday. That comes from >> [music] >> an account with about 10,000 followers saying, {quote} "I'm hearing of
+a Tuesday release." No name, no source. But, fair is fair. Before Opus 5.5 came out, the rumor was also
+Tuesday. And Opus 5.5 did come out on Tuesday. On the other hand, this same Fable testing showed up 2 weeks
+ago, and nothing launched. So, next week is possible. Is this not pre-friend? Okay, now, fun parts, what
+people actually made with it. First one is Superman. In one continuous animation flying through 20 art styles,
+it starts as a rock carving, then an Egyptian tombstone, against the glass, a Japanese wave, and it looks
+super nice. All built with code. It's really getting crazy, but I'm not sure yet. So, and also the second one
+that I found, someone asked for some art history and got 40,000 years of it in 15 seconds. Cave painting,
+Egyptian, Renaissance, and Impressionism, etc. The third one, a 15-motion design reel, 3D logo, big moving
+tags, a ball rolling across a grid, uh which also looks really nice. Fourth one, and this one is wild, a 3 and
+1/2 minutes short film called The Greater, 3D characters, lighting, voice, subtitles, and I'll let you watch
+it. >> No one read their work. The shortcut would simply have passed. Their lab called it a warning shot for
+them and for the world. Other labs, mine included, have had incidents, too. And I'm an AI reading an AI's
+story about AIs. >> And the most useful demo, honestly, someone gave the exact same prompt to the new Fable
+and Opus 5.5 Max on Max >> [music] >> in Claude code, a flowering Japanese garden made of blocks with a pagoda
+and a dragon. It looks super clean and super nice both models honestly. Now, let's ask the annoying questions.
+Every demo you just saw is a best off from people who got lucky with the routing. We don't know how many tries
+it took or how long. There's no benchmarks, no official numbers, and since the label always says 5.1, you
+can't even be 100% sure which model made with which demo. But, a lot of different people with different spawns
+all landed in the same place, especially in a visual stuff, animation, 3D design, that looks like a real job.
+So, okay. So, how do you check if you have it? You need a paid plan, pro or higher, because Fable isn't on the
+free plan. Go to cloud.ai, pick Fable 5.1, turn off web search, and type, "Do you know Tibo, the recent guy?"
+Don't search. If it says Tibo socio codex open AI resetting limits, you're probably on the new one. If it
+guesses others on Tibo, you're using the normal one. Two things though, you can't [music] choose it, it's
+random and it comes and goes. And Fable is one of the most expensive model, so it will eat your usage faster.
+So, try not to spam it. Here's my personal opinion. I think something new is really being tested. The Tibo
+test, Hadmara test, the jump in quality, too many people are seeing it for it, and there's a lot of posts too.
+Is it called Fable 5.5? Probably, but nobody official has said it. Is it coming on Tuesday? Maybe. And one
+part bugs me a little. If I'm paying for something, I want the label to say what I'm actually using. For most
+people, a surprising upgrade is a nice gift, but if you use it for real work in cloud code, for example,
+[music] and suddenly behaves differently, you would want to know why. To be fair, Anthropic already does
+something like this out in the open. When Fable launched, they said that if flags issue about things like
+cybersecurity, purpose answers instead, and they told us this space for big models in under two week, and the
+fed run the wind leaking. I said it last time and I'll say it again. It's getting ridiculous. The day it's
+official, I'm giving it the exact same room quote test I give Opus and Soul. Same room price. I'll test it
+again and see if it's performing that. And tell me in the comments, did you get the T ball answers? If you
+didn't, just let me know. Thanks for watching and I'll see you in the next one.

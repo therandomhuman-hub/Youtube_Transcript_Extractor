@@ -1,0 +1,18 @@
+Title: Claude added limits that stops you from burning your plan #ai #aitools #aiprompting #claude
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: pZKKUIzYRnc
+URL: https://www.youtube.com/watch?v=pZKKUIzYRnc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:43:46+00:00
+
+Kind: captions Language: en Clockwork quarterly added two limits that stop an agent from burning through your
+entire plan in a single session. Here is the problem they fix. An agent gets stuck in a loop and it just keeps
+searching the web or it keeps spawning more agents to do the thing it already failed at. And you come back at
+a session that ate your whole day of usage. So now there is a session-wide cap on web searches defaulting to
+200 and a separate cap on how many sub agents one session can spawn, also 200. Hit the ceiling and it stops
+instead of spiraling. And you can tune both. Here is the honest part though. 100 is a safety rail, not a
+budget. 200 web searches is still an enormous amount of tokens. If you actually want cost control, go set
+those numbers way lower yourself, like 20. The default is there to catch a disaster, not to save you money.
+I'm going to card with the exact setting, the same numbers to use. Comment guard and I'll send it over.

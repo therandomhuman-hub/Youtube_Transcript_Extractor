@@ -1,0 +1,17 @@
+Title: Claude Code has a built-in rewind feature that undoes.#ai #aitools #aiforbusiness #claudecode
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: gtOXlND4aW0
+URL: https://www.youtube.com/watch?v=gtOXlND4aW0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:57:03+00:00
+
+Kind: captions Language: en Most people using Claude code don't know they can undo a total disaster with two
+key presses. So, Claude just refactored 14 files and broke [music] everything, right? Instead of panicking or
+running a Git reset, just hit the escape key twice. That pops open the rewind menu and it turns out Claude's
+been quietly saving a checkpoint of your code base before every single prompt you send. You pick the exact
+moment before things went wrong and you get three choices. Roll back just the code, just the conversation, or
+both. Like the bad turn never happened. But, there is one catch. It only tracks the files Claude edited
+directly. So, anything changed by a terminal command won't come back. But, for 90% of your "Oh, no" moments,
+it's an instant undo. Comment rewind and I'll send you the full guide directly.

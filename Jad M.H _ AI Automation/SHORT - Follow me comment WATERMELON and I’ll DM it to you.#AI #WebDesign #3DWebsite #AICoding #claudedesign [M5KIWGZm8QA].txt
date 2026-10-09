@@ -1,0 +1,32 @@
+Title: Follow me comment WATERMELON and I’ll DM it to you.#AI #WebDesign #3DWebsite #AICoding #claudedesign
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: M5KIWGZm8QA
+URL: https://www.youtube.com/watch?v=M5KIWGZm8QA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:05:09+00:00
+
+Kind: captions Language: en Let's build a website for my favorite ice cream in 60 seconds. All right, so first
+we're going to open Claude design and paste our prompts that I've already done in Google documents. I just
+copy it and paste it. Once it's paste, we just say build this for me. And basically what it does, it will get
+all the images that I've already made and the designs that I have, except the 3D model. So let's work on it
+right now. Because at the moment it's my favorite ice cream, I just get a 3D background of it right here and I
+need to turn it into 4K image. So I basically go on Hicksfield and I paste it prompt turn this ice cream
+popsicle into 4K right there. Once we have our image, let's generate a video of the ice cream spinning. All
+right, this is the video that we generated of the ice cream spinning. We made it 6 seconds 9 16 and because we
+don't have a lot of time, what we're going to do is simply go to our Claude code and give it the video and say
+remove the background for us and turn it into a code. So it wouldn't be too heavy. Let's do that. So right
+here we're going to open one of my We're going to double click and click on new terminal at folder. We're just
+going to simply click Claude. There we go. We have now Claude code in our terminal and simply what we're going
+to say is I need you to remove the background in this video. Keep the quality as it is. Remove the white
+background. If you have any questions, just let me know. To have a better result, here's the video. And I drag
+the video and I give it to Claude. All right, so it came back to me. This is what Claude code made. Now we
+only have to turn into a code so it will be mobile friendly and not very heavy for the website so it loads
+really fast. So now let's go to our Claude design and see where we are. Okay, uses the image as I give in the
+prompt. The only thing that we need to give is basically the 3D model of the ice cream. So this is the end
+result. This is what it looks like. Pretty satisfied, pretty happy. I do want to mention I did skip a lot of
+things. I paused my video to make it short for 60 seconds, but if you want to see exactly how I built it,
+built it less than 10 minutes and it's all in my YouTube video that you can watch right here. And if you want
+the 3D model or the websites and the codes and the prompts, just comment watermelon and I'll DM it straight to
+you.

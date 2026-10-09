@@ -1,0 +1,18 @@
+Title: Comment **POCKET** and I’ll send it over. #AI #OpenSource #LocalAI #Tech #AIAgents
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: Lz_PKdVhNI0
+URL: https://www.youtube.com/watch?v=Lz_PKdVhNI0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:16:34+00:00
+
+Kind: captions Language: en Your phone can now have its own AI with zero internet. And it's not a small one.
+It's holding 27 billion parameter model. Parameters are basically how much it knows in a model this size with
+27 billion normally lives in a data center. It couldn't be possibly on your phone. It's called Bonzai 27B from
+a startup called Pre-ism ML. [music] The whole thing is under 4 gigabytes. You download it once and it lives
+actually on your [music] phone. So this time if you want to stay productive and you have a flight with no
+Wi-Fi, instead of just sitting there, you can actually use your own AI model. The best thing, nothing you type
+ever leaves the device. They can also see screenshots or documents and ask about it. And if you were concerned
+how long it takes to answer you back, it types back as fast as you can read it. All of it is completely free
+and open source. So if you want it on your phone, comment pocket and I'll send it straight to you.

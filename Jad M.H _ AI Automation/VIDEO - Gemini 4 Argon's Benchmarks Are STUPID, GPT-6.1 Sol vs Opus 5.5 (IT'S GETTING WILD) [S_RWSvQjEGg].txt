@@ -1,0 +1,56 @@
+Title: Gemini 4 Argon's  Benchmarks Are STUPID, GPT-6.1 Sol vs Opus 5.5 (IT'S GETTING WILD)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: S_RWSvQjEGg
+URL: https://www.youtube.com/watch?v=S_RWSvQjEGg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:12:14+00:00
+
+Kind: captions Language: en Okay, Google just dropped Gemini 4 Argon and according to Google it beats Cloud
+Opus 5.5 and OpenAI 13 out of 19 benchmarks, which is kind of cool. Can I use it? No. Can you use it? Also no.
+So, is the source really just trust me, bro? Let's actually look at the numbers and put it up against the GPT
+6.1 Soul and Opus 5.5. And then I'll tell you what I honestly think because this is kind of getting
+ridiculous. Like look at this week. Monday, Anthropic drops Sonnet 5.5. Before that, a few days earlier, they
+dropped Opus 5.5. This Tuesday, OpenAI has DevDay and drops GPT 6.1 Soul. Wednesday, Google drops Argon 3
+days. The three best models in the world. I literally just recorded a video yesterday and I posted it. Same
+app that I gave Opus and Soul last time, but with Argon I can't do that because it's not out yet. It's only
+open to a small group of security testers for now. So, today we really look at the charts. First price because
+this part is kind of sneaky here. Right now, Argon is at $2 tokens in and $10 out. That's the exact same price
+as Soul, but that's an intro price. After that, it goes to $4 and $20. That's the exact same price as Opus.
+And how long does the intro price last? Google really didn't say that. Oh, and by the way, one thing that is
+genuinely cool about this, Argon can write up to 1 million tokens in one answer. Opus and Soul stop at
+128,000. So, that's really kind of like a big deal, especially for big jobs. Okay, now Google's charts. The
+wins here are kind of massive. On a legal benchmark, Argon gets 19.6% on business automation, Argon gets
+51.3%, Opus 42.5%, but it doesn't win everything. It loses on five out of 19 and most of those are coding. On
+coding in terminal, Opus gets 66.4% and Argon gets 57.4% that's nine points. So now let's ask the annoying
+questions. Who's missing from the charts? GBT 6.1 Soul, the newest one and the one that costs the exact same
+right now. To be fair, Soul came out a day before, but that's literally the comparison everyone wants. And the
+legal win 19.6% is the best score. So even the winner fails about four out of five tasks, but five times
+better than Opus. Sure, but it's something they're still pretty bad at. And look, this isn't a Google thing.
+Open AI does this, Anthropic does this. Every launch chart is made by company selling the model. So let's look
+at the people who aren't selling anything. Artificial Analysis is independent group that runs every model
+through the same test and gives them one score. Opus 5.5 57.6, Gemini Argon 52.6, 56.1 Soul about 52. So on
+the independent test, Opus is on top and Argon and Soul are basically tied. And Argon has the lowest
+hallucination rates of all the top models, 15%. It makes stuff up less than others. That really matters. And
+there's another independent board called False, maybe I'm butchering their name, which is more about finance,
+legal and coding and Argon is on top with 68.9%. Opus gets 67% and Soul gets 61.2%. So on that one, Argon
+actually wins. And then there's a cost not per token, per task because that's what actually you pay for.
+Because what you actually pay depends on how much the model writes. Remember, Argon and Soul cost the exact
+same per token, but on those Artificial Analysis test, Soul cost about $0.72 a task. Argon cost $1.99, almost
+three times more because Argon writes a lot, about 62 tokens per task. Opus is about $5.98, so Opus has the
+top score, but it's the most expensive. Argon wins on business stuff and makes things up the least. And Sol is
+way cheaper than both of them. So, who really wins? Honestly, it depends what you're paying for, and that's
+kind of my whole point. Because here's my opinion. This is getting ridiculous. Every few days there's a new
+best model in the world with a chart that looks exactly like the last charts. On the independent test, Argon
+gets 52.6 and Sol gets about 52, less than one point. Nobody on Earth can feel that. And honestly, for most
+people, any of these models is good enough now. The question that actually matter are way simpler. Can I use
+it today? What does it actually cost me per task? And does it do my job? If you already have an automation and
+you it works perfectly, you don't have to be looking at these comparisons. You're already good at where you're
+at. And for Argon right now, the answer to the first one is no. So, until I can test it myself, it's a little
+bit of a trust me, bro analysis. The day it opens, I'm giving it the exact same app test I give to Opus and
+Sol with the same room at the same price, and we'll see if the charts holds up as it did on the previous
+video. So, subscribe if you don't want to miss that, and tell me in the comments if you're also tired of the
+launches or you're loving it, and which model you're using right now. I genuinely appreciate you sticking all
+the way to the end. It means a lot to me, genuinely. I see all the comments down below, and I'll see you on
+the next one. Thank you.

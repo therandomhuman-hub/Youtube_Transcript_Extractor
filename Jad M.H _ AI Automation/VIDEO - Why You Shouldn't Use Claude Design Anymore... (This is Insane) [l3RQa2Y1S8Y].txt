@@ -1,0 +1,54 @@
+Title: Why You Shouldn't Use Claude Design Anymore... (This is Insane)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: l3RQa2Y1S8Y
+URL: https://www.youtube.com/watch?v=l3RQa2Y1S8Y
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:22:45+00:00
+
+Kind: captions Language: en So, I'm sure you had the fair share of building websites in Cloud Design, and
+today is a really good news. Actually, not today, on the 18th of August, now Cloud Code can have a design
+mode. You only have to type /design, and it will basically build the same thing as it can build in Cloud
+Design. And let me tell you why this is super powerful, and you should definitely switch from your Cloud
+Design to your terminal. So, personally, I'd like to use VS Code, or you could use your own terminal like in
+your folder or the app. But, essentially, how it works is when you use Cloud Design, Cloud Design doesn't have
+context of who you are, what are your color fonts, and what is this specifically attached to. But, on the
+other hand, if you have your VS Code or your terminal and has a lot of information in your folder, you will be
+saving a tremendous amount of time into your prompts and your website built. So, what we can see here is
+before you had to describe the UI prompts, get back a generic mock-up, and retranslate into your code by hand.
+And you had to go back a lot of back and forth and try and fix things. And the issue of Cloud Code, you trying
+to build something through Cloud Code, is the way you needed to wait until it's finished, and then start
+changing bits by bits, by prompts. But, now you're fully able to do it in Cloud Design. Let me show you and
+give you an example of how it works. So, in here, in this folder in my VS Code, I have my own trained model
+where it will simply just understand what I'm looking for in terms of design, and it understands my business.
+Earlier, I gave it a single prompt, say, "Make me a landing page for Next Phase," which is our free school
+community. And what it was able to create for me was actually astonishing and very fast. This is what it was
+able to create for me, as you can see here. Sure, there are a few things that obviously needs to be changed,
+the background and things like that, but this is essentially the website that I like, a 3D in three.js files.
+And on the other hand, I used Cloud Design, gave it the same prompt, as you can see here at the top. It
+basically has no information of Next Phase. It doesn't know what are my color fonts, what I like to build, and
+it created the most vibe coded that you probably see and skip. Yeah, this is quite horrible. I mean, you can
+like you know it's vibe coded especially with the color fonts and the emojis. And it's not even like the free
+school community cuz Cloud Design is in a box. But if you're using Cloud Code, it can live outside the box. It
+can go and fetch more information online if you give it the approvals. All right, so now let's see how this
+changed. So this is through my VS Code and what can be done now is that you can modify things on your own. So
+right here, I can change things, remove. So it makes things faster, especially if you want to have that
+polished look. You want to put your emails and information, cookies, and so on that you only want to tweak
+quickly instead of sending a massive prompt. This is it. We zoom in in a year and I click on text on the
+title. I can change a few things where it's supposed to look like. It's as if you're using Figma or
+Hardseltzer to change your websites. And it also gives us the mobile version to see how it looks like. But
+what I would really recommend is that you use VS Code. And the reason why to use VS Code is simply because you
+can put a lot of information in there. You can find a lot of GitHub skills that you can put in your Visual
+Studio Code. And then whenever you have a client or you want to do an email campaign of creating websites for
+clients, this is genuinely it because every time that you're going to be creating a website with one single
+prompt, it will know the color fonts, it will know the spacing, it will know the animations that you like to
+put in there. And also you can find really sick skills as this one that I have right here. I mean, I mean this
+is nothing crazy to what This is kind of like the design that I have done. It took from one of the skills that
+I took. Let me show it to you guys right now. Sure, it's not the same as this website specifically, but it did
+kind of the same effects as what this website has and the animations right here. This is what it took it from
+from this girl. If we and if we go back to our website next phase, keep in mind this is one single prompt. A
+few tweaks in the prompt, I could completely change this website completely. But right there we saved a
+tremendous amount of time. All right, that'll be it for this video. Thank you for sticking all the way to the
+end. I really appreciate it. If you like this type of content, leave a like and a follow and I'll see you on
+the next one.

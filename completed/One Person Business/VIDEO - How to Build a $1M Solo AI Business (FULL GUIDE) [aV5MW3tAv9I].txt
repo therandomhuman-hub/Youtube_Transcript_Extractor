@@ -1,0 +1,546 @@
+Title: How to Build a $1M Solo AI Business (FULL GUIDE)
+Channel: One Person Business
+Type: VIDEO
+Video ID: aV5MW3tAv9I
+URL: https://www.youtube.com/watch?v=aV5MW3tAv9I
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:15:35+00:00
+
+Kind: captions Language: en All the biggest AI experts in the world are all saying the same thing. This is the
+first time in history where one person can build a million-dollar business with no employees. Just one person
+using AI agents to do all the work. And if you do exactly what I teach you today, that could be you. My name
+is Dave Nick and I run a portfolio of faceless YouTube channels, one of them doing over a thousand dollars a
+day. And by the way, these are US dollars. I have an agency that sells done-for-you services. I have a
+community with 91,000 members inside, and I have multiple income streams all running at the same time. I do
+most of this completely solo. What I have is a set of AI agents doing most of the actual work, chatbots
+handling client and customer conversations, so I almost never have to reply to anyone manually, and systems
+that keep everything moving while I focus on the decisions that actually matter. I'm not telling you this to
+impress you. I'm telling you this because when I started out, I thought that none of this will ever be
+possible. I thought you needed a team to build something significant. I thought you needed funding or
+technical skills or something special in order to make it. And I was completely wrong about all of it. I mean,
+I started making money online when I was 13. Not a lot at first, but enough to understand that the internet
+doesn't care what your background is or how old you are or how many people are working for you. It only cares
+whether you're solving a real problem for real people. By the time I was in my late teens, I had scaled to a
+hundred and twenty thousand dollars a month. And now, with AI, what took me years of trial and error is
+instantly available to those that know exactly how to use AI properly. And that's what this video is. It is a
+full course, completely free, and we're going to go from zero, no audience, no product, no technical skills,
+nothing, to a real one-person business that can generate a million dollars a year. I'm going to show you the
+exact business models that work right now, how to pick the right one for your unique scenario, how to find
+customers, how to get paid before you've have anything, and how to set up AI systems that do the work for you.
+And look, I'm 24 now. I started when I was 13. So, everything I'm going to teach you in this video, I didn't
+learn from a book or a course or by watching someone else do it. I learned it by actually doing it for over a
+decade and making every single mistake you can possibly make. And now, hopefully, you don't have to go through
+the same thing. Chapter 1. Most people who want to start a business in 2026 follow the rules that don't match
+how you make money today. They still think it goes like this. You come up with an idea, you save up some money
+or find investors, you hire a team, you build a product, you launch it, and then grow by adding more people as
+the business gets bigger. That model made sense 2 years ago, but today it's one of the most expensive mistakes
+you can make. I mean, look what it actually means. You spend money before you know whether anyone will buy,
+you manage people instead of focusing on making more money, every hire adds stress, complexity, and a monthly
+cost you have to cover no matter what. And the whole time you're doing all of this, you haven't really solved
+any problems faster. So, the one-person AI business model works completely differently. Instead of hiring
+people to fix things, you figure out what's slowing you down and then let AI handle it. You can make more
+money while the business gets more simple to run. And your job stops being about managing people's time and
+starts being about designing the system that does the work. And in a second, I'm going to show you my exact AI
+stack and how to actually set it up step-by-step. But first, here's a real example of how this looks like. So,
+there's this company that launched about 4 weeks before I'm recording this, and it's already doing $83,000 a
+month. So, the founder has no full-time employees, only two part-time freelancers. The entire business runs on
+AI workflows and agents. So, he kind of spends his time on strategy and planning the next moves, which is what
+I believe is the future of online business. You no longer have to be your own employee doing most of the work
+and then still hire a bunch of people. you can just focus on overlooking the business and then working inside
+of the business. Either way, I want to be honest with you about something because a lot of content in this
+space oversells how easy this is. None of this is going to be easy. It's not passive and it's not hands-free
+from the start. Building the systems takes real work up front. That's why 99% of people will quit and that's
+your competition. But the ceiling is dramatically higher than it used to be and the amount of time and money
+you need to get there is dramatically lower. Before we get to the step-by-step technical details on my laptop,
+what should we actually build? Well, the answer starts with understanding which one person business models are
+working right now because not all of them are equal and the one that's right for you depends on what you
+already know, what you are interested in and how much time you have. So, that's exactly what we're going to
+cover in chapter number two. Before I walk you through all of these, I just want to tell you something about
+how to read this list. Most people hear about different ways to make money online and then just immediately
+start thinking about which one sounds the more exciting or which one has the highest potential ceiling, but
+the right question is which one of these matches the best what you already know. Because the single biggest
+advantage you can have in a one person business is just knowing how something works from real experience.
+Knowing an industry from the inside, understanding how a specific type of customer thinks, having already
+solved the problems once in some context and that's what lets you move faster than anyone else trying to
+figure it out from scratch. In a second, I'm going to give you my exact prompt that's going to allow you to
+find this specific thing for yourself, but for now, here are those seven models. First of all, we have the
+faceless YouTube business. I know this one the best because I've been doing it since 2015 and the idea is very
+simple. You effectively just build YouTube channels that produce content without ever appearing on camera
+yourself. The content gets done by using AI tools for scripting, voice visuals, and the channel earns through
+ad revenue, affiliate deals, and sponsorships. Now, what makes this a one-person business model in 2026 is
+that the production work that used to require a team, a scriptwriter, a voiceover artist, a video editor, or
+SEO person can now be handled entirely by AI. I run multiple channels with hundreds of millions of views, and
+I manage it alone because AI agents handle most of the production pipeline, and I focus on strategy and
+quality control. The income potential here is absolutely insane. I mean, I have a list of over a thousand
+channels making between $5,000 and $50,000 a month. And the thing is, most of these channels started less than
+30 days ago. I mean, here's an example of an AI faceless channel. Their oldest upload was 1 month ago. Their
+analytics show $14,000 last 30 days. And the thing is, you can run more than one channel, but it does take
+time to build, so this works best as something you're building consistently rather than something you expect
+to monetize immediately. Number two, we have the AI service agency. This one has the fastest path to revenue
+than anything else in this list. The model is pretty straightforward. You just use AI tools to deliver a
+service that businesses need, whether that's content creation, SEO, social media management, lead generation,
+whatever you have background in, and then you use AI to do the work that would otherwise require a team. I run
+an agency exactly like that, and I also sell digital products on my platform using this same formula, and I've
+been through all of the heavy BS for years. And I'll show you how to avoid the mistakes that I made so you
+don't have to go through that BS yourself. And I can tell you that clients pay for the outcome. They don't
+really care what you use to solve the problem for them as long as they get the outcome that they wanted.
+Whether it was you and six different employees, or whether it was an AI agent doing the work, they just got
+the problem solved, and they're going to pay for that. The reason this works well as a one-person model is
+that AI does the work for almost nothing, but what you'll charge the client stays exactly the same. I'll show
+you a real-life example of this in a second, but your margins are dramatically better than a traditional
+agency, and you can take on more clients without the overhead growing with them. The downside, though, is that
+it's active income, and anything where you have clients is a headache. All of them calling you, all of them
+reaching out, a bunch of problems coming up, but if you can handle that stress, not a bad business model.
+Moving on to model number three, which are AI influencers. This one is crazy, and AI influencers are now
+allowing one-person founders to build a million dollars a year business without having to show their face
+online. I mean, take a look at this, for example. This AI influencer started 90 days ago, or this AI
+influencer just started 30 days ago, and hundreds of other AI influencers are now quietly taking over social
+media. I made a free tutorial explaining exactly how this works, and I will link it at the end of this free
+course you're watching. Next, we have voice agent deployment for local businesses. This one is genuinely
+underrated, and almost nobody talks about it in the right way. The idea is that you set up AI voice agents for
+local businesses, like dental offices, barber shops, mechanics, law firms, restaurants, any business that
+takes appointments or handles a lot of calls. The voice agent answers the phone, handles appointment
+scheduling, answers common questions, and routes anything complex to a human. I mean, for example, I was
+getting a haircut the other day, and my barber stopped six times mid-haircut to answer phone calls from people
+just trying to book. And when when I asked like, "Why are you doing this all yourself?" he told me that he
+doesn't want to pay someone $3,000 a month to just answer these phone calls. But later in this video, I'm
+going to show you an AI tool where you can set up these AI voice bots and AI agents that can take on calls
+that sound like human for less than 20 bucks a month. The CEO of ElevenLabs pointed out directly when I was
+researching this video. He said that most local businesses still don't know that this technology even exists.
+I mean, try asking your barber next time whether he knows that he no longer has to pay someone to take on
+phone calls, but he can just deploy an AI agent. He has no idea. And even if he knew that this exists, he
+wouldn't know how to actually set it up, which I'm going to show you exactly how to do even if you have no
+previous experience with this. The platforms that power these agents are built to be set up without coding.
+It's super beginner-friendly. What you need is a willingness to learn the tools, the ability to go talk to
+local business owners, and the persistence to sign your new few clients. And then each client pays you a
+monthly fee, typically somewhere between 500 and $3,000 depending on the complexity and the market. And once
+the system is set up, your ongoing time commitment per client is basically minimal. And because most of these
+business models are local, the competition is almost non-existent, especially in this super early stage of AI.
+And if you think that everyone is talking about AI, just know that we're all in a bubble here. If you go
+outside and you talk to a regular person, most of them have never even heard about most of these AI tools and
+what they can actually do. They heard about ChatGPT in 2022. Anyways, the next business model is the digital
+product and community business. This is a model where you take the knowledge that you currently have and you
+package it into a course, community, guide, or a template. And the reason AI makes this dramatically more
+viable as a one-person business now is that the content creation side, like the scripting, the lesson writing,
+the marketing materials, all of it can be produced much faster than it used to be. For example, I run an
+online community with 91,000 members inside, and that community generates revenue, and it runs largely on AI
+systems and handles support, onboarding, and engagement. Like I'm not sitting there replying to every message,
+the systems do that. You make it once, and then you can keep selling it again and again, essentially forever.
+I think I have things that I've built in 2018 that are still being sold. In my opinion, way better than
+getting clients, but we're still going to move on to the next model, which is the AI automation consulting
+business. Look, right now there are thousands of businesses that know they need to implement AI, but have no
+idea where to start. So, they're just looking for someone to come in and understand their operation, identify
+the bottlenecks, and set up the automations that will save them time and money. And that person doesn't need
+to be a developer. You don't need to be a technical person. You just need to understand the available tools
+and how to apply them to a real business. And this is a very high-ticket problem. I have a friend that's
+currently charging $4,000 per hour to consult businesses with AI, and last year he had zero skin in the game.
+And some of these projects usually can run anywhere from $2,000 to $20,000, and most clients keep paying you
+monthly after that to maintain everything. So, if you have any background in any kind of business operations,
+marketing, or sales, this is a model you can realistically start within the next few weeks. And if you have no
+previous experience, then it might take you a little bit longer, 3 to 6 months, but it's very much worth it.
+Next, we have the AI-powered newsletter or content business. The last model is the one that builds the most
+long-term leverage, and that's just owning an audience directly. The reason this matters so much is that every
+other distribution channel, like YouTube, Instagram, TikTok, they can change the algorithm or reduce your
+reach overnight, but email is something that nobody can take away from you, and you can eventually even sell
+it. I remember there was this newsletter that was sold for $17 million to HubSpot, which is crazy. Some people
+are selling a million dollars. But basically, you pick a niche, you publish consistently useful content, you
+grow a list, and you monetize through sponsorships, affiliate deals, or your own products. And AI makes it
+possible to research, write, and distribute content at a pace that used to require a full editorial team. The
+income here obviously starts very slow, but it compounds over time like nothing else. A newsletter with 50,000
+engaged subscribers in a high-value niche can generate 20,000 to 50,000 dollars a month. And the people who
+build these are often the most valuable people in their space because they own the attention directly. All
+right, now let me show you my AI stack. We'll quickly skim through the AI tools that I I for my one-person
+businesses, and then later we will get into these step-by-step details. The first AI tool that I use is my
+mind. It is completely free and it allows me to store things from the web into my mind with one press of a
+button. So, if I'm doing something, for example, I'm reading these blog articles and I'm getting value and I
+think like I might use this sometimes, I can just press one button with our Chrome extension and it just adds
+that to my mind. So, when I go back here, that's going to be added to the list. So, anything that I see and
+you see like it's kind of messy, but I can search my mind pretty easily and I can then connect ideas. Next one
+is solo.ai. This is an all-in-one operating system for running a one-person business. It essentially allows me
+to have AI employees that work for me on autopilot. Whether they're those are marketing agents or sales
+agents, I mean, let me just show you how it works from the inside. So, when we go to the dashboard, on the
+left-hand side, we can find our assistants, communication. We have different sectors, like if I'm trying to
+build content for social media, I have it over here and they have a pretty cool partner program. Next up, we
+have Claude and Claude is what I mainly use for coding and creating some really simple apps because they're
+That's what they're best at. You can essentially speak things into existence with Claude. For example, I built
+this title generator for YouTube inside of Claude. I just spoke to Claude about what I want and how I want it
+to look like and it just made this where I can just describe what I have on my mind, select the style of
+content I'm trying to make, select the hook angle and it just generates really good titles. Then I also use
+Notebook LM. This is a free tool made by Google where you can just insert links to different websites or
+YouTube videos. What I like to use it the most is go to some YouTube channel that is in the thing that I'm
+trying to get into. So, for example, I found this really useful channel which talks about YouTube and now I
+can copy all their video links and I can paste them with one press of a button, insert it and now I can chat
+with this notebook to ask it questions without having to go through hours of content myself. We'll get back to
+AI tools in a second, but let's move on to chapter number three. You see, whatever business model you choose,
+you will have to solve a problem in order to make money. Now, you can choose whatever problem you want to
+solve for yourself, but I also have this prompt to make it easier for you. So, it uses my formula, which is
+how to achieve desired outcome in desired time frame without pain. And then you can copy this prompt, and you
+can paste it into Claude or ChatGPT or Perplexity, any AI tool of your choice. And then it's going to
+recommend different problems that you can solve for different people and how much they potentially spend to
+solve that problem. Here we have about fixing low energy, like how to feel energized all day in 30 days
+without caffeine, all right, how to get 30 customers, how to get a loving partner, how to get 100,000
+followers in 90 days. So, those are all valuable problems that I can solve. Either way, here's something to
+know what it tells you when they share a list of business models. And trust me, I know that most people will
+choose whatever sounds most exciting to them at the moment, and then they spend months trying to figure out an
+industry they have no real to competing against people who have been living inside that problem for years. And
+for YouTube, this also makes a lot more sense. People that are just jumping in on a trendy niche are always
+going to lose against someone who genuinely cares about that niche and about that subject. The founder of
+Perplexity said something about this that really stuck with me. I mean, he said, "Only bet you can actually
+make is your own obsession. Not on the market, not on what competitors are doing, not on timing, but on
+yourself." Because when your idea starts working and people notice, bigger players will come after it. And the
+only thing that keeps you ahead of these big players that have tons of money and venture capital behind them
+is that you care about the problem more than anyone else does, and that only happens naturally when the
+problem is something you're genuinely connected to. So, before you pick a model and before you pick which
+problem you're going to solve, audit yourself and be honest. I don't mean sitting down and brainstorming what
+you're passionate about in some vague motivational sense. I mean, something much more specific. Think about
+the last time you did something really well for someone and it actually worked. That's the thing that Daniel
+Priestley, who built bulletproof seven and eight-figure businesses, calls founder opportunity fit. The sweet
+spot between what people need and what you are good at. I mean, maybe you spent three years in a dental
+practice and you really like helping people there. And maybe you ran social media for a company and you
+understand what content actually moves the needle versus what just looks good in a report. Or maybe you've
+been freelancing and you know how much time gets wasted communication that could easily be automated. Whatever
+it is, your background is worth a lot more because no one can replicate being you. Your unique set of
+experience, your unique set of skills is what is going to make something unique that no one can compete with.
+And once you identify that, the next filter is the niche itself. And this is where most people make a
+predictable mistake, which is that they go too broad. They think the bigger market means more money, but in
+reality, a bigger market just means more competition and less ability to speak directly to anyone. I mean, the
+CEO of Opus Clip put it better than I could. He said, "You have to drill down further than you think is
+reasonable. A restaurant is not a niche. A Chinese restaurant is not a niche, but a specific type of Cantonese
+restaurant targeting a specific customer at a specific price point is starting to get somewhere." And most
+people stop segmenting way too early because they think that the smaller market means that it's more risky,
+like it's not going to succeed. But the smaller and more specific your niche is at the beginning, the faster
+you get traction, you spend acquiring customers, and the more precisely you can speak to exactly what they
+need. The same goes with YouTube titles as well. There's this channel that really blew up and look how
+specific their titles are. The psychology of people who love staying at home. It's not vague, it's very
+specific to this one type of person. Or for example, this channel over here, their first upload got 1.5
+million views and they just shared the evolution of Paris through AI. It's like very specific to one city. Or
+this one, look at this. Every feeling you can't name, 2 million views on their first upload, first video on
+their channel, immediately got demonetized as well, and made them four grand. The CEO of Opus Clip said
+something that I think is generally one of the most useful filters on this list, and that's to pick something
+boring. The exciting niches, the ones that everyone is talking about and listing online, those are the ones
+that have the most competition. But the boring ones, where nobody's building a personal brand around being an
+expert, that's where real money is being made. Think dental appointment scheduling, think data cleanup for
+accounting firms, think automating the intake process for a personal injury law firm. These are not glamorous,
+but they have real budgets, and the people who have them are desperate for a better solution. So, here's a
+simple framework I would use to make sure I'm on the right side. Take the seven models from the last chapter
+and run each one through these three questions. First of all, do I have any existing knowledge of the industry
+or customer this model serves? Second, is there a specific niche within this model that's boring enough that
+most people would overlook? Third, is there evidence that people in this niche are already spending money
+trying to solve the problem, even if badly? If you can answer yes to all three for one of those models, that's
+where you start. Or you can use that prompt that I shared earlier. The last thing I'll say here before we get
+into the actual execution and I show you step-by-step how to do it. A lot of people spend way too much time on
+this step. They act like picking the model is an irreversible decision, like once you start it, there's no
+going back. You can't just stop. But the skills you build, talking to customers, understanding a problem
+deeply, selling a solution, setting up AI systems, those will transfer across models. I think my first 15
+businesses completely failed, but the things that I've learned from each just kept pouring onto the next one,
+which got me to this point here. So, pick the one that makes the most sense given what you already know, and
+just go. You can adjust later with much better information than you have right now sitting here thinking about
+it. In the next chapter, we're going to talk about how to validate the problem you chose to know whether
+that's the problem worth solving so you don't waste tons of time and money and then being like, "Oh, this
+actually is not what people need." Chapter number four. Now, most people who want to start a business think
+the hard part is building the product. It's really not. The hard part is making sure the problem you're
+solving is really enough that someone will actually pay you to fix it. And the only way to know that is to go
+talk to people before you build a single thing. I know this sounds obvious, but almost nobody does it the
+right way. What they do instead is they spend weeks or months building something based on assumptions. They
+launch it and then they found out that the people they built it for either don't have the problem as badly as
+they thought or already have a solution they're happy with or simply won't pay what the product needs to cost
+to be a real business. I mean, I see so many YouTube channels start the same way. People think that, "Okay,
+because I'm interested in this subject, if I make videos on this topic, people will want it." And so many
+channels failed that way never really get anywhere. They never really get views. All of that is avoidable if
+you do research first. Oh, and I nearly lost 10K when I skipped this step. I built a faceless channel around
+medieval history that I was really in love with. Like, I loved the subject and I assumed that because the
+videos were genuinely good, people would just want to watch it. The problem is I was targeting the wrong
+audience entirely. I should have been targeting a much higher RPM audience rather than people just looking for
+entertainment. And by the time I figured that out, I had burned so much time, so much money, and so much
+energy to try and grow that channel which didn't go anywhere. So, for YouTube specifically, I asked myself
+these questions before starting a channel. First of all, are channels under 3 months old getting a lot of
+views here? Number two, do they post consistently and almost every video gets views? Are there under 10 big
+channels in the same format? Number four, are new copycat channels blowing up, too? And five, is it monetized
+plus can you make 5 to 10K a month from it? If all five are yes, then it's a green light. And with all other
+businesses, it starts by simply talking to people. You want to talk to at least 10 people who would plausibly
+be your customer. So, not your friends, not people who will be polite to you, but actual people who work
+inside the industry or deal with the problem you're thinking about solving. And the way you get to those
+conversations is not by pitching them or trying to sell them something. Instead, you just message or you call
+them asking for advice. You tell them that you are researching a problem in their industry and you just value
+their perspective. I think this framework because most people like sharing what they know and it puts you in a
+listening position rather than a selling one. So, in those convos, you're not asking them whether they would
+buy the product, you're just asking for feedback. You're asking what their biggest frustrations are, what
+takes up time and that shouldn't, what they're currently paying someone else to handle that still doesn't feel
+properly solved, and you're looking for the things that make them visibly annoyed just talking about it,
+because that's where the real pain is. That's where specific type of problem you are hunting for is. So, you
+want something where people are already throwing money at. They're already spending money to solve that
+problem, but that solution is kind of inefficient. It's not good enough yet, and there's room for improvement.
+That's what you want. Your job is to come in with something better, not to convince them that the problem
+exists in the first place. The other filter is to then apply these conversations to what I call the service
+test. In the niche you're looking at, are there already agencies, freelancers, or internal staff handling this
+problem manually? If the answer is yes, then that's a green light. It means that people have already validated
+that this problem needs to be handled. So, what you're going to do is you're going to come up with an
+AI-powered version that's faster, cheaper, or more consistent than what they're currently using. And in a
+second, I'm going to show you tools to use that and to do that. And after 10 conversations, you should have a
+very clear picture of a few things. You should know exactly what the problem costs people in time, money, or
+both. You should know what they're currently doing about it and why that solution is failing short, and you
+should know how urgently they want it fixed. And critically, you should know whether they'd be willing to pay
+someone to handle it for them because a lot of people will tell you something is a problem, but won't actually
+open their wallet when it when the moment comes. And as a part of real validation, it's not like, "Yeah, I
+want to fix this problem." but "Yeah, I want to pay to fix this problem." And the closer the problem that you
+solve is to revenue, the easier it is going to be to extract money from people that want to solve that
+problem. If you tell them that it's going to the problem that you're going to solve is going to save them
+$10,000 and they just have to pay you $1,000 for the solution, then of course it's a no-brainer. Or if you
+tell them that it's going to add $20,000 to the revenue and it's only going to cost them $5,000 for a
+solution, of course they're going to pay for it. A lot of the best problems to solve right now are in
+industries that feel unglamorous from the outside like local service businesses, small law firms, independent
+healthcare providers, real estate offices. These are industries where the pain is significant, the budgets are
+there, and almost nobody with any technical knowledge is paying attention to this. Once you've done all this
+research and you know the problem exists, the next step is not to build a solution yet. It's to sell it first.
+Yes, we're first going to sell before we build a solution. Chapter number five. This may surprise you, but
+this is the chapter that most people skip and it's the one that would save you the most time and money if you
+actually did it. The instinct you now probably have is, "Okay, I know exactly what problem I'm going to solve.
+Let me go and build a solution. Let me just start coding or start prompting AI tools to build something or
+hire someone to put it together. Get the product done as soon as possible so I can sell it." And that instinct
+is wrong. And following this is one of the most common reasons new businesses fail before they ever get any
+real traction. Same goes with YouTube. You get excited about the niche and you just want to rush and start
+pumping out videos and then after a few weeks or months, you realize it was a complete mistake and you're not
+getting views. Don't do that. The right sequence is the opposite of what most people do. You sell first and
+then you solve the problem manually for the customers who bought. Then once you fully understand the workflow
+from what actually doing it, you build a tool that automates it. This sounds backwards until you think about
+what it actually gives you. When you sell before you build, you get paid to learn. You find out exactly what a
+customer cares about most in the output, where the friction actually sits in the process, what steps matter
+and which ones don't. So, here's exactly how to actually do this. The first thing you need is a simple
+one-page offer. One page with five elements. You can build this inside of Cloud or many other tool of your
+choice. You start with the problem written in the exact language your customers use when you talk to them in
+the research phase. Then the promise, which is a specific transformation they'll get. Then the timeline, how
+fast you can deliver the result. Then the price, and finally the guarantee, what you're willing to commit if
+you don't deliver. A real example of that looks like, "We'll set up an AI voice agent for your practice that
+handles appointment scheduling and inbound calls in 14 days for $1.5,000 setup and $500 a month, or we'll
+refund the setup fee in full." That's it. Five elements, one paragraph. You can literally make more money with
+fewer customers just by charging more and then figuring out what would actually make your offer worth that
+price, and then just building that instead. Not because you're trying to overcharge anyone, but because most
+people undercharge at the beginning out of insecurity and then end up doing too much work for too little
+money, which makes the whole thing feel unsustainable. So, charge what the actual outcome would be worth to a
+customer, not what the time costs you to deliver it. I don't care if it costs you 2 hours of your time to
+deliver it, if it brings them thousands of dollars a month in extra revenue or saves them thousands of
+dollars, you can charge thousands of dollars for that service. Now, once you have the offer written, you go
+back to 10 people you spoke to during the research phase. These are the people who already told you they have
+this problem. You get back on the call with them, you remind them what they shared with you, and you present
+what you put together. The fact that you went away, did your research, and then built a potential solution
+makes this feel much easier than just cold outreach to random people. They already trust you a little bit
+because you treated our time with respect at the first time around. Some of them will say yes, and the moment
+images one person says yes to you and you can charge them, that's where really everything changes. You now
+have a real customer with a real problem and real money on the table, and that's not a small thing because a
+lot of people spend months building something before they ever get paid for it. And now you just go to solve a
+problem for them manually with basic tools that I'm going to share with you in a second without any of the
+automation you'll eventually build. And this phase is not about efficiency, but it's just mainly about
+understanding. You're just learning the workflow by actually doing it, which is the only way you know what
+needs to be done when it comes to automating the entire process later. The customer doesn't care about how you
+produce the output, as I said earlier. If you're using AI tools to solve their problem, they're happy with
+that. After you've done this for two or three customers, something interesting will happen. You will start to
+see the pattern. The same steps come up every time, the same friction points appear in the same places, the
+same questions come from a customer at the same stage, and that pattern is a blueprint for building the
+automation later. And in the next chapter, I'm going to show you exactly how to do this with no technical
+background and no previous experience. So, let's make some money as a one-person business. Moving on to
+chapter number six. By the time you got to this chapter, you've done something that most people will never do.
+You talked to real customers, you identified a real problem, sold a solution before building it, and delivered
+it manually enough times to understand exactly how it works. That means when you build the actual product,
+you're not randomly guessing. You know what it needs to do because you've already done it yourself, and it
+will make everything that follows from now on faster, cheaper, and more efficient for you. Now, the first
+thing I want to address is the assumption that building a real product requires either coding skills or hiring
+a developer. And that was true a few years ago, but it genuinely isn't anymore. I don't know how much you've
+been in a loop with Claude Code and other AI tools that are out there, but now you can really speak these
+solutions into existence like never before. Look, I'm not a developer either. Everything I've built, I've
+built by using AI tools like this one over here. All my faceless YouTube channels, agencies, and digital
+products. And then just with the help of a few freelancers I hired for specific tasks after already validated
+the idea. You know, the coding and building content and creating videos, none of that was the hard part. The
+hard part was knowing exactly what problem to solve and whether people would pay for it. And you already have
+that clarity because of what you've done in the previous chapters. So, let's look about how to actually build
+this thing. So, the first step is to just sketch out the flow on the paper. Now, the good thing about this is
+that you can, you know, have as much freedom as you want while on the paper, and then later you can literally
+upload a photo to AI Claude, and then it's going to build that thing for you based on what you drew on the
+paper. So, what does the user see when they first land on a product? What do they do next? What's the output
+they're looking for? And trust me, this matters a lot because you're going to know exactly what you're
+building out next based on the sketch. It saves you enormous amounts of time going back and fixing things that
+didn't need to be broken in the first place. And once you have that sketch, you build a prototype first. A
+prototype is not a product. It's essentially a one-pager that's clickable and slightly functional. You can
+download Claude Code to your computer or you can just use it directly here, and you can speak into existence.
+You can describe exactly how the tool works, how it looks, what the solution is, what the problem is that
+you're solving, and it will then build these tools for you. Even as one-pagers, that's completely fine. For
+example, I've built this digital product builder just by speaking into existence and then sketching it out on
+the paper just so Claude has an idea of how I want it to look like. And this is what I got. It's insane.
+[music] After the prototype comes the MVP, the minimum viable product. Let me be specific about what I mean by
+minimum viable product. The MVP is not a full product with some features cut. It's the smallest possible
+version that delivers a real value around the core problem. Nothing else. Not every feature you had in mind,
+but just the one specific thing, like the the most basic thing in the [music] world. Facebook started with one
+college and did one thing. Amazon started with just books. MVP gets you real customer feedback faster, which
+is the only thing that tells you what to build next. Now, if you're inside of Solo, you can build most of
+these things directly. You have the programming side on the left hand, where you have assistance. If you're
+building AI influencers and AI avatars, you can just go here. It's extremely beginner-friendly. If you're
+building communication agents for companies and clients, you can do that here. If you're building external
+agents for them, like chatbots, the one that I use on my website. So, right here, if someone wants to speak to
+a chatbot, they can ask it questions. That was built right over here. So, I'm going to go to chatbots on the
+left right side, click on add a new chatbot, and essentially just configure it by following the instructions
+here. And then for my YouTube channels, in the content section, I have this YouTube script writer, where I can
+just describe what my video is about, paste in a title, and right here, I can add specific details about the
+subject. So, if I'm trying to make something that's unique, which is exactly how you get more views, I can
+just go to YouTube, and I can find videos that speak about a similar subject, and then I can click share, copy
+the link, go back to Solo, paste that link inside of this box. Or, if I want to find some new obscure
+information, I can use this prompt. I can go to Gemini or Claude. I can select deep research inside of Google,
+paste in this, paste in my title as well, and it's going to find a lesser-known facts on the subject that I
+can insert as a text note inside of Solo. I can model the style of writing from different channels. If I
+really like the way that these guys write their scripts, I can paste their YouTube link here, and it's going
+to model their style of writing, and then I can select my monetization goal, bump up the length of these
+videos, and generate a script with one press of a button. Same goes with voice-overs. Like, everything that I
+need for a YouTube channel is inside. So, I can operate an entire business here. Then, we have the virtual
+team on the left-hand side. So, almost any sort of employee that I may need for my one-person business, if I
+need an HR advisor, I just need to select that, ask it maybe create interview questions for a video editor
+role, and then it's going to do that for me. Either way, in the next chapter, we're going to talk about how to
+get your first real customers with no ads budget, no existing audience, and no reputation in the market yet.
+Because having a good product or service is only good if the right people can see it. Chapter number seven,
+getting your first customers is the part that feels the most uncertain, especially when you don't have an
+existing audience, a big following, or a reputation in the market. And most of the advice that you're going to
+see out there tells you to run ads or build a funnel or spend money on influencers to promote your thing. And
+that advice is fine when you have some traction, but if you're starting from zero, that's not really going to
+work, and you're going to burn a lot of money doing that. The fastest path to your first customers has nothing
+to do with any of it. If you're selling a product or a service without running any social media, so I would
+recommend having at least a YouTube channel or an Instagram page, even if it's a faceless one, that's fine.
+You can use it to get real customers. But if you're selling a service and you don't want to do any social
+media, then you're going to go back to those 10 people that you spoke about earlier because they gave you
+their time. They told you about their problems, and they helped you shape what you built. So, when you go back
+to them with a finished product or service, you're coming as someone who listened to them and then applied
+what they wanted. So, the first thing you do when you're ready to find customers is just go back to those
+people, get them on a call, remind them of what they shared with you, show them what you built, and make them
+a simple offer to be part of the first group of customers, usually at a discounted rate in exchange for honest
+feedback. And some of them will say yes. This is generally the most uncomfortable part when you're starting
+out. But those first customers are worth far more than just the revenue they bring. They give you case
+studies, they give you testimonials, and they give you experience. You know exactly what to do when you start
+mass producing this and mass selling to other people. And after that, you literally just have to go out there
+and scream through your lungs to promote it as much as you possibly can. I mean, Gary Vee said something when
+he was asked about it. He said that if he lost everything tomorrow and he had to start from scratch with just
+a laptop and AI, the first thing he would do is build an app and then make unlimited organic content through
+YouTube, Twitter, and TikTok to get customers. His point was that social media is a distribution channel that
+costs no money. You can make videos for free. And in a world where building the product is no longer the hard
+part, distribution is everything because there are thousands of teenagers out there white coding apps right
+now. But if they don't have distribution through social media, it doesn't matter how good their app is. And
+look, if you've been following me here since 2019, you've seen how much my content has improved. You've seen
+me get millions of subscribers across different channels and all of that. But the first few years of me doing
+YouTube, I really sucked. Like I made my first video in 2011, and by 2015, I was not getting any views. I was
+just spinning the wheels, and I thought I'm never going to make it. But what mattered was that I stayed in the
+game long enough for the compounding to kick in. 700 million views across channels didn't come from going
+viral once. They came from publishing consistently for years across multiple channels while most people who
+started at the same time gave up after 6 months because nothing was happening yet. If you're doing it on
+YouTube, there's four ways to do it. You can either build these AI influencers, which at the end of this video
+I'm going to link you to a free tutorial where I talk about that. Then you can build faceless YouTube
+channels, you can build faceless brands, or personal brands. Whichever you choose, the only metric that
+matters is RPV or revenue per view. You do not care about how many views you get. You care about how many of
+those views are converting into buyers. There is this lady that posts on YouTube and only gets 12,000 views.
+She didn't even post for 8 months. She just started posting again now. She doesn't get a lot of views, but her
+product on school has 3,000 members paying $37 a month, which is $74,000 every single month. So, she doesn't
+need a lot of views to make money from this. And you must be very specific because when someone has the
+problem and they watch your video or read your post, they think this is person that gets exactly what I'm
+dealing with. They become They become a warm lead without you having to do any selling at all. And what that
+means in practice is that your content should be specific and not general. So, a video called how AI is
+changing business is too generic and competes with thousands of channels out there. But a video called how a
+one-person dental practice can use AI to never miss an appointment booking again is very specific and anyone
+who has that exact problem will feel like it was made for them. And even if it gets only 100 views, those are
+the 100 people that you want. And if you sell a $1,000 solution, if two of them buy, you make two grand from
+that one upload. You can pick any social media platform you want to start, though I recommend YouTube because
+with longer videos, you can build more trust. But if you're selling consumer products, then obviously Tik Tok
+and Instagram Reels will work better en masse. And by the way, our channel or content presence that publishes
+regularly for just 12 months builds an asset that keeps bringing in customers long after each individual piece
+is published. I have videos from 6 years ago bringing in sales to this day. Do you understand that it took me
+less than 2 hours 6 years ago to create an upload, create a video on YouTube that's still brings ad revenue,
+but more importantly, brings customers and clients to me while I sleep. So, you're essentially building mini
+versions of you that are always out there no matter where you're on a beach, whether you're sleeping, whatever
+you're doing, there are these pieces of content that works like machines 24 hours a day to connect you with
+customers from all around the world. Like this is crazy. I don't know why more people are not taking advantage
+of this. Now the last thing I want to say about getting customers is how important speed is. Uh the founder of
+Hexfield, who built a company to $200 in annual revenue in just 9 months by the way, frames the goal very
+simply when starting from zero. He says, "First dollar of revenue by day 30, tracking to about $80,000 a month
+by day 90." I mean, that's not a guarantee and it's not realistic for more businesses to get to a million
+dollars annual within the 90 days of starting. But if someone has done it, you're not breaking the laws of
+physics. So, make sure you're doing everything fast and put all your effort into getting the results as fast
+as possible. So, move fast, get your first customer paying you as quickly as possible, then get the second
+one, then ask both of them for a referral. And I know that's the unsexy part of starting a one-person
+business. That's why most people will quit. But it works way better than any sophisticated marketing strategy
+you can spend months building before you've proven the thing is worth marketing. Now, in the next chapter,
+we're going to talk about how to scale everything without a team because you're still a one-person business.
+Chapter number eight. You see, there's a version of success that most people in business treat as the goal.
+Like growing the team, adding headcount, or building an org chart. The bigger the team, the more successful
+the company looks like from the outside. But every person you add to an operation just adds complexity that
+doesn't really scale linearly with the value they bring. Now have someone to manage, align, motivate, and
+coordinate with. You have payroll that you have to pay no matter whether revenue goes up or down. The
+one-person AI business model is built on a completely different premise. Instead of adding people to handle
+the volume, you add AI systems, which, trust me, does take time and it is hard, but it's far more worth it in
+the end. You spend a lot less money and you're a lot more efficient. So, here's how that works in practice,
+broken down in three stages. The first stage is zero to $100,000 a year. At this point, you're doing most of
+the things yourself, but you're using AI to move faster than you could alone. You're using AI to help with
+research, writing, content production, customer communication, and just basic automation or repetitive tasks.
+You're not trying to automate everything yet. You're getting good at different parts of the business while AI
+handles the part that does require your judgment. Now, the second stage is $100,000 to $500,000 a year. This
+is where you start building real systems around the things that happen repeatedly like customer onboarding,
+support responses, content production, lead follow-up, invoicing. These are all the things that follow a
+predictable pattern and can be automated almost entirely. You set up the workflows once, you test them, and
+then you run without having to be involved every time. And now, the third stage is a million dollars and
+beyond. This is where you stack these AI agents and you connect them into workflows so that they can publish
+videos consistently for you or talk to customers consistently for you. And new customers get onboarded
+automatically, support questions get answered by chatbot that knows your product well enough to handle the
+vast majority of that comes in. You get looped in only for things that genuinely require decision that only
+you can make. And I run this exact model across everything that I operate. If you've been around in my
+universe, I know the question that I get asked often is like, "How the hell am I running all these different
+things at the same time?" And that's essentially the answer. My faceless YouTube channels produce content
+through an AI pipeline where I focus on strategy and quality control. My agency uses AI to deliver services at
+the margin that would be impossible with a traditional team. My community of 91,000 members runs on AI agents
+and handles support. And the chatbots I've set up for client communication mean I almost never have to reply
+to anyone manually. None of that required hiring a team. I mean, don't get me wrong. I do have freelancers
+whenever I need them here and there. I go to Upwork, I go to Fiverr, I go to Onlinejobs.ph. I get some
+freelancers when I need them, but I don't have people on full-time payroll. And by the way, if you are new to
+this, an AI agent essentially means an AI that can take actions and not just generate text like ChatGPT. It
+can read an incoming message, decide what category it falls into, pull relevant information, compose a
+response, and send it all without any human involvement. So, right here, I can add board knowledge base about
+everything my customer or client needs, like whatever their business is all about, and then that's going to be
+transferred into the chatbot that I built for them. And then I just need to send them an HTML code, or if they
+just allow me to, I will add that code myself. But the process is extremely simple. Or for my YouTube
+channels, again, I can just go over here. I can create YouTube thumbnails. I can create all the visuals that I
+need. So, just by going to video section on the left-hand side, when I'm building visuals for my YouTube
+channels, I can just go to video creator, and inside of solo.ai, I can find all of these different new models
+that they've built, like solo LX high-end or some of the cheaper ones like solo VX. It is a little bit
+cheaper, but it still is pretty good. I can select the aspect ratio for YouTube 16 by 9. I can essentially
+create everything here inside of one tool. All of this stuff is completely new because AI agents were not that
+good in 2025. They only got somewhat good at the beginning of 2026. So, we're extremely early to all of this.
+So, if some of this stuff sounds complex, do not worry. You're not the only one. I'm going to just being here
+and watching this video, you're already in front of 99.9% of people. And I think the biggest flex coming into
+2027 is going to be that you can make a million dollars a year as a one-person business rather than having a
+massive company with 50-plus employees and overhead and essentially having a job that is 24 hours a day and
+being chained to one location because you have this big company. I don't think that's flex. I think this is a
+better business to own because you can steer it quickly. You can change direction without meetings, and every
+dollar of margin improvement goes directly to you rather than being absorbed by payroll. Okay, chapter number
+nine. Everything we've covered up to this point has been about how, how to pick the right model, how to build
+a solution, how to find the right problem to solve, and then how to use AI agents. And the chapter, this
+chapter right here is about what? Like what the actual numbers look like at each stage, what you should be
+focused on at each milestone, and what a realistic timeline looks like for someone starting from zero today.
+So, here's the path and how it actually looks like. Zero to $5,000 a month is a stage that takes the most
+patience and produces the least visible progress. You're probably doing a lot of research, you are make having
+all these conversations, you're working tirelessly, but the results are just not coming in as fast as you
+want. This is the 3-month or 6-month period where most people will quit. Don't get me wrong, there are some
+people that explode within the first 30 days of starting and getting insane results, but that's not typical.
+Most people take a long time before they get to 5K. But, once you get to 5K, the next stage is $5,000 to
+$20,000 a month, and this is where the business starts to feel real. You have multiple customers, the entire
+delivery process now feels a lot easier because you have a little bit of experience delivering this thing.
+This is when you set up the automations, the AI agents, the content pipeline, the onboarding flows. You're
+essentially taking everything you learned from doing things manually and encoding it into systems that run
+without you. Then we have $20,000 to $83,000 a month $83,000 a month is essentially a million dollars a year.
+That's the number we've been building toward this whole thing. And I'm using that specific figure because it's
+real. I mean, people are doing much greater numbers than that, but we've been focusing on a million dollars.
+And getting from 20K to 83K a month consistently is about expanding what you offer to existing customers and
+bringing in new customers through a content and distribution system that works without requiring your constant
+attention. Or, if you're just doing faceless YouTube, that just means building up your portfolio of YouTube
+channels to more than just one. I have a bunch of clients that are doing $20,000 to $30,000 a month from a
+single channel, and as as soon as I see that they've learned the skills, they know exactly how to run that
+channel, then I tell them to expand into more so we can add so we can keep on stacking until they actually get
+to $83,000 a month and beyond with their faceless YouTube channels. And now you have the full framework. I was
+13 when I started making money online. I had no mentor, no course, no community, you know, no real
+understanding of what I was actually doing. I just started something and eventually I figured it out. The only
+difference between then and now is that the tools are dramatically better and the information you need is
+actually available, including in this video. You have every advantage I didn't have. The only thing left is to
+just go and do it. And if you want to see what is actually the best one-person business model to start right
+now that nobody is talking about, then make sure to watch this video next. And if you want to learn about AI
+influencers, then you can watch this video instead.

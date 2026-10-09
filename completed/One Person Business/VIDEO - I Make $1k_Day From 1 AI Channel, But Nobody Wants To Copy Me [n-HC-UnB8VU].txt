@@ -1,0 +1,98 @@
+Title: I Make $1k/Day From 1 AI Channel, But Nobody Wants To Copy Me
+Channel: One Person Business
+Type: VIDEO
+Video ID: n-HC-UnB8VU
+URL: https://www.youtube.com/watch?v=n-HC-UnB8VU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:28:07+00:00
+
+Kind: captions Language: en 45 days ago I started this YouTube channel from absolute zero. Zero views, zero
+subs, zero videos, and so far it's done $29,000 in ad revenue. And in this video, I'll show you exactly how I
+did that. Now, keep in mind that this is not normal, okay? I've been building YouTube channels since 2011. And
+over the years, I had many channels that completely failed. So, these are by no means typical results. And
+just before I show the step-by-step process, I just want to address the elephant in the room. I know a lot of
+people are wondering if this is in US dollars. So, yes, it's US dollars, $23,000 so far. All right, now let me
+show you my checklist. First, when I start any channel, I ask myself these three questions. Number one, can I
+make very long-form videos in this niche? Because YouTube is pushing longer videos, and it also allows me to
+place more ads. That's why I can make more money from ad revenue than most people. Number two, can I target
+rich countries with my videos? Viewers from America, Canada, Australia, United Kingdom, UAE, Germany, they
+attract higher ad rates. So again, you make more for 1,000 views. Number three, can I niche kill the channels
+that are not in my niche but have at least five videos over a million views? That's basically a concept I
+shared in my community in February 2025. But with that checklist in mind, here's the exact step-by-step
+process that I followed for that channel. Step number one, choose a boring niche. According to our recent
+study, less than 1% of people who watch YouTube post for more than 1 month before quitting. That means there
+is 2.7 billion people watching, but less than 20 million creating good content for those people to watch.
+There are so many niches to get into, it's actually crazy. Because most people are just going after the same
+niches. Documentaries, meditation, facts and top 10 videos, history. But when you take some boring stuff like
+local weather updates or updates from small towns in America or tracking costs of living in places like
+Canada, gas prices, grocery prices, or I don't know, explaining public services in different cities in these
+rich countries. I can go for hours with boring topics that would indeed be useful to an audience in a rich
+country. It's actually never been easier for YouTube algorithm to match you with the right audience you're
+making videos for. Like this channel literally posted one video, and that first upload got 1 million views on
+a brand new channel that didn't exist before. Step number two is to pick title skeletons from other channels
+outside of your niche that are already getting millions of views. So, for example, I found this space channel.
+They started around 2 months ago, they're getting hundreds of thousands of views. So, their titles are doing
+something good. So, I can just take out these title skeletons and apply them to something in a different niche
+related to America or Canada or Australia. Let's take this one. Top 10 things in space that should not exist
+according to physics. I can do 10 things in Las Vegas that should not exist. Or this one, seven theories about
+what existed before the Big Bang. I can do seven theories about what happened to Cairo, Illinois. Step number
+three, research the subjects so you don't share generic slop. And that's the most important part, because no
+matter how good your title or thumbnail is, if someone opens it up and you're just sharing generic and obvious
+stuff that everyone already knows, YouTube will not promote it. And especially with this new AI algorithm that
+instantly reads your transcript, if they notice that you generally share something that everyone knows,
+there's no reason for them to show this to a wider audience. So, that's why you want to spend some time either
+researching the topic yourself or just go to Claude and enter this prompt. I'm creating a YouTube video
+titled, paste your title, and just ask it to find lesser-known facts, obscure details, and surprising insights
+that are rarely mentioned in content related to this subject. And at the end, I also ask it to give me 20 to
+30 unique points that I can use in my video. Step number four, do not generate your YouTube scripts with
+ChatGPT. I don't know how many times I have to say this, but generic scripts are never going to perform well
+on YouTube. If you're going to do it manually with an LLM like ChatGPT or Claude, then just do one part by one
+and rewrite it as much as you can to make it sound human and non-generic. And also, these tools can sometimes
+hallucinate, giving you again generic info even if you told it not to do that. I mean, I personally use this
+AI tool, it's called Solo.ai. When inside, I can just go to content, and there is a really good YouTube script
+writer that actually allows me to program it myself. Plus, it's programmed in the back end as well to make
+human-sounding scripts. So, basically, I first describe what I'm trying to make a video about in my own words.
+Then I'm going to paste my title. Then in this box at number three, I can paste a link to different YouTube
+videos that talk about this subject. I can paste studies or any PDF documents that I find, or I can enter text
+notes. So, for example, I ask Claude for obscure facts that most people have never heard about when it comes
+to this subject. Well, now I can copy all of that, and I can feed it to this AI writer. So, I can add context
+here, and now it's going to use this unique information. And then at number four, I can copy the style of
+speaking from someone that sounds human or writes good scripts. And that can be any channel of your choice.
+For example, I really like how these guys write their scripts. I can now just open up one of their YouTube
+videos. I can then click on share, copy the link, go back to Solo, click YouTube, paste that here, and click
+add. And the cool thing is I can add multiple links, so I can combine styles to again make it sound completely
+unique. And then at number five, I can select my monetization goal. If I'm promoting something in these
+videos, I can select it. Or if the goal is to just maximize ad revenue and maximize my watch time, I'm going
+to choose that. And then the script is going to be optimized for that. Then I'm going to increase my length to
+around 10 minutes, and I'll simply generate script. At number six, because this channel was faceless,
+something that is very important if you want to remain monetized, is to inject some personality and something
+that's human with that channel. So, what I've done, this is just an example from a different channel, this is
+not my channel, but they've done exactly what I do. And that is to post these short trailers with where it's
+either myself speaking to the phone camera for less than a minute, just describing what the channel is going
+to be about and how I'm so passionate about the this subject, whatever the subject is. And then I just set it
+as unlisted video, so it's not public. It's only available when someone goes to the homepage and they're not
+subscribed, and it shows them this video where I talk about, "Hey, welcome to my channel. I'm going to do this
+and that with this channel." And then obviously, I just do everything with AI on it, and everything else is
+faceless. I don't show my face in any of the other videos, including this person probably doesn't show their
+face in any of them. But it just adds that human touch, so you don't get flagged as spam channel. Again, this
+only applies if you're starting a faceless channel, but that's what I did, and that's what I always do with my
+channels. Now, you can also just hire someone on Upwork or Fiverr or pay a friend 20 bucks to record this
+60-seconds video with their phone camera and just act as they are the owner of the channel and they are so
+passionate about the subject. Man, I really hope YouTube is not listening to this. At number seven, I really
+warmed up this channel quite a lot. This is actually a very aged account. So, I had this account for almost 2
+and 1/2 years now, and I didn't post anything on it for 2 and 1/2 years. And I just warmed it up slowly by
+spending the first few days watching videos in my niche, engaging with videos in my niche, then also just
+being active and acting as a human with that channel before starting to post. So, the mistake most people make
+is they just make a brand new YouTube account and they just start posting videos every single day. And that
+can be flagged by YouTube as spam. They might assume that you are an AI factory just pumping out content, so
+they will be really hesitant to promote you right away. It doesn't mean that you can't just start a channel
+from scratch, post today, and potentially get views. You sometimes can, but there are very high chances that
+you might get flagged. And the older the account is, the better. And there are also marketplaces where people
+sell these sort of aged accounts. But you honestly don't need something that's 2 years or more old. If you
+have an account that was made a few months ago or even a month ago, just spend a couple of days warming it up
+before you start posting. Now, if you already have a YouTube channel and you're wondering why it's not getting
+enough views and why you're not growing faster, then I made this video covering nine new things that this AI
+algorithm hates, and you might be doing most of these things. So, make sure to watch this video right now so
+you stop doing these things so you can actually grow your channel and stop wasting time. Click here to watch
+that, and I'll see you there.

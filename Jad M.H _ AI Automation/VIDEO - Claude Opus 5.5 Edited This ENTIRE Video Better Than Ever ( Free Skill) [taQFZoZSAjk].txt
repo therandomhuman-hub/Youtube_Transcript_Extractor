@@ -1,0 +1,71 @@
+Title: Claude Opus 5.5 Edited This ENTIRE Video Better Than Ever ( Free Skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: taQFZoZSAjk
+URL: https://www.youtube.com/watch?v=taQFZoZSAjk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:11:42+00:00
+
+Kind: captions Language: en Over 150 editors worked on it. >> That VFX sequence was completed 10 times faster.
+>> They're going to reduce the cost of producing content. >> Yeah. >> To basically zero. >> YouTube can't be
+far behind where you just type in the YouTube video you want to see, you push the button, and boom. >> What
+would you like to say to the AI naysayers? >> You have no say in the matter. >> I have engineers within
+Anthropic who say, "I don't write any code anymore." >> So, everything you're seeing in this video right now,
+the animations, the charts, the cuts, the sounds, Claude made all of it. Not an AI video generator, not an
+editor I paid, just Claude [music] writing code. And I turned the whole thing into a skill, the exact skill I
+used to edit this video, and you can install it and use it in your own videos under 2 minutes. Now, this skill
+is free in my skill community. Link is in the description. You can grab it right now, but honestly, I would
+rather if you could stay because if you don't understand something or how it works, you won't get good videos
+out of it. And it really helps also my channel. I'm not asking for money. I'm asking for your attention, and I
+know how valuable that is. So, let's get right into it and not waste your time. So, today I'll show you
+exactly how I used it in three [music] steps. All right. So, first, why now? Because this week Anthropic
+dropped Sonnet 5.5, and people are saying it edits almost as well as Opus for half the price. So, is that
+really a just trust me, bro chart? The price part is real. Sonnet 5.5 is $2 per million tokens in and $10 out.
+Opus 5.5 is 4 and $20, literally half. And the editing eats a lot of tokens because Claude writes every
+animation as code. So, half the price really actually matters. Is it as good as Opus? Some people say yes, but
+my advice is test it on your own in one of your videos before you believe anyone, including me, actually. And
+here's what most people don't get. Claude isn't generating a video like those AI video models like Hixfield.
+It builds a little web page for every scene, then turns it into an MP4, so every piece is editable. You don't
+like the color, you can change it. With a video generator, you get what you get. And you pay again to try
+again. All right. So, step one, the cuts. Before Claude can animate anything, it needs to know what you said.
+So, it transcribes your video word by word, then cuts out the pauses, the ums, and the takes you messed up.
+Like when I record, I mess up a sentence and I just say it twice. Like for example, in this video, I messed up
+probably a lot of times. And hopefully it it looks fine now, but Claude sees I said the thing twice and it
+keeps the last one and that's it. For transcribing, Whisper is free, but it runs on your own computer, so it's
+slow. Assembly AI is about $0.21 an hour of audio. It's super fast and you get $50 in free credits when you
+sign up. And that's a lot of hours. Step two, [music] animate. And this is where most people actually mess up.
+If you just tell Claude to animate one of your videos, you get the default look. And it's fine, but everybody
+has it. Same fonts, same gradients, same little icons. That's how AI slop happens. The AI isn't bad.
+Everyone's just using the same defaults. And I see a lot of videos that people are saying they're using
+DaVinci or Pro. You don't really need to use those platforms. So, what you need is a design system, basically
+a rule book of your style, your colors, your fonts, and how they come on the screen. So, for example, for me,
+I actually put it in a percentage-wise how much motion graphics is should look like. I put it in again in a
+percentage way. So, that way it knows the guardrails and it respects it. And here's how I make mine. I find a
+video, I love the look of it, and I give it to Claude. Now, Claude can't really watch a video, but it can use
+a free tool called FFmpeg to take screenshots every few frames and look at all of them. The colors, the
+layouts, how long each thing stays on the screen. >> [music] >> And it turns that into a design system. That's
+literally how I built every style I have. I have eight different editing styles in my Claude right now. If you
+go to my shorts, you'll see all of them or most of them. So, every single one came from a video I liked and
+every time I started a edit, Claude asks me first, "Which style do you want?" And then I just tell it, "Use
+screen share style." And it follows the guardrails that it set on and it just literally starts editing.
+[music] But, here's the catch, even with a great design system, one prompt gets you maybe to 80% of the way,
+which is step three, direct. Watch what Claude made like a director and you give it the notes. "This chart is
+too fast. Show the real website here, not a drawing of it. The parts needs sound." And here's the secret,
+don't fix that one on [music] one video. Tell Claude to save your feedback into the skill, so the next video
+is already better cuz it keeps learning every time that it edits for you. Like when I first built my screen
+share style, I basically didn't feel like it knew me, so I kept giving notes until it did. [music] And now my
+skill has a list of rules that all came with a feedback. No emojis on screen, every cut needs a sound, no
+random people as b-roll, and I need you to [music] show me something real in the computer. Every one of those
+notes I gave it once and now Claude just knows it. And it works the same way with my skill. Give your notes
+and it learns your task on top of mine. So, quick recap, the first step is cuts, the second step is animate
+with a real design system, not a default look. The third step is direct to save your time and to put it into a
+skill. And [music] in my honest opinion, not that long ago, this would have costed you an editor and a motion
+designer. Now it's Claude and some patience a little bit. It's not perfect. You still have to direct it, which
+is a little bit annoying sometimes, but if you post a lot of videos, it's kind of crazy how good [music] it
+keeps getting. Oh, and another thing that I really want to mention, if you see the context window of your
+chats is already at 40% just restart a new chat. Don't use the same chat for multiple videos. The way I do it
+is make one video, one chat, and then I do another one. And thank you for staying all the way to the end of
+this video. Seriously, that helps me a lot. I generally appreciate it. Link is in bio. Let me know down in the
+comments what you think about it, and I'll see you in the next one. Subscribe because I'll be dropping more
+skills.

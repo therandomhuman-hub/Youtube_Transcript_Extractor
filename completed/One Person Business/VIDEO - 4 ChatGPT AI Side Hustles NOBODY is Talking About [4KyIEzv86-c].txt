@@ -1,0 +1,145 @@
+Title: 4 ChatGPT AI Side Hustles NOBODY is Talking About
+Channel: One Person Business
+Type: VIDEO
+Video ID: 4KyIEzv86-c
+URL: https://www.youtube.com/watch?v=4KyIEzv86-c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:37:09+00:00
+
+Kind: captions Language: en In order to make $10,000 a month online, you need an income stream that's making
+you at least $300 a day. And that's now far more accessible because of these new AI tools that just came out.
+Now, you know that on this channel, I always give you things for free, so you will be getting complete text
+guides with prompts written for you, so you can just copy and paste. That way, even if you have no previous
+experience, you can follow along for free. So, for the very first side hustle, we're going to go over to Chat
+GPT. And even if you have a free account, you can still do the same thing as me. So, for this first one, you
+see there is a marketplace called Social Tradia, where people are trading their Instagram accounts, selling
+them for $1.7,000, $1.5,000, and so on, depending on how many followers they have and what category of content
+they're posting. And there is also shoutcart.com, where people are selling shout-outs starting from 50 bucks
+to 100 bucks per shout-out, depending on how many followers the accounts has. Shout-out just means that
+someone would post you on their story to promote you or your products. And most of the pages making money by
+doing this are completely faceless AI pages like this. Here's an example video they're posting. This is an
+Instagram reel. So, it's actually in like YouTube aspect ratio, and it's just scenes generated one by one with
+an AI voiceover in the background. They're either telling a story or they're teaching something specific. It's
+usually about ancient humans or history or biology. And then people love watching these. Like some of the
+these videos have quite a few views, like 100,000 views in this case, and they're all on the same format. You
+see, like a stickman figure in hand-drawn style. It's a pretty much what already works on YouTube, but this
+time just brought over to Instagram. I mean, here's this guy. He got 7.9 million views. If you've been
+watching my channel for a while, you already know about these channels. Like they made a ton of money, but not
+a lot of people are doing this on other platforms. So, what we can actually do is we We just take a screenshot
+of this YouTube channel and their most popular videos and then we can just paste it inside of Chad GPT and I
+can just say give me 20 ideas similar to what's already working for this channel. Now to make things easier
+for you as I said, I will be giving you free prompts and templates that you can just use. So when you open up
+this notion document which I'm going to show you where to get for free, you're also going to have a prompt
+that allows you to generate these ideas and now we're going to need this prompt that will write scripts for
+us. So just copy this from the document, simply paste it in this box, select one of these ideas and simply
+paste it in this box and then you can also delete this one about niche and the audience. It's not really
+important and we'll just submit it. So we're asking it for a 60 seconds script. Where do you get this notion
+document with all the prompts for free? Well, just go to my free community link in the description, go to
+classroom, go to AI systems, then scroll down to prompts from my videos and then find side hustle number one,
+build a faceless Instagram page and you'll find the link here. All right, now we got the script written. Now
+we just need to generate these images and the fastest way to do this is to go to Solo AI Scene Generator,
+paste our script here. On the right side, you can select how many scenes you want. In this case, we only need
+a 30 and then you can select what a style you want. If you want the stickman style or hand drawn sketch style,
+that's the one that I really like. And we'll just click generate bulk scenes. At the same time, I'm also going
+to test the stickman style for this and I'll generate bulk scenes as well. So both of them are now being
+generated for me. And next, I'm also going to need a voiceover. So I'm just going to go to Solo Voices and
+I'll paste my script. So this is all inside one platform. On the right hand side, I can just choose which
+voice I want and then just click generate and I will get the voiceover done in a second. Download that
+voiceover with one click. Then for video editing, just open up CapCut because it's completely free. So just go
+to Google, search for CapCut, download this, create a new project, import the voiceover. This one is only 46
+seconds which is perfect. Then select aspect ratio in this case to be 9 by 16. Grab the title of this post,
+click on add text, drag and drop that right here, paste the text as the title, and I'll place that somewhere
+around here. We can also change the font. And then for the scenes, we have two different visual styles. This
+is a hand-drawn sketch style that I really like. It's really creative. It looks like a human made this, but
+obviously it's AI. And then we also have the stickman style right here. Now, this is the one that performs
+better. So, I'll download the scenes by clicking on the download button right here. And then I can just drag
+and drop all of them because they're marked in order as scene 1 2 3 4 5 and so on. And now, as you can see,
+this entire video right here is created. And I can just export it, and I basically have a viral Instagram reel
+right there generated in less than a minute. So, we can start posting these on Instagram, grow up our account,
+and then simply sell it on a platform like Socialtradia, or charge people to promote them on our Instagram
+page. All right, side hustle number two is what I've used to make $900 yesterday. And if we go to the last 6
+months on this account, I made $148,000 doing this. And that's simply building PDF guides and digital products
+with AI. So, if you go to a platform like Gumroad, it's completely free to sell digital products. And I even
+built this completely free app that you can use to find digital product ideas. So, you just go there, you
+select a category, let's say parenting, then you select babies, and then you select how many ideas you want,
+and just click generate ideas, and then this app does the research, applies my frameworks, and finds the right
+products for you right now in real time. For example, that's how I just built this guide for first-time
+parents, and it's 27 bucks, and it looks pretty cool. You can find this free app inside of my free community.
+Just go to AI systems right here, and then you're going to go to AI YouTube systems. Then it's kind of tricky
+to find it, but it's right here. It's called free PDF guide lab. Just click here to open the tool, and you're
+also going to need this prompt to build the actual digital product. So, just copy this entire prompt from the
+document. And then what it did is I just took a screenshot of one of the ideas that this free app gave to me.
+So, you're going to see these cards, right, for each idea. You just take a screenshot of one that you like,
+and then you paste in that other prompt from my free community. Just remove the red stuff, and then it creates
+this whole digital product, like this entire PDF guide. And then you simply go to Gumroad, click on new
+product, select digital product. You just copy the name from here, and there the price, click customize. Then
+product description, you can either write yourself or like I just found some product and I just took a
+screenshot or stuff, and then I just told ChatGPT like write a description for the sales page like this, but
+for my product instead. And then it did that really well. And then for the cover design, I did the same thing.
+So, I just uploaded a photo of one product that I found on Gumroad, and then I just said like change this to
+be applicable to my product instead, and now I have this design. Now, one of the ways that people promote
+their digital products is they just go to X or Twitter, and they write these threads with AI, and then at the
+bottom they just sell their digital products, as you can see, through Gumroad. So, this is gumroad.com. All of
+this is on the same platform that we are also using. And he's selling it, for example, for $33. And all of
+these can be written with ChatGPT. Like if you just explain like hey, I want to write these sort of threads
+for Twitter to provide value to my target audience, and then explain what the product is that you're selling,
+and then just link it at the bottom. Or do what I do, and that's to build a faceless YouTube channels,
+especially AI avatars that teach something practical, and then they sell a product. So, here's an example.
+This is an AI avatar channel. So, this guy is not real, but he is selling a digital product in the description
+for 37 bucks. People are finding this valuable and buying, and I just made a free tutorial on my channel
+showing exactly how to do this. I mean, you can just go to a tool like this. You can literally just paste the
+script from ChatGPT, and this tool creates the entire video for you for 50 cents a minute. Like, let it just
+load, but all the visuals were made for me, the entire editing process, everything. And I can just post it on
+YouTube. And if this video was about parenting, I could have just linked my product that I just built with
+Gumroad and with ChatGPT. And if you're saying, "No, no one makes money like that." No, like this guy just
+showed that he made $138,000 in the last 30 days by selling a PDF guide on Gumroad with this faceless AI
+avatar channel. Obviously, this is not real, this is AI, and he's selling a product in his bio. $130,000 in 1
+month. That's crazy. You can watch a completely free step-by-step tutorial on my channel to learn exactly how
+to actually do this. Anyways, we're moving on to side hustle number three, and that's to create and sell
+Airbnb guest guides. So, step number one is to choose the host and the package using this prompt. So, let's
+copy it from the document. Go to ChatGPT. Paste it in this box. And let's say my market in this case is going
+to be Dubai. My available time is going to be 4 hours a week, and I'll just submit it. Where do you get these
+guides for free? Well, as always, you go to my free community, you go to the classroom, you go to AI systems,
+you scroll down because I give away so many things. You're just looking for side hustle number two, create and
+sell Airbnb guest guides, and then you will find this free document. And then ChatGPT will just do the work
+based on the prompts that you copy and paste from here. And most of these guides and digital products can be
+built inside of Solo. You can literally just select auto, paste a YouTube channel link, or any video link that
+you find on YouTube that is in your niche, or just insert your niche here, and then Solo will create the whole
+digital product for you in whatever niche you're in. You can just select a sales page or a full guide,
+download as a PDF, and you're ready to go. Side hustle number four is to start a faceless YouTube channel
+because, for example, with this AI faceless channel, I make $30,000 a month, even though I started very very
+recently, like less than 90 days ago. And like if you're inside of my paid community now, you can go to the
+classroom, go to new niches, and you can find my app with over 500 faceless channels that you can browse in
+any niche. Let's say for example, this one is making $45,000 a month, and he just started 2 months ago. It's
+like an AI avatar channel. I know they make that much money because of Solo YouTube Revenue Estimator, where
+you can just paste the YouTube channel link, click estimate revenue, and then it shows you how much they make
+based on their RPM, based on their audience, based on how many views they are getting, and so on. So, 45,000
+bucks, and then on the left-hand side, I can just go to content, I can just go to YouTube Script Writer,
+describe what my video is about, paste the title, select these script frameworks because it has a database of
+hooks and frameworks to optimize the script for best performance, and just generate a YouTube script. And then
+here's an example script that it wrote for me for fishing. So, I had that idea for one of the channels, and
+now I can just go to a tool like this, select Try Persona 1, click Use AI Avatar, go to the free Notion
+document, and copy this prompt from step number three, and then just insert your niche. For example, my
+channel in this case was about fishing, so I made this AI Avatar Gentleman Fishing right here. I've uploaded a
+photo to Vizard Rush, select custom script, which again is just copy-pasted from Solo right inside of this
+box, click save script, and then it does all the work and generates the entire video. It edits everything for
+me. All these visuals were created for me by Vizard Rush in an hour. It's a 9-minute-long video. The voiceover
+in the background, everything was created, and I can just download it and then upload it to YouTube. It even
+made a thumbnail for me that I can use with my character in the thumbnail. And this is only like 53 cents per
+minute. So, technically, this 9-minute-long video cost me $4 to create. And then the script with Solo,
+probably another dollar. So, for five bucks, I have a video that I can post on YouTube. I mean, for example,
+this AI Avatar channel right here, well, they just started posting 1 month ago. If you go to their oldest
+videos, they started 1 month ago, and they already have hundreds of thousands of views. And if I paste her
+channel link here and estimate revenue, she's making $11,000 a month already from this channel, and that's
+just from ads. But, she's also selling a digital product in her bio that for some reason I can't access, but
+she's only posted 34 videos. If she used that tool, which I don't know if she did, that would have cost her
+around 170 bucks for these 34 videos, which according to Solo made her K on the back end. And again, she only
+started this channel a month ago. And I know this works not just for me and all these people, but plenty of
+them are also inside of my community. So, I get to see what's working for people that are inside of my school.
+And I will obviously just because it works for people inside of my community and for me and for thousands of
+these other people that we can see on YouTube, results are not guaranteed in any business. Everything is
+risky, of course, but that's just what works for us right now. And if you want to learn more about it, I will
+leave a link in the description to all of the stuff we talked about, and you can also watch this tutorial next
+where I'm going to break down exactly how I built one of my channels in less than 90 days. It's actually kind
+of insane, and it's a step-by-step tutorial. It's completely free. So, just click here.

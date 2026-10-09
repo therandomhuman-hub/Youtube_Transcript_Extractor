@@ -1,0 +1,123 @@
+Title: How To Start An AI Business In 2026 (How To Make Money Online 2026)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: dqVKXH5Nnws
+URL: https://www.youtube.com/watch?v=dqVKXH5Nnws
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T21:18:41+00:00
+
+Kind: captions Language: en Imagine being able to create a business that taps into the power of AI by simply
+copying and pasting. A business that's in demand. It's scalable and can be started from the comfort of your
+own home. And the cool thing for you is this is the same exact business model that hundreds of others have
+used to see amazing results. And this is the same business model that I personally use to make a really nice
+daily income online. Now, obviously, there are no income guarantees here and your own results will vary. But
+the best part is is it doesn't require any complicated tech. You don't need to be some AI expert or have some
+large budget to get started. And don't worry, I'm not just making this video to sell you some course or
+expensive coaching program at the end of this video because that is not how I make my money. In fact, if you
+just smash the like button, drop a comment down below, consider sharing this video with a friend, I'll hook
+you up with a private link to unlock my full step-by-step course, all my templates, scripts, everything that
+you need to get started with this business for free. This AI business I'm about to show you could be the thing
+that you've been looking for that could potentially change your financial future completely. Okay, so let's
+just jump right into things. So, this is a website that you can go through and find literally hundreds of
+different AI app ideas. And these are all free. There's no like hidden payw wall or anything like that. I'll
+have the link to this website right down in the description so you guys can go through and check this out as
+well. An admissions essay coach, reputation radar for autoshops, appointment reminder for dentists, and you
+can literally scroll here and it's kind of like the explore page on like Instagram or Facebook, one of these
+social media sites where new ideas literally just keep popping up. tellahalth triage bot. And you can see it's
+sorted by advanced, beginner, intermediate. And if you're thinking, well, I'm not some AI expert. I don't know
+how to go through and do this. Well, the cool thing is is you can click into any one of these and you could
+just say, hey, compliance reminder bot for CPAs, which honestly that kind of sounds boring. So, let's find one
+that actually sounds interesting. Okay, here's one. Weightless manager for restaurants. If we just click on
+this view and build prompt, it says a smart wait list that texts guests their tables ready, alerts them, and
+fills cancellations from a digital standby list. So, that's pretty valuable. And I know a lot of restaurants
+already have this, but a lot of restaurants I know also do not have this. So, the idea is restaurants shout
+names across noisy room and lose walk-offs. We all kind of get this idea here. Why now? SMS weight list alerts
+cut walk-offs significantly. Standby autofill recovers no show revenue. And so what I like about this is it
+gives you a more detailed description on the idea, why now, who pays for this, so who's our ideal client, what
+price we should charge. So full service restaurants about 79, $129 a month. Obviously, you can go through and
+choose your own price points, which I'll show you how to do all that here in just a second, but you got to
+just validate with real customers. Now, the cool thing is it gives you a copy and paste prompt that we'll just
+click copy right here, and I'll show you guys how to go through and build this. I'm literally just copying it
+and then pasting it into a simple software, which right here, you can see you can have an extended 30-day free
+trial to this software. And the cool thing is this software also gives you a free one-on-one kickoff call when
+you start your trial just to help you get oriented and situated. So, if you're like a total beginner, you have
+no prior marketing experience, tech skills, or anything like that, that's super helpful. And then it gives you
+a rundown of how to go through and get it launched. So, let's actually copy this prompt and start building it
+before we get into the actual validation, just so it can be building while we're going through this. So, I'm
+going to do is come over here to this software. I'm just going to paste this in. And if you want an extended
+30-day free trial to this exact software, this is actually the software that I use to run my entire business.
+There is a link down in the description. Go through and just play around with it. There's no contracts, no
+commitments, anything like that. So, it gives you an extended 30-day free trial, plus a free one-on-one
+kickoff call and a boot camp. So, we're just going to hit enter right here, and it is going to go through and
+build this app for us. Now, the cool thing about this, because you might be thinking, why wouldn't we just do
+this with Cloud Code or Codeex or one of these other platforms? Well, this will handle the whole front end,
+but then it also handle all the backend and the hosting and your full website for the application. Whereas
+with Codeex or Cloud Code, I've built tons of apps on those platforms and they're really cool. They're very
+helpful, but then you have to go through and you have to get them hosted to launch them live. And there's just
+a lot more technical things that you have to go through and make happen before your app is fully live. And
+then another thing I love about this software is it's got a full CRM. So we can just say connect to CRM. Just
+CRM is basically where you can manage all of your contacts, clients, customers, everyone that is signing up
+for your software. So the cool thing is it's going to walk you through a few questions. So it's going to say,
+"How should guest SMS messages be sent? Twilio is real." So, we're just going to say, "Yep, real." And then
+what kind of like coloring? I like this coloring right here. And then which font? Let's go with this one right
+here. Kind of simple. And then what should the guest status check link show? Live status. Yep, I want a live.
+And then we're just going to hit submit. And now it's going to go through and build this entire app for us.
+Now getting back to actually how to launch this app. So the first three days, what we want to do is we want to
+validate it. So we want to visit five busy restaurants at peak, watch their clipboard process, watch what
+they're doing. Obviously, if they already have a text, SMS automation wait list in place, then you can just go
+on to the next restaurant, right? Show the app and ask, "Would this cut walk-offs like people just like, ah,
+yeah, I don't want to really stay here because that's too long." Especially if you're at like a mall and
+people want to go shop, but they're not there to hear their name. um run it free for one restaurant for a
+weekend just so you can get results and data and see how much time it's saving them and see what it's actually
+doing for their business because then you could take that case study and testimonial and share it with the
+next restaurant that you go through and visit. And then your first five customers days 4 through 14 target
+restaurants within 30 minute waits. And this is why I love it because it literally gives you the entire
+business plan right here. So target restaurants with 30 plus minute waits on weekend. Okay, which the cool
+thing is is you're able to go through and talk to local restaurants in your area and you already know all of
+the hot restaurants in your specific area that have longer weights, especially on weekends and sometimes even
+on weekdays. So, pitch every walk-off is a lost $80 table. Okay, very simple. People respond to loss more than
+they respond to gain. So, if it says, "Hey, you're going to make more money." That's a good sales pitch, but
+hey, you're going to be able to recoup $80 loss tables. That is a great sales pitch right there. Offer a free
+weekend with the host trained on what the platform does and how to actually use it. Then ask for referrals to
+their restaurant owner group. Because the thing that I've noticed is that every business owner is friends with
+other business owners. Every restaurant business owner is friends with other restaurant business owners. And
+so it's a great way to go through and get more clients and get your message out there without having to spend
+money on paid advertising or other expensive marketing tactics. And then also what you could do to grow it is
+add a reservation plus weightless hybrid. And I know some of you guys might be looking at this and be
+thinking, well, there's other software companies that already do this and they already do all these other
+things. And the cool thing is is the software that I was just showing you, which we'll get back to here in
+just a second. You can actually white label that software. Meaning you can take the software, put your own
+logo on it, connect your own domain, connect your own payment processor, and bring on as many clients as you
+want and not have to pay for each additional client. And so you're able to sell this software as your own. And
+the cool thing about the software, it has all these things. It has all the things that these other big
+software companies selling to restaurants can do. It has weight list management, has reservations, you can go
+build websites. Obviously, this SMS weight list just like we're building right now. You can do all of it
+inside of here. Then upsell SMS marketing to the capture list, expand to bars and food halls. And obviously,
+this is just one idea. You can go through and scroll through all the different ideas. Just come up here,
+browse all ideas. But what I like is it's first of all, it's free. So, you just put in your email and it
+creates your little account right here. And then you can save the idea and add notes. So, if you're scrolling
+through and like, "Oh, I like this idea. Oh, I want to add this note or maybe I could do it with so and so or
+whatever you're thinking. You can go through and add it to this. So, check this out. It just built this entire
+app right here where you can go through add the party, add their name, the size of the party, the phone
+number, and you want to do the marketing optin or just for standby and then add to weight list. So, you can
+come up here, you can publish it, and then if there's anything that you want to just make tweaks to, you can
+just come over here to this ask AI inside of AI Studio and just tell it. You don't have to be some prompt
+genius. just say, "Hey, I want to change the color. I want to change the logo. I want to change the name of
+this." And then you can go through and customize this app exactly how you want it. One thing I like about this
+AI studio more than cloud code or codeex is you can just publish it and have it go live right here where it's
+fully hosted. Everything is ready to go for your business. And just like that, your app is live. And we can
+click view app and it's right here live already on a domain. We can put a custom domain to this app and
+customize it however you want. And then on top of that, the thing I love about this software as well is that
+inside of this software, you also have your contacts. We're able to manage all the contacts, clients,
+customers coming into this. You have AI agents. We're able to build out AI agents to help you sell, market,
+fulfill, do customer support for this app that you're building. It's got websites, sales funnels. It has
+literally everything that you need to build an entire business. And if you're looking at this and you're just
+still overwhelmed, you're like, I don't know how to use the software. I don't know how to go through and get
+started. Well, first of all, we've got this simple prompt, go through and build the app. And then the nice
+thing is is I actually have this free community where I show you guys step by step in these courses how to go
+through and get your first customers, how to set up the software, everything step by step. And we have all
+these other members in here. We have discussion. You go ask your questions. We can even jump on a kickoff
+call. You start an extended 30-day free trial to the software. This is the link down in the description. You
+also get a free one-on-one kickoff call to help you get oriented and get the software set up in addition to a
+live boot camp to help you go through and get started with this business.

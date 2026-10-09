@@ -1,0 +1,19 @@
+Title: Your AI isn’t getting dumber your context is just filling up. #ClaudeCode #AI #Coding #aiagent #Tech
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: BX5aRZiUDVk
+URL: https://www.youtube.com/watch?v=BX5aRZiUDVk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:17:58+00:00
+
+Kind: captions Language: en Okay, I really want to make this video. Your AI isn't getting dumber. You just
+can't see the meter that's running out. Every chat has its own context window. Basically, it's working memory.
+The fuller it gets, the more it repeats itself [music] and forgets things. The problem is you can't see it
+filling up, so you don't notice until your [music] work and the answers that you get are really choppy. So
+here's the way that you can fix it. Whenever you're on your session, just type /statusline [music] and you
+just see what you want in plain English. Model, context left, cost, it builds it. And it stays at the bottom
+of your screen all session. I would really recommend if it gets to 30 to 40% don't push through and tell your
+AI to reorganize everything because you're going to start a new [music] session. When you start your new
+session, you pick up exactly where you left off and it's sharp again. If you didn't know this step, leave a
+follow and I'll see you in the next one.

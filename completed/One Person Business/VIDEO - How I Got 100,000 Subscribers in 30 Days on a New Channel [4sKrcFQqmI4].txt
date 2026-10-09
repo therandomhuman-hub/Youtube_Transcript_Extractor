@@ -1,0 +1,154 @@
+Title: How I Got 100,000 Subscribers in 30 Days on a New Channel
+Channel: One Person Business
+Type: VIDEO
+Video ID: 4sKrcFQqmI4
+URL: https://www.youtube.com/watch?v=4sKrcFQqmI4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:51:30+00:00
+
+Kind: captions Language: en I recently started a new YouTube channel from zero, that actually exploded pretty
+fast. In fact, it got over 100,000 subscribers in just 30 days. I mean, I've been doing YouTube for over a
+decade. I've started a lot of channels, some of which have completely flopped. And then some of those channels
+ended up getting millions of views pretty quickly. So, when I started this one, I basically took everything
+I've learned from all of those different channels, and I tried to remove as much guesswork as possible. And
+there were eight things in particular that got me over 100,000 subscribers in just 30 days. Some of them are
+going to sound stupid or boring, but they clearly work. So, rather than giving you some generic YouTube growth
+advice, I'm just going to show you what worked on my channel, and what I would do if I had to start another
+channel from zero today. I also have access to data that literally no one else has, because I invest in
+YouTube creators through my venture capital, and I regularly talk to over 100,000 creators in my community.
+Now, just a quick heads-up, I do want to show you that I also have a channel that completely flopped. Not
+every channel I start gets to 100,000 subs in just 30 days. For example, this one failed at first, and then 2
+months later I tried to revive it, and as you can see, the best video was only 200 views, and then after that
+it was all just downhill. So, if anyone tells you that they have a magic pill to blow up any YouTube channel
+at any time, they're probably lying to you. Even I myself, with over a decade of experience and millions of
+subscribers, very often have channels that flop. It's part of the game. I don't look at any failed the channel
+or failed video as a loss. I just look at it as paying tuition to learn what works and what doesn't. It's part
+of the testing phase, and it's completely fine. I'm not attached to any channel, and you shouldn't be either.
+But now, I'm just going to show you what worked on the channel that did actually explode and got over 100,000
+subs, and what I did differently from the channel that completely flopped. First of all, I spent more time on
+ideas than on content. To be honest, with this new AI algorithm in place, which is pretty sophisticated and
+knows exactly how to find the right audience for your channel, I genuinely don't think that quality matters as
+much as it did last year. Like people don't really care whether you spend 20 minutes using different AI tools
+to make a good video or whether you spend 20 days crafting something manually with your own hands if the
+output is pretty similar. They just care about the video. I mean, take a look at this channel. They started 3
+months ago. One of their first videos got over 7 million views. And this video is insanely basic. It's not
+this these are not actually human drawings. These are AI-generated images that look animated. I mean, they are
+animated, but they were not human-made. This is all AI just stacked all together. There's no movement. It's
+literally just a compilation of static images. 7 million views. And making that sort of video literally takes
+less than 10 minutes with AI. And then on the other hand, you have a channel like Kurzgesagt with over 25
+million subs. They have over 20 employees, and it takes months to make one video, and then they get 2 million
+views. And that's because if the idea is good, people will forgive bad visuals or bad editing. But then if the
+idea is bad, no matter how many animations you have and how premium your editing looks like, it will not make
+any difference. So before I made anything on this channel that got over 100,000 subs, I spent way more time
+researching topics, looking for outliers, studying titles, and trying to understand what people were already
+clicking on. Like I almost always compete on ideas. Quite frankly, most of my videos on these channels are
+very simple to produce because I genuinely believe that simple scales and fancy fails. I don't really spend
+much time or money on production nearly as much as I spend on ideation. Now if you're in my community, you can
+find a guide that shows you exactly what benchmarks to look at to understand whether the niche you're in is
+good and whether you can find the right video ideas there. Honorable mention for these people that get tens of
+millions of views with zero editing. They just turn on a webcam and then get 10 million views. I love it.
+Secondly, I obsessively studied my audience. What I mean by this is reading comments, not just underneath my
+own videos, but videos of my competitor channels. Reading them myself and also feeding them to AI as well.
+Reading their Reddit posts, joining Facebook groups, joining school communities, and really diving in to try
+and understand the language that they use, the bottlenecks that they have, the issues that they're facing at
+the moment. Like just trying to understand how do these people think? And then for each channel I make a
+document like this called the reading their mind, where I just pull out the biggest fears that that audience
+has, like the things that they're discussing in these communities and in the comments, frustrations that they
+have, specific objections that they might have, and the sort of language that they use that I can then use in
+my scripts. AI helps here, but only to format things and to organize them, but you still have to do manual
+work yourself. And I do recommend doing it manually, like just spending some time in these communities. I
+mean, if you're trying to build a serious business around this, it wouldn't hurt to just go join these
+communities and understand the people that you're trying to serve with your videos. Number three, I used AI,
+but not like most people. I recently saw that this big YouTuber with over 3 million subs is being canceled by
+his own audience because they caught him using AI. So, apparently he wasn't even using it to write scripts. He
+was just using it to research papers. And instead of just saying that he found AI useful, it allowed him to
+make better videos faster, which is good both for him and his audience, he got scared, backed down, and then
+for some reason apologized that he used AI. And then obviously people are now even angrier at him that he bent
+the knee. Now, don't get me wrong, I'm all against AI slope and AI cats, but I think there's a reason why
+YouTube itself is investing billions of dollars into AI. I use Claude AI for research, and by the way, there's
+this AI tool that allows me to speak like there are just press a hot key and then you can just talk as much as
+you want with it and then it will transcribe it and you can submit it. So, it's really cool. I can speak with
+it and find interesting topics within research video ideas. Then I use Solo Script Writer because it has these
+frameworks baked in. It has a library of viral hooks for all sorts of different niches and it allows me to
+write genuinely good high-quality scripts much faster and cheaper than before. I also use AI for visuals and
+to create these sort of animated videos a thousand times faster than doing all of this manually because here I
+can literally just press a button and actually get a high-quality video done. At the end of the day, people
+are agnostic to what tools you use to create your videos as long as those videos are out there and they enjoy
+them. They don't really care what you use to make them. No one should get mad at you for using Photoshop to
+make your thumbnail instead of, I don't know, painting it on a rock made with your hands. Now, if you want to
+see the exact prompts that I use with Claude, just go to my free community, go to the classroom, go to AI
+systems where you have a lots of free gifts that I left there. But, if you look for prompts for my videos and
+then search for 15 Claude prompts, you will find a document with all of the prompts that you can copy and
+paste yourself. Number four, I stitch together pieces that work. I never recommend copying a channel directly
+and doing exactly what they're doing. That very rarely works for anyone. But, it's very important that you do
+find outliers which are basically just videos that got more views than the rest of the videos on that channel.
+But, when you take it a step further and you go to adjacent niche, a similar niche to yours but not directly
+the same, and then you find an outlier, and then you take out title framework from that and you apply it to
+your niche instead, that's much better. And then you go to a completely separate channel and you take their
+thumbnail style for instance, and then you bring it to your niche, and then you basically just stitch
+different things that work on different channels and in different niches, and then you make something unique
+in your own space. I mean, direct copying is what these people did where some guy made a video 2 months ago,
+it got 2 million views, and then someone used AI to create an image person teaching the exact same thing. I
+mean, it's a pretty similar thumbnail, right? If you compare them side by side, and both of them got 2 million
+views. But what I prefer is to take different bits from different channels. For example, let's say I like the
+dry humor this creator has. Okay, that's one bit I can take from him. But then maybe I like the topics that
+this channel covers. Okay, that's the bit that I can take from this guy. But then maybe I prefer the thumbnail
+style that this podcast has, and then I'm going to apply it to my channel even though it has nothing to do
+with podcasts or this sort of niche. That way you're not shooting blindly, but you're also not copying anyone
+one by one. Number five, when something worked, I just double down immediately. This is probably one of the
+most useful things. Whenever you have a video that got even slightly more views, slightly better results than
+the rest of them. If you posted five videos and all of them got 10 views, but one of them got 150, that's a
+really good signal. And not only should you double down on that, but you should find adjacent topics that you
+can cover in that same format. They will be as similar to it as possible. You need to milk that outlier as
+much as you humanly can. Literally just one successful upload gives you enough information about your viewer,
+about the topic, about what packaging works, about what promise works. I mean, my overall strategy when
+starting a new YouTube channel, I call it 3 by 3. You pick one umbrella videos, let's say health and fitness.
+And then underneath that umbrella, you have three different topic clusters, and then you test three videos per
+topic cluster, which is essentially nine videos in total, and then you just see which topic clusters are
+getting more views, what what's getting better results, and then you just double down on that. And you can
+also test it with different thumbnail styles, with different title formats. And then whichever ones didn't
+work, you just unlist them, and you don't cover those topics again. Number six, I used effort bias. I think
+it's literally impossible not to have a successful YouTube channel when you apply effort bias. Here's a quick
+quiz. I'm going to show you four of these videos and you tell me what do all of these have in common? You can
+feel free to pause the video and just think about why did all of them get so many views? They each follow a
+simple viral strategy called effort bias, which is a psychological tendency to value perceived effort. one of
+the easiest ways that small YouTube channels can really stand out because every video kind of screamed like,
+"Hey, I put a lot of effort in this." And then viewers subconsciously value it and are more willing to give
+their click to it. If they can tell that something took real time and money to be created, they give you more
+of that attention back. So, if I make a video and I shared that I spent two weeks researching the subject or I
+spoke to a bunch of people in that space or I showed that I spent a little bit of money to get this done or
+that shooting took multiple locations and it took real effort, it always performs better. I mean, the final
+boss of this example is a guy that filmed a video with his phone. He got 21 million views because he condensed
+12 months of home renovation into a single 10-minute video. So, you're getting 12 months for the price of just
+10 minutes. That video alone allowed him to quit his job and become a full-time YouTuber, by the way. Number
+seven is the importance of speed. I recently made a full breakdown of one of my most successful faces channels
+that made over $400,000 in one year. And the number one thing there is speed. Speed is king. While everyone is
+overthinking their nation, overthinking their topics, and trying to perfect their editing, people that just
+shoot get the best results. Your job is not to make them perfect from the start. Your job is to create fast
+feedback loops so you know what works and what doesn't. Now, if your goal is to make as much money from your
+YouTube channel as possible, here's how to pick the niche. You pick niche based on supply and demand, and not
+just review potential, because there are a lot of channels that get millions of views posting videos about how
+to get six-pack abs, but that doesn't necessarily mean that you should copy them because they get tons of
+views. You will almost certainly fail in that niche as a brand new small channel. I would definitely target
+older audiences. They convert much better. They watch videos longer because they didn't spend that much time
+on TikTok, so they still got the attention span. And obviously, they got more buying power than teenagers. And
+you only need one outlier, and once you have it, you just milk it from as many different angles. You got to
+move as fast as possible, and just study your own analytics. That's the best teacher. You just need one
+minimum viable channel to understand what works and what doesn't. And number eight, I spend tons of time on
+packaging. You only get two things to convince someone to click, thumbnail and title. And I think most
+creators waste them by repeating what they already said in the title in the thumbnail as well. The thumbnail
+isn't supposed to repeat what the title already said. It is supposed to complement the title and add something
+that that title didn't say. And the reason people click on YouTube comes down to these three things. It's
+either desire, like they want something that video is promising. It's fear, they're worried about something
+and this looks relevant to it. Or curiosity, something feels unresolved and they need to close the loop. Every
+single YouTube video you see gets millions of views has one of these three underlying. So, that's why I
+created this prompt that you can copy and paste into Claude alongside with your title, and it will tell you
+what you could put in your thumbnail to create that gap so that people can't resist but click. You also keep
+your thumbnails very simple, two or three words maximum. And you also need to place your text at the top right
+corner. So, if you have any faces or elements, put them on on left and text always goes top right corner. This
+works much better with Western audiences and in the beginning you test different thumbnail styles until you
+find one that works and then you repeat it and as you can see you get repeatable results. I'm getting hundreds
+of thousands of views on these sort of thumbnails but in the beginning I was testing what works and what
+doesn't. Now if you want to see what's currently the easiest YouTube opportunity right now then make sure to
+watch this video next. It's quite insane.

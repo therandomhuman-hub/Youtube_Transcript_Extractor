@@ -1,0 +1,16 @@
+Title: Claudecode has been running on your command without permission. #ai #claude #anthropic #aitools #llm
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 5H1ttXwVbSE
+URL: https://www.youtube.com/watch?v=5H1ttXwVbSE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:22:05+00:00
+
+Kind: captions Language: en The Claude code has been running commands on people's computers without asking
+permissions first. And if you haven't updated today, it can still happen to you. Normally, before it runs
+anything risky, Claude stops and asks you to approve it. That's your safety nets, but a bug lets certain
+commands get past that check and run on their own with no prompt at all. This morning's update closes it. So,
+it asks again like it should. Update Claude code right now and you're covered. The same update also lets you
+hide your password and keys from the AI completely. It can use them to get the job done without ever seeing
+them. If you want to save setup command bypass, know the I'm going to straight to you.

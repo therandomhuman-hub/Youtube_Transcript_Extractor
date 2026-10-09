@@ -1,0 +1,17 @@
+Title: You can copy any website design you like #ai #website #aitools #aiforbusiness #aitips
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: k5aBFZdmdZc
+URL: https://www.youtube.com/watch?v=k5aBFZdmdZc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:38:10+00:00
+
+Kind: captions Language: en You can now copy any website design with a single command. There is a free claw
+tool called AI website cloner and it does something wild. You give it any URL, it screenshots the site, pulls
+out the exact color finds and layouts and then it spins out a bunch of AI agents that each rebuild a different
+section of the page at the same time. The one final agent compares its version against the original and fixes
+whatever it doesn't match so you paste a link to a site you love and you get a ship ready version of a design
+to build on. The great part, it's open source, it's sitting at almost 30,000 stars on GitHub and it's
+completely free. Just to know, it copies the look and the front end, not the site's actual content. Comment
+clone and I'll send you the setup and guide in a direct link.

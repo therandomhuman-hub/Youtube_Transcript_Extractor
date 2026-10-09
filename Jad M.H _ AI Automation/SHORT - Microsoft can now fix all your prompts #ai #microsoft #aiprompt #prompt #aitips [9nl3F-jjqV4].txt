@@ -1,0 +1,17 @@
+Title: Microsoft can now fix all your prompts #ai #microsoft #aiprompt #prompt #aitips
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 9nl3F-jjqV4
+URL: https://www.youtube.com/watch?v=9nl3F-jjqV4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:40:15+00:00
+
+Kind: captions Language: en Microsoft has dropped a free tool that fixes your bad prompts for you. It's called
+Skill Opt, and it kills the thing everyone hates about AI, guessing whether your prompt weak actually helped.
+Here's how it works. One AI runs your task, a second one grades the results and rewrites the instructions
+itself, and it automatically throws away any edits that doesn't score better than what you already had. So,
+instead of you fiddling with the wording for an hour, it tunes those instructions like you would train a model
+and only keep the version that actually wins. The optimized result then works on any AI switch to later, and
+there is even a model that keeps improving it overnight while you sleep. The best part, it's completely open
+source and free. Come in tune and I'll send you the setup and full guide directly.

@@ -1,0 +1,17 @@
+Title: Branch your Chat. #ai #aitools #aitips #aiprompts #claude
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 89A-aW5Gb3w
+URL: https://www.youtube.com/watch?v=89A-aW5Gb3w
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:44:16+00:00
+
+Kind: captions Language: en There is a cloud command that clones your entire conversation into a background
+session, so you can go try a risky idea without ever losing your place. It's called /fork. Normally, if you
+want to test some different approach, you either wreck the thread you're in or you start over and lose all
+your context. Fork copies the whole conversation into its own background session or in your agent lists, and
+you just keep working in the original. You can send a copy, try the refactor you're not sure about, keep going
+on the safe path, and then check the fork came up with. It's basically a branch for your conversation. The one
+catch, you're now running to two sessions at once, so it's burning tokens in parallel. Fork on purpose, not
+out of habit. When forking actually pays off, comment fork, and I'll send it over.

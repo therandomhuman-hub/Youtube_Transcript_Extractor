@@ -1,0 +1,104 @@
+Title: The SIMPLEST Way To Make Money Online With AI In 2026
+Channel: One Person Business
+Type: VIDEO
+Video ID: Cby9vrcEzOw
+URL: https://www.youtube.com/watch?v=Cby9vrcEzOw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:39:26+00:00
+
+Kind: captions Language: en This is probably the simplest way to make money online with Claude AI. And like
+yesterday, I did about $900. I'm going to reload the page so you know that this is actually real. And let's
+wait for it to just load. Let's go back. So, what was that? $900 yesterday, $400 today so far. But if we
+change the dates for the last 6 months, we can see that the gross volume was $148,000. So, in this
+step-by-step tutorial, I'm going to show you how to use Claude AI to build a viral PDF guides and make money
+by selling digital products. Now, to make things easier for you, I built a completely free app that you can
+use to find digital product ideas. And then I'll show you how to build and sell them with Claude AI. And I'll
+share a brand new marketing strategy that you can use completely free of charge that I've never spoken about
+on this channel. Step number one, head over to Claude AI or ChatGPT. You can use any of them you want. Both of
+them do pretty much the same thing. Step number two, let's take a look at some example digital products that
+people build with Claude and ChatGPT. Here's the Kettlebell Ultimate Illustrated Guide to Kettlebell Mastery.
+It has 138 ratings at the price of $27. Now, obviously, not every single person will leave a feedback. So, we
+can assume that a lot more people bought this. But even at 138 sales, that would be around $3,700. Now, how do
+you really know what to actually build with Claude AI that is proven to get a result that people actually want
+to pay for that? Because technically, anyone can go to Claude and ask it to create a step-by-step guide. But
+not everyone is turning that into actual profit. Well, to make things easier for you, I built a completely
+free app that you can find inside of my free community. So, it's called Online Business Friends. I will link
+it in the description. Just click on classroom right here. And then just click on AI systems. Once you click
+there, just open up AI systems and scroll down and you will find free PDF guide lab and then you'll access the
+tool right here. It looks like this. You can either start with a topic, this is optional. You don't even have
+to type in anything. You can just select a category. So, let's say for example, I'm going to go with
+parenting. Now, we have to choose a subcategory because parenting is really broad. So, let's say for example,
+we're only going to talk about babies and first-time parents. Now, you can select how many ideas you want to
+be generated for you and I'm just going to leave it at 10. Then click generate ideas. And now this is the
+researching relevant problems. It's using data. It's using my formulas and my frameworks to find the right
+digital product ideas that you can sell for a specific audience. And again, this can work with any niche you
+want. In this case, that could have also been fitness and weight loss. It's going to give you an overview of
+what the research suggests and then it's going to give you 10 different ideas and it's also going to score
+them based on how likely people are to pay for this. And if you ask me, this is really cool. So, it tells us
+what the problem is with this PDF guide. So, let's say for example, parents, they don't know what newborn to
+behavior is typical and they second-guess everything. And then inside the PDF we'll give them everything that
+they can follow. And why someone might pay for this? Well, it saves them time researching and reduces constant
+second-guessing during stressful transition. Let's try different category. Let's say for example, I select
+money and a subcategory is going to be irregular income and freelancing. Let's generate ideas. Here we go.
+Again, I got 10 different PDF guide ideas that I can sell. All right. Now, let's use Claude to build this PDF
+guide. Right inside of my community, you will find this free prompt that you can just open up, copy from the
+document, paste inside of Claude or ChatGPT. Then you can simply take a screenshot of one of these cards that
+were generated for you. And I'm just going to say product idea taken from the screenshot. And I'm going to
+sell this one for $27. Now, we're going to submit this. Again, works for both Claude and ChatGPT. So, I'm
+going to paste in the same prompt. Now, while it's building this, if you go into the left side both ChatGPT
+and Claude, you can click on plugins right here, and then you can search for Notion. And I will just need you
+to add Notion account. You can create a completely free Notion account, just click on the plus icon, because
+that will then allow you to ask ChatGPT to build this as a Notion template. So here, while it's writing all of
+this, I'm just going to go to the search bar, and I'm going to say, "Now turn this entire thing into a Notion
+template, a Notion document that I can afterwards download as a PDF." So just go into my Notion account and
+create this for me, please. Now, if you don't want to do this inside of Notion for whatever reason, you can
+also just copy the entire response, and then just open up Google Docs, open up a blank document, and paste it
+like this. So, again, it's not going to be as good as Notion, but still, you can just download this as a PDF
+document. Now, I personally prefer to do it in Notion because it's a little bit more interactive and looks a
+little bit nicer, but either way, we can just click on these three dots right here, we can then just export
+this as a PDF file, and download to our device. Now, you can, of course, sell these PDF guides either directly
+through Stripe, but what's much easier and safer for beginners is to just go to Gumroad. When you go to
+Gumroad, which is a completely free platform, you can create an account. Just click on new product, select
+digital product, copy the name, paste it here. I'm going to sell it for $27, and I'll click customize. Then,
+for the description, I'm going to go back to this product that I found on Gumroad, and you can do this with
+any product that you like. You could just take a screenshot, then paste it back into Claude or ChatGPT, and
+just say, "Write a description for the sales page like this, but for my product instead." Now, we're going to
+get this full description written for us that we can copy with one press of a button, go back to Gumroad,
+paste in this box. It looks very nice. Now, for the cover image, which is this image right here, I can just
+copy this design, paste it into ChatGPT. This works better in chat than it does with Claude, and then just say
+create this same sort of cover design, but for my product about babies rather than kettlebell. Now, I got this
+beautiful design that I'm just going to download. Click upload images, computer files, select this cover
+design. It loads like this. Looks pretty cool. Save and continue. And now this is where we're just going to
+upload our PDF from Notion that I have exported earlier. That's the content side. Now you see, in order to
+publish this product, we have to add payment method. To add payment method, just click here, scroll down. I'm
+going to select bank account in this case. And once you launch it, it's going to look something like this. So
+now we simply copy the link to this product, and I'm going to show you three different ways to promote it.
+Number one, pretty straightforward. What I used to do is I would just go to this website called medium.com.
+It's a completely free website where you can write blog articles that can not only get traffic from medium,
+but also rank on Google. going to go back to Claude or chat GPT and just say write a 1,000 words SEO blog
+article that I can publish on medium that would provide value to my target audience for this digital product
+enough so that they would be interested in purchasing this product. So this blog article should attract my
+target audience. They will get value from the blog article, and then in between the paragraphs, there's going
+to be a hyperlink for them to go and check out this digital product guide them. And then I'll also paste the
+link to the product so it can include it for me. This is the prompt that I'm using right now for writing these
+blog articles. If you want me to share it for free, just let me know in the comments down below. But we're
+going to paste the title in this box, then copy this entire article, paste it into medium, and then right here
+we're also going to insert an image. So click here. I'm going to search for a baby photo, and now we have this
+entire blog article, which also includes hyperlinks to our product. So right here as they're reading this,
+they can click on this button, they will be taken to Gumroad where they can purchase my product. And I'm going
+to publish this. So, that's one way to drive traffic to your PDF. But, what I personally prefer to do is build
+faceless YouTube channels that sell digital products and guides. That's how I drive traffic because, let's say
+for example, we had this AI avatar right here, which by the way just started 2 months ago, and their first
+video has 400,000 views, and some of their most popular videos have millions of views. you open up this, they
+are selling a PDF guide, a digital product of their own, and it costs $37. So, this guy is all AI. Everything
+here is AI. If we go to the analytics of this YouTube channel, they're also bringing in another like from ads,
+from ad revenue, they're probably now making 20, $30,000. Let's see once it loads. But, then by selling that
+digital product, they could be doing 50 to $60,000 a month. I mean, last time I checked, $25,000, yeah,
+$25,000 a month revenue. Last time I checked, it was 48,000, and it only started 2 months ago, which is pretty
+insane. So, how do you do that? Well, I've built a free step-by-step guide with all of the prompts that you
+can copy and paste to start a faceless AI avatar channel. And I also made a completely free step-by-step
+tutorial that you can watch here on YouTube showing how I personally made over $30,000 in 1 month doing this.
+It's the best way to drive traffic to a digital product or pretty much anything you want to sell. Of course,
+results are not guaranteed in any business, but if you want to see how I did it, then make sure to watch this
+video next. It's completely free.

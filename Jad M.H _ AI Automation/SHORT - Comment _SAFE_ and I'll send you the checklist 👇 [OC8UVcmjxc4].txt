@@ -1,0 +1,29 @@
+Title: Comment "SAFE" and I'll send you the checklist 👇
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: OC8UVcmjxc4
+URL: https://www.youtube.com/watch?v=OC8UVcmjxc4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:46:58+00:00
+
+Kind: captions Language: en There's one mistake that I see a lot of business owners are making right now, and
+most of them don't even know that they're making it. So, think about your team and what they have pasted in
+ChatGPT right this week. A client contract, a customer list, somebody's salaries, or a password. Because if
+they're doing that in their personal accounts, you don't even know where the information ends up. So, here are
+four things I would set up first today. Number one, decide what never goes in. Customer details, contracts,
+passwords, anything you wouldn't share on an email. And if you need your AI to work on it, you have to swap
+names. Client A, company B. The answer is pretty actually good. Number two, the most important is you have to
+put your team into a business plan. Something like ChatGPT business or Claude team. Those conversations aren't
+used to train on AI models. People that are using AI right now, they don't have a plan. Help AI to get better
+in their the training, and they get trained over those conversations. And if somebody's using their personal
+accounts and they're still using the paid plan, you have to manually go and turn off the training setting.
+Turn that off right now. Number three is you have to check everything that goes to a client. AI can make
+numbers. There is a huge problem with hallucinations. There's even some lawyers in TV that you can see that
+have come up with laws that they were never in front of a jury. Number four, and be very careful out of this,
+is what you connect it to. When you connect your AI to your Gmail, Slack, Google Drive, it can fully read
+what's in there. So, try to really channelize that and focus on the things that it needs to connect in. And if
+it asks for something to delete or send a message to, you have to manually do that and check it yourself.
+Because AI is genuinely the best thing that you could do to your business right now, but you also want to make
+sure you're not giving your business away to other competitors. So, I made a skill that actually does all of
+that and checks it for you. If you want it, just follow me and comment safe. Now, DM straight to you.

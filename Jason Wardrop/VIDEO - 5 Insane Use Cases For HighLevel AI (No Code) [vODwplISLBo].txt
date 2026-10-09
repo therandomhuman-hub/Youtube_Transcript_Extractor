@@ -1,0 +1,254 @@
+Title: 5 Insane Use Cases For HighLevel AI (No Code)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: vODwplISLBo
+URL: https://www.youtube.com/watch?v=vODwplISLBo
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-09T22:26:56+00:00
+
+Kind: captions Language: en There are at least five simple AI systems that you could set up today that local
+businesses would happily pay you 300 to $500 to even $1,000 per month to use. And no, you don't need to know
+how to code. You don't need to build any software. And you don't need any prior marketing experience to get
+started because right now most small businesses are completely overwhelmed. They're missing calls. They're not
+following up with leads. They're not asking for reviews. And they're missing out on new opportunities every
+single day. And not because they don't care, it's simply because they don't have the right systems in place.
+And that's where things get very interesting because with the right platform leveraging AI, you can build all
+of these simple AI systems in minutes. And then you turn around and you sell these simple AI systems to these
+local businesses as a simple monthly service. Now, just to be clear, I'm not promising any type of income
+here. This not some get-richqu scheme. and your results obviously will vary. But this is the same exact
+software solution that other total beginners are using to leverage AI, copying and pasting these simple
+systems that I'm going to be showing you guys in this video and being able to sell to these small local
+businesses. So, in this video, I'm going to break down the five most powerful, most relevant use cases of
+using AI inside of High Level that you can get set up and sell to these small businesses. And I'm going to
+show you everything step by step. I'm going to show you exactly how they work, exactly how to set it up, and
+then exactly how to turn it around and sell it to these small local businesses. And by the end of this video,
+you'll have a clear road map to follow, even if you're a total beginner and starting completely from scratch.
+And if you like what you see in this video and you want a more in-depth step-by-step guide, just smash the
+like button, drop a comment down below, consider sharing this video with a friend, and I'll hook you up with
+my private link that will unlock my full step-by-step course, all of my templates, scripts, and a private
+community access, all 100% for free, plus an extended 30-day free trial to the Highle platform, so you can get
+in and test all of this out 100% risk-free. All right, so now that you smash the like button, dropped a
+comment down below, shared this video with a friend. Let me jump on my computer so I can show you every one of
+these five use cases. Okay, so use case number one, every business needs a website. However, still in 2026,
+some businesses do not have a website or they have a website and it's absolutely horrendous. It does not
+convert people into leads or appointments and it looks just terrible. So for example, right here, here's
+Jerry's Plumbing. If we come down here, they do not have a website. They have a Google My Business profile,
+but no website. That's absolutely insane. So, what I'm going to do is I'm going to come over here to a
+pre-created prompt that I have, and you can easily pause the video, write this out as well, or if you just
+smash the like button, drop a comment down below. Inside my private community, I have all these prompts, plus
+a whole lot more as well. So, I'm going to do is I'm going to copy this prompt right here. I'm going to come
+over here to Highle's AI Studio, and I'm just going to paste this in right here. And then as far as getting
+the information for this website, I'm just going to come back to Jerry's plumbing Google My Business profile.
+I'm going to click on share right here. I'm going to copy the link to their Google My Business profile because
+now it's going to have the address, the phone number, where it's located. It's going to have the reviews, how
+many fivestar reviews. It's going to have all that information for me. Then I'm just going to hit paste and
+then I'm going to hit enter. And now High Levels AI Studio is going through and building step by step a full
+website that you'll see here in just a minute is going to be professionally designed for this business with
+all of their details completely updated. Now, while this website is still building, if you guys want all of my
+courses, templates, scripts, everything, plus my private community, plus weekly live calls with me, down below
+you can get an extended 30-day free trial to the Highle software. Or if you already have a highle account and
+you're like, "This is cool, Jason, but I want all of your additional content." There's also a link to upgrade
+to the 297 or 497 plan. You'll get access to all of my content as well, in addition to my affiliate clone.
+This is an exact step-by-step blueprint of how I become the top affiliate for High Level, making over $10
+million in commissions, which obviously that's not a guarantee. Your results will vary. They will for sure
+vary, but is the exact step-by-step blueprint that I use to go get Highle affiliates. So, if you want that,
+use the link down below to get my extended 30-day free trial if you're just starting out with High Level or if
+you want to upgrade, use that link as well, and you'll get access to all of my goodies. And just like that, we
+have a complete professionally designed website for Jerry's Plumbing with all the information plugged in,
+everything step by step. Now, the cool thing is if we want to go get clients, we can either go and give this
+to Jerry's Plumbing 100% for free as kind of like a way to get our foot in the door to sell the other services
+that I'm going to show you here in just a second. Or we can also go through and say, "Hey, look, we built this
+all out. It's 500 bucks one time, $1,000 one time, whatever the price point is." And then in addition to that,
+offer the other use cases I'm about to show you here, and charge a monthly service fee. So, all we'd have to
+do is come over here and click publish. We can connect a domain right here. And then we send this over to
+Jerry's Plumbing to show them the site that we just built for them. It looks great. It has all their
+information on it. It didn't take you any additional time than copy and pasting just a couple of prompts right
+here. Put in AI Studio. And that's pretty much all you have to do. And one bonus piece of information to this
+AI website creation is you can actually come over here and click on settings, click on SEO, and after you've
+connected your domain, you can have AI do all this search engine optimization for you to get Jerry's
+Plumbing's website ranking at the top of Google. All right, now let's get into the second use case, and this
+is actually going through and using AI Studio to build a real app that's going to help you make more sales for
+your business. So, I've got another prompt down here. If we scroll down here, make a missed call text back
+calculator app I can use to have my clients calculate the value and total of their missed calls. So, I'm just
+going to copy this. Going to go over here to the AI studio and I'm going to paste this in here. And the reason
+why I like this is because this is one of the core features that we can sell with high level because
+statistics show that 62% of incoming calls to small local businesses go unanswered. That means there is a
+massive opportunity of filling this leaky bucket of all these missed deals, missed opportunities for these
+small local businesses. And with this, we can set up either miss call text back that then kind of transitions
+into conversation AI, or we can also set up an AI voice agent, which I'll show you guys how to do that here in
+just a second so that we can capture more deals. But this calculator is ideal to throw this app onto our
+website so when people are doing research on us and our business, they can see firsthand how many deals
+they're missing out on by how many missed calls, what the average deal size is worth, and they can see right
+there, oh man, they're only charging $299 per month, but this could potentially save me five, seven, $8,000
+per month. This is a total no-brainer. And this is also something you can leverage and use on Zoom calls when
+you're selling to these clients. Okay, check this out. This is the miss call text back calculator right here
+on the website. You can see all the design is already done. It's beautiful. So, we come down here. We say
+missed calls per day. Let's say they're missing 10 calls per day. Okay. Lead conversion rate 20%. We'll just
+leave it there. Average customer value, let's say like it's a plumber. I don't know, 500 bucks. Sounds good.
+Uh text back recovery rate 40%. And you can see right here the cost of doing nothing, $30,000 per month.
+Potential recovered revenue, $12,000 per month. Yearly projection, $144,000. 24 new customers per month. And
+so basically, the way you use this is you get on a call with one of these small local business owners and you
+have them give you these numbers right here. So maybe they're like, "Ah, we don't miss 10 calls per day. We
+only miss four calls per day." Okay. Well, what's your lead conversion rate? So they give you the numbers
+right here. So then it's not like you're just coming up with these numbers. like, "Oh, we're better than that.
+We would be like 50%." Which most people will say that. Then they're like, "Oh, average customer value, maybe
+it's not 500, maybe it's just 250." And then text back recovery rate, industry average is 35 to 45, so we'll
+just leave it at 40 right there. So that's $6,000 per month. So if you then now come in and say, "Hey, we're
+going to just charge $299 a month to be able to go through and help you out with all these missed calls."
+That's going to seem like a nobrainer. that is a massive ROI on their investment into your service. Now, one
+thing I love about High Level's AI Studio that's way better than Claude Code or any of these other apps is
+it's all self-hosted as well. So, if we come over here and just click on publish, apply changes, publish right
+here. Now, it's already live. We don't have to connect it to GitHub or any of these other hosting services,
+which sure you can go through and do that and cloud code will walk you through it, but there's multiple
+additional steps that you have to do to get an app actually live. Whereas now, just a couple of clicks of my
+button, I just go right here, open this up right there. Now, this is already live that I can send to customers
+and I can even link it out to my website, my pricing page, throw in my own logo, and customize this entire
+page to my business. I hope you can see how these AI systems are absolute no-brainers. First, AI website, real
+life use case. Number two, building apps with AI and be able to go through and publish these apps in a matter
+of seconds in just a couple of clicks. Now, let's get into use case number three. Let's jump out of the AI
+studio here, and we're going to go and build a voice AI agent. So, if we come over here to AI agents, this is
+brand new, too. This just released. I'm super excited about this. This will be able to go simplify the whole
+setup of setting up voice AI agents for your business, which ties in perfectly with this miscall text back
+calculator because you can then say, "Hey, look, if you don't want to just like text back the people that are
+you're missing calls from, but you want an actual AI employee to answer the calls and answer questions,
+automatically book appointments, then an AI voice agent is probably the best solution." And the thing I also
+love about this page right here inside of the Highle sub account is this is like a full sales page right here
+that you almost could just copy and paste, put into Highle's AI studio and say, "Hey, make me a website, a
+sales page using all this information, but with my own branding, my own business, so I can connect my own
+domain and sell my own service." Because you check this out. This is a pretty good sales page right here. Your
+business is losing customers every day. 62% of calls are going unanswered. 78% of your chat messages. And
+they've got this chart right here. Human agent miss calls every month. AI agent less than 3% revenue impact
+very high. So it has the comparison right here. If you're paying somebody like four $5,000 per month to work
+the front desk. Okay. Misch conversation 78%. That is massive with an AI agent missing zero. Okay. Then it has
+an estimate kind of like that miss call text back calculator of how much revenue you could recoup. And then as
+we scroll down it kind of tells a little bit more about what this service is actually doing. Booking more
+appointments, building fivestar reputation, some of the info on high level and how it's being used right
+there. But just to kind of show you this real life use case, what we're going to do is come over here and
+click on get started. And it's going to walk us through literally like we're talking with chat GPT or Claude
+or Gemini or whatever your AI of choice is. says, "I want to set up an AI agent for my business. Can you help
+me get started?" Absolutely. I'd love to help you set it up. What type of agent are you looking to create? And
+then we can literally just click on what type of agent we want to create. So, literally, I hope you guys are
+seeing this. You can be a total beginner. You don't need any prior marketing experience or tech skills and it
+walks you through step by step to be able to set these up for these local business owners. And for all the
+haters be like, "Well, Jason, why wouldn't the small local business owner just go do this themselves?" Guys,
+I've worked with tens of thousands of small business owners, and I can guarantee you one thing. They are all
+focused on their own business. Even as simple as this is, they will not take the time to go learn this and do
+this and point andclick their mouse. They just want to pay somebody $299 per month, 300, $400, $500 per month
+to do it for them because small local businesses are very busy. they have a lot of things on their plate and
+so they want to just pay someone $300 per month to offload this off of their plate. So for this example, we're
+just going to come over here to Voice AI agent. It's going to go through and help us build this step by step.
+So I want to show you guys exactly how we're doing this. Okay, so it says, "What would you like to name your
+Voice AI agent?" Okay, I'm just going to say Gina. Um, hit enter. What is your business's name? I'm going to
+say Acme Inc., what should your agent say when it call answers a call? Hello, thank you for calling Acme Inc.
+I think that's great. So, I'll just type that in. Okay. So, now I got that. I'm just going to hit enter.
+Briefly describe what your agent should do. It's key role and instructions. Now, obviously, this is just a
+demo, so I'm keeping this super basic, but I'm saying answer FAQs for ask questions, book appointments, point
+people in the right direction. Okay. What language should they speak? You have all these different language
+options, which is so cool. So, we're just going to hit um English. What should be the maximum call duration?
+We'll just say 3 minutes. Um doesn't need to be super long. And now it's going to go in and build out Gina,
+our AI agent, AI voice agent for our business. Okay. So, it gives me a quick rundown first. Gina Acme Inc.
+It's going to add the welcome message, all the things that we just laid out. Okay. And then we're going to say
+yes, create Gina. And it's going to go through and build this all out for us. a reall life use case that we
+can use in our own business for our own AI agent to answer our voice calls or we just create for the small
+local businesses that we are working with as well. And I hope you can see like I've said multiple times
+already, even if you're a total beginner, you can totally make this happen. Okay, so it says what's next?
+Assign a phone number, change the voice, set working hours, add actions, configure post call notifications. So
+I'm just going to go through and I'm just going to say set working hours. I'm not going to go through and
+publish the phone number right here live on the site, but the cool thing is now you can actually use your own
+phone number. Okay, that's a brand new release that High Level just released. But also, I like to go through
+and use a separate number because we could trigger a lot of automations off that. We can do call forwarding to
+the business's existing phone number or from the existing phone number back to this. So, we could set up the
+whole miscall text back. All right. So, now we just go through which day should Gina be available? Honestly, I
+like to make my AI agents available every day so that anyone calls in any time of day. It doesn't matter. I'm
+just going to put in 24/7 of when she should start taking calls. And I'm going to also put in 24/7 right here.
+So, they're always going to um be answering calls. And it's going to go through and build out everything step
+by step. So, I think you kind of get the idea of this AI voice agent, how simple this is. So, let me just do a
+quick demo of how this all works. Okay, we can see Gina right here. here. So, if we click on Gina and I want
+to give this a little test. So, I'm going to click on start web call. Hello. Thanks for calling Acme Inc.. How
+can I help you today? Yeah, I need to get my toilet fixed. Got it. While I can't assist with that directly,
+I'll make sure a team member reaches out to help you with this. Could I grab your contact details to ensure
+they can follow up promptly? Yeah, sure. What do you need? I'll just need your full name, phone number, and
+email address, please. Yeah, my name is Jason Wardrop. Thanks, Jason. Could you share your phone number next?
+Yeah, it's 8885551234. And I don't want to use email. Got it, Jason. So, your phone number is 888-551234 and
+no email. Totally fine. I'll make sure a team member gets in touch with you soon to assist. Thanks for calling
+and have a great day. Okay, so that was pretty cool, right? And obviously we didn't go through the whole step
+by step of setting up the hours and the services and everything like that, but it was very easy to be able to
+go through that step-by-step tutorial to be able to set up this AI voice agent for literally any business. All
+right, let's get into use case number four. And we're going to come back over here to this prompts tab. We're
+going to scroll down. I'm going to copy and paste this. What we're going to do is create social media posts
+for a small local business. We're going to have AI create all the posts, automatically schedule them for
+Facebook, Instagram, Twitter, whatever platform that you want to go through and create it for. So, we're going
+to come back over here to ask AI on High Levels AI. And it says, "What's on your mind?" I'm going to paste
+this in. Create and schedule three social media post for my plumbing client. And then I'm going to come back
+over here and I just want to still grab Let's grab this Google My Business profile link. So, it has that
+information as well. And then I'm just going to hit enter. And what it's going to do now is it's going to go
+through, and obviously I just put three just for the sake of this video. It'll be simpler, easier to go
+through and create and schedule it, take less time. But if you wanted to literally go through and make posts,
+content for every day over the next 30 days, the next 6 weeks, 8 weeks, whatever it is, it will go and create
+all the content. You can even tell it a little bit more in-depth prompt of saying, "Hey, go out and find all
+the other social media posts in the plumbing space that are going viral right now, getting a ton of
+engagement, and I want you to recreate similar type of post. Don't copy them, but for this business right
+here, and then the AI is going to go through and do all the research. It's going to create the posts and then
+since HighLevel is integrated with all these social media platforms, you'll be able to say, "Okay, now they're
+all created. Schedule all the posts." Now, just fair warning because this is a demo account, I don't have any
+of the social media accounts connected, but I will show you once these are created the final result and then
+what you would do just to get them posted to your social media accounts. All right, it finished everything and
+you can see, like I said, I this is just a demo account, so I don't have any of these pages connected. Um, if
+we exit out of those, you can see the images plus all of the content that you could go through and post. So
+once you have a real client and they go through and connect their Facebook, Instagram, Twitter, whatever
+social media accounts that they have, you just come over here and just say schedule the post and would go
+through and schedule the post for you. Super cool, right? Okay. So for this fifth and final use case, what
+we're going to do is we're going to actually come back over here to the AI studio and this is going to be
+creating a conversation AI bot. But what I want to do first to show you guys the full use case is coming back
+over here to this website that we just built. And then what I'm going to do is I'm going to say add a chat
+widget to the bottom right hand corner of this website. Okay? Because typically if somebody visits a website
+1% of people visiting the site will actually turn into leads. And so we want to boost the number of people
+that visit a site to turn into leads and sales conversations. So what we want to do is add a little chat
+widget. So we just come back to the AI studio, have it add a chat widget, and then we're going to connect it
+to an conversation AI agent to be able to help answer all the questions that somebody might have, book
+appointments, and ultimately help us close more deals for a client like Jerry's Plumbing. Okay, so you can see
+right here, it just added this simple chat widget. Now, we want to create a conversation AI agent to respond
+to any of the messages that are coming in from our website visitors. So, just to finalize this, we'll just hit
+publish. We're going to hit update. And that is ready to go. And now from here, we're going to go back out and
+we're going to go click on AI agents and we're going to get started right here. But instead of this time
+creating an AI voice agent, we're going to create a conversation AI agent. So, this is all text space. So,
+this is going to be the same agent that we could train for Facebook DMs, Instagram DMs, text messages coming
+into our business, web chat conversations from our website. So, we'll just come over here, click on
+conversation AI agent, and it's going to walk us through the same exact flow like we did with the voice AI
+agent. But obviously, like I said, this is all textbased. But you can see over here, miss chat conversations,
+78% of humans. And honestly, the reason why that is is because there's so many ways to reach out to a business
+nowadays. There's email, Facebook DMs, Instagram DMs, there's text messages, WhatsApp messages, website chat
+widgets. And so, it's honestly, even if somebody has a full-time job of doing it, they still will miss a lot
+of these incoming messages. And so that is where if we train an AI agent on all of the information of a
+specific business and tie it up to all of these loose ends, then we can take this from 78% of miss chats to
+zero, which obviously a high revenue impact right here. So since you've already seen kind of the whole
+step-by-step workflow, I'm just going to show you guys over here conversation AI. I've got the agent list.
+I've got several AI agents that I've already created, but I want to go through and connect this general
+support one to my AI studio website that I just created over here. So, if I come over here, I'm going to exit
+out of this. Going to come back over here into our plumbing website and I'm going to say connect the agent to
+my chat widget on this website. And obviously I skipped through the steps, but as you saw in the AI voice
+agent, it's same exact setup. Tell the information on the business, give it a name, tell it how you want it to
+respond, what hours of operation, all those things. Very simple step-by-step walkthrough. And then from here,
+we just hit enter, and we're going to tie in that exact conversation AI agent to this chat widget that we just
+connected to this website that we just created. So, I hope you can see how this is all coming full circle of
+five real everyday use cases using High Levels AI. Building an AI website not only for your own business but
+for your local business, for your clients. Building an app to help you sell your services. Building a voice AI
+agent for your own business as well as the businesses that you're working with to help them with all the
+missed calls that are coming in. being able to go through and create and schedule social media posts so they
+can have continued content posting on their social platforms to build that brand awareness and bring in more
+leads. And then also this conversation AI agent that we're able to connect to this chat widget on our website
+onto our Instagram, Facebook DMs, SMS messages, all these different places. And so all comes together full
+circle. And this all together is easily a service that we could charge 300,400 or even $500 per month for.
+Okay. And just as a reminder as this is wrapping up, if you guys want access to all of my courses, templates,
+scripts, private community, weekly live Q&A calls with me, then if you get started with an extended 30-day
+free trial down in the description or just drop a comment down below and I'll hook you up with the private
+link to get all access to everything. extended 30-day free trial to High Level plus all of my bonuses, you can
+get that. Or if you're already on High Level and you want to upgrade to the $297 or $497 per month plan and
+get access to all my content as well. Then there's also a link down in the description says already a member
+of High Level upgrade here. Click on that. It'll send you right in app to be able to go through and upgrade
+and instantly get access to all of my content as well. And just like that, the AI finished everything
+connecting the chat widget right here to my conversation AI agent. And so we are all ready to go. So anyway,
+hopefully these five use cases were helpful for you in growing and starting your own business. Once again, if
+you guys want to get access to all of my content, 30-day free trial to High Level down below, or you can
+upgrade as well and get access to all the bonuses as

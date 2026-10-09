@@ -1,0 +1,130 @@
+Title: How To Clone Any Faceless Channel With AI (2026)
+Channel: One Person Business
+Type: VIDEO
+Video ID: BaWogn2xUUA
+URL: https://www.youtube.com/watch?v=BaWogn2xUUA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:45:10+00:00
+
+Kind: captions Language: en I recently found a faceless brand channel that's doing this much every single
+month and I found a way to completely copy them with AI. Not just them, but literally any faceless channel
+using this 12 steps formula. And we will not just copy their channel, we will also copy their products and
+apps that are making this much every month with AI. And to make things easier, I've built this entire notion
+template with all of the prompts you can copy and paste for free. But first, let's take a look at this example
+or channel. They've been around for a very long time and you've probably even seen them if you've been on
+YouTube for the last few years. They're more of a finance, luxury, wealth type of YouTube channel that now has
+5 million subscribers and they're actually one of the first successful faceless channels on YouTube. And you
+see now from ad revenue, they're only doing 12K a month, but they have other products that they're selling
+like for example their app which only on iOS is doing 40k a month, but then they also have it for Android
+where it's doing 10 to 20k a month. Not only that, but most of their videos are also sponsored. We can see
+that this one includes a paid promotion. So, they've been paid by these companies to post. For example,
+they've been sponsored by NordVPN, which probably adds another 5 to 10K per sponsored video. Now, to access
+this notion template, which has all of the prompts for us to clone this type of business, you're going to go
+to my free community that I will link below. Go to the classroom and go to AI systems and then simply select
+Alux. Then click on access the system. Here you'll see on the left hand side that this exact same system can
+be applied to literally any type of YouTube channel. We'll first start with a channel name. I'll go to CHP and
+then I'll copy and paste this prompt and that will give me similar channel name ideas. I really like Axelon so
+I'm going to go with that. Step number two is to then generate a logo inside of Google Gemini. We're going to
+copy this prompt and I would only wanted to use the first letter of my YouTube channel name which is going to
+be E to generate this logo. And I'll also select pro for better results. If I like the logo, I'll just
+download it with one press of a button. Step number three is to get unique video ideas like the channel you're
+trying to model. Now, whether that's Alux or literally any other YouTube channel, you just have to go to their
+latest 30 uploads and simply take a screenshot just like this. Then upload that screenshot onto Chad GPT3 and
+then copy this prompt and paste it alongside with a screenshot of their uploads because that will then prompt
+CE GPD to analyze their best uploads, create frameworks, and then give you specific original video ideas that
+you can make for your own channel. In my last video on this channel, we spoke about this one, for example,
+which started 1 month ago. Just from four uploads, they've not only been monetized and they've been selling
+their products, but they've also done this much in the first 30 days of starting their YouTube channel. You'll
+find their system here when you click on the live outline. Either way, as you can see, even for Alux, we got
+some really good video ideas that we can choose from. Step number four is to then copy the style of writing of
+a YouTube channel that you like. So if in this case I want to copy the style of speaking from alux or copy the
+style of speaking from this channel or any other channel all I have to do is open up notebook LM which is this
+free Google tool. Click on create a new notebook from scratch. Then go to the YouTube channel of my choice and
+simply copy links to their YouTube videos. I'll click on websites and links here and I'll just paste all the
+links at once. If you want to copy multiple links at once just search for Grabbit Chrome extension download
+it. It's completely free and with any channel that you like, you can just select all their videos like this at
+once and then paste them into Notebook LM and then just insert. Then you're going to copy this prompt and
+you'll paste it inside of Notebook LM and you'll just insert a video title that you like. And we see the
+reason channel like Alux is not a good channel to copy right now is because their videos are too broad.
+They're not specific and they can't do that because they've been around for eight plus years. So they already
+have a massive audience that they can serve these videos to. But if you try and make videos on these topics
+that are way too broad, chances are you will not really get many views in the beginning. Channels that are now
+exploding are the ones that are super specific and they come up with something new and unique. That's why I
+wouldn't really model Alux right now, but I'm showing you the process of how to clone almost any channel and
+you can apply it to any other one of your choice. You will just need to insert the title here. Notebook LM
+will then analyze the style of writing that they have in their scripts and then it will clone that style of
+writing and it will simply write a brand new script for you. Step number five. Now, in order to create this
+type of animation that they have and these types of characters, I've built a custom GPT where you can just
+describe the scene and then it will give you a prompt to generate that type of animation. So, for example, I
+can say a businessman standing alone in a dark office looking at a city skyline while holding a glowing coin.
+And then it will give me this prompt back. I'll just copy this prompt and then I'll head over to the next tool
+which is Google or Gemini. I'll paste that prompt here and I'll simply submit. I'll get a result back and then
+if I like it, I'll simply download it to my device. Next up, if I want some animated movements for that image,
+I can just go over to Cling AI. And this is really optional, but we can simply paste that image into Cling AI.
+And here you can see how I was able to animate this other scene that I made for a different channel simply by
+uploading a screenshot or an image from Google Gemini and NO Banana and then just clicking on generate. I also
+recommend only selecting video 2.1. You don't need more than that as it costs less credits and it's perfect
+for what we need and the waiting time is only 1 minute. In a second, I'll also show you how to copy their apps
+with AI. So, make sure to stay tuned for that. But for now, we need to generate a voice over, turn that script
+into a voice. For this, we're going to use 11 Labs in a specific way. We're going to go to the voices section
+on the left-h hand side. We're going to go to filters and filter this through through highquality voices, male
+voices or female voices. And then select the age to be middle-aged. Select language here to be English. And
+then just pick whichever one you like the most. Pull up a chair. I've got a story that'll change how you see.
+>> I don't really like this one. I'm going to go to the next one. >> There. I'd love to get to know you
+better. Do you want to grab some coffee and chat? >> This one sounds a little bit too robotic. So, let's try
+with Rachel. >> Stop scrolling for one second. This is the part no one tells >> a voice model perfect for that
+genuine conversational sense. >> This Aarin voice is very similar to the type of voice they have on Alux. So,
+I'm going to go with Aaron. I'm simply going to go to text to speech now and I'll find Aaron the right on the
+right hand side. I'll search for her and then I'll simply paste my script inside of this box. Instead of
+version three, which costs more credits, I'm just going to go with version two and generate speech. >> You're
+21 years old sitting in a cramped apartment in Osaka. Your mother is crying in the kitchen. >> Now, the first
+generation came out way too quick. So, she's speaking super quickly, which I don't really want. So, I'm going
+to set her to speak slightly slower, and I'll regenerate speech again. >> You're 21 years old, sitting in a
+cramped apartment in Osaka. Your mother is crying in the kitchen, your father. >> Next up, I will just put
+everything together inside of Keep Cut. So, Cap Cut is this free tool that you can find on kevkut.com. You can
+just download it to your device. And when you have it downloaded, just start a brand new project. First of
+all, import your 11 Labs voice over and drag it to the timeline. And then simply start adding your visuals,
+ideally animated first with Cling AI, so there is at least some movement. And then in the effects section, I
+will simply add a little bit of dust that moves on the screen. And I will reduce the atmosphere as much as I
+can. So it's not fully visible, but there is at least some movement. And by the way, this is how the animation
+came out from Cling AI. So now my character is alive and moving. And I can do that with pretty much any scene
+I generate in Nano Banana. Next up, let's talk about how we can replicate this sort of business model that
+they have where they have a subscription app. They're selling for $10 a month. Well, there is this prompt that
+I'm going to list inside of the document that we can copy and you can use any AI tool of your choice for
+building apps and just paste it there. I'm going to use Lovable and then you'll just have to choose a name.
+You can also change colors of course by changing the color code. I'm going to call this one day and I'll
+simply submit it. Now, Lovable or any other AI tool of your choice will start building this entire app from
+scratch and it will be fully functional. And what I said in the prompt is that I would like to have Stripe
+subscription integration to charge $10 a month for this app. So, people cannot access it unless they pay $10 a
+month. Now, for this, you would need to also connect your Stripe account. And that's relatively simple.
+They're just going to ask you here in the chat to give them the authentication code from Stripes. You will go
+back to your Stripe account if you already have one. If not, literally just search for Stripe or any other
+payment processor of your choice and then adjust that prompt depending on that. And by the way, that's how
+even I myself and building different apps for members of my community. For example, I recently built this
+digital product builder that people can now use and it's like fully brandable and it's a fully functional app
+that I built by simply copy pasting prompts into tools like Lubable and similar. Next step, another way
+channels like these make money is from brand deals and sponsorships. Meaning there is a company that wants to
+be promoted for 60 seconds in their videos and they pay an upfront fee, which can be a few thousand or a few
+hundred depending on the size of the channel. But in order to replicate a channel success and brand deals and
+sponsorships, you would just find videos on their channel that are being sponsored and you will literally open
+up the company link and find the same contact information. Because if they're sponsoring a channel in that
+niche and you have a channel that is in the same one, then chances are you might be able to lend a brand deal
+as well using this email that I've left out inside of the document. You also have some example companies that
+you can reach out to. These are some of the most popular, most common brand deals for that kind of channel. In
+the meantime, I do want to show you the app that was built from that prompt. This is insane. So, people can
+even enter an email and join the weight list. And when they access the dashboard, this is how it looks like on
+the back end. Weekly audio lessons as well, the feed overview, everything is fully functional. And as you can
+see, for Stripe integration to charge $10 a month for this app, we'll need to enable lovable cloud first. And
+for this, I literally just have to tell it yes, enable it, and that's it. Do not copy Alux. That's a very old
+channel that's been around for a long time. There are a lot better options now and a lot of different channels
+that only have one upload and get millions of views. You want to be looking into channels that are new and
+that are now getting millions of views. And then just be creative. Don't copy them word for word. Don't copy
+their exact titles, but replicate their style and what's working well for them. And even more importantly, add
+other monetization layers like building apps for these people or building your own digital products. So you
+can monetize this beyond just ad revenue. Ad revenue is great. Like we can see on this list, I have channels
+that are doing 5 to 10k a month just from ad revenue. But adding something like an app, a digital product can
+add a lot more to your revenue than just ad revenue. For a more detailed tutorial on how to start a faceless
+YouTube channel, I've just uploaded 96 micro steps to launching a faceless channel in less than 1 hour. And
+it's available inside of my other paid community, Online Business Club. They will also be linked in the
+description box down below.

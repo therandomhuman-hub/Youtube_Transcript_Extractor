@@ -1,0 +1,18 @@
+Title: Your AI agent can now hire its own agents #claudecode #anthropic #ai #aiagents #coding
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: WkdzpAuMBKE
+URL: https://www.youtube.com/watch?v=WkdzpAuMBKE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:25:57+00:00
+
+Kind: captions Language: en Claude code quietly changed something that makes it way more powerful and way more
+expensive and most people haven't noticed that. Until last week when you sent Claude off to do a job with a
+sub agent, that sub agent worked alone. [music] As of this version, sub agents can spawn their own sub agents.
+Three levels deep by default, it used to be one. So now you can say refactor this model and your agent can
+hire a researcher, that researcher can hire two more to read different files. And it keeps on going, that's
+the tree branch. While you watch a single line of status, in big message jobs it's generally better, there is
+more coverage and less babysitting, fewer half finished passes and there is a catch. You might have guessed
+it, every level multiplies your token spend. So you have to be careful on the way you deploy it. Comment that
+and I'll send you the setting plus when it's worth tuning up.

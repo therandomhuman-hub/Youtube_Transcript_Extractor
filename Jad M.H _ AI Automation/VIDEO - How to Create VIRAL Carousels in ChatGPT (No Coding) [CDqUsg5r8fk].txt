@@ -1,0 +1,108 @@
+Title: How to Create VIRAL Carousels in ChatGPT (No Coding)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: CDqUsg5r8fk
+URL: https://www.youtube.com/watch?v=CDqUsg5r8fk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:19:07+00:00
+
+Kind: captions Language: en I posted 397 pieces of content yesterday. [music] >> Suddenly, everyone is a
+programmer because everyone speaks natural language like English. >> Why carousels often get more reach than
+photos. >> Every business here should be posting three [music] posts on LinkedIn every day. >> I think you
+will get better at taste and judgment and design. >> Carousels give you multiple chances to show up in
+people's feeds. >> It actually looks like an anthropic designer put it together. >> They're right. I did not
+design a single frame of it. Claude went through the style sheet reference I gave it, the guardrails I set,
+what models it should be using, and how to replace the words correctly, how to also color grade, and I
+reversed engineered it in a way that it stays consistent no matter how many times I want to use it. Carousels
+are one of the highest performing formats on social media, but here's the thing. You can spot AI-made
+carousels in seconds. You can also spot Canva carousels just as fast. Same layout, same fonts, same colors
+every single time. I spent my own time going through YouTube looking for something that actually taught you
+how to make carousels that don't look like AI slop, and [music] I couldn't find it. Most of the videos that I
+saw, people are charging for carousels that they have made. They make the video look super complicated to
+understand that you would give up and just pay for their platform. Or there are some videos that look like
+complete AI slop and it's giving AI a bad name. [music] But AI doesn't make bad carousels. Bad prompts do. So
+I built a way to make carousels with actual aesthetics, real visuals, not templates, and I turned it into a
+skill that you can directly install into your Claude, and it takes literally 2 minutes. Now, if a part of you
+is thinking, "Okay, what's the catch? Why is this free?" Here's my honest answer. I'm not selling this. A
+carousel generator alone isn't going to solve your content strategy for you. No tool does that. But, it will
+genuinely help you go from posting occasionally to posting daily or weekly consistently without looking like
+everyone else's feed. I just don't think that should cost people money to [music] access it. That's really it.
+But, what I do ask, if you find this valuable, if you want to scale, please watch this video all the way
+through the end. It genuinely helps my channel to grow. I'm not sponsored. I'm not getting paid to this. I
+don't make any revenue from these videos or the free value I give away. I know when people hear free, they
+sometimes assume it means no value, but I actually put the time to make these videos and build the skill that
+actually work. It would mean a lot to me if you leave a like, a follow, and let me know what you think down in
+the comments. In this video, we'll go through two things. The first thing is like understand how the mechanism
+works. It's super important. We should definitely not skip this part. And then, the second part, I will show
+you how to add the skill and putting it with the right prompt so you could have a smooth handover from the
+skill. So, first is these are the hooks that it made me. And the only thing I give it is three titles. I said,
+"I want you to write me one with steal my hook, steal my system, and steal my carousel layouts." And the way
+it did that is super interesting. And also, I did one for like old money farming. What here's how the machine
+works. It goes first by the topic. You either come up with the topic or you write simply a title. That's it.
+And then, by itself, I made it in a way that it's going to understand the feeling behind it. So, for example,
+here I say "steal my hook." So, what it did is it kind of did like a fishing thing [music] with a hook over
+the phone. And honestly, that's pretty good. Like, look at the captions also. There are three different styles
+of writing, and it did that perfectly. It added my Instagram username and also the dates when I published
+this. So, for example, it goes through process and it asks itself a question. So, it's like, "What does this
+feel like? Now, what is this about? Hook. Okay, so baits, patience being ignored." And that's where it came up
+with the fishing. And the second part or the third part is the world. So, it already has the prompt. With
+every prompt that I have is like big, physical, sunlight, place, like what it feels like, and the world that
+it lives in. It added that by itself. The part that I see a lot of people that are missing in carousels is how
+can they have like an AI that is very consistent with the character. So, I only added here myself, but if
+you're a roofer, dentist, or you have a huge team and you want them in the carousel in each slide, you can
+have your entire team in here in your carousel, and you don't need to bring somebody who would take pictures
+of. The way it works is I got myself and I made I did I used Hicksfield, and I gave it a bunch of pictures of
+me. Let me show you right here. I used Nano Banana probably really cost me nothing like token-wise, and I gave
+it some of my pictures. Everything that you're going to be see here, I'll give the prompts. And all And now,
+that's the reason why I am being consistent in the images. It has every angle of me. That is the reason why
+you need to have your own personal style. You don't want to be like this person right here just posting
+carousels that look like it was made by Canva. There's no interesting hook. There's too many writing. And if
+you were wondering also, okay, maybe I don't want to add the character. I don't want to add none of my
+teammates. I got the solution for you too. If you want to keep it consistent, you want to set up those
+guardrails where it doesn't have that hallucination and create something that is not your color fonts. This is
+the thing that a lot of people are actually gatekeeping. You just need to create a style sheet reference. That
+means your AI, every time that it's going to generate an image, it will only follow these patterns. The type
+of specimens, the pallets, the world, the writing style, and it will never think outside of it. So, for
+example, it generated me this. And what it did, super simple. It took the style sheet reference. It took also
+Claude the logo and then it gave its own prompt and it respected all the girl rails that there are. Same thing
+for this style that looks like this or even this one or this [music] one. Now that you understand the
+mechanism, uh you're going to go on Google and install Claude app or maybe ChatGPT, whatever you have your
+subscription on and then you will have a link down below that will give you access to the zip and also the
+prompt. So you go on your home page and you double click and you open a new folder. You call it whatever you
+want, so I'll just call it hair style YouTube. All right, and then you're simply just going to open it and now
+we're going to go on the zip. We're going to install the [music] zip. Now that it's installed, I'm just going
+to go back to my folder and just drop it right here. There it is, hair style YouTube. You can either open it
+as a new terminal out of folder or because you just installed the app, we're just simply going to open Claude
+and once Claude is open, you don't want to be in chat, you want to go on code. This part, then I open folder
+right here and you choose the folder that you have just [music] created. Right here I found it, I'm just going
+to click and open, trust workspace. We're going to go back to the Google Drive, open the prompt, just going to
+click on command A, copy everything [music] and just paste it. And then what it will tell you is basically
+that you need to connect either to X field or pi.ai and that you need to create a style sheet reference for
+your character. And by the way, if you want to have access to all of these style sheet references, I've
+already made a video in the past that I gave this all away for free. Or you can skip that video and just go on
+my school community. As you know, I'm not gatekeeping any of this [music] and I can show you right here that
+people are actually using it. And for example, Dorian just said he tried it and he says that he didn't have to
+touch a thing. He just dropped some pictures. And if you're watching this Dorian, thank you for leaving
+comments. And Abdullah [music] says, "Yeah, I'm kind of underrated." which is very nice to see that, which I
+don't think I am, but um he genuinely liked that I'm not gatekeeping any of it. So going back into our cloud
+session, so it needs a four of our answers. It needs our Higgs Field connector and character or no people, you
+can pick, and then each day you're in, if it's roofing, marketing, whatsoever, and your handle. So, the way um
+if you want to connect to Higgs Field, it's super simple. All you have to do is basically go at the bottom,
+click on settings, and click on connectors at the bottom left. You can click on discover, and you just have to
+type Higgs Field and you're going to be able to see it, and you only have to go back to the conversation and
+tell it, "Hey, I'm already connected to Higgs Field." So, I'll a little bit skip here this process, but I'll
+show you the final result and how it can generate me carousel. So, don't be alarmed, this is where I created
+the skill. Definitely, I had to use Visual Studio Code to build a lot of knowledge base into this. So, all I
+have to do in here is simply type uh maybe like Grock Bot, type in here Grock Bot AI. That's the only thing
+that I need to write, and then it will do its own research, see what's going on, and then it will generate.
+Okay, so right here it's a little bit confused because I've already had the conversation. I had to turn this
+into a skill, make it the next post. That's [music] it. As you saw, I only had to put a single small prompt,
+and look what it did. It kind of compared them to other AI models, and I had to rate them and have like my
+small book right here, my note taker. Let's see the other slide, and it also took the logos into the other
+slides, and it did the research also into my computer to check what it is doing better. Okay, Grock Bot right
+here to do the work. Okay, Gemini Spark, and here it did the chart of what is better, and there we go. And
+there is also a CTA to come and hire it, and also send them the cheat sheet. Okay, that'll be it for this
+video. I really appreciate you sticking all the way to the end. Everything will be shared in my school
+community. As you know, I'm not gatekeeping any of this. If you can leave a like and a follow, it would mean a
+lot to me, and I'll see you on the next one.

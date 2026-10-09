@@ -1,0 +1,112 @@
+Title: I Tested Nano banana 2.1 vs GPT 2.5 (No Hype)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: PBnFMsT1amA
+URL: https://www.youtube.com/watch?v=PBnFMsT1amA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:07:58+00:00
+
+Kind: captions Language: en Nano Banana 2.1 just came out. It's Google's new image model. And Google says it's
+better across the board. Better quality, better text, better at keeping the same character and half the price
+of the last one. Now, OpenAI says the same kind of thing about GBT image 2.5 Flare. More natural lighting. It
+keeps your face more from a reference photo and better edits. And you know how much I love GBT image 2.5
+Flare. It's super cheap. So, I'm really intrigued how it would look like. Today we're going to look at what
+they claim, look at their charts, and then test it ourselves. Realism, my own character, editing a photo,
+removing things from a photo, and and fixing an old, damaged photo. I'm going to spoil it a little bit. You're
+going to be surprised because I have seen the results already. This video is not sponsored. I'll be honest. I
+have received emails from sponsors. I just don't think it's the right time for me and the right people. I
+don't believe their tools are great and most of what they can [music] do can be done for free. So, this video
+there is no sponsors as most of my videos. But first, I genuinely want to thank you for subbing. These last 3
+days went crazy. I know you guys want skills that people charge for. I'll still keep making skills and hand
+them over. I'm just taking this quick time to really thank you guys. I just want to really thank you. I really
+appreciate you. And I have a duty that I really take seriously. It's your trust with my free skills and with
+not being biased. If you haven't hit follow, please do. And let's get right into it. All right, it looks like
+also Pablo wants to help us here. So, let's get right into it. Here's Google's own chart. Nano Banana 2.1
+score 1,50. Nano Banana 2,990. Nano Banana Pro 935. These scores come from people picking which image they
+like more. Looks great, but look at who's on the charts. Nano Banana, Nano Banana, and Nano Banana. Every
+model is on Google's model. GBT isn't there. So, this tells you it beats the old version of Nano Banana. It
+doesn't really beat GBT. Now, OpenAI on the other hand, they say GBT image 2.5 layer has more lighting and
+richer textures. It keeps the people from your reference photos. It follows your edits better edit after
+edits. [music] And it's 50% faster than their last version. There are two versions. Flare, which I love, the
+fastest one, and Sunburst, the slower one with more detail. Today, I'm testing Flare, cuz that's all we
+matter. Speed [music] and how good it is and how cheap also it is. So, let's check someone who isn't Google or
+OpenAI arena. It's public leaderboard where people vote between two images without knowing which model made
+them. So, at making images, number one is GBT image 2.5 Sunburst. [music] Number two, GBT image 2.5 Flare.
+Nano Banana 2.1 number five editing images GBT is number one and two again. Nano Banana 2.1 is number six. To
+be fair, Nano Banana 2.1 is brand new. It has about 5,000 votes so far. And GBT Flare has about 16,000. So
+that can still move basically. So on paper, GBT wins, but a chart is not a test. Let's see what it actually
+can do. Quick rules so it's fair. I ran everything on Hicksfield. Same prompt for both models. Same setting,
+2K on medium, one try each. No rrolls. What you see is exactly what came out. And the price on Hickfield and
+Nano Banana 2.1 cost two credits per image. GBT image 2.5 costs one. [music] Remember that because it don't
+matter. So let's start now with realism. The first test, a real phone photo. For me, this is a real test, not
+a photo shoot. Can you make a photo that looks like your friend took it on their phone? Four friends at a
+kitchen table at night. Pizza wine. Everybody's laughing and flash on. So, here is Nano Banano. And honestly,
+it looks decent. The skin, the hands, the magnets on the fridge, even the cables hanging on the wall. But look
+at the light. Everyone is kind of like they look too perfect. This kind of looks like a photographer took it.
+Basically, it's not a phone. Now, GBT, it's much much better. I would say this genuinely looks like a phone
+photo. The faces are a bit blown out. The background is dark and grainy and this guy is kind of like blurry
+cuz he's laughing so hard. That's exactly what I asked for. I saw this on someone's story and I wouldn't think
+twice that it was AI basically. I would say definitely both are scary but I ask for a phone image and GBT1 got
+that one easily. The second test is light and detail. an old [music] watch maker in Geneva with the afternoon
+sun coming through the window and at the end of the prompt I wrote natural skin no oversharpening nano banana
+soft warm light his skin looks [music] like real skin but the window is just white you can't see Geneva at all
+GBT it kind of looks like a movie there's a beam of light coming in and out of the window you can see the lake
+and church that's a nice detail but zoom in on his face. It's way too sharp in a way. Every wrinkle looks over
+possessed and I asked it not to do that basically. [music] But I'll give that point also to GBT. Looks more
+cinematic. But Nano Banana actually followed the prompt in a way. I'm I'm hesitating between GBT and Nano
+Banana. But let's just give it for Nano Banana now. So test three, a complicated scene. A ramen stall in Tokyo
+at night after the rain that cook stands a little left of the center. So you can see here um it's really
+interesting. First both menus are perfect. Every price and both uh put the counter in the right order. Nano
+banana fits the whole stall and and lights looks natural but the cook is right in the middle and I asked for
+three bowls and in here I can count four bowls. GBT moved the cook to the left exactly three bowls. It even
+wrote soy sauce in Japanese on the bottom, but it cut off the part of the stall. It added tools nobody asked
+for and the colors are pushed really hard. This test is about putting things in the right place and GBT got
+more of that [music] right. So, I would give this one to GBT, but this one's really close. I'll say test four.
+It's text. A coffee bag and a tin with a lot of small text, a brand name, numbers, a degree sign, dates. Both
+of it got every single word right. I checked line by line. So the text is a tie. The difference is the fin.
+[music] Nano Banana has it standing on its edge like a wheel in real life that rolls right off the counter.
+GBT is just standing up like a normal tin. If this was for a real brand, I would use GBT. So I would still
+stick to GBT um [music] 2.5 player. Now my character um I would say both of them don't look like me. That's
+the first thing I would say. Um, I use an AI version of myself for my content. So, both models got the exact
+same reference style sheet of my face that I made that I also do for carousels. So, test five, a candid photo
+of me, me at a cafe at theirs, laughing, holding a espresso like a friend took it and I'm turned to the side,
+which is harder than looking straight at the camera. Now, for Nano Banana, um, it [music] looks No, that that
+really doesn't look like me, I'll be honest. Um, but um, it does look like GBT 2.5 flare looks a little bit
+more like AI. If if Nano Banana got my Stashi reference right, it would look like more me. I I would give this
+one to Nano Banano. All right. Okay. So, test six. Change the photo. Keep my face. I took each model's photo
+of me and asked for two changes. A black leather jacket instead of a hoodie and make it night. which string
+[music] wise everything else stays the same especially my face. This is where the model breaks. You change the
+jacket and suddenly it's a different person with the same face, same pose. Even the glass of water on the
+table is still there. GBT, same thing. Leather jacket, night lights in the trees, my face didn't change. They
+kind of both nailed it. So, this one is definitely a tie, I would say. And actually, I would go back and say
+I'm looking at the image again. I would say the previous one of me in Paris, uh, I would give it to a GBZ 2.5
+flare. That kind of looks a lot more like me looking at it. And the test one, the test 7, uh, remove the
+people. This is a real photo from a national park. People sitting on the rock with the mountains behind them.
+I asked [music] both to remove all the people in their bags and keep everything else the same. GBT, they're
+gone. And it did the smart thing. The people were sitting in front of the trees, so it filled the space with
+trees. clean. If you zoom in a lot, the rocks look a little fake, but they really look uh the people are gone,
+but instead of showing was what was behind them, it turned them into more rock. The rock is just bigger now.
+And right where the woman was laying, there's just like a white lump, which is a bit confusing. Uh this one
+goes to GBT, I think. Test eight, the final one that we have, a really old damaged photo of a soldier and a
+girl. Look at it. Black stains everywhere. A big crack across his leg and part of his head is just gone. Now,
+banana kind of cooked with this one. I It really made them good. Uh, if you zoom in, you can see that, but it
+looks like still they have a little bit of filter on. It's just camera quality here. So, it just fixed the
+image. That's it. GBT on the other hand. [music] Wow. GBT made them look more real. If you zoom in into their
+face, you can see the eyes better. It doesn't look like it. There is a filter compared to Nano Banano, but
+both of them fixed it, but I just believe GBT 2.5 Flare really cooked with this one. And you can tell that
+they were sitting behind a wallpaper, which they were. This is not a real image behind them cuz they went to a
+photographer. So, kind of let's count it. Phone to photo GBT. Light nano. The lights, I would give it to GBT.
+Ramen install. I will give it to GBT. Uh text GBT. My character, let's just give it this one a tie. No, this
+one is GBTO. Uh edit my face. It's a tie. [music] Remove the people. I would say definitely GBT. And old
+people GBTO. So [music] overall, I feel like GBT wins. And remember on Hicksville GBT is also half the price.
+You would be kind of surprised or not if you're not you expected that from Gemini. But here's what surprised
+me. [music] On paper, GBT should win basically on everything, but there were, you know, a few ties here. But
+yes, of course, GBT won on most of it. I think recently Gemini has been lacking a lot, especially with Gemini
+Argon 4, if you've heard of it. I made a video about that, too. They're losing the race by far now. Their
+models are not doing so good. Hopefully, they come up with good news. Maybe they delay the uh Gemini Argon to
+come up with a better model. So, this is all you needed to know. I also want to mention I'll be making a
+carousel version of these uh because carousels are my expertise. That will be my next video and it's coming
+out I think today. So, stay tuned. Thank you so much for watching. Seriously, and see you in the next one. Oh,
+and if you didn't know, I have skills in motion graphics [music] and carousels with motion graphics too. Link
+is in bio. Thank you.

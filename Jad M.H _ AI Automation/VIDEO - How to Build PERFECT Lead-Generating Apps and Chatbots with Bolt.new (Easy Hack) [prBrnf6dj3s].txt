@@ -1,0 +1,62 @@
+Title: How to Build PERFECT Lead-Generating Apps and Chatbots with Bolt.new (Easy Hack)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: prBrnf6dj3s
+URL: https://www.youtube.com/watch?v=prBrnf6dj3s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:30:04+00:00
+
+Kind: captions Language: en back then it used to be quite difficult to build a good-look app but now with this
+software bold. new it has become accessible for known codies like me like the CEO of Nvidia mentioned he said
+the next programming language will be in English I'm going to say something and it it's it's going to sound
+completely opposite um of what people feel you you probably recall uh over the course of the last 10 years 15
+years um almost everybody who sits on a stage like this would tell you it is that your children learn computer
+science um everybody should learn how to program and in fact it's almost exactly the opposite it is our job to
+create Computing technology such that nobody has to program and that the programming language it's human
+everybody in the world is now a programmer so if you have been having an issue building an app this is the
+right video for you I'm going to show you how to build an amazing apps in just minutes if you stay until the
+end of this video you'll learn how to build an app from this to this in a matter of minutes let's get right
+into it today I'm going to be building a app for Law Firm that will allow their clients to check their videos
+and updates for example if a client has a specific case and doesn't know much about it they can log into the
+app and see the pre-made videos of the firm it will be like YouTube right I like the dynamic of YouTube but
+also like the Airbnb once they they click on the video it takes them to another page and they can read like
+the description and find out what type of documents they need essentially so all of this is just really like a
+support system maybe at the end We'll add an AI Touch where we're going to add an AI chat bot where they can
+ask questions about their case in case if they were confused I want to create let's call this app free from
+jail that allows really like to give it an example so let's just simply go to Airbnb here and go here and take
+a screenshot so we can give it an example of what we're looking for up simply like this and here it might work
+in one single prompt but it's also good sometimes s to divide the prompt into two let's give it a try I really
+like the color skim on Airbnb how Dynamic it is in Red so hopefully it would be able to do that for me okay I
+quickly want to read what I wrote I want you to create for me a friendly user app for a law firm called free
+from jail that allows clients to view videos about the firm services like you can see in the image that I sent
+once they click in the video it should be able to take them to another page where they can watch the video
+videos but also read the description of their documents and their legal rights when it comes to that specific
+case I want you to take the same color scheme from the image that I sent and also the video slim image are
+displayed I would like you to make a section where they can download the templates of common legal documents
+okay okay here apparently it's not able to see the image which is completely fine we can send it again also
+what I really like about b. new is it it's giving us the effect of like we're coding but we're really not I
+really like that Dynamic seeing the app being coded I think it really gives a good touch okay uh because it
+was not able to look into like the image of course the Dynamics aren't the same but so far it doesn't look
+that bad where you can watch videos okay and if I press on this I can watch a video download template and
+they're rights new you have specific so of course it's not going to write everything specifically we have to
+do that manually but it got the logistics of it and I really like that what I would like to add on here too is
+the chatbot and a little bit the Dynamics of Airbnb the color scheme okay hey and also here it was able to
+understand that this was Airbnb I'll you to update the website to match the Airbnb style layout and color
+scheme I'll break down the components and updates down to match the modern clean yeah okay from here it looks
+like there was an air but they did add like the star review and also like the like button right and but they
+really haven't changed the color scheme let's just say you haven't really changed oh okay this this looks much
+better wow it like it really amazing this is just Airbnb at this point uh it really did change it uh to this
+to that really took everything from it now when I click here um looks good okay now let's add the chot okay
+now this looks amazing we just need to add a little bit of a touch of adding the AI into our app here we can
+see the chat but it is implemented into this app but there's no AI into it so I've already made a chat bot
+into my previous videos um so I'm just going to take the code of it and just add it in the chat here I want to
+add what is really cool about b.u you can actually press on retry to give it another shot but this what I'll
+do I'll just take the code and make it in one single prompt might be better and see okay here we can see
+already the chat is implemented into our website okay let's try to talk to it I have a case yeah this is
+criminal law uh Dr okay let's say DUI I don't feel like sharing it here have your name James etc etc so the
+chop does look like it's working here's a cool feature about ball. if you look into the chat there's a button
+where it says undo what it does it's quite simple it simply goes back to the prompt that you've made earlier
+and it cancels the changes that it has made so you can imagine it had made changes where you were not
+satisfied with and you have to go back and try to explain that hey I don't like this prompt uh I don't like
+what you did in this so it takes a lot of work from you you just press on undo and it makes things

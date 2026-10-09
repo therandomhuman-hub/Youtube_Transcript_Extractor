@@ -1,0 +1,20 @@
+Title: Opus4.8 just got released. #ai #claudeai #vibecoding #claude  #claudecode
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: xgmY07wewpg
+URL: https://www.youtube.com/watch?v=xgmY07wewpg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T21:05:08+00:00
+
+Kind: captions Language: en Let me save you some time. Anthropic's just dropped Opus for 4.8, and there are
+two things you actually need to know. Across the board, it performs a little bit better than 4.7. Nothing
+crazy, but one upgrade is kind of wild. It's four times less likely to let flaws in your code code goes
+unmentioned. So, if you've been catching Opus quietly skipping over bugs in 4.7, this one actually tells you
+what's broken. The bigger drop through is dynamic workflows inside Claude code. Can now plan a massive task
+and spin up hundreds of parallel sub-agents to knock it out. This is built for code base level migrations and
+refactors. Stuff that used to take a senior dev a full week, but I want to give you a fair warning. It's going
+to eat an absurd amount of tokens. So, you have to check your billing twice. It's kind of absurd, but it still
+performs better than 4.7. The capability is here. The question is whether the output is worth the bird. If you
+have tested it already, tell me what you found, and if this is useful, drop a like and a follow. More
+breakdowns coming.

@@ -1,0 +1,113 @@
+Title: How He Grew a Faceless Channel in 30 Days (STEP BY STEP)
+Channel: One Person Business
+Type: VIDEO
+Video ID: pyIqkIHv1-8
+URL: https://www.youtube.com/watch?v=pyIqkIHv1-8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:51:17+00:00
+
+Kind: captions Language: en to have this faceless channel that sometimes does incredible numbers. But the
+problem is it took me three months to build it while this member of OBC blew up his channel in less than 30
+days. And I mean, he's not the only one. This channel also started just 30 days ago. This one as well and this
+one as well. So I spent the last two weeks analyzing how they did this. And I've built this notion template
+that I'm going to share with you for completely free. Plus with this video, I'll show you exactly how to use
+that notion template right away. All right. Now, first I want to show you a list of channels that succeeded in
+less than 30 days and then we will go over how they actually did that. So the first one is again a member of
+my community online business club. He's done these numbers in just four weeks from his YouTube channel because
+he had a product to sell with that YouTube channel. Here's another example over here. This channel doesn't
+promote anything, but they exploded. You can see their first video two weeks ago. You got 800,000 views right
+away on a brand new channel. That's why I love this new YouTube algorithm because anyone can literally blow up
+a channel even with zero subs. This channel as well, all this video one month ago, 3.8 million views, AI
+generated avatars, monetized and making tons of money as well. Here's another channel over here doing 15K a
+month started 30 days ago. And here's another one over here now only at 1,000 subs, but again, you can see the
+first video at 67,000 views posted 1 month ago. However, some of these are very risky and can easily get
+demonetized or terminated. Like this is a list of channels that recently got terminated. Like these were the
+channels that got deleted from YouTube. And you can see that clearly most of them are like these faceless
+channels that talk about politics and news and wars and usually again share something that didn't really
+happen. They get tons of views pretty fast, but they also get terminated even faster or they get demonetized.
+That's why the best strategy is to build a faceless channel that sells a product or promotes an affiliate link
+so you can maximize revenue per view even if you get demonetized. Like I'm pretty sure that Joy didn't make
+much money from ad revenue, but he did these numbers because of the digital product that he sold. So here's a
+notion template that I built. You can find it inside of my free community. It's called Only Business Friends.
+Link in the description. Completely free. Go to the classroom over here. Go to AI systems and you'll find AI
+YouTubers right over here. Just click on access the system here and you will open up a notion template. Also,
+keep in mind that just because I did it and all of these different people did it, results are not guaranteed
+in any business, including this one. Step number one is to find an offer to promote. You can either do
+something as an affiliate. So for example, I found this tool that I promote as an affiliate and I get
+reoccurring commissions every single month. It's an AI tool. Or I could also just promote my own product that
+I built, my own digital product. Because for example, this AI influencer, this AI avatar over here, again,
+faceless channel because this is not a real human. This is AI generated. He promotes different affiliate links
+in description. He's getting brand deals and sponsorships. or this AI avatar over here. She has her own
+digital product in school the same way that I do and she has 320 people paying $50 a month. So that's around
+15k a month from that digital product. Great place to find affiliate offers is to go to VOP, go to affiliates
+on the left hand side and then just go to refer buyers and there's a bunch of products to promote and all of
+them right away give you an affiliate link. like you can just see how much commission you would make and then
+if you like the product and it matches what you want to sell or just click on become an affiliate and you can
+right away like view assets click view assets again and then you can grab an affiliate link for that product.
+It's pretty simple. Step number two, you no longer have to be in front of the camera as you can build these AI
+influencers that can promote different offers for you. So you can run a completely faceless channel that way.
+So I built this free app where you can develop that AI influencer that looks realistic. So, you just click on
+create new influencer. Then you just describe what problem you're going to solve, like what's your niche. And
+by the way, if you're not sure what problem to solve, you can just use this prompt. You can copy and paste it
+into Treopv and it's going to list different offers that you could sell or like different problems that you
+can tackle. Let's say, for example, I'm going to go with how to eliminate chronic back pain in 30 days without
+surgery. I'll then paste that over here. I'll describe my target audience to be just people with chronic back
+pain. Rejone is going to be global. Tony is going to be friendly and I'm going to be making content mostly for
+YouTube. I'll then continue. You can then select the identity or just continue like this and generate a
+blueprint. And now this is going to analyze this data. It's going to give you different name options. Avatar
+spec JSON prompt. This is very very important. You now want to copy this JSON prompt and then go over to
+Google Gemini. So you can open up Nano Banana. You paste that prompt over here. Select Nano Banana Pro. And by
+the way, if you don't have access to Google Gemini and Nano Banana Pro, there is this free alternative on LM
+Marina. So you can just go over here, you can start a new chat, and just select image, paste that inside of
+this box, and it's basically a free alternative, though sometimes it doesn't work correctly. Usually it does,
+but again, it's it's a free alternative, so we can't expect it to be the best. Here's an example AI avatar
+that I've created earlier. So I made this guy as a YouTuber. And I also told Dminite to make him hold this
+book that I wanted to promote and it made this. So, it's pretty cool. I've also managed to make this one from
+a single prompt that I pasted. And this one is also super realistic. Some of them are not going to be the
+best. Like, this is honestly not the best. This looks like AI. So, we'll just have to do it again and again
+until it nails it and until it creates something that looks real. Step number three. Now, we need to write a
+script. The best tool to do that for free is to just go over to Clo and do it in this specific way. So let's
+say for example I want to recreate this video from Marcus Jones because his latest video went mega viral. So I
+want to recreate this. Well, what I'm going to do is I'm going to download this highquality script writing
+guide that I have linked in the school community. You can just download it and you can also download this one
+which allows you to copy the style of the person that you like. So in this case I essentially just took a
+transcript from this video. So when I've opened up this one, I literally just went to the transcript down
+below. I went to the description box and it's available right over here. Show transcript and paste it inside
+of Google Docs. And I'll just download that as PDF because I want to attach that to Claude to give it context
+as to what kind of script I want to write the style and the high quality script writing guide. And then I said
+write a new unique 2000 plus YouTube script for a video and then you can just put a title over here, whatever
+video you're trying to make, and then submit it with this prompt. And this gives you the best results when it
+comes to writing YouTube scripts for completely free. Step number four. Now, if I want to recreate this
+thumbnail over here, what I can do is I can go to YouTube thumbnail grabber to download this YouTube
+thumbnail. Download to my device. Then go to Chip, paste that image, and just say give me a full JSON prompt
+to recreate this exact same image perfectly, the same copy, and then it's going to give you this massive code.
+You just want to copy the code and then go back to Gemini, paste that code that Chad GP gave to you, and it
+will recreate the thumbnail. It's not going to be the exact same image because we don't want to steal
+someone's photo, but it's going to be a replica with a different phone and a slightly different style, which
+is perfect. Again, this is the original and this is over replica. Now, step number five is to generate the
+actual video. And for this, I personally use Hey Gen. It's super beginner friendly, super simple, and all I
+have to do is upload my AI avatar and then upload a script. The way it works, you just go over here. You first
+of all click on add a new avatar. You click plus icon over here. Upload a photo that you generated with Gemini
+earlier. And once you have it, just select your AI avatar. In this case, I'm going to go with this guy. Use in
+video. And then once your script has been written, you just need to copy that. You then paste the script in
+the lefth hand side, but you have to split it. So click on autosplit right over here. This video is going to
+be around 19 minutes long. That's pretty long, honestly. And then we just need to generate. Now, in my first
+example, I was using this AI avatar to promote different books from Audible because they pay $5 per free sign
+up. So, my strategy was to use AI avatars to promote free books and then anytime someone signs up, I add $5
+per sign up. As I said, some of these AI influencers fail. Some of them do not get results in the first 30
+days because every business is risky. I was just showing you outliers of people that did get results in their
+first 30 days, but those are not typical results for an average person that just starts out a YouTube channel.
+Step number six. Now, here's something that nobody tells you. Everything that I just showed you, the tools,
+the prompts, the workflows, the entire system, that's the easy part. The hard part is knowing that the things
+you're doing right now, are they actually good? And will they actually provide results or will you waste
+months on trial and error? That's why I built this community where you can ask me questions every single day.
+And we also have live coaching calls. You can also join a call and show me your channel and I'll give you
+feedback. And there have been hundreds of students that got incredible results inside. I'm really proud of
+this community as I've been building it for over three and a half years. I have over 60 hours of step-by-step
+video training and I'm really passionate about it. We constantly add new step-by-step trainings and workflows
+and systems. And I try to make it super super simple for someone that is starting out with YouTube and
+faceless YouTube and AI and AI influencers. But either way, I hope this video was valuable and jam-packed with
+value and actionable advice. That's how that guy blew up in 30 days. But again, those are not typical results.
+Either way, have fun posting YouTube videos. Something might or may not happen, but either way, I promise it
+will be fun. I'll see you in the next video.

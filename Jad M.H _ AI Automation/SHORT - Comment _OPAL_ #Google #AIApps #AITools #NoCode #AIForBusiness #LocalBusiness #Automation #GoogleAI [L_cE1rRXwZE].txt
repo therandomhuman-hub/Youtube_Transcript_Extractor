@@ -1,0 +1,19 @@
+Title: .Comment "OPAL" #Google #AIApps #AITools #NoCode #AIForBusiness #LocalBusiness #Automation #GoogleAI
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: L_cE1rRXwZE
+URL: https://www.youtube.com/watch?v=L_cE1rRXwZE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:33:02+00:00
+
+Kind: captions Language: en Here's how to build a free app that writes to replies to Google every time
+somebody leaves a review. Step one, go to Opal. It's Google's app builder and you don't write a single line of
+code in there. Step two, describe it in plain English, something like "Take a customer review and the business
+name, work out if it's positive or negative, and write a short warm reply that mentions what they actually
+said." Step three, Opal turns that into a workflow. You can see then inputs the AI step, the output. Click any
+step you want to change. Step four, [music] test it with a real one-star review because that's the one that
+matters. Then share it. Opal gives you a link and anyone with a Google account can use it. So, a local
+business owner opens one link, pastes it in the review, and has a reply in seconds. That's something that you
+can set up for a client to get free value as soon as possible. If you don't know how to do it, just comment
+Opal and I'll send you the exact description to paste in.

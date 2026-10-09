@@ -1,0 +1,147 @@
+Title: 11 New Things YouTube Algorithm Hates (NEVER DO THIS)
+Channel: One Person Business
+Type: VIDEO
+Video ID: 84bavOadYCI
+URL: https://www.youtube.com/watch?v=84bavOadYCI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:00:37+00:00
+
+Kind: captions Language: en These two channels post the same type of videos and they even started at almost
+the same time yet one of them got millions of views and the other one failed. So why is it that some channels
+get millions of views even in their first 30 days of starting and end up making tens of thousands of dollars a
+month while most people upload for months and never really get anywhere? Well, it turns out that because of
+the new algorithm changes that happened just this year, things are a little bit different now. I know this
+because I run a venture capital which invests in YouTube creators. So, I have access to data that literally no
+one else has. And I mean, I've been doing YouTube myself for over 15 years. So, I've been through every single
+change. And so, I went out there and I pulled a bunch of channels that are winning right now and a bunch of
+channels that are stuck at low views. And I found 11 specific things that this new AI algorithm actually
+hates. And if you stop doing these 11 things right now, your chances of getting views will dramatically go up.
+So, let's start with number one. First of all, the algorithm hates when you try to be original. And no one's
+going to tell you this because gurus are mostly going to tell you that you should be unique and you should
+make videos on something that no one has ever made videos about before. But when you're doing that, you're
+really gambling. There's no proof of concept that that's actually going to perform well or that people even
+want that. What actually works is stealing. You take a title and thumbnail format that's already blowing up in
+a totally different niche and you just remix it for yours. And to be clear, I'm not saying that you should
+copy the exact same videos, titles, and thumbnails for someone else. That's also not going to work. I'm
+telling you, borrowing what works from somewhere else and bringing it somewhere new is what works at the
+moment. And later, I'm going to give you a 100 viral YouTube title frameworks that you can apply to any niche.
+So, I pulled this from a bunch of different channels that are winning right now. I'm going to show you later
+where to get it for free. But anyway, secondly, the algorithm hates bad hooks in the first 10 seconds of your
+videos. Look, check the retention graph of any of your YouTube videos, and you'll see that almost 50% of
+people are out in the first 30 seconds. So, you really have less than 15 seconds to grab someone's attention
+and get them to keep watching the video or else they're out. And if you're not sure what hooks to use, I've
+actually extracted hooks from channels that are blowing out right now. Went to their most popular videos and I
+took the first lines that I used and I turned them into frameworks that you can apply to any niche. You can
+access this document completely free of charge inside of my free community. Literally, just go to the
+classroom right here. Go to AI systems. There you're going to find a bunch of freestyle cooks document is
+right here. Next thing the algorithm hates is living dead videos sitting on your channel. Look, if you go to
+your YouTube studio, you go to analytics, you click on content, then you click on videos, then you select
+lifetime, you'll be able to see your average clickthrough rate and average view duration. And bad videos are
+going to pull your average down. And the worse your average clickthrough rate and view duration is, the less
+the YouTube algorithm will promote your videos because obviously overall your channel is not doing well. and
+they want people on the platform longer. And if your channel as a whole fails to do that, why would I promote
+your videos? So, never let the video that flopped sit there forever. Again, YouTube now judges your channel as
+a whole. And when you post something new, it's going to look at a catalog of your other videos. And if all the
+other videos are really bad and are not getting clicks, are not getting watchtime, you're starting from a very
+bad position, no matter how good your future uploads are. So, if you've got a pile of old videos that got
+basically no views, they are quietly dragging the average down and therefore my rule is pretty simple. If you
+have a video that is older than 14 days and is still getting basically no views, you can just delete it,
+remove it from the channel. Next up, algorithm hates when you upload longer videos without adding chapters.
+And the thing is, YouTube can now trade each chapter as its own entity in the search result. that single
+chapter can now show up in search all on its own, completely separate from your main video title. So, one
+video can get a whole bunch of different searches pulled together to it because of chapters. And secondly,
+chapters can also get people to watch longer. I mean, a good chapter list kind of previews everything that's
+coming in the video so you can write them in a way that builds a little curiosity and makes people want to
+stick around to get to that part. Now, I know that writing good chapters is boring, repetitive, and annoying.
+So, this is the prompt that I use. So you can access it for free in the free community. Just copy it from
+here. Go to clogity perplexity whatever AI tool you use. Paste the prompt and then go to your YouTube video.
+Go to the description. Click on show transcript and then just copy the entire transcript from the right hand
+side and paste it here. Now this is the prompt that gives you SEO timestamps. So these timestamps are going to
+be full of keywords to help you rank higher in the search results both in Google and YouTube. But I also
+sometimes use the retention timestamps prompt. And this is going to make chapter names curiositybased so that
+they keep people want to keep on watching to open up those chapters. They're completely different depending on
+what sort of videos you make and depending on what's your goal. Either way, both of these prompts are going to
+be inside of my free community. And when you get those chapters, all you got to do is copy them and just put
+them in the description box of your videos. Next up, algorithm kind of hates it when you're not using AI.
+Look, YouTube is investing billions of dollars in building AI tools for creators. I mean, their CEO really
+loves AI, and I feel like that they're now rewarding channels that do use AI compared to those that do not.
+And I mean, all my monetized faces channels use AI. YouTube built 3 for video generation. They built Reimagine
+AI for YouTube shorts. They own Gemini. I mean, they're baking AI directly into YouTube Studio. They also
+built Google AI Studio for voices. Now, I'm not saying that you should stop making good videos and start
+pumping out AI slope, but just find a way to use AI in your process. Whether it's to use their native Ask
+Studio AI tool that now we all have right here where you can just ask it to summarize comments for you and
+give you video ideas and you can discuss your channel with this AI tool directly into the YouTube studio.
+Again, they really love AI. Or you can use Gemini to research your scripts or fact check your videos or you
+can use their AI tools for shorts. Honestly, there's no real pride in saying that, "Oh, I didn't use AI. I I
+did everything myself." Because while you're refusing to touch any of this, other creators are using AI to
+speed up their process, and they end up putting out better videos faster and for way less money. And the
+audience really doesn't care what tools you use to make videos. As long as they're good and they're providing
+value, why would they even care? There's plenty of ways to use AI the right way that actually make your
+content much better, now works. So, refusing to use AI is not doing your viewers any favor. Next thing the
+algorithm hates is when you use AI the wrong way. A lot of people go to Tre GPT and similar AI tools and ask
+it for video ideas with no previous context. But the thing is Tre Claude perplexity. They don't have access to
+YouTube data and they will confidently tell you things that are not true. So never ask AI for random ideas
+like that. What you want to do instead is feed it a title structure that's already proven to get views,
+something taken straight from a real outlier video that actually blew up, and just have it adapt that exact
+frame, but to your topic. So instead of getting AI to reinvent something good from scratch, which is most
+likely not going to work, you're handing it a skeleton that's already been tested in the real world, and it
+just fills in your version of it. Again, to make things easier for you, I have a list of 100 viral title
+frameworks, and you can find this inside my Frey community. It's called OPB 100 viral title frameworks and
+then you can just download this as a PDF file. Open up claude drag and drop that PDF file and just describe
+your niche. So I can say I'm making YouTube videos about luxury perfumes and watches. I need you to adapt
+these title skeletons to my niche and don't change the title of skeletons. just adapt one or three words
+maximum to make them relate to a channel that speaks about luxury perfumes and other videos that speak about
+luxury watches and then you just submit that. All right, number seven is mostly for faceless channels and
+those that are using AI voices from 11 Labs and similar AI tools. If you are using the same voice as thousands
+of other channels, you will most likely be shadowbanned or your reach will be limited because, you know, most
+people just grab the most popular voice of whatever tool they're using and slap it straight onto their videos.
+But you should really not do that because YouTube can now hear that the same voice is on thousands, if not
+hundreds of thousands of other videos. So, the fix is a little bit boring, but it works. And that is to either
+just clone your own voice or even better record your own voiceovers. You can do that for free because the
+second your Facebook channel sounds exactly the same as hundreds of other channels, then YouTube is going to
+trade it as yet another copy. Next up, the algorithm hates wasted space. You only get two things to convince
+someone to click on your videos. You have title and thumbnail. That's it. And most creators waste space by
+repeating what's already said in the title and the thumbnail as well. But the thumbnail is supposed to add
+something that the title didn't mention before. The title sets up a question or a statement and the thumbnail
+adds a layer of emotion, urgency, proof or curiosity. So you can copy this prompt and paste it into Claude. So
+let's say for example, I'm going to get this title idea that Claude recommended from one of the previous title
+frameworks that I've submitted. All I got to do is insert that title here and it's going to give me title
+options based on a curiosity gap, fear, warning, desire outcome, display for surprise, or social proof and
+scale. And even more importantly, it's going to be one to three words maximum. And then you can just pick one
+of these. Next up, the algorithm really hates videos that feel like everyone else's. I mean, YouTube's AI is
+now analyzing your transcripts as soon as you upload. And if your script is saying the same thing as hundreds
+of other videos on that same subject, and YouTube has no reason to push you to a wider audience. I mean, the
+same thing has been said a thousand times before. And this is really big because a lot of people look,
+especially in the finance space, they see a bunch of channels that have exploded and they want to start the
+same channel and they just start sharing the same generic stuff as everyone else. And it obviously never
+works. They never get any views. But the way I handle this is before I make a single script. I just look at
+five most popular ways. Like when you copy and paste your title into the search bar and you find a couple of
+videos that have covered the same subtract, you can see what they said in their videos and just not say the
+same thing as them. You can also look at what comments are saying. You can just ask yourself, okay, how can I
+challenge this common advice? If they're talking about X, how can I say zed? So, what you can do is you can go
+to five videos from your competitors, go to their description, then click on transcript, then copy everything,
+attach these transcripts to clude and paste this prompt right here, and this is going to give you everything
+you need to make your content stand out. Next up, the algorithm hates new accounts that post with no warm-up.
+This one no one really talks about, but this could be the main reason why your videos are stuck under 500
+views. I mean, YouTube has to decide whether there is a real human creator behind that new account that was
+just made or whether you're just another Farmbot. And before it decides to push your videos to a lot of
+people, it just wants to see whether you're a real human who uses the platform like a real person. So, what I
+do when I start a brand new channel is I spend maximum 3 days just engaging as a real human being. I just open
+up a couple of videos in my niche like engage naturally do that play a couple of videos and if you're really
+serious about that channel then you can invest in YouTube Premium and other paid services from Google and
+YouTube related to that YouTube account as obviously no bot is going to do that and I mean that's only a
+couple of bucks a month but it helps quite a lot. However, I do got to say that that doesn't necessarily have
+to always be the case. There are a bunch of new accounts. For example, this one they started 7 days ago.
+250,000 views on their first video on the same day that they made this account. Like literally joined July
+1st. This video uploaded July 2nd, 200,000 views already. Next up is packaging your video in a way that either
+gives away the whole answer before anyone clicks or just repeats itself so much there's nothing left to be
+curious about. I saw a good example of this in the hell space recently. I mean, there's a video with a
+thumbnail that says, "Melt arterial plagues fast." And I mean, here's the reason why it fail. I mean, first of
+all, arterial plagues is just a complicated term for a normal person scrolling past. It slows down how fast
+they understand what they're even looking at. Secondly, the thumbnail kind of gives you the whole answer right
+away without even you watching the video. So, the mystery is gone before you even click. And third, the title
+barely says anything the thumbnail didn't already say, so you're reading the same exact idea twice instead of
+getting a reason to actually click. Now, if you want to see how I used AI to clone a channel that's making
+$54,000 a month, then make sure to watch this video next, as I share pretty much every prompt I've used, and
+it's a step-by-step tutorial. It's freaking free. Click here and I'll see you

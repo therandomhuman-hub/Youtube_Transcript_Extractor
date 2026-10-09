@@ -1,0 +1,17 @@
+Title: Build Your Own Sora AI Bot - Beginner's Guide (no code, free template) n8n
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 3gGZfBlg1yM
+URL: https://www.youtube.com/watch?v=3gGZfBlg1yM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T21:13:00+00:00
+
+Kind: captions Language: en Everyone is talking about Sora right now and for a good reason. Here's the thing.
+A lot of people don't actually know how to use it into their business. So, what I did today is I built a full
+automation using Sora and NA10 connected to Telegram. Now, anyone can go from a single image or text to a full
+cinematic video automatically. I'm pretty sure you've seen this type of videos in your for you page at least
+once. Now, imagine you're a business owner. You've got a new product, right? Let's say you run an e-commerce
+store. Normally, you would need to bring a videographer, set up the lighting, shoot the product, edit
+everything just to get a 15-second video promo. But with this, you just go to Telegram, upload your product
+photo, or type a short description, and Sora will turn it into a professional studio

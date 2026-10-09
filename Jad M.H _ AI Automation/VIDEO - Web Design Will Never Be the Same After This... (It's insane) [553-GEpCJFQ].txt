@@ -1,0 +1,103 @@
+Title: Web Design Will Never Be the Same After This... (It's insane)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 553-GEpCJFQ
+URL: https://www.youtube.com/watch?v=553-GEpCJFQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:23:17+00:00
+
+Kind: captions Language: en In this video, I'll show you how to create this website simply by chatting with
+AI. So, if you have a product or a business idea or a client project that needs a website, this is the video
+for you. We're not just turning a video into a visual mock-up or a fake demonstration. [snorts] We're going to
+create a real website and turn the idea into actual code. That's important because a properly coded website
+can be made faster, lighter, and more responsive. [music] If you plan to build several websites or turn this
+into a real product, you don't want something that is heavy, slow, or difficult to use, especially for mobile
+devices. >> [music] >> I also want to be completely transparent. This video is not sponsored, and I'm not
+making any money from it. I'm creating it because I've seen a lot of posts online claiming that people built
+impressive websites with AI when in reality they sometimes copy they stolen existing design. And because this
+video isn't sponsored, if you genuinely find it useful, please leave a like and subscribe. It would really
+mean a lot to me. Also, let me know in the comments what you would like to see me build next time. Okay, so
+today to build uh my website, what I will basically use is Cloud Design. And first, I would like to get a
+little bit of a clearer picture of um the background what it would look like. So, I was thinking more of
+having a a nice cream in the middle of product. Uh it's been like an ice cream that I've been taking recently,
+and I really love it. So, what I did is basically I needed it to get inspired and inspired is so I went to uh
+Pinterest. >> [music] >> And in here in Pinterest, I've saved an image. So, right there. If you can see this,
+[music] I really love this effect. So, what I needed to do is basically go on XField, remove the person right
+there, and put a floating ice cream right there. So, that being said, opening [music] my XField, I've done
+that prompt already. I use Nano Banana Pro 1K, so I wouldn't [music] use too many tokens cuz XField again is
+really expensive when it comes to credits. [music] And if you're not really careful, you could be losing so
+many credits. So, this is the prompt I'll I you read it. I give them the ice cream and the image and they give
+me this. >> [music] >> So, initially what I wanted to tell the website is kind of that effect of having the
+ice cream doing a 360. So, what I decided to do is I removed this image completely. I'm like, maybe I don't
+need I don't need the ice cream. What I will do simply is what I did. So, I thought of maybe just animating
+the video, but it wouldn't work properly in the website and it would take me so much time. So, the fastest way
+I could do it is I would remove this ice cream in here and make a new video with a white background, only the
+ice cream so we could make that ice cream into a 3D model in our websites. So, if you can see, this is the 3D
+model. I just need to remove the background in here. There we go. Super clean, super neat. Remove the
+background. There are a lot of platforms and I don't have the time to spend. So, what I'll do, I'll assign one
+of my Cloud Code agents to remove the background from it. So, first let's start designing a little bit the
+website that I'll be sharing in the description. You can just copy this or install this entire document and
+just paste it into Cloud. >> [music] >> Once copied, just paste it here, command V, and say build >> [music]
+>> this. And now, what we're going to do is basically install this video. Once installed, we're going to
+assign it to one of our Cloud Code agents to build to remove the background and keep the quality as it is. In
+here, I'm just going to go open a folder that I'm not really using. New terminal, and let's just call it
+Cloud. All right, enter my Once I'm in my terminal, I'm going to say, "I need you to remove the background in
+this video. Keep the quality as it is, but remove the white background." If you have any questions, just let
+me know and ask me >> [music] >> to have a better result. Here is the video. I drag the video all the way
+there. Excuse the mess background of my agent going right now. All right, while it's doing that, let's check
+our Cloud, what it's doing. It's still building. Okay, so here's what it came up with so far with the prompt,
+but what I'm thinking is I will completely remove everything here in the middle because I want the watermelon
+to be in the middle, in the center of the page, and I want it to come down with us. While we're scrolling
+down, it will stop here. And this way, you have two options. You either can put like one long image [music]
+where you have like the clouds here, and then at the bottom then [music] you reach the bottom of the page
+where we have that image. I was thinking more I would just put in two images, one of this guy on top and one
+at the bottom. Can see the grass. So, I go back into Pixfield, I download this image, go back to my Claude
+design, go here. But the file is so big, [music] so I need to compress the image. So, basically I go image
+compressor. This [music] one is free. Drag, compress the image. >> [music] >> So, I need you to put this image
+in the background in here at the hero section, and I also need you to remove thing I need you to remove this
+section and these elements. It's looking much better, but what it did here, it put a kind of like a layer,
+dark layer on top of the page that I don't want. I want the actual image. So, I'm going to >> [music] >> say
+that to Claude, and I think I would need to put this a little bit slightly more up next to the home tab, and I
+need to change the writing style in here, too. [music] So, I need you to remove the layer that you put in,
+like the black [music] layer top of the image. I need to see the image as the color as it is, and also I would
+like you to bring this slightly more up next to the home tab, [music] all the way up of the image. And I need
+you to change the title in here. I need you to call it build [music] with Jade. And in this one, I need you to
+change the writing [music] style. Looks like our Claude is still working cuz we need to turn video into
+[music] a code to be able to use it here in our page. I can put it for y'all. I need to add the second image
+in here. Once I finish this prompt, I'll add the second image. Here, this looks much, much better. I need to
+animate the writing in here, and then I need to put my image, which I'll do right now. I also compressed it. I
+would like you to put this image on this section, this page, and I need you to remove this, [music] also this.
+And if you could make this section much smaller, but the bottom of the Okay, it's starting to look a lot
+better. I'm not sure if I should remove these sections at the bottom, but now the only thing that we're
+missing is we need to animate more of the websites with captions, and also the watermelon that we [music]
+have. So, let's do the captions for now, cuz I think it's still working. I need you to animate this. It needs
+to stay as it is, but once I scroll down, it disappears to the left side. It all the entire captions in here,
+they need to move to the left side and disappear >> [music] >> as I scroll down. So, let's see how it looks
+like. Right here, the animation looks good. Missing one element, I'm not a big fan of this line in here. What
+I should do is generate an image where there is some long cloud, and then remove the background of the image,
+so I only have the cloud of it, and put it in here, and it doesn't move with the website. So, this way it
+hides this line. Connects better with the top part and the bottom part. Okay, so right here I have my cloud,
+and I'm going to be using a platform called remove.bg, so I could remove the background and keep the cloud
+that I have. There it is, and now we just install it. Back to our code design, we drop our image, explain our
+situation, and what we want to change. So, this is so far how the website looks like. It doesn't look like I
+have two different images because of the cloud and it stayed there. It's not moving at all. This is perfect.
+[music] I got the video of the background but now we need to turn it into a code so it doesn't use a lot of
+GPU power if somebody wants to load >> [music] >> the website or if they're using mobile, they would be able
+to still have that animation. So this is what Cloud Code came up with. It turned into a code and it removed
+the background. As I scroll down, it does the animation. I'm pretty satisfied with it. The quality is still
+good. The only thing that I need to fix is basically put it into our website and it scrolls [music] down with
+us and it spins at the same time. All right, it looks like it's done. So now the only thing that we have to do
+is basically drag this HTML to Cloud and say put this in our website. It's probably not going to put it there
+correctly so we probably need to optimize and make it a little bit better. So there's definitely going to be a
+bit of back and forth with Cloud Design. All right, so this is the end result of the websites. This is how it
+looks like. 3D model looks perfect. [music] It looks like it works perfectly here. So what is good? It does
+not take a lot of computing power. If you have a product or you Shopify, anything like that and you need a
+section for each product that would look nice, this is it, I would say. It will not be taking again a lot of
+computing power and you can definitely have it on multiple products that you have. If you like this video,
+leave a like and a follow. I really appreciate it. Just look at the description down below. You will have full
+access for it. No strings attached, hopefully for [music] free. And I know there's a lot of people that say
+this is free, go on the YouTube description. There's always like a gimmick in there but genuinely this [music]
+is actually free. All my resources that I put in are actually free and you can actually install them. If you
+find this valuable, I would really appreciate a follow and a like, comments. >> [music] >> Let me know what
+you think and what you think my next video should be and I'll see on the next one. Thank you.

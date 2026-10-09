@@ -1,0 +1,103 @@
+Title: I Tried Using Claude AI To Make Money Online in 30 Days
+Channel: One Person Business
+Type: VIDEO
+Video ID: EkRUffvFYx8
+URL: https://www.youtube.com/watch?v=EkRUffvFYx8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:32:55+00:00
+
+Kind: captions Language: en I found a new Claude side hustle nobody really talks about and it's starting to
+blow up right now because it's making people up to 70 grand a month and I'll show you proof of that in a
+second, but the craziest part is that you don't have to build any products, you don't have to show your face
+and you don't even have to sell anything. So in this video I'm going to show you exactly how this one-person
+business looks like, how people are making money from it and then I'll walk you through the entire
+step-by-step process so you can start today. And I'm even going to give you a free Notion template so you can
+just copy and paste the prompts. Claude is releasing generational updates almost on a daily basis. I mean they
+just released 4.7 and there are so many ways to build a one-person business with it. But what these people are
+doing is kind of insane. So there is this YouTube channel called Swift process. This person is using
+AI-generated visuals stacked all together like this to show the process of how certain products are being made
+in factories. The person behind this channel doesn't really show their face and obviously they don't record
+anything, but this channel literally makes 26,000 dollars a month and they're not the only one. There's this
+channel that only started 3 months ago, 90 days ago doing the exact same thing and they're now making 73 this
+channel as well. And I'll show you exactly how I'm using Claude to make these types of videos as well. Here's
+another faceless channel that is making these AI factory process videos, but they're focusing on ancient
+process. So they're showing like ancient and medieval factories and they are also doing 11 grand a month. But
+here's another channel that started 3 months ago and they're also doing 13,000 dollars a month with only 6K
+subs. And I know from first-hand experience that you don't need to post a lot of videos to get decent results
+with YouTube. I mean with this channel I'm doing almost a thousand dollars a day and I'm not even uploading
+that much and this is US dollars by the way. I'm using AI for all my faceless channels and they are monetized.
+Now let me show you the full step-by-step process of how to use Claude to make these types of AI factory
+videos. To access this free Notion document, go to my free community link in the description, click on
+classroom right over here, click on AI systems, which is the first one, click on all you need as a solo
+founder and there you're going to find a bunch of free resources. But what you're looking for is Claude
+factory videos. That's going to open up this Notion document. Step number one. All right, now let's head over
+to Claude.ai. Simply open up one of these factory channels, go to their most popular videos and then take a
+screenshot of as many of them as you can, then go to Claude, paste that screenshot and then copy and paste
+this prompt from the document and this will allow you to have Claude analyze this channel for you and extract
+the best title frameworks for your own channel. Step number two. Now we need to pick one of those ideas and
+copy this prompt, but we also need to make this change. We need to insert the title and where do we get that
+title? Well, we just go back to the same Claude chat. We're pasting the prompt and before submitting we just
+go through the results that we got and I'll choose this title over here, how peanut butter is made. I'll
+insert that title inside of this box and we're now asking Claude to do research for us to find lesser-known
+facts and obscure details. Now this same process applies to any kind of YouTube channel that you're trying to
+start. If you share with people lesser-known facts that they haven't heard before and it's not basic info that
+ChatGPT usually shares with you, then you have higher chances of actually getting views because people don't
+want to hear generic stuff. They want something new, obscure and novel. Step number three. Now we need to
+write a script for our YouTube video and you can of course use Claude and write some sort of script with it,
+but for my personal experience Claude scripts are still generic and don't really perform on YouTube. People
+can still smell AI through it and they don't really get views and the algorithm can kind of notice that it's
+still a little bit generic and you can risk getting either demonetized or just risk not getting views and
+being shadow banned. The tool I use for all my faceless channels is called Solo.ai. When you log in to Solo,
+you can select this sector on the left side called content and there you can find the YouTube script writer
+where you will be presented with five different steps you complete in order to get a viral script. Let's start
+with the first one to describe what our video is going to be about. I'm just going to say in my own words.
+Next I just need to paste my title. So I'm going to go back to Claude. I will simply grab my title from here.
+I'll paste it in this box. Now step number three is insane because now we can essentially add YouTube links to
+as many videos covering this subject that we're making a video on. Can upload PDF files or text notes in order
+to build something that is unique and not generic. So for example, when I ask Claude for some unique
+information, it scanned the entire internet and found some obscure facts on this specific subject that I can
+now copy like this and simply add as a text note in this box and that will be used in my script. Now an even
+more important step is the style of writing. I can effectively model any style of writing from any YouTube
+channel that I like. For example, there's this channel with 15 million subs. Well, I can go to some of their
+videos, simply copy the link, click on YouTube, paste that link here and click add. And now at number five
+I'll select my monetization goal. In this case I just want to maximize my ad revenue. I'm not really selling
+anything in this video. And then for the video length I'm going to go with 10 minutes and I'll generate the
+script. Step number four. Now you remember how these factory channels show these clips in their videos, which
+are all as I said AI-generated, but creating this one by one with prompts takes a very long time. So we're
+going to use Claude to automate the process. We're simply going to copy this prompt from the Notion doc and
+then we'll paste it inside of Claude, adjust that one word, which is how peanut butter is made in this case
+and then it will generate 50 prompts for me. While it does that, I'm going to move on to step number five,
+which is to then generate a voiceover. Now I can also do that inside of Solo when I click on voice and then I
+click on voiceover on the right-hand side I can choose the voice from a library of 10,000 different voices and
+I can filter by gender, age and of course language. Now I'm simply going to copy my script from Solo and then
+I'll paste it in this box and just generate the voiceover. Once it's done, I will just download it from the
+right-hand side. Step number six. Now we need to generate these clips with Claude prompts. I will go back to
+Claude, I will copy the first prompt and then go back to Solo, select video on the left and then I'll select
+video creator. Now here you'll find a bunch of different models, but the one that works the best for me is
+Solo AX Pro series and I'll just go with AX 1.0 because it spends less credits and then I'll paste in the
+first prompt here, but before I submit I just want to make sure that my video size is selected here. Duration
+is only going to be 4 seconds because we want the scenes to move fast and it also costs less credits and I'll
+click generate. Now I'll simply need to go back to Claude and copy-paste each of these prompts one by one.
+Luckily Solo allows me to do this while the other shot is still being generated so I don't have to wait and it
+also comes with no watermarks, so that's pretty cool. Step number seven. Now we just need to put everything
+together from Claude, from Solo inside of CapCut. So we're going to go to CapCut, which is this free video
+editor tool. We first need to import our footage and voiceover, drag to the timeline. Now make sure to remove
+sound effects from your videos, so just mute that track and only leave the voiceover in the background. When
+you have all these clips stacked together, minimal editing needed, usually no editing required, just click
+export and export. Step number eight. Now we're going to need a thumbnail, a small image that people see
+before they decide whether they're going to click on the video or not. Inside of that Notion doc you'll find a
+prompt that you can use inside of Solo. You can copy this prompt, you can go to AI and simply describe your
+product. Now in my case that's going to be peanut and then the peanuts are extremely large in this image.
+Click generate and now we have this crazy thumbnail that we can download with one press of a button and use in
+our videos. Step number nine. Now we just need to start posting daily. Now that's honestly just one type of
+faceless AI channel you can start with Claude. I actually have a list of a thousand channels making 5 to
+10,000 dollars a month in many different niches. For example, I found this AI avatar channel that started 30
+days ago that is now doing 34,000 dollars a month from ad revenue. This guy doesn't exist. This is an
+AI-generated avatar that teaches different things and I can also do that inside of Solo. There is persona
+creator on the left side. I can select avatar and I can just create my avatar and make it read pretty much any
+script. So I've built a few here. I can create a new avatar from scratch either by uploading a photo or
+generating it with AI. I can enter its name, age, gender, ethnicity. I'm only looking for horizontal,
+realistic style and then I can also describe it here and generate. Now if you want to see more new ways to use
+Claude to grow your YouTube channel, then make sure to watch this video next on this same channel that you
+just watched. I'll I'll see you there.

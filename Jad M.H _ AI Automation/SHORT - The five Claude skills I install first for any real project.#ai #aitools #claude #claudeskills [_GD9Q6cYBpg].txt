@@ -1,0 +1,19 @@
+Title: The five Claude skills I install first for any real project.#ai #aitools #claude #claudeskills
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: _GD9Q6cYBpg
+URL: https://www.youtube.com/watch?v=_GD9Q6cYBpg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:57:33+00:00
+
+Kind: captions Language: en There are over 69,000 Claude skills out there, but honestly, you only need five of
+them. If you don't know what a skill is, it's just a small workflow that teaches Claude to do one thing really
+well. First is find skills. You tell it what you're building and it searches that entire library, picks the
+right ones, and then installs them for you. Second is superpowers, which forces Claude to slow down, plan, and
+test its own work before it touches your project. Third is Claude them, which gives Claude memory across
+sessions, so you stop re-explaining your project every single time. Fourth is front-end design skill. It pulls
+from a premium reference, so your apps stop looking generic and vibe coded. And fifth is a security skill that
+reviews every line of code, every line Claude writes, and catches the holes before you ship like a free
+security tester on every build. Five skills and you can skip the other 69,000. Comment five and I'll send you
+all of them directly.

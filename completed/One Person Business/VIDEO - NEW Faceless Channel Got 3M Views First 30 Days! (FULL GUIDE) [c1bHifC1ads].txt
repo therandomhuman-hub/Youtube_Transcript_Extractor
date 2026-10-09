@@ -1,0 +1,105 @@
+Title: NEW Faceless Channel Got 3M Views First 30 Days! (FULL GUIDE)
+Channel: One Person Business
+Type: VIDEO
+Video ID: c1bHifC1ads
+URL: https://www.youtube.com/watch?v=c1bHifC1ads
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:22:45+00:00
+
+Kind: captions Language: en This faceless channel started less than 30 days ago and this is how much they made
+so far. And they're not the only ones. Plenty of other channels I'll show you are also exploding in their
+first 30 to 60 days of starting because of this new update that everyone missed. So, I spent the last week
+building this entire Notion document with all of the prompts you can copy and paste to recreate a channel like
+this. All right, let's first start with a channel breakdown. The channel in question is The State Explorer. If
+you go to their oldest videos, you'll see they started 1 month ago and their first upload has 100,000 views.
+Now, they're using lots of stock footage and AI-generated footage. The voice they use is also AI and they tick
+all the boxes on my checklist: boring niche, Western cultural references, and long-form videos. And what
+everyone missed is that there is this new YouTube update where they remove low-effort content under the
+inauthentic content policy. And I mean, some of those were getting millions of views and now that those
+channels don't exist, there are millions of views being scattered all over the platform. And that's why more
+channels than ever are exploding in their first 30 to 60 days of starting. Like for example, this guy started
+4 weeks ago and his first video has 2 million views. And this is also all AI-generated. This channel started
+90 days ago, 3 months ago, and they make this much from ad revenue every month. This channel also started just
+1 month ago and already has 77K subscribers. This channel as well also started very recently and now they make
+$39,000 a month. Here's another channel as well that started 2 months ago. Now, before I show you the full
+step-by-step process of how to start a channel like this, the obvious question is, does YouTube still monetize
+this sort of AI content? And yes, of course they do. I mean, their CEO said that he's all in on AI and he
+wants creators to use it. I mean, Google and YouTube are largest AI investors on the planet. I mean, they
+built VEO-3 for video generation. They own Gemini. They're baking AI directly into YouTube Studio and they
+build Google AI for voices. They're spending billions building these AI tools for creators. I mean plenty of
+people in my community are making thousands of dollars from their faceless YouTube channels. All right, let's
+start with step number one. First, grab this Notion document from my free community. Just go to the classroom
+and then here you're going to find the state explorer. Click here to access the system which is this Notion
+document and then simply head over to Claude.ai. Copy this prompt from the document, paste that prompt here,
+download this screenshot, or just take a screenshot of that channel yourself, attach that to the prompt, and
+submit it into Claude. Step number two. Now we're going to ask Claude to find unique points that we can use in
+our video that most people have not heard about when it comes to this subject. We'll paste in this prompt and
+then we'll use one of these content ideas. I'm going to go with this title, nine canned foods grocery stores
+are quietly discontinuing in 2026. This is why I love boring niches. You're going to find no competition here.
+That's why these channels are exploding so fast. Everyone is focusing just on the same stuff like history and
+wars and documentaries, but these boring niches are quietly making thousands of dollars a day. Step number
+three. Now we need a script for these videos. You see they're usually around 30 minutes long so they can place
+more ads and make more per 1,000 views and that's really good. Now you can either just go to Claude and write
+these scripts, but Claude was never built for YouTube. It was built for coding and other things. No matter how
+much you prompt it, it's actually going to sound robotic and it usually doesn't perform well. Though the
+upside is that you can use Claude for free. If you're more serious about starting a business with this, I
+personally use Solo.ai. It's like an all-in-one operating system for one-person businesses, but one of the
+things I'm going to use it for today is writing YouTube scripts. When I go to content and then I click on the
+YouTube script writer, I can just describe what my video is going to be about. We already have the title.
+We're going to paste it here. Now, when it asks me for details, this is where I'm going to go back to Claude
+and I'm going to grab these points that were shared here that most people have not heard about before that I'm
+going to use in my script. This is going to make the script feel novel and interesting and it also gives
+YouTube another reason to push our videos because we're not just sharing generic AI slop like everyone else.
+Now, it's going to ask me for style of writing and this is insane because I can go directly to the channel
+that I'm trying to model, go to their most popular video, copy the link to this YouTube video, go back to
+Solo, click on YouTube, add that YouTube link, and now it's going to model that exact same style of writing.
+And when it asks me for monetization, I'm going to select ad revenue to maximize watch time and engagement and
+I will bump up the length of this video to 10 minutes and I'll generate the script. Next, we're going to need
+someone reading the script. Now, that can either be you reading the script into the microphone or you can use
+some free AI voice generators, though they're usually not really high quality and can get demonetized because
+they sound really robotic. Or you can hire a human voice over artist in Fiverr for about $15 per 100 words,
+but considering our scripts are 2,100 words on average, oh boy, that can get very expensive. I mean, $300 for
+a voice over. Or you can do what I'm doing and that's to go to voice agent on the left side inside of Solo,
+select voice over right over here, and you can pretty much generate 30 different voice overs for 30 different
+visuals and videos. You can pick and choose from 9 1/2 thousand realistic voices, filter by gender, filter by
+age, and language. Choose whichever one you like the most and just paste your script here and just generate
+the voice over. I mean, let's listen to the result together. Now, grocery stores across the country are
+quietly pulling specific canned foods off their shelves and most shoppers have absolutely no idea it This is
+insane. The way that he emphasizes these words is so realistic. So, I'm going to download this voiceover. Next
+up, we need to find this footage to use in our videos. You see how they have some factory footage and food
+photos? Well, we can do two different things. We can either go to websites like Pexels, where I can directly
+search for this footage. For example, search for food aisles and search for groceries. And this is awesome
+because this is free and it's also copyright free, so I can use it in my videos and monetize this content. Or
+if you want to be fancy, you can also generate these clips with AI or at least some of them. I wouldn't
+recommend generating all of them because that's going to get too expensive. But if you need some specific
+footage that you can't find on these websites like Pexels and Pixabay, then simply head over to the video
+generation side inside of Solo. Go to video creator and you'll be able to find different models. Now, their
+latest and best model is Solo LX high-end. This gives you the most realistic results I've ever seen and you
+can also select your resolution. However, this is the most expensive model. So, if you're on a budget, just go
+with Solo VX. This is going to use way less credits and you can even go cheaper. You can go with Solo VX 3.0
+and that's going to use even less credits. And then you can just describe what you're looking for. Here's the
+prompt that I got from Claude and then here's the result that I got from one of the cheaper models inside of
+Solo. Next, we just need to put things together with a video editing software. I use CapCut for this because
+it's completely free. You can just import all the footage. First, we got the groceries and then I'm also going
+to upload the voiceover on the background and then I'll just adjust these clips so they change pretty fast
+every 3 to 5 seconds. Now, let's listen to this. Right now, grocery stores across the country are quietly
+pulling specific canned foods off Next up, we need to create a thumbnail. This small image that people see
+before they decide to click on our video. And we can also that inside of Solo. Just go to Visuals on the left
+side. And once inside of AI Visual Studio, just select Image Generator. The best model is Solo AX4 Image. This
+is the one that I use and highly recommend. Just switch to landscape and describe the thumbnail you're looking
+for. And this is the thumbnail that I made. If you like someone's style of thumbnails, you can actually just
+go there, copy the link to that YouTube URL, search for YouTube thumbnail grabber, and then upload that here
+and click download. And then ask ChatGPT to create a prompt that would allow me to recreate this image, but
+with different text. And I can say, for example, my text will say, "Stop buying food," for example. And then
+ChatGPT will analyze that thumbnail and then will create a prompt that I can just copy and paste into Solo.ai.
+Here's an example of a thumbnail I made for one of my alien space channels. It's pretty cool. Another
+thumbnail I made. And here's a crazy thumbnail I got from ChatGPT prompt, pasted into Solo.ai. Now, if you
+want to start your channel correctly and you want to ask me questions directly on video calls, you can go to
+the community that I will link below. Go to the classroom and find all my step-by-step training programs and
+all the prompts you can copy and paste. Every Monday I'm doing live coaching calls. You can ask me questions
+directly. Last call, for example, I shared the lessons that I've learned from one of my fastest growing
+faceless YouTube channels, which is now making $27,000 a month after 2 months of starting. I shared how much I
+spend to run that channel. And I just shared the whole story and then the lessons and then the mistakes that I
+made. Anyways, I hope all of this gets you inspired. Go have some fun, build something creative, and I will
+see you in some of the next videos.

@@ -1,0 +1,99 @@
+Title: NEW Way To Clone ANY YouTube Channel With AI
+Channel: One Person Business
+Type: VIDEO
+Video ID: bbycEtZgwsg
+URL: https://www.youtube.com/watch?v=bbycEtZgwsg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:54:54+00:00
+
+Kind: captions Language: en This is going to completely change how you make YouTube videos forever because I'm
+about to show you how to clone any YouTube channel using AI. And I've tested this with 12 different channels
+across every niche from tech reviews to cooking tutorials. And the results are insane. And the best part is
+you're not stealing anything from anyone. You're doing something that everyone is already doing and that's
+looking into what's working and recreating it with your own twist. It's just that now you don't have to waste
+time, money, and have any previous experience because you're just using AI to do that. So, let me show you how
+it works. Step number one, you want to find a channel you're trying to copy. I'm going to go with this one
+because they only started 3 weeks ago and their first video has 3 million views and they've exploded with just
+eight videos. According to SocialBlade, they're already making 18K a month, which is absolutely insane for a
+channel that started less than a month ago. So, I want to replicate that. Step number two, there's two
+different ways to clone these YouTube channels. First one is to use this AI tool called AI flowch. You just
+need to create an account on the platform, go to the dashboard, and you can start a new flow. And I will come
+back to it in a second. The other option is Notebook LM, which is Google's free alternative, but it's never
+going to be as good as this AI tool. But whichever you pick, I'm going to show you exactly how to do it with
+each of these tools. Step number three, now you need to go back to that YouTube channel you're trying to
+clone, and you need to copy links to their YouTube videos. But just to save you time so you don't have to copy
+those links manually. You can go to Google. You can search for a Grabbit Chrome extension. Open up the first
+one that shows up. Click on add to Chrome. Click on add extension. And then once you have it, you just need to
+scroll down, click on add new action, click on the mouse button, leftclick. You can also add a modifier key or
+keep it out. And then you can select the box collar and then select the type to be copy URLs to clipboard and
+click save action. Now, once you've done that, when you go back to the YouTube channel, you'll see that once
+you press shift and then select these videos, it copies links to all of them with just one press of a button.
+So, the very next step is to go to either of these two AI tools. And I'm going to use AI flowchart as an
+example because again, it's way better at cloning YouTube channels. So, I'm going to go here and I'm going to
+add a group. Now, inside of that group, I'm literally just going to paste these different videos. So, it's
+going to ask you whether you want to import these eight links or whatever amount of links as web nodes or text
+nodes. You want to make sure you select web nodes. Now, once I have that, here we go. These are all the
+different videos from that YouTube channel that I've selected with just one press of a button. That was pretty
+fast. So, this tool now analyzes these videos. It watches the visuals and it also analyzes the transcript and
+the style of speaking. And now, you're going to need this setup board which I've created for you for free.
+You're going to find it inside of my free community. Literally, just go to OBF. I'm going to link it in the
+description. It's free. Just go to the classroom section over here. Click on AI systems. You're going to find
+a bunch of gifts there. Again, all completely free. And then make sure you go to all you need as a solo
+founder. And then just scroll to AI flowchet free setup board. And you're going to see it. It's going to look
+something like this. So in here, you're going to find three different links. And these links give advice on
+how to write super highquality scripts. So you want to make sure you add a new group right over here, right
+below this. And then you're going to paste those links because we also want to teach AI how to write higher
+quality scripts even than the original channel that we are trying to clone. And additionally, you're also
+going to find this massive guide which I created for writing super high quality scripts. You can just download
+it as a PDF document and then you can also add it to the board. Literally just drag and drop like this. And
+now as we have these two, we just need to add the AI chat on the right hand side and we need to connect these
+dots. So literally just click on the plus icon and connect them. Once they are connected to the AI chat, you
+want to make sure that Claude Sonnet 4 has been selected from the list. Then inside of the document, you're
+going to find this massive prompt that you're going to paste inside of this AI chat. And you will just need to
+enter the title of the video that you are trying to create. So for example, I want to replicate this one. And
+then once you're done, just submit this and AI chat will analyze that entire YouTube channel that we're trying
+to clone. It will analyze all their videos and they will apply advice from these scripts to write an even
+better, higher quality script for you in that exact same style. But it doesn't end there. We need to clone
+other things as well, not just the script. By the way, if you don't want to pay for that AI tool, you can also
+use Notebook LM. It's not going to be as high quality, but it's free and you can still kind of do the same
+thing. Next step. All right. Now, I want to replicate their thumbnails. So, I'm going to go to that YouTube
+channel. I will open up the video thumbnail that I like. I will click on a share button and I will copy the
+URL. And then I will go to this AI tool called pixels. And then once there, I will create an account. And with
+this account, I'm going to click on recreate the thumbnail. And I will paste a link to the thumbnail. And then
+if I want to change the text, so if I go back here and I want to see what I put, so they say wasted 52 years,
+I'm going to say change the text to wasted 47 years. Once I click generate, it starts cloning that thumbnail
+just in a slightly different style. There we go. Now I'm going to download this thumbnail to my device. Next
+step, we need to clone their voice over. And for this, I'm going to be using Google AI Studio. This is a free
+texttospech software which actually has really high quality voices. So on the right hand side you just want to
+select single speaker audio and then you can select which voice you want. I'm going to go with this mature
+voice and then on the left hand side we just need to paste our script. And again we've already cloned the
+script with this AI tool. I'm just going to grab the first line as an example but we need to paste the entire
+thing. Once we have it we just need to press run and then it reads that script for me and then I can download
+the voice over once it generates. If you want more options and higher quality voices then you would go to 11
+Labs. Just 11 Labs is not free like the previous AI tool. But on here you can go to instant speech. You can
+paste your script here and on the right hand side you can select some voices that would match the style of
+content you need. Next step now we need to clone the visuals they have. So believe it or not this is actually
+AI generated. This guy does not exist. So they've created this image in nano banana. So what I'm going to do
+is I'm just going to take a screenshot of this scene. So anytime you see a YouTube channel that is animated or
+AI generated just take a screenshot then go to chat GPT paste that screenshot and just say create a very
+detailed prompt that I can copy into Google Gemini's nano banana to get this style of image of an elderly man
+super realistic with that just like the example image. Now you'll see that Chad GPT generates this entire
+prompt for us based on the reference screenshot that we've attached. So, copy this entire prompt. Then go over
+to gemini.google.com. Select the tools to create images and then paste it inside of this box. I would just add
+that ratio should be 16 by9. And then once you get the image, just click on the download button over here.
+Then go to Adobe Firefly, upload that image, click on expand, and then just select the widescreen and click
+generate. Now, if you also want to remove Gemini logo, just click to remove and then select that part just
+like this and click generate. Now just click keep and click download. Additionally, if you want to animate the
+whole thing, just go over to Hunen, click on create with an AI studio and just upload that image and then
+paste the script on the left hand side. Bonus. Now again, if you don't want to use any of these paid AI tools,
+just go to Notebook LM, click on try Notebook LM, click on create new from scratch, then go back to that
+YouTube channel, highlight all of their videos so you can copy links with one press of a button, then click on
+website and then paste those URL. See, with just one press of a button, I pasted all the links for that
+YouTube channel and then Google Gemini analyzes their YouTube videos. So I can start speaking to it. So now I
+can say in that same style write another YouTube script for a video titled and then I'm just going to do like
+a very similar title, not the same. Just going to change years in this case. And by the way, this step is only
+if you didn't want to use AI flowchad or any of the other ones. And there we go. It now starts writing the
+script for me. It's again going to be slightly different because it doesn't have as much context as the other
+AI tool and it's going to be much shorter, but still again it's free. Then we can click on video overview as
+well.

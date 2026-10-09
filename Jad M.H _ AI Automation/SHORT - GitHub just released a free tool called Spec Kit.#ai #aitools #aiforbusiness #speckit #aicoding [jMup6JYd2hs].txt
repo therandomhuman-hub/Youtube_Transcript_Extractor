@@ -1,0 +1,16 @@
+Title: GitHub just released a free tool called Spec Kit.#ai #aitools #aiforbusiness #speckit #aicoding
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: jMup6JYd2hs
+URL: https://www.youtube.com/watch?v=jMup6JYd2hs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:52:56+00:00
+
+Kind: captions Language: en If live coding keeps handing you broken apps, GitHub just dropped the free fix.
+It's called Spacegit. Normally with live coding, you toss a big arc at an AI and hope it guesses it right.
+First, you write a short spec, just what you want in plain English. Then an AI writes the code to match that
+and you check it one step at a time instead of reviewing the entire thing. It's completely free and it's open
+source. It's already passed 100,000 stars on GitHub [music] and it plugs into basically every AI coding tool.
+Cloud Code, Copilot, Cursor, Gemini. There is really no catch. It just asks you to spend 2 minutes saying what
+you want before it builds it. Comment spec and I'll send you the setup and the four-step loop that

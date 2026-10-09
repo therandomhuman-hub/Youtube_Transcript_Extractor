@@ -1,0 +1,140 @@
+Title: NEW Faceless Channel Got 6M Views In 60 Days! (FULL TUTORIAL)
+Channel: One Person Business
+Type: VIDEO
+Video ID: TcR1ifcGI8w
+URL: https://www.youtube.com/watch?v=TcR1ifcGI8w
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:42:19+00:00
+
+Kind: captions Language: en This AI channel started less than 60 days ago and over the last 30 days alone they
+made this much just from ad revenue. So, I spent the last week building this entire Notion template with all
+of the prompts you can copy and paste to replicate a channel like this. And even more importantly, I built
+this free custom GPT that allows you to create a new viral niches from scratch so you don't even have to copy
+anyone. Or you can be the first one to pioneer niches and then let everyone else copy you instead. All of that
+and more is coming up in this free tutorial, but let's first start with breakdown. Now, the channel in
+question is Dr. Michael Can't Senior Health. Now, this is not a real human. This is an AI avatar completely
+generated inside of Google Gemini. And if you open up any of these videos, you'll see that they're flagged as
+altered or synthetic content because they are AI generated, but they still get millions of views because
+people do get value out of these videos regardless of the fact that there is an AI avatar. As long as these
+videos solve a problem, provide value, and people find them helpful, they don't care whether it's an AI
+influencer or a real human sitting in her bedroom. What difference does it make if it provides value to them
+and it solves a painful problem. However, I don't really recommend copying any channel word for word, but
+rather than that, I always like to create something new and unique and just take out frameworks that are
+working for this channel and just apply to a slightly different niche. For example, instead of an AI doctor
+for seniors, I could do female doctor explains health for women 40 plus or brain health doctor or heart health
+doctor. Or it doesn't necessarily have to be even a doctor. It can actually be a completely different line and
+just create an AI influencer that follows this exact same title or framework just for a different problem. But
+let's start with step number one. Inside of this Notion document, which by the way, you can find inside of my
+completely free community that I will link below. Just go to the classroom, absolutely free, go to AI systems,
+and then just click on Dr. Michael Can't, and just click on access the system here, and you You this Notion
+document open up on your computer. You will then copy this prompt over here to get a channel name. So, simply
+head over to Chat GPT, paste that prompt inside of this box, and it will simply give you some channel name
+ideas that you can copy. I like Dr. David Senior Longevity, so I'm going to go with this one. All right, step
+number two is now generate your avatar and generate that profile picture. So, just go over to
+gemini.google.com, [music] and then simply copy this prompt. Now, depending on whether you chose to be an AI
+doctor or anything else, maybe you're teaching girls how to do makeup, whatever your niche is, you can
+customize this prompt to get a slightly different persona. I will use this image as an example, go to my
+YouTube Studio, click on customization, simply upload this profile picture, click done, and publish. All
+right, step number three is to come up with new viral unique video ideas. And as I promised, I built this free
+custom GPT that allows you to create new viral niches. This is one of the ways to come up with video ideas.
+There's two ways. The first one is to open up this custom GPT, and then simply take a screenshot of any
+channel that you like. Let's say I'm going to go with this one as an example, and then you literally just have
+to paste that screenshot into this niche quilting bot that I built completely free, and then just submit it,
+and this will analyze their video ideas. It will take out frameworks, and then it will take viral title
+frameworks from other niches, and it will give you new unique video ideas for this specific channel. So, it
+first assesses the channel and what works and what doesn't. And then in the step number four, it actually
+starts creating these new frameworks for you [music] and example titles that you can cover that they didn't
+cover. But, check out the example titles. Like, this is really good. So, that's one of the ways to come up
+with video ideas. The second option is to simply [music] copy this prompt from the Notion document, download
+the screenshot, paste both of them inside of Chat GPT, and then simply submit it, and then it will give you
+some viral video ideas. Now, I personally prefer to use this niche quilting bot, but it's really up to you.
+Both are free, and both pretty much do the same thing. And again, keep in mind that I don't really recommend
+copying someone word for word and doing exactly what someone else is already doing. I mean, every single day I
+add like 10, 15 different new faceless channels that are making over $10,000 a month on this list, and these
+channels are just doing pretty much anything you can think of. So, just goes to show us that there are so many
+niches to get into that nobody is even talking about. The opportunity is unlimited, and copying channels that
+already exist, especially word for word, may not be the best strategy. Instead, I always recommend just taking
+out title frameworks and taking out what works for them and applying it to a slightly different niche or
+taking a slightly different angle and coming up with something new and unique, but at least knowing that that
+framework and that interest exists. So, that doesn't mean that you would blindly come up with video ideas and
+niches out of your head and just post it because that doesn't have proven results, and you're just risking.
+There is a smart way to do these things. But anyways, let's go with step number four, which is to write a
+script for our YouTube channel. There is this free tool called Notebook LM. When you click on try Notebook LM,
+you'll be able to create a brand new notebook where you can just add links to a YouTube channel that you're
+trying to model. So, for example, I will go to their most popular videos, and I will simply copy links to the
+most popular few videos, paste them inside of this box, and click insert, and then Google Gemini will analyze
+those videos. It will analyze the style of speaking and visuals, and then I can just copy this prompt from the
+Notion template, grab one of these video ideas that ChatGPT recommended, paste that title here, and submit it,
+and now Google Gemini will again, based on the style of speaking that that channel has, based on all the
+videos that we've uploaded by simply copy-pasting the links, using this new prompt, will write a brand new
+YouTube script in that exact same style, just in a completely different topic. However, you can see that it's
+using I'm Dr. Michael Kent, which I had to replace with my own doctor name, which in this case is going to be
+Dr. David. All right, once we have the script, step number five is to generate a voiceover in this tool called
+11 Labs. This is the best tool for generating voiceovers. However, it is paid, so if you want to start with a
+free tool, then simply go over to Google AI Studio and you'll find there are free voiceover options here. Just
+click on text-to-speech, [music] select single speaker audio, select which voiceover you like from the
+right-hand side, and then paste your script here. Though again, it will be very slow and not so high quality
+as if you just use 11 Labs, which unfortunately is a paid tool. But when you go to the voices on the left-hand
+side, you can just filter through high-quality voices, pick the gender, pick the age, either go with social
+media, educational, or conversational style. Select the language, in my case that's going to be English.
+Though I want to point out that a really good strategy is that people are just taking what's working in
+English and just making those same style videos in different languages, like [music] Spanish, Portuguese,
+German, and other big languages. And it's working incredibly well, because if it works in English, then
+chances are people will watch it in other languages as well. Side note, not everyone speaks English. Once you
+pick the voice that you like, simply go to text-to-speech on the left-hand side, then grab your script from
+Notebook LM. Let's pretend I've copied everything from this list just to speed up the process. I'll then paste
+it inside of this box. right-hand side, I'll just choose which voice I want. There's even this doctor voice
+that I could test. Let's see how it sounds. I want you to imagine something for a moment. Unfortunately, this
+is a female voice, so this would not really work. Once you get the voiceover that you like, simply download it
+to your computer. Step number six. All right, now here comes the most interesting part, and that is using this
+big JSON prompt that I built for you to generate AI avatars that look hyperrealistic. This is what I got from
+a single prompt, and in my opinion, it looks way more realistic than what this guy has, for example. So,
+you're going to find this prompt that you can copy and paste, but if you want to lock in this character that
+you've already generated for the profile picture, which is what I recommend, you can just add use the same
+doctor face and same doctor character as the above image you already made, and then simply paste the prompt.
+And now, here's the result that I got from this. It's hyper-realistic, but I personally think that he's way
+too close to the camera. If we look into Dr. Michael videos, he's actually staying like right back, while mine
+is a little bit closer. Now, that could be my personal preference, or I could just say, "Make sure he is
+slightly further from the camera so his hips are also visible as he stands in that room." And just like that,
+we have a brand new image that we can use. Step number seven. Now, we need to animate all of this, so we need
+our AI doctor to actually speak into the camera. For this, we're going to use a tool called HeyGen. Once
+you're inside of HeyGen, simply go to avatars on the left-hand side, click on create a new avatar, create a
+virtual character by uploading a photo, which we just downloaded from Google Gemini, and click upload. Now,
+once you click use in video on the left-hand side, you can either paste script directly from Notebook LLM, but
+that will then have this AI avatar use a voiceover from HeyGen, which usually are not so realistic. So, I will
+just upload an audio, and that audio is ElevenLabs voiceover which we previously generated. Once you have it,
+just click generate. Step number eight. Now, we need to create a YouTube thumbnail. For this, we're going to
+go back to Google Gemini, and you can simply just ask Google Gemini for different face expressions. [music]
+For example, I can say, "Now, do a close-up shot of that same doctor with a worried face expression with a
+white background behind him." Now, I'm going to download this image to use in a YouTube thumbnail. Side note,
+I think this is absolutely insane that we can just generate hyper-realistic images. I mean, look at the
+wrinkles on this face. [music] It's so realistic. How is it this person doesn't even exist? Now, I'm simply
+going to head over to canva.com. I will upload that image. You see, one thing that's really cool is that we
+can really just remove the background of this image with one press of a button. I'm not sure if you can do
+this with an absolutely free Canva account, but if you're on Canva Pro, you can. If not, you can just manually
+remove the background or simply use remove.bg, separate platform to remove background. And I would just say to
+add some text. If you're not sure what text to add in your thumbnail, you can go to similar channels that are
+in your niche and see what kind of text they're putting. Or you can just go to ChatGPT and ask it what
+thumbnail text would complement this title and open curiosity so that people [music] can't resist but click.
+And text must be less than [music] six words. For example, I can go with nobody expected this. I'll go back to
+Canva, click on add the heading. The font that I usually use is Inter, and the elements I'll search for some
+sugar. And now I'll just download this thumbnail by clicking on download, download as a PNG. Now, the next few
+steps talk about monetizing a YouTube channel like this. Not only can we make money from ad revenue by posting
+these YouTube [music] videos, but we can also sell products, build communities. Like for example, these
+communities on School under the health category are doing anywhere from $30,000 to $200,000 a month. So, MRR
+stands for monthly recurring revenue. Now, in the document I've laid out an example School community that we
+could build, but of course, you can be creative and find a solution that you can provide these people with
+that they will be willing to pay $20, $30, $40 for. And just analyze also what's already working on a platform
+like School or Whop or any other way that people are selling digital products because here we can see that
+most of these are AI influencers and they're doing incredibly well. Like this is an AI character, obviously,
+and it's making $19,000 a month. As long as your channel provides value and solves a specific problem, you can
+easily attach a product to that and add more revenue to what you're already getting from ads. Ad revenue
+should just be a bonus, even though it can actually be incredible income. Again, I just consider it bonus on
+top of the sales that I already get by promoting products. I mean, just think about it. If this attracts an
+audience 60 plus that is interested in improving their health, if I find a really good product that I can
+provide these people with that will genuinely help them with their health, then a lot of them would be willing
+to invest their money in that. And they will be glad they did. They will be thankful that we provided them
+with a solution. I know that for example, this member of the online business club got $31,000 in just 4 weeks
+in 1 month by selling a product on his YouTube channel. Either way, I hope you got some value out of this
+tutorial, and if you did, drop a like and I will see you next time.

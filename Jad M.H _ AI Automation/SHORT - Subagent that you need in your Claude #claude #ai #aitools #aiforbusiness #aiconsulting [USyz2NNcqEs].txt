@@ -1,0 +1,19 @@
+Title: Subagent that you need in your Claude #claude #ai #aitools #aiforbusiness #aiconsulting
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: USyz2NNcqEs
+URL: https://www.youtube.com/watch?v=USyz2NNcqEs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:48:40+00:00
+
+Kind: captions Language: en When Claude Code spawns little helper agents to do your work, it normally hides
+what you're doing. But there is a hidden flag that lets you watch everyone of them in real time. It's called
+forward sub-agent text. And when you run it on the text, and the reasoning from every sub-agent gets streamed
+straight into the output. So instead of starting at a spinner, wondering what your sworn of agents is actually
+up to, you use each one's thought process as it happens. It's incredible for debugging because when an agent
+goes off the rails, you can finally see exactly where. Here's the catch, and it's the small one. This is a
+developer flag for the stream JSON output, not a pretty button in the interface. So it's perfect if you're
+building on top of Claude Code, and honestly overkill for everyday chatting. I put together a toolkit with the
+exact flag, the environment variables, and come and a copy-paste example. Comment subtext, and I'll send it to
+you.

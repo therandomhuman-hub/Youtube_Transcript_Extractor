@@ -1,0 +1,94 @@
+Title: How to Create High Quality Faceless YouTube Videos (FULL GUIDE)
+Channel: One Person Business
+Type: VIDEO
+Video ID: yUUGMq6DhnQ
+URL: https://www.youtube.com/watch?v=yUUGMq6DhnQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:36:43+00:00
+
+Kind: captions Language: en One of the main reasons why I'm able to make over a thousand dollars a day from
+this YouTube channel is because I make very high quality faceless videos. And look, even this faceless channel
+started posting very high quality videos around two months ago, and in less than 60 days of starting, this is
+how much they're making every month now. So, in this video, I'm going to show you the exact process behind
+channels like these. How they go from zero to high quality videos that people actually watch, and more
+importantly, videos that actually make money. And I'm going to walk you through the full workflow from idea
+all the way to finished video step by step. You can apply this exact same approach to documentary channels,
+education channels, explainer videos, case study breakdowns, anything where premium quality matters. Now,
+before we get into the tools and the step-by-step process, I want to show you why premium content is winning
+right now. Here is another faceless YouTube channel called Black Files, and they're making these very high
+quality documentaries mainly with AI, and this is how much they make every single month. And if you open up
+any of these videos, you'll see that this is not low-effort AI slop in any way. That's why when you have more
+premium videos, better scripts, and better visuals, you will always win against someone that doesn't, even if
+you have the same title and thumbnail. That's why we're now seeing channels with 40,000 subscribers getting
+millions of views in their videos. Instead of trying to create a hundred low-effort videos that barely get any
+views, you might use that time and effort to build one super high quality video that explodes and keeps on
+getting views for a long time. Step number one. All right, now to find stories that people are actually
+interested in. So, there is this prompt that you can paste. I will share with you later where to get it for
+free, and you'll just need to insert your niche. I'll do, for example, forgotten stories from history. And by
+the way, all of the prompts that I will be sharing throughout this tutorial, you can find completely free of
+charge inside of my free community. When you go to the AI systems, then go to all you need as a solo founder,
+scroll down and click on how to create high quality videos with AI, and it will open up this Notion template.
+I will have the first story here, The Man Who Survived Two Atomic Bombs. Yeah, this is a pretty insane story.
+However, it's really important to then go to YouTube and validate this idea. Are there any channels that have
+posted this exact same title and exact same video recently? And we can see that there are. The man who
+survived both atomic bombs, 700,000 views three months ago. If this has been covered exactly word for word,
+then I will honestly skip it. You can try and make it more unique or just move on to the next story, The
+Soldier Who Kept Fighting World War II for 29 years. Doesn't sound like a viral story. The island where
+everyone disappeared. All right, this is a really cool one. And when I search for this exact same title, there
+are no videos. So, that's good. All right, step number two is to now head over to Claude.ai to write the
+script. We're simply going to paste this prompt here, and then I will just insert my title and just a brief
+description from ChatGPT of what this story is about. And now Claude is doing research to find new and unique
+information that most people haven't heard about when it comes to this story. Step number three. Now, we need
+to structure our script. So, we're going to copy this prompt, and we will then paste it once Claude finished
+writing everything. Step number four. Now, we need to write the script, and I always recommend using Claude
+over ChatGPT for writing scripts. It's much better at that, and it also actually writes 2,000 words long
+scripts, which ChatGPT never does for some reason. And 2,000 words is very important because you want to make
+videos that are over eight minutes long if you want to build a business on YouTube. The only downside with
+Claude is it can't really add more context or example style of writing that you're trying to model, but it is
+still fine considering that it's almost free to use. So, now we're going to go back to this exact same chat
+and just paste the prompt from the Notion document. We're essentially asking it to now turn that research and
+structure into a full 10 to 12 minute script based on the outline. All right, step number five is to generate
+visual prompts for our high quality documentary and high quality video. There is this prompt that we're going
+to copy and paste into ChatGPT. And right here where it says paste your script, you're going to go back to
+Claude. You'll copy the script, ideally without these notes in the brackets, and we're basically asking
+ChatGPT for visual prompts that we can then copy and paste into the other AI tool that will generate scenes
+for us. So, it basically read through the script, it saw what the first line was, and then based on that, it
+recommended a prompt for us to use. That brings me to step number six, which is to generate scenes with VEO 3.
+Now, we can go directly to Gemini, and we can create videos here. However, generating videos directly inside
+of VEO 3 is very expensive. You can only do three videos per day for free, and then after that, it can go to
+200 bucks a month or even more to make these videos inside, which is fine because it's very convenient. You
+can just paste the prompt directly here, and it just makes the video for you. But, if you don't want to pay
+200 bucks a month, there is another alternative that is only two bucks, and it actually gives you access to
+VEO 3. It's inside of Gen AI Pro. When you log into your account, you have this thing that allows you to
+access VEO and Nano Banana for two bucks in a single day, and in one day, you get unlimited generations. So,
+you can just create as many videos as you can, and you don't have to pay two dollars again next day. So, it's
+not like you're paying two dollars every single day. You can just pay two dollars once, use it for as much as
+you need, and just leave. So, basically select a package here. I'm going to confirm my purchase. Now, I'm
+going to access VEO right over here. Select one of these accounts based on how many credits they have. Click
+access, and that then gives me unlimited access to VEO 3 for a day. Then, I can just go ahead and paste my
+prompts here. Going back to ChatGPT, I'll copy the first prompt, I'll paste it inside of this box, and make
+sure that instead of Nano Banana, we're selecting video, and we're selecting 16 by 9. And you can do either
+one or two. I'm going to keep it at two because, again, I have unlimited access for a day. So, I'm going to
+generate as many variations and as many scenes as I can. And at this point, all I have to do is just copy and
+paste, paste it here, submit. Go back to ChatGPT, copy three, paste it here. Go back here, number four, paste
+it here. And now, all of these visuals are being generated for me, and I can move on to step number seven,
+which is to then generate a voice over. Now, a really cool thing about this AI tool is that they also have
+Eleven Labs included. When you click on Labs here, you'll see that for just 22 bucks, I get a million credits
+for 30 days. While if I go back to Eleven Labs, which is the most popular AI voice over tool, I'm at the
+moment paying 99 dollars a month for only 500,000 credits. That is half the amount of credits for 99 bucks
+compared to a million credits a double for 22 dollars, or starts only at eight bucks with 250,000 credits. And
+you can actually access all of the voices that are already available inside of Eleven Labs. So, just pick
+whichever one you like the most, and when you like it, just select that, paste your script in this box, and
+click create the voice. By the way, you'll see how all these visuals are slowly coming together and are being
+pretty consistent. And another type of channel that I can run with this strategy where I don't have to pay
+hundreds of dollars a month for VEO 3, but only two bucks a day is this type of channel. These guys are making
+32,000 dollars a month, and I think they started around two months ago as well. And they're essentially making
+these VEO 3 videos where they just make a compilation of clips from VEO 3. Now, there are a lot of clips that
+they have because they're 23 minute long videos, and each clip is around 10 seconds. That means 138 generated
+clips or 138 prompts being copy pasted in from ChatGPT into VEO 3, which sometimes you can take up to one or
+two hours a day. But, if copy pasting prompts from ChatGPT into VEO 3 for one hour a day is making them this
+much every month, I think it's kind of worth it. And we can also see that they're not uploading every single
+day. Three days ago, five days ago, eight days ago, 10 days ago. Now, if you'd like to see how I'm actually
+getting millions of views in my faceless channels and turning those views into income, then make sure to watch
+the video that's on the screen right now. It's also on this channel, and it's free.

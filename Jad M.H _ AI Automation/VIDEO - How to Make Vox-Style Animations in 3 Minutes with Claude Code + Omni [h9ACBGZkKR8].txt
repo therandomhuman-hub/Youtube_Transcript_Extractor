@@ -1,0 +1,94 @@
+Title: How to Make Vox-Style Animations in 3 Minutes with Claude Code + Omni
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: h9ACBGZkKR8
+URL: https://www.youtube.com/watch?v=h9ACBGZkKR8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:26:01+00:00
+
+Kind: captions Language: en I was able to recreate an entire vlog style animation fully automated that you can
+implement in only 3 minutes >> by using Cloud Code, Omni, and Mano Banana. >> This Sunday in New Jersey, the
+biggest World Cup in history ends exactly the way the football gods wanted. 48 teams, three countries, one
+month. And it all comes down to the two best teams on the planet. Argentina and Spain. The number one ranked
+team in the world against the number two. At the center of it, a 39-year-old playing his [music] final World
+Cup against an 18-year-old he once held as a baby. Lionel Messi [music] wasn't supposed to still be here. Yet
+here he is, leading the entire tournament with eight goals, dragging Argentina back to the final to defend the
+crown they won in 2022. No country has repeated as champions since Brazil [music] in 1962. Standing in his
+way, Spain, the tournament favorites, >> [music] >> and Lamine Yamal. 18 years old and already called Messi's
+heir. The favorites aren't [music] in sky blue, they're in red. But here's the part that gives you chills.
+Back in 2007, [music] Barcelona charity shoot photographed a baby in a bathtub held by [music] a young Lionel
+Messi. That baby was Lamine Yamal. 18 years later, they meet in a World Cup final. The torch and the kid it's
+being passed to [music] on the same field. Sunday, MetLife Stadium, one match to crown the best team on Earth
+and maybe close the greatest career the game has ever seen. >> So, this is the system that has created all of
+this. I put it into my Cloud Code and basically I just came up with the world as you can see how that here at
+the top, World Cup, and it came up with the idea the handover where tomorrow actually Argentina and Spain are
+going to be playing. So, it has the new updates and we can see here already the scripts and if we approve that
+it will start creating those images, then creates those Vox Style effects. So, first I want to talk about why
+Vox Style. So, I'm not sure if you know this. I didn't personally there was a channel that has been uh there
+for quite a while, and they have been posting almost weekly to every day, and they have their own business,
+and that's where the name comes from, Voxed. Where they make around 80 to 70 to a million views for a video.
+What is really nice about this is that you don't need to be in front of the camera. You can have it fully
+automated, and it scheduled itself by posting weekly long format, and then short format uh posts it daily. I
+want to mention that this was literally not impossible a few months ago from today. So, there is really no
+competition when it comes to this. For us, I was mentioning, you could have basically two lanes. You could
+either work on shorts and get more following through your TikTok or Instagram reel, then you can post once per
+week on your long format YouTube videos. So, basically shorts are only going to be bringing you more traffic
+to your long format. I don't think I have to explain it. You have the either ad revenue, the sponsorships, or
+product at the same time. I'm I'm pretty sure you've heard a lot about people saying passive passive income. I
+genuinely believe this could be potentially a passive income stream by just having it fully automated
+properly. Let's talk a little bit about pricing. So, each shorts and long format will cost cuz if you want to
+be posting once a day, it will cost $30 a month, but then if you want to do long format, it will be $40. But
+in here, this is not run locally. So, if you have a tight budget, you can run all of this locally, which would
+literally cost you just a cloud subscription, 11 Labs. Going more in-depth into the pricing, we can see here
+11 Labs, it's completely free. But if you pass 10 minutes, then you would have a subscription of like $6 a
+month. Now I'm a banana is $4.8 per image. And again, you can have this locally. Gemini Army, which per second
+costs 10 cents. And obviously, your cloud code subscription. All right. So, now let's try to install cloud
+code. You have two options. You either install it as an app or you connect it directly to your terminal. Here,
+I'm going to install it into our terminal. The simplest way to actually install it is just you go on Google
+and you type cloud code install command for Mac. And obviously, if you're in Windows, you just remove Mac and
+you put Windows. Then you copy what Google gave you, and you open terminal. Let's open terminal here. You only
+have to paste the command there. Because I already have my cloud code in here, I don't have to do this. You
+paste it, you press enter, and then you type cloud, and it'll redirect you to your Google tab or Safari,
+whatever you have open. Then it will tell you to log in into your cloud. So, use this bad account that has a
+subscription on. Okay. So, now that we have cloud code installed, what we simply have to do is create a new
+folder where we're going to be putting all the information, the knowledge base, and the skills into that
+folder. So, we just double-click and create new folder. And we'll just rename it. And then call it Vox Style
+YouTube video. So, now what we're going to be doing is simply just opening the folder and we're going to be
+dragging from the Google Drive all the information, the skills. So here are all of our skills that we need. We
+need obviously the image prompt. So this is really for the reference whenever the AI basically needs to
+generate images, it'll go based out of this. Also, if you don't really like the style, what you can simply
+just do is go and take that style and change it. This is more of a cyberpunk style. But you can see here it
+has basically the pallets that it needs respect to the colors, what type of fonts it needs to be using. So it
+respects the guardrails. All right, once it's installed, we're just going to grab the zip and the all the way
+and drop it here. All right, let's remove this one to trash and then we're going to close this tab and open
+back the folder, but we're going to click on new terminal out of folder and we're going to just simply type in
+Claude. So this is our Claude terminal. So we're going to go back here on the Google Drive. Go in the system.
+And simply this is the palm that you need to be pasting in the first thing once you put all the information.
+All right, okay. So this is great explaining how this works. So everything grows from one style sheets as I
+showed you the cyberpunk one. Basically that's the reference that it goes to and you can see it's respecting
+those color fonts and it's respecting the graphics. So the way it works, it has seven stages. The first one is
+like the research, you give it an idea and it goes to see the most recent up-to-date news, then it will create
+a script for the 11 labs. Create also the voice, then it will shut a map basically of how the video should
+look like. Each image connected with the 11 labs, so it goes appropriate. And number six, it goes on the
+motion. It starts making and generating those images into videos, and then they cut set for us and adds the
+music on top of that. Going back to our cloth code, I was just going to click on yes and don't ask again. All
+right, so while it's doing its work and going on the references, what we have to do is simply is go to and
+basically on Kai, you have to create an account. Once it's created, just go on API keys and you create a new
+API key right here. And you name it whatever, YouTube, and click on create. You copy it. You don't have to put
+it in the folder. You can simply just put it back into the conversation. I would say let's gather them both at
+the same time. So, we go also on 11 labs. We go We scroll all the way down, bottom left, developers. We click
+on API keys and we create a API key. And then restrict key, I'll just remove it, disable it, and then create
+key. That's it. So, basically you copy this and you paste it also. But here going back to our cloth code, it
+says the shape and format that we want. So, let's say we want use landscape, it's more for YouTube videos. For
+the music, what I recommend is simply just going on YouTube and do copyright songs, intense music. I have my
+own default. And this is the part that is really interesting. So, either if you're in the high budget, you let
+it you approve before it starts generating. And here you can also do fully autonomous where it doesn't check.
+So, for us for now, we're just going to say approve before page generation. And once you think you have the
+right fonts, colors, and design that you like, you can put it fully autonomous. You just type it in as
+ElevenLabs. For ElevenLabs, it already has my API keys. And Kai AI also has my API keys. Okay, so when now the
+skills have definitely been implemented into our folder, and Cloud Code installed them perfectly. The only
+thing that you have to do now is just to try it and let it rip. That'll be it for the video. If you like this
+video, leave a like, make comments. And if you really, really like the video, leave a follow. If you want the
+skills and the prompts, it's down in the description down below. It's completely free, and I'll see you on the
+next one.

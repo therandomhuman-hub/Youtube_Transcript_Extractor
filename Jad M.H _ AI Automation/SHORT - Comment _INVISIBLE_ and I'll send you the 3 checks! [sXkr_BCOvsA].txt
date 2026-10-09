@@ -1,0 +1,23 @@
+Title: Comment "INVISIBLE" and I'll send you the 3 checks!
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: sXkr_BCOvsA
+URL: https://www.youtube.com/watch?v=sXkr_BCOvsA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:51:02+00:00
+
+Kind: captions Language: en If ChatGPT isn't recommending your business, you just need to post more content.
+That's exactly what I would say if I was a total [ __ ] idiot. Listen to me, a lot of websites are invisible
+to ChatGPT right now. And not for the reason that you're not posting content. It's some technical boring
+reasons that you can actually check in 5 minutes. So, the first one I would say is your robot files. That's
+the file that is on your computer that tells the bots what they're allowed to read. And I see this a lot of
+times. A lot of people don't let bots read their websites, which is one of the reasons why you're not showing
+up to a lot of businesses. Okay, second one, check if your websites is actually on Cloudflare. And check AI
+crawler settings because it can actually stop AI chatbots to check your websites. The same reason you could
+potentially just lock the door for AI to able to see your websites. And the last one is your JavaScript. Turn
+your JavaScript off and reload your homepage. And if you see the words that are disappearing, guess what?
+That's what most AI bots cannot see. Google loads the page correctly, but ChatGPT's bots don't see that. And
+please, stop writing blog posts. It doesn't matter how much you're doing that cuz right now, Google just came
+up with a huge policy that can get you banned. And it can take you a lot of months to get back where you were.
+I personally live at four blog posts per week. That's it.

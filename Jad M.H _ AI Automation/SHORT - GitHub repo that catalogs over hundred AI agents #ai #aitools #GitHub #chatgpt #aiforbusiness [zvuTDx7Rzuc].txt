@@ -1,0 +1,19 @@
+Title: GitHub repo that catalogs over hundred AI agents #ai #aitools #GitHub #chatgpt #aiforbusiness
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: zvuTDx7Rzuc
+URL: https://www.youtube.com/watch?v=zvuTDx7Rzuc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:43:16+00:00
+
+Kind: captions Language: en There's one GitHub repo that catalogs over 300 AI agents and frameworks sorted by
+what they actually do. It's called Awesome AI Agents 2026. And the reason it's useful is the sorting. 20 plus
+categories, coding agents, creative agents, voice research, enterprise. So, instead of hearing a tool named on
+TikTok and having no idea where it fits, you open one page and see the whole landscape at once, comparisons
+and benchmarks. It gets updated monthly, so it doesn't rot the way these lists usually do. If you have been
+feeling like there are thousands AI tools and you can't tell which ones matter, this is the map to use. Here's
+the catch, and here's my honest opinion. It's a directory, not a recommendation. Being on the list doesn't
+mean it's good. Some of these have 10 users. So, use it for discovery. Then, actually test two or three that
+fit your work before you build anything on them. I made a short list of the ones actually worth your time.
+Come and agent S300, and I'll send it over.

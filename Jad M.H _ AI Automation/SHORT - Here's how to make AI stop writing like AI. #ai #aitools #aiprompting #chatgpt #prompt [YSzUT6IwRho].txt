@@ -1,0 +1,17 @@
+Title: Here's how to make AI stop writing like AI. #ai #aitools #aiprompting #chatgpt #prompt
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: YSzUT6IwRho
+URL: https://www.youtube.com/watch?v=YSzUT6IwRho
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:35:43+00:00
+
+Kind: captions Language: en Here's how to make AI stop writing like AI, and it takes only two lines.
+Everybody's problem with AI writing is that it sounds like a robot. It delves into things, it stuffs with em
+dashes, it opens with in today's fast-paced world. Most people try to fix this by typing don't sound like AI
+into their settings just hoping that it works. This is better, it's a tiny hook, basically a rule that runs on
+AI's output. And you drop it into Claude, code, or Codex. It sits right on top of whatever the AI writes and
+blocks those dead giveaway words before they ever make it into one page. Two lines to install, and from then
+on every responses comes out clean automatically. And the best part, you can open bad words list and add your
+own. Comment human and I'll send you the exact hook and set up directly.

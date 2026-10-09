@@ -1,0 +1,103 @@
+Title: TOP 5 New One Person Business Ideas For Beginners
+Channel: One Person Business
+Type: VIDEO
+Video ID: GZ0qyKihSVI
+URL: https://www.youtube.com/watch?v=GZ0qyKihSVI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:21:40+00:00
+
+Kind: captions Language: en Last week I asked 90,000 AI founders in my community to tell me how they use AI to
+make money. And after going through thousands of submissions, I handpicked five of the best new ways people
+genuinely make a few money with AI, even with no previous experience and starting from zero. I'm talking about
+people doing two and a half thousand a day all the way to 10,000 a day in extreme cases. So, let's start with
+number one, and that's AI small romance novels. The other day I was browsing Amazon and I came across these
+ebooks which seem to be selling like crazy. So, I used this Amazon profit calculator to see how much they earn
+from one book sold, and it turned out it's $7.99. And this exact seller actually has 74 of these ebooks being
+sold on autopilot all on a pretty similar subject. So, I took all of them and I put them into Claude with the
+seller rank visible, and it calculated they're getting about 120 sales a day, which ends up being over a grand
+a day. Now, to make this, I went over to Claude.ai and I just created a brand new project. And Claude project
+is essentially a new thread which remembers everything you put in the file section here. So, step number one
+is to create a new project and just call it small town romance series. Step number two is you open a new chat
+inside a project and tell Claude what tropes you want in the book. Small town, second chance, single dad,
+grumpy sunshine, fake dating, whatever is selling. I asked Claude to give me 10 different small town romance
+plot ideas with the most popular tropes mixed in, and it spit out 10 solid ones in seconds. Step number three,
+then I asked Claude to take the plot and build me a full romance novel structure based on the proven tropes
+that sell. It came back with a chapter-by-chapter beat sheet covering the meat, the conflict, the slow burn,
+the dark moment, and the happy ending. Step number four, then I told Claude to create a full character
+profiles for the main characters and supporting cast based on structure, backstory, personality, what they
+want, what they're hiding, etc. Step number five, then just keep asking it to write each chapter one by one.
+Just say, "Write chapter one. All right, now write chapter two, three, and so on." And next for the cover,
+ChatGPT image 2.0 is insanely good at book covers right now. I mean, here's the exact prompts I use. So, you
+just swap out the title and the author name. Then, you can combine all of those chapters into a Google Doc,
+download it as a PDF, then go over to Kindle Direct Publishing, and you're ready to go. The downside with this
+business model, though, is that you're competing with millions of other sellers doing a similar thing.
+Obviously, sales are not guaranteed, and it may take a while to get some results. So, let's move on to
+business number two, which is selling PDF guides with AI influencers. One of the craziest things I've seen
+people do is they go to Claude and they ask it to list 10 problems where people or businesses are spending a
+lot of money, and then fill them in with this framework, which is how to achieve desired outcome in desired
+time frame without pain. Here we go, a couple of problems that we can solve. But, you see this AI influencer
+which started 90 days ago is already making money selling these PDF guides. And this AI influencer started
+just 30 days ago, and hundreds of other AI influencers quietly taking over social media. I did recently make a
+free tutorial explaining exactly how this works step-by-step, but the skills you pick up here are actually
+really good because getting a deep into AI video and image generation right now puts you ahead of 99% of
+people. First, you're going to take out this prompt and just change whatever is highlighted in red. And by the
+way, you can find all of these prompts for free in my free community. When you go to the classroom, you will
+be able to scroll all the way down, and you'll find prompts for my videos, and just access the free prompts
+here. Then, you just paste that a prompt into ChatGPT or Claude, and that gives you this sort of JSON prompt
+that you can copy with one press of a button. You can then go to solo.ai, which is this all-in-one operating
+system for one person businesses, and then you're going to find the AI visual studio inside, click on image
+generator, and then select solo AX4 image. This is the best one so far. Paste your prompt in this box and
+click generate. That's going to create a super realistic AI influence for you. Then, And can turn that into a
+talking head video when you go to videos on the left-hand side. You can then go to video creator and there is
+plenty of models to choose from here. Solo LX high-end is the best one, but the budget ones are Solo VX. This
+is going to give you decent results. Make sure to change aspect ratio to be 9 by 16 though and then just right
+here insert your prompt. Select image to videos so you can upload an image of your AI influencer. In my case,
+that's going to be this guy and then just create a script here and generate. For a full step-by-step
+explanation, I'll recommend watching this video next. For now, moving on to number three, which is school
+community teaching AI skills. People that create online communities make very decent amount of money. I mean,
+there is this AI video bootcamp where someone is teaching how to create AI videos and he makes $160,000 a
+month. I mean, MRR stands for monthly recurring revenue and if you divide that by 30, this guy is making over
+$5,000 a day. This guy makes even more than that and some of them are even doing over $20,000 every day with
+their communities. So, whenever you learn a skill with AI, you can create a hyper community just for that
+subject. I mean, these guys are not charging a lot. They're charging only $9 a month for this and there's just
+20,000 people inside who want to learn AI video. It's a no-brainer. I mean, AI is booming in every industry
+and if they can just learn it for nine bucks, then why not? That's why this is exploding so fast. I have a
+community though, but mine only has around 600 members now. At number four, we have these personalized AI
+children's books and I really like this as it's going to make kids very happy and this is where AI becomes
+your strength and people are not going to be angry that you're using AI for this. This guy is charging $29 for
+this AI book and he made over $120,000 so far. Step number one, now to make these, you can just go to Claude,
+enter this prompt, enter child's name in this box or whatever the client pays for and of course, whatever the
+story they want, if can swap that in the prompts, and they started writing this story for you. Step number
+two, now you just need to create illustrations of that child in that storyline. So, just head over to ChatGPT,
+the image model here is insane now, and you can just paste in this prompt, then go back here, you'll find the
+illustration that you can copy from here, paste it inside of this box, then upload a photo of that child.
+Let's pretend like I had a client and they just gave me a photo of their kid, or in this case, I'm just going
+to use my face. Now, it's going to animate that first page. While in the meantime, I'm going to move on to
+page number two, and I will just grab this. I'll paste it in this prompt and wait for the first image. I'm
+going to download this first one, and then step number three, we're going to need to generate cover image,
+which we're also going to do in the same chat just by pasting in this prompt over here. And now we got this
+cover photo. This is amazing. Now, I'm going to download this, go over to Canva, and I'm going to create a new
+blank storybook, where I'm just going to paste that image to be my cover. Oh, I wish I was a kid in the era of
+AI. Now, I'm going to paste in these the first page, which we're going to grab from here, and then we have the
+first page image that's going to look like this. I'm going to place a text here, but you see, it's not fully
+visible, so I might actually add some background, give it some early looks, something like this. This is
+beautiful. It's going to be our first page. And we'll just continue doing that until we make an entire
+storybook for that child. Then we just click on share, and then download this as PDF print, and download to
+your device. I think this is a really fun side hustle, and it's also something you can do for almost any
+demographic, and you can also localize it and sell it in whatever town or city or country you're coming from.
+At number five, we have faceless AI YouTube. There's a new way to use AI to make money with faceless YouTube,
+and plenty of people in my community are already using it to make money without ever having to record any
+videos themselves. And I actually have a list of over a thousand channels making between five and fifty
+thousand dollars a month. Look at these, and all of them are using AI to make faceless videos. For example,
+there is this faceless channel over here which started around three months ago, and obviously they are
+creating these AI faceless videos where they just ask Claude for ideas, then they use a tool like solo.ai
+where you can create high-quality scripts that actually get results on YouTube, and then you can paste that
+script into the voiceover, get the voiceover done here, create all the visuals on the left side when you go to
+visuals or video generation, create a thumbnail here as well. Here are some of the thumbnails that I was able
+to get. I actually have this free Notion document that goes over how they're running this faceless channel and
+the prompts that I've used to copy what they're doing. And this free Notion document is also available inside
+of my free community. When you go to the classroom, just make sure to find Cosmic Cruise right over here, and
+you can access the system completely free of charge. If you want to see how people are using AI influencers to
+sell digital products, watch this video next. And if you want to learn more about faceless YouTube automation,
+then watch this video next.

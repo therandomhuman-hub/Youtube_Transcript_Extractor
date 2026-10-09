@@ -1,0 +1,158 @@
+Title: Proof Claude + YouTube Can Change Your Life in 30 Days
+Channel: One Person Business
+Type: VIDEO
+Video ID: eOUUDbVoQ60
+URL: https://www.youtube.com/watch?v=eOUUDbVoQ60
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:54:58+00:00
+
+Kind: captions Language: en You will probably not get the same results because this faceless channel started
+30 days ago and so far they made about 30 grand from ad revenue and probably some more from their digital
+product. I mean, so far they got about 11 million views and they started this account last month. And this is
+how much I got paid for similar amount of views so it's safe to assume they did pretty well. So I spent the
+last 7 days trying to see if I can recreate this channel with AI. Not only did I succeed but I'm able to
+recreate these videos in less than 10 minutes. So in this step-by-step tutorial not only will I show you how
+to start a faceless channel with AI step-by-step but I'm also going to show you how to beat this new algorithm
+so you can get views. And the reason I know this is because I run a venture capital that invests in YouTube
+creators so I have access to data that literally no one else has. And I've been doing YouTube myself for over
+a decade. I know you don't really care so let's start with step one. All right, first of all, I want to show
+you the channel in question. It's called Consumer Exposed. If you go to their oldest video we can see that
+they posted this one 1 month ago got 76,000 views and their most popular videos have 2.8 million views and
+700,000 views. Now the reason I really like these channels is because they're super specific and they're also
+my formula of holy trinity of high profit niches which essentially means videos over 25 minutes long
+attracting a western audience above the age of 40. We can see that each video is around 30 minutes long. It's
+only talking about US brands and it's mainly targeting older Americans. Now in a second I'm going to show you
+a tool that allows you to create these videos with one press of a button. I'm not even exaggerating. But first
+we need to talk about what sort of videos we're going to be making because what you don't want to do is steal
+someone's topics because that's not going to work. So if I were to just go to their channel and recreate the
+exact same niche I would be competing with a bunch of other people trying to do the same thing. I mean you can
+copy and paste their title in this box and check this out. There's a ton of people trying to copy what they're
+doing exactly word for word and it clearly isn't working. None of these people are getting any views. So,
+instead of stealing, what you want to do is what I call the niche quilting in February of 2025, which
+basically means market plus format adapted to a different one. For example, someone had a channel about birds
+and someone took the same title of skeletons and then applied that to insects. Someone took those insects
+videos and made it for fish, fish into cats and so on. So, I'm going to model this format of 10 something US
+something to avoid, but I will take this market of cats because I've seen a second channel that talks about
+cats get millions of views. So, clearly there are a ton of cat people on this platform. So, for example, if
+the original video was 10 US bread brands to avoid, I'm going to niche quilt it into 10 US cat food brands to
+avoid. Now, if you are using Solo, you can also do this natively inside their's a video title remix where you
+can just paste the link to a channel, insert your new niche, then just click generate and it will look into
+their most popular video titles and it will adapt them to your niche. This is a really good title. For
+example, this is another really good one. By the way, inside of Solo, you can also see how much money YouTube
+channels are making simply by pasting a link here and then it will tell you their estimated monthly earnings.
+So, in the last 30 days, they made about 36 grand from this in the second, I'm going to show you this new AI
+tool I've been testing, but to make things easier for you, I built this entire notion document that you can
+grab completely free of charge inside of my free community. When you go to the classroom, just go to AI
+systems and then look for Consumer Exposed and you'll find this link. Now, the first thing we want to do is we
+want to go over to Claude and we want to go to projects in the left, then select new project. I'm going to
+call mine Dave's Kitten and then for the instructions prompt, we're just going to grab this prompt from the
+left. We'll paste it into the instructions box. Now, just insert your niche here and then your target audience
+and then click on save instructions. Now, this project will remember everything about this niche and about
+this specific channel that we're building. Now, the next step is to write a script. You can use whatever you
+want to write a script, whether that's Claude or paying a script writer or writing it yourself word for word.
+I personally use Solo's YouTube script writer because it has these frameworks and hooks already included in
+the script, so I know that it's going to keep people watching. The way it works is you just describe the
+video, which I'm going to grab from here. I'll paste in this box, then I'll paste the title in this box as
+well. Then when it asks me for details, this is where I can add PDF documents that I find online or YouTube
+videos that speak on this subject or podcasts. All of that is important context that is going to be baked into
+my script to make it even more unique, so that we're not sharing generic stuff like everyone else. Or I can go
+back to our Claude project and I can just say, "Find five lesser-known facts and obscure details I can share
+in this video." And then Claude will do the research. I'll then take those points and I will simply copy-paste
+them into the text note here. Now, here's a really cool thing. When it asks you for style of writing, this is
+where you can go back to the channel that you're trying to model. You go to their most popular videos because
+clearly that worked very well. You can just click share, copy URL, and then simply paste it in this box and it
+will model their style of writing. Now, when it asks you for the monetization goal, in this case, it's only
+going to be ad revenue, but if you are selling some PDF guide like these guys are, you can just select digital
+product or PDF and then the script is going to be optimized to help you sell that. But in my case, I'm only
+focusing on ad revenue for now. And then when it asks you for frameworks, you can select or unselect some.
+Intro boost is useful if you already have a thumbnail, but I do not have it right now, so I'm going to keep it
+off. And then we can bump up the length of this video to let's say 12 minutes and then I'll click generate
+script. Next up, we're going to need a voiceover and if you want to do it for free, just go to this free
+online voice recorder and you can just record your own voice. Just read the script that was written for you
+and you don't have to pay anyone. Now, what I personally do is I go to Solo's Voice Studio which has over 9
+and 1/2 thousand different voiceovers to pick and choose from. There are so many options. When you find the
+one that you like, you can even save it with one press of a button and then you can use it. All you have to do
+is just copy your script, paste it in this box and as you can see, if it's over 10,000 characters, then you'll
+have to break it down a little bit and do it in a few different batches and then click generate for each. Then
+you're going to find your voices in the right and click download. All right, now when it comes to visuals,
+there are two different formats that are blowing up right now. Format number one are these hyper-specific
+educational videos for Western audiences and they also mix real-life footage with different animations and
+they can be made with this new AI tool that I'm going to share in a second. And then there's also a simple AI
+animation educational content and this one works because it's super simple and it can be applied to literally
+any niche. So, option number one is to go to this new AI tool where you can just upload your script and it
+will create the whole video in less than an hour. So, instead of paying a human editor $45 or more, with this
+AI tool, you basically get around four videos. I know it says six, but from my calculations, it actually turns
+out to be around four videos. For $99, that's about $30 a video. Which by the way, even if you don't want to
+spend $30 a video, you can technically make these videos yourself manually. It might take a couple of hours or
+two days. That's how I personally started to be fair. Like, I've edited my own videos for free. So, I'll just
+open any free video editing tool that you like, CapCut or whatever, and just find visuals online and edit
+these videos. Right now, I am testing this AI tool where you basically just paste your script and it creates
+the whole video and then if there is something you don't like, you can edit natively inside. Like as you can
+see, it animated the whole thing for me, but if there is something that I would like to add, I can just go to
+elements and then I can search for, let's say, ocean videos and then I can just drag and drop them to the
+timeline just like this. And to make videos in the first place, all I got to do is click on the plus icon
+here, click on custom script and then go copy-paste my script inside of this box, click save script, submit
+this, then skip the thumbnail part, that's not really relevant for now, and then you just have to approve four
+things and they will start working on your video. And then you just come back to the whole video done for you
+with all the animations and footage and then you can just click render and download. Now, in order to use this
+AI tool, you're actually going to need a referral code, which I'm going to leave inside of my furry community.
+You can find it here in the AI systems page. Just copy-paste it when signing up, that's how you get accepted
+instantly because there is a waitlist, but if you use the code that I'm going to leave in my furry community,
+you can access it instantly. Now, in theory, you could also just describe what your video want to be about and
+then they will also write the script for you and generate the voiceover, but from my experience, the scripts
+that it writes are very generic because this this AI tool was not optimized for that. This tool was built for
+video editing and that's what they are good at for now. So, I would still just write my own scripts,
+copy-paste them right here where it says custom script and then just let them create visuals. But if you don't
+want to pay for that AI tool and you're already using Solo, then you can just copy your script, go to social
+media on the left, then go to the scene generator, paste your script in this box and then on the right-hand
+side, select a style you want, whether that's cinematic to the animation or hand-drawn sketch or stickman
+style or whatever style you prefer, and then just click generate bulk scenes and then creates animations for
+you like a slideshow of different images that you can use. And all you got to do is just put it together in
+CapCut. You just drag and drop to the timeline. Here is the hand-drawn sketch style. It's also pretty unique
+and pretty cool. It looks like a human made it. And then there's also the cinematic 2D animation style. This
+is like a cartoon. It's more premium. I really like this one as well, but it depends on the style of content
+you're working on. And that's the second style that I spoke about. And again, applies to pretty much any
+niche. And of course, if you don't want to use these AI tools, you can also create all of this manually. It's
+just probably going to be even more expensive and it's going to take a longer amount of time. But hey, at
+least you will know how to use these tools if that's not what you want. All right, next up, we're going to
+create thumbnail text with Claude. So, I've used this prompt that trains your own Claude account to write
+perfect text for your YouTube thumbnails. So, you're just going to paste that prompt here and you're just
+going to insert the title of your video. And then if you want, you can also insert the script. I'll leave it
+for now and then we're just going to submit this. Now, we can either create a thumbnail in instead of Solo
+Thumbnail Maker, which allows you to even just paste the link from the YouTube video. Like for example, I'm
+going to grab this thumbnail. Just paste the link into the Solo Thumbnail Maker and say, well, first I'm going
+to ask ChatGPT, like what's the most popular cat food brand in America that people would recognize on the
+thumbnail. Okay, it's Fancy Feast. So, I'll just say replace tuna can with a cat food spill from Fancy Feast
+and then I'll just say change text to say poison in cat food. Like edit thumbnail and then it just creates the
+whole thumbnail for me. And then I can just download it. Technically, the same thing can be done in ChatGPT
+for free. If you just go to YouTube thumbnail grabber, then you paste the link, you download the original
+thumbnail, then you go open up ChatGPT and you say replace tuna can with cat food spill from this. That's
+pretty much the same prompt. So, if you're already using ChatGPT, then you can do it there as well. Now, we
+have also seen that this YouTube channel over here sells a digital product through Gumroad, which obviously
+allows them to almost double their earnings from my personal experience. So, an optional step is to also
+create a digital product that you sell on this channel. And inside of Solo, you have a digital product builder
+where you can select auto and just insert your niche, paste the link to either your channel or some channel
+that speaks on a similar subject, just so that Solo understand what the product should be about, and just
+click on build it for me, and then it creates the whole digital product. It creates the outline with unique
+points, full guide as a PDF document that you can download and export as a PDF, and then also the sales page
+copy, so you're ready to copy paste it onto Gumroad and then start selling. There's also the manual option for
+building digital products, where you again insert your niche, you describe your buyer type, and then you
+select how much you want to sell this for. Let's say I'm going to go with $47, and I'll go to the statement,
+and I'll say that its our outcome is to keep your cat healthy in 5 minutes a day without, let's say, expensive
+treatments. And then again, Solo starts building an entire digital product. That's really an optional step, so
+we're going to move on to the next one, which is to create a video description that's going to allow us to
+rank higher on YouTube. And for this, we're going to use this prompt. Go back to our Claude project, paste
+that in this box, enter the title of your video, then paste the script, then submit it into Claude, and now
+you have a description that you can copy paste just below your video like this. Next, I'll show you how to get
+views. But that's pretty much the whole process of creating videos. We've done video ideas with Claude,
+research with Claude, scripts with either Claude or Solo, voiceover either your own voice if you want to do it
+for free or Solo, visuals and editing yourself if you want to do it for free or with Rush or Solo, thumbnail
+text is with Claude, creating digital products is either Claude or Solo, actual thumbnail is with Solo or
+ChatGPT, and description is with Claude. Now, you see, to make it easier for you to get a with Claude, I've
+actually compiled a list of 15 of the best prompts that you can copy and paste for free from my school
+community. Just go to AI systems right here, then scroll down and select a 15 Claude prompts that will grow
+your channel, and you're going to find a free document here. I've explained in this video here how to use the
+prompts, but plain and simple, you're just going to copy and paste them and adapt them to your channel and
+your niche. But if you want to see 11 new things that YouTube algorithm hates, so you can not do them and
+actually get a views on YouTube fast, then make sure to click here and watch this video next.

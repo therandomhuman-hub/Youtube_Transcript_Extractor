@@ -1,0 +1,132 @@
+Title: I Sold a $4,000 Website I Built With Claude AI (Live Sales Call)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: z10O06nvVJ0
+URL: https://www.youtube.com/watch?v=z10O06nvVJ0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:22:15+00:00
+
+Kind: captions Language: en Build a $10,000 website. You build $10,000 websites. You build a $10,000 website.
+You create a $10,000 website. >> I'm sure you've seen plenty of videos online claiming that they've built a
+$10,000 websites, but the question that I rarely see people answer is, did they actually build the website? To
+be clear with you, I'm not saying websites can cost $10,000 or more. Some websites are absolutely worth that
+amount, especially when they include advanced features, custom development, marketing assistance, or ongoing
+supports. However, in many of these videos online, the $10,000 claim is simply used as a clickbait. They show
+the process of building a websites, but they don't show the proof that a real client paid that amount. >> If
+you can schedule the payment, you can bill me till I get paid on on Monday. >> That's why in this video, I
+want to show you the actual process from building the website to presenting it to the client, and also making
+improvements on the call, and selling it. I'm also including a free resource with this video, a website
+building tool that allows you to create websites without writing code, and that removes that fight code in the
+fact. I'm really enjoying creating these type of contents, and I'm working hard to make each video more useful
+and engaging and visually interesting. If you find this video helpful, I would really appreciate it if you
+could leave a like. It helps me to support the channel and allows me to continue creating more videos. This
+genuinely became a passion of mine, so thank you for watching even if you're not liking the video. And if
+you're still here, let's get right into it. In this video, I'll show you exactly how I built this website with
+the elements and also the video time lapse. Okay, so I'll be using Cloud Design to build my websites, and I
+have already done a prompt. Uh you just have to copy this prompt. It's going to be in the link down the
+description um to get a head start of it and start working more in the elements. All All you have to do is
+paste it and write the this for me. We're going to be using Opus 5. You can keep a medium level medium effort
+or high effort depends. I'm just going to keep it medium cuz it does use a lot of tokens. We're going to leave
+this section let it build. Now what we need is basically get an image where we would like to put on our
+website. So the simplest way that I do is simply go on Pinterest. And here in Pinterest I've already saved one
+that intrigued me. It was yeah, here it is view board. Because this is a construction company. I'm just going
+to go and I've already saved one that I really liked. It was this one and what I like about this image. So I
+didn't really want to waste time and keep looking for other images. I took this one and I went to Hicks field
+basically and I wrote this prompt into this image to a night time. I removed the grass completely as you can
+see the quality is very choppy because I only made it 1K. And the reason why is to save tokens and Hicks
+field. As you know Hicks field uses a lot of tokens and if you're not careful with it you can waste it
+completely for nothing. So the way I do it is basically I give it a prompt and Hicks field is known for
+remaking shots by shots by shots to get the actual shot that you like. So I think I've done around one to
+three only took three images. It's okay if it's like 1K quality and I like this one and then I needed an
+excavator. I like the effects of excavator no people nothing around that. I did the same thing to save token.
+I left it 1K. And I think he uses like for those three images. Let's see how much it would cost I do six
+tokens. So we're saving a lot of tokens right here and I kept playing and testing and testing this one as my
+favorite but it was a little bit too close to the camera. So it was a little bit too close to the camera and I
+kept trying to get it a little bit further with the prompts and then I came up with this one where I said we
+render the scene from a distance, 10 m more, pulling the camera back so the subject occupies less of the
+frame. And with my last shot, I used GPT image tool, and I used their highest quality that they have. So, you
+can see the quality is much sharper and cleaner, and even the colors are better. And in here, I would like
+maybe a caption behind the excavator that would give it that cinematic effect. If you don't have Figma, or
+you're not paying for tools to put like nice captions, you can also use Canva. So, the way you do it in Canva
+to have the writing behind the excavator, it's super simple. You just copy, click on command copy, and command
+V. You duplicate the image that you've made, and once you duplicate the image, as you can see here, it's
+duplicated, you just scroll down, and you can see the excavator is behind it. Super simple, super neat. So,
+now what we're going to do is simply go back to our cloud design session. Let's click on present in this tab.
+It already saved us a tremendous amount of time. It put the information that I like and that I want for my
+clients. So, all I have to do is basically take this image and put the image behind it and then remove the
+writing that is in here. And there it is. It already looks really nice. And I changed it to more of a black
+font color for the entire website because it aligns more of the colors for my clients. So, all we have to do
+now is like add elements. Maybe in the hero section, I want to remove the background completely. So, let's
+install it. I'll just use something free, background remover. There, we'll drag the image that we just
+installed. Accept cookies. Anyways. All right, downloaded. So, now we want to add this element as a floating
+section. But, we do need an extra element here. I like the glass wing effect. It has been really popular since
+Apple has made their updates of like glass wing effects to their iOS updates. And I found a kind of like a fun
+fact, not really a fun fact, but like a protection um in California the rules. So, I think that would be
+really interesting to put it in here, too. And we put in also the excavator um in there. All right, so I need
+you to add another elements, same as this one, uh but at the bottom of the page on the right side, uh and it
+should be saying this. What is really cool about Cloud Design is that you can just talk and point where you're
+talking about. All right, so this is how it looks like. I pretty like it pretty much. Uh the only thing that
+we're missing is the uh excavator that we made with a transparent background. So, I just drag it, drop it
+here, and I think I would like maybe to put it on top of it right here. Can you add this excavator also glass
+wing effect surrounding it this section or this element. It should be on the right side. So, this is how it
+looks like. Um I'm kind of pleased with it. It could have a little bit more work done. Uh I don't want to make
+my video too long, so I'm going to stop the video right here and work a little bit more on the website. And
+also, I want to mention that this website will be in the link down the description, so you can have it and
+just copy it. All right, so within a few minutes, this is what I've done so far. I added images in the
+background of each one. The only thing I need to fix is a little bit maybe the colors, so we're able to see
+them better. Also added an animation, a time lapse, and let me tell you guys how I did this basically. So, if
+we go back to Hicksfield, uh what I did is so I needed the house first without foundation, without anything,
+and this was it. So, I gave them as a reference uh like of the image of the house, and then I also gave them
+like the shots where I would like it to look like in the foundation. So, if we see here, it's written, "I need
+you to build me the foundation drone shots of the house like in the image." I didn't like really the walls. I
+didn't want them, so I removed the walls, and it's just the foundation, the floor. After that, I took that
+image of foundation. I said add concrete slab foundation exposed wood framing to this image and I turned the
+image into 4K. And the final shot that I needed to do is basically add another prompt a complete this house as
+finished and I give them the reference of the uh video. And all I had to do is basically go on video on X
+field and this is the model that I used. I used Kling 3.0 cuz it is the cheapest model there is at the moment.
+I removed the audio. It really didn't cost me any tokens. This is how it looks like now and every prompt that
+I put in is basically this should be orbiting flyover foundation getting built. Same thing for the second
+image that turned into a video and the third one. I'll be sharing all the prompts that I've been using by
+downloading my description. So in here I think I would like to turn all of this white at the bottom so it's
+not too dark. I need to include here uh an image and and I think I'm going to remove this section. The team I
+think I'm just going to put one person and their quote. So I found something interesting. It's taken by Carta.
+So what I can do simply is take a screenshot. I'm going to use my extension screen shotter and simply just
+screenshot this section specifically. Go back to Club design and say remove this section for me. I need you to
+replace it with a screenshot that I give you use the same color fonts as the screenshot and I command V just
+give them the screenshot. Once it's doing that I would like to make a scroll animation at right side of the
+page so people can understand which section they are in. I gave a random picture which was more like a
+landscape cuz I don't want to put the owner's face in this video. Um so I'm just going to use my profile
+picture that I have on my YouTube channel and say to replace it in here. Uh it's a little bit too tall in a
+way and it's a big section. It should be a much smaller. So we just need to fix that and also I would like to
+remove uh from the process down at as a white background. All right. So so is how it looks like. Um I'll like
+the colors. It changes a lot if we had it fully in black mode. Um I wouldn't like that really. I would be
+really boring. So, in here I just need to put an image on the right side. Uh this should be a little bit more
+in the middle and I don't know why they put my image in the middle in here. All right. And the FAQs, the only
+thing that we need to add is the cookies and also a pop-up where they're able to put their information in
+there, their email. And the only thing to do also is to connect their calendar in here. And I see a little bit
+one down. I'm not able to see the home tab. This is the end result of the websites. Of course, there are
+things that I need to change to put their logo, their name, their company, where they're based, and their
+cookies that they need. Um more like their phone numbers and so on, their personal information. Uh I added
+also, if you see at the right side, um a scroll animation effect that disappears once we stop scrolling. Um it
+looks pretty good for the time that I spent. I think I spent around an hour and 30 minutes to build this. Uh
+we still have the animation of the website. It's not too heavy for the phone users, so it's mobile-friendly.
+Uh the image here we fix also the home tab when we go in the bright mode, the image in here of the owner. >>
+Is it all right like that? >> Yeah, right there. >> Yeah, that's really nice. Yeah, that looks good. I'm not
+like I like this one. I like what you created. Yeah. Um Or um yeah. Oh, with with my I like the the the land
+this landing page. Yeah. Oh, that's pretty dope. I I like that one, too. Yeah. What would you say to the
+owner? I think that her I think She know what I think for some reason you're You probably have a better script
+than me, but the on the sixth verse it says those images are more they look more realistic and and >> And they
+match more of a Yeah, I like those those six images, the landing page, and then the the time-lapse build Yeah,
+that one there. >> Yeah. >> Or maybe it could be a time-lapse over a >> Let's see. >> over over just the roof
+getting done. Okay, we can talk about your roofing job when we're not general contract. We could do Yeah, just
+like, you know, the crew removing old uh all the shingles and then >> And then installing the new shingles. If
+you can schedule the payment, you can bill me so I can pay on on Monday. >> Also, if you stayed this far in
+this video, um I do want to reward you and I appreciate you really watching this video. It really pushes me
+and motivates me to make more video and put more free resources online. Um I really recommend if you are
+building a website and you don't know how to build elements. I don't want to butcher the name of this
+platform, Bricklets UI, is an amazing platform where it can put blocks that removes that five-coded effect if
+you want to have like a high-end websites. I really recommend going on their components, what they have, and
+their animations that they have. And they're not heavy because they're coded. So, it will definitely be
+mobile-friendly. If you click on components, you're able to see a lot more things, the charts, um and so on,
+all animated. I appreciate you staying all the way to the end of this video.

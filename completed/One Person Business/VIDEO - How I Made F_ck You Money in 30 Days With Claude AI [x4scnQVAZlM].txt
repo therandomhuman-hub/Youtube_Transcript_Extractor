@@ -1,0 +1,142 @@
+Title: How I Made F*ck You Money in 30 Days With Claude AI
+Channel: One Person Business
+Type: VIDEO
+Video ID: x4scnQVAZlM
+URL: https://www.youtube.com/watch?v=x4scnQVAZlM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:25:07+00:00
+
+Kind: captions Language: en $28,000 in the last 30 days from this faceless AI channel using Claude AI. And let
+me show you that this is US dollar and not any other currency. I did all of this by using Claude AI, one more
+AI tool, and without recording anything myself. And best of all, I'm also using this AI channel to sell PDF
+guides and other digital products as well. And in this video, I'm going to show you all of the steps and
+prompts you can copy and paste to try this out yourself. But I just want to say that none of this was easy and
+you will probably not get the same results as me in your first 30 days. I mean, this is also not my first
+rodeo, either. I have many failed channels that I started beforehand that didn't really go anywhere. Whoever
+tells you you can do this overnight is lying to you. So, I'm just going to show you what it works for me and
+how I use Claude AI for this. Now, as always, I've actually done most of the work for you and I've created
+this free Notion document from where you can copy and paste all the prompts that we're going to be using, and
+you can find it inside of my free community. Just head over to the classroom, click on AI systems, and there
+you can scroll all the way down, select prompts for my videos, and then find the one that's called I tried
+using Claude to make money online, and open up this Notion document. Step number one, now open up Claude AI
+and copy paste this prompt from the document. So, we're essentially asking Claude to list many different
+problems where people or businesses are already paying money to solve them, and we're using my formula that is
+how to achieve desired outcome in desired time frame without pain. This is the best-selling formula. And now
+you can just go through the problems that Claude gives to you and just select whichever one you would like to
+solve in a specific time frame. Now, you actually don't need to know anything about this problem because we're
+going to be using Claude to solve it. So, just pick whatever sounds exciting to you or something that you also
+want to learn about, and you can rock and roll with that. Step number two, now we're going to start a faceless
+YouTube channel solving this problem so we can not only make money from ad revenue, but also sell our product
+in the description. And I actually have a list of over a thousand faceless channels that just started 30 to 90
+days ago that are already making between $5,000 and $50,000 a month just from ad revenue alone. I mean, here's
+an example of a channel that started 1 month ago and their first video got 2 million views and they're
+essentially just helping dog owners and that's the sort of product they can sell with that channel. Here's
+another one over here. These guys are specifically talking about space. I mean, just from ad revenue they're
+making $67,000 a month and they only started 3 months ago. Their oldest video is 90 days ago. Here's another
+YouTube channel that only started 1 month ago and already has 81,000 subscribers. And here's another YouTube
+channel that is also AI, but they're teaching finance and if we go to their analytics, they're actually making
+$39,000 a month just from ad revenue. Here's another AI channel that started out pretty recently as well. Now,
+why am I showing you this? Well, because we're actually going to use some of these popular faceless channels
+as a reference for the problem that we are going to solve. So, for example, if I go through this list, I'm
+going to pick chronic back pain as my niche. How to fix chronic back pain in 30 days without surgery or
+painkillers. But I'm going to use a different faceless channel as inspiration cuz last year in February of
+2025 up with this concept called niche quilting where you essentially stitch different things together to
+create something you need. I mean, here a couple of examples that I just shared in my community. So, here's a
+cats channel completely quilted into babies channel and exploded right away. Self-improvement into boxing,
+medieval history into World War I history. So, I found this faceless channel over here that teaches people how
+to get jacked. I mean, how to get a six-pack and do these workouts and I'm just going to adapt that to chronic
+back pain instead. So, inside of that Notion document, you'll find a prompt that you can copy. And simply
+paste it and insert your niche and insert a screenshot of a YouTube channel that you're using as reference.
+And then you're asking Claude to give you 10 title skeletons from there and adjust them for your niche but
+just changing one or two words to fit the niche. So, it extracted the most popular titles from this YouTube
+channel that already have millions of views and just adapted them to back pain in my case. Step number three.
+In order for YouTube to promote our videos, we need to share something that's unique, novel, obscure,
+something that people haven't heard before. So, we're going to use this prompt over here. And no one really
+talks about this, but this is what's going to give you an unfair advantage because we're going to go to Claude
+and we're going to ask it for the lesser-known facts about this subject. Where you just have to insert your
+title into the prompt and it will research these facts for you. Without this, you're just going to be sharing
+generic stuff that anyone can Google or ask ChatGPT about. Step number four. Now, we need to write the script.
+But while everyone is going to Claude and ChatGPT to write scripts that sound generic, by the way, YouTube can
+now flag that as well. We're going to be smart about this. We're going to use a tool that was specifically
+built for YouTube script writing. This tool was trained on thousands of different successful videos from
+various of different niches. It's called the solo.ai. It's all-in-one operating system for one-person
+businesses, but today we're specifically using it just for our faceless channel. On the left-hand side, you're
+going to head over to content and then you're going to click on YouTube script writer. Now here, you're just
+going to describe the video you're working on. In my case, it's all about how to fix this lower back pain. And
+then you're just going to paste your title. And where it you for details, this is where you're going to grab
+these 10 unique points. Now, this is going to be baked into the video, so we're going to have something that's
+unique that people haven't heard about before. Now, when it asks you for style of writing, just go to that
+reference channel, open up one of their videos, and paste the link right over here. So, now it's going to
+model the style of writing from that YouTube video. Now, when it asks you for your monetization goal, in my
+case, it's first of all going to be ad revenue, though I'm also going to sell PDF guides later, but for now, I
+just want to maximize my watch time. Now, I can bump up the length of this video to about 10 minutes, and
+generate script. Now, script will be full of value, and written like human would write a script. Step number
+five. All right, this is where it starts to get juicy, because we're going to go back to Claude, and we're
+just going to paste this prompt to ask it to create 50 prompts for us to generate all of those scenes that
+we're going to be using. Because, if you go over to this YouTube channel, for example, they actually have a
+slideshow of these different scenes showing up. It's kind of showing the process of what people need to do in
+order to achieve that result. Now, you don't have to model this style. There's plenty of other channels and
+styles that you can model, but if you want this exact style, then this is the exact prompt that you use. You
+just copy this, you paste it inside of Claude, and you also need to insert your script from Solo. So, click
+copy, and insert that script. Space it here. Now, Claude will give you 50 different image prompts that you can
+copy and paste one by one. Step number six is to now turn those prompts into images. Now, you can do that with
+any image model you choose. I'm going to go with Solo AX image generator, because Solo AX 4 just launched,
+where I can just paste in my prompts here, and select image size to be a landscape, 16 by 9, and just press
+generate each time. And here are a couple of images that they made from those prompts from Claude. This is
+everything that I can use. And by the way, if you don't want a yellow dude, you can change the colors to
+whatever you wish. Just change that in the prompt. All right, for the next step, we're going to need to
+generate a voiceover. So, we need someone to reading this Claude video. Well, we're going to copy our script
+and we will simply head over to AI Voice Studio on the left-hand side and then select voiceover. And there
+you're going to find 9 and 1/2 thousand different voices that you can pick and choose from. You can filter by
+genders, by ages, and of course, languages as well. And once you pick the one that you really like, you can
+just paste your script here and generate. Next step, we just have to put everything together inside of CapCut
+or any other video editing tool of your choice. I use this one because it's free and the paid plan is only
+five bucks a month. So, we will simply add our scenes and add the voiceover. Now, if you'd like some fancy
+animation, you can also do that here inside of CapCut. You can play around with it. Moreover, one cool hack is
+to open up canva.com, then open up custom size, and then select 1920 by 1080 px. Let's say I have this image.
+I'll change the background color to match the image. I can just remove the background for this guy. Click on
+animate and I can use this rise animation, for example, and then click share download as an MP4 file. And now
+this first scene, at least, is going to be animated. And I can do the same for every single scene, of course.
+That's honestly the most boring part, which I just outsource to a freelancer from Fiverr, which is $25 a
+video. Then I move on to the next step, which in my opinion is the most fun step, and that is to create a
+thumbnail for this video. I do that also inside of Solo. There is the image generator, Solo AX. Again, uh here
+I can just describe the thumbnail I'm looking to create. What I've actually done is I just copied the link to
+this YouTube video that I like and then I go to YouTube thumbnail grabber and then I paste that link here, get
+the thumbnail, so I just download it to my device, and then I ask Claude to create a JSON prompt that would
+allow me to recreate this exact style of YouTube thumbnail, and then you just describe the details of what
+you're looking for. And then it gives you this JSON prompt and then you can just copy and paste it inside of
+Solo A image generator and then you just get the thumbnail specifically for the problem that your video is
+solving. In my case, that's going to be back pain and this is pretty sick. All right, next up we're going to
+use this prompt to create a guide that's going to solve a problem in our niche that we can then sell for $9,
+$20, $30. For example, I saw this faceless AI channel that started out very recently. They have 700,000 views
+a video sometimes and they're selling a $17 ebook from this YouTube channel and that's a genius because we can
+essentially just take this prompt. We can go to Claude, paste in this prompt right over here and just describe
+our niche. So the problem here is back pain. My target buyer time frame is going to be 30 days and this is not
+about pain killers or surgery and the format is going to be PDF guide. Boom, just like that I'm going to have
+Claude do the research and then create this full step-by-step guide that solves a problem for my target avatar
+that is already watching these videos to solve that problem and now we just go much deeper with this guide.
+Now we can upload that guide to Gumroad.com. This is a good one because it's completely free to sell digital
+products here and it's what I've used to so far make around 4 grand. Uh let it just load, but I have about 600
+withdrawals and 4,000 earned. There's also Lemon Squeezy. This one is if you're really scaling and now I'm
+mainly using School to sell my digital products. For example, I I my main community here where I help people
+build their faceless channels with AI. Or you can find something to promote as an affiliate, you don't even
+have to create the product, but you just sign up as an affiliate, grab a link, and then you just paste it
+below your videos in the description. For example, this tool has two-tier affiliate commission, and
+commissions are for a lifetime. So, whoever signs up, so basically make money every single month for them as
+long as they are on this platform. Again, none of this was overnight. I have channels that have failed. I have
+products that have failed, but that's how I'm using Claude AI to clone pretty much any channel. It doesn't
+have to be the yellow dude. There's over a thousand faceless channels that are successful and thousands of
+other niches that haven't even been started yet because people are just focusing on the same stuff. But,
+there's plenty of boring niches where the potential is tens of thousands of dollars a month if done correctly.
+Claude as a tool just makes things easier and faster. Look, I'm not telling you to go and make AI slop the
+traditional way because that's annoying to everyone, and it also gets demonetized right away. This is never
+going to work. I'm telling you to use AI the same way that we used it in this video to create something that's
+valuable and unique. For example, this channel over here is using AI, and everyone knows that, but they're
+blowing up just from their two uploads. They've already gotten their channel monetized. They're selling
+products and making 13 grand a month just from two videos because they actually put effort. Yes, they used AI,
+but they made something that's valuable, and people are saying that this is one of the only videos that it
+used AI purely for education, not for brain rot. People love that. So, there is definitely a good way to use
+AI to provide value to this platform and get rewarded for it. And if you want to see how to get more views
+from your YouTube channel, then make sure to watch this video next on this same YouTube channel from this same
+guy.

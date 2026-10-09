@@ -1,0 +1,17 @@
+Title: comment Upload and I’ll send you my install guide #claude #claudeai #aiforbeginners #aitools #aitips
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 5gm5FHzqpOg
+URL: https://www.youtube.com/watch?v=5gm5FHzqpOg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:56:57+00:00
+
+Kind: captions Language: en You don't need cloud code to install skills. Every one of those skill repos on
+GitHub says cloud code. So most people actually just scroll straight thinking it's a new developer thing. It
+really is it. Also the normal cloud cloud app takes them, the free one. The one literally right now in your
+browser. All you have to do is you go into settings, then customize, then skills, hit the plus, choose upload
+a skill and give it the zip from whatever repo you found. That's the whole thing and that's it. One thing
+catches everyone out. You have to turn code execution on first or the upload won't just work. Then it sits in
+your skill list with a toggle. And I do want to mention again it's literally on every plat. If you're a little
+bit confused on how to do it, you follow me and comment GitHub and I'll DM you the instructions.

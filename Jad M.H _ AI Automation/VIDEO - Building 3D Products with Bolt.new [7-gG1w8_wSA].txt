@@ -1,0 +1,38 @@
+Title: Building 3D Products with Bolt.new
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 7-gG1w8_wSA
+URL: https://www.youtube.com/watch?v=7-gG1w8_wSA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:28:13+00:00
+
+Kind: captions Language: en everyone that is into AI who I know keeps talking about bolt. new bolt. new bolt
+new bt. bt. bolt. new bolt. new I want to see if it lives up to the hype today I will use bolt. new and try to
+create a 3D module product and see how far we can push this platform for those who are not familiar with Balon
+uh I've made a series videos of how to build an app from scratch and deploy it all also I showed in my
+previous video how to connect a database into your automation or your CR I really recommend watching my
+previous videos if you haven't watched them now here I showed a snippet of how I built 3D products on Balon
+with no coding experience whatsoever it's pretty simple what I will do here is simply start from scratch and
+we're simply going to go back and start our prompt I want to build an e-commerce app that sells computers I
+really want to build like an app that looks like gym shark I really like their design but this app should be
+for Ecommerce like computers uh iPhones Etc and I want to call this app Tech proo a cool feature about bald do
+is the fact fact that we're able to see live action of the app being coded okay so far it looks really good uh
+in one single prompt barely was a prompt I wrote only like three lines and it was able to create for me this
+app where like I believe now creating apps will be complete different game especially with these type of
+platforms let's try not to waste too much time and go to actually find a 3D module product and add it into our
+website please is going to go to epic games 3D module products for free so we can use it today here I'll
+simply go to 3D module but we don't necessarily to go for that we can go to Price lows first 3D modules and
+electronics let's go laptop okay there it is okay I kind of like this one and this one was this one is a good
+one it's the same one as I had in my previous video so I just go personal it's free you download it you're
+going to get this popup make sure not to install the first one or the second one make sure you install the glb
+the third one once you have it downloaded you go back to Bal on you at the top right you can see open in stack
+Blitz you click on it and make sure you close bolt. new here we're going to create a new folder and this
+folder we're going to name it assets make sure to remember that and we're going to go back to the 3D module of
+what we installed and we're going to drag it into in the assets folder you have this pop up it's all right
+just press on Save now that everything looks good we're just going to open bolt at the top left here it's
+automatically seeing that there is a new file or if sometimes it doesn't detect it you can just simply type it
+and say hey in assets you can find a 3D module okay this is great um it was able to put the laptop now what we
+should do is try to make this app look good so I'll skip forward into the [Music] video Here's the final
+result I appreciate you guys watching my video uh to the end if you guys need any help whatsoever with b.u
+feel free to reach me into the comment section or send me a message on LinkedIn I'll see you on the next one

@@ -1,0 +1,17 @@
+Title: Comment **SEVENX** and I’ll send it over.#ClaudeCode #AI #AIAgents #Coding #Anthropic
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: lHtarvP89RQ
+URL: https://www.youtube.com/watch?v=lHtarvP89RQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:09:55+00:00
+
+Kind: captions Language: en InfraOps just added four rules to their docs for cutting your cloud code bill. If
+you're running agent teams, you're paying about seven times more than a normal session because you're not
+running one cloud code, you're running four, each [music] with its own bill. First, use Stone it for the
+actual ones. It handles the coordination and costs way less than Opus. Keep the team small. Going from three
+[music] to six doubles what you're paying. Keep your starting prompts short. Each one already loads your
+cloudcode.md, your NTP server, and your skills. Everything you add on is on top. And finally, I really
+recommend shutting them down once they're done. One sitting is still charging you until it exits. So, if you
+want the doc that Cloud made, just follow me and comment seven. I'll send it to you.

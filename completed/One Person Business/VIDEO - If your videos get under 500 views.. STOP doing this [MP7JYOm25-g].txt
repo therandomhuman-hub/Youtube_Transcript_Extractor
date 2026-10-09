@@ -1,0 +1,132 @@
+Title: If your videos get under 500 views.. STOP doing this
+Channel: One Person Business
+Type: VIDEO
+Video ID: MP7JYOm25-g
+URL: https://www.youtube.com/watch?v=MP7JYOm25-g
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:04:46+00:00
+
+Kind: captions Language: en Look, your videos are not bad. I need you to understand that first because I've
+looked at hundreds of channels who are stuck at under 500 views per video and almost none of them had a
+problem with quality. I mean, the videos were actually pretty decent, but they're still getting no views. And
+the problem is usually not what you think it is. I mean, I spent more than a decade building YouTube channels,
+channels with millions of subscribers and hundreds of millions of views. And I even started a channel 47 days
+ago that already got 40 million views. And I've made almost every single mistake I'm about to show you in this
+video. So, I know what it actually looks like when a channel is stuck and why, and it's almost never the
+reason people assume. So, there are nine specific things I see creators doing that are quietly killing their
+channels and keeping them stuck at under 500 views. Some of these you might have heard before, but I promise
+that at least a few of these are the things that you have never thought about before, and those are the things
+that might be hurting your channel the most. All right, so number one, take a look at these videos. All of
+them are outliers. Some of them even first uploads on new channels that had zero subscribers. So, what do
+these four videos have in common? Can you guess? Every single title is specific and it talks to the right
+audience. And that's exactly why YouTube pushed these videos to a lot of people. Because when a title is that
+specific, YouTube can immediately figure out who to show this video to. It doesn't even have to guess. It just
+finds the right people, shows it to them, and that audience feels like you're reading their mind, like you're
+directly speaking to them. The mistake most small creators make is the opposite of this. They write titles
+that try to appeal to as many people as possible thinking that's how you get more views. But what actually
+happens is YouTube doesn't know who to send your videos to, so it starts guessing, throws your video to random
+people, most of them don't click, and then YouTube looks at that low click-through rate and basically stops
+pushing the video altogether. So, before your next video, just think about whether your video calls out a
+specific avatar. That's why, for example, this finance channel struggles to get views because, I mean look at
+the titles, they're very vague. While this finance channel is flourishing because I mean look at the titles,
+they're very specific and they even just speak about Aussie Finance instead of broad. All right, number two.
+You only get two things to convince people to click and those are your title and your thumbnail. And most
+creators waste space by repeating what's already in the title in their thumbnail as well. Your thumbnail is
+supposed to say something or show something that I otherwise wasn't said in the title. So it complements it.
+And the reason people click comes down to these three things: desire, they either want something that that
+video is promising, fear, they're worried about something and this looks relevant, or curiosity, something
+feels unresolved and they need to close that loop. So every click on YouTube is one of these three. So your
+thumbnail text needs to be doing one of those three jobs and ideally it's doing a different one than your
+title is already doing. You can copy this prompt and paste it into Claude for your next YouTube thumbnail. All
+right, number three. You might not be using all of the tools that are your disposal. You see, YouTube actually
+has this new AI tool built inside of the studio itself and it's completely free. So you can just log into your
+YouTube studio and you can click here. It's called Ask Studio. And a really cool thing is because it's built
+in by YouTube, it has data to your videos and data to other videos that are outside of your channel. So
+channels that are your competitors. So what you can do is you can ask it to suggest new video ideas. In fact,
+the one that is one out of 10 right here is an idea that I got from Ask Studio. Literally asked it for an idea
+and it gave me this one and it performed incredibly well because YouTube has access to the data. And again,
+this is completely free. Now I don't recommend grabbing these titles that YouTube recommends because they are
+AI and this would not work. I like the ideas but I don't like the titles. The titles is something that you
+would do manually. Now besides that, you can select a plus icon right here. You can select a specific video
+and you can ask it to analyze it. For example, if I had a video that flopped, I can just ask it, "How can I
+get more views next time?" And it's analyzing that specific video. It's reading the comments. It's looking at
+my retention graph and the entire performance of the video. And now it gives me all the data that I should be
+interested in. I can also ask it to analyze my comments and tell me what I should address in my future videos.
+All right, number four, YouTube is now using Google Gemini to analyze videos and read your transcripts as soon
+as you upload them to YouTube. So, as soon as you upload a video, it knows exactly what the video is about.
+And if your script is basically saying the same things as other five videos already on that topic, YouTube has
+no reason to push your video to new people. I mean, why would that? That information already exists on
+YouTube. That's why copying big channels and subjects that have already been covered a thousand times is never
+going to work for brand new and small channels. One of the ways to handle this is before you start writing
+your script, just look at five videos that were already on the same subject. See what they're speaking about
+and then just try to say something different in your videos. Either challenge that, add something new to that,
+add a new perspective or a fresh angle. You can also read through their comments to see what people are saying
+and then just mention that in your videos. So, what you can do is you can go to five videos from your
+competitors, go to their description and click on transcript and copy everything, attach these transcripts to
+Claude and paste this prompt right here and this is going to give you everything you need to make your content
+stand out. Number five, you can run analytics diagnosis. So, this is how to read your analytics like a pro.
+The first metric is CTR or click-through rate and these are the benchmarks. If you get 2 to 4% that's terrible
+and you need to fix it immediately. And you can check your click-through rate in the studio itself. When you
+open up analytics, simply go to reach and then look at the impressions. So, mine here are 7.4%. Yesterday was
+slightly higher. So, looking at benchmarks, that's average to good. You can improve this by testing new
+thumbnails and new titles if your CTR is very low. Next up you have average view duration. The benchmarks are
+if you're getting 10 to 20%, that's a little bit weak content and that needs to be improved and that is also
+something that you can find in the YouTube studio. Simply go all the way down and you will see average
+percentage viewed and you can also see where people are skipping and clicking off and that is also the
+audience retention graph. If there is a big drop in the first 30 seconds, that means that the hook was very
+weak and you need to improve your intro. And to get my framework for free, you can go to my free community, go
+to the classroom, go to AI systems right here, go to all you need as a solo founder and there you're going to
+scroll down and click on viral script structure and that's going to give you everything you need to optimize
+your scripts the right way. You can just copy paste it into any AI tool you're using or just read it manually
+yourself. Then we also have traffic sources. This just helps you figure out what the algorithm loves from your
+videos. And then we have subscriber conversion. So every week at the end of every week, you can just run this
+audit. Next up is the thing I call topic chaos. And this is actually not quite obvious when you look at most
+channels because obviously we all know that we have to pick one niche and stick to one subject. But what most
+people don't know is that you can still have topic chaos within one niche. For example, someone starts in a
+travel niche and on the surface that looks perfectly fine. But when you actually look closer, topics are all
+over the place. One video is about Europe, one video is about America, then Asia, then natural wonders, et
+cetera. Now imagine how the algorithm sees that. Someone watches your video about places to visit in Europe,
+but they might not necessarily be interested in places to visit in America. And because this Europe backpacker
+is not interested in these other subjects, that kills your CTR and overall kills your performance of the
+channel. Here's another example of a channel that didn't work out because they have topic chaos within the
+health niche. They talk a little bit about Ozempic and losing weight, then a little bit about swollen ankles,
+and then a little bit about why we wake up at 3:00 a.m. So, someone that is trying to lose weight is probably
+not interested in most of these other subjects. So, instead, you want to pick one clear viewer profile and
+make multiple videos for that exact same person. For example, instead of broader travel, you can do Europe
+travel only, or trip travel in Europe, or hidden villages in Europe, or best cities in Europe. Now, every new
+video attracts the same type of viewer within this cluster. All right, next one. This is a new part of this
+algorithm change that happened in March 2026. So, YouTube doesn't look at your videos individually anymore. It
+looks at your channel as a whole. So, if you have five to 10 videos sitting there with better retention, bad
+click-through rate, and overall bad performance, those videos are pulling the average score down, and your
+channel is not being pushed. That means that every new video starts at a lower baseline. I mean, if you went
+to a restaurant and the last three things you ordered were bad, you're not going to be very excited about the
+next one. And that's kind of how YouTube algorithm now treats your channel history. So, what I actually
+recommend doing is going back to your old videos and just unlisting videos that have performed incredibly bad.
+Like the ones with terrible retention, the ones that nobody is clicking on. You don't have to delete them
+entirely, just unlist them and keep them on the channel, but no one else can see them. Next up, you see, most
+of us, when starting to write scripts, we structure our videos the way that we would structure essays in
+school. Like you introduce a topic, you build up the main subject, and then you just deliver the good stuff at
+the end. But, that doesn't actually work on YouTube, especially not in 2026. As YouTube viewers are not going
+to wait. If the first point you made after the intro is something that they already know and it is generic,
+they're most likely going to leave right away. Not because the rest of the video is bad necessarily, but
+because they feel like they have already heard this a thousand times. But, I also wouldn't lead with the best
+point either, but instead, I would start with the middle. So, you lead with your second best point first. The
+reason is that the human brain runs on patterns. If the first thing someone hears is really good and the
+second thing is even better, their brain registers that as an upward pattern and they feel compelled to stay
+because they expect it to keep going up. But if you open up with your best point and the second one seems
+slightly less interesting and the one after that is even less interesting, they subconsciously feel like the
+value is declining, so they are encouraged to leave. And I noticed that on my channel as well. The videos
+where I accidentally put a vague point first had way worse retention curves, even if the rest of the video is
+really good. Well, on the other side, when my best points came second and third, it exploded. All right, next
+up, this one is the one that most people don't really even think about, but it could be one of the main
+reasons why your videos keep getting stuck in under 500 views. So, YouTube has to decide whether you're a real
+human or whether you're just another spam account that is going to flood the platform with AI slop. So, before
+it decides to push your videos to a lot of people, it wants to see that you are a real human. So, what I do
+every time before I start a channel is I spend a couple of days acting like a human on that account. What that
+means is I start watching a couple of videos from that account. I start engaging naturally. Heck, if you're
+really serious about this, I even recommend buying YouTube Premium, which is a couple of bucks a month, but no
+AI farm is going to do that. So, when all of that trust is established, YouTube algorithm is far more likely
+to push your content to a wider audience as you've proven that you're not a bot, you're not a robot. So, if
+you want to see how I blew up my channel in the first 47 days of starting, then make sure to watch this video
+next. I explain everything step-by-step.

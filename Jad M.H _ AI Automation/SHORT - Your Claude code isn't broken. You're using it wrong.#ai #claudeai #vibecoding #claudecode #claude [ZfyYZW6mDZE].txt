@@ -1,0 +1,22 @@
+Title: Your Claude code isn't broken. You're using it wrong.#ai #claudeai #vibecoding #claudecode #claude
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: ZfyYZW6mDZE
+URL: https://www.youtube.com/watch?v=ZfyYZW6mDZE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T21:05:38+00:00
+
+Kind: captions Language: en Okay, let me save you some time. If your Claude code keeps doing dumb this is
+exactly the right video for you. You're keeping it in the same session way too long. The more context Claude
+holds, the worse it actually gets. It starts forgetting what you told it, hallucination, files don't exist
+anymore, and quietly breaking the things that you've already worked on. Everyone thinks longer context window
+equals smarter AI because you have an entire chat in one place. It's the opposite. Past a certain point,
+Claude's accuracy drops a cliff. Anthropic own research shows performance tanks once you stuff too much in.
+The fix is really simple. Keep the context low, split the work into small focused sessions. One session, one
+job. When the task is done, you close it and start fresh. I really recommend for you to go and create a
+project every time that you have something to do separately. So, Claude has the knowledge base, it goes only
+from project based. If you don't know exactly how to do it, I built a system that forces Claude to offload
+memory between sessions, so it never overloads, tasks stay tight, output stays clean, and it stops making a
+mess of your code base. Comment code base and I'll DM you the full setup. And if you like this video, please
+uh leave a like and a comment and I'll see you on the next one.

@@ -1,0 +1,1253 @@
+Title: How to win the new YouTube in 2026
+Channel: One Person Business
+Type: VIDEO
+Video ID: I6ih0qcvXB0
+URL: https://www.youtube.com/watch?v=I6ih0qcvXB0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T17:49:34+00:00
+
+Kind: captions Language: en I've been doing YouTube since 2011 and since then I started 33 different YouTube
+channels from zero. Some have failed and some have gotten millions of subscribers and made me millions of
+dollars. I also invest in YouTube creators through my venture capital. So I have access to data that literally
+no one else has. And I regularly speak to thousands of creators who are in my community. And to this day I
+keep starting new channels, some of which end up getting over a 100,000 subscribers in the first 30 days of
+starting. So today I want to share with you all of my best advice on how to beat this new YouTube algorithm
+and of course how to actually beat the new YouTube game in 2026 and beyond. First of all, if you have multiple
+interests, start multiple channels. A few years ago, I would have told you that that was a terrible idea. And
+back then, I was 100% right. Because back then making videos was not just slow and painful, but the YouTube
+algorithm worked in a way where if you didn't have subscribers, you wouldn't get the views. But that has
+completely changed with AI. And with this new algorithm, if you use AI tools the right way, you can make
+better videos much faster and cheaper than before. Like literally, sometimes it takes me less than 20 minutes
+to make one video that ends up getting millions of views on a niche that I have zero knowledge about. But I'm
+not even experiencing any of the subjects when I make videos on those channels, on those faceless channels.
+But secondly, this new algorithm really favors small and brand new accounts as well. And you don't need a lot
+of subscribers. Like this guy literally just made this YouTube channel. July 1st, he joins YouTube. July 2nd,
+he posts a video that gets 250,000 views. Faceless video. And this is happening with big personal brand
+channels as well. For example, Ali Abdal, who was a massive YouTuber with like 6 million subscribers, now
+barely gets 30,000 views. We can see his subscribers and views declining every single month. Immangaji as
+well, his views are really declining like crazy. And then you have these brand new channels that get millions
+of views in their first uploads, while the channels with 44 million subscribers are stuck at like 5 to 10k
+views. So, you no longer need subscribers. But the biggest reason is you learn way faster with more channels
+because you get to borrow what works from one and drop it into the others. I mean, it's kind of like how Elon
+runs his companies. Whatever he figures out over at SpaceX, he carries over to Tesla and whatever he learns
+there goes back the other way. So each company keeps leveling up of the other ones and your channel can work
+the exact same way. I mean, I know that there are some channels that I start and I post really good videos
+with good packaging, but they just don't go anywhere. And then I take the same uploads, the same video files
+on a brand new channel with zero subscribers with slightly different packaging and then it suddenly takes off.
+So more channels, more data, more shots. The second one ties right into that and that is to make your videos
+stupid simple to produce. Take a look at this YouTube channel. Their first upload got a million views, and
+it's just this very simple whiteboard style of animation, like handdrawn animation, but this is all just AI. I
+made a step-by-step tutorial explaining why this actually works so well and how to make these videos step by
+step. But the thing is consistency is the thing that actually wins on YouTube and you just can't be consistent
+in every video requires you a lot of time to create. I had a client who had a channel where it took her 20
+days to make one single video because she wanted this complex editing and complex visuals. And sure, her stuff
+was good, but it was not sustainable. after two uploads, she said she's going to quit because there's no way
+she's going to sustain making a video for 20 days. So, we just sat down, ripped her whole process apart, and
+made it a lot more simple. And once we did that, it now takes her less than 20 minutes to make a single video
+that gets a lot more views because your viewers don't care how you made the videos as long as they provide
+value and your viewer can get something out of it. You don't need crazy animations or tens of hours of editing
+to give someone value. I've noticed this with my own personal brand channels as well. A channel where I just
+speak into the camera and there's no editing, no animations gets like 30 to 20,000 views. Even though I just
+started it account, I barely have any subs. Compared to this one where we have crazy thumbnails and crazy
+animation and I'm sitting in a studio where we get like 4 to 5k views. That's because I would assume that no
+one really cares about editing and transitions and animations unless they are getting value out of the video.
+And remember, this is a long game. The person who puts out a simple video every week for a year will always
+beat the person who burns out of a three fancy ones every single time. Simple scales, fancy fails. Next one is
+also quite boring but really important. If you're using AI to write your scripts, no matter what AI tool
+you're using, it will in most of the cases confidently tell you things that are just not true. And if you post
+a video on YouTube with full madeup facts, funnily enough, their AI, Google Gemini, will analyze the script
+and if it notices that you are spreading misinformation, they will limit your reach. They will not allow you
+to get tons of views because they don't want to spread misinformation. Therefore, you can either manually fact
+check your scripts or you can use this prompt right over here, which in a second I'm going to show you where
+to get for free. But you're going to copy this prompt. You're just going to go to claw, paste it, and then
+just paste your script at the bottom. So, we're essentially telling claw to use its strongest model, which is
+at the moment OPUS 4.8. Make sure that one is selected. It's for complex tasks, and it's going to take about 5
+minutes to research this properly, and it's either just going to rewrite the script for you or tell you which
+stuff is unconfirmed, which is not accurate, and then you just change those parts. You can get this free
+prompt and many others inside of my furry community when you go to the classroom and then go to AI systems.
+Number four, use this free tool to find high-profit niches. I just want to say I'm not sponsored by this tool.
+I don't have an affiliate link. The reason I'm showing it is because at the moment it is completely free to
+use and it's going to allow you to find new niches and faceless channels for free with clo. It's this thing
+called nexlev.io/mcp. When you go to this part of the website, you can scroll a little bit down and you can
+find the link right over here. If you are using clo or treasure, just copy that. Go into your clo account.
+Click on the plus icon. Then simply go to connectors, add connector, add a custom connector. Then paste that
+link in this box. The link is right here. And then just call it next Lev. And then just click add. Now you
+can, for example, ask it to find 10 channels that started less than 60 days ago and already have 500,000 total
+views. And it's just going to tell you the channels and it's going to tell you their stats as well, including
+the RPM or how much they're potentially making every month. And at the moment, you can do this for free. But
+obviously they're they're probably going to try and upsell you different things. So you don't have to pay for
+anything and you shouldn't use it only while it's free. If it's no longer free by the time you're watching
+this video, here's what you can do. You can ask cloth with any account with no other AI tools to find some
+channel topics that you can cover that would attract an audience that can watch 25minute long videos, audience
+primarily western and ideally people that are 40 and older. And then once it gives you some ideas, you can
+copy those keywords. You can paste them into the YouTube search bar. Then click on filter upload date this
+month. And or you can also optionally prioritize by popularity. And this is just going to show you the most
+popular videos on that subject in the last 30 days. And you can just take out those obvious because for
+example, this channel over here only has 18K subscribers, but in the first two weeks, they got 53,000 views.
+So perhaps that's a topic that's really hot right now in that niche. So, this allows you to research niches
+and channels and video ideas for free. Number five is to stop hunting for the perfect niche. This is a
+question that I get a lot and it is like, how do I find the perfect niche that I know will get views and make
+me money? And the honest answer is that that niche usually doesn't exist because if a niche has low
+competition, it's normally low competition for a reason, which is that there is no real money or demand
+sitting there. But what I can tell you is that this is my holy trinity of high-profit niches. Basically,
+anything that allows you to make long videos, attract a western audience above the age of 40. That way, you're
+maximizing your revenue per view because those people are more likely to spend money on YouTube. Next up, I
+wouldn't rely just on that revenue, but I would sell digital products. There are a lot of Facebook channels.
+This is not a real person, by the way. This is an AI avatar that sell PDF guides and digital products right
+now. And most of my Facebook channels make five times more money from digital products than they do from ad
+revenue. Because if you think about it, the reason you're even earning money from ads is because someone is
+spending money to show ads to your audience. And then YouTube is just splitting that ad revenue with you
+almost 50/50. So when you make $10,000 in ad revenue, that means that someone spent at least $20,000 to show
+ads on your channel. And the reason they spend that much is because they probably made more by selling
+something to your audience. And so that's why we are seeing more and more Facebook channels that just do that
+directly. They just sell different things with their channels. Even though most of it looks like AI slop, but
+still works very well. All right, next up we're going to talk about how to fix the zero views problem because
+I know a lot of you are stuck on this. You're not getting enough views. And the first thing we want to do is
+we don't want to look at the view count. We actually just want to look at impressions. So you're going to open
+up your YouTube studio. You're going to go to one of the videos that you've posted. You're going to go to the
+analytics and then click on reach. And that's going to show you the impressions. If you are getting
+impressions but you're not getting any clicks and your clickthrough rate is below 5% that means that you
+immediately have to change title or thumbnail or both. If you are seeing impressions here, YouTube algorithm
+is trying to get you views but you didn't do a good job at packaging your video and no one is clicking. But if
+you are getting almost no impressions at all, that means that YouTube likely doesn't know yet who to show your
+videos to. And this can be the reason that perhaps you just started your YouTube channel and you only have a
+couple of videos, so it takes a little bit of time for the algorithm to figure out who to even push these
+videos to, or you're just making one of the 11 mistakes that I spoke about in my last video on this exact same
+channel. Either way, one of the cool fixes now, if you are using solo AI, you can go to YouTube Performance
+Analyzer. You can just copy your YouTube link, paste it in this box, click collect video, and right here where
+it asks you for the analytics. Just go to this page, upload at least three different screenshots where you
+show your reach and ideally your retention graph as well. You can also manually confirm your metrics and then
+just click generate diagnosis. And it's going to tell you exactly what's going on, how many views you have
+missed, why you're not getting views. It's going to recommend different titles that you should test, different
+thumbnail fixes, and then at the bottom, it's even going to give you a checklist of things that you should do
+in order to actually revive that video. Number eight, quit the channel that's not working. If you've been
+posting for a while, like you have at least 10 videos on your channel and none of them are getting any
+traction, just let it go. If you don't feel excited about the niche anymore, it. Just let it go. And
+especially if you're not getting any impressions after 10 uploads, it means that YouTube had basically decided
+that it doesn't trust that channel and there's usually no magic button that you have to click on to fix that.
+But if you are getting impressions and you're just not getting clicks, that's a different story. That means
+the channel is alive. You just need to fix something about ideas or packaging. And this is really where
+running multiple channels pays off because again, you are collecting data from different points and you can
+also just give up on a channel that you don't really like anymore. Next up, a lot of you are asking me, "How
+do I even find all of these faceless channels that are blowing up and then I model what's working from them?"
+I'm usually looking at channels that are new but already getting a lot of views. Like a channel with only 5 to
+10 videos, but in total, they got at least 500,000 views. So, I'm hunting for the outliers, the videos that
+are doing way more views than the channel subscriber count because basically that's the algorithm screaming at
+you, telling you that this subject is hot right now. And then I go make videos on the stuff they haven't
+covered yet in the same lane. And especially if you find new faceless channels and you go to their most
+popular videos and videos from about a month ago have a lot more views than they have subscribers. You need to
+model that. Next one is the most boring on the entire list and that's your channel settings. Here's what you
+got to do, especially if this is your brand new channel. You're going to go to channel settings. We're going
+to go to your channel right here, basic info, and then to the keywords, just enter five to 10 keywords that
+are actually related to your channel. If you spam with random keywords not related to their channel just so
+you can try and trick the algorithm to get you views, you will not get the best results. Then go to advanced
+settings, select no, this channel was not made for kids, then go to feature eligibility and make sure all of
+these three are enabled and you've verified your account. Next up, in the upload defaults, if there are some
+default links that you would love to always have in your description, just paste them here and they will stay
+there forever until you remove them, of course, or change them. Then go to advanced settings and make sure to
+unselect automatic chapters in key moments. Then go to community moderation. Then if you see any scams being
+promoted in your comments, block all of those words. If anyone is spamming this is AI, this is an AI voice,
+make sure to put them here. So even when they comment, those comments are just not going to show up. Next up,
+you want to fix your hooks. You basically have less than 15 seconds to convince someone to watch the rest of
+the video. And that's really, really important. And instead of asking AI for generic hooks which are based on
+nothing because Chedd doesn't have access to YouTube data, I've actually compiled a list of hooks from the
+most popular videos on different channels and I made them into frameworks. So these are the first lines of
+videos that are already getting millions of views and I just made a list and you can then adjust this
+framework to your own niche and to your own videos and you have viral proven hooks that work. I've compiled
+this list. It is completely free inside of my free community. When you go to the classroom, go to AI systems,
+click on hooks on the left side, and you'll find a document here. Next up, you need to start AI maxing.
+YouTube is investing billions of dollars in building AI tools for creators. And I mean, their CEO really loves
+AI. I feel like that they're now rewarding channels that do use AI compared to those that do not. And I mean,
+all my monetized faceless channels use AI. YouTube built VO3 for video generation. They built Reimagine AI for
+YouTube shorts. They own Gemini. They're baking AI directly into YouTube Studio and they build Google AI
+Studio for voices. Now, I'm not saying that you should stop making good videos and start pumping AI slope, but
+I'm saying that you should find a way to use AI in your content. Whether it's to use the native AI tool, Ask
+Studio directly in your YouTube studio that summarizes your comments or gives you new video ideas or you use
+Gemini to research your scripts or you use that reimagine AI for your shorts. Whatever it is, you should bake
+a little bit of AI in your content to make it better and faster and cheaper. Honestly, there's no real pride
+in doing everything the hard way just to say you did it yourself. Because while you're refusing to touch any
+of this, creators that are using AI to create content that's again better, faster, and cheaper are going to
+get all the views. And viewers don't really care how you made a video as long as the video is good and
+valuable. There's plenty of ways to use AI the right way that actually make your content better. Next up, you
+want to make every video say something new. this new AI algorithm reads your transcript and tries to figure
+out whether you shared something that everyone already knows and is generic or whether you have something
+that's obscure and novel. Because if you don't bring anything new to the table, there's no reason for the
+YouTube algorithm to show your videos to a wider audience. Why would they? So, I've created this prompt where
+you can say, I'm creating a YouTube video title and then just paste your title. I want this video to feel new
+and not like something people have already heard before. find lesserk known facts, obscure details, surprising
+insights, and just do the research and give me 10 unique points that I can use in this video. And then we
+submit that and then CL does the research and finds these facts so we can share something that people are not
+already sharing. Number 14, use Google Gemini that's baked into your studio. Next time you log in, click on
+this button here to ask studio. And this is where you can ask it to like summarize comments, suggest new video
+ideas. You can even ask it like based on what people are commenting and other channels they're watching, what
+are some of the things I should address in my videos next. So, it's kind of going to feel like you're reading
+your viewers minds. And this is really cool because it's all done automatically for you for free. Like this is
+YouTube building AI tools for creators because they love AI. For example, this is where I saw the point that I
+made in this video about fact checking your scripts. All right. Next, we're going to talk about 11 new things
+that this modern YouTube algorithm hates so that you can avoid them in order to actually get views. First of
+all, the algorithm hates when you try to be original. And no one's going to tell you this because gurus are
+mostly going to tell you that you should be unique and you should make videos on something that no one has
+ever made videos about before. But when you're doing that, you're really gambling. There's no proof of concept
+that that's actually going to perform well or that people even want that. What actually works is stealing. You
+take a title and thumbnail format that's already blowing up in a totally different niche and you just remix it
+for yours. And to be clear, I'm not saying that you should copy the exact same videos, titles, and thumbnails
+for someone else. That's also not going to work. I'm telling you, borrowing what works from somewhere else and
+bringing it somewhere new is what works at the moment. And later, I'm going to give you a 100 viral YouTube
+title frameworks that you can apply to any niche. So, I pulled this from a bunch of different channels that
+are winning right now. I'm going to show you later where to get it for free. But anyways, secondly, the
+algorithm hates bad hooks in the first 10 seconds of your videos. Look, check the retention graph of any of
+your YouTube videos and you'll see that almost 50% of people are out in the first 30 seconds. So, you really
+have less than 15 seconds to grab someone's attention and get them to keep watching the video or else they're
+out. And if you're not sure what hooks to use, I've actually extracted hooks from channels that are blowing
+out right now. I went to their most popular videos and I took the first lines that I used and I turned them
+into frameworks that you can apply to any niche. You can access this document completely free of charge inside
+of my free community. Literally just go to the classroom right here. Go to AI systems. There you're going to
+find a bunch of free style cooks document is right here. Next thing the algorithm hates is living dead videos
+sitting on your channel. Look, if you go to your YouTube studio, you go to analytics, you click on content,
+then you click on videos, then you select lifetime, you'll be able to see your average clickthrough rate and
+average view duration. And bad videos are going to pull your average down. [music] And the worse your average
+clickthrough rate and view duration is, the less the YouTube algorithm will promote your videos because
+obviously overall your channel is not doing well and they want people on the platform longer. And if your
+channel as a whole fails to do that, why would they promote your videos? So, never let the video that flopped
+sit there forever. Again, YouTube now judges your channel as a whole. And when you post something new, it's
+going to look at a catalog of your other videos. And if all the other videos are really bad and are not
+getting clicks, or not getting watch time, you're starting from a very bad position, no matter how good your
+future uploads are. So, if you've got a pile of old videos that got basically no views, they are quietly
+dragging the average down. And therefore, my rule is pretty simple. If you have a video that is older than 14
+days and is still getting basically no views, you can just delete it, remove it from the channel. Next up,
+algorithm hates when you upload longer videos without adding chapters. And the thing is, YouTube can now trade
+each chapter as its own entity in the search result. That single chapter can now show up in search all on its
+own, completely separate from your main video title. So, one video can get a whole bunch of different searches
+pulled together to it because of chapters. And secondly, chapters can also get people to watch longer. I mean,
+a good chapter list kind of previews everything that's coming in the video. So, you can write them in a way
+that builds a little curiosity and makes people want to stick around to get to that part. Now, I know that
+writing good chapters is boring, repetitive, and annoying. So, this is the prompt that I use. You can access
+it for free in the free community. Just copy it from here. Go to clogity, perplexity, whatever AI tool you
+use. Just paste the prompt and then go to your YouTube video, go to the description, click on show transcript
+and then just copy the entire transcript from the right hand side and paste it here. Now this is the prompt
+that gives you SEO timestamps. So these timestamps are going to be full of keywords to help you rank higher in
+the search results both in Google and YouTube. But I also sometimes use the retention timestamps prompt. And
+this is going to make chapter names curiositybased so that they keep people want to keep on watching to open
+up those chapters. They're completely different depending on what sort of videos you make and depending on
+what's your goal. Either way, both of these prompts are going to be inside of my free community. And when you
+get those chapters, all you got to do is copy them and just put them in the description box of your videos.
+Next up, algorithm kind of hates it when you're not using AI. Look, YouTube is investing billions of dollars
+in building AI tools for creators. I mean, their CEO really loves AI, and I feel like that they're now
+rewarding channels that do use AI compared to those that do not. And I mean, all my monetized faces channels
+use AI. YouTube built 3 for video generation. They built Reimagine AI for YouTube shorts. They own Gemini. I
+mean, they're baking AI directly into YouTube Studio. They also built Google AI Studio for voices. Now, I'm
+not saying that you should stop making good videos and start pumping out AI slope, but just find a way to use
+AI in your process. Whether it's to use their native Ask Studio AI tool that now we all have right here where
+you can just ask it to summarize comments for you and give you video ideas and you can discuss your channel
+with this AI tool directly into the YouTube studio. Again, they really love AI. Or you can use Gemini to
+research your scripts or fact check your videos or you can use their AI tools for shorts. Honestly, there's no
+real pride in saying that, "Oh, I didn't use AI. I I did everything myself." Because while you're refusing to
+touch any of this, other creators are using AI to speed up their process, and they end up putting out better
+videos faster and for way less money. And the audience really doesn't care what tools you use to make videos.
+As long as they're good and they're providing value, why would they even care? There's plenty of ways to use
+AI the right way that actually make your content much better, now works. So, refusing to use AI is not doing
+your viewers any favor. Next thing the algorithm hates is when you use AI the wrong way. A lot of people go to
+Tre GPT and similar AI tools and ask it for video ideas with no previous context. But the thing is Tre Claude
+Perplexity, they don't have access to YouTube data and they will confidently tell you things that are not
+true. So never ask AI for random ideas like that. What you want to do instead is feed it a title structure
+that's already proven to get views, something taken straight from a real outlier video that actually blew up,
+and just have it adapt that exact frame, but to your topic. So instead of getting AI to reinvent something
+good from scratch, which is most likely not going to work, you're handing it a skeleton that's already been
+tested in the real world, and it just fills in your version of it. Again, to make things easier for you, I
+have a list of 100 viral title frameworks, and you can find this inside of my Frey community. It's called OPB
+100 viral title frameworks. And then you can just download this as a PDF file. Open up claude drag and drop
+that PDF file and just describe your niche. So I can say I'm making YouTube videos about luxury perfumes and
+watches. I need you to adapt these title skeletons to my niche and don't change the title skeletons. just
+adapt one or three words maximum to make them relate to a channel that speaks about luxury perfumes and other
+videos that speak about luxury watches and then you just submit that. All right, number seven is mostly for
+faceless channels and those that are using AI voices from 11 Labs and similar AI tools. If you are using the
+same voice as thousands of other channels, you will most likely be shadowbanned or your reach will be limited
+because, you know, most people just grab the most popular voice of whatever tool they're using and slap it
+straight onto their videos. But you should really not do that because YouTube can now hear that the same voice
+is on thousands, if not hundreds of thousands of other videos. So, the fix is a little bit boring, but it
+works. And that is to either just clone your own voice or even better, record your own voiceovers. You can do
+that for free because the second your Facebook channel sounds exactly the same as hundreds of other channels,
+then YouTube is going to trade it as yet another copy. Next up, the algorithm hates wasted space. You only get
+two things to convince someone to click on your videos. You have title and thumbnail. That's it. And most
+creators waste space by repeating what's already said in the title and the thumbnail as well. But the
+thumbnail is supposed to add something that the title didn't mention before. The title sets up a question or a
+statement and the thumbnail adds a layer of emotion, urgency, proof or curiosity. So you can copy this prompt
+and paste it into Claude. So let's say for example, I'm going to get this title idea that Claude recommended
+from one of the previous title frameworks that I've submitted. All I got to do is insert that title here and
+it's going to give me title options based on a curiosity gap, fear, warning, desire outcome, display for
+surprise, or social proof and scale. And even more importantly, it's going to be one to three words maximum.
+And then you can just pick one of these. Next up, the algorithm really hates videos that feel like everyone
+else's. I mean, YouTube's AI is now analyzing your transcripts as soon as you upload. And if your script is
+saying the same thing as hundreds of other videos on that same subject, and YouTube has no reason to push you
+to a wider audience. I mean, the same thing has been said a thousand times before. And this is really big
+because a lot of people look, especially in the finance space, they see a bunch of channels that have exploded
+and they want to start the same channel and they just start sharing the same generic stuff as everyone else.
+And that obviously never works. They never get any views. But the way I handle this is before I make a single
+script. I just look at five most popular ways. Like when you copy and paste your title into the search bar and
+you find a couple of videos that have covered the same subtract, you can see what they said in their videos
+and just not say the same thing as them. You can also look at what comments are saying. You can just ask
+yourself, okay, how can I challenge this common advice? If they're talking about X, how can I say zed? So,
+what you can do is you can go to five videos from your competitors, go to their description, then click on
+transcript, then copy everything, attach these transcripts to clude, and paste this prompt right here, and
+this is going to give you everything you need to make your content stand out. Next up, the algorithm hates new
+accounts that post with no warm-up. This one no one really talks about, but this could be the main reason why
+your videos are stuck under 500 views. I mean, YouTube has to decide whether there is a real human creator
+behind that new account that was just made or whether you're just another Farmbot. And before it decides to
+push your videos to a lot of people, it just wants to see whether you're a real human who uses the platform
+like a real person. So, what I do when I start a brand new channel is I spend maximum 3 days just engaging as
+a real human being. I just open up a couple of videos in my niche like engage naturally do that play a couple
+of videos and if you're really serious about that channel then you can invest in YouTube Premium and other
+paid services from Google and YouTube related to that YouTube account as obviously no bot is going to do that
+and I mean that's only a couple of bucks a month but it helps quite a lot. However, I do got to say that that
+doesn't necessarily have to always be the case. There are a bunch of new accounts. For example, this one they
+started 7 days ago. 250,000 views on their first video on the same day that they made this account. Like
+literally joined July 1st. This video uploaded July 2nd. 200,000 views already. Next up is packaging your
+video in a way that either gives away the whole answer before anyone clicks or just repeats itself so much
+there's nothing left to be curious about. I saw a good example of this in the hell space recently. I mean,
+there's a video with a thumbnail that says, "Melt arterial plagues fast." And I mean, here's the reason why it
+fail. I mean, first of all, arterial plagues is just a complicated term for a normal person scrolling past. It
+slows down how fast they understand what they're even looking at. Secondly, the thumbnail kind of gives you
+the whole answer right away without even you watching the video. So, the mystery is gone before you even
+click. And third, the title barely says anything the thumbnail didn't already say, so you're reading the same
+exact idea twice instead of getting a reason to actually click. All right. Next, I'm going to show you that
+you can completely change your life with YouTube in just 30 days. And then I'm going to show you how to do it.
+I started this Faceless channel 30 days ago from absolute zero, like zero views, zero subs, and it got
+monetized in less than a week. And now already makes over $10,000 from ad revenue. And before you say, "Yeah,
+but you've been on YouTube for 15 years, so that's not surprising." Well, in this video, I'm not only going to
+show you my channel, but I'm going to show you 20 other channels that blew up in their first 30 days, all from
+completely different niches. I'm also going to explain what is currently the biggest YouTube opportunity right
+now that everyone is missing and why this is the easiest YouTube will ever be. And then of course I'm going to
+show you how you can change your life with YouTube over the next 30 days. Let's get started. Now, if you've
+been following me for a while, you know I run a bunch of faceless channels. Like for example, this one which
+makes 27 grand a month and I only started it 2 months ago. But as I said, I have a lot of experience. So it's
+not fair to just show my channels. Therefore, before I explain what's actually going on, here's a channel that
+only started 3 weeks ago, and their first video has 300,000 views on a channel that at the time had zero
+subscribers. Now, they have only four uploads. And according to this tool, they're making $12,000 or they made
+$12,000 in the first 3 weeks of starting this channel. It's not even 30 days. So, what the hell is going on?
+Well, the biggest YouTube opportunity right now is that there are two shifts happening in the YouTube
+algorithm that are completely changing how channels will grow on this platform in the future. The first one is
+that Google rolled out Gemini based recommendations inside the YouTube algorithm, which means that brand new
+channels with zero subscribers can now instantly match with the right audience, even if they literally just
+started, which was impossible before. In the past, you really needed to have an audience in order for that
+audience to find your channel. But now the algorithm finds the right audience for you, no matter what niche
+you're in. That's why a 30-day old channel with zero subscribers can outperform a 10-year-old channel with
+millions of subscribers just because the algorithm thinks the topic fits the viewer better. I'm not going to
+talk for my ass here. Here's proof. These guys have been around for a decade and they have 44 million
+subscribers. But if you look at their views, they barely pass 10K views with 44 million subscribers. And then
+a channel with zero subs gets 300,000 views and 100,000 views and a million views. And the second shift is
+that YouTube went through a massive demonetization wave last month where a bunch of channels lost access to
+partner program. So there's less competition for the spots that are left. And the channels that actually put
+real effort into their content are getting more reach than they have in years. This means literally any niche
+can now blow up in less than 30 days. I mean, here's another proof. This is Alex. He is in my community and
+before he joined, he had never made a single YouTube video in his life. Zero experience and his channel blew
+up in the first 30 days of starting. I mean, here's an actual recording of our latest coaching calls. You can
+hear it from the man himself. >> It's active for around the month and I have only 4,000 subscribers. >> We all
+followed your post in the community [music] and and love to see it, man. >> That that's all thanks to you. I I
+started everything connected to YouTube one month ago. >> One month ago. You've never done YouTube before. >>
+Yeah. Yeah. That is my first uh like take on professional YouTube in my life. >> That is incredible, man. >>
+Now, it's not just people in my community. There's plenty of other people that blew up in their first 30 days
+of starting. For example, this YouTube channel over here, they started 30 days ago. Their first video has
+500,000 views. And if you go to their analytics, we can see they made $20,000 in the first 30 days of
+starting. I don't know about you, but that seems like life-changing money in the first month. Here's another
+YouTube channel over here that started just one month ago. And if we go to their analytics, by the way, they
+already have 100,000 subscribers in just one month. That was unheard of just a year ago. 17 grand in the first
+30 days. Another YouTube channel over here started 3 weeks ago. Their second video has 1.4 million views.
+Chloe versus History. This is a very high quality high for the channel, but they have 30 videos in the first
+month of starting. They made I believe over 20 grand from revenue. And then they also have a store where they
+sell products. Now, these are super high quality AI videos. This is not slow. And I would assume that they
+probably spent maybe even $1,000 in credits to make a single video. But if they spend $3,000 on three videos
+and made $20,000 back, that's still some life-changing money. Here's another YouTube channel over here. They
+started one month ago. of their most popular videos have millions of views and in the first 30 days of
+starting they made seven grand. Here's another YouTube channel over here. Their first video, like we literally
+go to their oldest, 2.4 million views, $2.1 million views. That's $8,000 in the first 30 days. Here's another
+YouTube channel over here. They started one month ago and their first video has 400,000 views. That's what I'm
+telling you about this new algorithm. And if they had affiliate links for these products, they would have
+probably made three times more money. I mean, they made $10,000 already from ad revenue, but since they're
+promoting clothes, it makes sense to just link these clothes in the description. And if those were affiliate
+links, they could earn some really decent commissions because the only reason people watch these is because
+they want to buy these products. There's another YouTube channel that just blew up in 1 month of starting.
+Another YouTube channel that blew up with only eight videos and in less than 30 days. Another channel that
+blew up in their first 30 days of starting. Very interesting content. Another YouTube channel that blew up in
+their first 30 days with some really unique style of animation. They're using AI for this. This channel blew
+up in their first two weeks. Literally the first 15 days of starting. This channel blew up in their first 30
+days. We can see the second upload 400,000 views. This guy, Aussie Finance with Luke, makes 5.8,000 a month.
+There's another YouTube channel that just started one month ago. Their first video has 1.8 million views. And
+I actually have a list of over a thousand channels that are making between $5 and $50,000 a month. And most of
+them started 30 to 60 days ago. Plenty of people in my community are getting insane results. For example,
+Chris made $8,000 in 30 days from his channel. We can see that he got monetized on April 7 and from I believe
+April 7 until April 30ish, he made $8,000 in ad revenue. Here's Mahesh. $5.5,000 crossed and 1.2 2 million
+views in 20 days of starting this YouTube channel. If you're in the community, you'll see Mahash on a bunch of
+other live coaching calls that we do every single week. And you can also watch the recordings here. Joy, for
+example, did $31,000 in one month by selling a product on his YouTube channel. And then after that, he
+actually shared a post, an update 18 days ago where he shared that he only has 18,000 subs, but made $230,000
+in 6 months. And he says that perhaps this is a cap. like maybe he just hit the limit, but I don't really
+think so. However, there is a problem and most people will still fail despite all of this. And not because the
+system doesn't work. It clearly works. I literally just showed you proof how YouTube is changing lives in less
+than 30 days of people starting YouTube. But the ones that will fail are the ones that will quit after five
+uploads or they will just pick the wrong niche or they will use the wrong AI tools the wrong way. But if you
+do things correctly at the right time, at the right speed, there is very high chance that posting YouTube
+videos can in fact change your life in 30 days the same way it did for thousands of people over the last few
+months. Okay, seeing all of these people get results is great. But how do you change your life with YouTube?
+First of all, if you want to do it yourself, I have an absolutely free community with 93,000 members inside
+where you can go to the classroom and you'll find a bunch of free resources to the left. The most are going to
+be inside of AI systems classroom. There you're going to find a bunch of these templates to use. You can
+literally open it up and that gives you these notion documents with all the prompts you can copy and paste to
+store these faceless channels. I also left some as an example. There you're going to find a bunch of free text
+guides and free tools that I left checklists and prompts all for free. But if you want to speed up the process
+like the people in my community like Sebastian that's doing 40 grand a month, like Owen that's doing 21 grand
+a month, Esther that's getting digital product sales, people getting monetized very very fast, then you can
+check out my second paid community which has over 60 hours of step-by-step video training where I explain the
+entire process in multiple step-by-step courses, but you're also going to see other people who went through
+the same program, got results, and then they shared their channels and how they did it as well. so you can
+model what's already working for real people. We also have these $1,000 games. There's five different games to
+complete every single month and it resets every single month as well. I also do live video coaching calls so
+you can ask me questions. I can review your channel and actually help you move faster. For example, in the
+last call, we spoke about how to increase your views and how to beat this new algorithm. You can also watch
+all the past coaching call recordings in the classroom as well. And it's not just me. There's multiple coaches
+that you can speak to every single month, all for a very small onetime fee. You get lifetime access to all of
+this and all the future updates, including all the specialized AI tools that you get completely free of charge
+when you're inside of this community. Now, before you close this video and think you're going to get $100,000
+in the first 30 days of starting, I need to give you some reality check. Most of these are outlier results. I
+literally picked out results. There are plenty of channels that didn't get to this point in their first 30
+days of starting. For every Alex, Chris, Mahesh, and Joy I showed you, there were people in the same community
+who took 60 days, 90 days, some took 6 months before their first video ever popped. And most channels don't
+blow up in their first 30 days. This was just a video about proving that YouTube can in fact change your life
+in 30 days. But that doesn't mean that anyone that starts a YouTube channel will get those results in their
+first 30 days. I've personally launched channels that completely flopped things that I really believed were
+good ideas, got no nowhere, got no results, no views. But if you upload consistently for 30 days, you pick a
+niche with real demand, you model what's already working, and actually look at your analytics between uploads,
+you'll be ahead of 95% of people who try this. Whether you hit it in four weeks or 14 weeks, depends on the
+niche, the execution, and honestly, a little bit of luck as well. Unlimited lottery tickets, and you just have
+to keep scratching. All right, next I'm going to show you what to actually do in order to get views,
+especially if you're stuck under 500 views a video. All right, so number one, take a look at these videos. All
+of them are outliers. Some of them even first uploads on new channels that had zero subscribers. So what do
+these four videos have in common? Can you guess? Every single title is specific and it talks to the right
+audience. And that's exactly why YouTube pushed these videos to a lot of people. Because when a title is that
+specific, YouTube can immediately figure out who to show this video to. It doesn't even have to guess. It just
+finds the right people, shows it through them, and that audience feels like you're reading their mind, like
+you're directly speaking to them. The mistake most small creators make is the opposite of this. They write
+titles that try to appeal to as many people as possible, thinking that's how you get more views. But what
+actually happens is YouTube doesn't know who to send your videos to. So, it starts guessing, throws your video
+random people. most of them don't click and then YouTube looks at that low clickthrough rate and basically
+stops pushing the video altogether. So before your next video just think about whether your video calls out a
+specific avatar. That's why for example this finance channel struggles to get views because I mean look at the
+titles they're very vague while this finance channel is flourishing because I mean look at the titles they're
+very specific and they even just speak about Aussie finance instead of broad. All right, number two. You only
+get two things to convince people to click, and those are your title and your thumbnail. And most creators
+waste space by repeating what's already in the title in their thumbnail as well. Your thumbnail is supposed to
+say something or show something that otherwise wasn't said in the title, so it complements it. And the reason
+people click comes down to these three things. Desire, they either want something that that video is
+promising. Fear, they're worried about something and this looks relevant. or curiosity. Something feels
+unresolved and they need to close that loop. So, every click on YouTube is one of these three. So, your
+thumbnail text needs to be doing one of those three jobs and ideally it's doing a different one than your
+title is already doing. You can copy this prompt and paste it into cloud for your next YouTube thumbnail. All
+right, number three. You might not be using all of the tools that are your disposal. You see, YouTube actually
+has this new AI tool built inside of the studio itself, and it's completely free. So you can just log into
+your YouTube studio and you can click here. It's called Ask Studio. And a really cool thing is because it's
+built in by YouTube, it has data to your videos and data to other videos that are outside of your channel. So
+channels that are your competitors. So what you can do is you can ask it to suggest new video ideas. In fact,
+the one that is one out of 10 right here is an idea that I got from Ask Studio. I literally asked it for an
+idea and it gave me this one and it performed incredibly well because YouTube has access to the data. And
+again, this is completely free. Now, I don't recommend grabbing these titles that YouTube recommends because
+they are AI and this would not work. I like the ideas, but I don't like the titles. The titles is something
+that you would do manually. Now, besides that, you can select the plus icon right here. You're going to select
+a specific video, and you can ask it to analyze it. For example, if I had a video that flopped, I can just ask
+it, how can I get more views next time? And it's analyzing that specific video. It's reading the comments.
+It's looking at my retention graph and the entire performance of the video. and now gives me all the data that
+I should be interested in. I can also ask it to analyze my comments and tell me what I should address in my
+future videos. All right, number four. YouTube is now using Google Gemini to analyze videos and read your
+transcripts as soon as you upload them to YouTube. So, as soon as you upload a video, it knows exactly what
+the video is about. And if your script is basically saying the same things as other five videos already on
+that topic, YouTube has no reason to push your video to new people. I mean, why would that? That information
+already exists on YouTube. That's why coping big channels and subjects that have already been covered a
+thousand times, it's never going to work for brand new and small channels. One of the ways to handle this is
+before you start writing your script, just look at five videos that were already posted on the same subject.
+See what they're speaking about and then just try to say something different in your videos. Either challenge
+that, add something new to that, add a new perspective or a fresh angle. You can also read through their
+comments to see what people are saying and they just mentioned that in your videos. So what you can do is you
+can go to five videos from your competitors, go to their description, then click on transcript, then copy
+everything, attach these transcripts to Claude and paste this prompt right here. And this is going to give you
+everything you need to make your content stand out. Number five, you can run analytics diagnosis. So this is
+how to read your analytics like a pro. The first metric is CTR or clickthrough rate. And these are the
+benchmarks. If you get two to four% that's terrible and you need to fix it immediately and you can check your
+clickthrough rate in the studio itself when you open up analytics simply go to reach and then look at the
+impressions. So mine here are 7.4% yesterday was slightly higher. So looking at benchmarks that's average to
+good. You can improve this by testing new thumbnails and new titles if your CTR is very low. Next up you have
+average view duration. The benchmarks are if you are getting 10 to 20% that's a little bit weak content and
+that needs to be improved and that is also something that you can find in the YouTube studio. Simply go all
+the way down and you will see average percentage viewed and you can also see where people are skipping and
+clicking off and that is also the audience retention graph. If there is a big drop in the first 30 seconds
+that means that the hook was very weak and you need to improve your intro. And to get my framework for free,
+you can go to my free community, go to the classroom, go to AI systems right here. Go to all you need as a
+solo founder. And there you're going to scroll down and click on viral script structure. And that's going to
+give you everything you need to optimize your scripts the right way. You can just copy paste it into any AI
+tool you're using or just read it manually yourself. Then we also have traffic sources. This just helps you
+figure out what the algorithm loves from your videos. And then we have subscriber conversion. So every week at
+the end of every week you can just run this audit. Next up is the thing I call topic chaos. And this is
+actually not quite obvious when you look at most channels because obviously we all know that we have to pick
+one niche and stick to one subject. But what most people don't know is that you can still have topic chaos
+within one niche. For example, someone starts in a travel niche and on the surface that looks perfectly fine.
+But when you actually look closer, topics are all over the place. One video is about Europe, one video is
+about America, then Asia, then natural wonders, etc. Now, imagine how the algorithm sees that. Someone watches
+your video about places to visit in Europe, but they might not necessarily be interested in places to visit in
+America. And because this Euro backpacker is not interested in these other subjects, that kills your CTR and
+overall kills your performance of the channel. Here's another example of a channel that didn't work out
+because they have topic chaos within the health niche. They talk a little bit about ompic and losing weight,
+then a little bit about swollen ankles, then a little bit about why we wake up at 3:00 a.m. So, someone that
+is trying to lose weight is probably not interested in most of these other subjects. So, instead, you want to
+pick one clear viewer profile and make multiple videos for that exact same person. For example, instead of
+broad travel, you can do Europe travel only or trip travel in Europe or hidden villages in Europe or best
+cities in Europe. Now, every new video attracts the same type of viewer within this cluster. All right, next
+one. This is a new part of this algorithm change that happened in March 2026. So, YouTube doesn't look at your
+videos individually anymore. It looks at your channel as a whole. So, if you have 5 to 10 videos sitting there
+with bad retention, bad clickthrough rate, and overall bad performance, those videos are pulling the average
+score down and your channel is not being pushed. That means that every new video starts at a lower baseline. I
+mean, if you went to a restaurant and the last three things you ordered were bad, you're not going to be very
+excited about the next one. And that's kind of how YouTube algorithm now treats your channel history. So, what
+I actually recommend doing is going back to your old videos and just unlisting videos that have performed
+incredibly bad, like the ones with terrible retention, the ones that no one is clicking on. You don't have to
+delete them entirely. Just unlist them and keep them on the channel, but no one else can see them. Next up,
+you see most of us when starting to write scripts, we structure our videos the way that we would structure
+essays in school. Like you introduce a topic, you build up the main subject, and then you just deliver the
+good stuff at the end. But that doesn't actually work on YouTube, especially not in 2026, as YouTube viewers
+are not going to wait. If the first point you made after the intro is something that they already know and it
+is generic, they're most likely going to leave right away. Not because the rest of the video is bad
+necessarily, but because they feel like they have already heard this a thousand times. But I also wouldn't
+lead with the best point either. But instead, I would start with the middle. So you lead with your second best
+point first. The reason is that the human brain runs on patterns. If the first thing someone hears is really
+good and the second thing is even better, their brain registers that as an upward pattern and they feel
+compelled to stay because they expect it to keep going up. But if you open up with your best point and the
+second one seems slightly less interesting and the one after that is even less interesting, they
+subconsciously feel like the value is declining. So they are encouraged to leave. And I noticed that on my
+channel as well. The videos where I accidentally put a vague point first had way worse retention curves, even
+if the rest of the video is really good. While on the other side, when my best points came second and third,
+it exploded. All right, next up. This one is the one that most people don't really even think about, but it
+could be one of the main reasons why your videos keep getting stuck in under 500 views. So, YouTube has to
+decide whether you're a real human or whether you're just another spam account that is going to flood the
+platform with AI slow. So, before it decides to push your videos to a lot of people, it wants to see that you
+are a real human. So, what I do every time before I start a channel is I spend a couple of days acting like a
+human on that account. What that means is I start watching a couple of videos from that account. I start
+engaging naturally. Heck, if you're really serious about this, I even recommend buying YouTube Premium, which
+is a couple of bucks a month. But no AI farm is going to do that. So when all of that trust is established,
+YouTube algorithm is far more likely to push your content to a wider audience as you've proven that you're not
+a bot. You're not a robot. So, the first one is a new feature inside of YouTube Studio called YouTube Shows,
+which allows you to turn your videos into a show that's pretty much just like Netflix. And the reason this is
+a big deal is because YouTube just passed Netflix in watch time and most of that watching is now happening on
+TV. So, YouTube really wants to become this place where everyone is watching full series instead of just one
+video at a time. And you know this is going to be a big thing when they've pushed this shows feature even
+before the shorts. So when you go to your YouTube studio, you see your videos, then shows and only then do you
+see shorts, live posts, etc. All the other things. And whenever YouTube has a new feature that they're trying
+to push as hard as possible. Those that leverage that feature first are the ones that get rewarded the most.
+So how does this work? Well, when you go to shows, you can just click create a new show. Add a title, brief
+description. Then first of all, select visibility visibility to be unlisted just in case. But when you are
+ready, you have to switch it to public so people can view the show. And then you create your artwork the same
+way that you see these sort of banners on Netflix. They're going to be showing on YouTube just like this. And
+you have either non serial show structure or serial. Non- serial is where they can just watch in any order
+they want. And serial is more like Netflix where you have to watch episode 1 2 3 4 etc. in order. It really
+depends on the style of content you are creating. Me personally, I literally just turned one of my playlists
+into a show and I just put all videos related to YouTube growth into this one show which has two seasons for
+no reason. I mean, it's not an actual show. It's just yet another way to get discovered in YouTube. All right,
+next up we have fixing your packaging. And especially with this new AI algorithm, this is way more important
+than anything else because you can have great visuals and great editing, but if nobody's clicking, it doesn't
+matter. Now, making thumbnails manually used to take forever or it also meant paying a designer every single
+time, at least 50 bucks per thumbnail. Now, the tool I use for packaging is one of 10 where you can create
+thumbnails, titles, ideas, and find outliers. So you just click on get started for free and on the left hand
+side you're going to see idea generator, title generator and what we are interested in is a thumbnail
+generator. Now a really cool thing is you can also add either your own channel or competitor channels with one
+press of a button. So for example I found this YouTube channel that just started 2 weeks ago. Their first
+video got 50,000 views and they're now already getting over 100,000 views a video. So it's working very well.
+I can just search for their channel name here and now we can model their style of thumbnails. You can just
+describe your video idea or just paste in the title and then you can select how many variations of thumbnails
+you want and whether you want text or not. You can also add a sketch. You can also add your own face or a
+different background or a reference image. And then once you're done, just click generate and then within
+seconds you get really good thumbnails that are modeled based on what already works on that channel. So this
+is their most popular video and now this is adapted to my video idea which was about castles. And to be fair,
+I actually like this first one the most. Now I can just either download it right away or I can also add some
+changes. So I can click on open and editor and I can describe the changes that I want. So I can just say
+remove the mortgage part and then submit it and it will make the changes for me. You can also find trending
+formats and thumbnail winners on the left side. These are frameworks that have worked in other niches. If you
+want to play around with one of them, I'm going to link it in the description box down below. Number three,
+this is something that for some reason a lot of people are ignoring, but YouTube has this new feature called
+YouTube hype. And it's a feature that allows your viewers to give you points so that you can rank higher. And
+this is actually insane because a lot of you have this turned off by default. You can change it by going to
+settings on the left hand side, then click on channel, then click on advanced settings, then scroll down and
+right here where you see hype, you want to tick this box to let viewers hype your content. Now, if you already
+have this turned on and no one is hyping your content yet, then make sure to unselect it, save, and then
+select it again to reset the hype feature. Number four is letting YouTube enhance visual quality of your
+videos. For some people, this is turned on automatically. But if it's not for you, then go to the settings
+again. Go to channel, advanced settings, scroll down, and right here, just select these two. Let YouTube
+enhance visual quality and let YouTube enhance audio quality. This is just going to make your videos better
+overall at no extra cost and no extra effort rather than just turning these features on. Next one is quite
+boring, but it's really important. You see, if you are using AI to write your scripts, it can mess up. It can
+hallucinate sometimes and then YouTube can notice right away if you're sharing some misinformation, if you're
+sharing something that is not true. Therefore, I started using this prompt over here, which in a second I'm
+going to show you where to get for free. You're just going to copy this prompt. I recommend using it in code,
+but you can use any other AI tool of your choice. And then you paste your script alongside with it. And then
+code or any other AI tool will do research and figure out whether the things you're sharing are true or not.
+So it will correct your script so that you're not sharing misinformation. Because if you are sharing
+misinformation, YouTube might limit your reach to stop spreading that misinformation. You can find this prompt
+and many others for free inside of my free community when you go to AI systems, scroll down to prompts for my
+videos, and you'll see 15 cloud prompts that will grow your channel. And then you're going to find a bunch of
+different things here, but it's completely free. Next thing you can do to grow your channel faster is to use
+this special code at the end of your YouTube channel link. So it goes question mark subcore confirmation
+equals 1. So at the moment, your YouTube channel link just sends people to your YouTube channel without any
+call to action. But if you take your YouTube channel link and then you add this code at the end, they will
+either be asked to subscribe. As you can see, it creates this popup so that people subscribe automatically or
+even without the popup, just by clicking on the link, they will be subscribed to your channel. Then you take
+that link, then you put it in your video descriptions. You put it in your channel description. You put it in
+your bio right here and in the channel links. It takes about 2 minutes to set up, but anytime someone clicks
+on it, they're automatically subscribed to you. Next up, we want to fix our hooks because YouTube algorithm
+really hates when people leave in the first 30 seconds. Again, they're trying to compete with Netflix. And I
+mean you can go to almost any one of your videos and if you go to the engagement part. So you go to analytics
+and you go to engagement and then you scroll down you can see the retention graph over here and you'll see
+that about 50% of people leave in the first 30 seconds. So you literally have less than 30 seconds to convince
+them to watch the rest of the video. And if you're not sure what a strong hook looks like, I have actually
+extracted the best hooks from hundreds of successful channels and successful videos across different niches
+and then I made these frameworks. I put them here. So I basically take the line that you use in the first 30
+seconds and then just turn it into a formula where you just have to adjust variables in the brackets and then
+you have a hook that is proven to get results. You can find this hook for free when you scroll down in my free
+community just right here and you'll find the document. Next up, if you want to grow faster, you need to find
+a way to use AI in your content. You see, YouTube is investing billions of dollars in building AI tools for
+creators. And I feel like they're now rewarding channels that do use AI compared to those that do not. And I
+mean, all my monetized faceless channels use AI. YouTube built VO3 for video generation. They've built ES
+Studio inside of your YouTube studio itself. This is an AI tool of theirs. They built Google AI Studio for
+voices. And now, I'm not saying that you should start creating AI slope. I'm just saying that you should find
+a way to use AI to make your videos better. Next thing you want to do if you want to grow your channel faster
+than 99% of other creators is to make at least one video that mixes curiosity, desire, and negativity all at
+once. Here's a real life example of this. So, let me break down how this works. The first part is curiosity,
+and that comes from put this. It opens a loop where you're thinking like, so what is this that I have to put
+in the food? The second part is negativity, and that's the ticks and fleas. You put something that your
+audience is scared of or disgusted by. And the third part is desire and that's the drive them away from
+forever. So now the title is also promising something they want. So when you put all of these three things
+together, you get curiosity pulling them in, negativity stopping the scroll, and desire promising the payoff.
+So you can take that exact same structure, that exact same formula and just drop it into any niche. For
+example, change this YouTube setting and you will get 10 times more views forever. Or put this in your toilet
+tank to keep it clean forever. Or drink this before your run and you can run forever. You get the point. Next
+thing to do if you want to grow your channel faster than 99% of other creators is to model a title and
+thumbnail that already went viral, then swap the topic. You see, when you come up with a brand new video idea
+without actually checking whether that title formula works on other niches, you're gambling. You have no idea
+whether the concept works. So, what I do instead is I find a title and thumbnail that already blew up
+somewhere and then I just swap the topic to fit my niche. And it shouldn't be from my niche. That's the whole
+point. Again, I can look into this channel that talks about cats and then we have this title, do these seven
+things daily and your cat will know you love them. It got 1.5 million views and then I adjust it to my niche
+and say do these seven things daily and YouTube algorithm will love you. If you're using solo, you have video
+title remix in your toolbox. You just paste the channel link from which you're trying to model the titles from
+and then you insert your niche and then you click generate and then it takes their most popular titles and
+then it just adjusts them to your niche. Next up, make your videos stupidly simple. Let me show you something.
+This channel, Deepmade Simple, makes about $22,000 a month. And if you go to their videos, you'll see they're
+just using a slideshow of images that are actually created with AI. None of this animation was handdrawn.
+There is no movement, nothing. There is a voice over in the background and a bunch of images showing on the
+screen. There's another channel over here. They started one month ago. Their first video got a million views.
+It is also a slideshow of very simple images. Consistency is the thing that actually wins on YouTube. and you
+just can't be consistent if every single video is a huge complicated project. There are a bunch of ways to
+make very simple content that still gets the idea across regardless of your fancy animations or editing style.
+Do not complicate it for yourself. I have this second channel where I'm testing different things and my most
+popular videos with tens of thousands of views are where I literally just sit and talk to the camera and
+there's no fancy editing. The person who puts out a simple video every week for a year beats the person who
+burns out of three fancy ones every single time. All right, next. Especially for those of you that want to
+start a faceless YouTube channel, I'm going to share with you how I blew up a completely AI generated channel.
+I started this channel last month and it so far made me 60 grand in ad revenue. And even now, it continues to
+make almost $2,000 a day just from ad revenue alone. And by the way, I do want to show that these are US
+dollars. It's not any other currency like Zimbabwe or whatever. Now, the best part is that it takes me 20
+minutes to make one video completely with AI. And I'm not just going to show you someone else's channel and
+then tell you to copy them. Everything I'm showing you here is based on what has worked for me. So, you're
+following a proven framework. And in this step-by-step tutorial, I will show you the new faster and more
+efficient way to create faceless videos with AI without having to use any complicated and expensive tools like
+Cloud Code or Hickfill. And I also want to say that I'm not the only one getting these results because of this
+new AI algorithm. Plenty of channels are making 30 to $60,000 a month even though they started very recently.
+So, let me show you some real life examples first and then I'll show you how to copy all of us with AI. Here's
+an example of a channel called Professor Historian. They make $15,000 a month. And if you go to their oldest
+videos, they literally started one month ago and they only have nine videos on their channel. Here's another
+one called Forgotten American Survival. They make 17 grand a month and they also started one month ago. But
+this one is crazy. This one is called Axen and they make $15,000 a month even though they've uploaded only
+seven videos and they started one month ago and their first video got 600,000 views. Here's another YouTube
+channel which started 2 months ago and right now they're making $29,000 a month. Here's another similar
+YouTube channel making $22,000 a month. And I actually have a list of over a,000 channels making between $5
+and $50,000 a month. Now you see the format that works very well now are these somewhat lowquality animation
+slides. Like nothing is really moving in these. These are basically just images, but they look like they were
+handdrawn in a software-l like paint. So it looks like a human made them. But you can now create a video like
+this within minutes just by using AI. In fact, I tried to copy this channel Axen because some of their first
+uploads got millions of views. I hired absolutely no one. I used AI and it worked. So what I've done is I've
+created a free notion document with all of the prompts that you can copy and paste if you'd like to follow
+along this tutorial. You can find these prompts inside of my free community. When you go to the classroom,
+just go to AI systems right here and just click on how to start a faceless animation channel with AI and then
+you can access the document completely free of charge. Now, the same step-by-step process that I'm about to
+share with you works in pretty much any niche and any kind of faceless channel you want to start. In fact, I
+never recommend just finding a channel and coping exactly what they're doing word for word because that's not
+going to work. You just need to take out the frameworks that work for them and just apply to a similar niche.
+So for step number one, you want to head over to claude.com and then take a screenshot of the channel that
+you're trying to model and copy paste this prompt from the document. Now Claude is going to look into this
+channel. It's going to analyze the niche, the thumbnail style, the title structures, and based on that, it's
+going to give us new video ideas that they haven't covered, but that are in a similar or same niche. That
+really depends on you, whether you want to be in the same or you would like to make some changes and you can
+just tell that to claude. You can literally ask it to apply these title frameworks just to a different niche.
+For example, the other day I saw this channel that blew up within the first 30 days of starting when their
+first video got a million views and they spoke about birds. So, I just applied the same title frameworks, but
+for insects. Either way, there are some really good titles here, but I'm going to go with how did ancient
+humans know who their father was. Step number two, now we just need to pick one of those ideas as I just did.
+And we're going to ask it to find unique information around this subject using this prompt. So, you're just
+going to copy this prompt. And this is probably the most important part because YouTube is now using Google
+Gemini. It's using AI to instantly analyze your videos. And if you just go to some AI tool and you ask it to
+write a script for you, it's going to instantly know that it is generic and you're less likely to be promoted.
+If you're sharing the same stuff as everyone else, there is no reason for the YouTube algorithm to show your
+videos to a wider audience. Why would they? So now, when I ask Claude for 10 unique points I can use in my
+videos, it gives me this step number three. Now we need to write a script. But the reason 99.9% of people fail
+at YouTube is because they use AI the wrong way to write scripts. I mean, if you don't know already, YouTube
+is now using Google Gemini and it's baked into the algorithm. I mean, you can ask Gemini itself. It's going to
+tell you that behind the scenes, they have algorithmic shift. So, the algorithm has completely changed because
+Gemini is now being used to analyze videos cementing ID. That means if you share generic stuff that was
+completely generated with AI, it's most likely not going to be pushed to a wider audience. So now you have
+three options. You can either go to chat GPT or clude and you can ask it to write a YouTube script for you.
+However, these tools were not built for YouTube. They were actually built for mass audiences and mass markets.
+Therefore, you're most likely going to be getting generic stuff that Google or Gemini will immediately know it
+was made with AI and you will probably not get the best results. I mean, even if you read through these
+scripts, you wouldn't listen to this for more than 30 seconds. Option number two, just be a big boy and write
+the script yourself. Do the research, sit down and write the script. You can use AI to ask it for frameworks
+like how should you structure a script but perhaps you can just sit down and write it in your own words and
+that would be great but that takes a lot of time and a lot of practice but if you are good at writing this is
+pretty cool and it's free. Now what I personally do is I use this feature inside of solo.ai which was
+specifically built for writing YouTube scripts. I mean solo.ai AI is allin-one operating system for one person
+businesses. But when you go inside, you can find a content sector right here. And then you can find the
+YouTube script writer. And this tool was trained on thousands of different YouTube videos. And the best part
+is that it asks you multiple questions which make the script way less generic. Let me show you what I mean. So
+first I'm going to describe what my video is going to be about. So I'm just going to insert a topic here. Then
+I'm just going to paste the title in this box and right where it asks me about details, I can just go back
+here and collect these 10 points that I asked Claude these unique and obscure facts that most people haven't
+heard about before. So Claude did the research for me and I'm going to add that as a text note. And now this
+is where it actually works the best. It's going to ask you what style would you like to model? And what you
+can do is you can go to a channel you're trying to model or any other channel on on the platform. It could
+also be a personal brand channel. You can then copy a link address to their most popular videos, which is what
+I recommend because there has to be something that they did correctly that the video got millions of views. So
+now I'm going to paste the link here and it's going to model their style of writing. Now I can select the
+monetization goal. So if you're promoting something, you can select that. But in my case, I just want to
+maximize ad revenue. And now I can also bump up the length of this video to be let's say 10 minutes and just
+generate script. It takes about 90 seconds for it to write the entire script for me with all of these unique
+facts baked in and in the style of writing of that channel which is already successful. And now I can expand
+the script to I can add another 1,000 words or 2,000 words or whatever else I would like to change. I can go
+ahead and do that or I can just copy the script and go with that. Step number four. Now we need to create
+these animated images that we're going to use as slides in our YouTube videos. There's multiple ways to do
+this. The legacy old way of doing this was just going to an AI tool like CL or TJD pasting your script and
+then saying hey I will paste my YouTube script and then you write 30 prompts that I can use to generate these
+scenes one by one and then in that case you would have to go and generate each image one by one which when the
+last time I did this took about 7 hours of constant copy pasting without moving from my chair to finish an
+entire video. or you can do something that's much faster and more efficient and that is to just go to the
+scene generator inside of Solo where you can paste your YouTube script in this box. Then on the right hand
+side, select the model you would like to go with. I'm just going to go with standard. You can then select how
+many scenes you would like to have generated. Let's I'm just going to go with 50. And you can select which
+style of animation you would like. Now, personally, I really like the cinematic 2D animation. But if you'd
+like to copy exactly what these other people are doing, like if you want this style of animation that you
+would select the second option. But I like how this guy animates his images. Like it looks like as if you were
+watching a cartoon as a kid. So personally, I would just go with cinematic 2D animation. And then you just
+click generate bulk scenes and that's it. Now you just sit relax and it makes them in a couple of minutes. You
+don't need to install any plugins or copy paste codes and do all of this complex stuff on your computer. You
+literally just log into your account, paste the script, and it makes all of the scenes. And by the way, this
+is how it would look like if we selected the other style, like the sketch style. This is really cool. And what
+I like the most is I can press one button, download all of these images all at once. And you know the problem
+that you would otherwise have with Gemini and other tools is that you would have a watermark but also when you
+download these images you see how they have this random tag like Gemini generate and then some code image for
+ANF. It's very random. And then you would have to figure out which scenes go where. But when you download it
+from Solo, it just shows you exactly scene 1 2 3 4. So it's all in order. And then all you got to do is open
+up your favorite video editing software, import all these images and just drag them to the timeline. And just
+like that, everything is in the right order. Step number five. Now we need someone to read the script. We need
+a voice over. Now there is multiple ways to do this. The safest option is to just record your own voice and it
+is completely free. You can just go to Google. You can search for online voice recorder and even if you have a
+decent laptop, you don't really need a fancy microphone like this. You can just press record allow while
+visiting this site and you just have to read the script into the microphone. Now, if your English is not good
+or if you just don't want to spend your time recording these voiceovers, you can go to Fiverr or Upwork and
+you can find these voiceover artists though they are very expensive. Like in most cases, if we have a script
+that's 1.5,000 words long, that's going to cost around $1,000 from this guy. There's obviously some cheaper
+ones, but it's very expensive. So, what I personally do is a bit controversial now, but I really just use AI
+for this as well. So, I just copy the script. I go to the voice section, the left side, and all my channels
+are still monetized. So, you are allowed to use AI voices, at least as of right now. You can go to the
+voiceover studio, and on the right hand side, you have a library of 9 and a half thousand different voices to
+pick and choose from. Just choose the one you like the most. Paste your script in this box, and you have a
+voiceover done in less than a minute. And it obviously costs a fraction of what these voiceover artists are
+charging and it sounds realistic. Now, when you open up all of these scenes inside of Keep Cut or any other
+video editing tool, you just have to import your voice over and drag it to the timeline like this. And then
+just listen to the voice over in the background and try to match the length of these scenes. So, just like
+this. And then perhaps I need to drag this a little bit. You just have to listen to it. And look, you can also
+add some slow movement to these images. You can click on animation right over here. There's combo animation.
+Some of these are pretty crazy. You can also do it manually. You can just click here to add a key frame at the
+beginning and then drag this and then add another key frame and just bump this up to let's say 115. And you'll
+see how it slowly zooms in. And then you can do that for each of these images. Or you can add different
+effects from here. Now for the next step, we need to make a YouTube thumbnail. This small image that you see
+before clicking on a YouTube video. Now, for this, you can also just go to canva.com. You can search for
+YouTube thumbnail. There's a bunch of templates. When I used to do it in Canva, I would just start with a
+blank template like this. Then, we can just take one of these scenes and then we can just add some text. I'm
+going to change the font to something like this. And that's a decent thumbnail. But if you're inside of Solo,
+you can go to the AI visual studio and you will see the YouTube thumbnail maker right over here, which is a
+lot higher quality. You can either enter a prompt or you can recreate thumbnails from YouTube. For example, I
+can grab this YouTube thumbnail, paste the link here, and just say change the text to say, "Who's the dad?"
+And they'll just click edit thumbnail. Now, if you just enter a prompt and create a thumbnail from scratch,
+it's going to look something like this. I really like this one. Oh, my bad about this one. So, it did change
+the text, but I forgot that I selected the thumbnail persona. So, right here, you can actually add yourself to
+these thumbnails, and you can turn it off at any time. I just forgot to turn it off in this case. But when you
+have it on, it's going to try and put your face on all of these thumbnails. This is pretty funny. I'm going to
+download this. Now, please keep in mind that not every channel I start gets these results within 30 to 60 days
+of starting. I have many channels that have completely flopped. Channels where I was really confident about
+the idea and about the niche that just didn't go anywhere and I had to abandon them. And even when we look at
+all of these channels that explode within their first uploads, we have no idea if this is their first rodeo or
+not. Maybe this guy had five other channels that flopped before this one. So, don't get discouraged if you've
+been posting videos and you're just not getting views the same way that everyone you're seeing online is
+because trust me, you're most likely just seeing the top 1%. Though, I just want to say there are some
+exceptions to this rule. Alex, who joined my community less than 30 days ago, made $2.6,000 even though he's
+never done YouTube before. This is just 8 days after getting monetized. I had to give this man $1,000 on top
+of this. But either way, most people that start a business fail. This, like any other business, is risky.
+However, this is the best time to start a YouTube channel ever. And it's never going to be easier than it is
+right now. So, if you're going to risk it, you might as well risk it now. All right. Next, I spent an entire
+week reviewing over a thousand channels that you guys have submitted to me, and I've discovered what are the
+things that are stopping you from getting views. and I'm going to share with you the most common mistakes that
+you guys are making directly from your channels so that you can stop doing them to actually get views. Last
+week, I asked a 100,000 creators in my community to submit their channels for a review. And after going
+through over a thousand channels, I made a list of mistakes most of you are making that are keeping your
+channel stuck at low views. And look, I know how to face low views because I've been doing YouTube since 2011.
+My channels now have millions of subscribers and I run a venture capital that invests in YouTube creators. So,
+I have access to data that literally no one else has. And to be fair, even if your channel is nothing like
+these, the advice I give for each one applies to you as well. Because these are the same mistakes that I see
+on every channel that is not getting views. So, let's talk about what you need to stop doing, what you need to
+change to start getting more views, and obviously monetize your channel faster and better. The first channel
+on our list is Sisters Making Money. She submitted her channel and asked how she can get more views and create
+content that YouTube would like to monetize. She started posting 7 days ago and the niche is really good.
+Investing in finance are the highest RPM niches on the platform and it also works very well on faceless
+channels because there are some doing 10 to 20 grand a month with AI finance advice. But the problem that this
+channel has that you probably have as well is that it's not speaking to anyone specific. Like who is this
+actually for? Is it for broke college students? Is it for beginner investors? Is it for women who've never
+bought a stock? Right now, the title employee versus investor mindset is just a concept. It's not a title that
+works as it's very vague and not specific at all. And with broad wig video titles, you're competing with
+personal brand channels that have millions of subscribers. So, the only way to get views is to get more
+specific with your videos. I mean, the guy that blew up recently is speaking about finance, but specifically
+for Australians, and his titles are also very specific as well. And later in this video, I'll show you a tier
+list of exactly what you actually need to do to get views in any niche. So stay with me. The next channel over
+the list is Football Decoded. They have one video, which is the offsite rule explained in 2 minutes, and they
+got basically no views. Now, it's smart. They're going after a trendy keyword which is the World Cup, but
+they're covering a very broad subject that if you copy and paste into YouTube search bar, you'll see has been
+covered a thousand times by older and bigger channels. So, this brings nothing new to the table. And YouTube
+has absolutely no reason to now go and promote a random brand new channel that is just sharing generic
+information in one minute that has already been said a thousand times. Now to make things easier, I made this
+list of over a 100 viral title frameworks extracted from different channels that exploded. So these are proven
+to get results and these are formulas that you can apply to any niche. So you can go through these titles and
+just adjust them to your niche. You can find this completely free of charge inside of my free community. When
+you go to the classroom, just go to AI systems right here. Then go to all you need as a solo founder. There
+you're going to find a bunch of free resources. But when you scroll down, you're going to find 100 viral title
+frameworks here. And also, this video is less than 2 minutes long. That's not going to work. Ideally, make
+videos that are 8, 10, 15, 20 minutes long. And instead of one tiny rule, you can make the big pillar videos,
+something like 11 football rules that confuse every new fan before the World Cup. And of course, you only have
+one video. I mean, it took me over a 100 videos before I finally learned what works and what doesn't. So, you
+just got to be patient. The next channel we're are going to review is POV Adventures. They have three videos
+using the same format, which is POV something. But this is what I call topic chaos within a niche. Topic chaos
+just means that even though you are in one niche, your topics can still be all over the place, and that
+confuses the algorithm. Instead, you need to pick one cluster under one topic pillar. And here you've got the
+last person with internet, the $700 million lottery. And those are completely different audiences. People that
+might have watched this video in this format may absolutely not be interested in this subject which kind of
+ruins your performance entirely. You need to try and stick to one subject, one niche and not create topic
+chaos. Like for example, this guy just speaks about birds or this guy just speaks about ancient humans and
+repeats the format again and again and it obviously works. This guy only speaks about the prehistoric world
+and only attracts one sort of audience which gets him millions of views. The next channel on our list is
+wealth explained. They also have one upload which didn't get any views and this format of every something
+really works. Like this is a good format. However, the title itself is really generic. Every level of wealth
+explained has been covered a thousand times already. Like you can just copy and paste your own title and
+you'll see a bunch of videos from other bigger channels and that's a bad signal for someone that is just
+starting out. Again, YouTube has no reason to push you if the same subject and the same information has been
+covered a thousand times already. So, you have to pick a more specific angle and bring something new to the
+table. Add something novel, obscure, and interesting to the script that other people didn't add into their
+videos. You can also use this prompt to find more specific angles. You can feel free to post a video right now
+and save this prompt. Oh, next one is crazy. It's a channel called Clip Current and they are posting YouTube
+shorts around the World Cup. To be honest with you, YouTube shorts are absolute waste of time. They look
+exciting because you get views fast, but that doesn't mean anything. Shorts only pay a few cents per 1,000
+views compared to long form where you can sometimes make over $20 per 1,000 views. Secondly, you can't sell
+anything there because they don't allow links. And to be fair, most of my channels make a lot more from links
+in the description than from ad revenue. And I mean, the quality of that audience is also very low. It's
+usually just casual viewers scrolling past hundreds of shorts in an hour while they're waiting in line or
+sitting on a toilet. And people think they can start posting shorts first to get subscribers and then they
+will transition into long form. But the algorithm treats these two audiences completely different. So you can
+have millions of views on shorts and still barely get any views on long form. So the subscribers you get from
+shorts are basically worthless. And even if by some miracle you're one in a million that gets some results
+from shorts, it is a treadmill. Shorts die after 48 hours. And you have to constantly be posting multiple
+times every single day forever in order to keep the momentum going. Whenever you stop, everything stops. It's
+not something that's evergreen and stays there for you. While a long form video can keep earning for years
+through search and suggested. So it's an actual asset. you own. It's like a piece of digital real estate that
+stays there forever. So, my advice to anyone posting shorts is stop wasting time by doing that and just start
+building a real business by posting long- form videos. The next gentle on our list is AI income works and they
+have a very interesting problem that you're going to find very valuable. So, they are very consistent with
+thumbnails. We have a reoccurring character. It looks like a real human and they have a really branded
+channels. It's the same colors, same font. That's really cool. But there's a complete mismatch from what's
+being promised to what's being delivered. So when you look at this title and thumbnail, what do you expect?
+Probably this meant to tell you about why your business is losing money, right? But look at what happens when
+I play that video. >> Look at this scene. [music] A high-end clinic generating massive demand yet struggling
+to process it. [music] High volume local businesses rarely stall out because they lack. So >> instead, we got
+an AI female voice narrating a generic AI visual. Even though on the packaging we saw a man promising
+something completely different. I call this the promise breaker and it's when you have a mismatch between
+what's promised in the title and thumbnail and what's actually delivered through your content. This not only
+confuses the algorithm and your viewer as basically they're going to leave right away which kills your watch
+time. I mean they're expecting one thing and within the first 5 seconds they can see that's not the thing they
+clicked for. Obviously they're going to leave. So if you have a thumbnail that shows stickman figure, then the
+animation needs to match the stickman figure that was promised. When people click and bounce right away, the
+algorithm reads that as this video didn't deliver what is promised and it just stops giving you views. So you
+can have the best thumbnail in the world. But if the content doesn't match that, that great packaging will
+actually work against you because it's going to attract the viewers who are going to click and they're going
+to see they're not getting what was promised. Now for the script itself, this is the formula I use for intros
+to deliver on what's promised. You can pause right now to save it. Next channel over the list is Your Child
+Explained and I actually really like this channel. There is a clear niche. There is a clear viewer avatar, a
+specific problem they're solving and they're pretty consistent. But the first problem is that thumbnails are
+all over the place. First you got these white thumbnails, then you got these random colors, then random fonts,
+then the brown thumbnails. So, it completely changes almost every time. The text is incredibly small. And I
+mean, I'm watching this on a big screen, but someone might be watching this on a phone. And also, I would
+never put the channel name in the thumbnail itself like they do. Your child explained it almost every
+thumbnail. You have very limited space to convince someone to click on your video. And putting channel name in
+your thumbnail just confuses the viewer and takes up that space for no reason. All right. Actually, here's a
+quick lesson on thumbnails. So, thumbnail needs to complement the title. you get very limited space to
+convince someone to click. So, you don't want to waste it by adding logos or channel names or by repeating
+what's already in the title. And the reason people click is one of these three. Either because of curiosity,
+they need to know what that is. Either because of desire, they want what that shows, or because of fear. They
+don't want that to happen to them. So, what goes into the thumbnail? There are four elements. Either a clear
+focal point, a contrast. It has to be light versus dark or bright versus muted so it stands out in the feed of
+other thumbnails. Number three, very minimal text. You keep it three to five words maximum. And if you put the
+channel name that takes up those words. Number four, an emotional signal, a face with a strong expression or a
+shocking visual or an image that implies that something is at stake. So the most reliable thumbnail formula is
+to just show the result or the consequence without explaining it. And if your video is about, for example,
+making money with AI, you don't show a laptop with a dollar sign, but you show a number, a screenshot, a
+reaction, something that makes the viewer think, okay, how did that happen? And they have to click to learn
+how that happened. And also, one of the most common mistakes is that if you put too many things in your
+thumbnail, it just confuses the human eye. So, the human eye loves simplicity. So, low contrast uh and and is
+something that really does bad on YouTube. and generic stock imagery pushes people away. Also, obviously, you
+don't need a face in the thumbnails. This works on thousands of faceless channels. And to know whether your
+thumbnail is going to work or not, what you can do is you can just pull up your thumbnail on your phone and
+just go through the actual feed size and set it next to five other thumbnails in your niche and just ask
+yourself if it stands out or if it's the exact same thing as everyone else or if it's just way too confusing
+compared to other more simplified thumbnails. But also, the scripts need a much better structure. So next time
+you can use this structure right here. So you can feed this into your AI. You can find it inside of the free
+community right here where it says the viral script structure. If you're using solo script writer, you can add
+it in the details box right here. The next channel on our list is listen to the signs. They have eight
+uploads, but they're not getting any views. Their thumbnails are good. The text is big and it's easy to read.
+They have colors that they're repeating, so it's almost a branded channel, but topics are a little bit all
+over the place. First of all, we have videos about Ompic and weight loss. Then we have about swollen ankles
+and then why we're waking up at 3:00 a.m. and then we have videos about coffee. So that's again topic chaos
+within the niche. Like you have the niche which is health, but still topics are all over the place. So if you
+want to grow faster, I would personally just pick one health problem to solve and just double down on that. If
+it's energy that you are going to teach, then you can just make every single video about how people can
+improve their energy and just make videos from different angles tackling that one problem rather than first
+attracting people interested in weight loss and people interested in why they can't sleep and then randomly
+you have people interested in swollen ankles. But also this is a very risky niche. When you're giving medical
+advice with AI, you can easily get shadowbanned or completely demonetized for doing that. The next gentleman
+over the list is Mr. Fine Aquatics. This is a really strong channel actually. They started around a month ago
+and they do have some videos with a couple of thousand views and they're also targeting only one specific
+person and that is someone interested in having an aquarium or improving their aquarium as well. And we can
+see the list videos perform very well for this channel because when people can see a clear number, they know
+there is a structure to this video and they're going to get something specific. So, it feels more tangible and
+it's a format that works. As soon as the video feels a little bit more vague, then it just doesn't perform
+well. Either way, there is an insane potential with money here. If you just find the right affiliate offers
+for what these people might need and use, you can just link them and make a lot more than you ever would from
+ad revenue. All right, now let's take a look at some successful channels that blew up extremely fast. So, we
+know what actually works and what we can do with our own channels. So, here's a channel that only has 12
+uploads. And if you go to their oldest videos, you'll see that their first video has 800,000 views and they
+started only 2 weeks ago. And when you open them up, you'll see it's a slideshow of these AI animated images.
+It's a faceless channel. Now, they did three things very well. First of all, their intro gets straight to the
+point. So, they're not wasting viewers time by saying, "In this video, we will or welcome back to my channel,
+etc." Number two, their videos are very long, over 20 minutes, so YouTube pushes them more. And three, their
+ideas are specific. They're unique and they're very simple, and that's what both audience and the algorithm
+loves. Here's another YouTube channel that only started 3 weeks ago. Their first video has 700,000 views. And
+this is actually an AI avatar. This is not a real person. And all of these images and videos are actually AI.
+So, he kind of stole like an artist. He found a personal brand channel and he just copied the subjects and the
+formats and just did them faceless with an AI avatar. He's also selling an ebook right here which probably
+triples his earnings. And he's stealing an artist with every other channel as well. He just finds an old viral
+video and recreates it with AI. Here's how this works. There's multiple ways to approach this. The first one
+is my strategy called niche quilting. So I invented this year and a half ago where you take a proven format
+from one niche and you copy paste it into an adjacent one. So here's an example. There was this cat channel
+called Foon. Their angle was educational cat content and then someone took that and turned the exact same
+title frameworks but to dogs. So he just replaced cats with dogs. and then someone did that with birds and
+then someone did that with fish etc. And you can even take that a step further and apply to babies for example
+and then switch from white babies to black babies. Next successful channel is this guy that speaks about UK
+retirement and he actually only started one month ago and already has 10,000 subscribers and he did three
+things right. Pick one clear avatar instead of making videos for five different audiences inside the same
+niche which is topic chaos. He reinforces the click immediately. So the first few seconds deliver exactly what
+the title and thumbnail promised. And he used proven title frameworks that worked in other niches. Basically
+niche quilting. Now if I had to rank what actually matters on YouTube. This is a theory list you should save
+and always keep in mind. You can have the best animation and visuals and editing, but if the idea is bad, you
+will never get views. All right. Next, I'm going to show you how I built a $400,000 a year channel using AI.
+All right. So, last year I made about $400,000 US from Google AdSense on this one faceless YouTube channel,
+mainly using Clo AI. And in this step-by-step tutorial, I'm going to show you exactly how I did it. Wait, I
+actually just forgot most important part. One sec. All right, I know there's going to be skeptics out there,
+rightfully so. I just want to show you that these are US dollars. We're going to go to the settings, currency.
+You can see it is US dollar. I know there are bad players out there that switch the currency to like new
+Taiwan dollar. So it shows 10 times more, but these are 400,000 in US dollars. And the reason I think that
+this video is going to be different from anything you've seen before is because most people when they share
+their results, it's most likely just one channel that they got lucky with and now they're teaching it on
+YouTube. But I've actually been doing this exact same thing since 2011. It's only that now we have CLA AI and
+other AI tools that are making this much faster, easier, and cheaper. And I'm going to show you how I'm doing
+it. And the other thing I just want to say is that this is not the dream. This is actually really hard and it
+can take a lot of time. And you might actually go crazy doing it. And I honestly think that Faceless might
+even be harder than a personal brand channel. You know how with like a personal brand channel, you can see a
+PewDiePie just make a make a vlog with his kid and get millions of views and you see people just getting
+millions of views because of their personality regardless of their packaging. Well, with Faceless, you have to
+be a freaking scientist. You have to dissect psychology of humans to understand how to create curiosity gaps
+between titles and thumbnails and optimize your scripts and hooks and everything because that's the only way
+that you are actually going to beat competition and get views. And then you have to do it not just once, you
+have to do it over and over again for every single video. Because these people with a personal brand, they can
+just grow their subscriber base. And the more people know them, the less they have effort to put in their new
+videos because more people know them. They will just click. But with a faceless channel, you're starting all
+over again with every single upload regardless of how many subscribers you have. Secondly, with a faceless
+channel, you can't really sell any high ticket digital products or offers, which by the way, there are
+channels, personal brand channels that have like 2,000 subscribers, making 200 grand a month because they sell
+an offer that is like 10K, 20K, but you're never going to do that with a Facebook channel. It's almost
+impossible. I've never seen anyone do that. Every video is just judged purely on packaging and the value that
+it provides. And so, we are in the business of niches. And I'm going to show you exactly what that means and
+how we're going to use Claude to do this or how I've used Claude and then you can feel free to do whatever you
+want with that information. But faceless YouTube is technically right like real or choosing the niche is like
+choosing your property location. By the way, I had no idea that a one-bedroom apartment in New York City is
+almost a million dollars. That's freaking crazy. But in Baltimore, it's $150,000 because of a different niche,
+because of a different location. And that's the same thing with my faceless or with any YouTube channel. If
+you have a video that gets 100,000 views in a particular niche that is like entertainment, you're making cat
+compilations, you might only make a few hundred bucks like I did here, $343. Well, in the other side, if you
+talk about some big brain stuff and you attract smarter people that have actually to spend it and not just
+sitting on their toilet scrolling cat reels, you might actually make two grand for the same amount of views.
+So, choosing your niche is really important. That's why I really think that you should not choose the niche
+based on what you like. I know people get into this and they're like, Dave, I really like to play golf with my
+friends. So, I might start a golfing channel, but if that doesn't make money, do not start it. If you're in
+this to make money, of course. So, I'm going to show you a better alternative. There is this strategy that
+I've named quilting in February of 2025. People are borrowing it and renaming it, but essentially just means
+market plus format. And a lot of people are doing that. Like there are people taking a bird's faces channel
+and just literally extracting their title skeletons, stealing like an artist and applying it to insects and
+then applying it to fish. And you can do this with pretty much any channel in any niche. You literally just
+take out their most popular videos. You take out the title skeleton. You just replace one or two words for
+your niche and you're ready to go. Like you literally just taking something that is proven to work. So you
+never have to invent an idea. That's why one of the dumbest things that people do, especially when they're
+just starting out, they go to Tread GPT or they go to Vid IQ and they just ask AI to give them ideas based on
+nothing. AI hallucinates. AI doesn't have access or at least most of these AI tools like JPT and Claude, they
+don't actually have access to YouTube. So, they don't know what gets views. So, when you ask Claude without
+the things that I'm going to show you for ideas, you're just going to get generic slope that uh is most likely
+not going to work. Now, number three, this is really, really important before we get into the technical stuff,
+the step-by-step stuff like copy pasting promps. I know you you that's what you're here for, and that's fine.
+But the holy trinity of high-profit niches and what actually makes tons of money on YouTube are these three.
+Number one, videos that are over 25 minutes long. First of all, YouTube is going to promote you more. They
+want people longer on the platform. Number two, you can put more ads so you can make more money per 1,000
+views. Number two, you want to attract a western audience, whether that's Australia or America, just not the
+UK. Mainly because the UK government is now censoring YouTube for Brits. So, if you are targeting British
+people, they're most likely not going to see your videos because their government doesn't allow them to do
+that. There's a big controversy and fight with YouTube and the UK government now. So, we're going to stick to
+Australians and Americans. And number three, you want to attract an audience that has at least 40 years or
+more. So older audience technically is smarter, usually smarter and has more money to spend. If you attract
+teenagers, they are less likely to give tons of money to advertisers. So they don't spend much money, but also
+you can't sell anything to them for the most part. Now, some of the examples of that are these sort of videos
+that don't need lots of views to make lots of money. For example, the one that got 400,000 views in the
+middle, I would assume they made at least four or five grand from this one single video. they attract an
+audience that is older from America and the audience also watches a 27 minute video. So they're going to see
+multiple ads. So first of all, let's go over the format that's blowing up right now. And by the way, this
+might change. That's why I keep posting these sort of videos because the format that works right now in 6
+months may not work. Maybe there's going to be something completely different. But in my heart, I believe this
+format is going to prevail because of the psychology behind why it works. And these are the simple AI
+animation educational videos. The reason I think this is always going to stay here is because of the plain
+reason why it even works in the first place and that's the simplicity. Like I've seen these sort of videos 15
+years ago. People were making like very simple style of animation and they were blowing up because it's really
+easy for a human brain to understand and digest what's going on. It's easy. It's simple to follow. And now
+most people are just making these sort of videos about animals or about prehistoric humans. And for some
+reason, everyone is coping each other in the same niche. And for some people, it does work. But for most of
+them, it doesn't. Most people that get into these niches, they don't get results. But the format, the
+psychology behind the format is very smart. So, we're going to apply that format, but to different niches. And
+I'm going to show you exactly how we're going to do that. And just one more thing I want to say before we get
+into the step-by-step tutorial on how to use cloth and I give them my promise so you can copy and paste them.
+Do not post YouTube shorts ever. Shorts are a waste of time. Shorts only pay a few cents per 1,000 views
+compared to long form where you can sometimes make 20 bucks per 1,000 views. And secondly, you cannot sell
+anything on shorts because you cannot put anything in description. There's no links on shorts. And also the
+quality of that audience is very low. I mean those are people sitting on their toilet scrolling shorts to just
+pass their time. So, you're not really going to build anything sustainable. I'm going to really get pissed
+when I see something like this. I saw this guy on YouTube shorts. So, he says he's going to delete this in 24
+hours. This was literally posted 3 days ago. Still not deleted. And then at the end, he shows his proof. If
+you know anything about YouTube, you know that's not how YouTube looks. Those are not the colors they use. He
+probably just asked JPD to generate an image of YouTube dashboard and it's really poor quality. He got
+millions of views on this. So, please don't listen to most of this advice and especially do not post YouTube
+shorts. All right, now let's start with step number one. We're going to head over to Claude and this is one of
+the prompts that I use. We're essentially asking Claude to give us topics that would attract an audience that
+would watch longer videos that would attract an audience that is from US, not the UK, Canada, Australia or
+similar and the core audience is aged 40 or older. Now, I'm going to tell you in a second where to get these
+prompts for free. I'm just going to let Claude do the work for now. Most of these prompts are inside of my
+free community. Just go to the classroom and you're going to go to AI systems. You're going to find a bunch of
+free resources that are left there. Here we're going to add this prawn holy trinity pron. So you're going to
+find it right over here. Going to put it up for you. And now is going to give us some ideas and we can choose
+something. I really like the vintage watch collecting. Like obviously anything vintage is going to attract an
+older audience than watch collecting. I don't think a teenager is going to do that or have money for something
+like that. So, this is a really good one. There are some other options. I would stay away from World War II
+history videos and channels cuz they are really saturated and it will probably not work. Forgotten American
+manufacturing and industrial history might work, but I think it's like half saturated. I'm not quite sure
+about this one. But for this example, I'm just going to go with vintage watch collecting. And by the way, if
+you didn't get any ideas from this, either use your own brain and come up with something or just keep asking
+Claude for more, like more, more. Give me more. It can be something that an audience from Florida, like a
+60-year-old dude from Florida would be interested in. What are hobbies that people in rich states uh would
+have, and then you can just take that as a subject. We're not just looking for a rough subject. We're not
+looking for an entire niche. Number two, now just find any big YouTube channel to take inspiration from.
+literally just go to YouTube and find a channel that is already getting tons of views. I mean, if you're in my
+community, I have over a thousand channels here making between five and $50,000 a month, and I could just grab
+something from here. For example, this channel that started two months ago, I can just copy their YouTube
+channel link. Now, the tool I use for this is Solo AI, but I'm also going to show you an alternative if you
+don't want to use it. Inside of solo, there is this video title remix where I can just paste the link to the
+YouTube channel, explain my niche. This is copy pasteed from code and just click generate. And then it just
+gives me the best title idea that I can go with and then some other similar title variations based on what has
+worked for them. So it extracts these title skeletons and then it tells me what I could make videos about.
+Now, the alternative to that is to just go to go to Claude, take a screenshot of their YouTube channel and
+then ask it to extract title skeletons from the most popular videos and then just apply them to your niche uh
+and then just only change one or three words and keep the same title framework. So, it pretty much does a very
+similar job and then you can just pick one of these ideas for inspiration. Solo also allows me to see how much
+money other channels are making. So like I can just paste this channel's link and like estimate revenue and
+then it's going to show me how much they make from ads based on their RPM and views. All right, for the next
+step we are going to need to do some research with clothes. So we're not sharing generic stuff that no one
+wants to hear and that YouTube algorithm will not promote. So if you're bringing nothing new to the table, the
+YouTube algorithm has no reason to promote your videos to a wider audience. And so what you can simply do is
+you can use this prompt and you can paste it in the cloud alongside with the title that you chose. So, we're
+essentially asking Claude for lesserk known facts and obscure details and surprising insights. So, something
+new that our audience is going to learn from this video because that's one of the main reasons why we will get
+views in the first place. All right, for the next step, we need to make the video feel new. We need to share
+something that's obscure, that's new, that's interesting to give the reason to the YouTube algorithm to even
+promote our videos in the first place. And we're going to use this prompt. uh you can just head over to
+Claude, paste that prompt alongside with the title that you chose earlier, and now you're letting Claude do
+the research for you. Because if you're not bringing anything new to the table, the YouTube YouTube algorithm
+has no incentive to push your videos to the front if you're just sharing the same stuff as everyone else. So,
+we're now going to let CL do the research so we can share something that's not generic because 99% of people
+just think they can just go to some magic AI tool, press one button, and it's going to speed out some cool
+thing that people are going to watch. They're not they're not going to do that. So, we actually have to do a
+little bit of manual work here with AI, which is much faster than it used to be in the past. Like in the past,
+me and my team used to do this manually, research things that we can bake into our scripts to share something
+that's new, but now we're just letting clo do it. All right, for the next step, we need to write the YouTube
+script. And there are three different ways to do this. The first one is to use collude. And you will really
+need to understand curiosity gaps and open loops and how to make sure that people do not get every question
+answered until the end of the video because that's going to incentivize them to comment and come back and
+think about a video etc. There are so many nitty-gritty details like hooks and all the other stuff that you
+have to know about in order to write a really high quality script. But if you do have some strong prompts uh
+you can do that with Claude for the most part. Now, there is also the other option, and that is to just pay
+someone that is a professional YouTube script writer to do that for you. A 1,000word script, which is only 5
+minutes, so it's not really useful. It's going to be 175 bucks. But an actual 10 to 15 minute long script is
+going to be 250 bucks per YouTube video, which is honestly very expensive. So, what I personally do is I do
+use Solo Script Writer because it has these frameworks integrated. You can just select which ones you want
+into your script, integrated into the script. And it also has a database of hooks that work across niches
+right now and you can just add that with one press of a button to your script. So you literally just have to
+describe what your video is about. Then paste your title in this box and it asks you for details. This is
+where you can either add some PDF guides or YouTube videos that already speak about this subject and perhaps
+multiple YouTube videos so it pulls data from other things. I'm just going to copy these 10 obscure facts and
+I'm going to add them as a text note. But again, if I press here, I can just add YouTube links or PDF guides.
+And the more unique info that I give it, the more unique my script is going to be because you're pulling
+sources from different places. And when it asks me for style of writing, I can leave this blank. Or if I want
+to model someone else's style of writing that is already proven to get results. I can just go to their YouTube
+channel, I can copy the link to that YouTube video and then I can just paste it here and it will model that
+style of writing for the most popular video on the channel. Now, if you are selling something, you can select
+that. If you're selling some PDF guides, uh it's going to optimize your script to promote that. If you're just
+focusing on ad revenue, then select ad revenue, maximizing my watch time. And then for these, I'm just going
+to leave it as it is by default. You can also maximize your intro by adding a thumbnail so it knows how to
+match the intro and the hoop to your thumbnail. But I'm just going to leave it like this because I don't have
+the packaging yet. And then we can bump up the length of this to about 12 minutes for now. And I will just
+click on generate script. And I will let Solo do it. Next really optional step is to create a PDF guide or a
+digital product that you can sell on your faces channel. This is what we're seeing more and more of. It's a
+really good way to maximize your revenue. Most of these channels actually make three to five times more money
+from PDF guides and digital products they're selling than from ad revenue. If they make 10k from ads, they
+might be making 30k a month from digital products. And people are doing that in different niches. This is an
+AI avatar. This is not a real person. He's not from Japan. He is selling this for $26. Here's another person
+right here selling a digital product in their bio. Let's see for how much. We go down. 20 bucks. Here's
+another person also. This is not an amish person. This is an AI avatar and he's selling tons of digital
+products, not even just one. 47 bucks for this PDF guide. And inside Solo, there's this digital product
+builder where you can either manually describe your niche and select the buyer type and then just insert how
+much you want to charge for the PDF guide and it kind of builds it for you. Or you can also select auto, which
+is even easier, where you can just describe your niche. If you have your YouTube channel, you will paste the
+link here and it will analyze your comments, your content, and your niche. And based on that, we'll build a
+perfect digital product you can sell directly to that audience right away for maximum conversion. Now, since I
+don't have the channel yet, I will literally just search for my niche and I will find the best possible
+channels that make the sort of content that I want to get into. Paste their channel link and just click build
+it for me. And then again, Solo will analyze their comments and their videos and based on their stuff, we'll
+build a product that I can sell on my channel. Here, I built a bunch of different things, including PDF guides
+for GTA 6, which is a big trend that's coming up November 19th. So, I'm really preparing for this one. A lot a
+lot of different stuff that I've been building with this digital product builder. But yeah, quite frankly,
+that is an optional step. If you want to simplify the process, then you just follow our revenue route and
+that's it. you are going to miss out on probably 3xing your revenue. But if you just want to keep it simple,
+you don't have to build any PDF guides. Next thing that we need are visuals that are going to show up in the
+video. And the simplicity of this format that's blowing up right now is exactly what we're going to take
+advantage of. These very simple AI animation slideshow videos in different styles of animation. It doesn't
+have to be just this flat handdrawn style, but you see there is no movement. It's actually just images stacked
+one by another. Uh, and then there's a voice over in the background. It's really easy and engaging for a
+viewer and it's simple for the eye to follow what's going on. That's why these sort of videos get millions of
+views. Like you got 7 million views on a brand new channel. It just started 2 months ago and is blowing up
+right now. And I mean, a lot of other people are using that exact same style as well. So, what we're going to
+do is we're just going to copy this script. There's two different ways to do it. If you are inside of Solo,
+the fastest and cheapest option is to just go into the scene generator right here and you just have to paste
+your script in this box on the right side. Select how many scenes you want and just select which style you
+want. If you're making GTA 6 videos, by the way, you can just select that style. If you're if you want the
+handdrawn sketch like the other one, do that. Or if you want the stickman style, there's a simple one here.
+Personally, I do really like the cinematic 2D animation, but in this for this example, I'm just going to go
+with the stickman style. And then we just click generate bulk scenes. And then you just get all these scenes
+generated for you. This is in the cinematic 2D animation style. I wanted to have some a couple of them to show
+you as an example. And you can just download them with one press of a button. And then in the hand drone
+sketch style, this is this is what I got. So, I can just download this. And I actually prefer this style. It's
+a lot more simple, and I think it's really easy to follow through. The coolest thing about this is that when
+you download these images, they're marked as scene 1, 2, 3, 4, 5. They're marked in order. So, all you have to
+do is drag and drop them into your video editing software, and you don't have to find out which one goes
+where. Next up, we're going to need a voice over. And this part, I actually do recommend you use your own
+voice. Not because you cannot monetize AI voices. You absolutely can. All my channels use AI voices. But if
+you use your own voice, if you have the time to do that, hey, number one, it's free. But number two, you're
+really going to stand out in the sea of these studio professional AI voices and everyone using high quality
+voices. You are now just recording it perhaps on your laptop's microphone and maybe you have an accent or
+you're not a native English speaker. That's awesome. That's really cool because again it's going to stand out
+and trust me it will work a lot better than generic AI voices. There's also the free online voice recorder
+where you can do that. Just press here and just read your script and that's it. And now if you don't want to
+record your own voice, there is also the AI voice studio inside of Solo. You can just click on the voice over
+and there's going to be nine and a half thousand different voices to choose from. First of all, you can choose
+it in any language you want and then just choose whichever one you prefer. You can also mark if there is
+something that you really like like a voice that you are passionate about. Just press favorite and it's saved
+and now you can just use it. All you got to do is paste your script and generate the voice over. You can then
+put everything together inside of Cap Cut which is a free video editing software. To be fair, I do think that
+right now I pay about five bucks for it. So $5 a month, but I'm pretty sure you can use it for free for a very
+long time. Just upload your scenes. Then just upload your voice over and then listen to the voice over and
+just match the scenes. Like literally just make them shorter or longer depending on the voice. And then when
+you're done putting it all together, just click share and export. There's also the thumbnail maker inside of
+Solo. For example, I made this thumbnail with it. I really like it. I mean, you can literally just paste a
+link from YouTube of any thumbnail that you like and just tell it to what you want changed and it will change
+it for you. For example, I just grabbed this YouTube thumbnail link and then it just asked Solo to replace
+this crocodile. It was a crocodile with a vintage watch and then it just did that and it also changed the text
+for me. Now, if you're not getting views and you've been posting, you can now go to the YouTube performance
+analyzer where you can just paste a link to your YouTube video, click collect. And then right here, you can
+either manually enter metrics or obviously what's far easier, just take a screenshot of your metrics overview,
+then also their reach, so it knows the clickthrough rate, engagement, and the retention graph at the bottom.
+So, you need four different screenshots. And when you upload them right here and you click extract metrics and
+you generate a diagnosis, it's going to tell you exactly why you didn't get the views. So, it's going to tell
+you exactly what's going on. It's also going to recommended new titles based on that new thumbnail fixes based
+on your click-through rate. It's going to tell you how much potential revenue you've missed by not making
+these changes. And at the bottom, it's going to tell you exactly what to do next. is literally going to give
+you a checklist that you go through, you takeick the boxes, and then once you finish all four, now you're
+maximizing your views and then you can start a new analysis for the next video as well. Now, why on earth am I
+sharing this? Because I run a venture capital that invests in YouTube channels that make at least $5,000 a
+month. So, if you are making $5,000 a month right now from your faceless channel, go to eyeball.vc and you can
+apply for funding. So, we're going to invest or buy your YouTube channel. If you are not making $5,000 a month
+yet, then that's why I made this free tutorial. You're also going to find a bunch of other free resources in
+my free community that has a 100,000 members. Just go to the classroom. I have a bunch of free courses, free
+stuff right there until you get to 5K a month and then go to ibol.vc and apply for funding or sell that
+channel to me. Now, some advanced strategies, something that I found out to work incredibly well on my
+channels is adding chapters. So, if you just go to your description and you add chapters or timestamps, it
+really helps with the retention. So, a lot of people, especially if it's a longer video, like 20 minutes plus,
+they might leave. And if you don't have chapters, it's going to be really hard for them to get back into where
+they even were. And when you have chapters, it's much easier. Secondly, you're going to rank sometimes
+specifically for chapters. Like if if there's a chapter name that is like how to make a YouTube thumbnail and
+that's only the last two minutes of my video. I might actually start ranking on YouTube or on Google for that
+specific chapter only. And when they click on the Google search, they will just be taken to that chapter. And
+that's really cool. So you're just going to get more traffic. And all you have to do when you upload is just
+go to your description and just time stamp where things are just in this order like this. And that's pretty
+much it. Number two, I found that listicical work very well. So when you have a specific number in your title
+or thumbnail, it feels like people are going to get something tangible. And this applies across niches. I
+mean, the most popular videos on this channel are all listical 25 something, 25, 30 something, 30ome, etc. So,
+it feels like I'm going to get something really tangible out of this. And number three, probably the best tip,
+go to channels in your niche or channels that make similar content to what you want to make and go to the most
+popular videos, go to the comments, copy all of them, put them into cloud and just ask it questions about this
+audience. What do they like? What do they don't like? What would they like to see? What would they like to be
+included or not included next time? And then just apply that advice to your videos. This is really, really
+cool that you can do this with your competitors now because it's so easy. You just copy the comments and you
+do it again. If you are making $5,000 a month, you can sell me your channel at iworld.c. If you are not making
+5K, yes, go to my free community and try and get there as fast as you can because it's never been easier to do
+YouTube. But it's still not going to be easy, especially if you're just starting out. This is not a get-richqu
+scheme. I know people call this YouTube automation, but as you saw, nothing is really fully automated. Do not
+fall for N8N automations or like, hey, I'm going to use clo code to just pump out slope. that's never going to
+work. You are going to get banned or shadowbanned or demonetized or you're just not going to get views. So,
+just do not fall for it. Use AI as your friend, as a tool that speeds up the process and allows you to create
+higher quality content, but do not use it to fully replace everything and you just press a button and it just
+pumps out content. It's not going to work like that ever. Don't fall for the tools. They promise you can just
+enter a prompt and it's going to create everything for you and you're just going to magically post it and it's
+magically going to get millions of views and you're going to get rich doing nothing. That's not how this
+works. This is a business like any other. But hell, this is the best business as you don't necessarily have to
+sell any products. There are no clients. There is a potential to build a real asset that provides passive
+income because videos will continue getting views if you do it do it correctly for a long long time. And the
+more videos that you post, essentially the more properties, the more digital real estate you own. Every single
+video is a piece of digital real estate that just keeps compounding over months, over years. So go out there,
+start start building yours. Uh and I will see you next time. Peace.

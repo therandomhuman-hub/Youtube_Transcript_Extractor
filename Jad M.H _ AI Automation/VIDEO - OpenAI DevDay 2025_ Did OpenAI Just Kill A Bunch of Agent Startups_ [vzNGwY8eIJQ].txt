@@ -1,0 +1,106 @@
+Title: OpenAI DevDay 2025: Did OpenAI Just Kill A Bunch of Agent Startups?
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: vzNGwY8eIJQ
+URL: https://www.youtube.com/watch?v=vzNGwY8eIJQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:14:41+00:00
+
+Kind: captions Language: en I think this is going to be our best DevDay yet. So, today we're introducing dots.
+>> Hey, I'm your dot. [music] I'm new in ChatGPT. >> Next up, we're introducing ChatGPT space. We are
+launching GPT 6.1 soul, an incredible 300 tokens per second. We now have an AI research intern. Codex is now
+fully in the cloud. >> 3 >> All right, OpenAI DevDay just happened. And honestly, it was really crazy. They
+dropped more than 20 things in under an hour. And I'm going to say a lot of companies are going to be affected
+by this. And probably dot, actually. They made their own always-on AI agents. They made a Notion-style
+workspace. They made API eight times faster. And they built a whole app store and marketplace inside ChatGPT.
+I'll watch the whole thing so you don't have to. I'm going to break down every announcement that actually
+matters and what it means for you. But first, I have to show you this because even OpenAI, the biggest AI
+company in the world, has demos that just break on stage. And honestly, I relate to this so much. Every time I
+do a client call and go, "Let me show them real quick how it looks like." a live demo, and it breaks. So, here
+are a bunch of clips. So, the first blooper, they're showing off the brand new agent live on stage in front of
+the whole world, and it just keeps checking. >> How's it going? Still checking. All right. I think maybe
+Dottie is having kind of a slow morning. >> A slow morning. Then a few minutes later, the Codex part errors
+out, too. >> This is a live demo. And it looks like earlier there was a little bit of an error throwing up
+this Codex thread. So, I'm going to try it again. >> And she has to hit try again, which it just didn't work.
+And the second blooper, Romain comes out showing off talking to Codex with your voice, and the voice just does
+not work. >> Let's try again. Live demos. All righty. Interesting. We might have to type this time. It's okay.
+>> And And then he goes to show the terminal to show the new voice feature, and it fails again. >> We might
+have some voice difficulties at the moment, which is pretty unfortunate. I wish I could show it to you. >> And
+my favorite one, Sam, says the model, says the name of the new model, and the crowd starts clapping before he
+says anything about it. >> So, first, we are launching GPT-6.1 Soul. >> [applause] >> You don't even know what
+it is yet. We got to tell you why it's good first. >> Okay, now we're done with the bloopers. Now, let's get
+actually into it and what they have actually launched because some of it are actually really big. So, number
+one, and this is the big one, it's dots. If you've seen Robobots, this is basically OpenAI saying, "Cool,
+we'll make our own now." Except they definitely went way bigger than Robomart. A dot is an AI agent that's
+always on 24/7. You give it a name and a video. The guy literally calls it Alfred like Batman, and it just
+works for you in the background even when you're not talking to it. Look at what it's doing in the video. It's
+updating his websites. It's building his board meeting deck. It's migrating his app to a new system. And then
+in the middle of that, it's like, "Hey, bad news, the cake weather of your wedding canceled. Good news, I've
+already found a backup." It sees his fiance's meeting that got moved on top of his daughter's recital, and he
+goes and fixes it before he even asks. That's the whole idea. You don't tell it every little thing. It knows
+what matters to you. I'm super excited to try that out actually. So, here's what dot actually gets. It's own
+computer in the cloud and it's own browser. It can write code, run test, and send you the pull request. It
+works over 4,000 apps. All the plugins you've already connected in ChatGPT. It lives in Slack. You can forward
+it out a thread and just say, "Can you take this?" And coming soon, you'll be able to text it and even call it
+on the phone. This one really got to me. OpenAI says their own engineers have their dot fixing dozens of bugs
+a day. Someone drops a bug in Slack channel, a dot picks it up, figures it out, and fixes it. Nobody asked it
+to do that. They said a lot of dots were literally built by dots. Now, the important part, who gets it? It's
+out today for ChatGPT Pro, business, premium, and enterprise. And your dot is included in your plan. And they
+say talking to your dot doesn't eat into your usage, so that's really a big deal. And for companies, there are
+specialist dots. Basically, virtual employees your company sets up for stuff like accounting, marketing, and
+legal. And they're working with Microsoft manage, so businesses can manage them from Microsoft tools. So, here
+is why I said companies are going to die. Think about every virtual assistant app, every AI executive
+assistant startup, a van, a lot of them VA services, this does that. It It's included in a plan you might
+already pay for and can also code. Number two, ChatGPT space. This is basically OpenAI's version of Notion or
+Google Docs, but built for an AI from day one. You get pages, you hit slash, and you can drop in charts,
+spreadsheets, even live app prototypes. Your teammates are in there, and your dots are in there, too. You can
+tag your dots in a comment like it's a co-worker, "Hey, turn that into a bar chart." And it's done. And you
+can tell a page, "Check this Slack channel every day and update this with what you find." And it just keeps
+itself updated. They call it a page that feels alive. And coming soon, slides presentations inside a space
+your dots can read and edit. So, yeah, if you're a slide deck startup, I would definitely be a little bit more
+nervous right now because everybody asked for the same two things. Make it cheaper, make it faster. So, first,
+GPT-6.1 Soul. They're saying it's almost as smart as Astra, their top model at 1/5 of the price. And they said
+it's actually smarter than Astra at some things. Then, ultra fast. Look at this. Same prompt, both models
+build and launch the rocket. Left side is ultra fast, it's already taken off, isn't even close to be done.
+Before Dev Day, I made a prep dot from the leaks. The leak said ultra fast would hit 14 times the speed. So,
+it's not quite that, but it's real and it's out. And that leads us to the new plan that they have, Pro 500. It
+costs $500 a month. You get 25 times the usage of Plus and the ultra-fast in ChatGPT and Codex plan, $200 Pro
+plan, too. Is 500 worth it if you're running Codex all day as your whole dev team? Maybe, but for most people,
+you should definitely start with 200. And last one is speed. And I think people are going to really sleep on
+this. The decision API you give the model is a list of options. Like, route this request here or there, or
+what should the agent do next? And it answers in a fraction of a second. This clip that you see over here
+isn't sped up. That's how fast it moves. Later the keynote they said could help robots react in real time.
+Number four, and this one's a little scary. Last year Sam predicted they would have an AI research intern
+within a year. Everyone kind of laughed. They say they hit it. And look at this chart. In January the models
+can handle short research tasks under 15 minutes, but failed most of tasks that take a whole day. As of July,
+they're fishing over a third of day-long research tasks with no human help at all. They also said their models
+have helped solve over 100 math problems that were open for decades. So, AI is now helping building the next
+AI. So, keep that in mind. Number five, the builder stuff. I'll go quick, but some of this is kind of like
+huge if you build anything. Codex is fully in the cloud. Start a task on your phone, pick it up on your
+laptop, you can close your laptop and it keeps working. Then we have the Codex harness. It's open source. It's
+the same engine that runs on Codex and dots. Then we have the agent API. Gives your agents harness, hosting
+memory, and computer use. So, you can build your own dots, basically. After that we have Codex security cloud.
+Constantly scans your stuff on security holes and perhaps that fixes for you. And last one is Codex in the
+terminal. Got a big refresh including real time and fourth voice when it works. And still numbers API usage is
+up a 100 times in a year. Now, number six, this is the only one that kills a lot of companies or make a lot of
+new ones. 1.2 billion people use ChatGPT every week. And OpenAI now wants you to build your business inside
+it. First, you sign in with ChatGPT. Your users login to your app with their ChatGPT account and use AI tokens
+they're already paying for. So, if you build an AI app you don't pay for their AI usage anymore. And that's
+kind of like massive for small builders. The OpenAI marketplace with 30 plus launches partners like Notion,
+Vercel, and Code Rabbit. Big companies that already have a deal with OpenAI can spend that money on your
+product. So, this is a real point of the day. OpenAI isn't just a model anymore. They want to be the
+assistant, the workspace, the app store, and the marketplace. If your whole product is a thin wrapper on
+ChatGPT, this was a bad day. If you build on top of it, this was a great day. One more fun thing, they reset
+everyone's usage limits, not just people in the world. Everyone in the world. So, if you were at a rate limit
+this week, just go use it. We're almost done and Sam ended with something I actually liked. He said people
+call AI a new industrial revolution and he finds that quite off-putting. He said it should be more like a new
+renaissance, more power over your own life, more tools to create. Which, to be fair, is a nice thing to say
+right after launching an AI that runs your whole calendar. So, my personal take, the big winner today is Dots,
+obviously. That's the product that changes how normal people use AI. Everything else like Space, Ultrafast,
+and the marketplace is OpenAI building a whole world around it. What I would actually do, if you're already on
+Pro, go set up your dot today, give it a real job, and see if it does it. And I would genuinely just cancel my
+subscription in Grok bots. Right now, I'm going to be testing Dots properly, so if you want to see if it
+actually holds up or if it's also having slow mornings as they said earlier. Again, subscribe. It generally
+helps me to keep going with these. Thanks for watching all the way to the end and stay tuned. I'll be dropping
+more videos.

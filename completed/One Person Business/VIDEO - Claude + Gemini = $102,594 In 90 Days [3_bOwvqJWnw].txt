@@ -1,0 +1,182 @@
+Title: Claude + Gemini = $102,594 In 90 Days
+Channel: One Person Business
+Type: VIDEO
+Video ID: 3_bOwvqJWnw
+URL: https://www.youtube.com/watch?v=3_bOwvqJWnw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:04:13+00:00
+
+Kind: captions Language: en Claude and Gemini just changed YouTube forever because I recently found this
+faceless YouTube channel that just started 90 days ago and they already have over 36 million views. Now, I
+personally made 100k from way less views, so it's safe to assume they did pretty well. So, I spent the last 7
+days trying to see if I can recreate this channel using AI and not only did I succeed, but I'm able to
+recreate these videos in less than 10 minutes. So, in this step-by-step tutorial, not only will I show you
+exactly how to start a faceless channel with AI, but I'm also going to show you how to beat this new AI
+algorithm so you can get views fast. And the reason I know this works is because I run a venture capital that
+invests in YouTube creators, so I have access to data that literally no one else has. And I've been doing
+YouTube myself for over a decade. I know you don't really care, so let's just get started. The channel in
+question is Bro Pump. If you go to their channel and you go to their oldest videos, you'll see they started 3
+months ago and their first upload got 2.1 million views. Now, if you open up some of these videos, you'll be
+able to hear they are using an AI voice and they have this character. It's like a slideshow of different
+images that are showing up on the screen and in a second, I'm going to show you a new way to create these in
+less than 10 minutes. And they're not the only one. There's a lot of other people doing pretty much the same
+thing just with different styles, but still the same sort of videos. There's also this yellow dude who posts
+about three videos a month and we can even check how much they make. If you're inside of Solo, you can go to
+YouTube Revenue Estimator. You can copy the link to that YouTube channel. You can just paste it in this box
+and click Estimate Revenue and it's going to show you how much they make from ad revenue. So, they they
+currently make around 23 grand a month from ad revenue. And a bunch of other people are copying this exact
+same style, but what they're doing wrong is they're all doing it in the fitness niche, but there are so many
+other niches to get into with this exact same style, which now brings me to strategy number two and that is
+niche quilting. So, I invented niche quilting in February of 2025 and the idea is very simple. You essentially
+take a format and then you just apply it to a different niche. For example, someone started a channel about
+birds and someone took the same title skeletons and just applied that to insects. And then someone took those
+insects and they just applied it to fish taking the exact same title skeleton just a different subject. And
+then someone did that with cats and then someone did that with babies. So what I'm going to do is I'm going to
+make these sort of videos with Claude and Gemini, but instead of fitness and how to get a six-pack, I'm going
+to go with anti-aging and longevity. All right, so the next step is to open up Claude and then go to the
+projects on the left-hand side and then just select new project. And this is where we're going to build our
+brain. So I'm just going to name it longevity lab for example and I will create a new project specifically for
+this YouTube channel. Now in the instructions box, you're just going to paste in this prompt over here and you
+will click save instructions. Now where can you get these prompts for free you may ask? Just go to my free
+community that I'm going to link below in the description and then click on AI systems and then right here you
+will see Bro Pump. Click on this Notion link and it will give you every single prompt that we're going to use.
+You can just copy that with one press of a button here. All right, next step we need viral video ideas based
+on what's already proven to get results. The biggest mistake that most people make is they go to ChatGPT and
+they ask it for video ideas, but that's generic because ChatGPT doesn't have access to what actually works on
+YouTube. There's two different ways to do this. If you are using Solo AI, you can now just go to video title
+remix and right here you can just paste the YouTube channel link and then you can describe what your new niche
+is going to be. For example, for me that's going to be longevity and anti-aging and just click generate. It
+will analyze viral patterns on that YouTube channel and it will just des- Claude and it will just apply them
+to your niche instead. Or you can use this prompt from the document, then you can go to Claude, you can paste
+that prompt inside of this box and alongside with this prompt, you're going to take a screenshot of the
+channel that you're trying to recreate but just in a different niche. You're going to paste it here. In the
+meantime, I'm going to see what Solo has on for me. So, it really gave some good title ideas here that are not
+generic, that are proven based on what's already getting views in these channels. Like this one got 500,000
+views in 2 months, and I would just apply four boring habits that quietly slow aging faster than any
+supplement is a really good title. And damn, this is also a great title based on something that got a lot of
+views on their channel already. Like you're doing push-ups wrong, this is why you're not getting stronger. And
+now it's like you're taking supplements wrong, this is why you're still aging fast. These three daily rules
+reverse aging faster than cold plunges, that's a good one. So, it took out some of the best title skeletons,
+and it gave me some really good ideas here. All right, for our next step, I want to show you something really
+cool. There is now Google Gemini baked right inside of your YouTube studio, and you can ask it directly for
+video ideas because this is a tool that YouTube itself built. It's completely free. And look, you can
+literally ask it to suggest new ideas, and it will analyze your channel, and it will look at what your
+audience is already watching, and it will suggest video ideas. is really cool only if you already have a
+channel that has some data. So, you've been posting some videos, and then YouTube knows what your channel is
+about. But if it's a brand new channel, this will obviously not be very useful. So, what you can also do is
+you can go to Google Gemini, which again, YouTube is using. So, Gemini has data to all of the videos on
+YouTube. You can literally just ask it to suggest video ideas based on what audience in this niche is already
+watching. Now, something I would love to warn you about is to not copy titles that these AI tools give to you,
+especially ChatGPT or Gemini, because they're going to be generic. That's not something that people click on.
+But when it comes to topics, it can be really good. When it comes to researching these ideas, these tools are
+pretty handy. So, here we're getting some really unique topics that we could cover on our channel. All right,
+so for the next step, we want to make sure that our video is not generic. And in order to do that, we're going
+to go over to Claude, and we're going to paste in this prompt from that notion document that I gave to you
+earlier that is completely free. And here you're just going to paste in the title of your choice. Now, I'm
+going to go with this title as an example. I really like this idea and we're just asking it for lesser known
+facts so we can share something that most people haven't heard about before because again, if you share
+something that's generic that everyone has already heard a thousand times, there's no reason for YouTube to
+push your videos. That's why most people are not even getting views because they're just using ChatGPT to
+generate their scripts which obviously no one wants to listen to and YouTube can make can immediately detect
+that it's generic and nothing new. But with this, we're allowing it to do a bunch of research to give us
+something that most people have not heard about before. I mean, that's one of the main reasons why one of my
+channels made $10,000 in the last 30 days just from two uploads. I literally just posted two videos on this
+channel and it made $10,000 in ad revenue so far. Next step is really optional. You don't necessarily have to
+do it, but it's going to help you make more money even if you're not approved for the YouTube Partner Program
+and that's to create a digital product or a PDF guide that you can sell through your channel. Like quite a lot
+of faceless channels are now doing that. This is an AI avatar by the way and they're selling an ebook right
+here for 26 bucks. It's a PDF guide basically. And here's another YouTube channel over here also selling a PDF
+guide as well for $20. And the thing is you can now automatically create that inside of Solo. When you go to
+the content category on the left, you can just select the digital product builder and you can either manually
+build a digital product which is something I highly recommend. Just follow the instructions, select your price
+or you can select auto where you can just enter your niche for example, longevity and anti-aging. And if you
+don't have your channel yet, you can just copy a channel link of any channel that is already making videos
+that you want to make. You can also upload a screenshot of a couple of videos that you like. This one is also
+completely optional and then you can just click build it for me and it will analyze the comments, it will
+analyze the videos, it will do research for you and it will build an entire digital product that you can start
+selling right away. As you can see, it's building the offer strategy, it's going to write the outline, it's
+going to give unique points inside so that people actually get something valuable and not something generic.
+And then it's going to allow you to export this PDF and literally start selling it in less than 10 minutes.
+This is honestly unheard of. Like in the past, you would really have to do tons of research. You would have to
+spend months building a digital product that you can then sell, but now you can just do it in 10 minutes. But
+as I said in this document, this is an optional step, so you can feel free to skip it if you don't want to
+sell any digital products and you just want to focus on ad revenue. All right, the very next step is to write
+a YouTube script that keeps people watching so you can actually get views. And this is one of the most
+important parts because if you use ChatGPT to write generic scripts, not only will people click off right away
+killing your watch time and then showing to YouTube that they shouldn't promote your videos, therefore you're
+not going to get any views, but also if you use generic AI tools, YouTube itself will notice right away that
+you are sharing stuff that is just slope and it's just not going to go anywhere. That's why the tool that I
+use at the moment is Insane of Solos. When you go to the content category on the left, you can select YouTube
+script writer. And there is actually something new inside of this tool that didn't exist before, and those are
+these frameworks. I'm going to get to that in a second, but first we just need to describe what our video is
+going to be about. In my case, it's going to be about these four boring habits. I'm going to paste that here.
+I'm going to paste the title in this box. And when it asks me for details, this is where I can use all the
+research that I've done with Claude earlier like these 10 unique points. Not just that, but also that research
+that I've done with Gemini as well. paste it as a text note. Like all this stuff that Gemini has researched
+for me, I can also export and I can add to Solo while it's writing my script so that it has more unique data.
+And now when it asks me for style, I can literally go to any channel of my choice and I can copy one of their
+YouTube video links, simply paste that link in this box and I will model the style of writing from that
+YouTube video as well. And now when it asks you for your monetization goal, if If selling some digital
+product, you can select that like right over here you can select digital product or PDF guide. Or if you're
+just focusing on ad revenue, then you can just click on ad revenue and maximizing watch time. And now when it
+comes to frameworks, you can select or unselect which frameworks you would like. So it has access to hundreds
+of viral hooks. So you can get people in the first 15 seconds. That's very important, so always keep this one
+on. There are also open loops and strategic ordering. They're different frameworks that you can apply to your
+script that will keep people watching. This is something you cannot do with generic AI tools. There are also
+psychological triggers and emotional stakes if you'd like to, but these are mostly for documentaries, like for
+documentary channels, but that's not what we're doing. There is also intro boost. You can select this one and
+it will maximize your intro. For this one you will have to upload a thumbnail and just select like what is the
+promise. Or you can just leave it off and then you can select the length of this video. In my case, I'm just
+going to go with 10 minutes and I will click generate script and it will do a really good job. All right, next
+up we need to create these visuals. And as I said, this is now easier than ever because technically this is
+just a slideshow of images made with AI. And so what you can now do is you can go to visuals studio on the
+left. You can click on scene generator. And then on the right-hand side you're going to see different visual
+styles, but one of the visual styles that is available is this yellow character style, which is the exact same
+style that is already proven to get results in on different channels. Now, the thing is they're only making
+fitness videos and like how to get a six-pack or how to lose weight, but we're doing that in different niches
+and different categories. You can select how many scenes you want. Let's say I'm going to go with 100 scenes.
+Then I can simply copy my script with one press of a button, paste it inside of this box, click generate bulk
+scenes, and it will just create all of these scenes for me that I can download with one press of a button. Now
+the alternative if you don't want to use Solo, you can just go to any channel that you're trying to recreate
+like the style of videos that you like. You just take a screenshot, you then paste it into a ChatGPT, and then
+you explain that it should create a prompt template that you can use. It will analyze the scene. It will then
+create this big prompt that you can use. You can now go to Google or Gemini. You can paste that prompt, and
+here where it asks you to paste the script, that's exactly what you do. You then take each prompt one by one
+for each scene. Again, open Gemini, paste that prompt, and then it creates an image. Now, you wait for it. In
+the meantime, you get the second prompt while it's generating this first image. You paste it here, and you
+just wait because you can't submit until the first image has been generated. Now, you paste the next one, and
+then you just keep pasting prompts again and again until you have every scene. Now, the next step is to just
+get the voice-over done, and this is the part where I really recommend you not use AI. Not because you cannot
+use them. Most of my channels use AI voices, and they're fully monetized. But, if you use your own voice, not
+only is it free, but also you really stand out in the sea of these professional AI voices that sometimes do
+sound robotic. You're going to be an actual human reading your your script. And if you have an accent, or
+you're not a native English speaker, that's even better because it's more unique. It's imperfect, which is
+good. But, you can just use a free online voice recorder for that. Just read your script. And if you don't
+want to do that, there is now the AI voice studio inside of Solo, where you can just click on the voice-over
+part, select which voice you want from all of these, and you can also put them into favorites if you like some
+the most, and then it's going to be right here. And then just paste your script, and click generate. That's
+it. Then you can just download the voice-over. Now, to edit these videos, you can just use CapCut, which is
+the tool that I use. It's pretty simple. You just have to import all the footage, and then you just simply put
+it all together with the voice-over in the background. Now, next part is really important because if you have
+a good title and a good video thumbnail, it's either going to make or break your performance. And so, you can
+use this prompt right over here that actually has baked in curiosity gap psychology, fear, scarcity, and
+desire to give you thumbnail text that actually performs well on YouTube. This is based on what it works on my
+channels, so we know it works. So, we're going to paste this prompt over here, and all we have to do is enter
+our title, and then optionally, you can also paste in your script. If you don't want to do that, you can just
+remove this part and submit it, and it's going to give you thumbnail combination that actually works with this
+title. Now, we just pick the text that we like. Let's say I'm going to go with this one, and we just need to
+make a thumbnail. Now, I really like this thumbnail here, so I'm just going to copy the link to that video.
+Then, I will simply go to the thumbnail maker inside of the Visual Studio. I will click edit from YouTube,
+paste the link, and it will say change the text to just say feel 25 again, and I will click edit thumbnail. I
+can edit pretty much everything I want around this thumbnail, whether it's a background or a character, or I
+want to add some other elements. I can just describe it here, and it will recreate it. And yeah, that
+thumbnail is pretty good. I'm just going to download it now. Now, if you want to beat this new AI algorithm
+and get views, there is now this feature inside of Solo called YouTube Performance Analyzer, where you can
+just paste the link to your YouTube video. You can enter your analytics, and it will just tell you exactly why
+you didn't get views, or what you need to do in order to actually get more views from that video. It's going
+to give you an actionable checklist that you can go through, and when you do these things, you will get more
+views on your video. So, this is really, really cool, because now you know how to actually grow on YouTube as
+well. Now, if you're not sure what's actually the best niche for you, then I recommend watching this video
+next, where I explain what are currently the best and most profitable YouTube niches for faceless and AI
+channels. So, just click here, and I'll see you there.

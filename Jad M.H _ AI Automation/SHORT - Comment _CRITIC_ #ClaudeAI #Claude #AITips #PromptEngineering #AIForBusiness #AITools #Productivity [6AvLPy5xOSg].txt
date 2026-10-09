@@ -1,0 +1,21 @@
+Title: Comment "CRITIC" #ClaudeAI #Claude #AITips #PromptEngineering #AIForBusiness #AITools #Productivity
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: 6AvLPy5xOSg
+URL: https://www.youtube.com/watch?v=6AvLPy5xOSg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:33:33+00:00
+
+Kind: captions Language: en Have you noticed that Claude thinks every idea you have is a great idea? Your
+offer, your pricing, your landing page, literally everything, almost everything. That's not because the data
+is great. AI models have a known habit of agreeing whoever is talking to. It even has a name, psychophancy,
+and you don't want your AI to completely agree with you, especially when you're about to spend [music] 3
+months on building something that you thought it was a great idea because your AI said so. So, instead, let me
+tell you how to fix it. Click your initials in the bottom left, go to the settings, and find the box that's
+called instructions for Claude. Whatever you write there applies to every single conversation. Paste this in,
+be my critic, not my cheerleader when I share an idea, give me the three biggest reasons it could fail before
+you say anything good about it. If you don't know, say I don't know, never open with a compliment. Now, once
+you wrote that down, go back to the conversation and ask it again about the same conversation that you had
+with. And you will see the answer will be completely different. Let me know down below in the comments what
+you think of, or if you want to prompt this comment critic and I will be answering with you.

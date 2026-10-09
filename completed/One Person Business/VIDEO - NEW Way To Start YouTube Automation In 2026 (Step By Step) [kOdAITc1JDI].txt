@@ -1,0 +1,138 @@
+Title: NEW Way To Start YouTube Automation In 2026 (Step By Step)
+Channel: One Person Business
+Type: VIDEO
+Video ID: kOdAITc1JDI
+URL: https://www.youtube.com/watch?v=kOdAITc1JDI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:48:01+00:00
+
+Kind: captions Language: en I currently run many faceless YouTube channels with AI and I started my first
+channel 15 years ago but never since then I got millions of subscribers from YouTube automation. But there's
+actually a new way to start faceless YouTube because everything has kind of changed in 2026. What worked
+before doesn't work anymore and if you don't adapt you will be left behind. So in this step-by-step tutorial I
+will not only show you how to start YouTube automation with AI but also how to stay ahead of 99% of people by
+using the right systems. All right, in 2026 there's actually three different ways to do YouTube automation.
+First of all, we have AI creators. These are AI influencers. So this is a faceless channel but you're kind of
+acting as a personal brand. Then you have traditional faceless channels which are most popular and we have
+faceless brands. Here's an example of an AI influencer. This guy started only one month ago. First video got
+100,000 views. He built a brand even though this guy is not real. This is an AI persona. His most popular
+videos have hundreds of thousands of views and he's able to sell products and get brand deals because he is a
+personal brand. Secondly, here's a traditional faceless YouTube channel. This guy only started a month ago.
+His first and only video got 2.6 million views right away and he's essentially using stock footage and AI
+footage with a voiceover in the background. And then we have faceless brands. These are super high quality
+faceless channels. Usually even using a real voices. Like for example, using your own voice for this to build
+a massive community where you can eventually sell lots of products and get a brand deals and sponsorships and
+also have consistent views as you build a brand. And inside of the classroom we actually have a list of over
+750 faceless channels. Part number one, let's first start with AI creators. Those are again AI influencers
+that act as personal brand YouTube channels and there's many of them that teach different subjects and they're
+able to attach a product to this and maximize the revenue per view. And some of them are not even realistic.
+Like for example, this is like a Disney character. She uploads once a week, she's monetized, and she sells a
+school community for $60 a month, and there's 324 members, which is around $19,000 a month just from that
+product. Now, to make things easier for you, instead of my free community, you'll find all the systems to copy
+these channels. Go to AI systems right over here, go to AI YouTube systems, and in this case, we're going to
+focus on Zenish Studio. You'll click on access the system here, and you'll find a Notion template. Step number
+one is to create a channel name. So, we'll copy this prompt. We will then go over to chat GPT. We will paste
+that prompt and submit. I really like Prime Stacks, so I'm going to stick with that. Step number two, now
+we're going to go over to Google Gemini, especially Nano Banana, click on create image right over here, and
+then you'll grab this prompt, paste it, submit, and I'll have an avatar that I can use and download to my
+device. Now, when I make my YouTube channel, I can click on customize, and first of all, use this as a profile
+picture. Next up, we need some unique video ideas. So, step number three is to copy this prompt from here, and
+then if you're going to be the same niche, then you'll just paste the prompt like this. If you're going to be
+in a different niche, then just adjust the prompt for that niche. And just like that, we're now getting 20
+different video ideas based on what has already performed well on that YouTube channel. Step number four is to
+write your first YouTube script. And for this, we're going to use a free tool called Notebook LM. This is made
+by Google, it's completely free, and it's very simple to use. I can now just go to a YouTube channel that I'd
+like to get inspired by. So, for example, if I really like the scripts that are written here, I can
+essentially just get this Chrome extension called Grab It. It's completely free, just add to Chrome, so that
+when you go to a YouTube channel, you can select multiple videos at once, and that's going to copy all of
+these links, so that when you go to Notebook LM, and you click on create new notebook from scratch, and then
+you select websites, you can paste all of those links at once, insert them, and it will analyze all of these
+different videos. You can then copy this prompt from the Notion template, paste it here, and just insert the
+title that you got from ChatGPT. Copy just the first one. I'll paste it here. And as I submit it, Notebook LM
+analyzes these videos and then in that same style writes a brand new YouTube script for me. Step number five
+is to create a voice that matches this AI avatar. So, what we're going to do first, before getting a random
+voice, we're just going to go over to ChatGPT, and we will simply upload a photo of our AI avatar, and we will
+ask it to create a voice design based on how this person looks like. Once ChatGPT gives us the voice design
+prompt, we will open up 11 Labs, which is this tool that we use for voice-overs, cuz we need to turn that
+script into audio. So, we're simply going to come here, go to voices on the left-hand side, click on create a
+voice, select voice design, grab this prompt, and just click generate voice. So, now the voice that it
+generates should match how your avatar looks like. And it's actually going to give you three different
+options, so you can pick and choose from. Pick whichever one you like and click select voice. Give it a name
+and save the voice. Now, when you go to text-to-speech on the left-hand side, you can grab your script, paste
+it inside of this box, and then on the right-hand side, you can either use Turbo 2 or for best quality, you'll
+go with version 3. However, this one is the most expensive model. It's going to take out the most amount of
+credits. And honestly, you generally don't need that right now. Now, step number six is to animate this
+character that we have. So, we're going to go over to HeyGen, which is this AI tool where I build my own AI
+influencers and I make them speak. It's actually you just have to paste in either your voice or your script,
+and it just creates the entire video for you. So, we're going to go to avatars on the left-hand side, create a
+new avatar from scratch, create a virtual character by uploading a photo. I'll go to Nano Banana and I'll say
+create a studio portrait from my avatar. If I like the result, I can just download it. Again, the goal with
+this is not to make it realistic. We're using this Pixar 3D style, but you can also do a realistic human being
+if you'd like. Also, if you don't like the outfit, just say change his outfit to [music] black casual hoodie.
+Then just go back to HeyGen, upload that photo, click upload, continue with this, give it a name. Also, this
+is how it would look like in as well. Then we can just upload our own voice. Once it's done, we just need to
+select this using video and assembling the left-hand side, paste our YouTube script or audio from 11 Labs and
+submit. The rest of the steps are all about monetization and actually making money from this avatar, but let's
+move on to part number two, and those are these traditional faceless channels. So, if you don't want to build
+an AI influencer, there is this option as well, where you just create faceless channels, which are usually
+stories or documentaries. And these make money from ad revenue. They can't really sell products, but I mean
+this guy in the last 30 days did $20,000 just from ad revenue, which isn't bad at all. But you can see that
+they're making this sort of complex animation. It looks something like this. But what I've done is I've
+developed the prompts that allow you to copy that style. You'll again find it in my free community when you go
+to the classroom and you go to AI systems right here. There's going to be serious history, and you'll just
+click access the system here, and it will open up the notion template. Obviously, step number one is to
+generate the name the same way that we did previously. We just go to ChatGPT, we paste it, then we get channel
+names. Then we also have this prompt for generating a logo inside of Google Gemini. Just follow the prompts
+for that. But what's probably most important is creating these animations. So, I built this custom GPT, where
+you can just describe your scene. Let's say for example, I'm going to select a night wedding in the snow, and
+this gives you the exact prompt that you need to copy and paste inside of Nano Banana to get this style of
+animation. Just go to Nano Banana, paste that here, select create image, submit, and you'll get a result that
+looks very, very similar to what they have here on Serious History. Now, I can just go over to Kling AI, which
+is this AI tool that's going to allow me to animate everything. Click on generate on the left-hand side. I'll
+add this image, and they will create a simple animation for me, just like that. This is incredible, and I can
+download it without a watermark. Now, in terms of writing scripts for this sort of YouTube channel, there are
+two options. If you don't want to pay for any premium tools, which make things easier and faster, there's also
+Claude. When you go over to claude.ai, I have a free plan here, and I made this entire prompt that you can
+copy, paste inside of this box, and just insert your video title. Let's say this is going to be my video
+title. And if you listen to the script, you'll see how incredibly good it actually is. Doesn't sound robotic.
+It doesn't sound like AI wrote this, because it's following a framework, and it's following this prompt that I
+wrote for you that you can copy and paste for free. The rest of the process is pretty much similar as with the
+previous part. Now, we just need to take that script and put it into 11 Labs to generate a voiceover. But
+what's more important is settings for your YouTube channel. So, go to your YouTube channel, go to YouTube
+Studio on the right-hand side, and then on the left-hand side, you'll find a settings. You can go to channel
+right over here. You can select your country of residence. You can add different keywords for this YouTube
+channel. Click save, go to channel again, go to advanced settings, and this is incredibly important. Make sure
+that you select no, this channel is not made for kids. Otherwise, you will cut out half of your views. Then go
+to community moderation on the left-hand side, and add blocked words. Now, some of these blocked words can
+just be AI or AI voice or 11 Labs. So, if someone comments these words, they will not show. Now, we have part
+number three, which is building brand faceless channels. There is this one called Nick Invest. So, he built a
+brand around investing and finance without having to show his face. Some of his most popular videos have
+hundreds of thousands of views, and everyone knows that finance space is the highest paying space. For
+example, I was being paid $40 per 1,000 views in this niche, and some people are making even more than that
+per 1,000 views. And he only started out pretty recently. If we're being conservative and we're just like $5
+per 1,000 views, even though I'm pretty sure it's a lot more than that. Again, I was being paid $40 per 1,000
+views. People are making a lot more than that. He's done 60,000 just from ad revenue already. So, I will build
+this Notion template as well in the free community. Step number one is to copy this channel name prompt, paste
+it inside of ChatGPT. Step number two is to open up Google Gemini, download this reference photo, upload it to
+Google Gemini, describe your character, submit it, and then Nano Banana will generate a profile picture for
+you. And here's the result that I got. I really like this. I'll download it to my device. Step number three,
+now we need some unique video ideas that are similar to what's already performing well on this channel. So,
+we're going to copy this prompt. We will head over to ChatGPT. We'll upload that screenshot, submit the
+prompt, and that gives us 20 unique video ideas. Once you choose whichever one you like the most, the very
+next step is to go over to Claude, paste in this prompt from the Notion template where you just have to insert
+your YouTube video title. You can just pick whichever you want you like the most. I'm going to go with this.
+And as you submit it, Claude will start writing a really high-quality YouTube script that is written in the
+same style as this YouTube channel over here. Next up, we of course need to generate a voiceover. So, we're
+going to go over to Eleven Labs, go to text-to-speech, and then just grab our entire script, paste it inside
+of this box, choose the voice in the right-hand side, or design it ourselves by uploading a reference photo so
+it matches exactly how he looks like and then generate speech. Next up we have video editing. I personally
+edit these videos inside of CapCut. It's free and it's very simple to use. And then at the end you also find
+some other useful tools and links for building and monetizing a faceless channel. Now let's talk about how
+YouTube changed in 2026 and what's new. You see YouTube algorithm as we know it doesn't really exist anymore
+in 2026 and no one really seems to talk about it. I mean I literally spent 3 weeks analyzing data from over a
+hundred different channels that I have access to because of my venture capital and I found eight different
+things you must do in 2026 if you want your channel to grow. If you want to get views and blow up on YouTube.
+So if you want to see the results of that and you want to learn more about the new YouTube algorithm, then
+make sure to watch this video next where I talk about exactly that. How to prepare and what to actually do
+right now to grow on YouTube.

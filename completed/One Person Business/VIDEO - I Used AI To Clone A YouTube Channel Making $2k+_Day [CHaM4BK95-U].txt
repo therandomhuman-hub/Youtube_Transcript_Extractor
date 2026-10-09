@@ -1,0 +1,115 @@
+Title: I Used AI To Clone A YouTube Channel Making $2k+/Day
+Channel: One Person Business
+Type: VIDEO
+Video ID: CHaM4BK95-U
+URL: https://www.youtube.com/watch?v=CHaM4BK95-U
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T18:24:03+00:00
+
+Kind: captions Language: en I run this channel completely with AI, but it's currently making only a thousand
+dollars a day. But then I found this channel that's making $67,000 a month, and they only started 3 months
+ago. And not only will I show you the new AI tool I'm using, but also how I'm using AI in a completely
+different way from everyone else, which is the main reason why I'm able to get these results over and over
+again. Let's get into it. First of all, the channel in question here is called Cosmic Goose. If we go to their
+analytics, this tool over here estimates they're making $67,000 a month. And that's for a reason. I mean,
+they're getting millions of views on their uploads, and we can see that they have almost 17 million views
+already, even though they started 90 days ago. They're in the space niche. And here's another one over here
+that also started out very recently, just 2 months ago, and their most popular videos have hundreds of
+thousands of views. And if we go to their analytics right here, this tool estimates they're making $28,000 a
+month, posting very similar content. I mean, here's another space channel like that. Their most popular videos
+actually have over 5 million views, but they started a year ago. And now they're making 14k a month. And
+here's another example over here, also in a very similar niche. They're doing $8,000 a month. And here's
+Cosmic Lens, for example, they're doing $9,000 a month. Now, the first and most obvious question, does YouTube
+still even monetize AI content? Yes, of course they do. YouTube CEO said he's all in on AI and wants creators
+to use it. I mean, Google and YouTube are the largest AI investors on the planet. They built VEO3 for video
+generation. They built Reimagine AI for shorts. They own Gemini. I mean, they're baking AI directly into
+YouTube Studio. They built Google AI Studio for voices. They're spending billions building these AI tools for
+creators, and plenty of channels in my community are making money with AI content. And I have a list of over a
+thousand channels making between 5 and $50,000 a month with faceless AI videos. And I know a lot of people
+talk about faceless YouTube, but they always fail to show their own proof that they're also doing it
+themselves. So, I have this channel again. By the way, these are US dollars. So, we can click here. It's in US
+dollars, over a thousand dollars a day from this YouTube channel. So, you know that I'm actually doing this
+and I've been doing it for the last 15 years. So, what the hell do I do differently? Well, I don't find one
+channel and just copy directly, because that way you're just making a worse version of something that already
+exists. So, instead, I find a three to five channels and take something I like from each of them and something
+that's working well from each of them until I stitch things together and create something new and unique. Last
+year in February 2025, I called this concept niche quilting. For example, I take title concepts from one
+channel, thumbnail style from the other channel, script style from third channel, editing style from a fourth
+channel, and so on. I'll show you the step-by-step process. So, let me show you the channels I'm going to
+stitch together today. So, I'm going to make space videos, but for the visual style, I'm going to model this
+visual style. I found this channel over here. They get millions of views and they're posting this like stop
+motion animation. This style works very well for them. They're getting millions of views, but I'm not going to
+go in their niche. I'm just going to model their style, their visuals. Then, for title style, I'm going to go
+to this dinosaurs channel. It's called Spinosnack and they get millions of views and I'm going to take their
+title skeletons, but I will just adapt them to space. Now, for script writing style, I'm going to go to this
+OG channel. They have human scripts and they write very well and they were getting tens of millions of views.
+So, I'm going to model the way that they write scripts, but with AI. And thumbnail style, I'm going to model
+from this cats channel because I really like the simplicity of these thumbnails and it works well for them.
+Step number one, I'm going to head over to Claude AI and I'll type in this prompt. I'm going to upload
+screenshots of a YouTube channel and their most popular videos. Your job is to analyze which topics get the
+most views and create 15 new video ideas in the same niche. Then, I'll take a screenshot of these dinosaur
+videos, and I'm going to say take out title skeletons from this dinosaur's channel. And now we have these
+titles adapted to space niche combined with what's already working and with these skeletons because we go the
+deeper you go, the creepier prehistoric oceans get. And here we have the deeper you go into space, the
+creepier the planets get, and so on and so forth for all the other videos. All right, next we need to make
+these videos unique. I mean, we need to make them feel new. So, we're going to use this prompt, and later I'll
+show you where to get these prompts for free. And then just paste that prompt here, select one of these ideas.
+We're essentially asking Claude for 10 unique points with lesser-known facts and surprising details that most
+people have never heard about before because not only are we trying to impress people who are watching, but we
+also want to show to the AI algorithm which instantly analyzes your transcripts. We want to show it that we're
+bringing something new to the table, and there's a reason for them to bring us more viewers because we're
+going to share something that no one talks about. And that's what Claude is doing for me now. Step number
+four, now we need to write a script. Now, you can of course write scripts directly inside of Claude yourself.
+However, that's not going to perform the best because Claude was never built specifically for YouTube, and no
+matter how much you prompt it, it usually sounds robotic, and it doesn't perform well. The tool that I use is
+Solo AI. When you go to the dashboard over here, you can go to the content side over on the left, and then
+select YouTube script writer which was specifically built for YouTube, and then describe what the video is
+going to be about. And for me, that's going to be the deeper you go into space, the creepier the planets get.
+I'm going to paste the title here. And now when it asks me for details, this is where I'm going to paste these
+10 unique points that no one else mentions. I'll select the text note, I'll paste those points here, and now
+that's going to be integrated into my script. And now when it asks me for the style of writing, this is where
+this is going to shine. I'm going to go to Infographics Show, and I will model the style of writing from their
+scripts. But to make this even better, I'm going to look for some space videos. I'll go to this video, for
+example, I'll click share, copy the link, and I'll model their style of writing simply by pasting a URL. Now,
+when it asks me for a monetization goal, I'm going to select ad revenue, maximize watch time, and then I'm
+going to increase the length of this video to 10 minutes, and I'll generate the script with one press of a
+button. Next step is to create a voiceover, someone reading our script. Now, if you want to do it for free,
+you can go to Google AI Studio. They have their voices, though but it's very slow and limited, and voices
+sometimes come out robotic from this. If you have a slightly bigger budget and you want more realistic voices,
+then still you can just go to Fiverr or Upwork and hire a real human voiceover artist. Though this can take a
+little bit of time and can be very expensive. I mean, only 100 words is $25 for this example, or 15 bucks for
+100 words. And look, our scripts have 2,000 words, so that will be a lot of money. Or, you can just copy this
+script, and then you can simply go to the voice section inside of Solo, select voiceover, and you'll find nine
+and a half realistic AI voices right here. Just pick whichever one you think sounds the best for you. You can
+filter through genders and age and language, and then just paste your script here once you select the voice,
+and just click generate. Next, I said I'm going to model this miniature style of animation, this like stop
+motion with AI. So, I have this prompt over here that I'm going to use. I'll go back to Claude. I'll paste in
+the prompt, I'll select my title again, and then I'll copy my script, I'll paste it inside of this box, and
+now Claude will start writing prompts that I can copy and paste to generate those visuals for the entire
+video. I'm going to grab the first one, I'll go back to Solo, I'll go to video on the left side, I will select
+video creator. Now, there's plenty of models. There is a new model over here that is combining multiple of the
+best AI video models. It's called Solo LX High End, and this is going to give you the most realistic videos.
+However, this one costs a lot of credits to use, and you don't need to use that right now. There's also Solo
+NX. This one is less, and then Solo PX Visual, but this one, Solo VX, is a budget model. There's also a lower
+model as well, like you can select this one, it's the cheapest. And then you can just paste your prompt.
+That's going to use the least amount of credits, select aspect ratio 16 by 9, and just generate the video. And
+this is how the clip turned out with the cheapest model inside of Solo. Next, we're going to create thumbnails
+in this style, like these cats, but we're going to adapt it to space. So, I'm going to go back to Solo. I'll
+go to AI Visual Studio, go to Image Generator, select Solo AX for image. This is the best model right now.
+Make sure that you select a 16 by 9 ratio or landscape. That's for YouTube thumbnails. I'll enter an example
+prompt, and generate the thumbnail. And here's a thumbnail that Solo made for me. I actually really like this.
+Now, when you see all these channels getting results in their first 20, 30, 60 days of starting, don't get
+discouraged if you've been trying YouTube and not finding much success for a while. That's completely normal.
+You never know the backstory of these channels. Maybe they had five of them that failed. I mean, every single
+day I speak to members inside of my community before they actually reach some decent numbers. It takes a while
+of trial and error before they get to monetize their channels. I mean, this guy, for example, said that he's
+been grinding. Got monetized in April 7th, which was frustrating because his biggest day was just days prior.
+So, it's not always smooth sailing. Therefore, if you're inside of this community, just go to the classroom
+because on our live coaching call on Monday, I shared some of the lessons that I've learned from my fastest
+growing YouTube channel that is now doing 28 grand a month. I shared how much it actually cost me. And I'll
+say that one of the biggest lessons that I've shared there is that I actually started three channels before
+that that completely flopped. It didn't go anywhere. But it's fine, because you can miss and miss and lose and
+lose until eventually you hit one channel which pays off for all of them and gives you insane profits back.
+Every business is risky, so go out there, have fun, build some stuff, and let me know how it goes in the
+comments below. See you next time.

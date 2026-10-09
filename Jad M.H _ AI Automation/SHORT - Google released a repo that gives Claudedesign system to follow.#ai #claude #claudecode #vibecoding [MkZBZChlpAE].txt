@@ -1,0 +1,22 @@
+Title: Google released a repo that gives Claudedesign system to follow.#ai #claude #claudecode #vibecoding
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: MkZBZChlpAE
+URL: https://www.youtube.com/watch?v=MkZBZChlpAE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:59:53+00:00
+
+Kind: captions Language: en Here's how I build these websites for my clients. There are two things I coding
+tools are great at and design just became one of them. Cloud code can build you a full landing page in
+minutes, but sometimes the spacing is off. The buttons look random and every dashboard ends up looking like a
+vibe coded app. Here's how to fix it. Google just released a repo called design.md and it gives Cloud a design
+system it can actually follow. So step one, go to design.md GitHub repo, hit the green code button and copy
+the link. Step two, paste the link into Cloud and tell it to set it up for your project. Step three, ask Cloud
+to create a design.md file for you. Give it a real direction, say something like, "Make this feel like a clean
+founder dashboard, tight spacing, no generic SAS gradients." Step four, and this is the one that changes
+everything. Now every page Cloud builds reads that file first, your colors, your spacing, your components
+locked in before it writes a single line. I run AI workshops for business owners and this is the trick that
+finally stops AI built sites from looking AI vibe coded. I made a full guide with a repo link, my starter
+design.md file, and the exact prompts I used to lock in my brand look. Follow me, comment design below, and
+I'll send it over to you.

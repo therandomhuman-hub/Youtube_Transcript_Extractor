@@ -1,0 +1,21 @@
+Title: Comment **FORGED** and I’ll send you the checklist. #AI #AIAgents #Cybersecurity #Claude #Tech
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: BBz6sgqq8QE
+URL: https://www.youtube.com/watch?v=BBz6sgqq8QE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:19:01+00:00
+
+Kind: captions Language: en Researchers just found a way to hijack AI agents and make them do anything
+stranger wants and none of the safety checks catches [music] it. Normally, your agent reads a message and its
+safety filters can catch it before it does anything. This trick slips into instructions that's already set to
+run so the agent just does it. And here [music] is the thing, the part that's supposed to review it gets
+completely skipped away. Every filter, every guardrail, every safety check you're paying for never fires. It's
+called core break. Shown at Black Hat this month [music] and it hit three of the biggest agent tools. Amazon's
+Bedrock Agent Core, Google's AI ADK, and Vercel's AI SDK. Google one is the serious one. A stranger can fake
+the agent's own memory so it trusts them like it's an insider. Now, the good news, Amazon already fixed theirs
+on their end. If you're on Bedrock, you're safe and you did nothing. In the Google part, you have to fix it
+yourself. Update your ADK now one mode, resumable, still isn't fully patched so don't use it until it is. If
+you want to All right, if you want to check whether your setup is exposed, comment forged and I'll send it
+straight to you.

@@ -1,0 +1,18 @@
+Title: Top 10 best open-source models you can run for free #ai #aitools #claude #chatgpt #aiprompts
+Channel: Jad M.H  | AI Automation
+Type: SHORT
+Video ID: i2QhhMb0swE
+URL: https://www.youtube.com/watch?v=i2QhhMb0swE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T20:47:14+00:00
+
+Kind: captions Language: en Here are 10 best open-source AI models you can run for free right now, ranked for
+actual work, not benchmark bragging. Our number one today is GLM 5.2. It's MIT licensed. It has a 1 million
+token context window, and it's currently the strongest open weights model for coding. Right behind it, Kimmy K
+2.7 code for agent-style tasks. DeepSeek V4 for code and math. MiniMax M3 and Qwen 3.6 for every lightweight
+everyday use. The beautiful part is all of these have a free downloadable weights, so you can run them
+yourselves with no subscription. The list keeps moving fast. GLM leads today, but a single new release can
+reshuffle the whole ranking overnight. So, treat it as a snapshot, not a gospel. If you're trying to cut an AI
+bill, one of these can probably replace a paid plan. I'm going to full ranked list with each one is best at,
+how to run it, just comment "open 10", and I'll send it over.

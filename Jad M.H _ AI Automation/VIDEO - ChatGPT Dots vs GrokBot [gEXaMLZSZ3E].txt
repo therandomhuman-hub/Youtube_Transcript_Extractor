@@ -1,0 +1,65 @@
+Title: ChatGPT Dots vs GrokBot
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: gEXaMLZSZ3E
+URL: https://www.youtube.com/watch?v=gEXaMLZSZ3E
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:14:11+00:00
+
+Kind: captions Language: en So, today we're introducing dots. Dots are remarkably capable, always-on agents.
+>> Can you do anything that a human with access to a computer could do? >> They have their own computer in the
+cloud, their own browser. >> I think it's funny when they talk to each other, and they actually give
+directions to each other. >> Working 24/7 to take on things that you don't want to do. >> So, OpenAI just
+launched dots at DevDay, and it's an AI agent that works for 24/7. And if that sounds familiar, it's because
+Grok already launched basically the same thing 7 weeks ago. It's called Grok bots. So, the first thing I
+wanted to know was which one is actually better, and which one should you pay for. So, I put them side by
+side, same questions for both. What can it do? How does it work with your apps? How many agents do you get?
+And what does it cost? And I'm filling in the scoreboard as we go. So, you will see exactly where each one
+wins. A little bit spoiler, it's closer than what you would think. So, let's get right into it. So, okay.
+First, what is this even? Both of these are what they call always-on agents. It's not a chatbot where you ask
+a question and get an answer. It's an AI that gets its own computer in the cloud, logs into your stuff, and
+keeps working after you close your laptop. It only comes back to you when it needs your approval. So,
+basically, it's an assistant, not a chat. Let's start with that one [music] that came first. Grok bot, this
+launched on August 11th. The first thing that stands out is that you don't get one bot, you get a team. You
+can have bots for sales, a bot for your inbox, a bot for your invoice, and they can actually talk to each
+other in a group chat and pass work between themselves. So, that's pretty cool. The second thing is how it
+uses your apps. It doesn't need any specialist connection, it just logs in like a human would. Gmail, your
+CRM, any websites, it clicks around same way you [music] do. So, in theory, it works with anything. And the
+third thing, which is my favorite feature out of both of them, you can teach it by showing it you by doing a
+task yourself up to 10 minutes, and it learns it and saves it as a routine. You show it once and you never
+have to do that task again. Now, price. Grok bot doesn't have its own plan. It comes with Grok bot and Cursor
+subscriptions. The cheapest way is in your Cursor Pro and $20 plan a month or Super Grok at 30. So, that's
+super cheap to try. But, here's the catch. Every plan only gets a weekly allowance. If you go over, you pay
+extra based on usage. And right now, there's no spending cap. So, $20 is where it starts, not necessarily
+where it ends. And one more thing, it's still in beta. All the bots share the same computer and the same
+logins and the log that shows you exactly what your bots did isn't out yet. So, for the scoreboard, Grok bot
+price to start $20. Agents, a whole team, apps, anything it can log into, learn by watching. Yes, safety still
+beta. Now, Dots. This is Open AI's version, launched at DevDay 30 minutes ago. Same idea, always on its
+computer and the cloud, its browser, it can write code, run the test, and send you the pull request. And it's
+powered by Astra, which is Open AI's top model. But, the way it uses your apps is different. Instead of
+clicking around like a human, it plugs in over thousands of apps through ChatGPT and same plugins you already
+connect to. That's usually faster and more reliable, but it only works with what's been built. And it lives
+where you already work. You can forward it to Slack thread and just say take this. You can tag it in the
+comments, Open AI's new space work like it's a coworker. And soon, you will be able to text it, even call it
+on the phone. The person had it catch design changes overnight, update their calendar, build a new screen, and
+open a pull request. And Open AI says their own engineers [music] have Dots fixing dozens of bugs a day. Now,
+here's the downside. Right now, you only get one Dots. A team of Dots is coming in the future, so Grok is a
+little bit ahead in there. And price, Dots is included in ChatGPT Pro, >> [music] >> Business Premium, and
+Enterprise. So, the cheapest way is the $100 Pro Plan. That's five times more than Grok Bot's cheapest option.
+But, Open AI says taking to your dots doesn't eat in your usage. So, what you pay is what you pay. And on
+safety, you can set limits on which app it can actually use and what it can do on your computer. And that's a
+big focus for Open AI right now. So, the scoreboard dot stress to start $100, agents one, apps over a
+thousands, over 4,000, plus Slack. Learn by watching, not really. It runs how you work over time. >> [music]
+>> Safety, the strongest of the two. So, let's look at everything together. Grok Bot, $20 to start. A whole
+team of bots. Works with anything it can log into. Learning by watching you, but it's still beta. And you can
+get charged extra. Dots, $100 to start. One dot for now. For thousands of apps. >> [music] >> Slack texting
+and calls soon. And having a better safety and control. And there's no surprise bill. Now, look. I know most
+of you aren't going to pay for both of these. Or you might. I personally would go to ChatGPT because there's a
+lot more I can use with Cursor and so on. If you're a solo person or a small business and you want to try
+agent cheaply, start with Grok Bot. But, if you want to go really in depth, I would definitely use Dots.
+Especially if you pay ChatGPT Pro or your team lives in Slack, just turn on Dot today. It's already included.
+It knows your context. It knows how you work. It knows what apps you're connected to. I'm going to put both of
+these on the exact same task next and show you which one actually finishes it. So, subscribe so you don't miss
+that. It generally helps me to keep making these videos. Thanks for watching. I really appreciate it. If you
+like this video, just leave a follow and I'll see you in the next one.

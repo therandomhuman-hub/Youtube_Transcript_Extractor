@@ -1,0 +1,83 @@
+Title: How to Build AI Chatbots: Full Guide from Beginner to Pro! PART 2!!!
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: TgYMnNPMLJ0
+URL: https://www.youtube.com/watch?v=TgYMnNPMLJ0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-09T19:30:35+00:00
+
+Kind: captions Language: en today I will build a knowledge base and understand the fundamentals of a knowledge
+base and how we will integrate it into our voice flow we'll also test if the knowledge base is providing
+accurate information and part two we will create an information verification system for example if a user is
+putting a wrong phone number or wrong name or email address the system will automatically check and verify if
+the information is correct B three will develop an AI that responses to general questions without using too
+many tokens making it more coste efficient and of course no prior coding experience is needed you'll be able
+to get this agent up within minutes now last time we built a this so far so now let's just start with the
+knowledge base let's go back here and go to knowledge and here you press on the top right go to add a source I
+like to use sitap because it will take all the URLs that they have in their website but if you would like to
+take a specific URL and no other URLs you can just go do this one so here we have a law firm I'm just going to
+take their URL go here go to sign map you paste you paste it. slash and make sure at the end you add the site
+map. [Music] XML okay as you can see there's so many right now wait now here this is the refresh rate what
+does refresh rate mean so this for example if they changed something in their website whether like it's a
+product or like a service that they provide into their business it will you you can simply just keep
+refreshing it it could be daily weekly or monthly I prefer to put it monthly as you can see there's so many
+URLs as you can see there's so many URLs I think I chose a wrong example for this video so let's just take
+some of them let's not take all urls gu just take five URLs okay now we go on the workflow okay so here's
+where we left off from our last video we basically just made a a quick and easy gather up information like
+what's your name what is a good email to reach you at and if we get disconnected what is the best phone number
+to call and at the end uh we made an API that we take in the Excel sheet right now here's the thing back this
+this was extremely hard back then in voice flow voice flow just made an update I believe two weeks ago
+basically if you wanted to get the correct information from a client you had to create an entire setup to
+verify if the user put in his actual name for example here uh before I ask a few important questions about
+your case may have your name you can get some people that you know will write some numbers and of course
+that's not a name but it will be registered as a name even though it is not a name so back then we had to
+create a setup something similar to this here's I'll show you how it works hey before ask important questions
+about your case may have your name let's say one 2 three as you can see here thank you for providing the
+information about the type uh to better assist you could you please provide the correct name right and then
+here it's Jade as you can see it goes through what is a good email to reach you at but now with this new
+update they made it much more easier here's an example okay let's remove this remove this remove this okay you
+go on capture up we were not able to have this back then but now you have to pick up the entities and username
+that's it and then do the same thing over capture name entity user what is this email okay this is email
+capture again or the phone number here that's it and here's how it looks like hold on always train your agent
+okay so important we have your name one two three okay it looks like you entered the number could you please
+provide your full name let's say again one two three okay my name is jate okay and provide the last name m a
+what is a good email to reach you at let's say same thing here 1 2 3 so yeah basically you get the logistics
+of it now it they made it 10 times easier but if you want to just capture the last utterance with this new
+update you just make this all let me show you how to make it for example so you go in here capture you go in
+capture you see like at the top right there is entities entire user reply so it will just take last utterance
+simple as that from the last video I did touch a little bit the workflow I basically created this system where
+it goes to call to e for example if a client has a general question about the company and you don't want to be
+using too many tokens what I prefer to use is this uh build now I'll try to break it down to you so you could
+build it on your own and there are some codes here and if you would like to get some codes in this video you
+just send me a message and I'll send you the link for all the codes or the entire buildt so I can send it to
+you over now going back to it you start by building the Java script okay and the JavaScript here's what you'll
+be writing last utterance Json then you go and make an API and here in the Heathers and in the post API you
+just go to the documentation of uh voice flow you take their API and your API and you put it here in the body
+you go to Raw you make this exact word for word then go to responses right and then you recreate another
+JavaScript and in this JavaScript you make a code it's quite simple again if you need this code you just send
+me a message I would love to send it to you you go on either default no context or fail if it goes to default
+it will go get an answer you creates a set AI you'll name it answer and the prompt his last utterance and here
+is the prompt setting answer the user's questions based on the provided context important if the answer to the
+question is not found within the given context respond with a single word know okay goes here goes to default
+KB and when it goes to KB is like do you have any questions saves it says and goes to call to e so this way it
+goes and Loops back to call to e up and it keeps going back over and over and over same thing here here you
+make response AI in this response AI you answer the following user message last utterance the conversation
+history goes as follows VF memory you have to create this uh variable VF memory and here's the prompt your
+call Tony from zero jail blah blah blah blah very important for me I believe this is important because this
+will stop them from entertaining people that are not customers and we don't want to be wasting too many tokens
+uh feel free to ask any questions uh you create a bunch of these and goes back to C to us here's how it looks
+like I'll test [Music] it um do you guys sell us so I'm here to assist you with criminal law defense and
+related inquiries unfortunately we don't sell pizzas if you have questions about legal matters feel free to
+ask okay now here it's going to go back and loop back again so let's say do you guys sell burgers it went back
+again same answer they don't sell Burgers unfortunately um now actually let's try to get an actual information
+like what time do you guys close okay our office hours May Vary but typically we close at 5:00 p.m. if you
+need an assistant or have any legal questions feel free to uh like feel free to reach out now what if the
+client has a case hey I have a court T next month okay there you go voila so it goes to criminal law juvenile
+um I don't that's it and let's say again wrong name okay voila so this is how you create a this is how you
+make a knowledge base and also how to make a verification system and how to develop an AI that responses to
+general questions without using too many tokens if you have any questions or if you need the codes to be able
+to make the general question uh without using too many tokens again feel free to send me a message I'm you're
+available I really appreciate you watching this video now for the next video I'll show you guys how I make my
+chat Bots check Google Calendar to see if there is some availabilities how I can book slots that are not busy
+um I appreciate you guys watching and I'll see you in the next one thank you
