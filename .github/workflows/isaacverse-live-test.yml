@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: isaacverse-live-transcript-test
@@ -95,6 +95,34 @@ jobs:
               sys.exit(1)
           print("PASS: exact channel count and all transcripts saved.")
           PY
+      - name: Publish verified transcript archive into repository completed/
+        if: success()
+        shell: bash
+        run: |
+          set -euo pipefail
+          source_dir="live_test_output/completed/Isaac"
+          destination="completed/Isaac"
+          if [ ! -d "$source_dir" ]; then
+            echo "Expected completed channel directory is missing: $source_dir"
+            exit 1
+          fi
+          mkdir -p completed
+          if [ ! -d "$destination" ]; then
+            cp -a "$source_dir" "$destination"
+            echo "Published first verified Isaac transcript archive."
+          else
+            echo "Canonical completed/Isaac already exists; preserving it. The packager will refresh its ZIP from the canonical archive."
+          fi
+          python scripts/package_completed.py --root .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add completed/Isaac completed/Isaac.zip
+          if git diff --cached --quiet; then
+            echo "The canonical transcript archive and ZIP are already up to date."
+          else
+            git commit -m "chore: publish verified Isaacverse transcript archive [skip ci]"
+            git push
+          fi
       - name: Upload live test transcripts and audit
         if: always()
         uses: actions/upload-artifact@v7
