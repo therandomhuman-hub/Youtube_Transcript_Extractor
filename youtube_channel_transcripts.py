@@ -442,7 +442,10 @@ def discover_channel(channel_url: str, browser: str | None, runtime_name: str | 
                 count, new_count = consume(info, page_url, kind)
                 print(f"Found {new_count} new item(s); {count} entries returned.", flush=True)
             except Exception as exc:
-                failed_kinds.add(kind)
+                # The channel root is a useful fallback, not a required source
+                # when the /videos and /shorts tabs can be enumerated directly.
+                if kind in {"VIDEO", "SHORT"}:
+                    failed_kinds.add(kind)
                 scan_results.append({"type": kind, "url": page_url, "status": "FAILED", "message": explain_error(exc)})
                 print(f"Scan failed: {explain_error(exc)}", flush=True)
         if channel_id and channel_id.startswith("UC"):
