@@ -143,7 +143,8 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
     channel_state = state["channels"].setdefault(key, {})
     folder = locate_channel_folder(root, channel_url)
     archived = locate_channel_folder(completed_root, channel_url)
-    if folder is None and archived is not None:
+    if archived is not None and (folder is None or folder.resolve() != archived.resolve()):
+        # Work from the archived snapshot so new items can be found without losing prior transcripts.
         folder = root / archived.name
         shutil.copytree(archived, folder, dirs_exist_ok=True)
     prior_manifest: dict[str, Any] = {}
