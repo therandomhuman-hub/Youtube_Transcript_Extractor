@@ -1,3 +1,3 @@
 # Isolated live test target. Do not put production channels here.
-# Final post-audit live test after all reliability fixes, with no credentials committed.
+# Isolated acceptance target; passing workflow publishes verified transcripts and ZIP into completed/.
 https://www.youtube.com/@isaacverse
