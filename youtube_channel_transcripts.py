@@ -642,10 +642,25 @@ def seed_manifest_from_entries(manifest_path: Path, manifest: dict[str, dict[str
     if changed: atomic_json_write(manifest_path, manifest)
 
 
-def merge_pending_manifest_entries(entries: list[dict[str, Any]], manifest: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+def merge_pending_manifest_entries(entries: list[dict[str, Any]], manifest: dict[str, dict[str, Any]],
+                                   output_dir: Path | None = None) -> list[dict[str, Any]]:
+    """Combine the latest channel scan with unresolved manifest items.
+
+    A record marked SAVED is skipped only if its transcript still exists and is
+    non-empty. This recovers a manifest/file mismatch instead of leaving the
+    channel permanently incomplete after a deleted or corrupted transcript.
+    """
     by_id = {item["id"]: item for item in entries if item.get("id")}
     for vid, record in manifest.items():
-        if not isinstance(record, dict) or not is_probably_youtube_video_id(vid) or record.get("status") == "SAVED" or vid in by_id: continue
+        if not isinstance(record, dict) or not is_probably_youtube_video_id(vid) or vid in by_id:
+            continue
+        saved_file_ok = False
+        filename = str(record.get("filename") or "")
+        if record.get("status") == "SAVED" and output_dir is not None and filename and Path(filename).name == filename:
+            candidate = output_dir / filename
+            saved_file_ok = candidate.is_file() and candidate.stat().st_size > 100
+        if record.get("status") == "SAVED" and (output_dir is None or saved_file_ok):
+            continue
         by_id[vid] = {"id": vid, "url": record.get("url") or video_watch_url(vid), "title": record.get("title") or vid,
             "kind": record.get("type") or "VIDEO", "channel": record.get("channel") or "Unknown", "resume_from_manifest": True}
     return list(by_id.values())
