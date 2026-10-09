@@ -210,6 +210,9 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
                 saved_now += 1
             else:
                 print(f"Transcript not obtained for {item['id']}: {message}", flush=True)
+                if extractor.is_auth_required(message):
+                    print("YouTube requires authentication / is presenting a bot challenge. Stopping further video requests for this channel in this run; add an authorized cookie secret or run locally with an authorized browser session.", flush=True)
+                    break
         except Exception as exc:
             extractor.update_manifest(manifest_path, manifest, item, status="FAILED", message=extractor.explain_error(exc))
             print(f"Item failed {item['id']}: {extractor.explain_error(exc)}", flush=True)
@@ -264,6 +267,7 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
               "saved_this_run": saved_now, "saved_total": saved_total, "known_items": total,
               "video_count": sum(1 for item in entries if str(item.get("kind", "VIDEO")).upper() != "SHORT"),
               "short_count": sum(1 for item in entries if str(item.get("kind", "")).upper() == "SHORT"),
+              "auth_required_count": sum(1 for item in manifest.values() if item.get("status") == "AUTH_REQUIRED"),
               "unresolved_items": unresolved, "scan_errors": fatal_scan_errors,
               "folder": str(channel_folder), "last_checked_at": utc_now()}
     channel_state.update(result)
