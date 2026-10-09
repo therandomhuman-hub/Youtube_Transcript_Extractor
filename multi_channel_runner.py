@@ -110,8 +110,10 @@ def manifest_complete(folder: Path) -> tuple[bool, int, int, int]:
         if not isinstance(record, dict):
             unresolved += 1
             continue
-        filename = record.get("filename", "")
-        transcript_path = folder / filename if filename else None
+        filename = str(record.get("filename") or "")
+        # Manifest contents are data, not trusted paths. Only count a transcript
+        # that lives directly inside this channel folder.
+        transcript_path = folder / filename if filename and Path(filename).name == filename else None
         file_ok = bool(transcript_path and transcript_path.is_file() and transcript_path.stat().st_size > 100)
         if record.get("status") == "SAVED" and file_ok:
             saved += 1
