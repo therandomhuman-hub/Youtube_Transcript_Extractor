@@ -29,5 +29,5 @@ def test_channel_url_normalization_and_parser():
     import youtube_channel_transcripts as engine
 
     assert engine.normalize_channel_url("https://www.youtube.com/@Example/videos") == "https://www.youtube.com/@Example"
-    vtt = "WEBVTT\\n\\n00:00:00.000 --> 00:00:01.000\\nhello everyone\\n\\n00:00:01.000 --> 00:00:02.000\\nhello everyone welcome\\n"
+    vtt = "WEBVTT\n\n00:00:00.000 --> 00:00:01.000\nhello everyone\n\n00:00:01.000 --> 00:00:02.000\nhello everyone welcome\n"
     assert engine.parse_vtt(vtt) == "hello everyone welcome"
