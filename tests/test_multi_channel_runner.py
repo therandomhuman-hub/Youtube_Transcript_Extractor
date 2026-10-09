@@ -50,7 +50,7 @@ def test_completed_channel_is_updated_in_place(tmp_path, monkeypatch):
         video_id: {"video_id": video_id, "type": "VIDEO", "title": "Existing", "url": f"https://www.youtube.com/watch?v={video_id}",
                   "channel": "Example Channel", "status": "SAVED", "filename": filename, "source": "captions", "language": "en"}
     }), encoding="utf-8")
-    (channel / "collection_summary.txt").write_text(f"Channel URL: {channel_url}\\n", encoding="utf-8")
+    (channel / "collection_summary.txt").write_text(f"Channel URL: {channel_url}\n", encoding="utf-8")
 
     monkeypatch.setattr(engine, "discover_channel", lambda *args, **kwargs: (
         "Example Channel", [{"id": video_id, "url": f"https://www.youtube.com/watch?v={video_id}", "title": "Existing", "kind": "VIDEO", "channel": "Example Channel"}], [], []
