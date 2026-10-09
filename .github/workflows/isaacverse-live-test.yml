@@ -1,0 +1,63 @@
+name: Isaacverse Live Transcript Test
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - live-test.txt
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: isaacverse-live-transcript-test
+  cancel-in-progress: false
+
+jobs:
+  live-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - name: Install Deno runtime
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+      - name: Confirm the isolated target
+        shell: bash
+        run: |
+          test "$(grep -Ev '^[[:space:]]*(#|$)' live-test.txt | wc -l | tr -d ' ')" = "1"
+          grep -F 'https://www.youtube.com/@isaacverse' live-test.txt
+      - name: Run live discovery and transcript extraction
+        timeout-minutes: 300
+        env:
+          USE_WHISPER_FALLBACK: "false"
+          PYTHONUNBUFFERED: "1"
+        run: python multi_channel_runner.py --channels-file ../live-test.txt --output-dir live_test_output --max-channels 1
+      - name: Generate per-video audit report
+        if: always()
+        run: |
+          if [ -f live_test_output/last_run_report.json ]; then
+            python scripts/verify_live_test.py --report live_test_output/last_run_report.json --expected-videos 9 --output live_test_output/ISAACVERSE_LIVE_TEST_AUDIT.md | tee -a "$GITHUB_STEP_SUMMARY"
+            cat live_test_output/ISAACVERSE_LIVE_TEST_AUDIT.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo 'No runner report was generated; extraction may have failed before channel processing.' | tee -a "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Upload live test transcripts and audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: isaacverse-live-test-results
+          path: live_test_output/
+          if-no-files-found: warn
+          retention-days: 14
