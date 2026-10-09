@@ -67,6 +67,9 @@ jobs:
             exit 2
           fi
           python multi_channel_runner.py --max-channels "$MAX_CHANNELS_INPUT"
+      - name: Package completed channel archives
+        if: always()
+        run: python scripts/package_completed.py --root .
       - name: Commit transcript and state changes
         if: always()
         run: |
