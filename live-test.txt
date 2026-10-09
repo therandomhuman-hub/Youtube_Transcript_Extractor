@@ -1,3 +1,3 @@
 # Isolated live test target. Do not put production channels here.
-# Retest after yt-dlp logger capture fix for absent Shorts tabs.
+# Final validation with upgraded Node 24 compatible workflow actions.
 https://www.youtube.com/@isaacverse
