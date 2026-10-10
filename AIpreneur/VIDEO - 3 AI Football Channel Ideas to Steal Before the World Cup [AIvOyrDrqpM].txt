@@ -1,0 +1,108 @@
+Title: 3 AI Football Channel Ideas to Steal Before the World Cup
+Channel: AIpreneur
+Type: VIDEO
+Video ID: AIvOyrDrqpM
+URL: https://www.youtube.com/watch?v=AIvOyrDrqpM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T12:57:53+00:00
+
+Kind: captions Language: en Look at this. >> The quietest man in the room. No flash, >> [music] >> no ego,
+just a boy from a small town in Spain who fell in love with a ball. But in 2009, the world he knew collapsed.
+His best [music] friend, his brother in football, Dani Jarque, gone. >> No match footage, no copyright clips,
+no camera. Every scene you are watching was generated with AI. And right now, football channels are exploding
+because the World Cup is coming. So, I built three faceless >> [music] >> football channel formats in one
+Claude chat: stories, quizzes, and facts. Three different channels, three [music] different styles, and one
+workflow. And here is the best part. I didn't waste a week testing each [music] format alone. I generated
+every story, every quiz question, and every fact all inside the same Claude chat. By the time I came back, all
+three demos were ready. By the end of this video, >> [music] >> you will have three battle-tested faceless
+football channel formats that you can launch this week before the World Cup even kicks off. But [music] stay
+with me until the end because there is one move inside this workflow that most beginners skip [music] that
+decides whether your channel actually monetizes. I will show you exactly how [music] to handle it in idea
+three. Welcome to AIpreneur, and let us build these demo ideas one by one. Idea one, AI football stories. The
+first format is the strongest one, AI football stories. These are shorts, dramatic, and real-life football
+moments retold in the 3D film style with no real footage and no copyrighted clips, just AI-generated scenes, a
+cinematic voice-over, and a story that hits hard. So, open Claude, start a new chat, and paste this first
+prompt that describes a whole football story, and hit generate. In a few moments, Claude comes back with five
+story ideas. For this tutorial, I am picking the one I think hits hardest, Eric Abidal, 2011, the captain who
+lifted the trophy from a hospital bed, Fabrice Muamba, 2012. The footballer who was dead for 78 minutes,
+Andres Iniesta, 2009, 2010. The goal that came from the darkest place. Quick honest note before you script
+anything. Always verify the story is real before writing it. AI sometimes invents details that sound true but
+aren't. Open Google, spend 10 minutes checking the timeline, the dates and the outcome. Once verified, come
+back to the same Claude chat and paste this next prompt. That gives you a tight, emotional, ready to record
+script. Now, open 11 Labs and pick a cinematic narrator voice. Do not pick the most dramatic voice. Pick the
+voice you can listen to for 90 seconds without getting tired. Calm with one or two emotional beats is what
+holds a viewer. Paste the script, hit generate and download the MP3. For visuals, you will generate AI scenes
+that match the story beats. The struggle on the pitch, the medical team, the recovery, the triumphant return.
+No real footage of the actual event, only AI-generated cinematic recreations. So, go back to the same Claude
+chat and paste this next prompt. Claude returns six to eight image prompts ready to paste. Then come back to
+the same Claude chat and paste this last prompt to get the matching video prompts for VO3. Hit generate. In a
+few moments, Claude returns the video prompts. Now, you are free to pick any image and video generator you
+prefer. For the visuals, Midjourney, Higgsfield, Sora, Kling, whatever you have access to. I will show you
+Google Flow because it gives you Nano Banana 2 for images and VO3 for videos in the same place and it offers a
+free limited trial. So, in Google Flow, click the image tab and select Nano Banana 2. Paste your first image
+prompt and hit generate. In a few seconds, you get your first cinematic keyframe. Download it, then paste the
+next image prompt. Repeat until you have all your keyframes saved on your computer. Then switch to the video
+tab in Google Flow and select VO3. Paste your first video prompt. Paste your first image as a reference and
+hit generate. A few minutes later, your first clip is ready. Download it and move to the next one. Repeat this
+for every scene until all your video clips are saved. Now, open CapCut and create a new project. Drag your 11
+Labs voiceover into the timeline first. The voiceover is the backbone of the whole video and every visual has
+to match its pacing. Then drag every VO3 clip into the video track in story order one after another. Next,
+time each clip to its matching voiceover beat. If the narrator is on the line about the medical team, the
+medical scene plays on screen. If the narrator is on the comeback line, the triumphant scene plays. Trim the
+clips so the cuts land on the voiceover's emotional peaks, not in the middle of a sentence. Then drag a
+cinematic background music track underneath, drop its volume to around minus 18 decibels, and let the
+voiceover stay on top. Add captions and apply a clean template. White text with black outline reads well on
+dark cinematic footage. The final comeback line at the end. Add transitions between each clip. Go to
+transitions in the top menu and choose something cinematic mix or black fade work great for a cinematic look.
+When you're done, hit export at 1080p and your story video is done. All right. Now you have a fully cinematic
+AI football story video. No copyrighted clips, no face cam, no real footage needed. But stories are not the
+only way to win football shorts. If you want comments instead of emotions, the next format is even easier and
+it is built for engagement. Idea two, AI football quizzes. The second format is the engagement king football
+quizzes. Quiz videos win because viewers comment on their answers and tag their friends. That is what tells
+the YouTube algorithm your video deserves to be pushed further. So, go back to the same Claude chat and paste
+this next prompt. Hit generate. In seconds, Claude creates five quiz questions complete with clues and
+reveals, plus a player profile that includes the name, country, era, and a dramatic hook. Now, open Google
+Flow and use the same workflow as before. Image tab, Nano Banana 2 model. The only thing that changes is the
+prompt. For that, paste this image prompt into your Google Flow image tab to generate one silhouette per
+player, five total. The silhouettes are the question. The reveal happens later in CapCut. Now, you also need a
+reveal image for each player, the bright photo that pops up when the answer is shown. Stay in the same Google
+Flow image tab. Keep Nano Banana 2 selected and paste this next prompt to generate one reveal image per
+player, five total, matching the five silhouettes. Save them on your computer. You will pair each silhouette
+with its reveal later in CapCut. Next, and before you record the voiceover, go back to the same Claude chat
+one more time and paste this short prompt to turn the quiz output into a clean narration script. In a few
+moments, Claude returns a clean narration block, which is the exact text you paste into 11 Labs. Now, open 11
+Labs and pick an engaging quiz show voice, energetic but not exhausting. Paste the full quiz script and
+generate the voiceover. Then open CapCut. Start with an 11 Labs voiceover drag into the timeline first. Layer
+the silhouette image when the voiceover asks the question. Add the two clue lines as text overlays. After a
+3-second pause for the viewer to guess, and add text overlay for questions. Reveal the player with a bright
+animation and the answer. And here is the practical tip most tutorials get wrong. Do not make your quiz too
+easy. The viewer needs to feel just smart enough to answer three out of five. That is the sweet spot that gets
+them to comment their score and tag their friends. All right, now you have a comment bait quiz video. And quiz
+videos consistently get the highest engagement rate of any faceless format on YouTube right now. Time to move
+to the third idea, the fastest one to produce and the one that monetizes brilliantly. Idea three, AI football
+facts. The third format is the speed monster football facts videos. These are short, punchy, like five things
+you didn't know about style videos. Easiest to produce, easiest to scale, and strong evergreen performant. So,
+come back again to the same Claude chat and paste this last prompt that describes the story and hit generate.
+Claude returns five facts. Copy the output and then verify each one on Google before you record. 10 minutes of
+fact-checking saves you a demonetization strike. Now, generate the voiceover in elevenlabs. This format works
+best with a fast-paced punchy narrator. Then head back to Google Flow, same image tab, then video tab workflow
+from idea one, and generate one AI scene per fact. Ronaldo training, Ronaldo celebrating, Ronaldo on the
+bench, one visual per fact, five scenes total. In CapCut, edit each fact as a rapid cut segment. Voiceover up
+front, AI scene playing underneath, animations, text overlay, flashing the fact in big bold letters, and
+background music driving the pace. Now, here is the move most beginners skip. Make your video transformative.
+Do not just throw random football clips on screen. Add your own narration, your own AI visuals, your own
+structure, your own captions, and your own explanation. If you use any official football archive or
+third-party footage, only use content you have the right to use, or content clearly made available through
+official channels. The safer path is this. Use AI recreations for the main story, then use text, stats, maps,
+silhouettes, and public source references to support the facts. >> [music] >> All right, now you have three
+completely different football channel formats, story, quiz, and facts. Every single one built inside one
+Claude chat with no copyrighted clips and [music] no face cam. So now, your next step is simple. Pick the one
+format that feels easiest to you. Build three videos in that format this [music] week. Use the World Cup
+timing while it is still here. If you've not seen my previous video yet, the one where I show how to bulk
+generate 12 cinematic clips with one Claude chat, watch it next. [music] That video is the production engine
+for everything you saw today. And if you want all three prompts I used [music] in this video, the story
+prompt, the quiz prompt, and the facts prompt, drop football in the comments [music] and tell me which format
+you are choosing. I will reply with all three prompts directly so you can paste them into your own Claude chat
+[music] tonight. Subscribe to AIpreneur for more AI workflow tutorials. Thanks for watching and I will see you
+in the next one.

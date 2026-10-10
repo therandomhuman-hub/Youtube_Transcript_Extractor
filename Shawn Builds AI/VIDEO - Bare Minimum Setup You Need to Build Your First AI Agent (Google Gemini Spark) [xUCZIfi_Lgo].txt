@@ -1,0 +1,238 @@
+Title: Bare Minimum Setup You Need to Build Your First AI Agent (Google Gemini Spark)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: xUCZIfi_Lgo
+URL: https://www.youtube.com/watch?v=xUCZIfi_Lgo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:12:26+00:00
+
+Kind: captions Language: en The AI space is moving crazy fast right now. It feels like new tools are being
+shoved in your face every single day claiming to be AI agents. But what does an AI agent even mean? Just a few
+months ago, I was right there with you. Until I spent just 60 seconds setting up a 24/7 agent with Google's
+new Gemini Spark. And now I wake up every single morning with a whole list of new people that need my service.
+I don't know about you, but every single tutorial I see online obsesses about Claude using technical how-to's,
+opening up terminals, and just making things super complicated. And then following them blindly not only just
+wastes days of your time, but doesn't end up even moving you closer to the time and financial freedom that
+you're looking for. At the end of the day, isn't that the goal with AI to begin with? After building dozens of
+AI agents as an AI engineer at a multi-billion dollar digital media company, I found out that it's actually
+way easier to build and manage these AI agents than it looks. Personally, I was able to use agents to build an
+$8,000 per month agency on the side while working my 9-5 at my last IT job. One of the companies I worked
+with, for example, is Maxwell Social, a really cool event venue in New York City. Before working with them,
+they didn't have a good way to bring in new clients reliably. But with the right AI agent, they're able to
+source over 100,000 new qualified leads for their business, which they're able to consistently call and close
+for five-figure deals. The way I see it, there are just four distinct questions that we need to ask ourselves
+when working with AI. Most of the videos out there end up just skipping to questions two or three to start
+showing you how to build an AI agent without even realizing that question one is the most important part that
+sets you up for the rest. So in this video, we're going to go through every single step as simple as possible
+to show you how you can build your first AI agent with Gemini Spark. But before we jump in, let me show you
+exactly what it means to build an AI agent. So like I mentioned, there are only four questions we need to ask
+ourselves when working with AI. And this first one here gets overlooked all the time, but it's really the most
+important one. And that's asking the question, what should we actually build? I recently read this study that
+was done by MIT in 2025. And they found that large enterprises were spending 30 to 40 billion dollars on
+GenAI. But 95% of them are getting zero return. That's insane. And it's all because they don't ask the right
+question of what should we be using AI for? What is the actual point of building something? And I've actually
+seen this firsthand from working at large enterprises. But the advantage that you have as either a single
+person or a small business is that you can really dive in deep to this question and come up with an answer so
+that you're not wasting your time and money in building something that will actually serve you in the long
+run. So, how do we go about actually answering this question? Well, like my boy Ben Franklin said, time is
+money. And AI is great at providing value to both save time and save money or make money. So, the solutions
+that we create are going to handle one of those two things or sometimes even both. And that right there is the
+golden zone that we want to target. Like I mentioned, AI provides value in two different ways with time and
+money, which also happens to be the two different types of freedom that AI can provide you with. If we're
+going to be building our first AI agent, we want to get the most bang for our buck. Meaning that we don't just
+want to build something that helps with time or just money. We want to build something that falls in the
+center of this Venn diagram to where it's saving us both time and money or making us money. Here's a couple of
+example tasks that falls into each of those categories. So, to save you time, you might have an AI agent that
+helps you with drafting or reading emails, scheduling different calls, taking notes from the calls that you
+are on, or even entering data into all your different systems. On the flip side with money, you might have an
+agent that helps with outreach or creating new content that brings in inbound leads, or a speed-to-lead system
+that helps to contact interested customers as quickly as possible. That's great, but what does it look like to
+find something that fits in the intersection of those two areas? I recently took a trip to Cancun in Mexico,
+and I'll show you an example of an AI agent that was saving me both time and making me money while I was on
+this trip. Now, at the time, I was making a lot of LinkedIn posts. Similar to these, some educational info
+graphics. Making these are great because it brings in new people who are interested in the things I have to
+say and what I have to sell. So, the goal was to have AI be able to make these for me. If we take a look at
+the diagram here, image creation falls into the time aspect of it. Because I need to find good examples of the
+images I can create and then make something like this in an image tool, something like Figma or Adobe or
+Canva. The money part of it was inbound leads, cuz the more inbound leads that I got, the more people that I
+can have conversations with and might be interested in what I can provide for them. So, the perfect AI agent
+to make for this scenario was a LinkedIn content creation AI agent. And I actually made one that worked. It
+created these images. Because it looks at other people's LinkedIn content, finds the best performing posts,
+and then makes my own version using an image generation model of something similar to what they made. And it
+actually brought me people that were interested and then I hopped on calls with. So, while I was chilling over
+here in Mexico, images were being created for me that I was able to bring inbound leads in, and all through
+this LinkedIn content creation. So, you're probably telling yourself, "Oh, this is great. I want to find
+something that saves me both time and money." But you might be wondering what agent you should actually make
+now. Well, luckily, I created a skill for you that you can download totally for free with the link in the
+description below. It'll go through, ask you a series of questions that you answer, and tell you the best kind
+of AI agent to make. If you hop into Google Gemini, you can click this toggle here to go to Gemini Spark if
+you have the Google AI Pro plan. Then you can go to the section on the left here for skills. Once you download
+the skill from the link in the description, you can go to this upload skill button and then drag in the file
+here. That will create this AI agent fit skill. Then back in the chat, all you do is type {slash} AI agent fit
+and press enter. It will go and ask you seven different questions that you can provide answers to. Exactly
+what I did right here. Then it will diagnose the actual problem that you're facing, the agent that you should
+build. So for this one, it's a prospect discovery agent that will find people that are interested in what I
+have to offer. And it will explain if it makes us both time and financial freedom. Then it even gives you a
+build plan of how to make it in Gemini Spark with step-by-step instructions, exactly what tools you need to
+connect, and gives you an actual prompt which you'll be using in a minute here to copy and paste into our
+agent. But that brings us to question number two, which is how do we actually build an agent? I'm going to
+give you an example here from a game that I was obsessed with as a kid, and that is Mario Kart. I used to play
+this on the Wii all the time. If you haven't played this game before, then the premise is that you would
+choose a character to race with, and then you choose different courses to race on. And you want to complete
+the course as fast as possible to win the race. They also have this mode called time trial, where the sole
+objective is not to win a race, but to complete the course as fast as you can. Then it will save your best
+time for that course. The cool part is you can then race against your best time as a ghost, so that you can
+actually see what your best time looks like and try to beat it. Here's an example of you, for example, trying
+to race against your best time as a ghost. AI agents are actually kind of similar. Think about you racing
+through a course as you completing a task, like the task that you discovered in the previous question. You're
+doing this constantly every single day, going through laps and laps. Some laps you end up going faster, while
+other days maybe it's not going as well and you end up going a little slower. But while you're running these
+laps, you can't be doing any other course or any other races. You're stuck completing just that task. But when
+we create an AI agent, it's like making this ghost racer. You give it everything that you've learned on the
+best way to complete the task or the best way to go around the lap as fast as possible. Then you are freed up
+to go race on other tracks and do other tasks. While you have your AI agent ghost racer constantly completing
+this one course or one task for you in your record time because it's trained to do the task the best way that
+you've done it in the past. Think about doing the task on your own like you using the normal Gemini chat. But
+you can use the new Gemini Spark to build an AI agent that acts like the ghost. Here's a real example to show
+you what I mean. One of the teams I was working with was trying to find these coupon codes from different
+websites like macys.com. You could see on the page here that there's this code home, which is 60% off. And
+over here, it uses it again for 65% off. So instead of manually going to the webpage every single time or
+asking Gemini to check every single time, what we did was build an AI agent that can create these reports
+automatically where it writes down the code. It would actually check the website as well and what the discount
+price was. Something that used to take them an hour to do every single day per person now takes zero minutes
+because we have an AI agent doing it automatically while they're sleeping. And they wake up to this report in
+their chat every single morning. So how do we actually build one of these agents in Gemini Spark now? If you
+go on to the left side here, there's a scheduled section. And here you can create agents that will work for
+you on a schedule to complete tasks without you needing to be at your computer. Just like the coupon sourcing
+agent. What we're going to do first is copy that prompt from the AI agent fit skill that it gave us for
+building our agent. Then we go to manually create a task. Here we can give it a name, so I gave it prospect
+discovery, tell it when you want it to run. So I'm saying weekly on Monday at 7:00 a.m. and then paste in that
+prompt from the skill. And that's it. Your first agent is done. You can test run this now by clicking the
+three dots in the upper corner and click run now. That will run the prompt that you pasted in in the chat
+automatically, and for me that's going to be finding new prospects and then tearing them for a tier one is the
+best prospects and tier two, which is the next level of good prospects. And it actually created a tracker and
+it's tracking them in this. So it went through and it searched Google to find potential customers, split them
+up into different tiers here, tier one and tier two, and then tracked them in this sheet for me. So it has the
+company name, its website, different contacts, exactly what the niche is based on previous ones that I worked
+with in the past, their location, tier, why they're a good fit, how I can actually help them, and then the
+date that it was added. So pretty crazy that letting this run on its own will give me a list of prospects that
+I can reach out to every single week. If you wanted, you could stop right here and you'll have an AI agent
+that runs for you completing tasks 24/7 while you sleep. But the next two questions are going to enhance it
+even further. Now if it isn't clear from watching this video so far, I'm all about practical AI. I'm talking
+about ignoring the hype and building AI that actually gets you to your goals of freedom. And what I found is
+that online business is the best way to do that with AI. And AI agents are a huge part of it because you can
+leverage them to build an online business that runs itself. I put together a completely free AI roadmap that
+will take you through all four bottlenecks that you'll face when building an online business with AI. And it
+will show you how you can use AI agents or other AI solutions to overcome those bottlenecks and make it to the
+end of reaching your freedom goals. The link to the road map is in the description below where you can
+download it completely for free. So, now you know exactly which agent to build, how to actually go about and
+build it, but that brings us to question number three, which is how do we give our agent skills? First, let's
+go back to our Mario example to understand what a skill is. This one's definitely going to date me, but the
+first Mario game I had was for the Game Boy Advance and it was Super Mario 3. And in that game, Mario looked
+like this. But, that's besides the point because in the game Mario can obtain different power upgrades.
+Basically, Mario would jump up and hit this mystery box and out would pop one of these options. And when you
+go and grab one of these options, it gives you an upgrade. With this ice flower, Mario would get big and be
+able to throw these ice snowballs that would freeze all the enemies. With the fire flower, Mario would be able
+to throw fireballs that would burn the enemies. This leaf one would turn him into this raccoon type creature
+that could fly. The regular mushroom just makes him big and the star makes him invincible. Each one of these
+abilities is grabbed by the normal Mario here and lets him do something brand new. And skills are the same
+way. Think about normal Mario here like your base LLM or your base AI similar to Gemini. On its own, it's
+limited what it can actually do. But, when you provide it with skills like these power-ups up here, now it has
+new abilities. So, for example, we can give it a skill to generate images or another one to find prospects and
+another one to send emails. And in this situation, generating an image would be like being able to throw a ice
+ball. Finding prospects would be like throwing a fire ball. And sending emails would be like having the
+ability to fly. You're taking your normal AI model here like Gemini and just teaching it new things that are
+kind of like upgrades that now it knows how to do just by taking in that one skill or power up. You're
+probably wondering what's actually in the skill and it's actually pretty simple and I'll show you some real
+examples, but just think of it like an instruction manual. There's some information up top here like what's
+actually involved with the skill, what are the different things that it needs, how do you put it together, and
+then there's instructions steps 1 2 3 4 5 on actually how to assemble it and get from point A to point B,
+which is your goal outcome. One of the companies that I worked with here is an executive executive leadership
+coach. And with all of her clients, she would go to her leadership teams and create these custom PowerPoint
+presentations explaining exactly how to solve different issues that they're facing using her coaching
+philosophies. And the steps went like this. First, it would be going into Google Drive, pulling all of the
+frameworks and strategies that she has for her style of coaching. Then it would be going into her documents
+and seeing exactly what kind of notes they have about the client. What is their branding, what are the
+problems that they're facing, who's on the team, all things that were gathered from prior calls. And then
+lastly, it would be creating the actual slide deck presentations in their branding style for their specific
+problems and using the framework strategies that she has. So, we were able to create a skill that runs through
+these three steps and out at the end comes these custom slide deck presentations. And a process that used to
+take over a week, now done properly with the skill, can take less than a day. Let's go back to the prospect
+discovery agent that we created earlier. I wanted to turn this into a skill so that it doesn't put in this
+entire prompt every single time. So, what I did at the end here and I recommend you do the same is just say,
+"Turn this into a skill." Because you know that the prior process works and it goes through already every
+single step that it needs to know. So, as simple as it was just saying turn this into a skill, it created this
+ICP prospect discovery skill. And from here it says the skill is created and it's now active, which means if
+we go back to the skill section here, we can see this ICP prospect discovery skill that has the name of the
+skill, a description, and instructions. So, we used Gemini to create the skill for us. You'll know that this
+works if you go back into the normal chat and type {slash} ICP prospect discovery and if it pops up here.
+Let's go back to our AI agent and have it actually use the skill that we just created. Let's go back to our
+schedule section here and you could either edit the existing one or create a new one. I created a new one here
+called prospect discovery with the skill in the name and I set it to run at the exact same time, but this time
+in the instructions, all I did was do {slash} ICP prospect discovery and click save. Now, when it runs, all it
+does is do {slash} ICP prospect discovery and it runs through the exact same process. And you could see it
+added even more entries into our tracker. Now that you've created a skill of repeatable instructions that you
+know work that you can give to your AI agent, that brings us to the last question here, question number four,
+which is what data do we actually need for the agent to work? I recently read this survey from the
+International Data Group that was done in 2019 where they surveyed over 200 organizations that had at least
+1,000 employees. And what they found was pretty wild. They found that out of all of those, the average number
+of data sources that an organization was using was 400, meaning that they get data from 400 different places
+to operate their business. And 20% of those companies were using over 1,000 different data sources. Now, this
+was in 2019 and it's only gone up since then, so imagine how many data sources current organizations are
+using. Meaning that if we want our AI to work properly, we need to give it a way to access the data from all
+these different sources. Luckily, some really smart people have thought of a way to do this by using something
+called model context protocol or MCP. All this does is give your AI the power to go and reach out to other
+data sources and communicate effectively with them to pull the right information. Take for example, a company
+that I worked with called Redmax Events. They put on a lot of really cool corporate events for companies. So,
+you could see here they've done events for Wonder, they've done it for eBay, they've done it for Duncan, just
+to name a few. But specifically, we took a look at their project onboarding process. This is what happens
+every time a new project comes in. They need to go and add the data to all these different sources.
+monday.com, Google Sheets, Dropbox, QuickBooks, and Company Cam. This used to be a huge time drain for them,
+taking 5 hours per week to just copy and paste data. And that's not even mentioning when they would copy
+something wrong and need to go back and fix it. That's not just time, but also data integrity problems. But
+now once we're able to give an agent access to those systems, it takes under 60 seconds to be able to do it.
+So, that's insane ROI. I'm going to show you an example of how we can use our prospect agent to connect to
+external data. And what we're going to use is a system called Exa, which acts as an alternative to the normal
+Google search that it was doing before. The way that the Google search was working to find me prospects is
+that it uses keyword searching. Meaning that it searches for certain terms, like lightweight laptop for
+students, or in my case this was prospects for automation, and it returns results specifically that have those
+words. So, I need laptops that have lightweight in the word or student in the word, which means that it could
+potentially show unrelated products, like a lightweight gaming laptop or student laptop bag. The cool thing
+about Exa is that it uses what's called semantic search. And semantic just means meaning. So it tries to
+understand the meaning of what you're asking. So in this case, when I ask for lightweight laptop for students,
+it actually understands that you're trying to find laptops that are optimized for students. And it gets that
+you're trying to have a lightweight design, probably long battery life, and probably on a budget if it's for a
+student. So it will return things like a Dell Inspiron or a Lenovo Chromebook, which better align to what
+we're looking for as opposed to the normal keyword searches right here. Let's see how we can actually add an
+external data source to our AI agent. All we have to do in Gemini Spark is go on the left here to connected
+apps. And there's already a ton of preset data connections. Gmail, Google Drive, Google Docs, these are
+actually being used for our agent prior to find the prospect document in our Google Drive. And to enable it,
+all we have to do is toggle this on. But there's also a ton of other ones like YouTube Music, Gemini Notebook,
+and then some external ones outside of the Google Suite like Canva, GetYourGuide, Instacart, and Zillow just
+to name a few. But the cool part is that you can add custom data connected apps. And you can see here that I
+added a few, one for Notion and one for Exa. All you have to do is add a custom app and then you paste in the
+URL for your data connection. So if you want to use Exa, then you can paste in this one. Once you add it,
+you'll be able to log in and it will show you a couple of available actions. So for Exa, that's a web search
+and a web fetch. You'll know this works if you go back to your tasks and now you do the at sign and you see
+your newly connected app. So if I do at Exa, we'll see that it works. Now going back to our AI agent, you can
+again edit an existing one or create a new one to enable the connected app. For me, I created a new one here
+called prospect discovery and all I did differently was after the skill that we were using, I just tagged at
+Exa. And that's it. Now it will use that connected app. When I run the task here, you'll see that it actually
+asks to use Exa, and it's doing a web search, and it even gives you the query. So, boutique wedding and
+private event venue owners in the US, in which you can click allow. And in the end, it goes through the exact
+same process, but this time it's using Exa to find the people, which in my opinion gives better results. So,
+going back to our prospect tracker here, you'll see that it added all these new ones here, and it even found
+multiple people for the companies. Because it's able to really understand what we're looking for and grab it
+from their about pages. As you're going throughout this process, think about what data and what apps you need
+to connect to in order to complete the task that you're trying to accomplish with your agent. Congrats on
+creating your first AI agent in the simplest way possible. Hopefully, this exercise opens up your mind to
+what's possible with AI, and how much more productive you can be when you're delegating all of your tasks >>
+[music] >> to AI agents. Just a reminder, all of the resources mentioned in this video, like the free AI
+[music] agent fit skill and the roadmap to building a business that runs itself with AI, are available totally
+for free with the link in the description below. Now, I know it can feel intimidating trying to learn all
+these new AI things going on, and hopefully, this video helped to simplify it a bit. But one of the most
+effective ways that I've found to stay up-to-date with what's going on in the world of AI is to use AI to
+learn about itself. And being that you're already in the Google suite with Gemini and Gemini Spark, there's no
+better tool to use than Gemini notebook. So, if you want to find the four ways that I use to learn an insane
+amount of information using Gemini notebook, then go ahead and watch this video that I'm linking right here.

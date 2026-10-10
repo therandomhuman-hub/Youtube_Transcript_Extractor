@@ -1,16 +1,16 @@
 Channel name: Airyzen AI
 Channel URL: https://www.youtube.com/@airyzenai
-Last updated UTC: 2026-10-10T06:41:07+00:00
+Last updated UTC: 2026-10-10T13:21:59+00:00
 Discovered in current scan: 26
 Manifest total: 26
-Transcripts saved: 6
+Transcripts saved: 12
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 6
+Resolved items (saved transcript or explicit no-caption outcome): 12
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 20
+Still discovered/pending: 14
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

@@ -1,0 +1,29 @@
+Title: I Found an AI Niche You've Never Seen Before (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: st0cJhe5icg
+URL: https://www.youtube.com/watch?v=st0cJhe5icg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:21:28+00:00
+
+Kind: captions Language: en This AI niche is still very unsaturated, and most people don't even know about it
+yet. In this tutorial, I'll show you how I created these object evolution AI videos using just a single master
+prompt. So, first, copy this master prompt and go to Claude AI. Paste the prompt here. The link to the master
+prompt is in the description. Then, hit enter. Claude will ask you what type of object you want to show
+evolving through different eras. I'm choosing number two. You can choose whatever you want to create. Now,
+Claude will ask you to choose a historical timeline. Choose any one and hit enter. Claude will then give you
+10 unique video ideas. I'm choosing number two. So, I'll enter two and hit enter. Now, Claude will ask you to
+choose the video duration. I'm selecting 10 seconds for this tutorial. If you want to create a 20, 30, or
+longer video, I've linked another video in the description where I explain how to create videos longer than 10
+seconds. Now, choose the aspect ratio according to your needs. I'm selecting 9:16 and hitting enter. After
+that, Claude will give you one scene with an image prompt and a video prompt. Copy the image prompt and go to
+Flow AI. Paste the prompt here. Now, go to the settings and select the options you want. I'm choosing Nano
+Banana 2 as the model, but you can choose whichever model you prefer. Then, hit enter. While the image is
+generating, go back to Claude and copy the video prompt. Come back to Flow AI and click the plus sign. Select
+the image you just generated and add it to the prompt. Then, paste the video prompt here. Now, select these
+settings for video generation. Choose Omni 1.1 Flash as the model. Select 720p and set the duration to 10
+seconds. Then, hit enter. After a few seconds, your video will be generated. Download the video, do a little
+editing, and here's the final result. That's it for today's video. If you found this video helpful, make sure
+to like the video and subscribe to the channel for more AI tutorials. Thanks for watching and I'll see you in
+the next video.

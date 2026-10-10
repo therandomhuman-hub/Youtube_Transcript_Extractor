@@ -1,0 +1,45 @@
+Title: I Found an Amazing AI Niche Nobody Is Talking About (Best AI Tool)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: k313vHgsCfw
+URL: https://www.youtube.com/watch?v=k313vHgsCfw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:20:18+00:00
+
+Kind: captions Language: en I use this AI platform to create this amazing pixel style video. And in this
+tutorial, I'll show you how you can create videos like this in just 5 minutes. So, watch the video till the
+end because I'll explain the complete process step by step. First, let's check out the AI platform we're going
+to use, which is FlexClip. The link is in the description, so make sure to check it out. To create a pixel
+style video, click on AI tools and then go to the image section. But before we generate the image, we'll need
+a good prompt. So, go to Claude AI and paste this master prompt. Then, hit enter. Claude will ask you what
+type of pixel style video you want to create. I'm choosing number three for this tutorial, so I'll type three
+and hit enter. Claude will then give you 10 video ideas based on the type you selected. I'm choosing idea
+number one. After selecting your idea, choose the video duration. I'm selecting 10 seconds. And since I'm
+creating a short, I'll select 9:16 as the aspect ratio. Then, hit enter. Claude will now give you one scene
+with an image prompt and a video prompt. Simply copy the image prompt and go back to FlexClip. Here, click on
+AI text to image. I personally really like the interface of this platform. It's very clean and easy to use.
+Now, paste the image prompt here. Then, select your model. I'm using Google Nano Banana, but you can choose
+any model you like. I'm keeping the resolution at 1K, which is enough for this tutorial. Set the aspect ratio
+to 9:16. For the image count, I'm selecting one. Now, simply click generate and your image will start
+generating. After a few seconds, your image will be ready. Download the image. Honestly, I really like the
+image quality, but you can try it yourself and see how it works for you. The link to FlexClip is in the
+description, so definitely check it out. Now, let's go back to the AI tools section and click on video. Here,
+you'll find the AI video generator. Click on it. Now, go back to Claude and copy the video prompt. Then,
+return to FlexClip and paste the video prompt here. You'll also find several video generation models here. I'm
+going to try this ultra model and see how the result turns out. Upload the image we generated earlier. Now,
+select 10 seconds as the duration and click generate. The video will start generating. After a few moments,
+your video will be ready. Download the video. I'll show you the final result at the end of the video. But
+first, let's try another tool. Go back to the AI tools section and find the long-to-shorts tool. Click on it.
+Here, you can paste the link to any long-form YouTube video and the tool will automatically create shorts from
+it. For this tutorial, I'm going to use one of my own videos. I'll copy the video link, paste it here, and hit
+enter. It may take a few moments to load. Now, choose the text language. I'm selecting English. For the
+duration, I'm choosing 30 to 60 seconds. And for shorts, I'll select 9 to 16 as the aspect ratio. Now, choose
+a text template. I really like this one, so I'm selecting it. Then, click generate. It will take some time to
+generate the shorts. For me, it took around 2 to 3 minutes. If you want to explore more features, the link to
+FlexClip is in the description. You can also check out their available plans and pricing if you need more
+features or higher usage limits. Personally, I really like this platform. The interface is clean, simple, and
+very easy to use, and I didn't find anything complicated. But go and try it yourself and let me know in the
+comments how your experience was. And now, here's the final result of the pixel art video. That's it for
+today's video. If you found this video helpful, make sure to like the video and subscribe to the channel for
+more AI tutorials. Thanks for watching, and I'll see you in the next video.

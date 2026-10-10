@@ -1,0 +1,115 @@
+Title: IPcook Tutorial Review (IPcook Proxy) best cheap proxy
+Channel: Victor Bigbro
+Type: VIDEO
+Video ID: uH_vKk6iJmY
+URL: https://www.youtube.com/watch?v=uH_vKk6iJmY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:31:07+00:00
+
+Kind: captions Language: en What is up, fellas? So, in this IP Cook tutorial review video, I'm going to be
+walking you through this website right here called IP Cook. We're going to be going over exactly how to set up
+the proxies and everything you need to know when it comes to ipcook.com. So, first off, you can come over to
+ipcook.com right here, or you can click on the first link down in the description. Once you click on that
+link, you're going to be redirected straight to this website right here called ipcook. So, as you can see
+right here, it says fast proxies, smart pricing, and premium performance. And if you hover onto solutions
+right here, you're going to see all the use cases of the proxies. Okay, so you can use this for your social
+media, e-commerce, web scraping, and all those stuff. Okay, so to get started, the first thing you want to do
+is to click over here where it says start for free. And once you click on that, you're going to be redirected
+straight to the signup page. Okay, and you can sign up using your email and password or you can sign up using
+your Google account. Okay, so go ahead and sign up for your IP Cook account. And once you do, you want to log
+into your account. Basically, this is how exactly this inside of your IP Cook dashboard is going to look like.
+And once you sign up, you are going to get a 300 MB that you can actually use to try this proxy out. Okay. So,
+first off, you're going to have to top up a little bit of money. I myself, I already have about $4 inside of
+my IP Cook account. But your case, this is going to be zero. So, just go ahead and click on top up on the top.
+And once you click on that, you're going to be redirected straight to the topup page. Okay. So, first off, you
+want to fill out the amount you want to recharge. So, let's say I want to recharge $30 as an example. I can do
+that here. Once I fill out the amount I want to recharge, next thing I want to do is to go ahead and select a
+payment method. So, you can actually fund your account with crypto local payments and screw. But in this case,
+I'm going to do crypto. And I'm going to go ahead and click on continue to pay. And once you click on continue
+to pay, you're going to be redirected straight to the payment page. And from here, you just want to go ahead
+and top up your account using crypto. So, in this case, I can top up my account using USDT. And also, I can go
+ahead and select the network here. Let's say TRC20. And after that, all I have to do is to click on proceed to
+payment. And from here, I want to go ahead and send money to the crypto wallet and actually top up my proxy
+account. It's that simple. So once you top up your account, you want to go ahead and purchase a proxy. So to
+purchase a proxy, you're going to have to click on the buy proxy section on the top leftand corner here. And
+once you click on that, you're going to be redirected straight to the proxy page. Okay? You can purchase
+residental proxy, ISP proxy, and you can also purchase data center proxies. But for the sake of this video,
+I'm going to be purchasing a residental proxy. So for that I'm going to click on residental here and from here
+I want to scroll down real quick. Okay. So from here you're going to see all the proxy prices that they have.
+So the pricing starts at 5 cents per gigabyte. Okay. So the more proxy you buy the lesser you pay per
+gigabyte. But in this case I'm going to be going for the basic option right here. Okay. So for the basic
+option you're going to have to pay $3 per gigabyte. So I'm going to be going with this one. And over here
+you're going to see all the package you get. So in this case I'm going to be going with the basic option. I'm
+going to go ahead and click on buy now right here. And once I click on buy now, it's going to load up this
+window here. So from here, the next thing I want to do is to scroll down and over here is the available
+payment method to purchase the proxy. But in this case, I'm going to go ahead and click on the balance option
+here. And I'm going to go ahead and click on continue to pay. Okay. So as you can see, it's a success. And
+over here, you can see I have successfully purchased 1 GB from IP Cook. Okay. So now we've purchased the
+proxy. I'm going to show you exactly how to set up this proxies. Okay. So to do that, I'm going to go ahead
+and click over here where it says manage proxies and click on sub accounts. Okay. So from here you want to go
+ahead and create a sub account. So I'm going to click on add sub account here. And I'm going to go ahead and
+choose a username. So I'm going to do test user 900 account. Okay. And for the password I'm going to do test
+password 15. Okay. And after that I'm going to scroll down here and I'm going to allocate traffic to this sub
+account. So I'm going to do 1 GB here. And after that I'm going to need to add a real mark to this. So for
+that I'm going to be like test. And once I'm done with that, I'm going to go ahead and click on save right
+here. Okay. So once you have a sub account, the next thing you need is to go ahead and set up a proxy. So for
+that, click over to setup proxies here and click on residential proxies. Okay. So next you want to go ahead
+and set up your parameters. Okay. So first you want to choose your country. So I can click on this dropown
+arrow here and select any country I want. But in this case, I'm going to leave it at the United States right
+here. Okay, which is the US. And next I'm going to go ahead and select a city. is I'm going to click on the
+drop down arrow here and I'm going to do let's say Alabama and I'm going to do a random city in Alabama. So
+I'm going to do this one right here. After that you want to go ahead and select your proxy protocol. So click
+on this drop down arrow here and set this on so 5 depending on the one you want to use. So you can use HTTP or
+SU 5, but in this case I'm going to do SO 5. After that you're going to have to set your rotation. So I'm
+going to click on the drop down arrow here and I'm going to put this on sticky proxy. to you can go ahead and
+set this on randomized IP or you can set this on sticky proxies but I personally prefer sticky proxies so the
+IP address is going to be more consistent. Okay, so after that I'm going to click on this drop down arrow here
+and I'm going to put this on ours and I'm going to do 24 hours. Okay, so it's very simple to set this up and
+if you have any issues you can easily come over here click on contact us and contact these guys at write to
+them that you have issues here and send it to them and they're going to actually swing in and help you out. So
+you don't have to worry if this is getting a little bit complicated. So I'm going to go ahead and close this
+out and I'm going to proceed with the video. Okay. So after this you want to scroll down here and over here
+you are going to see that you need a sub account. That's why we created a sub account earlier cuz if you don't
+have a sub account you can't actually proceed with these steps. Okay. So basically these are sub account here.
+These are our proxy username and these are proxy password. That's why we needed a sub account. Okay. So next
+we want to scroll down here and want to go ahead and select the quantity of the proxies we need. So in this
+case I'm just going to do one proxy and I'm going to go ahead and click on generate. And over here you're
+going to see it has successfully generated one IP address for me. But in your case, you can go ahead and
+select any quantity you want. So once you have your proxy here, you can go ahead and copy this or you can go
+ahead and download this. So I'm going to go ahead and copy this and I'm going to go ahead and test this out
+inside of an anti-det browser. So the antithet browser that I'm going to be using in this video is this one
+right here called Bit Browser. Okay. So I'm going to leave it in the second link down in the description. So
+once you are here, just go ahead and sign up for a free account and you can actually get started for free
+because they offer 10 free browser profiles. Okay? So you can easily come over here, click on sign up and once
+you click on sign up, you're going to be redirected straight to the signup page. So from here, just fill out
+your username, password, repeat your password again. And after that, fill out your email address. And once you
+fill out your email address, they're going to send you a sixdigit code. Paste that in here. And after that,
+you want to go ahead and check this box if you agree to their terms of service and click on sign up. Or you
+can sign up using your Google account. Okay, so once you sign up to your account, you want to go ahead and
+download this browser. Okay, so for that, head back to the homepage. And once you're here, go ahead and click
+on download on the top. And once you click on download, you want to go ahead and download this on the device
+you're using. So in my case, I can go ahead and click on download here because I'm on a Windows PC. And after
+that, you want to go ahead and launch your browser. So basically, once you launch bit browser, it's going to
+look something like this. And from here, you're going to need to log into your account using the details you
+used in signing up for your bit browser account. So in my case, I'm going to go ahead and click on login here.
+And from here, I want to go ahead and set up my browser profile. Okay? So ignore all the complicated buttons
+that set up and click over here where it says browser profiles. Okay? And once you click on that, you are
+going to need to set up your browser profile. Okay? So click on add on the top here. And once you click on
+add, you're going to need to give your browser profile name. So it can be like test. And after that, ignore
+the complicated setup. Scroll all the way down and set up your proxy. Okay? So click on this drop down arrow
+right here on the proxy type section and set this on so 5. And once you do, you want to go ahead and paste in
+the information you copied from this website right here. You want to go ahead and copy your proxy once again.
+And you want to go ahead and paste that inside of the host section right here. Okay? And click on the blank
+session here. And it's going to automatically fill out everything for you. Okay? So let's go ahead and click
+on check proxy here. And we are going to actually test out the proxy. So as you can see, it's a valid proxy.
+And we are connected to Alabama right here. And you can come over here and click on confirm. And once we click
+on confirm, our browser profile is going to be created. So this is actually our brand new browser profile. As
+you can see, this is the test profile here. We can easily come over here and click on open. And our browser
+profile is going to be launched. Okay. So as you can see, our browser profile is successfully launched. And as
+you can see right here, we are connected to Alabama right here. And if I come over to a website like Pixel
+Scan right here, you're going to see that it says our IP looks good. Okay. And no maxing detected. And as you
+can see, is a pretty decent IP address. Okay, this is a pretty decent IP address. So, I'm going to wrap this
+up here cuz I pretty much showing you exactly how to use this proxy. Smash thumbs up button if you got value
+out of the video. And if you haven't already, go ahead and sub to the channel. And with that said, I'm going
+to talk to every single one of you all in the next video. Peace.

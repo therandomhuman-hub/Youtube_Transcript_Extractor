@@ -1,0 +1,25 @@
+Title: I Found an Amazing AI Niche You Can’t Ignore (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: TK5UuzXBers
+URL: https://www.youtube.com/watch?v=TK5UuzXBers
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:18:24+00:00
+
+Kind: captions Language: en Here's how I made these amazing tiny factory toy-making videos using a single
+master prompt in just 3 minutes. So, without wasting any time, let's get started. First, go to Claude AI.
+Here, paste the master prompt. I've added the link in the description, so you can easily get it from there.
+Then, hit enter. Claude will give you 10 different categories. For this video, I'm choosing category number
+one. Once you choose a category, Claude will give you 10 video ideas based on that category. For this
+tutorial, I'm choosing idea number three. Simply type three and hit enter. Claude will then generate one scene
+for a 10-second video. It will include an image prompt and a video prompt. First, copy the image prompt. Then,
+go to Google Flow AI. Paste the image prompt here. Now, let's set up the image generation settings. Choose
+Nano Banana 2 as the model, set the aspect ratio to 9:16, and select X1. Now, hit enter. Your image will start
+generating. Once the image is ready, go back to Claude AI. Copy the video prompt. Then, come back to Flow AI.
+Click on the plus icon, select the image we just generated, then click add to prompt. Paste the video prompt
+here. Now, let's set up the video generation settings. Choose Omni 1.1 Flash as the model, set the resolution
+to 720p, set the duration to 10 seconds, and select X1, and hit enter. After a few moments, your video will be
+ready. And here's the final result. That's it for today's video. If you found this video helpful, make sure to
+like the video and subscribe to the channel for more AI tutorials. Thanks for watching, and I'll see you in
+the next video.

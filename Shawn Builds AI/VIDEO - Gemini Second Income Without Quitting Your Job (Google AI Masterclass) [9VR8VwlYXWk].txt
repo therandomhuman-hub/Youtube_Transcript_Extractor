@@ -1,0 +1,301 @@
+Title: Gemini Second Income Without Quitting Your Job (Google AI Masterclass)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 9VR8VwlYXWk
+URL: https://www.youtube.com/watch?v=9VR8VwlYXWk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:11:48+00:00
+
+Kind: captions Language: en Everyone's making videos about the best AI tools to make you rich, but here's what
+they won't tell you. Spending hours clacking at your keyboard in the terminal to vibe code apps or build super
+complicated AI agents won't get you anywhere. Trust me, I've tried it all. I wasted months trying to vibe code
+what I thought would be the newest app to pop off, but in the end I walked away with $0 and nothing but a
+headache. But after building up the right kind of AI systems and using the Gemini strategies that I'll share
+with you in this video, I ended up building an agency that made $8,000 per month on the side of my normal 9-5
+IT job. That's just a few extra hours per week guiding AI from my laptop, doing it all next to the pool on a
+trip to Cancun with my girlfriend. That was paid for by the AI. And now as an AI engineer at a multi-billion
+dollar digital media company, I get to work with these AI tools all day long, seeing which ones actually work
+versus the ones that just look good on paper for the hype. For example, during my agency days I was working
+with a company called Red Max Events, which puts on really cool corporate sponsored events in New York for
+brands like Gymshark, Wilson, and Wander. Before we worked together, they were spending 5 hours per week
+adding new projects into their systems, but with a simple onboarding agent that is now done in under 60
+seconds, giving them all that extra time to deliver for their current customers and land new deals. So in this
+video, I'll show you the four-step framework to building a money-making system with Gemini AI. I've used this
+strategy for myself and for the dozens of teams that I worked with, and it just works. So let's start with the
+first thing that every business needs, leads. Like I mentioned, it's a four-step framework to be able to build
+a money-making system with Gemini AI. And I want you to think of it the same way as running a mile. I was
+actually a really big trackie back in high school, and I think this picture is from one of my first races that
+I actually won. But the reason we're relating it to a mile is because running a mile is four laps and you need
+to complete them in order one through four in order to finish the mile. If you do just one or two or three of
+them, you'll make progress but you're not actually going to finish the race. We need to check off all four
+boxes to effectively complete the money making system. So like any race, let's start on the first lap here
+which is lead generation. I recently read this survey here from 2023 that did an analysis on 385 different
+startups and why they end up failing. And while the number one reason is running out of capital, it's actually
+explained by all the reasons underneath it. And the number one reason that companies end up running out of
+capital is because of poor product market fit. That makes up 43% of the companies that fail, meaning that
+they've put their product out there and nobody actually wants it and they can't bring new leads into the
+business. So being able to find new people that want your services is the number one thing you can do to be
+successful. I'm going to bring this back to our track analogy here and this is me during a race where we were
+trying to qualify for the national championships. And you can see I'm holding a baton here because it was a
+relay race, meaning that there's four legs to the relay. Each of us needed to hit the time that we had written
+out in order to qualify for nationals. I was actually sitting at leg number three here. But my friend who was
+in our race that was leg number one, he was injured. So even though leg two hit his time, me I hit my time, I
+think I was running a half mile in this, and then leg number four hit his time, all those steps were checked.
+But because my friend in leg number one was hurt, he did not hit his time. So it doesn't matter if all the
+rest hit their times, if number one isn't hitting his time, that means we're not going to be able to qualify,
+which we didn't. And it's the same thing with lead generation. It doesn't matter if you're checking all the
+boxes for the rest of the video to make sure that the system is running smoothly. If you're not consistently
+bringing in new customers and making sure that they're interested in what you have to offer, you're not going
+to be able to survive. You're probably wondering how you can now find people that are interested in your
+business. And I'm going to bring this to a framework that's called Schwartz pyramid that will give you a
+little bit of insight on how to go about this. In this pyramid, he describes that there are five levels of
+awareness. At the bottom, there are people that are completely unaware that they even have a problem to begin
+with. If you go up one level, that means that they are problem aware, which means that they know that they
+have a problem, but they don't know how to solve it. Go up one more level from that, and they're solution
+aware, meaning that they know they have a problem, they know that there's a solution out there, but they don't
+know what kind of solution to use. Go up to the second level here, and that means that they're product aware,
+meaning that they know that there is a product out there that will be the solution to their problem. And
+finally, go up to the last level, which means that they are the most aware. They know that they have a
+problem, they know that there's a solution, and they know that you can be that solution. And all these people
+need is one little push to actually buy the service. These are the easiest people to land deals with. While
+down here, these are the hardest people to land deals with because you need to even show them that they have a
+problem to begin with. So, we want to try to tackle people that are up in the first two or three, rather than
+the bottom two or three. And the way that we can identify these people are to tier them into levels. So, we
+can say that these people are tier one, and these people are tier two. Or if we break it down even further, we
+could do like one, two, three, four, five, and tier them all the way through. But this will give you some
+level of understanding of who are the best people to target versus who are the worst. To give you a real-life
+example, I was working with a company called Maxwell Social, which is a really cool event venue in New York
+City. And they were struggling to consistently find new qualified leads that they can call up and book an
+event with. So, after going through the exercise that I'll show you here in this video, we're able to source
+100,000, actually over 100,000, new qualified leads and tier them in tiers one to three. And now what they're
+doing is that they're starting with tier one and working their way over to then call all the tier threes. And
+they're doing this to book five-figure deals at this event company. The good thing is that AI is really good
+at going and finding people that are interested in a specific service. And then it's also really good at
+taking these people and rating them on a criteria to understand what tier that they actually lie within. We're
+going to do this within Google Gemini Spark, which means that you're going to need a Google AI Pro Plan and
+not be on a Google Workspace account. But you can do this in normal Google Gemini and I'll explain to you how
+to do that as we go out throughout the process. But to get to Spark, all you have to do is go into
+gemini.google.com and click the switch here to switch to Spark. Now, I'm going to provide a link description
+for a completely free skill that you can download. Once you download it, just click the upload button here and
+you can drag in the skill file that you downloaded. And that will create this ICP Prospect Discovery Skill.
+Now, if you don't have Gemini Spark, you just need to copy the instructions here and go to a normal Gemini
+chat and paste them into the prompt box. We actually created this skill together in my last video on how to
+use Gemini Spark. And if you want to watch that, you can go ahead and watch the link in the description below.
+But once you download it, just a few changes that you'll want to make to make it relevant to the service that
+you're trying to offer. So, for me, I'm targeting prospective clients, solo founders, and boutique service
+agencies with one to 10 head count across certain niches like event venues, coaching practices, and marketing
+agencies, which of course you would change for who you're trying to target. And same down here, I say this is
+for an AI automation consulting agency, you can change that to what you're trying to do. And just just through
+the rest and there's just a couple things here and there that you need to tweak. But, once it's finished, all
+you have to do is go to the Gemini Spark chat and do {slash} ICP prospect discovery and click go. That will
+run the skill in the chat here and run through Google to find potential prospects. Then, when it's done, it
+will add them to this prospect tracker sheet, which you can see here. It lists out the company name, it lists
+the website, the actual contact or founder that it found, specifically what niche they are, the location, and
+then the important part here is the tier. So, that we know to start with the tier ones up here rather than the
+tier twos. And the cool part is that it says exactly why this company would be a fit, so that you have some
+context when you're reaching out to them, and an actual angle of how you can help them depending on the
+service that you're offering. So, in the end, if you run this skill, you'll have an entire list of different
+people and companies that you can reach out to, and do this consistently so that you always have the best list
+of people that would be interested in what you have to offer. Again, the link to this skill is in the
+description below, where you can download for free. Understanding how to do this lead generation is really the
+most important step when you're first starting off. Now, honestly, if you haven't done this before, I
+recommend nailing this part down before even trying anything in the rest of the video. Now, sometimes
+different strategies work for different people, and it's probably worth trying more than just one way of the
+skill that we used in this video. And honestly, that's the right approach to take for not just lead
+generation, but for all the steps that we'll cover in the video. Luckily, I created a completely free roadmap
+that will take you through each of these four steps from the video and give you a multiple different ways that
+you can go about solving them. If you want to download this roadmap completely for free, the link is in the
+description below. But, if you have accomplished the lead generation portion of this, then let's check out
+what the next step is. Awesome. So, you just completed the first lap of the mile, which is lead generation,
+meaning that you are able to find and contact people that are actually interested in what you have to offer.
+Once you're able to do this effectively, we need to go on to the second lap of the mile, which is sales. And
+just like in a race, each lap has its own strategy. So, while we wanted to get off strong to start with lead
+generation, with sales our strategy is now to put ourselves in a good position to win. In track, that meant
+putting yourself right behind the person in first place, but in business that means getting people to actually
+hand us the money once we've got them interested. If you've got to this sales stage, then that means you're
+already talking to people who are interested in your service. But who cares if you're talking to them if you
+can't actually get them to hand over the money. And that's what we're going to use AI to help with in this
+step. Now, if you're scared to handle sales, then I was right there with you. This was actually what I looked
+like when I first started this journey. I studied engineering and I was an engineer. We're not known to be the
+most charismatic kind of people like your traditional salesman that you would think of. I was used to just
+working with code in the terminal, but being able to leverage AI in the way that I'll show you helped me
+actually be able to land my first multi-thousand-dollar deal. I want to show you a framework by Alex Hormozi
+in his book 100 Million Dollar Offers, which pretty much just shows you how to maximize value. Because if
+people think that you are maximizing value, that means that you can maximize pay. So, what's involved with
+maximizing value? You have to maximize the dream outcome. So, if you're providing AI services like I was, that
+would be helping to show them that they can make so much extra money using your service. You also have to
+maximize the perceived likelihood of achievement, meaning that if you use my service, the likelihood of
+achievement is super high because all these other people I've helped have done the same thing. Or if you
+haven't worked with other people, you can say, "I've used these strategies myself and they've worked, too."
+Then we want to decrease the ones on the bottom. So, we want to decrease the time delay as much as possible.
+Saying that this only takes a couple days or a couple weeks. And then lastly, there's effort and sacrifice,
+meaning that this doesn't take a lot of effort to do. You could even say that you'll set up the whole thing
+for them so that it takes zero effort and sacrifice on their end. Now that we know the elements of the value
+equation, how do we actually present this in a way that's useful for our customer to understand? I think it's
+important to have an offer page or an offer deck that outlines each of these in a subtle way. But you could
+show it to them after you're able to schedule a call. Here's an example of one that I created for one of the
+companies I was working with. I walked them through each of the phases that we were going to use and talked
+about some other projects I'd done in the past and what the before and after look like, which helps them
+believe in the perceived likelihood of achievement. Then we talk about maximizing the value of how this can
+help across the business and decreasing the time delay with a roadmap. This was a done-for-you service,
+meaning that they didn't actually need to put in effort themselves to create this. So we presented the price
+and then talked about a couple of next steps. That's just one example of an offer page, but luckily there's a
+tool called Gemini Notebook that can help you create these offer decks in a super easy way. And the way that
+it works is like this. In Gemini Notebook, there's multiple different kinds of documents that you can provide
+as sources. One of them is websites. So you can put in the actual company website and it will use that as a
+source. Another is files. So if you have files on your computer where you've taken some notes, for example,
+about the company, you can upload that as a source. Third, you have Google Drive. So if you have more notes or
+call transcripts that you have saved in your Google Drive or maybe even other projects that you've completed
+in the past, you can sync those as sources to your Gemini Notebook. And lastly, you have YouTube. So if you
+find some really useful YouTube videos explaining how to do certain things, you can link that as a source.
+Well, what do we do with all these sources now? Well, the cool part of Gemini Notebook is that you can input
+those to generate different kinds of outputs. There's a ton of different options here and I explain a couple
+of them in more depth if you want to learn more about Gemini Notebook. I made a video about that with the link
+in the description below. But the one that we're going to focus on is the slide deck one. Because we can use
+all these different kind of sources to generate an optimal offer deck. Something like this, for example, where
+it's a pitch that is specific to their company and the ways that you can help solve their problems. So, that
+you go into the sales call already prepared to close the deal. Just like I did with the one I showed you
+before. To use Gemini notebook, go ahead and go to notebook.google.com. And within here, you can create a new
+notebook. For me, I already have one for a client that I want to work with called Meridian Digital. Once
+you're on here, you'll see on the left side that there's a way to add sources. So, you can click that and
+you'll see that you can paste in a website if you have this set to web mode. Or, you can upload files like I
+explained earlier. You can paste in YouTube web links, so that a YouTube video will be used. Or, you can even
+link to documents in your Google Drive. You can see on the left here I added a bunch of different documents
+including information from their website, info about their team, actual case studies that I have about my
+service, some founder podcasts that I was able to find, past call transcripts, job postings that they have,
+and a bunch of other information here. You would do the same thing for whatever company you find from the lead
+generation step that you now want to hop on a call with. Then, on the right side here, it's really cool
+because you can generate all those different kinds of outputs that I showed you earlier. A lot of these are
+actually really useful. Like, I use this audio overview one all the time, which basically just generates a
+podcast based on your sources. So, you can listen to it while on the go. But, what we care about here is this
+slide deck one. If you go ahead and click that, you can add in a prompt to generate a detailed slide deck that
+you'll use for your sales call. And in the description, you could paste something like this to create a sales
+deck that will offer my service that will maximize the dream outcome and perceived likelihood of achievement
+while minimizing the time delay and effort and sacrifice. Then it says easy as clicking generate. Once you do
+this, it generates an optimal slide deck that you can use within your call. And the reason that it's optimal
+is because it's targeted exactly for the company that you're going to work with based on all the sources that
+you uploaded. You can see here that it generated it specifically for Meridian Digital. And then it goes
+through all the elements that we talked about. So it explains the exact problems that they're facing in their
+business, including how much money that they're leaving on the table doing what they're doing right now, and
+some of the things that they should be focusing on. And it talks about exactly the ways that they could solve
+their problem, and then how you can position your services as the best way to solve their problem. I'll scroll
+through just a couple of the slides here, but you can see just how good it is at pointing out their problems
+and positioning you as the right solution for them. And then if you hop on a call with them, just present this
+deck and you can run through it slide by slide explaining each of the value propositions. Cool, so you just
+completed the first half mile of the race. You can bring in new customers and you're able to close them to
+collect the money. That means that the next step that you're on is lap three. In track, this is where you
+maintain your positioning and make sure that you are conserving energy for the last lap. But for business
+here, that is the actual delivery of your product or service. The way we want to go about this is very similar
+to how Henry Ford went about creating the assembly line for developing cars. And while this was in 1913, it
+was revolutionary at the time because they were able to take a 12-hour car creation process and cut it down to
+1 hour and 33 minutes. The way that they were able to do this by having one person that is an expert in a
+single part of the car creation process. So maybe this guy was an expert at just creating the tires. And then
+this guy can put in the seat belts, although I doubt they had seat belts at the time. And maybe this guy just
+puts in all the screws at the end and make sure that it's all tight and ready to go. We want to emulate this
+with AI where each person is an AI agent or an AI assistant that helps us with different parts of the
+business. So, let's say your service is getting leads for other people. Maybe you have one agent that's able
+to find leads. You have another one, just like we showed in part one, that will help to tier them. And another
+one maybe that actually performs outreach to them. One example that I want to show is for LinkedIn posts.
+There's this guy I found on LinkedIn, his name is Chris Donnelly, and he runs a huge company that acquires its
+customers from inbound leads from his LinkedIn. And if we scroll down to his LinkedIn posts, you can see that
+they're all just infographics of different frameworks. So, this is how to get mentioned in Claude. This one is
+Reddit and AI overview responses. This one is about SEO because that's really what his company does. Now, you
+think he's the one that's actually creating these? He has a team of people who create these infographics for
+him, which is a service that you can offer to other people. So, the delivery of this would be creating these
+infographics in his style. I actually have some experience with this as well because for a time I was creating
+LinkedIn posts that were in a similar infographic style. This one's like an iceberg of what's involved with
+AI. You know, that there's things above the iceberg and things below the water. This one is the structure of
+an AI marketplace. And this one is also an AI marketplace but more of a code overview of how it looks. Now,
+these were completely generated by AI using an AI model from Google called Nano Banana. So, if you are
+delivering LinkedIn posts for people, you can use AI to help deliver the service. Here's a different example
+of using AI for delivery that I did with another company that I worked with. And this one was about executive
+leadership coaching. So, the process that they would take took over a week long to generate these specific
+client slide deck deliverables that she would then present to explain the problems that the leadership team is
+facing and how to solve them. They would go and find all the information they could about these companies and
+create a design system that's specific to what that company uses. This helps to create the design for the
+slides that they'll make. Then they create a presentation outline using all of her exact coaching strategies,
+confirm that it looks good with the head coach, and then go ahead and build out the slide decks and add in
+speaker notes. So this was a really long process, but the cool thing is we could break it down into steps that
+can be turned into an AI skill. First step was looking in their Google Drive to get all the information about
+the client, all call transcripts they've had, all of the people on their leadership teams, and all the
+problems that they're facing. Then they can go into Google Docs to get all of her exact coaching frameworks
+and philosophies that they can inject into the slides. And then the last step is creating the actual slides
+based on the client problems that they found earlier and the coaching philosophies that she has from her
+documents. All of this is able to be turned into a single AI skill. And in the end a customized client slide
+deck comes out on the other side. Turning what was a 1-week plus process into what is less than a day. Let's
+go through an example of the LinkedIn post generation and how we can use AI to automate that delivery. The way
+we're going to do this is within normal Google Gemini, you'll see if you click the plus sign there is a create
+images option. But in normal Gemini you can't run a skill to create image. Skills don't exist. So instead
+we're going to go to what's called Gems. And we're going to create a new gem for LinkedIn. I created this one
+here called LinkedIn and I gave it all of these instructions here saying that you're a LinkedIn infographic
+generator and it's going to generate an infographic with a specific visual style using color palettes for my
+brand. For you, you could do this for your brand or for the brands of the companies that you're going to work
+with. I go through a couple more things here like the layout structure and some rules for if I upload
+reference images. But you can download this completely for free with the link in the description. But it's
+important that if you go down to tools here you enable creating images. Now, all you have to do with this gem
+is click on it to start a chat. You can see here that I put in the topic, which is just why AI automation
+projects fail in the first 30 days, and it very quickly created a LinkedIn post for us. And it looks like
+exactly one of those infographics that we saw earlier. It explains why AI automation projects fail. It goes
+through four different distinct reasons why with consistent brands and images. And it even links myself in the
+bottom here. If you create gems for every single client that you're working with, then you can consistently
+generate new posts for them based on whatever topic that you think will get them customers. All right, so you
+made it through the first three laps of the race, and we're on the last one here. And it's important, just
+like in track, that you don't let up on the gas. This is actually the part that you really want to finish
+strong and kick to the finish line. Because if you complete this, then you finished the full mile cycle. So
+now that you're bringing in customers, you're able to close them for deals, and you're delivering a service
+for them. The last part that we want to use AI for is for operations, which is making sure that everything is
+running smoothly along the way. QuickBooks actually did a survey on this exact topic in 2020, talking to over
+a thousand different small businesses. And they found that on average, companies were spending 31 hours a week
+on day-to-day business operations, which was stunting their growth because they didn't have time to take a
+step back. So this 31 hours is a huge opportunity for you to come in and use AI to free up and eliminate that
+time that they're wasting. I recently just fostered a dog here. Her name is Sunny, super cute, and she just
+got adopted. But the fostering process is kind of crazy, because you have to go through weeks of looking at
+different options online, sending in applications, then freeing up your schedule to go pick them up, get
+supplies for them, all this stuff around the actual fostering process, instead of actually taking care of the
+dog and bringing her to parks like Central Park here and giving them the best experience possible until they
+get adopted. And that's kind of like the operations that would be great if it was eliminated and all I could
+do is focus on taking care of the dogs. Luckily with Gemini, there's a couple of different ways that we can do
+this. Now the problem with the normal Gemini chat is that it's all controlled by you, meaning that you have to
+go into the chat and type something in and press enter and only then will AI actually do things. But to run
+operations, that means that we want to remove ourselves from the equation. And there's two different ways that
+this is handled. One is through a time trigger, meaning that every day at let's say 9:00 a.m. an AI agent will
+run and do something for us. The other way, which we're going to talk about today, is using a trigger. Meaning
+that when something happens, like let's say you receive an email, then an AI agent will kick off and do
+something for you like reply to the email. Right there, that is a huge operational overhead that a ton of
+companies would want handled for them. And it was the same here with Redmax Events that I worked with. They
+were spending 5 hours per week just onboarding new projects. Because every time one came in, they'd have to
+put it into all their different systems like monday.com, Google Sheets, Dropbox, QuickBooks, and CompanyCam,
+which is obviously wasted time. And then if they mess up entering data in one place, now they need to go back
+and fix it and that's a data integrity problem. But instead we're able to connect an agent to this, meaning
+that when a new project comes in it automatically gets added to all these different systems taking less than a
+minute and freeing up their capacity to deliver for clients and land new projects. The example I'm going to
+show you today is what's called speed to lead and a lot of companies will pay for this. Basically all it does
+is it decreases the amount of time when you get an interested customer to when you're able to book a calendar
+event with them and hop on a call. There's actually some statistics here that if you're able to contact them
+within the first 5 minutes of interest, then you're so much more likely to actually get a hold of them and hop
+on a call and land a deal. I mean, you can see the difference here just in the first 5 minutes. Compared to
+the next 5 minutes after, it drops significantly. So, how do we build an effective speed lead system that
+handles our operations using Google Gemini. There's a really cool product, part of Google's AI suite called
+Workspace Studio. And you can do exactly what we're talking about with having a triggered AI agent by building
+out a workflow. So, what we're going to do is go into this flow section here, and I already created one, but
+you would click the new flow button here. And what we're doing here is dead simple. All we're doing is saying,
+"When I get an email, which is the trigger, I want you to decide if this is an interested customer. If they
+are an interested customer, then ask Gemini to create an email reply with my calendar link. Then actually
+draft that reply within Gmail, and then notify me in Google Chat that a new interested prospect just came in.
+So, that I can go ahead and actually click send on that email that was already drafted." So, as an example, I
+sent an email to myself inquiring for your services saying, "Hey Shawn, I'm interested in your automation
+services for my company that does landscaping. Hopefully, we can chat about it. Thanks, Ben." And the flow
+picked it up automatically and drafted this response here saying, "Hey Ben, thanks for reaching out about
+automation services for your company. Pick a time that works best for you, and you can book a call here,"
+which links to my Google Calendar. And then you can see it sent me a message on Google Chat, which popped up
+on my phone, saying that there was a prospect that was identified from email, giving the name of the prospect,
+and that a reply is drafted already. So, all I have to do is go into email, look at my drafts, review the one
+that it just drafted up, and click send. Congrats on making it to the end here in building up the four parts
+of the system that allows Gemini AI to run [music] a business for you. If you've made it to the end here, then
+I know you're serious about actually making this work. So, make sure you get that free roadmap with the link
+in the description below that will walk you through each of these steps in more depth. Now, I know it can seem
+intimidating trying to learn all these new things about AI. I was in the same boat not too long ago, but using
+new tools like Gemini notebook helped me not only understand the Google AI Suite even better, but it helped me
+learn and stay up-to-date with all these new AI topics. So, if you want to learn how you can learn more
+effectively using AI, then you can go ahead and watch the video that I'm linking right here.

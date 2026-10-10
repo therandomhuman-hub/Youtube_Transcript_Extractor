@@ -1,0 +1,40 @@
+Title: New 2026 : How to Replace Face (Face Swap) in Photo on Phone FREE
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: Nu5TruMoBhA
+URL: https://www.youtube.com/watch?v=Nu5TruMoBhA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:38:51+00:00
+
+Kind: captions Language: en In this video, you'll learn how to swap faces and photos on your phone for free.
+Whether the target image has one face or multiple faces, the method is completely free with no limits at all.
+It works on both mobile phones and computers using the same steps. The tool also has a user interface which
+makes it very easy to use on a phone. As for face swapping and videos, that will be covered in an upcoming
+video. So, make sure to subscribe to the channel and like the video so you don't miss the next one. First,
+open the Google Chrome browser on your phone and make sure you're logged in with your Gmail account. Then,
+open the Face Swap project link found in the video description. It will appear like this. Click here to run
+the first step. This message will appear. Click run anyway. After that, Google Collab will start working and
+the first step will begin. Once the step is finished, you'll see a green box with the word done. Next, run the
+second step. In this step, the program will be installed on Google Collab. This step takes about 9 minutes.
+The most important thing is not to turn off your phone screen while using Google Collab so Google Collab
+doesn't disconnect. After the installation is complete, you'll see a green box with the word done. Next, run
+the third step. After a short while, this silent audio player will appear. Its job is to prevent Google Collab
+from disconnecting on your mobile phone. Leave it running. It won't affect anything. After that, the tool link
+will appear like this. Open the link and the tool will appear like this. Click here to upload the face image
+from your device. All images used in the tool must be clear and facing the camera for the face swap to work
+successfully. Once uploaded, a preview of the image will appear. Next is the target image section. First,
+we'll try the tool with an image that has one face, and then we'll try an image with multiple faces. Next is
+the target face section. If the image has only one face, we don't need to change anything here. Then click
+swap face. The tool will start the face swap process. Wait until it finishes. Once the swap is complete, a
+preview of the new image will appear. Click here to download the new image to your device. Now let's try an
+image that has more than one face. Go to the target image section and click this X icon to remove the old
+image. Then click again to select a new image from your device. After uploading a preview will appear. Next is
+the target face section. Here we specify the index number of the target face starting from the left. The
+indexing starts from zero. So this is face number zero. This is face number one. And this is face number two.
+We'll enter the target face number here. For example, one. Then click swap face. Wait until the swapping
+process is complete. Once finished, the result will appear here. Now let's try changing the target face again.
+For example, let's choose face number two. Then click swap face. And here is the result. That was face
+swapping in photos. Like the video and subscribe so you don't miss face swapping in videos. One last important
+thing. After you finish using the tool, close the tool page in your browser. Then go back to Google Collab.
+Click the three lines here. Choose runtime. Then disconnect and delete runtime and click

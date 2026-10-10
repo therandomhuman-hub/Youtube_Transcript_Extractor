@@ -1,0 +1,231 @@
+Title: The Best Lead Generation Strategy For 2026 (Claude Code)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: ooQp9FGsOFw
+URL: https://www.youtube.com/watch?v=ooQp9FGsOFw
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-10T12:42:39+00:00
+
+Kind: captions Language: en I use claude code to automate my lead generation and scaled this with multiple AI
+avatars leveraging faceless content. And in this video, I'm going to show you exactly what I did, the results,
+and how I did it step by step using Claude Code. And for the skeptic who might be brand new here to the
+channel, I have never written a single line of code. I am completely non-technical and I did all of this with
+Claude Code leveraging voice prompts. So, as a quick rundown of what I did before I show you some of the
+actual results here is I know that short form content is what is getting all of the views right now. And so, I
+thought what if I could take this short form content, start completely brand new YouTube channels and start
+posting across multiple channels even with zero subscribers. And my theory was that they'd start getting views
+and potentially start even generating leads. And so before automating all of this with cloud code, which I'm
+going to show you guys how to do in this video, I wanted to manually do some post just to test out my theory
+because one thing I like to do is I always like to prove and then automate. I don't like to just jump to
+automating everything because if it doesn't work, then you just waste a whole bunch of time trying to automate
+a process that just doesn't work. So I started multiple YouTube channels leveraging different AI avatars, all
+starting with zero subscribers. And I did not promote any of these channels anywhere else. And to my surprise,
+even with zero subscribers, these channels started getting hundreds of views on every single video that I was
+posting. And after just a few days, I started seeing a consistent flow of leads starting to trickle in to my
+CRM. So, I knew that this manual process and this theory that I had was actually working. So, now I knew it
+was time to automate things. Before I jump in and show you some of these results, I also wanted to give myself
+some constraints. And the main thing is I wanted to see if this would work across any industry. So, I have
+multiple AI avatars and then I'm also testing multiple different industries to see if my theories would be
+consistent across all these different industries because a lot of people know me for teaching people how to
+start an agency or an AI agency and all that, but I thought, well, what if I'm marketing to realtor or what if
+I'm just marketing to small business owners or what if it is more of like a bizop type opportunity? Will all
+of these different industries actually work, actually get views even starting with a YouTube channel
+completely from scratch with zero subscribers? And ultimately, will these actually generate leads for my
+business? So, let me just show you some of these results right here so you can see firsthand that this
+actually is working. So, here is the first one. This one is actually branded with my face, Jason Wardrop AI
+real estate. And if we scroll down right here, we can zoom in so you can see it a little bit better. You can
+see that these are getting a couple hundred views. 100 plus views. 100 plus views. And I've only been posting
+on this channel for probably about a week. As you can see, it's only got two subscribers and 12 videos so far.
+Now, this next one is with an AI avatar. But if we check this out, you can see that it does not have a lot of
+subscribers, nine subscribers, but it's still getting views. And in my CRM, I'm still generating leads from
+this simple AI avatar, from these short form videos. And then this last one, this one's actually amazing. This
+one's about marketing to small business owners. So, the cool thing is this is like if you are an agency owner
+and you want to go and work with plumbers or electricians or dentists or whoever it might be, that's who the
+target market is with these scripts. And you can see once again, this does not have many subscribers at all.
+And this one is probably getting the most leads out of all of them because of the specific market. But you can
+see there are literally hundreds of views on every single one of these videos. So that just goes to show that
+this actually works. Now, what I'm going to do is I'm going to jump onto my other computer because this is
+more of just like for filming. I'm going to jump on my other computer where I built all this out with Cloud
+Code to show you the necessary things that we need in order to go through and build this and build this with
+simple voice prompts because I don't know about you, I am not techy at all. I've heard of APIs. have heard of
+API keys. I don't know where they go. I don't know what to do with them. And so, I want to show you guys step
+by step how to make this happen. Even if you're a total beginner. And this is cool because you'll be able to
+do this for your own business if you're running an agency or let's say you're a real estate agent or a plumber
+and you want to automate some of your marketing. You can also do this with a simple Claude Code app that you
+can just voice prompt. And I literally did this in a single afternoon yesterday. All right. All right. So,
+here I am in my other home office. The other one has a nicer backdrop. I actually work on this computer. It's
+got the window natural light. So, apologize for the terrible background setting, but I think this is going to
+get you better value here. So, I want to show you everything step by step. These are all the tools that I use,
+and this is where I actually built this app. So, um, what we're going to need is we're going to need Claude
+code. And so, if you go to Claude AI, it's by Anthropic. Um, so like most people have used Chat GPT. So, if
+you haven't heard or used Claude, this is what you want to go through and use. So, it's just Claude by
+Anthropic. Um, and you're going to want a paid subscription. So, I think you can do with the $20 per month
+one. I went with the $100 per month just because it gets you a little bit more bandwidth on everything. And
+then from there, you're able to literally just even if you're a total beginner, guys, you don't need tech
+skills for this. I literally just voice prompted it and just told it like I'm talking to you. I'm like, "Hey,
+I want an app that does this and this and that." And I was able to tell it because I've done this a lot
+before, but I do it manually or I hire somebody else out to do it. And so I was able to tell them exactly what
+I wanted. It was like almost giving AI your SOPs or your standing operating procedures for your business and
+then it just goes and automates it, which is so cool, right? And so what I did was I for my own business, I
+have a custom GPT. So, for those of you guys who are unfamiliar with that, if you go to chat GPT, you can make
+these custom GPTs where you train it. You give it instructions. You say, "Hey, I want you to be able to write
+a 60-second short form piece of content about this, this, and that. I want initial hook in the first 3 to 5
+seconds." You kind of do that. And so I actually use chat GPT to help me write the instructions because I'm
+not necessarily giving and I'll show you guys all this here in a second, but I'm not necessarily giving Claude
+code the custom GPT, but I'm giving it the instructions that I would give to a custom GPT. And so there was
+two primary uh custom GPTs that I have. One is for going through and finding trending keywords for specific
+industry. So, like for example, if I'm going to go and work in the real estate niche, right? We're probably
+going to want to target words that people are type real estate agents are typing into Google or YouTube. How
+to generate real estate leads, real estate marketing, social media posting for realtors, content strategy for
+realtors. So, we want to go through and have uh Claude Code, scrape all the trending keywords, see their
+search volume, see other viral content that maybe um worked really well, and then take those ideal top
+keywords and create a very clickable title. That's what we've got right here, clickable title, and then it's
+going to take that title and send it to the next custom GPT. And so, I actually have a custom GPT. You'll see
+over here, I've got the AI title right here, the content scripting, I've got the YouTube intros, I've got
+intro scriptors for AI avatars, and I actually have a lot more custom GPTs. I just have hidden them right
+here. Um, but I have all these already set up. Okay. And so what I do then is take this and I told Cloud Code,
+hey, now once you got the title, and it's kind of like a nice clickbait type title, you want to throw it into
+the next custom GPT that is now going to take the title and from the title be able to write a 60-second long
+script. Now, here's the deal, guys. You're probably already put this together. I'm doing this for YouTube and
+YouTube shorts. This would work for Instagram reels, for Facebook reels, for Tik Tok, and honestly, you could
+say take the same piece of content and throw it into all of them, right? So, there's like massive leverage
+with automating this whole process. Okay. So, now once I have the script, I'm throwing it into a software
+called Hey Jen. So, we pop this up right here. This is where you're able to go through and make the AI avatar
+videos. So, you can either use your own AI avatar or let's see some of these recent ones. You can see I've got
+all of these different AI avatars. I even got more right here. So, you can see I've got some different AI
+avatars, all different personality types. Like, I'm just trying to go through and see if this will work at
+scale. And so far, it's working as far as views goes. It's working as far as leads go. And so, I'm I think
+that we're going to be able to go through and really scale this. And so that's why I'm going through and
+making this video to show you. Now, an optional piece, this is obviously not mandatory, but um that's why I've
+got optional over here. Once the Hey Gen video is created and processed and rendered, you can also add like
+the the title or the captions and all that stuff with automated B-roll and all that. And so you use a service
+called Submagic. And to show you kind of what that looks like. So this is like a before and this is an after.
+kind of like the the subtitles that you've seen, kind of the shaking, the zooms in, zoomed out, all that cool
+stuff. So, you can actually send it into there as well. Now, you might be looking at this at this point and be
+like, "Well, Jason, this looks so confusing. There's so much going on. How do we actually go through and do
+this?" And so, that is why I'm going to go through and show you guys step by step. This is a little bit longer
+video. So, if you guys like a longer video like this, a little bit more in depth, go ahead, let me know down
+in the comments. If you've already found value from this video, go ahead, smash the like button. And if you're
+new here, consider subscribing because I try to get you good, valuable content, letting you know what I'm
+doing, what's actually working, so you can kind of sift and sort through all the BS that's out there online.
+All right, so now what we're going to be doing is we're going to be jumping into Claude. And what you want to
+do, so if we come over here and if we were to open up on desktop, you don't necessarily want to do this on
+desktop. And in fact, I'm kind of new to the desktop one. I don't actually even think that you can. And I
+think you can just do like the normal custom or the chat GPT and just do chats. Oh, it looks like you got code
+right here. But it actually might send you out. So if you click on code right here, it's going to send you out
+to go and um download the desktop app. So I have a Mac and so this is where I do it. And so you can see right
+here, this is the YouTube Shorts automation. This is that app that I built out. And you can see if I click on
+this, literally fully built out, just voice prompting the whole entire thing. And then another one I wanted
+I'm kind of in the process. I built both of these yesterday by the way. Um so it was like a few hours, four or
+five hours to be able to build these two apps that were like very valuable to my business. That's a cool thing
+about cloud code I think is that what people some people are saying like ah software is dead. I don't think
+that core softwares are dying. I think that software just on like kind of these micro apps are dying because
+now with cloud code you can literally build your own customized personalized apps to yourself where it's like
+maybe the only use case for this app is for you. But the nice thing is is it's it's very valuable for you
+whereas some big company is not going to go build this and sell it to you for 30 40 50 bucks per month because
+it would only be specifically for you where now with cloud code you can do this. Right? And the cool thing
+about this one is there's a big enough use case that I think that a lot of people would want it. Right? So
+I've got the YouTube shorts automation and then I've got the build a YouTube video idea generator. So what
+that does is it goes and helps me come up with new topics for YouTube videos. actually did not use this for
+this video right here. I just thought that this was cool. So, I wanted to go through and share it with you
+guys. So, what you do is once you get the desktop app, we can even make this bigger. Hopefully, you guys can
+see that. All right. I don't know if you can zoom in. Nope. Can't zoom. Oh, there it goes. So, if we go to new
+session, one thing I don't love about Cloud Code, which I found a hack, is you can't voice it, which I don't
+know about you, but like I don't want to type everything out. So, I like to go to um chat GPT or you there's
+like whisper flow is another big one or I know you can go and talk in Siri or different things like that. What
+I actually did is I came over here to chat GPT because I love this feature. I love to come over here and just
+go click click on here and just talk. So, if we start this over, I want you to build me an app that's going to
+help me automate my YouTube shorts. And I want to give you instructions to find viral topics and keywords in
+the real estate agent industry. So, what real estate agents would be searching for on YouTube and Google. And
+then I want you to be able to take those top trending keywords and turn it into a clickable title. Look at
+what other content is on Instagram, Facebook, Tik Tok, YouTube that's getting a lot of traction, a lot of
+views, and then I once you have that title, I want you to send it to another like custom GPT. And I want that
+one to go through and script out a 60se secondond long YouTube short or Instagram reel script that is going to
+have like a 3 to 5 second really interesting attention grabbing hook um to pull in the users's um attention
+and then be able to go through and have 30 40 seconds of value. And at the end I want the call to action to be
+to subscribe to the channel if they want more tips like this. And then once we have the script, I want to be
+able to send that script automatically to Hey Jen so that Hey Jen will be able to create this video with an AI
+avatar using the script. And then once the AI avatar video is created, I want to send that final product and
+it's going to be a vertical video because we're doing YouTube shorts and um Instagram Facebook reels. And I
+want to send that to Submagic to add captions and automated B-roll. And then once the final product's done
+with Submagic, I want to be able to automatically upload this into my YouTube channel. And I want to be able
+to post one of these every single day, coming up with a new unique title, new unique script, and be able to
+post every morning at 9:00 a.m. And I want you to take this and make this into an ideal prompt and
+instructions that I can put into clawed code. And so I'm going to say something like that. And I'll end that
+right there. And so that's going to transcribe everything that I said. So I'm not having to go through and
+type it all out. And obviously I'm thinking about this on the fly, right? So like that's maybe I would have um
+taken a little bit more time because sometimes when I'm prompting I'll think about it for like 10 seconds and
+be like hm what else should I say? What else should I have it do? And so now I'm going to come over here to
+Claude and I'm just going to paste this in right here. And then we're going to say we want to put it into plan
+mode. Okay. And so what plan mode is they have these different modes. So this one is before you take any extra
+step always ask me permissions. or this one's like auto accept any edits that you're going to do. Plan mode is
+like, "Hey, I just gave you what I want to have happen. Give me a plan before you start executing." And then
+once I approve it, then go start um executing. This one is a little bit dangerous. I put this on last night
+just because I kind of got tired of always hitting accept. And I was like, "All right, I got to go spend some
+time with my family." So, this one bypasses all permissions and it's just going to automatically go in through
+and make updates. It's going to check things, see like, okay, does this is this working? Is this not working?
+Are these APIs correct? All that stuff. And so, this one is like use with caution. But first, we're just going
+to do this plan mode. And uh we're going to hit enter right here. So, this can take some time. And so, I'm
+just going to pause the video right here. And then once it has a full plan built out, then we're going to jump
+back in and I'm going to show you exactly what I would do next. All right. So, jumping back in here, it's
+wanting me to just allow it to web search. So, it wants to web search the Hen API, all the documentation, what
+it's allowed to do, some magic API, YouTube data API, uh, Google Trends, all this things. So, I'm just going
+to click on allow once, allow once, allow once. And here's the deal. If you're looking at this and you're
+like, "Well, Jason, I thought you said you're not a coder. Like, how do you find the APIs and all this stuff?"
+Well, the cool thing is is it's going through and seeing like what it can actually do. So, we're just going to
+go through YouTube training videos API, social media trends, hey genen pricing API. Perfect. So, it's going
+through and looking into all this of what we need to do. But if you're like, well, how do I find the APIs? I
+don't know how to do any of this stuff. Well, guess what? I actually had no idea yesterday either. And what I
+did is when it asked for the APIs, I said, where do I find this API? How do I go through and do this? And so,
+it showed me, hey, click this link right here. And then would literally give me a step by step. I'm just going
+to keep allowing these as we're going through here. And it would say like, okay, click this link, go to
+settings in your account, click on this, like libraries or API services or whatever it was. And it would say
+create the secret key. And then it would say, copy this and paste it into here to me. And so then I came up
+with this document and I just like pasted all the APIs in here. And then it took the APIs, it put them where
+they needed to go inside of Cloud Code's code and it was off to the races. it was totally done with
+everything. Okay, so if the I just want to basically go through and show you guys and I'm probably not going
+to go through and do all the API keys and all that stuff because a lot of them are very specific to one
+specific app and so I don't really want to go through and expose all that usage and all the different things
+there. But what I want to do is I want to show you guys that this is actually very possible to do even if you
+have zero coding experience. And the thing that I'm starting to think about and realizing after going through
+and seeing this is, okay, what are the things that I do every day on a daily basis and before I was like,
+okay, how do I get SOPs around them and then find somebody like a virtual assistant to hire them and have them
+do them the work for me where now I'm like, how do I go through and have cloud code build all this or do this
+for me? Okay. So now it's saying should I build on top of your existing AI bridge topic engine which already
+has YouTube API. So basically what I've it's looking at is seeing like I've already done this. And so um
+that's why I'm probably not going to go through and do the whole entire process, but I want to just like I
+hope this is far enough along that you guys can see how to actually go through and do this. So it' be build on
+existing new project, new product, use reuse code or something else. And so you just go through this whole
+process and you choose and you tell it what you want it to do. And then from there um you can go through and
+say, "Hey, put it in plan mode. Let me accept everything that you're doing." And it'll go sometimes it'll like
+it'll take like 10 15 minutes to go through and build things. Sometimes it's 2 to 3 minutes. Sometimes it's
+like every 30 seconds it's asking you what to do. And but the overall idea is you voice out exactly what you
+want. And if you don't know what you want, then just think about the whole process. What I like to do a lot of
+times is I get out an old white sheet of paper or new one obviously that's blank and I get a pen and I just
+sit I've got a chair over here and it's my thinking chair and I just sit there and I think and I think about
+like okay what does this look like when I do it? How do I do it? What are the steps? And if you forget a step,
+that's totally fine because a lot of times clawed code AI, it can fill in the gaps or it can ask you questions
+and it can say, "Hey, what about this? Have you thought about this or what about these things?" And it can
+help you actually improve a lot of your processes. So anyway, like I said, I've already got this built, so I'm
+not want to go through and mess up anything else with having a secondary app on top of all this, but I just
+wanted to show you guys that this is very possible. And this is in the back office of my YouTube account. This
+is the AI for real estate one. Obviously, I showed you multiple channels. Literally, two subscribers, two in
+the last 28 days because this is a brand new account. And you can see the last published videos, 67 views, 67
+views, 137 or 17, 137. If we come over here, um, a lot of these were actually published this morning. You can
+see this March 3rd, March 3rd, March 3rd, March 3rd. And normally I would never post four videos in one day,
+but I was just testing different things like some of the different captions and submagic and just kind of
+tweaking things, making things just a little bit better. And honestly guys, it was crazy. Literally in an
+afternoon, I think I started yesterday after lunch. I was like, I should start kind of playing around and
+building with this. And by the evening, I had a full working prototype. Actually, I probably had that in about
+two hours, but there was some minor tweaks I was wanting to make as far as like the captions and how I wanted
+the voices sound with Hey Jen and all those different things, which was really not that hard to do. And then I
+just came over here into the Cloud Code app and I just voiced it the different things that I wanted to change.
+And then if it had something that it told me to do that I didn't know what to do, it would just give me the
+step-by-step instructions and it would walk me through how to do everything. So, there you go. There is how
+I'm generating free leads leveraging claude code with these AI avatars. And you can see this is just YouTube.
+Now I'm going to get into making it so it takes that same video and posts on Facebook, on Instagram, on Tik
+Tok, on all these different platforms. So you can take one video and repurpose it, right? So you can get even
+more exposure, generate even more leads, which I'm actually super excited about. So once again, if you guys
+want more content like this, let me know down in the comments below. If you're new here, make sure you
+subscribe so I can go through and hook you up with new content of things just like this that is actually

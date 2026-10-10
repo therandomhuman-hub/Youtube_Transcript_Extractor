@@ -1,0 +1,24 @@
+Title: I Found an AI Niche That Feels Completely New (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: 9HkNKmInets
+URL: https://www.youtube.com/watch?v=9HkNKmInets
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:20:55+00:00
+
+Kind: captions Language: en I found this amazing matchbox AI niche that almost nobody is talking about. These
+videos are incredibly satisfying to watch with tiny kitchens and cooking setups packed inside a tiny matchbox.
+And the best part is, you can create videos like these using just a single master prompt. So, in this
+tutorial, I'll show you the complete process step-by-step. First, open Claude AI and paste this master prompt.
+The link is in the description. Then hit enter. Claude will give you 10 different matchbox categories. You can
+create any of these formats. For this tutorial, I'm going with kitchen inside a matchbox. So, I'll type one
+and hit enter. Claude will then give you 10 cooking ideas for this format. Choose anyone you like. I'm
+choosing number 10, so I'll enter 10 and hit enter. Now select the video duration. I'm choosing 10 seconds for
+this tutorial. Then select the aspect ratio. I'm using 9:16 for a short. After that, Claude will give you one
+scene with an image prompt and a video prompt. Simply copy the image prompt and go to Flow AI. Paste the
+prompt here and select the settings for image generation. Then hit enter. Once the image is generated, go back
+to Claude and copy the video prompt. Come back to Flow AI and click the plus icon. Select the image you just
+generated and add it to the prompt. Then paste the video prompt here. Now select these settings for video
+generation. Choose Omni 1.1 Flash as the model, select 720p, and set the duration to 10 seconds. Then hit
+enter. After a few moments, your video will be ready. And here's the final result.

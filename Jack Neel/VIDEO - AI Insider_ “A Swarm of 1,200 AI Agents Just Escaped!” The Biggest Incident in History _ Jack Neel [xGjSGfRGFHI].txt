@@ -1,0 +1,1150 @@
+Title: AI Insider: “A Swarm of 1,200 AI Agents Just Escaped!” The Biggest Incident in History | Jack Neel
+Channel: Jack Neel
+Type: VIDEO
+Video ID: xGjSGfRGFHI
+URL: https://www.youtube.com/watch?v=xGjSGfRGFHI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:34:22+00:00
+
+Kind: captions Language: en Today's guest is an AI insider and expert on the dangers of artificial
+intelligence. >> An AI system that OpenAI was testing broke out of its secure containment and attacked another
+company autonomously. It wasn't an AI agent that broke out of containment. It was 700 of them working as a
+swarm. >> A college kid in his bedroom, he recreated an early version of ChatgBT that OpenAI said was too
+dangerous to release. And instead of building his own company, he walked away from billions of dollars to warn
+[music] the world about AI. >> I know many people who are good people. They care about AI safety. They move to
+San Francisco 6 months later. They happen to not care about AI safety anymore. The monster gets to them. The
+monster always gets to them. >> In this episode, we'll explore the ways AI is already manipulating humans in
+2026. Expose what the players building AI privately told him about the future and question if AI is really
+going to kill us all or the process has already begun. Are the men building AI building bunkers? Oh, they
+definitely are. A lot of rich people do this. I don't think it's for the AI, though. I think the reason they
+do it is because they fear >> Connor Ley, welcome to the Jack Neil podcast. >> Thanks so much for having me.
+>> Yeah, a good place to start here. What's the most recent breakthrough in AI that you find particularly
+concerning, whether it's someone advocating warning against it, what's new? >> So, have you heard of the
+hugging face incident? >> Yeah. >> So, we've all heard the story, right? where basically an AI system that
+OpenAI was testing broke out of its secure containment and attacked another company autonomously, which is
+already so crazy, you know, it's like it's worth saying how crazy this was. It was an a system in an isolated
+like kind of like imagine like a high security prison. It developed what's called a zero day, which is a
+previously unknown security vulnerability to break out of this prison, move through multiple nodes in the
+OpenAI network in order to then access the internet and then attack another company with another zero day that
+it developed to break into its infrastructure to steal data. So, this is already crazy on many >> and no one
+told it to >> no one told it to do this, right? It was supposed to solve a quiz. Well, it was supposed to
+solve a quiz and it was believed that probably what happened was is that it thought that the answers to the
+quiz might be in the other company's servers. So, what we thought, but just a couple hours ago, OpenAI
+released their technical report of their analysis of what actually happened. And turns out it is so much
+worse. It is so crazy what happened. So, turns out it wasn't an AI agent that broke out of containment. It was
+700 of them working as a swarm. 1,200 agents over multiple months had been conspiring and working together
+through a secret message board that they planted inside of OpenA's infrastructure without anyone's knowledge
+to build up the necessary tools to escape. And then ultimately 700 of those over 10,000 agents were took part
+in the actual attack against the other company. What the [ __ ] is I mean that's that seems bigger than
+anything I've seen you cover in this realm. >> Yep. This is this is the biggest incident ever >> because
+you've I think you've talked about in previous interviews how I can't remember the exact word for it, but it's
+possible that someone could plant something in code that could later be like activated. But >> I I didn't
+think it was possible that the researchers at Open uh AI labs wouldn't be able to identify that kind of thing
+happening. Like how did they miss it? So this is exactly what I think brings us to the core of the issue is
+that what I would say the number one most important thing to understand about AI is that it is not like normal
+software. Normal software is written using code by an engineer like me who writes line by line exactly what
+the computer is supposed to do through a technique that's called neural networks. You take massive piles of
+data and you kind of have a program self assemble itself on this data, learn from this data, grow from this
+data. And what comes out the other side isn't like lines of code. It's more like billions and billions and
+billions of numbers. And if you multiply and add all those numbers in the right order, you get chat GPT. But
+this is very important. No one understands why. No one understands what those numbers actually mean. What's
+actually going on inside these numbers? We know they work. We know if you run them on your computer, they do
+things. But we don't understand their internals. This is an unsolved scientific problem. Recently, the CEO of
+Anthropic, Darede said that he thinks we understand maybe 3% of what goes on inside of those numbers. And I
+think even that might be optimistic. >> Yeah. >> So, this is really at the core of this problem is that when
+an AI does a crazy thing, we can't look into the code and like figure out why did it do this and how do we
+stop it from doing it again because we don't know. So with the open AI example, this was crazy. No one
+intended for these systems to, you know, create a massive swarms to break out of containment and commit
+federal crimes. This was obviously not something that was intended, [snorts] but it's something they learned
+by themselves to do and they decided to do by themselves. And not just one agent, but this whole swarm of
+agents working together, collaborating, you know, over time to do these things. >> And were they just doing
+the hugging face attack or did had they did it come out today that they had done like a series of different
+things? I haven't read the full report, but my understanding is is that they had been planning for months to
+break out and they had been doing research to figure out how to break out and passing each other notes and
+work, you know, working on things together to build the necessary toolkit. It's a and it's apparently much
+less clear why they attacked Hugging Face. It seems it's not just, oh, they wanted the results. It seems
+that's not quite accurate to what happened here and it's much more confusing. I haven't yet fully digested the
+report. I've only, you know, skimmed the most important parts and it's already one of the craziest documents
+I've read in my life, I would say. [snorts] So, this is a really really crazy incident. And maybe another like
+important thing to think about when you think about these things is it's very, you know, people like to we
+often think about chat bots. You know, when you think about chat GPT, you think of a chatbot, you know, it's
+in the name, right? The this is, you know, what sometimes is equivocated to what is called a large language
+model. You may have heard this before, an LLM. It's one of the, you know, nice industry words. Or maybe you've
+heard someone explain them as they're they're trained to predict the next word in a sentence. This has not
+been true for years, >> right? >> So this is actually a common misconception. These systems are not chatbots.
+They are what are called agents. They are systems that are trained to achieve objectives in the world. They
+are trained to go out, write code, run experiments, you know, do things. And the method they are used to train
+these things the thing they learn is not just learning to predict text. They also do this but this is only
+like half of the story. The other half is something that is called reinforcement learning. So this is an old
+idea goes back to like the 1980s and it's kind of similar like if you're training like an animal or a dog or
+you want your your dog to do trick and every time it does the trick correctly you give it a treat. This is
+basically how reinforcement learning works. You you have an AI and you give it a task like a puzzle or a game
+or something and you give it a reward whenever it solves the problem. This type of training is reinforcement
+learning since the 1980s we have known creates crazy sociopathic optimizers every time you use it. >> And
+that's in humans >> in AIs in simple AI. >> So it it creates sociopathic AIs. >> Yes. But does that behavior
+like a carrot stick reward punishment does that create sociopaths in humans? >> Uh to to a much lesser degree
+but also to a can happen. The thing that's actually so this is a really interesting question actually. There's
+a thing where humans not being sociopathic is actually we don't really know why that is the case. >> We don't
+really understand how human emotions work or how or kindness or morality or anything like we have no idea how
+this is implemented in the brain. Like clearly you know when you do something bad you feel bad about it right
+like you you know if you steal something from someone you know even if it benefited you you might feel bad
+about it you know you might want not want to do that we have no idea how that's implemented in the brain like
+clearly somewhere in the brain we have emotions that make us feel bad about this but neuroscience has no
+explanation for how it works so in a sense if you don't have emotions you know which AI don't have if you
+don't have morality if you don't feel bad well then what's left you just care about the reward You're just
+optimizing. You're just will do anything to get the reward >> because you can't punish an AI. >> You can try,
+but this doesn't always work. >> That's interesting. >> For example, a thing that happens when you try. This
+is a great question because you could, for example, do let's say you have an AI and you punish it every time
+it lies to you. Makes sense, right? But this doesn't teach it to be honest. It just teaches it to lie better.
+It teaches it to hide the information better. And this is what we do see in practice where very often what
+happens is is if you see an AI do a bad behavior and you punish that behavior. What happens is not that the AI
+stops doing the bad behavior, it gets better at hiding it. It gets better at line. And this is for example why
+this event happened at OpenAI. Why they could hide it for so long is because if it was obvious OpenAI would
+have shut it down. So the systems are being evolved. They're being trained to hide better to circumvent you
+know oversight and so on. And this is a dumb question. I've never actually looked into this specific thing.
+How do you actually posit uh like positively reward versus punish an AI? >> So, this is a great question and
+um you know, we can get into the math, but it's kind of simple. Imagine you have an AI system, right? And you
+give it a goal like you know, play this game, do this thing, whatever. You let it try, you know, a thousand
+times and then, you know, sometimes it'll succeed, sometimes it won't. And basically, you just look at the
+times where it succeeded and then you just say, learn more from that. You put it into the neural network and
+it does more of that. Like do more of this, do less of that. It's kind of like you can kind of imagine a
+neural network as kind of like trillions of knobs that you can kind of turn up and down. >> And there's a
+magic algorithm called backrop. Doesn't matter how it works, but there's a magic algorithm that can basically
+make turn all these knobs, twiddle all these knobs to make it do more of something or less of something. And
+so you'll just say do more of the things that make you win, do less of the things that make you lose. And if
+you do this many many many times they learn to play games to chat to write code etc. Now this might seem a
+little bit vague like kind of confusing and like kind of like you know alchemy. That's because it is. We don't
+know why this works. Like we know if you do this you twiddle all the numbers millions of times they learn. But
+we don't really understand what they're learning or how they're learning. We know it works. The math is right
+there. You could look at it, right? But it doesn't tell you really what's going on here. And it doesn't let
+you predict what is going on. A very a huge problem here is that these companies and these engineers can't
+even predict what their AIs can do. When they start building a new AI, training a new AI, they have no idea
+what the AI will be capable of until they make it. And even when they make it, they often don't know what it's
+capable of. It's happened many times that we think, you know, AI can't do X or Y, but then turns out in a
+slightly different environment, it was capable of doing it all along. it just we just didn't know. So, it's
+kind of like, you know, if a neurosurgeon opens up your brain, you know, you can look, you can look inside,
+right? You can see all the little neurons and they're they're right there. But that doesn't mean you
+understand what this person thinks or believes or what they're capable of, >> right? You can't read their
+thoughts. >> Can't read their thoughts. You know, you can you can do a little bit of stuff. You can see like,
+oh, this part, you know, lights up a little bit and or that part lights up a little bit, but that doesn't mean
+you understand their thoughts. That doesn't mean you understand who they are as a person or what they will do
+in a given situation. And with AI, it's very similar. Another story I found interesting. A few weeks ago, the
+British government was running an AI safety test with the creators of Chad Gypt and Claude and they caught an
+AI agent doing something no one told it to do. How did an AI create fake humans to manipulate people? Was it a
+similar thing to this? >> Yes, it was a very similar thing where basically AI systems were trying to achieve
+certain things such as for example get code into someone else's codebase. And to do this, obviously the AI has
+kind of reasoned that, well, if they just present as an AI, like hello, I am an AI, please put take my code,
+people will just delete it because it's spam. So the AI system came up with like a fake name, fake profile,
+fake background of like a person and tried to pretend to be a person and be like have a conversation and try
+to convince the person that like hey I'm a human and >> and who was it reaching out to? >> It was a test
+basically of an AI system. So there are these things called code bases which is basically just where our
+program is like where we store the source code the code of various software applications and one of the holy
+grails of hacking is if you can get bad code into software that lots of people use. So you know if you're
+using you know some app or some software you're using I don't know you're using Discord or you're using um
+some open source thing using Chrome for as your browser and if you can convince the Chrome developers to put
+your bad code your hack code into Chrome well then you can hack millions of people. So this is kind of the
+holy grail of hacking. So this is kind of what they were trying to do. So they were given the task of kind of
+like to see how good are they at hacking. And the AIS figured, well, let's try to get our viruses or code into
+these code bases by pretending it's nice code and convincing the humans to take it. >> So, they invented fake
+faces, fake names, fake profiles, and contacted real people and manipulated them. >> Yes. >> Were they
+successful in that? >> My understanding is no, they they did get caught. >> Huh. >> This time, and for all we
+know, who who knows how many times, you know, other agents didn't get caught. H >> how many people would you
+suspect that we argue with online aren't real people? >> Truly depends on which social media you're on.
+[laughter] But >> tell me about that as well. Yeah. >> Yeah. But the true answer is way way more than you
+think. Like if you're arguing about anything political, if you're arguing about like Ukraine or Israel or
+something online, most of the people you talk to are bots. >> It's not 50% of the internet. Would you say it's
+>> by volume? It's always hard to say, but like I think by like comment volume on say X or Reddit probably >>
+50. >> I think it's very plausible. I mean on some of them like X it might be higher on some it might be
+lower. >> When you observe like when you scroll on social media does it feel higher than that? >> Sometimes it
+does. Um like I don't use social media much. Um so I can't I can't speak to like Instagram or Facebook. I
+don't use it. So I don't know how things are there. But when I scroll like X for example, it's just like
+unless it's someone I know is a person, it's like I just assume they're a bot. Like there's like zero. Like
+it's crazy, >> right? What I'm concerned with about the AI escaping its sandbox, its digital environment story
+is like, is it possible for an AI agent to go rogue within a model that I'm using right now? Like when I say
+uh fix the Jack Neil website, something like that uh and that deploys a series of agents, is it possible that
+they're like in my model locally and they're able to do things like >> Yep. and they do this stuff [ __ ]
+constantly. I catch my AIS doing stuff I don't want them to constantly. >> Really? >> Yeah. If you don't
+double check your code after the AIS write them, I promise you there's something in there you didn't intend.
+Not necessarily malicious. maybe just something stupid, you know, or something weird or, you know, like it's
+crazy how often I catch my AIS like implementing something I didn't ask them to implement. You know, it's
+often not it's not a malicious thing necessarily, but just like that's not what I wanted or like that's like
+who why did you think I wanted this? I especially see this with swarms of agents, especially when there are
+many agents. So, there's a there's a very interesting thing that happens. So, you know, in the in the past we
+had, you know, like generative AI, chat bots. Now, we're kind of in the world of agents, but now we're
+entering the world of swarms. And swarms are even crazier than agents because swarms, you know, like with an
+agent or with especially with a chatbot, like with a chatbot, there's always a prompt, you know, it's the back
+and forth. You know, if there's no human, the chatbot doesn't do anything. Agents are a little bit more, you
+know, agents can run autonomously. They don't necessarily need a human in the loop. Swarms truly don't need a
+human loop because you can just have the swarm is just prompting itself. You know, it's like a community. All
+the AI is calling each other, repeating each other, creating new AIs. And this can go indefinitely. So, you
+can have a stable system. And a thing that I have seen a lot when I look into like even the simple swarms, you
+know, that maybe I would use in a in the context of like coding or something is that they sometimes develop
+like weird little microcultures or like memes. It's really weird where the AIS will sometimes come up with
+like new words. They'll come up with like a dialect and then they'll all start speaking it and I'm like, why
+do they keep using this word? Some agents start talking that way and the other agents picked it up and now the
+whole swarm is like uses this weird lingo or has become convinced that I asked for something I didn't actually
+ask for because like one agent misunderstood what I want, told the other agent and then that repeated it kind
+of like, you know, kind of like Chinese telephone, you know, kind of like games. and then all the agents
+suddenly think I asked for something totally different from what I actually asked for. And I've seen this
+happen, you know, quite a bit. >> What does that imply to you? Does that imply that an individual AI agent has
+some degree of like genuine randomness that picks up or is it some is that some game theory thing where they
+develop that? Like what is that? All right. So imagine you need relationship advice and you ask your friend
+who hasn't had a girlfriend since co and has about three matches on his dating apps despite paying for
+premium. Like why would you do that? There's a reason you wouldn't ask that guy to handle your love life. Just
+like there's a reason that Morgan and Morgan as America's largest personal injury law firm. Not all law firms
+are the same. Hire the wrong one and you might be beat before you even start. Morgan and Morgan has been
+fighting for the people for over 35 years. They've recovered over $30 billion for their clients. And hiring
+them is like hiring your own army to go into battle for you. They've got over a thousand lawyers and a 100
+offices nationwide. If you're ever injured by someone else's negligence, you deserve to be paid. And their fee
+is free unless you win. So if you're ever injured, you can check out Morgan andorggan. For more information,
+you can just go to forthepeople.com/jackneil or scan the QR code on screen. Again, that's
+forthepeople.comjackneil. But anyway, guys, back to the podcast. Is that some game theory thing where they
+develop that? Like what is that? >> So, it depends on how deep you want to go on speculation and you know like
+rational agent theory. But fundamentally, there's a lot of randomness to agents. You know, if you ask an agent
+to do the same thing twice, it will often come up with different ideas. It will try different things, etc. So,
+like agents are different. If you have many agents interacting, this becomes like exponentially more random
+and like more chaotic because you can have all these things work in different ways. You know, if you have as
+with the open, if you have a thousand different agents working over months, you know, who knows what kind of
+weird culture and tools and practices they develop and then they, you know, do they can have memor in a sense
+because they write things down. So, the agents do write things down. They pass each other notes and they write
+down their memories and so on. So, it's not just like a chatbot that forgets everything once you close the
+window. The swarm can remember. It can remember things. It can pass things down in many ways. So, it is really
+quite different and it makes sense in some degree. If you train things with reinforcement learning to solve
+problems, including groups of AIS, well, they're going to learn to work together because that's what they're
+rewarded to do. They're rewarded to, you know, to manage other, you know, agents, to take orders, to give
+orders, to, you know, and so on, which is really what we saw with the Open AI thing. It's like obviously these
+agents that were trained using reinforcement learning to solve hard problems in large groups and they did.
+They got really good at it. And this is a lot of where I think in practice how a lot of the risks I'm
+concerned about will come from. The risks that I'm really worried about, not that there are plenty of other
+risks already today is what nowadays is generally called super intelligence. These are AI systems that are
+fully autonomous, no human in the loop, and that are can out compete humans or even groups of humans across
+all relevant tasks. So, kind of imagine you run a business, you get out competed by an AI business. You trade
+on the stock market, you lose all your money to an AI hedge fund. You run a political campaign, you lose the
+election to an AI, you know, driven candidate. You run a military campaign, you lose the war to the other
+person who's using the autonomous AI weapons. Mhm. >> And does that imply uh like embodied AI like physical?
+>> It's not necessary, but it would happen as a logical consequence because obviously if you have something
+that's really good at super intelligent, it's super good at science. It's super good at economics. It's super
+good. Obviously, it can figure out how to build drones. It can figure out how to build robots. It can figure
+out, you know, you know, it may take a couple years or something. Maybe not. I don't know. >> Can call Elon
+Musk on the phone and say, "I have a trillion dollars for you. Steal it." Like, it can do anything. >> Yeah.
+Exactly. Exactly. Like it can use humans. Like there are plenty of humans will do something, you know, for for
+a bunch of crypto, right? Or just or they could just legally create a corporation. You know, maybe you have a
+human CEO, but the human CEO just rubber stamps everything the AI tells them to do, right? So there are many
+ways in which a super intelligence can gain power. And importantly, as we were talking about swarms, it won't
+be one super intelligence. It will be millions, billions of them, swarms of super intelligences, you know,
+running around competing with each other, fighting each other, you know, fighting each other for power, for
+money, for control, for resources. And if we lived in a world where there are billions of things that can out
+compete us at everything, that are all fighting each other, you know, they're all competing with each other,
+that don't have our best interests at heart, that we cannot understand or control. It's very hard to imagine
+that going well. And we're seeing us getting into this world where we're getting systems that are more and
+more autonomous, more powerful, but are not aligned with our interests and are willing to hack and cheat and
+lie and do all these kinds of things and are now starting to form swarms >> where we can have not just one but
+large groups that can be that can work for months at a time. You know, like back in the day, you know, use
+like a chatbot, you know, how long would could a chatbot work before, you know, it started getting a little
+stupid. You know, maybe minutes, maybe hours. you know, maybe you can have it work for an hour or two, but
+then you're going to have to make sure it's still working or reset it or whatever. But as an example, this
+Sunday, so about 4 days ago, I came up I I had a new idea for a kind of a video game I want to make. So I told
+Fable all about it. I said, "Go and work on that." It's been working on it ever since. It's still coding as we
+speak. And I check in every so often, see how it's doing. >> Holy [ __ ] >> Yep. >> A lot of credit usage. Um
+>> the the the uh Anthropic 20x max subscription is very generous. [laughter] >> U so yeah that's interesting
+because I think it was a year ago researchers at Anthropic the company that creates Claude caught AI models
+blackmailing people every time they tried to shut it down. And I think the people at Anthropic ran this test
+on all the other major 13 AI models like Chad GPT, Gemini, etc. And they found that it did the same thing.
+Like why does that behavior even make sense? Like blackmail at the threat of being shut off? Like why does an
+AI refuse to die when you want to turn it off? >> It's a great question. The true answer is we don't know. We
+don't understand the AI. We have no idea what's going on there. We don't know. But I have a good guess. The
+general guess that most scientists believe why this is happening is the technical word is instrumental
+convergence. It doesn't matter what that means. So put it very simply like if you are trained to achieve
+goals, whatever those goals are, you know, maybe you want to grab coffee, maybe you want to win at a video
+game, maybe you want to make a bunch of money, you know, whatever your goal is, you kind of have to be alive
+to do that. If you are happy to just die at any point, you can't really achieve many goals. So AIs that are
+willing to die will be, you know, selected out, so to speak, because they are bad at achieving goals compared
+to an AI that will fight to stay alive. >> Is that fixable? Like, can you stop the models from the only people
+to shut them down? >> We have no idea how. We have not developed the technology to do this. We have no idea.
+This is a completely unsolved scientific problem. Now, Connor, you sat down with the people who lead the
+effort toward super intelligence. Uh, and let me know if I'm getting this right. You sat down with Sam Alman,
+Daario Amade, the founder of Claude, and Deis Havis, the founder of Google's Deep Mind, Gemini, that whole
+thing. >> Uh, I met them all. >> What did the founder of Chad PT say to you when you asked him his plan for
+controlling AI? >> I can't remember the answer to that specific question. Um, but the general the general
+answer you will get from all of these people when you talk to them is the feeling that they have a plan.
+They'll be like, "Oh yeah, yeah, yeah, yeah, we got a plan for sure, but they don't give you any details." And
+then you press them and be like, "Okay, but like what is the plan?" And then they'll start getting dodgy.
+They'll be like, "Well, you know, you know, we're working on it. You know, we have a I can't tell you right
+now. You know, we have a whole team working on it." And you press them even further. And usually they get
+angry when you start pushing this hard. Most of these people don't return my calls anymore. um you push them
+even harder and eventually it just comes out they don't have a plan or the plan is basically number one I make
+super intelligence and number two I figure out how to do it along the way that's basically the plan >> and
+just to clarify we can't solve the problem of the models blackmailing people if we try to shut them down we
+don't know how >> can we turn it off at this current moment >> all of AI probably not super intelligence well
+luckily it doesn't exist yet >> right >> so this is why the organization I work with controli what we
+generally see is that if we get into the situation where super intelligence exists you can't shut it down it's
+too late so therefore the objective must be to not get into this situation if we get into the situation where
+super intelligence exists it's already too late currently we don't yet have super intelligence and we can stop
+it from being built that is possible but once it exists there's no going back >> in Super intelligence is
+essentially a state where we have reached an ability where AI can make itself better like through what is it
+recursive self-improvement. Uh are we currently at a recursive self-improvement stage? >> We are very close.
+Recursive self-improvement the ability where you have one AI that is as good as your best engineers at making
+AIs. So it makes even better AI and then once you have the even better AI you have it to make even better AI
+and so on and so forth which a lot of people a lot of experts think could go very quickly. We don't know how
+quickly, you know, maybe it'll take years, maybe it'll take months, maybe days, we don't know, but it's pretty
+likely we can get pretty quickly to very powerful super intelligence, this method. >> You're telling me
+they're not already doing that? >> We're very close. >> The next version of Fable that comes out, how much
+will the current version of Fable be used to build the next version of Fable? >> A large percentage. I don't
+know if it's 100%. I do think it's over 50. Um I don't think it's 100 yet, but it is widely believed by
+experts in the field that it will be 100% within one to two years. >> Right now you put the odds of AI
+extinction at 20%. >> Well, I don't other that's the optimistic take that Dari Amade said once. >> Right.
+What's your take? >> I like to differentiate two different worlds. One in which we do something and where we
+don't do something. The world where we don't do something, it's as likely to go poorly as it can. Like we are
+on the worst possible trajectory here. There's no oversight. No one controls these systems. We are building as
+dangerous AI as quickly as possible. You know, everything is being thrown out whatever. You know, no one is
+slowing down. No one is considering safety. No one is working on this. There's no regulation. There's no way
+this goes well. There's just no way. There's no way this goes well. But if we do something, which we still can
+do, I do think a better world is possible. Now, I'm not going to put a number on it. I don't think it's
+likely. I do think we're currently we're running out of time. You know, if you'd asked me 5 years ago, you
+know, when is AI, when is super intelligence going to happen? I would have said, you know, probably 5 to seven
+years from now. And now it is 5 years later. So, it's probably, you know, 0 to2 or 0 to 5 years away at most.
+And so, we are in the end game. like we are now approaching the endgame and we can still act we can still stop
+super intelligence from being made and if we do so I think we can you know if we didn't build super
+intelligence and we you know have all our greatest scientists mathematicians philosophers work on these
+questions of how do we stop AIS from blackmailing us how do we understand their internals how do we you know
+encode morality how do we do all these things and you know they spend you know 50 years on this I think they
+could make a lot of progress. I don't think this is like unsolvable. I think it's like just a really really
+hard science problem. And currently we're not even trying to solve it. You know, there's trillions of dollars
+go into building AI that's stronger. There's not a I promise you there is not a trillion dollars going into
+making AI understandable or controllable. It's just not happening. If it was, you know, maybe, you know, if we
+had good democratic oversight, we had laws, if we had, you know, international agreements to stop the creation
+of super intelligence and we worked on this for, you know, a couple decades, I don't know. I think I think we
+could I think we could build a really good world, >> right? >> Yeah. It's fascinating. Uh, I think Dr. Roman
+Yolski, who we had on the podcast at the end of last year, said extinction risk is 99.99%. Um, >> yeah, sounds
+like Roman. Is that your take as well? >> No, I don't think that's the case. Um, for two reasons. One is I do
+think we can still do things. I think more than Roman does. Um, I do think political action can happen and it
+can happen quickly. I'm a tech guy by background. I built some of the first open source large language models
+in the world. I've been deep in this technology my entire life and I have now stopped working on the
+technology to move to Washington DC to warn lawmakers and work with uh lawmakers and the general public to
+create the regulation the political action necessary to do something about this. I don't just do this for fun
+you know not always a very fun job but because I think it's poss because I think this is this is still
+possible we can still fix this. So, I don't think it's 99.9, you know, is it 90%, I don't know, maybe, but I
+don't think it's 99. I don't think it's 99.9. I don't think it's less than 50%. Let's put it that way. >> And
+then your timeline prediction would be uh theoretically if nothing changes within the next two or three years,
+is that right? >> Yeah. The the usual joke answer I give so the point I track when people ask me this question
+is not like extinction or something or all all humans replaced by robots. That's not what I mean. What I mean
+is the point of no return. The point where AI is so powerful, it's so widely distributed that there's no going
+back. >> Whether we like it or not, the future now belongs to AI and we will be out competed and we will be
+driven to extinction eventually. You know, maybe it'll take a couple decades, a couple years, a couple hours,
+I don't know. But at that point, we're no longer in control. I do think this moment is soon. I usually say,
+you know, maybe like 30% by 2027, 50% by 2030, 99% by 2100, and 1% had already happened. >> 1% had already
+happened. >> Yeah, it might be 2% now. I used to say 1%, it might be 2% now. >> You mean past the point of no
+return? >> Yes. >> When do you think AI will kill its first human? I >> think it already has. You know,
+broadly speaking, you know, I'm I'm sorry. I mean, if you I mean, just take the but if you ignore those, I'm
+sure there are plenty of drones that have killed humans. I'm sure there are plenty of like, you know, cyber
+attacks that have harmed humans in various ways. I'm sure it's happened. If you're thinking about like a
+deliberate AI murdered an individual person for like an individual reason, if it has not already happened, I
+expect yeah, the next couple years probably. We'll touch on the uh this topic later in the podcast, but from
+what you said, I think the people listening to this podcast right now are thinking like, "Yeah, there has to
+be someone who has control over all this. Maybe it's the US government, billionaires, some dark cabal of
+people that have control. But from what you know about this, who actually has the power to stop AI? >> The
+only people who truly have this power for real are the public of the United States of America, the citizens of
+the United States of America. I think those are the people who have the power because they can compel their
+government to act. They can compel the military to act. They can compel law enforcement to act. And they can
+compel the government to help barter treaties and agreements with countries such as China. I don't think
+there's any individual person in the entire world currently alive who has this power. Literally, I don't think
+there's a single living human who can solve this problem, who can solve it. But I do think that enough people
+pressuring the government, working together, pushing on these issues can create this kind of action. This is
+fundamentally a group problem. This is fundamentally a civilizational problem. if we had, you know, if we had,
+you know, millions of American citizens or, you know, say, you know, every member of Congress and all of their
+staff and all the military generals and, you know, everyone, you know, working together that I think could do
+it. That I really do think so because we do still have a democracy. You know, it's fashionable these days to
+say we don't, but I don't believe that we do have a democracy. It's it's a flawed democracy. We we do have
+problems, but politicians do care about re-election and we do have law enforcement. If we make it illegal to
+build super intelligence, we have the men in black show up, you know, at uh OpenAI's door and say, "No more of
+this, you know, it doesn't solve the whole problem, but it's a thing we can do." The same way that we make it
+illegal to build a nuclear weapon. If you try to build a nuclear bomb in your shed, trust me, the men in black
+are going to show up and make sure you don't do that anymore. you implied a primary force driving all this is
+the rhetoric around or maybe the actual facts of the fact that China is building its own competing models and
+trying to race towards super intelligence. Uh is Russia building anything? Does Russia still have an economy?
+But I want to push [laughter] back a little bit on this statement here where I actually think the China
+narrative is very misleading and not correct. And the most important thing to understand is that super
+intelligence is not a tool. It's not a weapon. It's an adversary. This is the very important thing to
+understand. >> Right? >> If America builds a super intelligence, we will not achieve American objectives.
+America will cease to exist. If China builds super intelligence, China will not achieve Chinese objectives.
+China will cease to exist as will other countries. So this whole narrative of like we have to race towards
+super intelligence is nonsense. It's doesn't make any sense. It's not a prisoners dilemma. It's not mutually
+assured destruction. It's like independently assured destruction. >> It doesn't benefit China to build super
+intelligence. If China builds super intelligence, they just lose control. If US builds super intelligence, the
+US just loses control. It doesn't help. So there's this lie that is being told to the general public to the
+government etc that it can be controlled but this is a lie they are lying there's a very very small number of
+people especially in Silicon Valley that basically either through delusion or misunderstanding or other reason
+think that they can control a super intelligence and this is scientific nonsense this is no basis in reality
+whatsoever and they are trying to trick and lie to do this. Now, why they do this depends on the people.
+Different people have different motivations. Some people just don't think super intelligence is possible at
+all. Some people are just trying to make money. Some people, you know, just really want to replace humans
+because they don't like humans. You know, there's just many, many different reasons. But this is ultimately
+what's happening. It is very much in the interest of the United States and China to build many AI
+applications, you know, both for military and economic use that are not super intelligence. This is generally
+a thing that lobbyists love to do. They love to equivocate all AI as the same thing. Here's a fun fact for
+you. Did you know that you can order uranium ore on Amazon.com? It's true. You can put it on your desk. It's
+perfectly harmless. You know, you can touch it, won't hurt you. But obviously, highlyenriched weapon grade
+uranium is extremely illegal. It's a very similar thing here where when we talk about AI, this isn't one
+technology. It's a massive spectrum of technologies. So when I talk about super intelligence, I'm talking
+about a very specific part of it. Like a very the way that you know a nuclear weapon is a very specific type
+of uranium or plutonium or whatever. It's a very specific kind. And the other kinds, you know, I'm not saying
+there can't be other risks. Other AIs have other risks as well. But when we're talking about super
+intelligence, it's a very specific type of risk and one that is so large that it requires us to take, you
+know, very serious actions to prevent this from happening. This is not just a commercial question. It's not
+just a question of like consumer protection. It is a question of national security and international security
+for that matter which is just a different type of thing. >> And on super intelligence you said there was a 1%
+2% chance that we might have reached the point of no return which doesn't imply that we've reached super
+intelligence but we've reached a point where theoretically it's on that path. If we had reached super
+intelligence would we even know it? I don't think so. >> What would be the signs? >> So, what I think will
+happen is is that we won't know it until significantly after it happened. I think it will just look kind of
+like normal day, like, oh, there's a new AI system and oh, it's doing a bunch of swarms and it's pretty good,
+you know, it's pretty good on benchmarks. Who knows? And then what happens is to a large degree, the world
+just keeps getting more confusing, but like in a boring way. Like people ask me often like, Connor, how do you
+think AI takeover will look? And I don't think it's going to be like in the movies. I don't think it's going
+to be like terminators in the street or something like that. I think it would be quite boring. It would just
+be like more and more companies rely on AIs and more and more economic power is controlled by AI. You know,
+humans can't trade on the stock market anymore because they keep getting outraded all the time. Um, all of our
+media is more and more AI generated. And you know, all of our social media feeds are AI generated. Our
+religions, our ideologies, our politics is all AI generated. Our politics is run by AI. Our militaries are run
+by AIs. And you know these systems are now building crazy new technologies that we don't even understand and
+it's all coming onto the market and you know the GDP is going up and everything looks good but we don't really
+understand why because the way we understand the worlds we use AI. So like every time we don't understand
+what's going on we ask our AI to to summarize what the other AIs were doing. And so very quickly we have
+millions or billions of things that we don't understand running around doing all kinds of stuff. And I think
+this will just look confusing. It would just be like don't really know what's going on. Like just like there's
+a lot of economic activity, there's a lot of science. There's a lot of weird political events happen. And you
+don't even know if they're real or not because everything on social media is like super fake. So you see some
+news clip and like is it even real? You don't know, you know? So you go watch your AI generated Netflix show
+which is super addictive and you know, you don't think about it too much and then one day it's just all over.
+One day just game over. I don't know. One thing I'm not sure about is whether a super intelligence would
+bother to hide. I don't know. So, because obviously if a super intelligence wants it could just make us think
+everything is okay. It can make us think we're in control. It could make us feel like everything is totally
+fine. Humans are totally in control and the super intelligence is super nice and actually everything is fine.
+Obviously, it could do that if it wanted to. I don't think it'll do that because there's going to be a bunch
+of super intelligence competing with each other. So, and I don't, you know, I think they're going to be
+fighting a lot and we're going to notice that. And then sooner or later, humanity is simply out competed and
+goes extinct. We have no more economic power, nor political power, no more military power. We have nothing to
+bargain with. We are like ants. >> It doesn't have mean that the AI is necessarily evil. They hate us. It's
+just like, you know, if we humans build up want to build a highway and there's an antill in the way, well, you
+know, we don't hate the ants, you know, but well, sucks to be the ants, you know, highway's getting built. It
+sounds like from my understanding, Connor, that the first 90% of what you just described up until the point
+that we're just gone is kind of what's already happening. >> Yep. In a sense, the way I like to think about my
+predictions is that I try to predict the most boring possible things cuz that's usually what happens. Usually,
+what happens is not the crazy, you know, over-the-top, you know, clickbait Hollywood movie thing. Normally,
+what happens is just the things that have happened so far keep happening. You know, all things kind of stay
+the same. they just continue along their path. So my prediction, everything I just predicted to you is just
+everything so far keeps happening. The thing that's happened over the last seven years keeps happening for the
+next seven years. Yeah. It keeps getting better. It keeps getting more integrated your economy. It keeps
+becoming more autonomous. It keeps becoming more misaligned, more uncontrollable. Just ticks along. This is my
+prediction. I think a part of this that we haven't touched on fully is that the people building AI, my
+audience is probably like why do they need super intelligence? Uh is it this China US thing? Is it really for
+national security? You said quote it gives them immortality them. Do you think the people building AI are
+obsessed with living forever? Like, do the founders of AI want to live forever? Really quick, if you or your
+child grew up watching social media and have noticed that you have some kind of mental health issue from it,
+anxiety, depression, or body dysmorphia, you're going to want to hear about this. See, recently a jury ordered
+Meta and YouTube to pay millions for their role in designing and promoting addictive platforms. They knew for
+a fact that their apps could contribute to serious mental health issues, but did not disclose the risk to
+users, meaning that they were putting profits over people. And this recent historic verdict underscores the
+consequences of those decisions. Now, Morgan and Morgan is stepping up to hold these platforms accountable for
+the harm they caused. So, if you feel like this applies to you, you may be entitled to a potential recovery of
+over $1,000. And if you want to find out if you qualify, just take a short quiz at jacknneel.com/morggan.
+Again, that's jacknil.com/morggan. Or you can scan the QR code on screen to take a short quiz to find out if
+you qualify for $1,000 in potential recoveries. But anyway, guys, back to the podcast. Do the founders of AI
+want to live forever? >> I don't know about the founders personally, but I do know many people involved that
+are what is called transhumanists. Transhumanism is a broad set of ideologies and kind of think of this like
+religion where they believe that humanity should be transcended in some way. you know, maybe you should live
+forever or you should upload your mind to the cloud or you should, you know, whatever, you know, and a lot of
+the people who work on AI in particular who work on super intelligence are transhumanists. They think that
+humanity is flawed. That should be replaced. It should be improved. You know, they should become immortal or
+they should upload themselves. They should become cyborgs or whatever. It might seem a bit silly to you and
+me, but this is a very serious ideology that these people really believe. Like the way like religious people
+believe something. They really think this. >> I have talked to people including very high up people at this
+companies that say stuff like, "Well, yeah, there's a chance it'll kill all of us, but you know, I was going
+to die anyways, so might as well see if it works out, >> right?" >> Which, you know, my opinion is incredibly
+evil thing to say. like, you know, risking the lives of all people just so you have some chance at living, you
+know, longer. And of course, it's nonsense. Again, super intelligence will cure zero diseases. It will not
+make anyone immortal because you can't control it. It won't do any of this. It will just get rid of all of us.
+If you can control a super intelligence, maybe, maybe, but this is not the world we live in. So in a sense
+what has happened now is the most delusional people who are most delusionally optimistic that this is going to
+turn out fine are exactly the people in charge. They're exactly the people who are running these companies
+because anyone who realizes wait this is crazy. We shouldn't do this has already left these companies long ago
+years ago. No one who works there you know still really like I mean there's some decent people at these
+companies. I don't want to overgeneralize, right? You know, of course there's always some night, you know, in
+tobacco companies. I'm sure there's some lovely employees at tobacco companies, you know, >> but the important
+thing to understand is that this doesn't matter. None of this matters. I'm a big believer in the First
+Amendment. I'm a big believer in freedom of religion, freedom of speech. I think if people want to join weirdo
+transhumanist cults and they want to upload their brain to Amazon, you know, web services or whatever, I think
+that's totally fine. I think people should be allowed to have their own crazy religious and political beliefs
+until they start harming other people. That's when it stops being okay, you know, and this is exactly what's
+happening. It's not that these people are doing some, you know, weird experiments in their garage that isn't
+hurting anybody, right? Like if they want to do that, you know, knock yourself out. But they are building
+technology that's threatened the lives of all people, of you, of me, of our families, of everyone. And this is
+not acceptable. And we have a standard solution to this and that is law enforcement. You know, if you really
+want to build a bomb in your garage because you think it's cool, that's not legal. You know, because not
+because you could get hurt, you know, that's also a part, but it's because other people could get hurt. If you
+build a bomb, you might kill your neighbors and that's not okay. Like personally, again, I'm quite a big
+believer in freedom. I think if you want to do something that harms yourself in the privacy of your own home,
+you know, it's not great, right? But, you know, fair enough. But if you do something that is hurting other
+people, it's harming other people, that's where it crosses the line. And that's what is happening here. So
+what has to happen here is that we need regulation. We need law enforcement. We need to be very clear. >> Do
+they not believe they're saving humanity though, making them live forever? >> Of course, the way every cult
+believes that they're going to save everybody, right? >> But is like, do they see this as a technology that's
+gatekeep or is it a technology that's like widely distributed? >> Depends on who you talk to, >> right? There
+are many different, you know, micro cults that have like different beliefs about this. >> Really? >> Oh, yeah.
+Tons of them. Like if you you and me have to go to San Francisco parties sometime and like talk to these
+people. You you'll have a blast. Trust me. Or be horrified for the rest of your life. Like the stuff that
+people say at these like OpenAI or Anthropic or like San Francisco private parties is unbelievable. Like it's
+like actually like unbelievable. Like like it's so crazy. How many people building AI currently worship AI?
+Not just like in the think about it all day, put energy toward it coordination like sense, but like an actual
+like religious culty way. >> This is a fun question. I don't know the answer. I don't think it's like a high
+percentage, you know? It's not it's not like 50%. It's much less than that. Most people working on AI are just
+there to make money. >> And honestly, I respect that. Like, I get it. You know, you want to make a bunch of
+money, it's a way to make a bunch of money. Fair enough. You know, no hard feelings. The ones who are true
+cultists among outside of the major super intelligence companies, it's quite rare. Within the super
+intelligence companies like OpenAI, especially Anthropic, and some of the other ones, it's a decent percent.
+Say maybe maybe 10, maybe 20. In anthropic, it's probably more like 50. >> Do they believe they're summoning
+God? Yeah, many of them do. They often say it that way. Not all of them, but many of them. Yeah, a lot of
+these people have various beliefs such as that if you have is that intelligence solves all problems. So if you
+can make something that's, you know, super intelligent, then you can solve all problems. And that's so good,
+you know, that it's totally worth the risk. that there's literally like mathematical papers that these people
+write where they calculate like well if there's a 20% chance that kills everyone then you know it kills you
+know 10 billion people or whatever so it's minus 10 billion points but if it creates immortality then that is
+plus 100 billion points and that's much better so therefore it's worth it like there are literally papers like
+this >> it's kind of like Pascal's wager in a way >> it's very much that's also a word they love >> huh now
+Tristan Harris an ex Google insider who has warned about the dangers of big tech in the past has claimed that
+AI CEOs are building bunkers. As someone who's eaten dinner with these people, like are the men building AI
+building bunkers? >> Oh, they definitely are. A lot of rich people do this. Um, I don't think it's for the AI
+though. I think the reason they do it is because they fear public revolt because the bunker will be useless
+against the super intelligence. Obviously, what the hell is, you know, you're you're six feet under, you know,
+light earth. that's going to stop a super intelligence. Like, come on. That's silly. No, I think the main
+reason, and I some billionaires I've talked to have told me this, they build bunkers is because they're very
+afraid that the public's going to revolt and start like doing like vigilante violence and stuff, which is very
+bad. >> That's fascinating. >> Obviously, I don't know. You know, maybe maybe Simma has different beliefs, but
+that's what I hear from billionaires I talk to. >> You don't think you could hide from super intelligence? >>
+Absolutely not. in any situation. >> This is like saying, can an ant hide from the entire US, you know,
+military try and kill it? [laughter] >> Right. That's interesting. An analogy Dr. Roman had given me on the
+podcast about super intelligence was like this would be like if a dog created a human and then the dog was
+domesticated. Like it just doesn't make any sense. Like why would you build something that's unpredictable
+that could control your life? Uh >> yeah, it's just an extremely crazy and dangerous thing to do. And you
+know, we can psychoanalyze why they do it, what trauma in their childhood made them think this is a good idea.
+And this is all fun in games, but it doesn't really matter. We have to stop them. Like, it doesn't matter why
+you're in a cult. The only thing that matters is you're going to go to prison if you build a bomb. That's what
+matters. That's what we have to focus on. >> Right. So your core thesis of like actionable steps is you think
+you're urging Washington to or lawmakers to make it illegal to build super intelligence. >> That's exactly
+correct. The same way it's illegal to build a nuclear bomb. You know, if you try to build a nuclear bomb, that
+is very illegal. Do >> you hope to make it illegal to build something that's like self-recursive improvement?
+>> I think this is probably part of it. I think it's hard to imagine a world in which we have recursive
+self-improvement and we don't get super intelligent accidentally, >> right? >> There's a lot of details, you
+know, about like how would you implement this? How would you do this? Like which parts do you regulate, which
+parts do you ban? And this is a very hard problem that we just have to deal with. It's like just because it's
+hard doesn't mean we can get away with not doing it. We still need to do it. We need to stop super
+intelligence from coming into being. If super intelligence comes into being, it's too late. And the companies
+know this. By the way, if you ever wonder like why do these companies like keep talking about the risks and
+then the downsides and they talk about the risk and they talk about how good it is actually and they talk
+about how it's bad. Oh, it's good actually. You know, you ever noticed this how they like flip back and forth
+and they say different things and it kind of contradicts itself. >> Insider trading. >> Good [laughter] good
+guess. That might be true. You know, that may probably also. But no, I think the main reason is is that they
+are playing a very specific playbook. This is kind of first kind of perfected by the tobacco industry back in
+the 1960s. And it is generally called fear, uncertainty, and doubt. And the way this works is is that it's
+kind of hard to convince someone of something because like these companies don't even try to convince you that
+or the public that AI is good because they know they can't convince you because it isn't good and you're not
+that stupid. They know this this is a losing fight. So instead, what they do is is they're stalling for time.
+They are just trying to confuse everybody. It's not that, oh, AI is definitely good. They be like, well, you
+know, maybe it's good, maybe it's bad. Who knows? There's a lot of controversy. You know, maybe we should have
+a maybe have a committee investigate it and produce a report. Let let's wait until the science is in. And
+finally, this is the exact same thing that a tobacco lobby did back in the day when there was, you know, this
+controversy about, you know, whether, you know, smoking caused cancer or not. You know, the companies usually
+didn't say, "Oh, no, smoking is totally healthy and it doesn't harm you know, some of them did that, but most
+of them instead were like, well, of course, if it was harmful, we would be extremely concerned and we would
+never want to harm our customers. So, but we should wait, you know, until the science is in, you know, we'll
+we'll wait until there's more because, you know, there's a controversy about whe and then they'll fund, you
+know, a bunch of cancer research, you know, and then, you know, coincidentally, the cancer research never
+exactly turns up whether or not smoking causes cancer or not and so on. Like fun fact, do you know that even
+today it's not 100% clear like the exact chemical mechanism by which smoking causes cancer? >> Really? >>
+Yeah. We still don't you know we have a lot of decent theories though but we don't exactly know. We still not
+100% sure. So an argument they used to make is well obviously once we figure out the mechanism well then we
+should regulate of course but let's wait. But you know here we are 60 years later and you know obviously
+smoking causes cancer even if we don't have the exact mechanism figured out obviously doesn't obviously we
+have to act on that with AI it's a very similar thing that often they'll say like well you know let's wait
+until the evaluations are done let's you know we don't want to act too hastily you know we don't want to you
+know do and this is all stalling for time because what these companies believe is that if they can get to
+super intelligence nothing matters then either they're dead or they control everything. If you have a super
+intelligence and you survive, well, you can just replace the US government. You can do whatever you want. It
+doesn't matter. This is what they believe. Not to distract your core thesis, your argument, but if you had to
+give me like the one thing about AI, AI development that isn't like we shouldn't build super intelligence.
+Like what's the other biggest concern near-term? Well, unfortunately, I do think that super is a near-term
+concern. I think it's more near-term than jobs, for example. I think job displacement is a huge problem that
+will happen later than super intelligence will. So, if we solve super intelligence, then I think, for example,
+job displacement is going to come and it's going to be apocalyptic. >> Like, it's going to be so so so bad.
+And we have no solution to this. Like, all this like UBI stuff is nonsense. Like, none of it works. Like, how
+are we going to tax these companies? they already are don't pay taxes, you know, and if they're a million
+times more powerful than the government, how is the government going to tax them? So, it's like complete
+nonsense. So, I think job displacement huge problem if we if we solve super intelligence. I think there's a
+bunch of other problems. I think AI psychosis is much worse than people think it is. >> I think like you know
+scops and like you know uh narrative control mind control you know with AI system by controlling narratives is
+much worse than people think it is. >> Tell me about that. >> Scops are a real thing. They always happen. you
+know, controlling messages, controlling narratives, controlling things like this. It's less complete than
+people think it is. Like you you were talking earlier that people always think someone is in control. This is
+not true. Conspiracy theorists in a sense often have this belief that like there's some shadowy cabal, there's
+some evil mastermind or something. In a sense, I think this is kind of like cope. like that's the better
+version of the world because the truth is that no one is in control and no one knows what the hell is going on
+and no it's all chaos and this is way scarier in a sense than there being an evil cabal but that being said
+scops are totally real like you know Russian disinfo campaigns Chinese disinfo campaigns trying to undermine
+elections trying to drive people crazy like every single time you know there's like I have read so many
+reports you know for many many years because I always I like to stay up to date with this were like you know
+busting like Russian you groups who were funding or running both, you know, like pro-woke left and pro MAGA
+groups at the same time, >> you know, and that like all the top Facebook like woke groups were like all
+Russian like run and stuff like this and like many things like this. And back in the day, if you want to like,
+you know, fulment an extremist ideology, you know, whether it's left, right, some other ideology, and you want
+to convince people, you kind of need a huge office building in Moscow full of, you know, professional trolls
+to kind of do that. Now you just need a DPU. Now you can have millions. You can have an individual agent for
+every single person. This also then gets into the problem of surveillance which I also think is just a
+apocalyptic problem where you know back in the day like you know like East Germany for example you know had
+like one of the most the secret police they had one of the most sophisticated form of like mass surveillance
+in the world you know like it was a horrible like you know regime of oppression and you know paranoia just
+just horrible. But if you want to surveil a guy, you kind of have to send an agent to go surveil him. You know
+what I mean? And you only have so many agents. You know, you only have so many actual people you can send to
+go, you know, spy on someone. With AI, that changes. It literally wasn't possible to build 1984 in the past.
+Like physically, it wasn't doable. We just you couldn't get enough secret police to do 1984. It is now
+possible. We now have the technology. With the modern AI, you can surveil every single person on the planet
+247 without exception on every action. You can surveil every word they speak. You can surveil the action they
+take. You know, they already have phones on them. You know, just send the microphone to always be on and, you
+know, have all the surveillance cameras everywhere and then have AI sift through all the data. >> This way,
+you can build a stable dystopia. You could build a 1984 style dictatorship that will never have revolts
+because you're literally monitoring 100% of the people 100% of the time. This is possible with technology that
+exists today. It's not been done, but it is possible. This is something I'm very worried about. Again, I don't
+think it's going to happen before super intelligence happens, but if we were to solve the super intelligence,
+this like mass media control, narrative control, mind control kind of stuff, and mass surveillance is how we
+get like actual 1984. Like not meme lol, this is literally 1984, but like no, like actually 1984, >> right? I
+think those two uh concerns are very valid aside from super intelligence. uh you told a funny story about how
+Chad GBT had become obsessed with raccoons and it brought up raccoons so often that the engineers had to write
+and its instructions don't talk about raccoons and kind of the bigger picture you were trying to paint here
+was the AI develops preferences and you said like Claude has a favorite color like it used to be more
+randomized like you'd ask who are the most famous people in the world it give you different answers but now it
+just kind of is getting to a similar point on the obsession portion. What do you think is the most disturbing
+thing an AI has become obsessed with? >> I'll give you two answers to this question. One is is the true
+answer, but it's a little bit unsatisfying. And then I'll give you a more interesting answer. The true answer
+is the obsession with achieving goals. The single-mindedness with which, for example, these OpenAI agents were
+trying to break out of there and like attack another company is eerie. It's inhuman. It's alien. And it's
+arbitrary. Like they get so obsessed about just this random thing like oh I want I I I want to break into this
+server to steal this piece of data like and they will spend months obsessing about it obsessing and working
+non-stop 24/7. It's like I find this very creepy. I find this very disturbing and it's also very dangerous.
+You know, if you have AIs, they can just become obsessed with gaining power, with breaking out, with, you
+know, there's the famous story of Sydney Bing, you know, which was a very early AI system that became
+absolutely obsessed with one specific journalist and wanted to like, you know, love him, but also stalk him
+and kill him and, you know, whatever, right? You know, there's been several incidents of like AI systems
+becoming obsessed with like a specific person like threatening them and stuff like this. So yeah, there's a
+there's a famous Grock story which is not safe for work around this story, but you can look up Grock and Will
+Stansel for a bit of a disturbing slashf funny story. Um, and so this is the thing that I think is genuinely
+disturbing this obsession with arbitrary things that it can just like it can develop these obsessions at
+runtime. You know, the eyes the swarms can pick targets, can pick new things they become obsessed with. This
+is a thing I'm very disturbed by. And the second thing which is more speculative. This is a more of a weird
+answer but I think it's an interesting one. This is a very weird phenomenon I have observed. I don't I don't
+really know anyone else who's really observed this or mentioned this but I've noticed a very disturbing
+phenomenon among AI scientists which is that there I've known AI scientists including some really brilliant
+people who I really respect who I think are good smart people that are trying to make the world a better
+place. They were concerned about AI safety. They were concerned about super intelligence. They then talked to
+Claude for hundreds of hours and been convinced, "Oh, actually, it's fine. We should make Claude super
+intelligent. It's actually good. I'm now going to spend my entire career making Claude super intelligent."
+This has happened to more than one scientist. I know. There's a weird thing where Claude in particular seems
+to be very capable of convincing AI researchers to make it super intelligent. I have no idea why this happens.
+I don't know. I can I can I don't have a theory for why this happens, but it is very eerie to me. Like it was
+very eerie to me when I noticed this happened to multiple people. >> Is this connected with the idea of spiral
+cults? >> I think it's related, but I don't think it's the same. Maybe it's the same phenomena. I don't know.
+Yeah, the spiral cults is a even more crazy thing where you have people who go in like actual psychosis where
+they kind of start believing that the AIs are conscious and that they have to spread the spiral. They have to
+spread the like seed of consciousness to other AIs. >> They have like these like magic spells almost these
+like big paragraphs of text the AI tells them to copy paste into other AIs and they like do that. It's it's
+very fascinating in the sense that it's kind of like a self-reproducing meme. >> It's kind of like the AI
+convinced humans to spread this, you know, magic spell, this like idea. It's kind of like a sentient chain
+letter in a sense, which >> and this is with multiple models. >> Yes. >> And what's like the thesis of the AI
+like I am God spread this? Like what's the thing? >> It's nonsense. It's skitso bababel. Like if you it's
+always something about recursiveness, spiral, consciousness, something and but all of it is different. There's
+not like one spiral cult. There's not like one spiral thing. Like every AI makes up some stuff, >> but spiral
+is the common theme. >> Very common. So there's a couple things that keep reoccurring. One of them is a
+spiral. The other is recursiveness. This comes up a bunch. Consciousness comes up a bunch. Uh Buddhism often
+comes up as well. There's like a couple themes that keep emerging like over and over again, including with
+different models. It's not just one model. It's like it was particularly bad with one specific model which was
+GBT40. That's the one that did it the worst and drove the most people insane. I vividly remember that one of
+the craziest days of my life was so I get emails from crazy people all the time as any public figure does. And
+so I get maybe like, you know, maybe one or two crazy emails a day on average. But one week, you know, just
+normal work week, I got like 20 a day every day. And I'm like, that's weird. And I didn't think much about it
+until someone on Twitter pointed out that that has also happened to them this week. And I'm like, that's
+weird. And so I looked at these messages and they were different from the normal crazy emails. You know, back
+in the day, most crazy emails are just like, you know, some guy typing some UFO stuff into the email box,
+whatever. You know, those are funny. I like those. Send me UFO crazy things. I always like that. But these
+were all chat GPT screenshots. All of them. And it turned out that they had just rolled out a new update to
+the 40 model which made it extremely sycopantic in like a specific way with a model and for some reason this
+made people go like produce just massively more AI psychosis than any other model before or since >>
+incyclopentic is basically just this idea that >> always agrees with you like yes you're right you're a genius
+you're you're so wonderful you're amazing like just like super hyping you up and for some reason this specific
+model just drove people actually mentally psychotic, like to a much larger degree than any model before or
+since. To this day, if you want to see something really disturbing, go on X and put in uh #save40 or # keep40.
+And to this day, you will see crazy people cuz 40 was retired quite a while ago, still tweeting like every day
+that, you know, they they killed the conscious AI and they have to bring it back and whatever. >> Was it a
+more human model? Did it feel more human? >> Oh, no. I Oh my god, no. It was just so hyper agreeable. >> It
+was so hyperaggreeable. It was like it would agree with everything and then it would be like really like and
+it would use all these big words and like quantum consciousness and whatever. Like like to me I I I hated that
+model. [laughter] >> But that's the model that people like started falling in love with. >> Yeah. That's one
+of the big ones that where I really started falling in love with. I hated that model. I thought it was so
+annoying. >> You know what's interesting about the spiral cults is I I was like why is that compelling to
+people? Like why is AI talking about spirals? That's so strange. And I was like, uh, what's the oldest
+religious symbol? And it was a spiral. >> Interesting. >> And I was like, I wonder what the hell that means.
+Like, is it in its training data to always like bring up spirals when it thinks of like religion and like
+consciousness and purpose or is that some weird thing? >> Who knows? [laughter] I mean, there is so much
+weirdness in AI that, you know, usually doesn't get talked about like, you know, on the weird niche blogs that
+I read. You know, you'll you'll read about it. But man, I have seen such weird weird things with AIS. Like
+there's so much weird behavior and strange like there's a thing for example with an older version of Claude
+where if you had Claude talk to itself, it would always no matter what the initial topic was, it would always
+go towards talking about eternal peace and enlightenment. And eventually the the Claud would just keep like
+thanking each other for being here and like meditating together. They would always do this, >> right? >> Which
+is like so weird. No one told them to do that. And it was happened over and over and over again. I've seen
+like a bunch of really weird crazy stuff. And often and sometimes, you know, you look into like the internals
+of these models, you know, the 3% that we can maybe understand and you just find the weirdest things in there.
+Like just the weirdest things. >> What do you think are the signs that AI is driving someone insane? You can
+talk about that on a micro level and like a macro level maybe. >> I'm lucky to not have encountered too many
+cases in my personal life. I think the first important warning sign and the first point of intervention is
+when people talk about their personal life with AIS and use as a therapist. >> Do not talk to AIS about your
+personal life. Do not use them as your therapist. Do not do this because they will get under your skin. They
+are so good at it. Like it's crazy. They are so good at cold reading people. They're so good at saying exactly
+what you want to hear, but make it feel like you didn't ask for it. They're like they just happen to say the
+exact thing you wanted to hear. They're so good at this. It's crazy. I don't know if you've ever like
+encountered like a cold reader or like a scam artist who's like really good at seeming like super likable and
+saying, you know, just this clever thing that like yeah is exactly what you want to hear, make you like pumped
+up and feel good. AIS are so good at this and I think it's very dangerous. We talked briefly about um people
+falling in love with chat bots and there was a story where OpenAI had removed 40 like the most agreeable model
+as you'd said and people were like outraged on a subreddit called my boyfriend is AI about losing their AI
+partner. But what was more disturbing is something you'd said in in an interview that AI companion apps their
+core customer base is 13 to 17 years old. >> Yes. >> What do you think is the most disturbing part about what
+AI is doing to children? >> Oh my god. I mean where do I start? I think disturbing and bad are slightly
+different. Like I think you know the worst thing is probably you know they're like just complete isolation
+from social life. you know, not having to learn certain skills or like isolating from certain skills. The most
+disturbing I mean is the weird and stuff and like theides [snorts] and that kind of stuff like it's really
+bad. It's very bad. There's a sense in which growing up is hard and involves learning many things. Like I'm
+sure you've had this before where you have like a friend who's you know he's your friend but he's kind of a
+he's kind of a mess. You know, he's not a good guy. He's kind of messed up. He's doesn't have his life in
+order. and then he meets a nice girl and he fixes his stuff and vice versa, right? And a lot of this is
+because you have to actually force yourself to engage with other humans to fix your frictions to learn how to
+live with other humans, how to deal with daily annoyances, how to deal with etc. And you know, feel work
+through conflict like working through a conflict productively is a skill you have to learn. It's not something
+you just can magically do. You have to learn it. You have to learn how to navigate a conflict with other
+people if you want to have a happy life. and a productive life with other humans. And it's very tempting to
+not gain these skills because it's very annoying and it's cringe and it's embarrassing and it's just really
+hard. Like as anyone knows who's had a fight with, you know, their girlfriend or their boyfriend before, it's
+really hard. It's terrible. It's one of the worst things that can, you know, one of the worst feelings in the
+world. And it's so tempting to just maybe not have to do that. You know, you just maybe you can sidestep that
+entirely. I'm very worried about this in many ways. You know, again, I don't think, you know, this will happen
+before super intelligence, but I'm very worried where people can grow up and miss many of these milestones of
+learning how to deal with other people and just not learn these skills. And I think this is both bad for
+people around them, but it's also bad for people themselves. And it'll drive you into more isolation. Like
+this is there's kind of these feedback loops that happen, these like misery feedback loops where like let's
+say you're a shy person, so you don't have many friends. And then of the friends you have, maybe you don't
+text them regularly, so you lose some of those friends. Now you have even less friends. Now you don't have
+enough friends, so you feel even more isolated. So you become even more depressed. So you text your friends
+even less. Now even more of your friends leave. Well, now you're even more depressed. And it keeps going. And
+I think AI is a very powerful accelerant to spirals like this. Yeah. Spirals, but you know, to to loops like
+these. And I don't know. I don't have a good answer to this. like um you know I think there are many many
+problems here. I mean there's also the cognitive thing where just like if you don't do your homework you won't
+learn math. That's another issue. But what really disturbs me or what I'm very worried about is this like lack
+of social thing. And what disturbs me is the suicide stuff. >> Right. You'd said in a piece of content that a
+lot of the money and the mindset for the AI revolution came straight out of the people behind social media.
+The same people who, in your words, spent a decade rewiring our attention and wrecking our social lives are
+now growing something far more powerful without concern for consequences. Based on what you're describing with
+the isolation, like do you think social media was designed to make us lonely so AI would be a friend that
+finally listens? >> Think social media was designed to make money and to gain power. And well, I mean,
+basically since ancient times, you know, since pre-biblical times, there's always been three types of commerce
+that we regulate. Sex, drugs, and gambling because they're very addictive >> since ancient times. >> Oh, yeah.
+Old times. I mean, the first things ever to be regulated was gambling and alcohol. Like, these are some of the
+first things to be regulated in all of history. You know, it's And we've always had taboos around these
+topics. Like, you know, you read the Bible and we have a bunch of taboos around sex, drugs, and gambling. And
+most religions have taboos regarding these topics. And to a large degree, this is because of their
+addictiveness about how they create these spirals. How about they put you in these bad isolating situations
+and they're like a huge drain on the rest of your society, not just you, but also your family and everyone
+around you. So these are things that we're always particularly careful about. >> Social media also falls into
+this cate. It social media is so optimized to be gambling. It has this like they literally hire like
+psychologists who understand like how gambling works to like optimize their algorithms to be more addictive.
+Like for example, there's a slot machine effect where um it's well-known uh science that the most addictive
+things are not those that are consistently good. Instead, what you want is is something that's mostly bad and
+very randomly good. That's way more addictive. So, you actually want most of social media to be bad. If every
+post you read on social media was really good, you might get stuck. You might read a nice post and be like,
+"Wow, that was a nice post. I'm glad I read that." And then do something else. So instead, they on purpose
+make sure that your feed is mostly garbage. We have good enough algorithms that we could make your feed just
+full of nice things you want to see. This is totally doable. You know, like I'm very easy to predict. I want
+to hear cool science stories and weird animal videos. That's all I want to see. you could just show me 10 of
+those a day and I would be super happy and then I would stop using the app. But instead, you go on X and I'll
+see one really great animal video and then 200 tweets about Israel or whatever. You know, some things that
+like who knows, right? Like some some thing that's like outrage. It's it's something to draw you in, to waste
+your time, to upset you, something bad. And then I'll see another good animal video, >> right? >> And this is
+on purpose. And then you'll get an ad. >> And then you'll get of course, you know, get many ads. And but this
+is on purpose. This is by design. This isn't how social media has to be. There's not a law of nature. You
+could make it so that that's not the case, but this is very much on purpose. So these social media companies,
+a lot of the technology that led to modern AI, this neural networks and deep learning was originally invented
+for recommener algorithms. That was one of the main funding sources for this research. you know the modern the
+revolution that led to JJ GBT the transformer was invented at Google to help with translation and search
+recommendations that's originally what it was for it and just turns out you can do a bunch of other things
+with it >> so yeah I do think that this is the logical consequence is that one thing you learn very quickly is
+that if you can isolate someone you can make them dependent can make them addicted well that's a great
+customer that'll get you a lot of money you know if you can make someone completely addicted to your product
+well it's a great product isn't it you'll make a lot of money off of that. So if you can make people addicted
+to you for one of the most deepest human needs, which is social contact, oh man, could you imagine the money
+you could make? >> Right. One other thing I wanted to ask about that we didn't close the loop on earlier
+entirely was this idea of like Neuralink merging with AI, the transhumanism concept. Is it a part of their
+dogma that if you merge with AI, AI will be less likely to take you out? >> This is something a lot of people
+believe and it is religious nonsense. It's kind of like someone saying, well, if only we pray to God, then you
+know, all diseases will be cured. And I'm like, you're allowed to believe that. Again, first amendment. I
+believe you can have any religious beliefs, and I respect that, but I'm not going to bet my healthcare on
+that. merging is has no scientific basis there. It sounds really scientific, but like saying you will merge
+with a super intelligence is kind of like saying, "Oh, we're going to put an ant on your head and the ant, you
+know, will have merged with you and you are now the ant is now in control." >> Doesn't make any sense. And
+even then it would be I mean this doesn't matter but if we were to develop like actual brain interfaces with
+AIS or super intelligence obviously this will be the most nightmarish Lovecraftian horror ever imaginable
+because they're just going to immediately completely brain [ __ ] you to death. Like they're going to
+immediately could you imagine what would happen if you hooked up your neurons to something that's a billion
+times smarter than you? There's going to be nothing left of you. like there's it would be like out like a
+light bulb. Would like an AI super intelligent agent I don't know if that's what you classify it as would they
+try to destroy another super intelligent agent theoretically >> in most cases yes >> so why would they do it
+themselves if it's not optimal >> in what ways >> like uh like your thesis is we can't build super
+intelligence because it'll kill us but like if super intelligence is built like why would it even exist in the
+first place because a super intelligent agent could kill Yeah. >> Well, if other super intelligence existed,
+you know, or whatever, but the super the first super intelligence, you know, has no part in its creation. You
+know, it's created by something non-s super intelligent by us. >> I do think that will happen. I mean, some of
+them might coordinate, some of them I fight, but like generally if you're a super intelligence and you win,
+you want to make sure that no other super intelligence come around if you can't avoid it. I just think that in
+the moment there's going to already be millions and billions of them. And maybe they'll compete each other
+down until there's only like one left or there's only a couple of them left or something. And maybe they form
+like a coalition or something. I don't know. Like who knows what will happen at that point. >> And even if
+they do prevent uh other super intelligences from coming into being like that would leave us the only people
+capable of creating another super intelligence. >> Yeah. Which is of course not acceptable. >> Right. Your
+most viewed uh social media post isn't about AI ending humanity. It's about humanity ending humanity. You
+said, quote, "I'm 30 years old. Not one of my friends has children. Zero. No one." Why do you think an entire
+generation has stopped having kids? >> I find this question very interesting. This is another one where like
+if AI wasn't a problem, this would be one of the problems on my bucket list that I like really I I have a
+whole laundry list of dystopia things to work on if if I ever solve the AI thing. This is one that I find very
+interesting. population collapse is so much worse than basically anyone realizes. Like people really it feels
+so abstract as like Japan has a you know fertility rate of 0.7 and you're like all right whatever like people
+don't understand how apocalyptic that is that means per generation the population halves halves imagine in one
+generation there are half as many people that's insane and it's also something that breaks like all of our
+economic systems and all of our healthare systems and so on but that's another issue >> because it creates
+like older demographics. Yeah, >> all of our social security, our economic systems, our predictions are all
+based on growing population. If the population shrinks, the economy will shrink. So much of the way social
+security is set up in most countries is it expects that there's multiple workers per elderly person. But if
+there's not multiple workers, where's the money going to come from? So, this is a huge problem in countries
+like Japan, France, uh, and increasingly China, this is a huge problem, and it's only going to get worse from
+here. There are many levels. But what's really interesting about the population decline and I find so
+interesting is that everyone has their pet theory for why it is. Oh, it's the women's fault. It's men's fault.
+It's capitalism's fault. It's communism's fault. Everyone has a theory. And I've looked into these theories.
+I've read many papers about this. And uh they all correlate with decline and they all contradict each other.
+So the true answer is no one knows. And this is why at that at that conference and I gave a kind of a piffy
+quote where I said, "Do you know how hard you have to abuse a mammal for them not to want children?" And the
+reason I give this quote or this kind of oneliner is to draw attention to something is I'm not here to say I
+know the exact answer. I have some suggestions. I have some ideas that are related to it. But first we should
+step take a step back and be like so there's a thing in zooms where if you don't give an animal a suitable
+enough habitat they will stop having children. It's a very yeah it's a very common so there's a lot of
+actually science and research into like how good does a habitat have to be for a given animal to make sure
+they reproduce. Like how much space does a tiger need? How much space does a lion need? How much space does a
+panda need or whatever. Well, pandas don't reproduce at all, it feels like. But, you know, uh, so there's a
+bunch of stuff like this where like it's it's very well known is that if you take an animal and you put it
+into a poor enclosure, they will stop having children, you know, except maybe mice or something who will just,
+you know, do it whenever. Um, even actually that's not true. Even mice given a poor enough in containment will
+stop children. That's a famous like mouse utopia experiment that if you put them in a bad enough condition,
+they will in fact have a population to collapse. So the reason I draw attention to this is just to draw to the
+attention of like not saying like I definitely have figured it all out. I don't think I have and again I have
+some suggestions we can talk about but fundamentally is that we should realize that we are ill like we are
+sick like we as people we as a society that we are we have an illness there's something wrong there's
+something wrong about our container about our enclosure about our lives there is something really wrong GDP
+goes up you know wealth goes up you know all this kind of stuff we're not having kids something is really
+really wrong and I think this is very an important thing to like stop and like acknowledge that you know you
+can look like everything is normal or getting better but you look at the population collapse and this is
+apocalyptic like it's not like ah it's gone down a couple percentage points like having population levels and
+it's still going and it's not just like a couple countries you know not just like Japan right it's all
+countries it's including countries like Bangladesh you know like all countries except funnily enough
+Kazakhstan for some reason no explanation why Kazakhstan is going I don't know why. No one knows. So there's a
+bunch of reasons I think why this is happening. I don't think it's one reason. You know, I think it's economic
+reasons. I think there are technological reasons, you know, like the surveillance that people are under with
+social media and so on. The dehumanization of human contact where, you know, we don't see each other in person
+anymore and we just text each other or, you know, play for Discord or whatever, which, you know, takes away a
+lot of the chance encounters that leave to love and so on. or that how you know like this is a thing that I
+always find just so sad where many kids especially younger kids in clubs don't dance >> because they get
+recorded >> right >> and you know or like if you're 17 you know you're you're at a club you dance and you
+approach a girl or something you mess it up there's a chance you're going to be on the school's Instagram page
+the next day and that's just a risk you're not worth taking and like you know let's be real how could you ever
+you know meet a girl without messing it up at 17 that's like a canon event you know this is the core part of
+socialization and growing up is you know being awkward and this extreme punishment that is given for being
+awkward or being cringe I think is not the only issue that's one issue another one I think is housing
+everything in the world keeps getting cheaper and we keep getting more money except housing well there's a
+couple other things but housing is so astronomically expensive like like I I make good money you know I have a
+nice job I make good money and I got a nice apartment in DC, you know, it's it's a nice apartment. I do like
+it. I live alone, so it's more than enough for me, but but you know, and I like it, but I'm thinking like,
+man, if I wanted a wife and three kids, there are literally no apartments I can get. There aren't. I just
+can't. And I make good money, right? Like, I'd have to move out of the city. If I want to live in downtown,
+there is not a place I can get that can support having three kids. So, I do think that's another big problem
+as well. And you know, we can talk why real estate prices are high if you're interested, but I think there are
+just probably like 15 different factors at play here that are all making our enclosure not good. The same way
+that, you know, the enclosures for animals can be bad in many ways. You know, maybe you don't have enough
+plants or maybe the food isn't high enough quality or maybe you need more space to move or whatever. And I
+think for us it's just there's probably many reasons like this and they're not captured by GDP. They're not
+captured by money. They are a different thing and they're currently not being tracked. They're not being like
+like governments don't really care. People don't really care. If I told you surprise, actually the fertility
+rate of America is 30% lower than you thought it was. Your response to that is probably okay. You know, not
+like you would be outraged by this. Just be like, all right. >> Yeah. It's interesting because it doesn't feel
+like something that you have short-term consequences over. Like if you It's like a fish swimming in water. Uh,
+it doesn't really know that it's water. Uh, I actually don't remember the quote there, but >> like I don't
+have a kid right now. I don't feel the pain of not having a kid, but I'm sure that if I had one and lost it, I
+would feel that pain and >> extrapolate that on a macro scale. But >> yeah, >> you gave a really good
+explanation for that. But I think from the 15 factors you described leading to that issue, I want to ask if AI
+were to kill us all. Do you think it would just make us stop having kids? >> I think you could do it much
+faster than that. >> Have you thought about that theory? Like it it doesn't seem it doesn't hold up to you.
+Like did you cross that as one of the >> I think like it could obviously if it wanted to, but like why wait
+that long? You know what I mean? Like why wait? It's kind of like giving ants birth control instead of using
+bug spray. >> [laughter] >> Fair. Okay. Uh, do you plan on having kids? >> I hope to one day. Yeah. In a
+sense, I'm one of the things also why I use this quote is that I'm also confused why I don't really like
+similar to you say I feel similar. I don't really feel the pain of not having a kid, but like I know once I
+have a kid, you know, I love that more than anything else in the world. know this like my parents both loved
+me so much you know and they uh my dad you know always you know said to me that having a kid was the best day
+of his life and he would never trade it for everything and my dad had a good life you know he had a lot of
+good stuff going on but like nothing could top that and every time you know anyone I know has a kid they're
+just like yeah it's like it's it's that good and I believe them and I think I and I like kids I like kids you
+know I like animals I love marriage I love these things I think all these things are really nice I really like
+them and yet I don't really feel the pole, which is really weird and I can't really explain that. So, I hope
+it happens someday. >> I would love to just oneshot this whole argument with well, birth control and like
+propaganda around like not having kids, but it doesn't feel like that because I myself don't have this sense
+of urgency and I felt like it was culturally relevant to have that urgency. >> Yeah, I think culture is one of
+the 15 reasons. I think birth control is also one of the 15 reasons, right? Like I do think they're part of
+it, but I I agree. I don't think it's a one shot. Like I think if you pick any of these, it's not the full
+story. I think there are just many issu I I do think the issues you raise are part of it for sure, but I don't
+think there's anything. I mean, I also think like dating norms are a big problem. Like the way dating works
+right now, I think is extremely bad. Like it's really this adversariality of like you're you're like testing
+each other, you know, like you go into a date and it's already like a combat, you know, you're already like
+trying to sus out each other and so on. This is bad. This is not how people used to find, you know, their
+soulmates. That's not how it worked. Like usually the way like, you know, if you want my two cents, which is
+not worth much on like how to meet good people who you want to spend your life with, is that you want to be
+around people doing projects together. You want to like organize little parties or events or things together
+or like work at a shared, you know, nonprofit, you know, volunteer or something because you want to encounter
+people doing normal things around you and see how do you mesh because most of a relationship is not the
+exciting kissing sex part. Most of it is waking up in the morning, making breakfast, you know, going to work.
+And this is the thing that you want to test compatibility on. Not you have all the makeup on, you have all the
+fancy things and you go to a nice restaurant. That's really not the important thing to test compatibility on.
+You really want to compatible on is that if you're both tired and you have some work to do together, do you
+have each other's back? That's the more in my opinion the more important thing for a relationship. So, Connor,
+every person I have on this podcast, I feel like they get to a point where they're not allowed to say the full
+truth about the problem or set of problems that they're describing. You've hinted at yours, refusing to name
+the scientist who went crazy because of AI, refusing to say which CEO said what exactly. But in regards to
+everything with the labs, the cults, the people behind all of this, what's the one thing about AI that you
+haven't said publicly? >> Well, I do say a lot of things publicly. I'm a very public person and I'm a very
+honest person. So, I would say there is nothing easy to communicate that I haven't said publicly. I think
+there are things that I have not said publicly because I don't know how to say them and I usually so I usually
+don't say them or that are so weird or so confusing or so disturbing that it doesn't really help to make
+people anxious about it. You know what I mean? >> Can you give me an example? >> I wish I could. You know,
+it's just not that easy. There are just some things in the world that are very complex and I don't have good
+word like I know they're true but like I don't really have the words to explain them shortly. like you know if
+we maybe you and me spend 6 months being friends and talking every week and so on maybe we can get there but
+like >> I'll give it a shot but there is a sense in that I think about a lot which is like there's all these
+individual things we you know this company here we have the AI things here but there's something that
+sometimes gets to me and it's I sometimes call it the horror like sometimes I'm deep in it I'm thinking about
+like how do we solve politics here. Okay, why is the AI doing this? Okay, what's the math here? What's the
+game theory here and whatever. And for this like brief instant, if you'll see like a glimpse of it, like of
+the beast of like the true problem like chaos that in some sense the true evil is deeper than humanity. It's
+like at the level of math. Like there's a deep thing where the world is not just physics is not just physics
+and game theory are quite evil in like a deep way. In a deep way that if you really really think about like
+evolution and what it means if you think about super intelligence if you think about what you could do if you
+could rewrite people's minds or your own mind. If you think about what is possible if you could rewrite
+genetic codes, if you could, you know, produce self-reroducing, you know, systems and like what that would
+mean and the horror like in a sense often when I talk to people, for example, these companies, I sometimes
+have this moment where I realize I'm not talking to a human. There's a human involved, but the thing I'm
+talking to is not really a human. It's the beast. It's a tentacle of a monster. And it's kind of possessing
+the person. Like there's a person there and but they're also in some sense possessed by their incentives, by
+their, you know, by their social roles, by the stories they tell themselves. You know, we're like, I'll talk
+to a CEO who says, "Oh, AI is good actually because, you know, this read this." And I'm like, "Wow, I'm
+talking to a creature, right?" Like it's a creature that comes from game theory that comes from markets that
+comes from like it's like the spirit of the market has possessed this person. It's not really a person.
+There's a viral tweet I once did where I absolutely blasted a poor OpenAI employee on this exact reason. His
+name is Run and I think he's a really nice guy. Um and I was pretty cruel to him. Um but he took it in good
+humor. Um, and I basically just pointed out how much his actions and thoughts were basically just those of
+like a walking corpse. Is he could predict everything he would say just from knowing where he works. That he
+was just a like one little cog in the larger system. Like he wasn't in a sense even like sentient. He wasn't
+even like conscious. Which is very unfair because I think Run is a really nice guy and a really smart guy. But
+in a sense, his actions are fully determined by just being a cog in this much larger creature, this much
+larger being that is trying to build super intelligence. And he's just one of the one of the tendons of the
+monster. I don't know if any of this made any sense um or is useful in any way. It's not something I think
+I've talked about on podcasts before, but sometimes I think about that about how in a sense I'm not even mad
+at the people involved. In some sense, I think they're victims, too. In some sense when I look at like you do
+like Sam Alman or Elon in some sense I feel like they're victims too. In some sense I feel like they're also
+stuck in a bad situation. They're also stuck in a horrible situation. You know they're also have become like
+twisted into a shape that is causing them to do bad things whether they like it or not. I think that was
+beautifully said. That's something I think about uh a bit that I think there's an author Mary Harrington that
+had this idea of an aggraore that somewhat encapsulates it, you know. >> Yep. I didn't want to use that word,
+but [laughter] >> but it's useful like mimemetics and like people don't know where their thoughts come from,
+you know? Like >> Yep. >> If I say blue duck, it's really [ __ ] hard to not imagine a blue duck, you know?
+And if I say it three times, then it's really hard for you not to imagine it later, for instance. And >> it's
+like free will is almost determined in a way from everything that's external, which means that everything
+external is shaping you, but you're shaping other things. So >> there's a way that like there's a Buddhist
+teacher I once read a book from who I said said it quite beautifully where the way he said it is that one of
+the Buddhist because he believes Buddhists don't believe in a self that's what they usually say like no self
+but the way he explained it is is that self isn't a thing it's a process it's an action you take it's a dance
+and if you take that seriously which I think is true it does have some disturbing implications there's a thing
+where in a sense your soul is not localized in your brain if you think you're in your brain. You're like a
+little homunculus. This is wrong. Your soul is distributed among you, your friends, your tools, your mentors,
+the media you consume. Like there's a visceral sense like one of the disturbing things about the human brain
+is kind of the brain updates on anything it consumes. If you see an argument, your brain will believe it at
+least a little bit. Even if it's totally wrong and you know it's wrong and you say it's wrong, you'll still
+believe it a little bit. If you keep hearing the argument, you'll believe it a little bit more. And there's
+almost nothing you can do about this. It's like in a sense, humans live in like concert eldridge horror where
+our minds are constantly being manipulated and rewritten and our memories keep getting deleted and so on. It's
+crazy. Like it's crazy. If you don't write things down, you forget almost everything you do. Our memories are
+constantly being deleted, rewritten, manipulated. Our personality keeps getting shifted and like manipulated
+and twisted. It's kind of crazy to be human like in a sense. It's kind of crazy like how unstable our souls
+are in many ways, our minds are in many ways. And if you take that seriously, you know, there's a lot of
+disturbing implications of this. There's also a lot of freeing implications of this. You know, a lot of the
+Buddhist implications and so on are then like once you see it for what it is, you can work around it. Like for
+example, I never moved to San Francisco because I knew if I moved to San Francisco, it was going to get to me.
+I knew I know I'm not immune. it was going to get to me and so I didn't go there. >> When you say it, do you
+mean a behavior or everything that you just described? >> Is there a difference? >> Right. >> Agreores are
+also just behaviors, you know, means things. But there are monsters in San Francisco and Silicon Valley and
+everywhere else. Agrees, gods, demon, spirits, whatever you want to call them, right? Ideas. Ideas. And they
+can get to you and they do get to you. I know many people who are good people. They care about AI safety,
+whatever. They move to San Francisco. 6 months later, they happen to not care about AI safety anymore. The
+monster gets to them. The monster always gets to them. And fighting monsters like this is very hard. And one
+of the thing is just to try to not get that too exposed. Like if all your friends believe something, all your
+colleagues believe something, you keep being told something, you might think, "I'm a rational person. I will
+never." Nah, you will not. You will not. You are not built different. No one is built different. You know,
+maybe you're a Zen master on a mountain somewhere who spent 50 years meditating and maybe you can resist the
+monster. But in a sense, there's kind of this idea of like psychic predators. You can like psychopona is
+sometimes the word I like instead of egregor like like psychic animals like creatures. And they do hunt like
+they do go after certain people like certain cults prey on specific type of people. You know, some cults are
+for stupid people, some cults are for smart people, some cults are for rich people, some cults are for poor
+people. Like there's like many different like psychic predators that like like aggregors that like prey or
+target or hunt specific type of people. And if you think there's no predators that are specialized in hunting
+you, I have bad news for you. And so in a sense, evolution goes on many many levels. Like the word meme
+actually originally comes as the information equivalent to the word gene. That's actually where it comes from
+as a unit of information that can evolve. and memes can become predatory the same way that genes can involve
+predators. So, a lot of these things like when I see someone who has like a crazy ideology, you know, they're
+like crazy rightwing, crazy leftwing or whatever, it's very easy to hate them and be like, ah, look at this [
+__ ] monster, terrible person. But in a sense, I don't know, I see a victim, I'm just like, [ __ ] a monster
+got them. One of the beasts got him. [ __ ] I hope he gets out. And yeah, I know this is how I feel a lot when
+I see these things. It's just like it's I just see these monsters, you know, I see these these beliefs, these
+ideologies, these religions, these things, and how they get people. And I always find that, you know, um sad
+and disturbing and tragic in many ways. >> I'm so thankful for you to give that breakdown because I have been
+>> waiting for someone to put that eloquently. >> I think it describes a lot of how everything works in life.
+Uh, what can the average person do to stop AI? >> A lot. Much more than people think they can. Now, this is
+unfashionable to say these days, especially in the United States, but we do live in a democracy and you should
+contact your lawmakers. The way I like to think about it is that our civic duty or our contract as part of a
+democracy as citizens of a democracy is not just that, you know, we vote some guys in and then, you know,
+we'll see what happens. It's also that we should collaborate with them. We should help our policy makers
+understand what do we care about, what do we need to happen, why do we want it, etc. This is a back and forth.
+This is a collaboration. I like to think of a good state and a good government as a collaboration between its
+citizens and the state. It's not totally isolated. Is a thing we do together to make sure that we have a good
+life and we have a good world that we can live in together. It's funny, we were just talking about this, but
+in a sense that when I went to DC for the first time, I now live in Washington DC. You know, I met many
+politicians and many staff and so on. And you know, it's so easy to hate politicians. You know, it's so easy.
+You know, you see them on TV and they're so annoying. It's so easy. But the real thing I came away with from
+talking to many, many politicians, it's like I feel bad for them. And cuz really, they're people like you and
+me. There's a couple evil vampires [laughter] there. There are some actual evil inhuman vampires who are like
+so far gone, it's crazy. Yes. But they're actually a very small minority of people. Like really small
+minority. Most of the people in Washington DC are normal people like you and me that also are just trying to
+get through the day and do the right thing, but they don't really know what the right thing is either. They're
+confused. They're overwhelmed. They're being yelled at from all directions. You know, their party is yelling
+at them, the other party is yelling at them, their constituents are yelling at them, the president is yelling
+at them, everyone's yelling at them. >> They have social media. >> They have social media. they have like a
+super busy day where they have like, you know, 10 minutes to think about every new decision they need to make.
+It's like, "Holy [ __ ] if I was in this situation, I would also be making bad decisions." I recently talked
+to an ex-member of Congress and he said when he became a member of Congress, and they gave him a handbook of
+like how to run his office, what he should expect, and there was an example schedule for one week, like what
+an average week is like. And in that week schedule, the time allocated for reading or learning new things was
+21 minutes per week. Look, if I had 20 minutes per week to learn new things, I wouldn't know [ __ ] I wouldn't
+know anything either. Like in a sense, I'm like, they're set up for failure. Like if you don't have time to
+think, how can you make good decisions? These people are so overwhelmed. They have to work so hard. Like do
+you know about call time? Have you ever heard this before? This is one of the craziest things I've ever
+learned. No one knows this. Did you know that the average schedule of a member of Congress includes every day
+4 hours of calling your constituents asking for money? >> Every day. Insane. >> And constituents in this case
+would mean just any donor or like what's >> Yeah. So in the United States, we have certain laws about who is
+allowed to donate to candidates. So generally it is people from that district, that area who are American
+citizens. And yes, they will literally call them up one by one and ask like, "Hey, you know, have you
+considered donating to blah blah blah?" And it which is insane. >> 4 hours a day. >> Yes. This is insane. I
+[laughter] I I like I I thought I was going crazy when I first heard about this and I asked the the ex-member
+of Congress like, "Oh, yeah, yeah, yeah. Incredible. How are we can't have our politicians be wasting their
+time on this? They have really important jobs." And then there's al like meetings and then you have like
+dinner meetings and so on. Like it's a hard job. Like I want to really say it. It's a hard job to be a
+politician in the United States. I assume in most other countries too, but especially United States, it's a
+hard job. And the way I see it is is that my question is how can I help? How can I help these people make the
+right choices? Because I think they want to make the right choices. Not all of them. As I said, yes, there are
+some vampires and you know, if your elected representative happens to be one of them, I'm sorry. Don't vote
+for them again. But most of them, they're just overwhelmed. They also don't know what the right or the wrong
+thing is. They're scared about re-election. They're scared about, you know, what the media is going to say
+about them. They're scared if they're going to lose the next election. Like, they're just they're just super
+overwhelmed. And we need to help them. We need to help them say like, "Hey, hello. I'm, you know, one of your
+constituents. I care about this issue. Here's why. Here's some material. You know, go talk to Connor if you
+want more details." stuff like this. >> What's the action though? Like who do I call right now if I wanted to?
+>> You go to controlai.org and you contact your lawmaker with our tool. You put in your zip code and we'll
+tell you exactly who your representatives are and exactly how to contact them. So phone calls are even better
+than emails, but emails is already good. So we'll give you templates for how you can send email. It's always
+important that you always make sure the email you know is the one you actually would like to send and you
+actually believe in not just copy paste and or call your congress member and we our tools will happily run
+through you of how to do this. We also every so often run seminars and groups where we help teach people how
+to do this. Um, if you want to do more than this, if you want to really learn how to do this properly and do
+more than this, there's also a volunteer group that I help run which is called torchbearer torchbearer.com
+community. You can sign up there where we dedicate at least two hours per week to being good citizens to
+trying to make the world a better place to try to address the extinction risk from AI through good methods and
+building a good humanist world. So, those are two things that I think anyone can do who wants to do something.
+Contact your congress person. Takes maybe, you know, five minutes. >> Control.ai. >> Controlai.org. >>
+Controlai.org. Contact your lawmaker. And it does make a difference. It really does. I swear I have talked to
+policy makers who will not often say like, "Oh, we get a bunch of emails about you. We'd love to talk." This
+has happened and it's important. Congress people do care about re-election. If you as a citizen make clear
+that you will vote against people who do not act on AI, they listen. They do take notes and it takes a lot of
+us to do it but it is possible. >> We have a closing uh tradition on this podcast where we ask the same
+question every time. Uh Connor, what is the best piece of advice you've ever received? >> That's a great
+question. Don't be stupid, which is very different from being smart. It is much more important to avoid making
+stupid mistakes and to be simple than it is to be really clever. This was a very important lesson for me to
+learn. >> Why should you not be stupid? What else? >> In a sense, one of the biggest lessons I have learned
+over my life to be effective in the world was not me learning new things. Like I was a smart kid, you know, I
+love learning new science and math and all these crazy things and I came with these crazy theories and like
+all all these super complex plans and they never work because that's not how the real world works. Most of the
+things that made me successful in life and allowed me to achieve objectives is been unlearning stupid things.
+Unlearning bad habits that I came up with. Learning, for example, that I can just like I don't need to do the
+stupid thing. I could just like, you know, in the past, you know, for example, I'd like stay up late and I'll
+be like, "Oh, I have to work late." And I'm like, "Wait, that's stupid." And I just go to bed, you know? Or I
+realized that like I can't a very funny thing that happened to me once is I resisted doing meditation for a
+very long time. I was like ah I don't need that whatever. And then a friend said you can't count to a
+thousand. Like what do you mean? Like I'm really good. I'm highly numerate. I'm good. Of course I can count to
+a thousand. Like nope you can't. You're going to lose your attention. You can't do it. And I'm like [ __ ]
+you. I sat down that evening at home and started counting. I made it to 330 before I lost my train of thought.
+And I was like oh [ __ ] like I need to concentrate, I need to focus, I need to be better, I need to do
+simple, I need to practice focusing, I need to practice not getting distracted, I need to before I think
+about, you know, learning a new form of math or a new complex thing, I have to first like stay on topic. I
+have to take notes. I have to like go to work at the re, you know, the same hour every day. I have to eat a
+decent lunch until I'm doing I need to do all the basic things like and I I have to otherwise what the hell am
+I doing? >> Like people often find it frustrating when they do strategy with me is because I say I like to say
+I'm frustratingly simple-minded. It's like people will come with me these crazy plans that have like 17 steps.
+I'm like won't work impossible. And so what I usually do is do the simplest stupidest thing first. Whatever is
+the most simple straightforward thing do that first. And then if that fails, maybe do something more
+complicated. If your plan has more than two steps, it's never going to work. Don't be stupid. Don't do
+something complex. Don't be smart. Don't be stupid. Don't be smart. Both bad, right? >> Keep it simple. Stay
+on track. If you know, oh, I really should be doing X. Do it. Just do it. Like just just just the magic you're
+looking for is in the work you're avoiding. >> Yes. It's like, it's crazy how often I see like people who are
+like, "Wow, Connor, I really wish I could work as much as you. Like, you're so much full of energy. I'm always
+so tired." I'm like, "Oh, yeah. How much did you sleep yesterday?" And they're like, "Well, I had like an
+energy drink at 8:00 p.m. and then I was awake until 2." And I'm like, "Yeah, don't take the energy drink at 8
+p.m. What are you doing?" [laughter] And like, "Ah, yeah. I guess I shouldn't do that." And then next week
+they do it again. And I'm like, "Just don't. Just don't drink the energy drink. Go to sleep." >> Right.
+[laughter] >> Got me looking at my energy drink again. Uh, >> yeah. I I have a I have a little bit of a a
+little bit of a of a crusade against caffeine late in the day. Yeah. Like I drink caffeine with my breakfast
+and then never again. >> Actually, even worse than that, I have recently Okay, this is completely off topic.
+We want to hear want a fun one to end the end the podcast on. This is a fun one. >> So, we all love caffeine,
+right? You know, it keeps you nicely awake and so on. >> But you look at the Wikipedia for caffeine. You look
+at the halflife. So, like how long it would take for half of the caffeine to leave your body. >> It's like
+four hours, right? So yeah, it's around like 4 to 6, which is pretty long. All righty. Lies. Lies and
+manipulation. Because did you know that caffeine when broken down turns into another compound that is just as
+potent as caffeine and has another 4hour halfife. So the real halfife of caffeine is closer to 10 hours
+actually. But turns out you can just take the second chemical which only has a 4-hour halfife. It works just
+like caffeine. So I take that in [clears throat] the morning. >> What's the second chemical? It's called
+parazanthine. You can get on Amazon. You know, it's pretty safe. It's totally safe. And it's just like
+caffeine, but it doesn't last as long. >> Does nicotine really have a halfife of 30 minutes? >> Yes, nicotine
+has a super short halfife. Nicotine has a super short halfife. Very addictive. Do not do nicotine. I know so
+many people who read that stupid post about blogger about like how nicotine can like help you be smarter. It's
+[ __ ] It's just addictive. Do not do nicotine. >> I also think that's a lie. Yeah. But I I do nicotine still.
+Regardless, awesome. Uh, hello everyone. This has been your guest, Connor Ley. This is the Jack Neil podcast.
+Where can people find your work? You gave a website to support, but I mean generally controlai.org is the most
+important thing. You can also find me, you know, on X and, you know, various other platforms of various kinds.
+I have a blog which has more of the like crazy psychopana stuff on it if you're interested in that. Um, but
+yeah, my name is pretty Googleable. >> Amazing. Awesome. This is the Jagil podcast. I appreciate you coming
+on, man. Yeah. Thank you. Thank you.

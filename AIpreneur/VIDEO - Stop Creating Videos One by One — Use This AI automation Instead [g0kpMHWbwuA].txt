@@ -1,0 +1,130 @@
+Title: Stop Creating Videos One by One — Use This AI automation Instead
+Channel: AIpreneur
+Type: VIDEO
+Video ID: g0kpMHWbwuA
+URL: https://www.youtube.com/watch?v=g0kpMHWbwuA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T12:55:11+00:00
+
+Kind: captions Language: en Most beginners don't fail because they [music] can't make videos. They fail
+because they make everything one by one. One idea, one script, >> [music] >> and one video again and again
+until they quit. But in this video, I'm going to show you a completely different system with one Notebook LM
+research session, one Cloud Chat, 15 video ideas, five complete scripts, five production maps, and then step
+five, the workflow's agent starts building the visuals for your entire [music] batch automatically. So, don't
+skip ahead because once you understand step five, you will never look at faceless YouTube production the same
+way again. Welcome to AIpreneur. Let us build your first AI content automation step by [music] step. Step one,
+the Notebook LM research base. Everything starts here and you only do this once. Open Notebook LM and create
+one new notebook. This notebook becomes the brain of your entire content factory. Now, add your sources. Go to
+YouTube, search your niche, filter by top performers, and pull eight to 10 of the best videos out there. Copy
+their URLs and add them directly as website sources inside your notebook. Mistakes to avoid: Do not add random
+videos. Only add videos that already prove they can get attention. High view counts, strong engagement, recent
+performance. That is what makes the research meaningful. Next, you need to add audience research as a source.
+Here is how to do that inside the same notebook. Look at the top left corner of your notebook and click the
+button that says add source. From the options that appear, you will see a search bar at the top of that
+screen. You will also see two drop-down options next to it, web and fast research. Click the fast research
+drop-down and switch it to deep research. Then type this into the search bar, replacing the placeholder with
+your actual niche. Hit the search icon and let it run. Notebook LM will generate a detailed research report
+automatically. Once it finishes, hit import and you will see it added to your sources. Finally, download the
+official prompt documentation for each AI tool. You'll use image, video, and voice from the official pages.
+Come back to your notebook, click add source, select sites web, and paste those prompting guide URLs there.
+One notebook with three types of sources. All your knowledge in one place. Now, paste this master prompt into
+the notebook chat that analyzes all my sources and provides a complete report on my niche. Hit run. What comes
+back is a complete niche intelligence report with six sections covering everything your content factory needs
+to know about your niche. You will see your ideal video length with a specific reason behind it. The exact
+hook structures that grab attention in your niche. The emotional language your audience actually uses. The
+visual style that fits your space, and the precise prompt vocabulary for every AI tool you will use. All in
+one structured output ready to copy. Copy the entire output and save it as your master research document. This
+is the intelligence that powers every step that follows. You built it once, you never touch it again unless
+you change niche. The research brain is built, but research alone does not create videos. Now, let's turn it
+into a month of content. Step two, generate a full month of ideas. Now, we hand it to Claude to scan
+everything your niche rewards and turn it into a month of content in one shot. Open Claude and start a new
+chat. Paste your entire master research document into the first message, then paste this prompt that analyzes
+your search document and provides you with 15 ideas based on it. Hit generate. What comes back is not a list
+of random video ideas. It is 15 niche intelligent concepts built entirely from what actually works in your
+space. Every title follows the patterns that already perform. Every angle fills a gap nobody is covering.
+Every length matches what your audience expects. You will see titles that already sound like real videos, not
+generic ideas, but specific angles built around the gaps nobody in your niche is covering yet. Mistake to
+avoid, do not pick the ideas you personally like. Pick the ones that match audience demand. The research
+already told you what your viewers want. Trust it over your own instincts. Read through the list and pick your
+five strongest ideas. The ones that feel most original, most searchable, and most aligned with what your
+audience actually wants. Your first content batch is now planned. Now, let's turn those five ideas into five
+complete scripts. Step three, bulk script generation. Stay in the same Claude chat and don't paste anything
+new. Just send this prompt. That lets Claude become a master script writer for your content. Then, list your
+five chosen ideas below that prompt and hit generate. Mistake to avoid, do not ask Claude for generic scripts.
+Force it to use the research. The prompt already does this, but if you remove the research context or start a
+new chat, Claude loses its niche intelligence and falls back to generic writing. Stay in the same chat. Claude
+writes all five scripts back-to-back in one response. Each one already matching the hook style, pacing, and
+storytelling patterns your research identified. No separate research pass per script. No starting from zero
+five separate times. Each script already opens with the hook structure your research identified, matches the
+sentence rhythm your niche audience expects, and runs the exact length your competitor data recommended. Your
+first batch is now scripted. Now, let's build the production map for all five. Step four, bulk visual prompt
+generation. Still in the same Claude chat, paste this next prompt. That describe the full production table for
+each script. Hit generate. What comes back is five complete production tables, one for each video, every scene
+mapped to its script section, every image prompt and video prompt ready to paste directly into your generation
+tools. Your production map is ready, five tables, every scene planned, every prompt written. This is where
+most people stop because the visual production feels overwhelming. Next step fixes that permanently. Step
+five, bulk visual production. This is where the visual automation turns on. Most creators are losing hours
+here generating images and videos one scene at a time. Copy one prompt, generate, download, go back, copy the
+next prompt, repeat. 15 scenes per video, five videos. That is 150 separate manual actions just for visuals.
+Not anymore. Google Flow has a built-in agent that takes your entire production table and runs every prompt
+automatically back-to-back without you touching anything. Open Google Flow. Before you touch your production
+tables, you need one thing first, a character reference image. Go to your first production table, copy your
+character description, and paste it into Google Flow's standard image tab. Select your ratio and hit generate.
+Flow creates your character in one single image. Download it. This becomes the visual anchor that keeps your
+character consistent across every scene. Now, inside Google Flow, look for the agent option and select it.
+This is not the regular image or video tab, it is a separate mode that runs automated batch generation. Open
+the settings inside agent, configure your image settings, and your video settings. Check everything looks
+right and save. Drag and drop your character reference image directly into the agent. This tells the agent
+what your characters look like, so every generated scene stays visually consistent without you manually
+referencing it each time. Now, go back to your visual prompts. Copy all your text-to-image prompts for video
+one, every scene, with its scene number and heading, all of them together in one block. Back in Google Flow
+Agent, type this first, insert all scenes. Then paste all your image prompts directly below that line and hit
+send. The agent processes every prompt automatically, one after another, and generates every scene image for
+video one without you doing anything else. While it runs, move on to something else. That is the point. Once
+all images are generated, click the three dots on each one. Rename them by scene number, scene one, scene two,
+scene three, all the way through. Mistake to avoid, do not download files with random names. Scene numbers
+keep the whole edit clean. You will thank yourself later when you open CapCut and every clip is already in
+order. Download every image in order. Now, start a new project inside Google Flow. Drag and drop all your
+numbered scene images in at once. All of them upload together. Go back to your visual prompts and copy all
+your video prompts for video one again, every scene with its scene number all together in one block. Back in
+the agent, type insert all scenes. Paste all your video prompts below and hit send. Here is the moment this
+stops feeling like a tutorial and starts feeling like a factory. The agent asks for your approval and shows
+you exactly how many credits it will use. You click approve and then you watch it go, scene after scene
+generating automatically while you do nothing. The agent runs the whole sequence start to finish. That is the
+whole point of this system. Once all videos are done, download them in order. They're already numbered, so you
+know exactly which clip goes where in your edit. Now, repeat this entire agent process for videos two, three,
+four, and five. Same steps, same agent, just a different production table each time. Quick honest note, the
+agent uses flow credits for video generation. Keep an eye on your credit balance before approving each batch,
+especially when running five videos back-to-back. The agent tells you exactly how many credits each run will
+cost before you approve. So, you always know what you're committing to before it starts. All five sets of
+visuals are done automatically. Now, the content needs a voice. Step six, bulk voiceover. Open 11 Labs, paste
+script one into the text box. On the right side, pick a voice that fits the tone of your niche calm and
+steady. Works for most formats. More intense for high-stakes topics. One thing that matters here, and most
+tutorials skip it, use the exact same voice, the same tone setting, and the same speed across all five
+scripts. That consistency is what builds a recognizable brand voice. A viewer who watches two of your videos
+should feel like they came from the same channel, not two different creators. Hit generate, listen once to
+check pacing, and download the audio when it sounds right. Repeat for all five scripts without changing
+anything. Five scripts, five voiceovers, same voice all the way through. Quick honest note, the free plan
+gives you 10,000 characters a month, roughly enough for one full video. If you are running five scripts
+through 11 Labs, you will need either shorter scripts or a paid plan. That is the real trade-off of the free
+path, and it is worth knowing before you build around it. Now, the content has a voice. Time to assemble it.
+Step seven, bulk edit. Open CapCut desktop version and create your first project. Think of it this way, the
+voiceover is the spine, the numbered clips are the body, and the production table tells you exactly where
+every piece goes. There is no guesswork left. The factory already made all the decisions. Import the voiceover
+for video one and all its matching clips. Drag the voiceover onto the timeline first, That is your backbone.
+Then drag each clip above it in order. Your production table already tells you exactly which clip goes where.
+Match the emotion to the narration. A quiet line gets a quiet shot. A strong line gets your most powerful
+visual. Trim each clip so it lands exactly when the voice does. Add captions with white text and a black
+outline. Drop background music underneath the voiceover at low volume. Add transitions between each clip for
+smooth movement. Preview it once, check the pacing, then export. Close that project, open a new one for video
+two, and repeat the exact same process. Same workflow, same editing decisions, just different assets. Work
+through all five until every video is exported and ready. >> The FBI [snorts] closed the file. A retired
+mechanic reopened it. For 11 years, federal investigators worked this case. [music] They had profilers, they
+had databases, they had unlimited resources, and they got nowhere. [music] Then a small >> Five projects, five
+timelines, five finished videos. All from one research session [music] and one Claude chat. You do not need to
+start with five. Build the notebook today >> [music] >> and run the master prompt. See what 15 ideas built on
+real research looks like. [music] That one step changes how you see your channel. Drop pipeline in the
+comments and tell me your niche. I will reply [music] with all prompts. And if you want more bulk automation
+assets, watch these next videos when I explain more. Hit like, [music] subscribe to AI preneur for more
+automation like this one, and I will see you in the next one.

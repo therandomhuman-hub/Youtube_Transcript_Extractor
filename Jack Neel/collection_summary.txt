@@ -1,16 +1,16 @@
 Channel name: Jack Neel
 Channel URL: https://www.youtube.com/@jackneel
-Last updated UTC: 2026-10-10T06:56:28+00:00
+Last updated UTC: 2026-10-10T13:37:12+00:00
 Discovered in current scan: 989
 Manifest total: 989
-Transcripts saved: 6
+Transcripts saved: 12
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 6
+Resolved items (saved transcript or explicit no-caption outcome): 12
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 983
+Still discovered/pending: 977
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

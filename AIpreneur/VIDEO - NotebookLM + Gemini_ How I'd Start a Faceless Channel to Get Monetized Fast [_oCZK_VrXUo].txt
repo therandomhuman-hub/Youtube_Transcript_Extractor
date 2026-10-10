@@ -1,0 +1,133 @@
+Title: NotebookLM + Gemini: How I'd Start a Faceless Channel to Get Monetized Fast
+Channel: AIpreneur
+Type: VIDEO
+Video ID: _oCZK_VrXUo
+URL: https://www.youtube.com/watch?v=_oCZK_VrXUo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T12:55:45+00:00
+
+Kind: captions Language: en What if I told you that one system could turn any topic in any niche you choose,
+history, finance, true crime, motivation, [music] into a fully scripted, fully produced video every single
+[music] time. Today, I will show you how to build a research engine. Build it once and it turns any idea into
+a fully produced video [music] anytime you need one. This isn't a tutorial you follow once and forget. This is
+a system you build once and reuse for every single video after. Here's the problem with most AI video
+tutorials. You watch one, you copy some prompts, and you make [music] a video. The next week, you want another
+one and you are starting from zero again. Same research, same prompt hunting, same manual work every time.
+What we are building today fixes that. By the end of this video, you'll have a system that already knows your
+niche, your audience, >> [music] >> and your style. So, all you have to do is hand it a topic and let it work.
+Stay with me until step four. Miss it and [music] you will generate twice the scenes you actually need.
+Welcome to AI preneur and let us build it >> [music] >> step by step. Step one, the knowledge base. Everything
+starts in Notebook LM with six notebooks. Each one teaches your system a different layer of knowledge about
+your niche. You build these once. After today, you don't touch them again unless you switch niches completely.
+Notebook one is competitor research. So, first, go to YouTube and search for your niche. For this example, use
+the niche you are building around. Could be history, finance, true crime, motivation, or any other topic you
+want to make videos about. Once the search results appear, do not just pick the first videos YouTube shows
+you. Instead, click the filters button. Go to sort by and choose view count. Now, YouTube starts showing you
+the videos that pulled the most attention in that niche. This This because we are not trying to study random
+videos. We are trying to study videos that already proved they can get clicks, hold attention, and attract
+viewers. Now, open eight to 10 of the best videos you can find. And when I say best, I do not mean only the
+biggest channels. Look for videos that clearly over performed. For example, a small channel with one video
+getting hundreds of thousands of views is usually more interesting than a massive channel getting normal
+views. That means the idea, the hook, or the structure probably worked really well. As you open each video,
+copy the video URL and paste it into a simple text file. You can use Notepad, Google Docs, or any basic
+document. Keep it simple. Just create a clean list of links. Do not close this file after you finish because
+we will use these same videos again later in Notebook 3 when we study hooks and retention. So now, you should
+have a clean list of eight to 10 top performing videos from your niche. Next, open Notebook LM. Create a new
+notebook, then add the YouTube URLs you just collected in the websites panel. Once all the links are added as
+sources, go to the chat box and paste this prompt. That studies the top performing videos in your niche. Watch
+what comes back. It recommends an exact video length for your niche and tells you why. And it finds a content
+gap, an angle nobody else is covering. That gap is where your next video lives. One notebook down. Time to get
+inside your viewer's head. Notebook 2 is audience psychology. What does this viewer actually want? What scares
+them? And what makes them click? So, open a new notebook. Use Notebook LM's deep research feature for this
+one, swapping in your niche, and paste in this prompt. That analyses the psychology of your YouTube audience
+based on your niche. In a few moments, Notebook LM will run a deep search of your audience. When it finishes,
+hit import into the sources panel, then paste the next prompt that analyze your audience deeply. Let it run,
+and you've just given your system the emotional map of your exact viewer. Every script it writes from here
+speaks directly to what this person actually wants to feel. You know who you're talking to. Now, let's hook
+them. The third notebook is hook and retention. This studies how the best videos in your niche grab attention
+in the first 5 seconds and hold it to the very end. Now, pull up those same top-performing videos again. Open
+the text file where you saved the video links earlier and go through them one by one. For each video, copy the
+title first because the title shows the promise that made people click. Then, open the transcript and copy
+only the first 60 seconds. Save everything in one simple text document, the title, the video link, and the
+first 60 seconds of the transcript. Repeat this for eight to 10 videos. Once the document is ready, upload it
+as your source here and run deep research on hook patterns for your niche. When it finishes, import the result
+and run this prompt in the chat that analyses the hooks and patterns deeply. This is your system's playbook
+for the exact opening lines and pacing tricks that keep people from scrolling away. Nothing generic, all of it
+pulled from videos that already proved it works. Attention secured. Now, let's nail the craft behind it.
+Notebook four is video technique, the actual craft behind the videos that work. Pacing, narration style,
+music, and how scenes are sequenced. This one's fully research-based. Open a new notebook, run deep research
+again on your niche, then paste this prompt that analyses the storytelling techniques used in your niche and
+runs it. Import the result, then run this prompt. This report is what keeps your finished video from feeling
+homemade. It tells your system exactly how fast to cut, how the narration should sound, and where the music
+should sit underneath it all. The craft is locked in. Now, let's give it a look. Notebook five is visual
+identity and what look actually fits your niche. Cinematic, photorealistic, illustrated, something else
+entirely. Same process. Deep research first, then run this prompt that examines what visual style dominates
+your niche. Run it. Import the result, then run this prompt. This is the visual fingerprint of your niche. The
+colors, the lighting, the camera angles your audience already expects. Your system now knows exactly what
+right looks like before it generates a single image. Lastly, notebook six is your AI tool reference. And this
+one's different. Instead of deep research, you upload the official prompt guides for whatever tools you're
+actually using for image, voice, and video. Find their official prompting guide and paste those URLs in the
+site's web source. Then run this prompt that analyzes every tool guide used in the visual production. Whatever
+tools you upload become your system's vocabulary. The gems will write every prompt in that exact language. No
+guessing, no mismatched terms your tools don't understand. This is the knowledge base. Six notebooks and one
+niche fully understood. Everything else runs on. Six notebooks built. Now, let's turn that knowledge into an
+expert content writer. Step [snorts] two, the writer engine. Six notebooks of research are useless sitting on
+their own. Now, we hand them a brain that can actually write. So, open Google Gemini. From the Gemini
+homepage, look for the settings area, then click on gems. This is where Gemini lets you create your own
+knowledge. Click new gem. Now, give this gem a clear name. For this first one, name it story engine. This is
+the part of the system that will write your actual video script based on your niche research. Then go to the
+knowledge section. Here, connect all six notebooks you just created in Notebook LM. That means the competitor
+research notebook, the audience psychology notebook, the hook and retention notebook, the video technique
+notebook, the visual identity notebook, and the AI tool reference notebook. Once you connect those notebooks,
+it starts acting like a niche-specific content writer that already understands what works in your market. Now,
+in instructions field, paste this master prompt that turns Gemini into your script writer using your six
+notebooks to write a clean voice-over script from any topic. One important thing, your Notebook LM account and
+your Gemini account need to be the same Google account or the connection won't work. Now, here's the part that
+actually matters. This gem doesn't invent ideas for you. You bring the topic, the specific angle, the moments
+you want covered, and optionally your target length. The more specific you are, the better it performs. Good
+input in, great script out. What comes back is a clean voice-over script. No labels, no brackets, no stage
+directions, just words ready to paste straight into a voice tool. Step three, voice-over. Take that script
+into 11 Labs. Go to text-to-speech. On the right side, pick a voice that fits the tone of your niche. Calm and
+steady works for most styles, dramatic and intense for true crime or high-stakes stories. Paste your full
+script into the text box, hit generate, and let it process. Once it's ready, listen back to it once. If the
+pacing feels off, try a different voice or adjust the punctuation in your script for longer pauses. When it
+sounds right, download the audio. Write down the exact length of that voice-over in seconds. You will need
+that number in the next step. You have a voice. Now you need a blueprint for everything it needs to show. Step
+four, the production table. Now, we have the script engine ready. But a script alone is not enough. To turn
+that script into a real video, we need a second gem. So, go back to Gemini, open the gem section again, and
+click new gem. This time, name it asset generator. This is the production brain of the system. The story
+engine creates the voice-over script. The asset generator turns that script into everything the video needs
+visually. Now, go to the knowledge section again. Connect the same six notebooks we used before. This is
+important because the asset generator needs the same knowledge as the story engine. Then, paste this prompt.
+This will convert your script and voice-over length into scene-by-scene image and video prompts. Paste in your
+finished voice-over script and enter the exact audio length in seconds. Then, tell it your visual style
+directly. Don't leave that for the gem to guess. What you get back is a full production table with image
+prompts, video prompts, and scene order. Your blueprint is complete. Every scene mapped and every prompt
+ready. Now, let's turn that table into something you can actually see. Step five, visuals production. Open
+Google Flow. Take your first image prompt from your production table and paste it into the prompt box. Open
+the settings, select Nano Banana 2 as your generation model, and hit generate. That gives you your first
+keyframe. Now, for every scene after that, here's how you keep your character and style consistent. Click the
+plus button and add it into your next prompt as a reference. Paste your next image prompt, hit generate, and
+Flow builds scene using the first one as its visual anchor. Repeat that for every scene on your list. Paste
+the image prompt, attach the previous image as a reference, generate, and download. Do this until all your
+keyframes are created and saved. Now, time to animate them. Take your first video prompt from the production
+table, head back into Flow, switch to VO3, upload the matching image you just created, paste the prompt, and
+hit generate. Flow brings that still frame to life matching the motion to the image behind it. Repeat that for
+every remaining scene, paste the video prompt, attach its matching image, generate, download. Every clip is
+ready. Time to make it one video. Step six, assemble everything in CapCut. Open CapCut and create a new
+project. Import the voiceover and all your video clips. Drag the voiceover onto the timeline first. Then drag
+each clip in order above it. Your production table already tells you which clip goes where, so there's no
+guessing. Match the emotion, not just the words. A quiet line gets a quiet shot and a punch gets your
+strongest visual. Trim each clip so it lands exactly when the voice does. Then bring the clip audio down so
+only the voiceover comes through. Add captions. White text with a black outline reads well on most footage.
+Drop background music underneath the voiceover at a low volume and one or two simple sound effects on the
+biggest moments. Add a simple transitions between each clip. Preview it once, check the pacing and captions,
+then export. That is it. >> November 10th, 1975, Lake Superior is a churn of violence. The worst storm of the
+season has arrived. Hurricane force winds scream across the water. 30-ft waves batter the iron hull. >> One
+topic in, one finished cinematic [music] video out. You only build the notebooks once. After that, every new
+video starts with just [music] a topic. Pick one niche today and build your first notebook. That is literally
+the only step [music] that takes any real time. Everything after it runs on repeat. If this helped you, hit
+like and subscribe for more AI systems like this one. Drop system in the comments [music] and tell me your
+niche. I will reply with one content gap idea to get you started. Thanks for watching and see you in the next
+video.

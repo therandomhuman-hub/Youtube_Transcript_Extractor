@@ -1,0 +1,101 @@
+Title: Stop! This New 2026 AI Automation Makes Bulk Videos In Minutes
+Channel: AIpreneur
+Type: VIDEO
+Video ID: JT9mBVbM03c
+URL: https://www.youtube.com/watch?v=JT9mBVbM03c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T12:58:26+00:00
+
+Kind: captions Language: en Look at this. She didn't wake up to be a hero. She woke up alone. Every screen
+dark, every door sealed, every person she knew suspended somewhere between living and gone. >> No camera, no
+actors, no studio, no human ever pressed record. I built this in one afternoon with one Claude chat, one
+Chrome extension, and a workflow that keeps running while I step away. And here is the best part. I didn't
+generate these scenes one at a time. I queued all 10 at once, walked away, and by the end I came back every
+clip was downloaded and waiting on my desktop. This isn't a workflow anymore. This is a content factory. By
+the end of this video, you will have the full automation workflow from the ideation. With one Claude chat
+[music] that plans the story to finished cinematic video to a video studio production that handles the
+repetitive queue. [music] But stay with me until the end because there is one move inside this automation most
+beginners skip. I will show you exactly how to set it up in step two. Welcome to AIpreneur and let us build
+this automation step by step. Step one, the Claude brain. Everything starts inside one Claude chat from start
+to finish. So, open Claude, start a new chat, and paste this first prompt into Claude. That will give you 10
+scenes for your video. Fill in your niche, your story theme, and your tone. For this tutorial, I am using
+sci-fi, a story called The Last Human Awake and a slow burn cinematic tone, and hit generate. You don't have
+to copy my numbers, pick whatever duration and scene count fits your story. Within moments, Claude begins
+producing visual beats fit with your selected story. Now move to generate the image keyframes that lock in
+your story. For that, paste this next prompt into the same Claude chat. That converts the visual beats of your
+story into scene prompts. Hit generate. In a few moments, Claude will come back with 10 image prompts to fit
+your selected story. Copy the entire output and save it. This is your image prompt list that keeps every video
+clip consistent. Now, come back again to the same chat conversation of Claude and paste this last prompt. That
+converts your scenes into video prompts. Hits generate and wait a few seconds. Claude will grab you a full
+video prompts that turn your 10 still keyframes into a 10 moving cinematic clip. Every video prompt is built
+to match the image we just generated for the same scene. Copy them too in the same folder where your image
+prompts sit. All right. Now you have a 10 scene story, 10 Nano Banana image prompts, and 10 Veo 3 video
+prompts. All sitting inside the same Claude chat. All built on the same story. In the next step, we head over
+to the factory floor and turn these 24 prompts into a finished cinematic story. Step two, the bulk automation.
+Now, we set up the automation tool that does all the heavy work for you. So, open your browser and search for
+Auto Flow extension. Click the first link that takes you to the Chrome Web Store. Install it, and once it's
+installed, you will see it pop up in your Chrome extensions bar. This free extension is what removes all the
+repetitive work from your video creation. It connects to Google Flow and handles everything automatically.
+Now, click the Auto Flow extension and sign in with your Google account. Once you are in, you will see the
+main control panel with four modes. Create image, text to video, frame to video, and ingredients. For our
+workflow, we're going to use two of these. Create image first to generate our keyframes, then ingredients to
+turn those keyframes into video clips. Quick honest note before we start. Veo 3 works on a credit system. Run
+the first three prompts first, then check the full prompts. All right. Let's start with the images. Click
+control and select create image. Go to your folder, grab all your Nano Banana 2 image prompts, and paste them
+into the prompts box of the tool. And make sure each prompt is on its own line. Next, scroll down to the
+generation model and select Nano Banana 2. Then hit next. This takes you to the references panel. Here you
+have a few options for how the AI handles consistency between images. Select batch upload. This one feeds each
+previous output as a reference for the next prompt, which is exactly what we want for a cinematic story. Every
+image will visually connect to the one before it. Hit next again. This brings you to the run screen. Quickly
+skim your prompts and settings to make sure everything looks right. Model, aspect ratio, and auto download all
+checked. When you are ready, hit run prompts. In a few moments, the Auto Flow extension connects with Google
+Flow and starts generating the images one by one. Each one downloads automatically into your folder on the
+desktop. While they generate, you will see them appear inside Flow in real time. That is normal. Both windows
+are running together. If your first result is not perfect, that does not mean the system failed. It usually
+means the scenes don't have enough visual detail for the image prompts. Rewrite the story with more concrete
+visual beats or fix your image prompts, which may not be specific enough. All right, now you have 10 cinematic
+keyframes saved on your computer. All matching your story and all in the same visual world. Time to bring them
+to life. So go back to the Auto Flow homepage and hit control again. This time, choose ingredients. This is
+the mode that turns images into video clips. Now paste your 10 Veo 3 video prompts from the folder into the
+prompts box. Make sure the generation model on this screen is set to Veo 3.1 fast. Hit next to go to the
+references panel. This part is important in the upload references section. Grab the 10 images you just created
+with Flow and upload them here. Auto Flow uses these images as the visual anchor for each video. So every clip
+stays consistent with the keyframe behind it. Hit next again. Pick your aspect ratio landscape for cinematic,
+long-form, portrait, or vertical for YouTube shorts. I'm going to landscape for this tutorial. Leave the rest
+of the settings on default, and the auto download at 1080p is what you want. Now, hit run. The extension
+connects with Flow again and starts generating videos in bulk and downloading them automatically into your
+folder as each one finishes. All right. Now, you have 10 cinematic clips downloaded and saved on your computer
+matching your story, all built on the same visual anchors. In the next step, I will show you how to create the
+cinematic voiceover that brings the whole story together. Step three, create your voiceover with 11 Labs. Go
+back to Claude. Same chat as before, paste this fourth prompt. Hit send. Claude returns a cinematic narration
+that already understands your story because it is the same chat. It knows the world, the character, the arc,
+the tone. The context is the multiplier. Read it once aloud. If something feels off, ask Claude to tweak that
+one line. Most of the time, it comes back nearly perfect on the first try. Now, open 11 Labs in a new tab.
+Sign in or create a free account. Paste your narration into the text-to-speech box. On the right side, pick a
+voice. And here is the practical tip most tutorials get wrong. Do not pick the most dramatic voice. Pick the
+voice you can listen to for 90 seconds without getting tired. Drama in every line is exhausting. Calm with one
+or two emotional beats is what holds a viewer. Hit generate and listen. If the pacing or tone is off, pick
+another voice or go back and add more ellipses to your script for longer pauses. Once it feels right, download
+the MP3. By now, your 10 VO3 clips should also be finished downloading. We have the visuals, we have the
+voice, time to put them together. Step four, assemble everything in CapCut. Open CapCut, the desktop version,
+and create a new project, import the voiceover and all 12 video clips. Drag the voiceover onto the timeline
+first. This is the backbone and everything else follows it. Now, starting with clip one, drag each scene onto
+the timeline above the voiceover in order. Match the emotion, not just the words. If the voiceover whispers a
+regret, do not show the action shot, show the quiet shot. If the voiceover lands a punch, that is when you cut
+to the strongest visual. The voice tells you the timing. The emotion tells you which clip. Trim any extra
+footage from each clip so the visual lands exactly when the voice does. Then bring the visual audio down so
+only the voiceover is heard. Next, add captions and apply a clean template. White text with black outline
+reads well on dark cinematic footage. Beginners watch with the sound off more than you think, so the captions
+carry half the message. Add background music, slow strings or atmospheric ambient for a sci-fi short. Drop it
+under the voiceover at around 15% volume so it supports the voice instead of fighting it. Add transitions
+between each clip. Go to transitions in the top menu and choose something cinematic mix or black fade work
+great for a Hollywood feel. Run a final preview from start to finish. Listen for pacing, check captions, then
+export 1080p or 4K H.264 codec for YouTube. That is it. One complete cinematic short film with one Claude chat
+and one Chrome extension. So now, your next step is simple. Pick one story idea, build your 12-scene arc
+inside Claude, and run three scenes first. If you want the full prompt pack I use in this video, drop
+automation in the comments and tell me your niche. I will know you want the system. And if you have not seen
+the previous video yet, the one where I show how Claude plans seven faceless videos from one chat. Watch it
+next. That video is the foundation. It shows you how to turn Claude into a bulk multiplier before you even
+start production. Subscribe to AIpreneur for more AI workflow tutorials. Thanks for watching and I will see
+you in the next one.

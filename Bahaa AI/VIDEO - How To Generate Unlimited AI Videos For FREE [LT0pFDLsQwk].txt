@@ -1,0 +1,54 @@
+Title: How To Generate Unlimited AI Videos For FREE
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: LT0pFDLsQwk
+URL: https://www.youtube.com/watch?v=LT0pFDLsQwk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:41:08+00:00
+
+Kind: captions Language: en All these videos are generated for free and unlimited and you can do too. In this
+video, I will show you how to use my video generation tool on your PC without installing anything or
+complicated setup in just three steps and you are ready to generate unlimited motion graphic videos. Let's get
+started. Step one, create a folder for the tool on your PC and name it, for example, Baja AI video generator.
+Step two, download the zip file from the link in video description and put it in the folder you have created
+in step one. Step three, extract the zip file using sevenzip or any other software. The password is Baha.
+That's it. You are ready to use the tool and you don't have to install anything on your PC. Now I will show
+you how to use this tool. We will be back for this file called instructions prompt in a few seconds. Now open
+the folder Baja AI motion genen. You don't need to change anything here just to run the tool interface. Open
+this file called start UI.bat. This will open two windows. The command window which is used to monitor errors
+have happened and you don't need to change anything in it. Just leave it in the background and the tool UI
+will open in your web browser. This is the tool interface and the tool is running and ready to generate
+unlimited motion graphics videos in seconds. To generate videos in this tool, you will need something called
+TSX code. This tool will convert TSX codes to videos. I will show you how to convert your ideas to TSX codes
+and convert them to videos. But first, in the tool, you have two options to insert your code. First, you can
+paste your code here or upload a TSX file using this button. I will cover the two ways so you can enjoy all
+the features of the tool. Now, let's create our first code. Open Chat GPT and create a new project. Name it
+TSX codes for example. Then click these three dots here and select add instructions. Now go back to the file
+we have downloaded earlier which is called instructions prompt. Open it and copy all its content. Then go back
+to chat GPT and paste the prompt here. Then click save. Now chat GPT is ready to convert any idea to a code
+ready to be used in the tool. Now let's give it the first prompt. Create an AI processing loading animation.
+Show a brain icon made of connected dots and lines neural network style in the center. The connections should
+pulse with cyan light traveling along them. Around the brain show a circular loading ring that rotates. Below
+show text, Baja AI with dots that animate in sequence. The brain nodes should occasionally flash brighter.
+Colors cyan and white on dark background. Duration 5 seconds and click send. Chat GPT will reply with a long
+code. Wait for it to finish. Now to copy this code, don't use the copy icon. Just select the code only with
+your mouse, then copy it. Now go back to the tool and paste the code here. After a few seconds, I will show
+you the other way using tsx files through the load file button. Now give your video a name. video one for
+example. Now click generate video to start. Within a few seconds, the video will be ready and previewed here.
+And this is the result. We can make edits to the video and generate it again. That's what we will learn in
+coming videos. So, make sure to subscribe to not miss the updates in the coming tutorials for this tool. To
+save the video, click save video and save it to your device. Now, let's try the other way using a tsx file.
+First, let's create a new code. I will go to chat GPT again and give him this prompt. Create a code typing
+animation. Show a dark code editor background with line numbers on the left. Animate code being typed line by
+line with a blinking cursor. Use syntax highlighting keywords in purple, strings in green, comments in gray.
+Add a subtle scan line effect over the editor. The typing speed should feel natural with slight pauses between
+lines. Duration 5 seconds. Then click send. Chat GPT will start creating our new code. Then copy the code just
+like we did before. Now go to your PC and create a new text file. Give it a name video 2 for example. Open
+that file and paste the code in it. Then save the file. Now rename that file to change it extension from txt
+totsx and press enter to save. Then click yes to confirm. Now our file is ready to be used in the tool. Go
+back to the tool and click load file. Then select the file we just created. You find the tool loaded the code
+from the file in the code area and the file name will be loaded here automatically. Now click generate video.
+In a few seconds your video will be ready. And this is the result. You can save the video just like we did
+before. In the coming videos, we will make more updates and improvements to the tool. To close the tool, close
+the tool tab from the browser and close the command window. Thanks for watching and see you in the coming

@@ -1,0 +1,115 @@
+Title: I Built the Free Version of Iman Gadzhi's $1,995 System (So You Don't Have To Pay It)
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: rDhaCLrdWHk
+URL: https://www.youtube.com/watch?v=rDhaCLrdWHk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:25:37+00:00
+
+Kind: captions Language: en If you don't know who I am, I watch the long videos so you don't have to. Iman
+Gadzhi's 5-Day Side Hustle Summit, 2 million people watched it live. I watched every single minute and gave it
+back to my audience in seven. Now, the one thing that nobody covered for free is how to actually do what he's
+selling without the checkout page. It's the question my comments have been asking all week. So, I built the
+answer. And this video is going to be the proof that it works. And I'm not going to give you a sales pitch at
+all. This ebook exists because of the things you people told me. Over 500 of you kept asking me the same
+question all week. Where is the free version? So, I built one. And to be clear right now in this video, this
+is not going to be the walk-through step-by-step guide yet. This is just the proof that it works. The how-to
+is going to come after, and I'm going to make that one about you. So, I'll have to ask you questions at the
+end of the video. So, before I show you any of it, two things. First, I'm going to tell you the honest one.
+There's not one single free tool that does exactly what Iman Gadzhi's teaching or what his Synthesys does.
+That thing does not exist, and anyone telling you otherwise has probably a checkout page they're excited for
+you to meet. Like, let's be honest. What does exist is Claude and Perplexity. Both free, going to do the same
+five jobs one after the other that's going to replace the tools that they're using. And second, here's the
+map. Step one, we're going to be getting the information on what to even build. Step two, we're going to be
+putting that into Claude, where it'll find the real problem and then plan the product. Step three, we're going
+to be getting the actual research. The part that makes it a product and not a ramble. Step four, we're going
+to be assembling it into something you can actually sell tonight to people. It's going to be the same jobs,
+same order, and exactly what he's showing his audience, just without me sending you an invoice at the end.
+Okay, step one. Say you're a person who's looking to sell me an ebook. We're going to go collect the questions
+wherever people are already talking about my stuff, right? So, let's go to my comments. If I come down here,
+where's the video that everybody's talking in my comments? It's right here, boom. Look at my secret AI tool.
+See, like this comment right here. We're going to We're going to find things like this. Can you help me to use
+the same method? We're going to go to comments, maybe subreddits, reviews, anything, anything where people are
+talking. For my YouTube channel, it's my comments, right? All week, for example, people have been saying
+something like this. Can you help me to use the same method with free AI tools, right? And understand, these
+are not questions. This is technically a market standing right in front of me with its wallet out. People are
+asking me exactly what they need and what they want, right? So, for the audience that you or for the creator
+or whoever you're trying to sell to or, you know, say it's a coach or, you know, something with health, you're
+going to find their comments, and that's going to be the product. So, after you come to these comments, you're
+going to screenshot all the comments. You're going to take pictures of where people are talking. So, for
+example, all of this, I'm going to screenshot the whole thing, right? And say I do it for a couple videos just
+so I can get a good amount of context. Step two, all of that goes into free Claude, and it hands back three
+problems scored out of 25 on God is on test, the clear method. If you don't remember, here's the clip.
+competition, longevity, effort, autonomy, as well as recurring. Competition, very simple, how crowded is it?
+If it's a high score, that means that the lane is still open. If it's a low score, that means that you So, we
+put in the information about the comments, a little bit about the creator and what the YouTube channel was
+about. Say you remember, you can do that on any type of profile, whether it's Instagram, Twitter, TikTok, it
+doesn't matter. Then we're going to give it this prompt right here, right? Analyze the audience questions I'm
+attaching, find three product pockets, problems asked repeatedly and already paid to solve. Exact buyer quoted
+words, current price scored, right? So, you can read that, of course, right? After that, it's going to give
+you three pockets that we can make a product off of, right? And then it's going to choose your winner. This is
+what we're going to use. The second portion. Right after you get the winner, so for my specific video, this
+video right here, remember, people were mostly asking for free tools when I screenshotted and got all of this
+context, right? Most people are asking for free or cheap tools. So, that's why this is the winner cuz that's
+what most people are asking for. Now, we're going to give it this prompt right here. Design the smallest
+toolkit. Title one transformation TOC of steps. Templates to include 15 to 20 research queries, right? Scroll
+down. You're going to get a context that looks like this right here. Now, here's the part nobody shows you.
+And honestly, it's the whole secret. Claude does not just make the book up out of nothing. It gives me a list
+of research questions first, like you see here. Toolkit design. It gives me what tools are actually free in
+2026. And what does each one do? And then I go and grab the real answers and put it into our research model.
+Now, for the research engine, we're going to paste the toolkit design in Perplexity, right? This is the best
+agent for research, especially if you're using it for free. Now, let me say, you do not come with a lot of
+tokens here. So, mind you, only paste the toolkit design. Do not type anything else in this section because
+you will run out of tokens fast and just have to wait till the next day or whenever your quota limit
+refreshes. After you paste it, you're going to get an entire roadmap. And this is what your product, your PDF
+ebook, or digital product is going to be about, right? You see that [clears throat] right here. Now, you copy
+all of this section by section and paste it back into Claude here. And then the last step, just puts it all
+together. You can scroll through it and it's like a real book. It's like a real PDF. This is a PDF. There's a
+cover, of course. Every part of the method laid out one by one. And when you get to the end, you can put
+something as you're selling the PDF. Imagine your your $19 PDF you give to your audience, and then you upsell
+them at the very bottom where they can get the agency edition or whatever, or say they can get whatever
+service or product. However you want to do it, you can customize it to yourself. So, that's how to create a
+digital product for free or if you're paying for the tools already, it would just be a low-cost way to create
+multiple. Now, here are some of the caps. Understand that free Claude has daily limits. So, when you start,
+this may take a day of or two because it's going to have a lot of context, right? As well as perplexity. You
+can probably only spin up one to two books per day or per per quota limit, right? Depending on how much
+context you've put in the agent, right? So, be very cautious about exactly what you type if you're using a
+free. If you have a paid version, of course you can spin up multiple. You can spin up 12, 15. I don't even
+know what the limit is, but you can spin up many per day and just start sending it to a bunch of people. And
+let me be clear, no, this does not guarantee a sale on attempt one. To borrow Iman Gadzhi's own line from day
+two, this is what he said. >> Think of it like a slot machine in Vegas where you never have to put money in. I
+loaded the machine. So, that way you can keep pulling that lever until one of the products that it creates
+hits. >> And I want you guys to understand [clears throat] that there's only one difference between my version
+and his version. And it's this, mine doesn't have a checkout page. You can do it for free if you choose to go
+that route. Or you can do it the paid route a little bit and pay for some of these models. Maybe you don't
+have to pay for perplexity, but if you just pay for Claude or ChatGPT, you can spin them up real fast. So, why
+am I not teaching you this right now? Like, why am I not showing you step-by-step how to do this right now?
+It's because here's where almost every course on this platform gets it wrong, including the summit he has
+going. The teacher decides what you need, then sells it to you. That's backwards. It's why half of the people
+who bought his program or buy programs or courses are in my comment sections asking questions he never really
+anticipated. I'm not doing that. The walk-through is coming, but it gets built after I know exactly where you
+actually are. Because if I filmed episode one tonight, or course one or course um day one tonight, however,
+I'd be assuming you have Claude, assuming you have ChatGPT, Perplexity, or assuming that you have time,
+assuming what stalled your last project. And assumptions are how you end up with another ebook you never
+launch. This video's job is one thing: prove the machine works, then episode one's job is showing your machine
+work. And I won't leave you guys here guessing what to tell me. I've pinned a comment with the four exact
+questions. What are you paying for right now? What tools do you actually have open every week? Um the one
+thing you tried to build that stalled out with AI or just in business in general. Answer them in numbers if
+you want. For example, one, ChatGPT. Two, nothing. Three, an ebook I never launched. 90 seconds and I read
+every single one. I'll read every single comment. Because this course being about you starts with me actually
+looking at you and where you're at. Now, I've given you everything you need. The machine itself is free right
+now. Either way, the roadmap you just watched get built is the first link in the description. Take it today or
+wait for episode one built around what's in the comment section. Either way, Iman Gadzhi charges you $1,995 to
+show you the system. For you, it's about to become a free course designed by the people taking it. Go answer
+the questions in the comments. I'll see you in episode one and build it for you. And [clears throat] as well,
+a lot of you are non-technical, so that is why I'm building a course where I will go step by step by step on
+my channel. So, let me know anything, any questions you have below as well, and I'll answer that and make sure
+that it's tailored to you so you can get the results that people like Iman Gadzhi are getting other people
+results, right? I want to truly help you get your first results. Now, thank you for watching this video. I
+want to see you guys get some results. So, if you made it this far in the video, I want you to put in the
+comments "Saved $1,995." I just want to see how many people made it this far, right? So, please do that and
+that's when I'll know like you are dedicated to actually trying to sell these digital products online. I'll be
+reading the comments to make sure I can answer all your questions. You know, I'm going to be putting my two
+most liked videos right here. Please like and subscribe here. If you have any questions, let me know and see
+you on the next one.

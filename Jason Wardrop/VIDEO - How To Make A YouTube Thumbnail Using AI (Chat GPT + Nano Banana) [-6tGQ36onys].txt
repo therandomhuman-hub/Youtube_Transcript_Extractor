@@ -1,0 +1,62 @@
+Title: How To Make A YouTube Thumbnail Using AI (Chat GPT + Nano Banana)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: -6tGQ36onys
+URL: https://www.youtube.com/watch?v=-6tGQ36onys
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-10T12:42:04+00:00
+
+Kind: captions Language: en So, I've been on YouTube for about eight years now. And in the beginning, I didn't
+have any budget. So, I just started off with free tools like Canva. And then as I kind of started making some
+money, I started learning Photoshop. Then I got a little bit more of a budget and I wanted to outsource that.
+And I was paying my thumbnail designer about $500 per month. But recently, I have fired my thumbnail designer.
+I don't think I'll ever have a need for another thumbnail designer. And I'm going to show you guys how to do
+this all with AI with literally free tools. So, I'm going to be using Chat GPT and Nano Banana. I'm going to
+show you how I created thumbnails like this one, like this one, as well as this one. So, these were three
+different um split tests I wanted to create for a previous video that I just shot. And honestly, I think these
+thumbnails look better than my thumbnail designer that I was paying $500 per month for. And it took a matter
+of a few minutes to go through and get all of these created. So, what I want to show you guys is everything
+step by step of what I was doing. So, you guys, if you're looking to start a YouTube channel or you're looking
+to grow a YouTube channel or you're just trying to save some money with your own current YouTube channel, this
+is the method that I have found has been working extremely well for me. So, hopefully this helps at least one
+of you. So, if you do find this valuable, go ahead, smash a like button, drop a comment down below, let me
+know if you want more fun tutorials like this using AI. So, what I did was I put together a quick little
+Google doc. And you guys can obviously pause this and write out this exact thing, but it's basically write a
+detailed description for a YouTube thumbnail titled, and we're just going to be copy and pasting this into
+chat GPT. All right. So, we're going to put in the name of our video. So, for this one, I'm going to do how to
+make a YouTube thumbnail using AI. Right? So, how to make a YouTube thumbnail using AI that I can copy and
+paste into Nano Banana. And then I'll also attach an image of myself for NanoBanana to insert me into the
+thumbnail. Final size must be 1280 x 720. So, all I'm going to do is I'm just going to copy this right here
+and I'm just going to go paste this into chat GPT so it can give me a prompt that I can put into Google's nano
+banana. And you might be asking yourself, well Jason, why aren't you just using this images over here? And the
+main reason is this last part right here. file size must be 1280 x 720. For some reason, I will be like I'll
+have strict rules on like you have to make this 1280 x 720, which is the size of a YouTube thumbnail. And for
+some reason, chat GPT images never gives me the right size. So then I have to take it into Photoshop. I have
+to resize it. And it really at the end of the day is kind of just a pain in the butt. So what I'm going to do
+now is I'm going to take this and I'm going to copy this. And I do have a pro plan of chat GPT, but obviously
+you could do this exact same thing with a free plan of chat GPT. And I take it into Google Gemini. So Nano
+Banana. I click on create image. And I just throw in here describe the image. I put that prompt. Now what I
+want to do is I want to make sure just like these that there is an actual image of myself. And so what I do is
+I've got this folder of a bunch of images of myself. So I'm just going to throw in this one right here. And
+then I want to do the pro one. Okay. And so this might take a second longer. I'm just going to pause the video
+right here and then I'm going to show you guys exactly what we've got. All right. So just like that, you see
+it created this professionally designed YouTube thumbnail which I'm just going to download. And if you're on a
+paid plan, it's going to remove this watermark. Um I'm going to show you guys another alternative that I do
+because I don't have the paid plan to go through and remove that watermark. Obviously that's an easy fix if
+you just go upgrade. I think it's like 30 bucks a month to go through and do that. But I also have Adobe
+Photoshop. And there's other platforms that do this as well. But I just come over here. I open up a new file.
+And I'm just going to drag this in here. And then this the sizing. Even though it's 1280 by 720, I still do
+need to make it a little bit bigger. And then I just come over here and grab this little like square tool and
+I highlight over it. And then I just click remove. And then Adobe Photoshop using AI is just going to
+completely remove that. And then I've got a fully custom-designed YouTube thumbnail right here that I can go
+and save and export. Now, if I want two more variations, I just come back over here to chat GPT and say, "Give
+me two more prompts to create um additional variations or whatever you want to say right there." So, then it's
+going to give you two more prompts. And so we'll just uh copy and paste these really quick into Nano Banana
+and I'll show you guys the final results of all three. All right, and there you have it. I now have three
+different thumbnails that I can go and AB split test when I'm uploading my video to YouTube Studio Manager. So
+you see we've got this one right here. Completely different look of more of like a before and after YouTube
+thumbnail. And then this one right here. So these are all free tools. I know there's a lot of paid tools out
+there to go through and help you, but honestly, I feel like these three free methods are just as good as these
+paid methods. So, if you found this helpful, please do me a favor and smash a like button. Drop a comment down
+below. Let me know what you think. and I'll see you in the next

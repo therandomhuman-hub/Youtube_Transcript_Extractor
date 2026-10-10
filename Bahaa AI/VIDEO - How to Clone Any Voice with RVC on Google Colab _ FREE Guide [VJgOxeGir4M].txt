@@ -1,0 +1,97 @@
+Title: How to Clone Any Voice with RVC on Google Colab | FREE Guide
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: VJgOxeGir4M
+URL: https://www.youtube.com/watch?v=VJgOxeGir4M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:40:35+00:00
+
+Kind: captions Language: en In this video, you'll learn how to clone any voice using RVC on Google Collab
+completely free with no limits and no subscriptions. This method works on both computers and mobile phones
+without any issues. In this tutorial, I'll be using a computer. If you're watching on a mobile phone and want
+a step-by-step mobile tutorial, make sure to like this video and subscribe to my channel so you don't miss the
+upcoming tutorials on mobile phone. Also, make sure to join my other channels on WhatsApp and Telegram to get
+exclusive tutorials and updates for mobile phones before publishing it on YouTube. You will find the links in
+the description. To avoid mistakes, watch the full video first, then follow the tutorial step by step. I'll
+keep everything direct and easy to understand. To clone a voice using RVC, the first thing we need is a data
+set file. The data set is the human voice audio file that the model will be trained on. Once the model is
+trained, it will be able to replace the target voice with the voice it learned from the data set. The data set
+audio file must meet specific requirements in order to train a model that delivers highquality results. In
+fact, the data set directly determines the final quality of the model, which makes it the most important part
+of the entire training process. There are four main requirements that your data set file must meet. And the
+fourth one is the most important. First, the audio file used for training or the data set must be a clean
+human voice, completely free from background noise or any non-human sounds. Second, it's best for the data set
+to be free of silent moments. Our VC analyzes the data set audio, and analyzing silence has no benefit. What
+we actually need is for the model to analyze the human voice itself. To make this easy, I created a free
+website that removes silent parts from audio files automatically. The website is bahasr.com and you can use it
+for this exact purpose. Third, the length of the data set. My RVC code only needs an audio file between 3 to 7
+minutes. You don't need long recordings to get highquality results. Fourth, and this is the most important
+requirement, the training audio must include the widest possible range of sounds and pronunciations. The data
+set should contain as many letter pronunciations and articulation points as possible, different ways of
+pronouncing the same sounds, natural normal speech, and samples of the person singing. This allows the model
+to fully learn the voice and produce accurate realistic results. If your data set meets these requirements,
+you'll get a very highquality RVC model. Once your data set is ready, you can move on to training the RVC
+model. In this tutorial, we'll use Google Collab to run RVC for voice cloning. First, open Google Chrome and
+make sure you're logged in with your Gmail account. Next, open the Google Collab Project link found in the
+video description or on my website, bahai.com. Once the page loads, it will look like this. Click here to run
+the first step. You'll see this message appear. Click run anyway. After that, Google Collab will start
+connecting and the first step will begin running. In this step, Google Collab prepares all the program files.
+Once the first step is finished, you'll see a green box with the word done inside it. Then move to step two
+and run it. In this step, the RVC program will be installed on Google Collab. Nothing is installed on your
+personal device. Everything runs online using Google Collab's temporary cloud environment. This step takes
+about 5 minutes to complete. Once the installation is successful, you'll see another green box with the word
+done inside it. Then run the additional step. This step installs a few extra dependencies required for the
+program to work properly with the latest Google Collab updates. Once it finishes, you'll see another green box
+with the word done inside it. At this point, the program has been successfully installed on Google Collab. You
+can now train a new RVC model. Continue training an existing model or use a pre-trained model to replace
+voices. In this tutorial, we will train a new model. Save the model to Google Drive for future use and test
+the train model by performing voice replacement. To train a new RVC model, let's go to the RVC model training
+section. Run step one. In this step, we'll upload the data set file we prepared earlier. You'll see a choose
+file button. Click it and select your data set file from your device and wait for the upload to complete. Once
+the upload is successful, you'll see a small green check mark next to the step. Next is step two. In this
+step, we'll name the model and analyze the uploaded data set. The model name must be in English with no spaces
+or special characters. For example, Baha AI. Type your model name, then run the step. Once the process is
+complete, you'll see a small green check mark next to the step. Step three. In this step, we'll actually train
+the model. Enter the exact same model name you used in the previous step. Next is the epic section. Here we
+set how long the model will train. As I mentioned before, the most important factor is the data set quality.
+For this tutorial, I'll train the model for 300 epics. Then run the step to start the training process.
+Training is the most time-conuming part. It requires a stable internet connection and that you don't close
+your computer during the process. The training duration depends on the length of your data set and the number
+of epics. After a short while, you'll see that the training has started and the epics are being counted. Wait
+for it to finish. Once training is complete, you'll see a confirmation message and a green check mark next to
+the step. Now the model has been successfully trained, but it currently exists only in Google Collabs
+temporary memory. This means we need to save a copy to Google Drive so we don't lose it and can use it later.
+Next, let's move to the step for saving the model to Google Drive. In this step, your Google Drive will be
+linked to Google Collab and a copy of the model will be saved there. The model size after saving is about 1.5
+GB, so make sure you have enough space on your Google Drive. Enter the exact same model name we've been using
+so far. Then run the step. You'll do the steps to link Google Drive with Google Collab. Once the link is
+complete, the model saving process will begin, which usually takes around 2 minutes. After the step finishes,
+you'll see a green check mark next to it. Now, your model is safe and secure. If you go to your Google Drive,
+you should see a folder named RVC packages. Open it, and you'll find a compressed file with your model's name.
+The model file size should be roughly 1 to 1.5 GB. It may take a minute or two for the file to appear in your
+Google Drive. Next, let's use and test the model. Go to the RVC inference section. In step one, we will upload
+the audio file in which you want to replace the voice. This file should also be human voice only with no
+background noise or non-human sounds. Run the step, then use the button to choose the audio file from your
+device. Once the upload is complete, the audio file will appear like this. This is our target file. >> This is
+a sample audio file to test voice cloning using RVC on Google Collab. >> You can upload long audio files up to
+10 minutes or more without any issues. If your file is very long, it's recommended to split it into 5 to 10
+minute segments and process them in stages. Next is step two. Here, type the name of the model you want to
+use. In our case, I'll use the model we trained earlier. Next is the pitch control for the final output file.
+If you're converting male to male or female to female, leave the value at zero. If you're converting female to
+male, set the value to negative. If you're converting male to female, set the value to positive. I'll set it
+to negative because the target voice is female and the model voice is male. Then run the step to start the
+voice replacement process. You need to wait until the process is complete. After a successful process, you
+should see a preview here. Or you can preview the new generated audio file by running this step. Here's the
+result. This is a sample audio file to test voice cloning using RVC on Google Collab. This is a sample audio
+file to test voice cloning using RVC on Google Collab. To download the new file, run this step. The new file
+will be prepared and then a save window will appear to save it to your device. To test another target file,
+simply go to the step for uploading a new target file and upload your new audio. Adjust the pitch. Then run
+step two. Here's the result. This is another sample audio file to test voice cloning using RVC on Google
+Collab. You can readjust the pitch till you get a good match. This is another sample audio file to test voice
+cloning using RVC on Google Collab. This is another sample audio file to test voice cloning using RVC on
+Google Collab. After you're done using the program, it's important to disconnect from Google Collab. From the
+top menu, click runtime. Disconnect and delete runtime. Then confirm by clicking yes. If you face any issues,
+write it in the comments. In an upcoming video, I'll explain how to load the model from Google Drive and how
+to resume training a model and improve its performance. So, make sure you subscribe to my channel so you don't
+miss the next tutorials. Thanks for watching.

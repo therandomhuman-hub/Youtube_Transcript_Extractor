@@ -1,0 +1,24 @@
+Title: I Found the Most Satisfying AI Niche Ever (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: w4DS0i5MuJY
+URL: https://www.youtube.com/watch?v=w4DS0i5MuJY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:19:03+00:00
+
+Kind: captions Language: en Here's how I made these amazing clay pottery videos in just 2 to 3 minutes using a
+single master prompt. No time to waste, so let's get started. First, go to Claude AI and paste the master
+prompt. I've added the link in the description, so you can easily get it from there. Then, hit enter. Claude
+will give you 10 different video ideas. Simply choose the one you want to create, and you can also use the
+custom option where you can enter the name of anything you want to create. For this tutorial, I'm choosing
+idea number five. Claude will then generate one scene for a 10-second video along with an image prompt and a
+video prompt. First, copy the image prompt. Then, go to Google Flow AI and paste the image prompt here. Now,
+set up these settings for the image. I'm using Nano Banana 2 as the model. Then, hit enter and your image will
+start generating. Once the image is ready, go back to Claude AI. Now, copy the video prompt. Come back to Flow
+AI. Click the three dots on the image we just generated and select add to prompt. Then, paste the video prompt
+here. Now, set up these settings for the video. Choose Omni 1.1 Flash as the model. Set the resolution to
+720p, the duration to 10 seconds, and select X1. Now, hit enter. After a few seconds, your video will be
+ready, and here's the final result. That's it for today's video. If you found this video helpful, make sure to
+like the video and subscribe to the channel for more AI tutorials. Thanks for watching, and I'll see you in
+the next video.

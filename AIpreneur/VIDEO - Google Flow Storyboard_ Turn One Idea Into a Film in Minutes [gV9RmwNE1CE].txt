@@ -1,0 +1,79 @@
+Title: Google Flow Storyboard: Turn One Idea Into a Film in Minutes
+Channel: AIpreneur
+Type: VIDEO
+Video ID: gV9RmwNE1CE
+URL: https://www.youtube.com/watch?v=gV9RmwNE1CE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T12:56:50+00:00
+
+Kind: captions Language: en The storm didn't care about his plan, the mountain didn't care about his pain. He
+climbed anyway >> [music] >> because the only way out was up. Every shot looks like it came from a Netflix
+documentary crew with a six-figure budget. It didn't. It came from one free tool, one story idea, and a
+workflow you have never seen before. Today, I am showing you Google Flow's Storyboard Studio, the tool that
+takes a single story idea and builds the characters, the locations, and every single scene for you >> [music]
+>> automatically without jumping between five different AI tools. One place, start to finish. By the end of
+this video, you'll have a complete short film, characters, locations, every scene, all generated automatically
+just by clicking autofill to turn it into either a long-form video. Welcome to AIpreneur, and let's build one
+together. Step one, open Storyboard Studio. Head to Google and search Google Flow. Click the first result. It
+is called AI Creative Studio for videos. Sign in with your Google account. If your workspace is empty, that's
+normal. You're just getting started. Click new project. Once you are in, look at the left-hand menu. Click
+tools and scroll down until you find Storyboard Studio. Open it. It will ask you to pick a visual style. For
+this demo, I'm going with realistic and cinematic since we are telling a survival story. Click Get Started.
+Inside, you will see three sections: script, assets, and storyboard. We are going through all three. Let's
+start with the script. Step two, let AI write your script. The script section is where your story begins. If
+you already have a script, paste it in. But, if you are like most beginners and just have an idea, type that
+instead and let Flow build the rest. Here's the prompt I used for this demo. Hit generate. And within seconds,
+Flow hands you a full script with a title, a structured scene breakdown, your main character, and the entire
+arc from gear up to summit. It is not a rough outline either. Each scene comes with its own description,
+narration, and transition already written in. If you want to tweak anything, you can edit it line by line. For
+this tutorial, I'm leaving it exactly as Flow generated it. Script is ready. Now, let us give it a cast. Step
+three, build your assets. Now, go to the assets section. Right now, it's empty. That's about to change fast.
+Click autofill characters in the top right. Flow looks at your script and generates every person in your story
+automatically. In our case, that is the mountaineer. Don't love how a character looks? Click on them, edit the
+description, regenerate. Takes seconds. Next, scroll to locations and click autofill. Flow builds every
+environment your story needs. In our demo, that is the mountains, the tent, the serac, and the summit. Then,
+do the same for props, autofill, and Flow generates every object your story calls for. Climbing gear, ice axe,
+a backpack, whatever your script needs. In just a couple of minutes, you have a full cast of visual building
+blocks ready to drop into your scenes. Cast is built. Now, let's put it all on screen. Step four, generate
+your full storyboard. This is where it gets exciting. Head to the storyboard section and click autofill
+scenes. Flow starts generating the actual visual panels for your story one by one. Keep scrolling and clicking
+autofill scenes wherever it is needed until every single scene in your script has matching image. Once it is
+done, scroll through your storyboard from start to finish. You will see your climber gearing up at base camp,
+pushing through the climbing route, being caught in the storm, and finally reaching the summit as the light
+fades. Every scene flows naturally into the next. It already feels like a film. If all you need are still
+images and voice over, you are done. Right-click any image to save it or open all media on the left to
+download every image at once in 1K or 2K. Your storyboard is frozen in time. Let's make it move. Step five,
+animate every scene. Go to all media or the images section and then head back into Storyboard Studio and
+switch to the script tab so you can see each scene's description. Copy it for your first scene. Go back to
+that scene's image, click the three-dot menu and select animate or add to prompt. Either one works the same
+way. Switch to the video generation tab. I am using Omni Flash here. It's one of the most affordable models
+inside Flow. Paste the scene description, if it's not already there, and click generate. In moments, that
+still image turns into a moving clip, camera angle, environment, all matched automatically because Flow
+already understands the scene. Preview it, like it, move to the next scene. Don't like it, tweak the prompt
+and regenerate. That is normal. It is part of the process. From here, it is just rhythm. Copy the description,
+animate the matching image, generate, move to the next scene. Same four moves until your whole storyboard is
+alive. One quick tip, review each prompt before you generate. Catching a small fix early saves you credits and
+gives you a better result the first time around. Every scene is alive. Now, let us bring it all together. Step
+six, download and edit. Once every scene is animated, head to the video section in the left menu. Every clip
+you have created lives here. Right-click any video to download it. I am downloading mine in 720p, but pick
+whatever resolution fits your project. Download every clip and then import them all into your favorite editor.
+I will use CapCut here since it is free and beginner-friendly, but the same logic works in any editor. Import
+your voiceover along with every video clip you downloaded. Drag the voiceover onto the timeline first, that is
+your backbone. Everything else lines up against it. Now, starting with your first scene, drag each clip onto
+the timeline above the voiceover in order. Trim each one so it matches its section of the narration. The gear
+up scene plays while the gear up narration plays. The storm scene plays while the storm narration plays. And
+so on down the line. Once your scenes are lined up, add captions. Click text in the top menu and then select
+auto captions. A clean white text with a black outline reads well on almost any footage. Drop in background
+music underneath the voiceover low enough that it supports the narration instead of competing with it. If a
+moment calls for it, a quick sound effect, a gust of wind during the storm, a sharp breath at the summit, adds
+a lot for very little effort. Add a simple transition between each clip. A fade or a quick cut works fine. You
+don't need anything fancy for this to feel cinematic. Once everything lines up and sounds right, export your
+video and that is your finishing touches done. And here's where your two paths split. [music] Keep the full
+sequence together and you have a complete long-form documentary. Or [music] pull out your three or four
+strongest, most emotional scenes. The storm hitting, the final push to the summit, [music] and cut those into
+a short. Same storyboard, same assets, two different videos. That is the entire workflow. One tool, one story
+[music] idea, and a complete AI film by the end. You don't need a big idea to start. [music] Pick one simple
+story today and run it through this exact process. If this helps you, hit like and subscribe for more AI
+tutorials. Drop story in the comments and tell me what idea you are building. I will reply with feedback on
+your prompt. [music] Thanks for watching and see you in the next video.

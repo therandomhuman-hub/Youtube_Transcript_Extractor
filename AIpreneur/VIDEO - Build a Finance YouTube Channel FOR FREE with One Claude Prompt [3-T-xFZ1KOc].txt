@@ -1,0 +1,94 @@
+Title: Build a Finance YouTube Channel FOR FREE with One Claude Prompt
+Channel: AIpreneur
+Type: VIDEO
+Video ID: 3-T-xFZ1KOc
+URL: https://www.youtube.com/watch?v=3-T-xFZ1KOc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T12:57:21+00:00
+
+Kind: captions Language: en Right now, finance [music] is one of the highest RPM niches on YouTube, and brand
+new channels are still pulling [music] 20 to 40,000 views per video with zero subscribers. The opportunity is
+wide open. However, most tutorials make building this kind of channel [music] take more time, and most people
+quit halfway through. So, today I am taking the exact same proven method and cutting almost everything [music]
+that slows it down. By the end of this video, you will have a complete finance channel ready to start today.
+Stay with me until the end because that's where the biggest time save in the whole workflow happens, [music]
+and it's not where most people would expect it. Welcome to AI preneur, and let us build this channel step by
+step. Step one, the one prompt channel setup. Channel setup is usually the slowest part. Upload a screenshot,
+wait, pick a name, wait, approve, and wait again. Every one of those weights is a full Claude generation
+cycle. So, today that becomes one single prompt. Therefore, open Claude, start a new chat, and paste this
+first prompt. Upload your competitor's screenshot and hit generate. Claude reads that screenshot, the colors,
+the title phrasing, the completely visual language, and figures out your exact sub niche. Not just finance
+broadly, but specifically debt payoff, investing, or side income. That is what makes everything it writes next
+actually fit instead of sounding generic. In that one response, you get the niche and visual branding, the 10
+names, your description, your tags, your handles, and both visual prompts all at once. The only thing Claude
+asks you is which name you want. That is the one decision the prompt should not make for you. Once you pick
+your channel name, Claude delivers a clean handoff summary of everything locked in one block. It confirms your
+name, suggests your handle with an alternative variant, flags the exact description line to update, and
+confirms your logo and banner prompts carry over unchanged. Then it hands you a three-option action menu. You
+pick one and the build continues. Now, take the logo prompt, head over to Google Flow, and paste it in. Open
+the settings and select the 1x1 ratio. That's your square format, the one YouTube uses for your channel icon.
+Now hit generate and Flow gives you four logo options to choose from. Next, go back to Claude and copy the
+banner prompt. Head back into Flow, paste it in, but this time select the 16x9 ratio. That is the wide format
+YouTube needs for your channel banner and hit generate. You get four banner options as well. Pick your
+favorite name, your favorite logo, and your favorite banner, and then open YouTube Studio and build your
+channel using everything you just created. That is it. Setup is done. We just turned it into four clicks. Your
+brand is set. Now we build the engine that runs it. Step two, from script to scenes. A script is only as
+strong as the patterns it is built on. So, before you write anything, you need Claude to learn what is already
+working in this niche. So, come back to the same Claude chat and paste this next prompt. Paste your titles and
+transcripts together, hit generate. Claude analyzes both in one pass and hands you five ideas in that same
+response. Pick a number, give it your length, and here is the move that actually matters. Tell Claude to
+separate your script into image prompts with every image prompt matched to its own video prompt, so you have
+both ready to use in the visual production step. The image prompts are your key frames, one frozen moment per
+scene and fully described, so Nano Banana 2 knows exactly what to generate. The video prompts are built to
+match those same scenes, but describe the motion instead of what moves, how the camera behaves, the pace, and
+the atmosphere. So, VO3 brings each key frame to life. Every image prompt and its matching video prompt
+describe the same moment, one frozen, one in motion. All right, now you have your script and your scene list,
+time bring it to life visually. Step three, visual production. Your script is locked and you have got every
+image prompt matched to its video prompt sitting right there in Claude. Now comes the part where this story
+actually becomes something you can see. So, open Google Flow, take your first image prompt from Claude and
+paste it into the prompt box. Open the settings, select Nano Banana 2 as your generation model, and hit
+generate. That gives you your first keyframe. Now, for every scene after that, here's how you keep your
+character and style consistent. Click the three dots on the image, then click add to prompt. Paste your next
+image prompt, hit generate, and Flow builds your next scene using the first one as its visual anchor. Repeat
+that for every scene on your list. Paste the image prompt, attach the previous image as reference, generate,
+and download. Do this until all your keyframes created and saved. Now, time to animate them. Take the first
+video prompt, head back into Flow, switch to VO3, upload the matching image you just created, paste the
+prompt, and hit generate. Flow brings that still frame to life matching the motion to the image behind it.
+Repeat that for every remaining scene. Paste the video prompt, attach its matching image, generate, and
+download. You've a full set of cinematic keyframes and matching video clips. All consistent, all built from
+the same story. However, right now it is still silent. Time to give it a voice. Step four, create your
+voiceover with Eleven Labs. Go back to Claude, same chat as before. Ask it to write a cinematic voiceover
+script that narrates your full story matching the tone, length you chose, and hit send. Claude returns a
+narration that already understands your story because it is the same chat. It knows the niche, the angle, and
+the tone. Read it once aloud. If something feels off, ask Claude to tweak that one line. Most of the time, it
+comes back nearly perfect on the first try. Now, open Eleven Labs in a new tab. Paste your narration into the
+text-to-speech box on the right side. Pick a voice that matches your channel and hit generate. Listen if the
+pacing or tone is off. Once it feels right, download the MP3. The visuals are alive and the voiceover is ready
+and downloaded. Two separate pieces sitting in two separate folders. Now, it is time to put them in the same
+room and make them feel like one film. Step five, assemble everything in CapCut. Open CapCut desktop version
+and create a new project. Import the voiceover and all your video clips. Drag the voiceover onto the timeline
+first. This is the backbone and everything else follows it. Now, starting with clip one, drag each scene onto
+the timeline above the voiceover in order. Match the emotion, not just the words. If the voiceover whispers a
+regret, do not show the action shot, show the quiet shot. If the voiceover lands a punch, that is when you cut
+to the strongest visual. The voice tells you the timing. The emotion tells you which clip. Trim any extra
+footage from each clip so the visual lands exactly when the voice does. Then, bring the visual audio down so
+only the voiceover is heard. Once all clips are placed, add captions. Click text in the top menu and then
+select auto captions. CapCut analyzes your voiceover and generates perfectly synced subtitles automatically.
+Choose the templates. I prefer styles with bold text and contrasting backgrounds for maximum readability. Hit
+apply and your entire video now has professional captions. Then, add transitions between each clip. Go to
+transitions in the top menu. Subtle transitions work best and choose something like mix or black fade work
+great for a Hollywood feel. Drag your chosen transition between each clip on the timeline. Add background
+music, calm, corporate, or minimal piano depending on your tone. Drop it under the voiceover at around 15%
+volume, so it supports the voice instead of fighting it. Drop in one or two simple sound effects at the most
+important moments. A whoosh on a transition, a subtle impact on the final line. Run a final preview from start
+to finish. Listen for pacing, check captions, and then hit export. >> There's a doctor earning $380,000 a
+year. >> [music] >> There's also a janitor earning $50,000 a year. If I told you only one of them passes the
+real test for wealth, [music] which one would you guess? Most people guess wrong, according to research from
+The Millionaire Next Door. >> And that's it, a fully branded finance channel and a complete cinematic video
+built start to finish with a fraction of the steps it used to take. If [music] you haven't seen the original
+version yet, it's right there on your screen, the one where I built this same channel from zero [music] in
+real time. Watch it next, it shows you the full method. If you want the exact two [music] master prompts I use
+in this video, drop fast in the comments and tell me which finance angle you are building. I [music] will
+reply with both prompts directly. Subscribe to AIpreneur for more AI workflow tutorials. [music] Thanks for
+watching, and I will see you in the next one.

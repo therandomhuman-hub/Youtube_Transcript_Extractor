@@ -1,0 +1,29 @@
+Title: This AI Niche Is Surprisingly Easy to Make (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: RElPSKM9RF0
+URL: https://www.youtube.com/watch?v=RElPSKM9RF0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:21:59+00:00
+
+Kind: captions Language: en You've probably seen these types of tiny worker food making videos. They're
+incredibly satisfying to watch and people really enjoy them. The best part is creating videos like these is
+actually very simple using free AI tools. Watch the full video and by the end you'll be able to create your
+own videos easily. First, go to Claude AI and paste this master prompt. The link is in the description. Then
+hit enter. Claude will give you 10 different categories. Choose anyone. I'm choosing category number five. Now
+Claude will give you 10 unique video ideas for that category. Choose anyone you like and hit enter. Now select
+the video duration. I'm selecting 20 seconds for this tutorial and hit enter. Then choose the aspect ratio.
+I'm making a short, so I'm selecting 9 to 16. After that Claude will give you two scenes. Scene one will have
+an image prompt and a video prompt while scene two will have only a video prompt. Watch the full process
+carefully so you don't miss any steps. First, copy the image prompt from scene one and go to Flow AI. Paste
+the prompt here. Select these settings and hit enter. After a few seconds your image will be ready. Now go
+back to Claude and copy the video prompt from scene one. Come back to Flow AI and click the three dots on the
+image you generated. Select add to prompt and paste the video prompt. Now select these settings for video
+generation. Choose Omni flash as the model. Select 720p and set the duration to 10 seconds. Then hit enter.
+After a few moments your video will be generated. Now click on the generated video and go to the last frame.
+Click save frame to save the last frame. Next go back to Claude and copy the scene two video prompt. Come back
+to Flow AI and click the three dots on the saved frame. Select add to prompt. Paste the scene to video prompt
+and hit enter. And that's it. Your 20-second video is ready. And that's it for today's video. If you found
+this video helpful, make sure to like the video and subscribe to the channel for more AI tutorials. Thanks for
+watching and I'll see you in the next video.

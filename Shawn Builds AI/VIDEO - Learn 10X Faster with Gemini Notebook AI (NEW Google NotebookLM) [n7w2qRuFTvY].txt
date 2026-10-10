@@ -1,0 +1,237 @@
+Title: Learn 10X Faster with Gemini Notebook AI (NEW Google NotebookLM)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: n7w2qRuFTvY
+URL: https://www.youtube.com/watch?v=n7w2qRuFTvY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:11:11+00:00
+
+Kind: captions Language: en Less than a year ago, I was working in IT at a finance firm. And honestly, I was
+afraid of AI taking my job. It's estimated that two out of three jobs will be exposed to AI automation in the
+next 10 years. But since then, I've realized something. The fear only existed because I was never properly
+taught how to learn how to use these new technologies like AI. All the school textbooks are outdated with
+information from a decade ago. And the entire education system trains you to memorize for grades, rather than
+actual learning techniques [music] that keep up in a fast-changing world. And then on the flip side, you have
+the other extreme. People who ask AI for every little decision and don't actually exercise their own brains
+and thinking skills. The secret is finding a way to use AI as a coach and not as a crutch. [music] Using these
+strategies in this video paired with Google's new Gemini notebook, I was able to retrain the way that I think.
+So much so that I didn't just learn about AI, but now I've become an AI engineer at a multi-billion dollar
+digital media company. I want to help you do the same. Being able to learn anything, understand it deeply, and
+then leverage that new knowledge into that six-figure dream job that you've always thought was just one tough
+interview away. Or finally starting that million-dollar business idea and quitting the nine-to-five that you
+dread. There are four parts to this video. And by the end, I'm not just going to give you quick hacks. You'll
+have a better understanding of how your brain actually works. Along with a learning system to master complex
+skills and gain knowledge in half the time. Even if you've always felt like a slow learner. First, we're going
+to bust some common myths about learning and AI. Because while most people are fearful of AI like I was,
+knowing how to leverage AI tools like Gemini notebook not only gave me better results and performance, but
+also the confidence to get promoted in my career, double my income, all while earning back valuable time to
+spend with my friends and family. [music] Second, you'll build a learning system that actually works for you.
+Instead of feeling like you're fighting to get info into your head. Then we'll cover the role of feedback in
+progression so that the learning stays deep even when you ramp up the difficulty. And finally, I'll go through
+some crucial skills to help you learn at twice the speed. What I realized was this, the advantage you have
+today in the world of AI is not what you currently know. That's just temporary. The only real edge is how you
+learn and how fast you can stay ahead. But first, you need to understand why 99% of people fail at learning.
+We're going to dive into each of these four sections in the frameworks so that you have a better understanding
+of how to use AI to learn. But the first thing we want to start off with is why 99% of people are failing to
+learn. Yale performed a study in 2002 and they actually defined a new term that I think sums this up
+perfectly. And it's called the illusion of explanatory depth. All this really means is that we consistently
+overrate how well we understand something until we're actually asked to explain it. The way that it worked was
+pretty simple. A group of people were given a list of very basic items. Things like a bicycle for instance.
+And then they were asked to rate on a scale of 1 to 10 how well do they understand what these things are and
+how they work. And they all rated pretty high. For example, how does a bicycle work? I get the general idea,
+right? People think they know what a bicycle is because they interact with it all the time. But then when you
+dive in a little deeper and ask, "Can you explain how every single step works?" You realize that there's so
+many underlying parts like gears and chains and pedals and they end up not knowing how to explain it just
+saying chains and pedals. This was actually performed again later on in a different way where people were
+asked to draw a bicycle even while some of them were avid cyclists. And you could see on all of them that
+there are errors and none of them are 100% correct on how a bike actually works. So, how does this relate to
+learning with AI? Well, there's so many instances where you just ask AI a question to answer it for you. I'm
+definitely guilty of doing this myself, and then very quickly it gives you back an answer. Then you read the
+answer and you're like, "Okay, that makes sense. I understand it." But the problem is that reading an answer
+from AI and implementing it is not the same as actually understanding what's going on. Take this example from
+Guitar Hero. I used to play this game all the time as a kid and I loved it. If you look at how it actually
+works, there's a plastic guitar with just five buttons on the top. And you get really good at playing those
+five buttons to where you can play some crazy songs here, and your fingers are moving insanely fast and you
+hit every single key. And you feel like you're actually rocking out on a guitar, but don't get this confused
+with actually knowing how to play the guitar. Because although I got pretty good at playing in Guitar Hero,
+then rolled along sixth grade music class, where I was handed an actual guitar. Notice how there's strings and
+not five buttons at the top. And lo and behold, I was complete trash at playing it. So, being able to do a lot
+of really cool things in one context does not fully translate into understanding how to do the real thing. And
+it was the same in my last career when I was in cloud engineering. I was using AI all the time to tell me how
+to code up new infrastructure, but I didn't actually understand what was fully going on until I took and
+passed an AI certification exam. So, how can we establish this correct way of learning with Gemini notebook?
+Well, if you go to notebook.google.com, here you'll see all of your notebooks. And if you don't have one yet,
+then go ahead and create a new notebook. For me, I created one here for AI token optimization to help save
+costs for AI. Now, the really cool part about Gemini notebook is that it only uses the sources that you
+provide, so that hallucinations are much more unlikely. You can see here that I uploaded three different
+sources. One of them is a website, another is a PDF that I downloaded and added to my Google Drive, and the
+last one is a YouTube video. And adding them is very simple. You just click this add sources button. And then
+you can paste in your website link. You can paste in a YouTube URL. Or you can even link it to your Google
+Drive items. Now, what most people do with AI is that they just type a question. How do I optimize tokens for
+AI costs? And it gives a response. But the way that we shift this to actually understanding is a very subtle
+change in the way that we're prompting AI to make it more optimized for learning. So, instead, we ask it, "Now
+quiz me. Ask me one question at a time about the token optimization based on these sources. Don't actually
+give me the answer. Wait for my response. Tell me if I'm right or wrong, and if I'm wrong, explain the gap in
+my understanding." And if you do it this way, then it will actually ask you a question. And when I give a
+correct answer, it explains why I'm correct. And then if I give an incorrect answer, it will explain exactly
+why that's incorrect. I like to do it in the chat here because it allows you to provide more context in your
+responses. But there is a way in Gemini notebook to generate quizzes as well. So, I can go ahead and put that
+question into a quiz generation and click generate. And now a quiz appeared over here. And if I click on it,
+then it will go through multiple different questions as multiple choice. So, again, it's a better way of
+understanding it than just asking a question in the chat. But this doesn't really require you to think back or
+call the information and type out context in the chat. Real quick, before we move on to part two, I want to
+show you this framework and give you a free skill that you can download. Over 500 people have downloaded and
+found useful so far and have rated over 4.8 stars. And how it works is that it leverages this framework called
+VARK, which explains your exact learning style. There's visual learners, auditory learners, reading and
+writing learners, and kinesthetic learners. Understanding what you are helps you get a much better return on
+investment for the time that you are putting into learning. For example, for the longest time I thought I was
+a visual learner, and throughout school, understanding diagrams always just made more sense to me. And even in
+my first career path of cloud engineering, these are the kind of diagrams that we would use, and it just
+clicked. But, after I took the skill exam that I'll show you, I found that that I was more of a kinesthetic
+learner, which has really held true so far. And as I've gone and helped teams implement AI for themselves, I
+found that doing the actual actions has made the concepts stick so much stronger for me than just looking at a
+diagram. Once you download the skill, you can go into Gemini Spark here and click on the skills section. Then
+you can upload the skill and drag in the skill file, and it will create this learning style finder. If you
+don't have Gemini Spark, then you could still download the skill file and paste the prompt into the normal
+Gemini chat. You'll know it worked for Spark when you do {slash} learning style finder, and this pops up. Then
+you press enter. It will go through and ask you a series of six different multiple-choice questions. And when
+you answer them, it will tell you what kind of learner you are at the end. So, for me, it says I'm a
+kinesthetic learner. Then it not only explains why and what that means for you, but it gives you exactly how
+you can use Gemini notebook to leverage the type of learner that you are. So, for me, it's saying instead of
+reading long summaries, I should actually talk to Gemini notebook and have it ask me questions one at a time.
+The link is in the description below if you want to download the skill for free. Now that we understand a
+common pitfall when trying to learn with AI, let's move on to step two, which is building an actual learning
+system. There is this concept called the Ebbinghaus forgetting curve, and it shows that when you first learn
+something on day zero, there is a deterioration of your memory to where it could take 3 days without any
+reviews to fully forget what you just learned. The trick here is that you can review your information over
+again on the following days. So, you can see here if it's just on day zero, you'll forget it all by day three.
+But, if you review once on day one, then you won't forget until day seven. So, not only is it shifting it
+right, but it's changing the slope of the line so that each time you review, it also sticks with you longer
+compared to the last time you reviewed it. And you don't need to review it as frequently. So, you can see the
+first review was on day one, the second review was on day three, the third review was on day six. So, it
+doesn't take a ton of effort to review. They can be spaced out pretty generously. But, the payoff of reviewing
+is huge in terms of the retention of what you remember. Just a personal example where I found this to be true
+is for my Spanish classes. I took Spanish for probably seven years. And the thing is with school, I was just
+memorizing the answers to do well in class. I was getting an A+ on all my exams in honors Spanish. But,
+because I was just memorizing and not fully understanding and reviewing the information, when I actually took
+a trip to Mexico last year, I couldn't hold a single conversation with the people there in Spanish. The reason
+this happened is because your brain is always offloading information that it doesn't need. You know, when you
+go to take a picture but your phone is full and you get this pop-up saying that there's not enough available
+storage to take a photo. It's kind of the same thing like this. If your brain is full with all this
+information, then when something new comes in, you just can't retain it as well. Which is why your brain is
+constantly recycling information it doesn't need. It's like when your phone is offloading the unused apps to
+free up storage. But, what we're doing with reviewing the information over and over again, it's like we're
+turning that app from an unused app to a used app. So, that it doesn't actually get offloaded because you're
+using it all the time. So, each time you review the information, it's like you're recycling that knowledge and
+keeping it fresh and up-to-date. This was definitely true in college for me. I would spend entire nights
+studying for a test, just cramming for it before, and almost pulling all-nighters. And then I would just
+forget the information immediately the next day. But when it came to studying for my AI certification, instead
+I changed to a frequent review. Instead of 8 hours in one day, I'm doing 15 minutes a day. So it feels like a
+very light lift, and I'm still getting that 8 hours. And I don't just forget everything the next day. It
+actually stays with me in the long run. Even as an AI engineer, I get to use AI every single day helping teams
+actually see benefits from this new technology. And that constant usage every day helps me really understand
+and retain the information. And it's the same thing with teaching AI on my YouTube channel. Constantly making
+videos for you guys helps me understand the information better and retain it. There's a few different ways
+within Gemini Notebook that I like to keep my information fresh and up-to-date with constant review. One of
+them we already covered, which is a quiz. When it's only 10 questions long, it's easy to just do 10 questions
+each day, or even cutting it down to five questions a day for a month, let's say. But another option is with
+flashcards. It's the same concept where when you generate 40 flashcards, you can go through maybe just five to
+10 a day, and then make sure that you shuffle them so that every time you go through it, it's something new.
+The last way that I like to make sure I'm doing frequent reviews in a systematic way with Gemini Notebook is
+with the mind map. This generates a map of all the concepts within your sources, and you can continue to
+expand them and expand them to see how they all relate to one another. So on day one, I'll go through this and
+just focus on understanding this one topic here. On day two, I'll focus on this one. On day three, I'll focus
+on this one. And then I'll move back a layer, and then I'll expand this one and focus on prompt caching. So
+you can very systematically go through one section at a time. The awesome part about mind mapping is that you
+can then click on one of these topics and in the chat here it will bring up a discussion about it and give you
+more context about what that thing is and how it works. I don't know about you, but getting a system to learn
+for me is just one part of the equation because I want to use it for something that will actually make a
+difference in my life. For me that means something that gives more freedom with time and financial freedom. So
+naturally learning the concepts needed to build an online business using AI was the path that I went down. I
+know it's a very difficult road to take, but if this is something that you are interested in, I want to help
+you out along the way. So I created this completely free road map that will bring you through all four
+bottlenecks that you'll face when building an online business and it will show you how to get through each of
+those bottlenecks using AI so that it can run itself. The link to the road map is in the description where
+again you can download completely for free. Moving right along we're going to go into section three which is
+understanding progression within learning. Carnegie Mellon performed a study back from 2005 to 2007 and they
+found that students were spending 100 hours on material but only getting a 3% gain. Within the study they had
+a group that focused entirely on the information that they were struggling with and giving immediate and
+targeted feedback. At the end they spent less than 50 hours of learning and had a gain of 18%. So with the new
+system they went from 100 hours with material for a 3% return to less than 50 hours on the material with an
+18% return. That's an insane difference in your return on time. [snorts] But what does that actually mean for
+us and how we can leverage that to learn with AI? Well, let's bring it back to the Guitar Hero example. Video
+games are great at this because they not only give you immediate feedback, but they know how to progress you
+properly. When you miss a note in Guitar Hero, it's very obvious because the note goes right past you and it
+impacts your score in a negative way and then you can improve it for the next run. Not only that, but there
+are levels as well. So you can start off with easier songs that don't have many notes and they only use the
+first three keys. As you get better and master that and get immediate feedback that you're hitting every
+single note, you can move to medium. Which again, it's the same three keys, but there's more frequent notes.
+And then lastly, you have hard and expert to where it adds in a fourth and a fifth note. We want to emulate
+this with our learning in Gemini notebook. It's actually the same way in weight training. The concept in
+weight training is called progressive overload use this all the time when I was doing powerlifting. It took me
+years to finally bench press 225 lbs. But you continue to refine and improve your technique to where I was
+able to move up to 275 and move up eventually to over three plates. So it's the same thing as progression and
+learning with easy, medium, hard mode and you can see it takes time, right? I started in 2018, then 2020, then
+2021. Luckily, Gemini notebook has a native way for us to do this. If we go back to the quiz section, there
+are levels of difficulty. So we can start with a easy level, move on to medium and then progress to hard. And
+you can see the difference in the questions, too. On the easy one, it's very simple questions like what is the
+primary goal of AI token optimization? As you move to medium, it becomes in the context of AI economics,
+what's the primary cause for increasing enterprise AI bills? So definitely a bit more difficult. And then you
+move on to hard and now it's asking for the primary reason that AI bills are increasing with specific
+timelines and percentages. So the best way to implement this is by taking easier quizzes in the beginning.
+Make sure you understand them, get them all correct, moving to medium ones and then moving to hard ones. It
+works the same way with flashcards as well. I generated an easy flash deck here, which asks the question of
+what's the primary unit cost of large language models? And then as you move to a hard set of questions, it
+says how is token optimization defined in the enterprise context? And instead of just one answer as tokens
+like in the last one. You can see this one is a whole explanation here. And that brings us to the final part
+of learning how to learn with Gemini notebook. Now that you've built a system and you understand how to
+progress within your learning, we want to figure out how we can speed up our learning process and learn in
+half the time. If we go back to our Ebbinghaus forgetting curve example, this is over the course of multiple
+days, which is still really important to know how we're going to continue learning throughout the week. But
+what do we actually do within a single day of learning? Well, for that, there's another framework called the
+ultradian rhythm. And the timeline for this lies within a single day. What this is displaying here is that
+throughout the day, you have periods of high performance and times of low performance. And it happens in
+cycles. What we want to do is maximize our learning during these times of high performance, which typically
+span 90-minute intervals. And then we want to recover and relax in those 20 minutes of healing response. If we
+do this properly within a single day, we'll be able to get a much better return on our time investment while
+having more downtime. And then pair that with the frequent reviews of the Ebbinghaus forgetting curve, and
+then you're golden. I've found the ultradian rhythm to hold very true for myself if we go back to the college
+example. Instead of one single long session of studying for 6 hours, I would split this up into multiple short
+sessions. So, on the days leading up to the exam where I did spend longer studying, I split it up into four by
+90-minute cycles of learning. I'm still hitting the same 6 hours, but instead I'm spacing it out, making it
+easier for me to digest in that time period, going with the natural rhythm of your biology, and getting some
+downtime in between. Here's what my normal day looks like using Gemini notebook. I'm an early bird, so in the
+morning, I go and do my laundry and sit at a coffee shop to wait for it to finish. This is my quiet time where
+I can actually lock in and focus on learning something. While I was learning AI, I would use this time to
+build out quizzes in Notebook LM and focus on answering the quizzes directly. After doing that in the early
+afternoon, I would go for a run in Central Park. And during this run, I would have my headphones in and I'd
+play an audio overview, which is great for multitasking. Then we get to the late afternoon and I would have a
+meet up with a bunch of friends at a co-working space. And here we would share our findings together, in which
+I would create slide decks to show with other people. And lastly, we get to night time here and here I'm
+laying on my dinosaur pillow. And at night I just like to read in bed, so I'll create a report and just read
+through it. But I'm optimizing the way that I learn through my body's natural rhythm and it doesn't really
+feel like I'm putting in a ton of effort to learn because I'm learning in different formats that fit what I'm
+doing at that time of the day anyways. So within Gemini Notebook, we already went over how to create quizzes.
+But the audio overview feature is honestly one of my favorite parts. It creates a customized podcast about the
+information that's covered within resources. I'll play a snippet here so you can understand just how good it
+is. >> They've plummeted something like 99.7% since GPT-3. >> Oh yeah, it's wild. >> The major AI labs are
+practically giving away computer weight here just three years ago. Why has enterprise AI spending skyrocketed
+by 320% in the exact same window? >> It defies standard economic logic at first glance. But if you look >> So
+it's very easy to listen to that while I'm on my afternoon run. Then for the slide deck generation, it's the
+same thing. You can create it here and create either a detailed deck or a presenter deck. And now when it's
+generated, I can go through, understand what's shown here, all the different frameworks, and present it to
+other people because I think that trying to teach other people is one of the best ways to learn and it's one
+of the ways that I learn best by making these YouTube videos. And lastly, we have the report section here,
+where you can create a ton of different kinds of reports, like a briefing document, a study guide, a blog
+post. For my nightly reviews, I like to just make a briefing doc. And then I can just read through this at the
+end of the day in my bed and understand exactly how token optimization works. Now you're equipped to properly
+learn using AI to speed up the process >> [music] >> and learn more effectively. I know this will open up a
+huge world of possibilities for you because it has for me. But learning is only half the battle because you
+actually need to go and apply it towards something [music] to reach your goals. For me, that was learning how
+to build an online business that leverages AI to run itself. If you're interested in doing the same thing,
+then you have three options. The first is to do nothing and your situation will stay the same. [music] The
+second is to download the free road map with the link in the description below that will bring you through the
+four bottlenecks that you'll face [music] and show you how you can solve them with AI. And the third is to
+continue learning with other AI tools and from those who have done it before. And for that, you can watch my
+video that I created here on how to build a second income with Gemini AI.

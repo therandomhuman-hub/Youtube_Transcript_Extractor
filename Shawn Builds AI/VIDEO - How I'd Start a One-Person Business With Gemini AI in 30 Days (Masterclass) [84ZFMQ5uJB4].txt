@@ -1,0 +1,286 @@
+Title: How I'd Start a One-Person Business With Gemini AI in 30 Days (Masterclass)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 84ZFMQ5uJB4
+URL: https://www.youtube.com/watch?v=84ZFMQ5uJB4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:09:01+00:00
+
+Kind: captions Language: en 84% of businesses in America have zero paid employees. That's 30 million people
+running solo operations and 77% of them are profitable in year 1. That's not a fluke. That's the power of AI.
+In this video, I'll show you how to harness that power using Google Gemini, the easiest AI for beginners to
+start with. Now, if you've gone looking on how to do this, you've probably seen the same advice. Just vibe
+code an app. And I get it. It sounds exciting [music] until the second you open a terminal and realize it's
+way more technical than you thought and it has nothing to do with making money. That's not on you. That's just
+the wrong tool for the job. I was definitely convinced of this myself to start. I build AI agents every single
+day as an AI engineer at a multi-billion dollar digital media company. And even I thought that the easiest
+business to build with AI would be some kind of SAS or vibe coding an app until I personally spent over 6
+months coding up three different SAS ideas and at the end of the day made a grand total of 0 and a boatload of
+headaches. Here's the divide I keep seeing. [music] One group is still up at midnight binge watching vibe
+coding tutorials hours into fixing errors and no closer to a paying customer than they were last week. The
+other group bypassed the technicals and focused on the skills that actually bring in money, handing off all
+the busy work to Gemini, the same way that I used it to build an $8,000 per month agency on the side of my 9
+to5 IT job. So, in this video, I'm going to give you the exact five-step framework to building a profitable
+oneperson business using Gemini AI in the next 30 days. No coding and no prior Gemini experience is needed.
+Imagine [music] having leads come in, a service delivered, and operations running while you're doing almost
+none of it yourself. And instead of missing dinner with your family because you're heads down building, you're
+able to collect cash next to the pool on vacation with just a few hours of guiding AI from your laptop. So,
+let's start with step one, which is reverse engineering how to achieve this freedom. Now, most people just
+start with what can I sell with AI to make a profit. But instead what we want to do is reverse engineer the
+goal that we want to achieve. Now the end goal is that there's two different types of freedom that we want to
+achieve. The first one is financial freedom so that we're able to afford all the luxuries in life that we
+want. The second freedom is time cuz we want to be able to spend our time doing the things that we enjoy. Now
+it's really easy to just focus on one and forget about the other. If you focused all your time on financial
+freedom, that's how you become a well-paid employee. And I actually fell into this trap to start. I mean, I
+remember I was trying to grab some extra cash. And there was an event company that my friends were working at
+who would need an extra hand on the weekends to set up events. So, I'd be spending my entire weekend setting
+up events for $20 an hour. So, I had this extra cash, but I had no time on the weekends to spend for myself
+doing the things that I enjoy. On the flip side, if you focus too much on time freedom, it's really easy to
+just sit around all week and do nothing. But the problem with that is that you can't afford anything that you
+want because you haven't focused on the financial aspect of it. So, we want to find a way that we can balance
+both the financial and time freedom. There's a framework that I put together called the freedom matrix that
+will show you based on what you're doing now currently and the things that you want to do in the future. if
+that sets you up with financial and time freedom and where you lie within the matrix. So, it measures it on
+two different scales. Financially, either you're going to be an employee, so you're working for other people,
+or you're going to be an owner, where owners end up making more money and employees end up making less. On the
+time aspect, it's either going to be you doing the work, or you're going to be delegating the work. Now, the
+combination that I was in and the setup that you're probably in as well is that you're financially an employee
+and the time that you're spending is you doing the work. And that combined puts you in the first box, which is
+that you're just working a job. Now, you can get pretty well paid doing a job, like I showed earlier, being a
+well- paid employee. But the ceiling for that is never as high as if you're an owner. Now, if you are an
+owner, but it's still just you doing the work, that puts you in this box here, which makes you a freelancer.
+Now, you can make a good amount of money being a freelancer, but the thing is, it's still you doing all the
+work, which means that you aren't going to have that time freedom that you're seeking. Now, if you're an
+employee, but you're able to delegate out the work, that puts you as a manager. So, you'll have more time
+because you're delegating work, but your ceiling for potential earnings is not as high as if you're an owner.
+The box that we want to strive for maximum financial freedom and maximum time freedom is this last one here,
+which puts you as a business. Now, I created a skill that helps you fill out this matrix in the most optimal
+way possible. You can download it for free in the description below. And once you do, you can just come into
+Gemini Spark here, click on the skills section, and then you can upload the skill in which you just drag in
+the file here. That will create this freedom matrix skill. If you don't have Gemini Spark, then you can just
+copy the content of the skill, go into a normal Gemini chat, and paste it in here. You know it worked when you
+go into a Gemini Spark chat and now do slashf freedom matrix and it pops up here. Once you run it, it will ask
+you to tell you about your business idea or you can tell it about the things that you're currently doing. Once
+you fill that out, it will break down how operations are currently running the way that you sit right now and
+then break down each aspect of the freedom matrix as well as a path to get to the business quadrant. The part
+that I like is that it generates this matrix file right here that you can open up which then you can open up
+in the browser here and it shows you the matrix breakdown for the specific topic that you talked about. So for
+me this was automation consulting and it tells me what a job would look like for doing this, what it looks
+like to be a manager doing this and then my current state which is as a freelancer. But we want to get to the
+business state which is the goal state here. So now for the diagnostic takeaway, it tells me the key thing I
+need to do is to productize my core automation workflows and then delegate out the billing, the testing, and
+the ongoing maintenance of it. If I do that, then I can move into the business phase. So again, you can
+download and try this out for yourself with the link in the description below totally for free. But one quick
+test to know if you're in that end goal business phase is to think about this question. If I were to disappear
+for a month, would the money stop? If the answer is yes, then you're not in that final goal phase yet. So now
+we understand the goal that we want to get to. But the next question is, what should we actually sell? The
+first thing I want to do is show you a Gemini skill that will help you accomplish this. I partnered with one
+of the top AI creators in the space to create this exclusive Gemini skill for you. Using the link in the
+description, you can download the Gemini version for free along with his clawed version of the same skill.
+Once you have the skill installed, all you have to do is switch over to Gemini Spark. Then you can go into the
+skill section here and upload it using this button. That will create this go business playbook Gemini skill.
+You'll know this works when you go into a normal Gemini Spark chat and do /ggo businessplaybook Gemini and
+click go. The skill is then programmed to ask you a few questions about your skills, your knowledge, your
+experience. It'll then help you find what you love, what you're good at, what the world needs, and what you
+can actually get paid to do. It then aligns it and puts it all together to come up with a business idea that
+you can then realistically sell. So, I just filled this out based on my previous engineering and automation
+experience in the past. And the coolest part is the very end where it comes up with an interactive HTML
+playbook which will be downloaded for you and then you can just open up in the browser. So, it helped me find
+my perfect niche here of patient onboarding based on the things that I already love doing like automation,
+some of my past experience as an engineer, things that the world currently needs, and what my situation and
+goal outcome actually is. One of my favorite parts is that it gives me lines that I could say verbatim in
+sales calls because with an engineering background, that is definitely something that I struggled with to
+start. It then helps me go through competitors to see that there is demand and what others are charging and
+then helps me even come up with what I should be charging for myself with a weekby- week playbook that I can
+use to go from zero to having this set up and landing my first client. So go ahead download this for free with
+the link in the description and try it out for yourself. To understand what we should sell, we need to think
+about again our end goal and what is the fastest way to reach that goal. Now, there's two separate decisions
+that we need to make, and we'll go through each of them one at a time. The first one has to do with time. If
+we want to buy back time, that means that we need to delegate the tasks. And we need to make a decision of the
+two different ways that we can use to delegate those tasks. The two different options that we have are using
+employees to delegate to or using AI to delegate to. Think about it like this though. If you are cooking a
+steak for somebody, do they care about how you cook the steak? I mean, let's say that you're cooking it on the
+barbecue or you cook it on a stove or let's say even an air fryer, for example. All they care about at the end
+is does the steak taste good? Is it cooked the way that I like? If the answer is yes, then it doesn't matter
+how it was cooked. And it's the same thing with how you delegate tasks. As long as the customer in the end is
+happy, it doesn't matter if you delegate to AI or you delegate to employees. But there's a few different pros
+and cons to each that we need to think about before we make a decision. with employees. One of the pros is
+that you now have human judgment in the loop. Another pro is that it compounds over time because now you're
+building them up as an asset for your business that can maybe eventually make decisions in the future. But one
+of the cons is that it is slow to leverage. There's a large training time to get them up to speed and teach
+them the things that you already know instinctively about your business. Another con is that it is expensive
+upfront because now you need to pay a salary to this employee. And lastly, the last con is that you have
+management overhead. You need to set up time to train with the employee, make sure that they're doing their
+tasks correctly, and now you're not just a business operator, you're also a manager. We can take a look at AI
+now for a different set of pros and cons. First off, it is instant. It's very easy to set up AI right now
+instead of having to go on a full search to find an employee. Secondly, it is near zero cost. I mean, paying
+for an AI subscription is a fraction of the cost as paying for an employee. Another pro is that you have no
+management required. Once you figure out how to set up AI the proper way, it's able to just run on its own
+without you having to check in as frequently and manage it closely. Now, one of the cons to AI is that it does
+need oversight. Oversight is different than management. You can set up monitoring systems to make sure that
+the outputs are good, but you're not checking in as frequently or for as much time as you would be with an
+employee. And lastly, there is no real ownership, meaning that AI doesn't really own part of a business
+process. You're still the owner of that. So, it's not completely taking it off your plate, but it does remove
+a big chunk of the things that you need to do. So, again, if we think about our goal here, which is how we can
+delegate as quickly as possible to reach our goal of business, the winner here is using AI just purely for the
+fact of the speed it takes to set up. And it may not get us 100% of the way there like hiring and training an
+employee over a long period of time would, but maybe it'll get us 70 to 80% of the way there, which is good
+enough to build up a business to start. Now, the other decision we have to make is what kind of business we
+want to own. We have two different options here. The first one is to own a product business. This would be
+like creating a SAS company or an app kind of similar to Spotify. The second option is to do a service. And
+while this shows car washing, this would be something that is based online. Now, what are the pros and cons to
+doing each of these? Well, first off, if we start with the product, the pro is that you have infinite
+leverage. For a SAS company, you build it one time and you can sell it forever, which is very appealing.
+Another pro is that there is no client management. People just sign up and pay for it with a recurring
+subscription and you don't need to constantly be managing them all the time. They're just paying for the
+platform usage. But there is some big downsides which first of all is build first risk. If you spend all the
+time building up a platform, it's very easy to sink in a ton of time and then at the end nobody ends up paying
+for it. And this has happened to me three different times and I've wasted months doing this. The next con is
+that there are brutal odds. I mean just a quick search here shows that 92% of SAS startups fail within their
+first 3 years and a ton of them are getting all this venturebacked funding. So, being able to do this solo on
+your own is an extremely difficult feat to accomplish. Now, the last one here is that it is very slow to your
+first dollar because you're spending all the time building up software and you can't focus on selling if
+you're doing that. So, getting that first person to sign up is one of the hardest things you can do in
+building up a SAS product. On the other side, let's take a look at service. First off, it is very fast to your
+first dollar. You just take something you already know how to do. You collect the money and you're able to
+just do that thing. Next up, there is zero build cost because you're not building a product out. The only cost
+is your time to deliver the service which we're trying to delegate in the first place. And the next pro is
+that it validates demand quick. Instead of spending months building up a product and not knowing if there's
+any demand for somebody to pay for it with a service as soon as you get your first dollar that shows that
+there's demand for someone who wants what you can provide. Now the con to a service is that it is capped at
+scale. Typically you need to scale up how you delegate if you want to scale up a service company. And then the
+next con is that it needs constant selling because instead of building it once and selling forever, typically
+you deliver the service and then it's done for the client and you need to find another client to sell to.
+Ideally, you can get them onto some kind of retainer deal where they pay you every month to provide the
+service. But some types of service don't really work like that. So again, if we tie back to our goal of
+reaching the business status as quickly as possible, the winner here would be doing a service. So, let's
+combine it all together. And what we get is owning an AIdriven service business. And what this means is that
+one, we are an owner, which is a first check. Two, we're able to delegate out and save us time using AI.
+Another check. We're doing a service business, which is the quickest way to land our first client. So, that's
+another check here. And this is actually what I did when building up my agency as well. For example, with one
+of the clients I landed, Maxwell Social. They're a really cool event venue based in New York City. And what
+they wanted was a way to get a whole list of clients that they can then cold call to sell their event venue
+to. So what I did was leverage AI to delegate building out a list of over 100,000 qualified leads. And then we
+used AI to tier them between tiers one who are the best types of clients to reach out to and tier three who
+are not as good as one and two. Then they're able to call them starting with all the ones and working their
+way to the threes. So the service I was providing was lead generation and building out a list of qualified
+leads and it was delegated out to AI agents who was able to source the leads and then provide rankings for
+them. So now we know that we want to own an AIdriven service business. But what should the service be and why
+would anybody choose to work with us? That brings us to the next step of understanding what is your unfair
+advantage. Let's say that I decided that I wanted to go deep into lead generation. There's a ton of different
+companies that do this service. So why would any business want to work with me as opposed to any of them? We
+want to think about our unfair advantage to help determine what we want to even go into in the first place.
+And the way I see it, there are three Rs to understand of your unfair advantage. We can lay this out in a
+triangle where the first one is your roots. Think about what kind of industry or domain you've already planted
+roots in. If you've been working in the restaurant industry for 10 years, then that's probably the industry
+that you want to go into because you have an unfair advantage as opposed to those who have never been in the
+industry. Or let's say you've been working in IT or you've been working in finance. Those are industries that
+you already have an unfair advantage in with your experience. The next R that we want to think about is your
+range. What are the range of skills that you can provide? If you were working in sales, then maybe running
+sales calls or finding leads is something that you would be good at. Or if you're an engineer like me, maybe
+being able to code automations is the range that you have. You can already see how it starts tying together
+where maybe you do sales for restaurants or building automations for finance firms. That would be two elements
+stacked as part of your unfair advantage. But the last R we want to think about here is your reach. What does
+your network look like already? Do you already know people in the target industry? If I had worked in
+restaurants in the past and I have a whole network of people who are restaurant owners, I could pitch to them
+to do my automation services. Or if you're used to doing sales and used to work for insurance and you have a
+whole network of different managers for insurance companies, you can pitch your sales services for insurance
+companies. Checking as many of these boxes makes it more likely that you will succeed. But even if you just
+check one of them, consider it a go to start. Let's look back to my example of working with Maxwell Social and
+see why I was successful in working with this company. I actually checked a lot of the boxes here of the three
+Rs of the Unfair Advantage. First off, with my roots previous to this, I had done some automation works for
+another event company called RedMax Events. Not only that, but I'd also done some actual setting up of events
+that I mentioned earlier in the video with this company. So, I already had experience working in the event
+industry. Second up, let's talk about my range. I had experience working with AI and automation as an engineer
+with an engineering degree. So, that checks that box. My business partner on the other hand had been working
+in sales for 5 years. So, when it comes to lead generation, he had that experience. So, that's two checks for
+the range. And lastly, if we think about the reach, since I had done some work with events companies, I knew
+managers and owners of that event company. And when me and my business partner went through our LinkedIn,
+there were numerous people who were connected to that already worked in the event space. So, we checked all
+three of those boxes and were able to successfully land clients in this domain. Now, you should be very clear
+on the outcomes that you want, the type of business that will get you there in as little time as possible, and
+what is your unfair advantage for who you should be targeting. But how do we actually get started? That brings
+us to step four, which is to test before building. Now, what I used to do, which was a total mistake, was just
+ask my friends and family, "Hey, I'm thinking about doing this idea for a business. What do you think?" And
+almost always, you'd be like, "Oh, yeah, that sounds like a good idea." Or, "Yeah, I would pay for that." But
+when it comes to actually shelling out money, when you ask for it, they always say no and just kick the can
+down the road, which is a problem. You need an idea that people are willing to pay for immediately. And
+working with friends's family is always a problem cuz they'll just tell you what you want to hear. It's like
+when you go out to eat with like friends or colleagues and you have something in your teeth and they just want
+to be nice and they don't even tell you about it. It's because instead of telling you the truth, they're just
+appealing to you so that you continue to like them, which is a real conflict of interest when you're trying to
+build something that's actually effective as a business. So, the way to combat this is we're going to do
+what's called the Wizard of Oz test. If you've ever seen this movie, and this is the original one, but I know
+they have some new ones out with like Ariana Grande. You have the Wizard of Oz here, which is this big figure
+that people would go up to talk to, but it was discovered that he wasn't actually this big green figure. He
+was just some guy sitting behind some curtains with a machine who gave off the appearance of being this big
+scary figure that everyone believed in. So how does this apply to building a business? Well, the same thing
+works with doing testing. There's actually something called Wizard of Oz testing. So with this example, which
+is from IBM in 1984, they have a user over here who is talking to a computer and it's called a speech computer
+who's supposed to respond to your words. From the user's perspective, they would speak to this mic and then
+they would see a response on the screen and they would believe that the computer is actually responding. And
+if they figure out that this is something that's so amazing and it's something that they would actually pay
+for, now that validates the idea, but in reality, it's just somebody on the other side of the wall who's just
+responding to the voice that they hear. And this is great for a business because you can validate the idea
+without spending all the time of building up an actual working speech computer. And once the idea is validated
+and they know that this is effective to build as a business, they can then collect money and then actually
+invest the time to build out something that really works. The way that you can effectively do this is by
+promoting your service that you're planning on offering. And instead of building out a whole plan for
+executing the service, you just see if people would even pay for it. And the easiest way is to just build out
+a Stripe link where you can put in a subscription fee. Then when you reach out and find people that are
+interested, you hop on a call and talk about what you can provide them. If it's something that they actually
+need and are willing to pay for, then congrats, you've made a sale. So, you've sold the service without
+building up anything in the back end yet. Then you can just create an item in Stripe and send them this link
+to collect the payment. And that is the validation that you need. Now, there's other ways to do this as well.
+This is just the simplest way that I've actually used for myself when I first started. Another strategy here,
+like if you're making content, is that you can send them to a landing page about your program and have a
+simple video sales letter on the page explaining what your program will be about. All of this without actually
+building up the program yet. And then in the top, you have a way for them to apply to the program. So, you're
+collecting interest and can even make a sale before you build out the full program. And there's multiple
+examples of this working. So, there's this one here that helps you land a DevOps job. There's this one here
+that helps you create a YouTube channel that makes money with the same thing, a video sales letter and an
+apply now button. And again, one more time, helping you build out traffic funnels to get more revenue with a
+video sales letter. And then this one is a funnel audit, which will just be a sales call. You can use basic
+website builders to create this. Or if you want to go down the building it yourself route, then Google does
+have a tool called anti-gravity that's similar to Claude Code and lets you just kind of vibe code up this
+landing page. Now, I know it can be stressful to try to sell something that you haven't fully built out yet.
+This is definitely something to work on. and it took me a while to work on as well, but it's really important
+to get that validation up front and have the confidence that you can deliver on the back end, which if you're
+delegating to AI, then you can use Gemini and Gemini Spark agents to do a lot of the heavy lifting for you of
+the actual delivery. But worse comes to worse, if you can't deliver, then you can always do a money back
+guarantee and tell them that if you don't deliver, either one, you'll give their money back in full, or two,
+you'll continue working with them until they get the result. So, those are just two ways that you can mitigate
+the risk on their end. So, now you're prepared and understand exactly what you should be selling and how to go
+about the process. But what does this look like in terms of a timeline if we want to do this in 30 days? Well,
+I built out a road map here of exactly how to do this within 4 weeks. In week one, we really want to focus
+about what can we sell using our unfair advantage. So, that's using the freedom matrix skill and the three Rs
+of our unfair advantage. And at the end, we'll have a crystal clear idea of exactly what we should be selling
+and striving for and who we can target. Throughout week two, what we want to focus on is outreach and finding
+who is interested. Now that we know what we're selling and who we're going to sell it to, we need to look
+through our network and outreach to people that we're already connected to. You could do this on LinkedIn or
+you can go through your phone contacts or your email contacts. Or with LinkedIn, you could even do cold
+outreach by finding people who are second connections or third connections and reaching out and saying, "Hey,
+I see that you're connected to this person. So am I." And just starting a conversation that way. And slowly
+working to, "Hey, I saw that you're working in this industry. I used to work in it as well. One of the
+problems I saw was this. Is that something that you're dealing with right now?" And then eventually you can
+get them onto a call, which brings us to the third week here, which is now focusing on selling a test offer on
+the call. Once you get them on a call, you can spend a lot of the time understanding the pains that they are
+dealing with. And then tell them about your experience and how you can go about solving their problem. And
+then if you're a little nervous about selling without having the full system built out yet, you can use some
+of the risk mitigation techniques like a money back guarantee or work with you until it's complete. And then
+lastly, throughout week four, we want to focus on repeating it until our first deal is closed. So constantly
+doing outreach, constantly hopping onto calls. And if you're doing this every single day, then you'll get
+better at the process, better at the skill of outreach and sales calls, and eventually you will land your
+first client. So now you have the full road map on building a oneperson business using Gemini AI in the next
+30 [music] days. Now 30 days is definitely possible, but it is a difficult thing to accomplish. So don't be
+too hard on yourself if it takes a little longer. Now, if you want a little bit extra guidance, I want to help
+you out by providing a completely free Gemini skill, I partnered with one of the top AI creators in the space
+[music] and one of my good friends, Patrick Deng, to build out an exclusive Gemini skill for you guys on my
+channel. This will go into even further depth with an overview of your business model, the positioning of your
+idea, how validated it is in the market, exactly how you should go about charging for this idea, and what it
+looks like to do this for the next 60 days, so expanding it from our 30 days [music] to a little bit longer of
+a time horizon. If you want this skill, then you can download it totally for free with the link in the
+description below. Or if you want to continue learning on building out the systems needed to create a second
+income with Gemini AI, then you can go ahead and watch one of the most recent videos that I posted about this
+exact topic right here.

@@ -1,0 +1,39 @@
+Title: How To Load Trained RVC Models & Resume Training
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: DBtvXcPYcXU
+URL: https://www.youtube.com/watch?v=DBtvXcPYcXU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:40:01+00:00
+
+Kind: captions Language: en In this video, we continue our tutorials on voice cloning using RVC on Google
+Collab. In the previous video, we installed the RVC program, trained a model for 300 epics, saved the model to
+Google Drive, and tested it by performing voice replacement. In this video, we'll load the model we previously
+trained and saved on Google Drive, and continue training the model up to 400 epics, which will further improve
+its quality. Use the loaded model for voice replacement. To avoid repeating previous steps, this tutorial
+assumes you've already installed RVC on Google Collab, exactly as shown in the last video. If you're watching
+on a mobile phone and want a step-by-step mobile tutorial, make sure to like this video and subscribe to my
+channel so you don't miss the upcoming tutorials on mobile phone. Also, make sure to join my other channels on
+WhatsApp and Telegram to get exclusive tutorials and updates for mobile phones before publishing it on
+YouTube. You will find the links in the description. Now, let's go to the section for loading a model from
+Google Drive. Make sure you're using the same Gmail account that you used to save the model earlier. Here,
+I'll type the name of the model we trained in the previous video. Then, I'll run the step. Google Collab will
+first start the process of connecting to Google Drive. After that, the model will be loaded from Google Drive
+into Google Collab. Once the process is complete, you'll see a check mark next to the step confirming success.
+Now the model is ready either to continue training or to be used for voice conversion. In this tutorial, I'll
+continue training the model up to 400 epics. Previously, we stopped at 300 epics. We'll go directly to step
+three in the model training section. Here, I'll enter the model name Baja AI. Then I'll set the number of
+epics to 400. After that I'll run the step. The training process will start. We should see the training begin
+from epic 3001 continuing up to epic 400. As you can see, the epic counter has started from 301 and will
+finish at 400. Once training is complete, you'll see a confirmation message and a check mark next to the step.
+Now we'll save the model again to Google Drive after increasing its training. In the model saving section,
+I'll enter the model name, then run the step. Since Google Drive was already connected earlier when we loaded
+the model, the saving process will start immediately. Once saving is complete, you'll see a check mark next to
+the step. Now, let's test the model. Go to the RVC inference section. Run step one to upload a new target
+audio file. >> We are now testing the RVC model after it is loaded to Google Collab. >> Next, in step two,
+enter the model name. Then adjust the pitch settings based on the target voice exactly as we did in the
+previous video. After that, run the step Once the process is finished, run this step to preview the result. We
+are now testing the RVC model after it is loaded to Google Collab. We are now testing the RVC model after it
+is loaded to Google Collab. I hope this video was useful and clear for you. If you face any issues, feel free
+to write them in the comments. Thanks for watching.

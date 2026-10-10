@@ -1,0 +1,298 @@
+Title: 5 Gemini AI Side Hustles That Pay a Full Time Income (Ranked List)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: _doqDIYZaM8
+URL: https://www.youtube.com/watch?v=_doqDIYZaM8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T13:10:34+00:00
+
+Kind: captions Language: en Google just poured 90-billion dollars into AI infrastructure this year alone. And
+as a result, their flagship AI Gemini is quietly becoming one of the most powerful money-making tools. Because
+less than 1% of people have actually figured out how to use it to make money. Now, if you've tried using AI in
+the past to make extra income and it went nowhere, I don't blame you. That's not on you. That's on these Chat
+GPT-style tools that were never actually built to run a business, just answering questions. I've spent over a
+thousand hours building up real businesses using these [music] tools as an AI engineer at a multi-billion
+dollar digital media company. And I'll be honest, when Gemini first started blowing up, I was a little
+skeptical, too. I figured it was just another chatbot with a new coat of paint. That all changed the day I saw
+one of the teams I work with go from spending five hours per week on manual onboarding processes to under 60
+seconds with a single AI agent. That's when it clicked for me. This wasn't just hype. It was leverage. So, in
+this video, I'm going to rank the five Gemini AI side hustles that you can start this weekend that can
+actually replace a full-time income. I'll lay it out from weakest to strongest, scoring each one on how
+beginner-friendly it is, how fast you can make your first income, and how far it can actually grow. Now, I'm
+not just telling you that it can work for other people. I've personally used these exact strategies to build
+an $8,000 per month agency on the side while clocking into my 9-to-5 IT job every day. That was [music] just a
+few extra hours per week guiding AI from my laptop, even running it poolside on vacation in Cancun with my
+girlfriend. That was paid for entirely by AI. So, while most people are stuck manually doing the work that
+Gemini could be doing for them or wasting weekends watching vibe coding tutorials that don't actually put
+money in their pockets, the ones who are winning right now are quietly automating their income piece by piece
+and letting it run while they sleep. So, let's start at number five and work our way up to the side hustle
+that's paying people more than their full-time job. I've outlined the top five side hustles here, and we're
+going to go through in reverse order, starting with number five, which is vibe coding an app. You're probably
+familiar with AI coding assistants like Claude Code, but you may not know that Google has their own AI coding
+assistant called antigravity, where they have a command line interface that you can use to help you write
+code. This makes it easier than ever for anybody to be able to code apps or websites. But, have you noticed
+that every website seems to look the same these days? Take these four for example. All of them are built by AI
+and are structured the exact same way, modeling the design off of modern SaaS websites. There is a large
+header up top here with a smaller subheader down here, two call to action buttons, even some smaller text up
+top above the main header, and a navigation bar. And this is the same for every single site here. Again, it
+has all those elements. Same with down here, all those elements, and even with this one, the exact same
+pieces. Now, why is this the case that all the websites look the same? Well, this is a phenomenon that people
+are calling AI slop. You've probably heard of it before. AI slop is when there's low-quality, mass-produced
+digital content that was created through AI that lacks meaningful effort, human curation, or genuine intent.
+Just because anybody can code a website and do it easily and quickly doesn't mean that it will actually be
+good. I have a Chrome extension installed that lets us see how much web traffic that they're actually getting.
+And we can see this one here actually doesn't even get enough traffic for it to register. Well, this one over
+here gets some traffic, not a ton, but some traffic. Still a very small amount when you compare it to a very
+legitimate website like our Google antigravity website. This one gets millions of visits per month. So, if
+it's so easy to build out these websites, why is it so hard to get people to actually use them? This goes back
+to the old quote from the baseball movie Field of Dreams, but it's commonly used today all over in tech, which
+is if you build it, they will come. Basically meaning people think that if you build something that's useful,
+people will come and use it. I can tell you from personal experience, this is the farthest thing from the
+truth. Distribution is the hardest part, and this mindset is completely backwards. I've wasted probably over 6
+months trying to vibe code different apps. The first one here being called Crossfeed, that was supposed to
+connect your feeds across different social medias like Spotify and YouTube. And I was going to add in
+Instagram as well. But, I just built it and didn't check if anybody actually wanted it. As a result, zero
+users. Then I went to the next idea. Okay, what if I can use AI to help generate meals for you based on
+different preferences that you have. So, like what ingredients you like, what cuisines you like, what
+allergies, what food diets. And this one was really cool to build, and it came out much better than the one
+beforehand, but the same thing occurred. I didn't have anybody that actually wanted to use it, and as a
+result, the same thing, zero users and zero dollars. And lastly, I took inspiration from my last IT job as a
+cloud engineer and built out a web app that was supposed to make building infrastructure with code easier to
+do. Went through months of building this out with all these cool features using AI, but the same thing
+happened, zero dollars and zero users. What I realized is this, you need to ask the question here, do I know
+someone who would be so excited by this that they would buy right now? If the answer to this is no, then don't
+build it. Or you'll end up with zero dollars and zero people that want to use it, and just a headache like I
+did because I was never able to answer this question with yes. So, let's get to the actual scoring. First off,
+on the beginner-friendly scale, we're going to say that this is weak. While anybody can code with vibe coding,
+it still uses code and it's a bit technical. And to some extent, you still need to understand how code
+actually works and how to host a website. Next on the list is going to be speed to first income. This is also
+extremely weak. It's very hard to land your first customer on a software app or a SaaS, which is why all these
+Y Combinator and VC-backed companies get these huge investments to come in to fund them building while they
+don't have any customers. And lastly, on the ability to grow, we're going to do this as moderate. Because when
+you do find something that works, it doesn't take a ton more effort to add in more people and have that scale.
+But still, to reach the top level of SaaS companies, it usually takes some form of outside investor money. So,
+if we add these all up with weak being a score of one, moderate being a score of two, and strong be a score of
+three, that gives us a total score of four out of nine. Now, before we get into number two, no matter which
+one of these five side hustles that you choose to do, you're going to run into certain bottlenecks that you'll
+face if you want to grow the side hustle into what can become an online business. The first thing I want to do
+is show you a Gemini skill that will help you accomplish this. I partnered with one of the top AI creators in
+the space to create this exclusive Gemini skill for you. Using the link in the description, you can download
+the Gemini version for free along with his Claude version of the same skill. Once you have the skill
+installed, all you have to do is switch over to Gemini Spark. Then you can go into the skill section here and
+upload it using this button. That will create this Go Business Playbook Gemini skill. You'll know this works
+when you go into a normal Gemini Spark chat and do {slash} Go Business Playbook Gemini and click Go. The skill
+is then programmed to ask you a few questions about your skills, your knowledge, your experience. It'll then
+help you find what you love, what you're good at, what the world needs, and what you can actually get paid to
+do. It then aligns it and puts it all together to come up with a business idea that you can then realistically
+sell. So, I just filled this out based on my previous engineering and automation experience in the past. And
+the coolest part is the very end where it comes up with an interactive HTML playbook, which will be downloaded
+for you and then you can just open up in the browser. So, it helped me find my perfect niche here of patient
+onboarding based on the things that I already love doing like automation, some of my past experience as an
+engineer, things that the world currently needs, and what my situation and goal outcome actually is. One of my
+favorite parts is that it gives me lines that I could say verbatim in sales calls because with an engineering
+background, that is definitely something that I struggled with to start. It then helps me go through
+competitors to see that there is demand and what others are charging, and then helps me even come up with what
+I should be charging for myself. With a week-by-week playbook that I can use to go from zero to having this
+set up and landing my first client. So, go ahead, download this for free with the link in the description and
+try it out for yourself. If you want to take the opposite approach and focus on customers rather than building
+to start, then this next side hustle might be the one for you. This is the one that I was actually able to
+land my first client with, and that is freelancing on Upwork. When most people hear the words freelancing and
+hear Upwork, they think that it's saturated and that it's a race to the bottom. And I don't blame them. I
+thought the same thing to to begin with. I was going through a couple of different job postings yesterday and
+here's some of the ones that I found. This one's asking people to build AI agents and their budget is $5. This
+one here is looking for an automation expert, but their budget is $12. Again, another automation expert with
+AI, this one's $10, AI agents $20, CRM automation expert or specialist $5 budget. As you scroll through,
+you'll see that there's a ton of super low budget projects out there. Then how is it the case that some people
+here like Mustafa and Jason are able to pull in multiple hundred thousand dollars? So, 800,000, 200,000,
+700,000, 100,000. Somehow they're finding a way to navigate around all these low budgets and pull in some real
+cash. For able to understand how they do this, we need to understand how Upwork works and a framework here
+called the five levels of awareness. If you've watched any of my other videos, I've talked about this multiple
+times before. When it comes to potential customers, there are five different levels of awareness that you need
+to navigate. The bottom one here is that they're completely unaware that they even have a problem to begin
+with, which is the toughest to land cuz you need to convince them that they actually have a problem. Then
+there's the people who already do know that they have a problem, but they don't know what solutions are out
+there to solve it. This is a little better, but you still need to show them that there are ways to solve this
+problem. Then there are solution aware people. They know they have a problem and they know that there is a
+solution out there. But you still need to convince them that your product is the one that can solve this. Then
+you have product aware of people who know about your product, and this is where it starts getting a little bit
+easier. And then lastly, we have the most aware people who just need one final push to pull a trigger and pay
+you cash. The problem with so many other side hustles is that they land in these bottom categories, where you
+have to convince them that they even have a problem and that there's a solution out there and that you can
+solve the problem before anything can even happen. The great part about Upwork is that it focuses on these top
+two layers. People already know that they have a problem, which is why they're on Upwork to begin with. They
+know what a solution is cuz they're doing a posting about it saying that they want the solution, and they're
+just looking for someone who could show them that they're the person who can solve their problems and build
+out their solution. Some of the times they even see your profile on there and you get inbound requests,
+meaning that they are this most aware type of people. They want you to solve their problem and you just need
+to talk to them to close the deal. Once I figured that out, that's how I was able to make over $3,000 on the
+platform with a 100% job success rate, top-rated score, and a five-star rating. I found that it ended up being
+a pretty simple formula where Gemini helped me craft up the perfect response that I could send to people.
+Where I just give Gemini a couple of my background experiences, the projects I've worked on, and I give it
+this exact project that I'm applying for. Then it plugs in my experience that's most relevant and gives me a
+response like this. I also found that providing a really quick 60-second video here like this one helped to
+build a lot more trust and get people to actually want to work with me a lot more. When it comes to the
+delivery of the service, Gemini helped me a ton with this because a lot of the people I was working with were
+looking for AI solutions that involve this platform called N8N. How it works is that you write these nodes
+here that do certain actions. And I would tell Gemini what I'm looking for and it would give me the code for
+these nodes that I would just go into the platform here and just paste it in. But if you're not looking to
+anything with code or AI, you can even do something like copywriting. There's a ton of jobs here that are
+asking for copywriters which, if you're good at doing, you can create a skill in Gemini to have it write you
+good copy. Now, let's go up to the scorecard and let's start with beginner-friendly. And this is very strong
+cuz anybody can go onto the platform, create an account, find jobs that are asking for the skills that you
+already have and just apply to them. Now, we can move on to the next one which is speed to first income and
+this is also very strong. You don't have to worry about sales at all or going out and finding customers.
+They're already right in front of you so you just need to apply, convince them that you're the person that can
+do what they need, and then all of a sudden you get money in your pockets. And lastly, this is the ability to
+grow and we're going to say moderate Because it's easier to get better at it and land more customers, but once
+you get to the higher end, it's really hard to scale this to a high level without having other people working
+under you. So, the total score for Upper here is going to be eight out of nine. Pretty good. So, that's a
+great option to land your first client. But, what if we want to turn landing clients into the service you're
+doing for other people? And that's when we get into lead generation as a service. What's one thing that every
+company wants? More customers, right? Pretty obvious. I recently read about a survey here of over 7,500 small
+business owners, and it found out that 85% of them are relying on word-of-mouth referrals. So, they're just
+getting by with referrals and word-of-mouth, and don't have an actual way to go out and find new customers,
+which is a dangerous proposition to have when you're a business. And the reason they don't go out and find new
+customers is one, they either don't know how, or two, they don't have the time, which is where you come in.
+There's multiple different levels to finding out a business's potential market. And I'm not going to go
+through all of them here, but what I will say is that most people are focusing right at the top here of the
+serviceable market. These are the people right in front of them that they can actually obtain and serve for
+their business. And what you can do is find the total addressable market. This is everybody that their
+business can serve. So, not just what's right above the water, but the entire iceberg underneath, which
+expands the pool that the company can reach out to drastically. Once you have this entire market that you're
+looking at, you want to be able to chop it up into different segments here. And there's a couple different
+ways you can do this. There's geography, so you could say if they're based in NYC, then that is a specific
+group of people. There are specific demographics, so maybe you want to say only people that are aged 30-plus.
+There's psychographics, so what people have to do is specific hobbies. Maybe people that are really into, I
+don't know, surfing for example is what you're targeting. And then there's behavioral of what people actually
+do. So maybe they make a purchase on a website. The reason segmentation is so important is because now you can
+target each one in a very different way using specific wording that would resonate with that exact group of
+people. So for example, let's say you want to target someone who is both of these segments here. Imagine they
+receive a message that says, "Hey, this is for people that are aged 30 and over based in the New York City
+area." They'd be much more likely to respond to something like that than they would to a generic message of
+"Hey, I have a service that you would be interested in." Because it's calling out their exact demographics
+here. Now, I know people want this because I did this for another company. This company here called Maxwell
+Social, which is a really cool event venue based in New York City. They were trying to do cold calling, but
+they didn't have a good list of people to reach out to. So I mapped an entire total addressable market and
+found over 100,000 people that fit within their market that would be considered qualified. Then we chopped
+that up into different segments saying, "Okay, these are different companies that are New York City based.
+These are ones that are signal based meaning that they just hired somebody that has a vent in their title. And
+okay, maybe these are finance companies." Then from here, there's very specific scripts that you can write up
+to target those kinds of people. And they're doing this now to land over five-figure deals. Gemini can also do
+this as well. I created a skill here in Gemini Spark that goes and finds different prospects. You can watch
+the full video on where we build this in a Gemini Spark tutorial with the link in the description. When it
+does this, it adds them to a prospect tracker. And you can see in here it found different companies to reach
+out to. It found the websites. It found the specific contacts to talk to. It says which niche they fall into,
+the exact location, the tier that they are. So maybe tier one is people that fit better into what I'm looking
+for as opposed to tier two, why that they're a good fit, and then a way that I'm able to help them with my
+service. And you You take this one step further and use this information to help craft up some personalized
+messages that you can send via email, which Gemini can then create and draft an email for you. So, you can see
+how this all kind of ties together and why Gemini is great for finding people to reach out to. So, up to the
+scorecard we go and for beginner-friendly we're going to say that this is moderate. There's a bit of a
+learning curve to learning how to find good leads that would actually be a good fit for the company, not
+running out of them, as well as knowing how to write some good copy for a message that they would respond to.
+But, that being said, it's not too hard a barrier and anybody could jump into it. Off to criteria number two,
+speed to first income, we're going to say moderate as well. This service is very easy to promote because
+everybody wants more customers. But, because of that there's a lot of competition of other people trying to do
+this. Plus, it usually helps to have some level of experience to show that you have a track record and get
+them to trust you to get them more leads. Lastly, we're going to go into the last criteria, which is the
+ability to grow. And this is strong. If you build out a reliable system that actually works to get people more
+leads, it's very easy to roll this out to multiple different clients and to scale it up. Plus, if it works and
+people are going to want new leads every month, so it's very easy to get them onto a retainer contract to
+where you're helping them every single month get them new leads. So, combined the total score here is going to
+be seven out of nine. So, what we just talked about with lead generation is considered outbound lead
+generation, so going out and finding new people for a business. But, what about the opposite of helping to
+bring people into a business? That is what's called inbound lead generation, and the way that you can help
+people with this is by becoming a content manager. Just go on LinkedIn for a short period of time and scroll a
+little bit and you'll probably find dozens of infographics like this, if your feed is anything like mine. This
+guy, Chris Donnelly here, built an entire business off of inbound lead generation through these infographics.
+We can just scroll through his profile here real quick, and he runs a search engine optimization or GEO now
+with AI company. And all of his posts, or most of them here, are different infographics and charts and graphs.
+And this is how he gets and brings in new customers. They come in through inbound leads through his LinkedIn
+content. Now, you think he's the one that's actually creating all of these posts? No, he has a team of content
+managers that do this for him. At this point, there are dozens of different image generation models out there.
+But, some of the popular ones are Grok, which is tied into the X or Twitter company, GPT, which is from
+OpenAI, there's Midjourney, and then there's Nano Banana. All of them are pretty good, and all of them can
+generate these infographics. My personal favorite one is Nano Banana here, which actually is tied into the
+Google suite, and you can use it within Gemini. I actually had done this for myself here. I was using Nano
+Banana to generate these LinkedIn images here. This one is like an iceberg of what's involved with an AI
+stack. This one here is how to build an AI marketplace. And this one here is also how to build an AI
+marketplace, but in more of like a code layout. And the thing is, there's people that like and comment on
+these posts that I then reach out to, and then I start a conversation in the DMs. And I've actually had people
+book strategy calls with me to talk about services from these posts. So, what's stopping you from being the
+person that can do this? It's actually super simple to do. In my last video of building a business with AI,
+which I'll link in the description, I go over this example here of creating an infographic. And you can see if
+you click the plus sign here, there is create an image, which is just enabling Nano Banana in this chat. So,
+when I give it a topic, it's using a custom gem that I created. If you don't know what that is, watch the
+other video. But, there's a gem over here that includes LinkedIn and all of the prompts that I use for every
+single image here. But, from the topic, it uses Nano Banana to generate an image, which is an infographic that
+I can then post on LinkedIn and write about. So, the scoring for this, we're going to say on
+beginner-friendly, it is moderate. There is some strategy into knowing what is considered good content and a
+good infographic that would actually bring in good leads. But, as you saw, it's really not that hard to
+actually generate the images, so the learning curve is not crazy. Next, we're going to go into speed to first
+income, and this is also moderate. It's the same thing as the other lead generation service where there's a
+lot of people that are offering this, and you want to be able to stand out compared to the others. Which
+usually helps have some kind of experience, but luckily with this, you can actually create content for
+yourself, and that can be your first round of experience. And then finally, it's ability to grow, and this is
+also strong. Because once you know how to create good content and you have systems in place, you can work with
+multiple different clients and use these AI models to scale out your image generation and delivery. So, total
+score at the end is going to be seven out of nine. We just talked about creating content for others, but if
+you're not afraid to get in front of the camera for yourself, that's where this last one comes in, which is an
+AI content creator. I'm actually friends with a bunch of people that are doing this exact thing. You could see
+Patrick Dang here is teaching people how to scale a one-person business with AI. We have Sandy Lee AI who's
+teaching people how to create content using AI. And then we have Megan Lou on LinkedIn, which teaches people
+about data science, but also mixes AI into there. Once you go down this content creation route, there are
+multiple different ways that you can monetize your content. The obvious one on platform is just ad revenue as
+you post content and they put ads onto your videos. There's also other forms like setting up Patreons or some
+kind of subscriptions for exclusive content that you can create. Then there's working with brands, which is
+actually a pretty big one. You can get affiliate revenue, which is just a percent of sales that come from your
+content. And then there's actual channel sponsorships and sponsored content of brands who will pay you to
+shout out their product within your videos. Of course, you can sell merchandise as well, like your own clothes
+and ebooks and online courses that have your logo or your brand with it. And then there's also ways that you
+can like crowd fund from your content. And some of the people I've talked to, I know are making a lot of money
+doing this, thousands of dollars and even tens of thousands of dollars through these techniques and even
+building seven-figure businesses. It may seem pretty awesome to do this, but it is harder than it seems. You
+need to know how to find the best topics for a specific niche that are in demand. You need to know how to
+package them well to be able to catch attention over others. And how can you present it in an engaging way
+that people actually understand? And that's just three of the skills. I mean, there's plenty of others as well
+of how to build out back-end monetization funnels, for example. But it's definitely a progress and a timeline
+of going from first starting and making bad content to knowing how to make good content. I mean, you can look
+no further than my channel itself. When I first started here, I was kind of all over the place and some of
+them were getting a couple thousand views, but most of them were getting, you know, 300 views, 400 views. This
+one here is a less than 150 views. And a lot of them were like this. But just a couple months later, now I'm
+able to put out content that people enjoy and people resonate with and I'm getting typically over 20,000 views
+per video now. This one here even got 70,000 views, which is crazy. And while I'm making content about AI, I'm
+also using AI to help me create the content. I have a couple skills here through Gemini Spark that I use to
+help me build out YouTube hooks and the flow of my videos so that it naturally progresses through the points
+that I want to talk about. And with these built out beforehand in the right way, I'm ready to go on camera to
+be the most engaged as possible and make it an entertaining and educational video for you guys who are
+watching. So, let's go up to the scorecard here and for beginner-friendly, we're going to say very strong.
+Anybody with a phone can start creating content. That's how I did it for months. I was just recording the
+videos on my phone. And while it won't be amazing to start, anybody can really start with it and grow from
+there. When it comes to speed to first income, this is actually going to be kind of weak. When your content's
+not great to start off with, nobody's going to want to sponsor you and you're not going to make any money from
+affiliates. So, it takes a while to get good at content, but once you do get it rolling, the opportunities
+start flowing in in abundance. And lastly here, we have the ability to grow, which is strong. Because once you
+know how to make something that's good, you can build systems around it. You can start outsourcing different
+parts of the content creation process. And now you have an entire system and a flywheel of content creation
+that you know is proven to work and brings you in revenue. So, the total score for content creator is going to
+be seven out of nine. If we tally them all up and put them side by side, we'll see that the winner here is
+Upwork with a score of eight out of nine. And the loser being Vibe Coding and app. And the rest here sitting
+at the same score in the middle. So, for a beginner looking to make their first income using AI, my number one
+recommendation and the method that I actually took for myself when trying to make my first income using AI, is
+to create an Upwork profile and do some freelancing. But I totally recommend trying out a couple of these,
+seeing which one you're having a little bit better progress with, and then go all in on that and get really
+good at it, and then you can scale it up. Hopefully with these five options, you're able to choose one of them
+that you think you could be successful with to build out a side hustle using Gemini AI. I know that they're
+proven to have worked for me and are in demand by companies that I've worked with before. And once you do get
+one working, it really is a life-changing experience, not just from the money side, but also for confidence
+that you're able to get something working on your own. Now, just landing your first customer is great, but
+there are other bottlenecks and problems that you face when trying to grow this out and scale to another
+level. Now, if you want a little bit extra guidance, I want to help you out by providing a completely free
+Gemini skill. I partnered with one of the top AI creators in the space [music] and one of my good friends,
+Patrick Dang, to build out an exclusive Gemini skill for you guys on my channel. This will go into even
+further depth with an overview of your business model, the positioning of your idea, how validated it is in
+the market, exactly how you should go about charging for this idea, and what it looks like to do this for the
+next 60 [music] days. If you want this skill, then you can download it totally for free with a link in the
+description below. The second option is that you can watch the video right here on how to build a second
+income with Gemini AI.
