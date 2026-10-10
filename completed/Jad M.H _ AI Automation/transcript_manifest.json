@@ -2773,5 +2773,20 @@
     "discovered_at": "2026-10-09T19:05:36+00:00",
     "last_discovered_at": "2026-10-09T19:05:36+00:00",
     "updated_at": "2026-10-09T21:13:59+00:00"
+  },
+  "j8YDz-VC-AM": {
+    "video_id": "j8YDz-VC-AM",
+    "type": "VIDEO",
+    "title": "Claude Opus 5.5 Is INSANE at Video Editing 0$ (Turned it into a skill)",
+    "url": "https://www.youtube.com/watch?v=j8YDz-VC-AM",
+    "channel": "Jad M.H  | AI Automation",
+    "status": "SAVED",
+    "source": "YouTube automatic captions",
+    "language": "en-orig",
+    "filename": "VIDEO - Claude Opus 5.5 Is INSANE at Video Editing 0$ (Turned it into a skill) [j8YDz-VC-AM].txt",
+    "message": "Transcript saved",
+    "discovered_at": "2026-10-10T21:48:31+00:00",
+    "last_discovered_at": "2026-10-10T21:48:31+00:00",
+    "updated_at": "2026-10-10T21:49:01+00:00"
   }
 }

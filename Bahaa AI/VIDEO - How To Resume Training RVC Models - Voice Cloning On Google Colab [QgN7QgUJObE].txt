@@ -1,0 +1,49 @@
+Title: How To Resume Training RVC Models - Voice Cloning On Google Colab
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: QgN7QgUJObE
+URL: https://www.youtube.com/watch?v=QgN7QgUJObE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:49:48+00:00
+
+Kind: captions Language: en hello everyone this is not Wayne Johnson this is a clone voice created using the
+RVC program in this tutorial you will learn how to resume training an RVC model you will also get my voice
+model to use as you wish thank you Dwayne I'll take it from here resuming training means training the model
+for more epics starting from the last epic it was trained on the main goal of this process is to improve the
+quality and efficiency of the voice cloning model open your web browser and make sure you're logged in with
+your Gmail account then open the Google collab project l Link in video description run the main step you will
+see this message click run anyway the step will start running once the main step is completed you will see a
+small check mark next to the step now we have installed the program in the next step we will load the model we
+want to resume its training in this tutorial I assume you are already familiar with how to train a model and
+save it on Google Drive as I explained earlier we will go to the section for loading the model from Google
+Drive in this tutorial I will be resuming the training of a model named Dwayne it's a voice model of the actor
+Dwayne Johnson that I created myself I will share with you so you can use it too in this field I will write
+the model name Dwayne it should be written exactly the same now I will copy the model link that I previously s
+saved on Google Drive of course the model link access must be anyone with the link right click on the model
+file select share then copy link next I will return to Google collab and paste the link here then run the step
+the code will load all the model files into the RVC program once the step is completed a small check mark will
+appear next to the step now we have the model in the program and we can continue training it this model was
+last trained up to 600 epics in this tutorial we will train it for an additional 100 epics so in the end the
+training will reach 700 epics go to the section for training the model in this tutorial I will add audio files
+to train the model further on pronunciation and sounds run the first step you will see a choose files button
+click on it and upload the new audio file after the upload is complete a small check mark will appear next to
+the step next is the step for preparing the training files here I will write the exact same model main Co then
+I will run the step once the step is completed a small check mark will appear next to the step note if you
+want to continue training the model without adding new audio files do not do anything in the first and second
+steps of the model training and just perform the third step as I will explain now next is the third step in
+training here we will write the same model main Dain and here we will set the number of eics as we said
+earlier this model was trained up to 600 epics and we will train it for an additional 100 so we'll set the
+number of epics to 700 then I will run the step the program will start preparing for the training process when
+the training begins you will notice that it starts from 6:01 so we are resuming the training now at this stage
+we will wait until the training is fully completed once the training is complete you will see a small check
+mark next to the step and you will find that the training has reached 700 epics next is the most important
+step saving the M on Google Drive to preserve the progress we have made we will go to the section for saving
+the model here we will write the same model main twne then we will run the step this window will appear to
+link Google collab to Google Drive after linking the code will start saving the model on your Google Drive of
+course the save will be in the RVC packages folder as we learned before if there is a model with the same name
+on Google Drive it will be replaced with the new model once the save is complete a small check mark will
+appear next to the step now we have completed training the model improved its quality and saved it on Google
+Drive you can now use the model in the same way I explained before I don't want to prolong the video
+unnecessarily don't forget to disconnect from Google collab after finishing thank you for watching and if you
+encounter any problems write to me in the comments

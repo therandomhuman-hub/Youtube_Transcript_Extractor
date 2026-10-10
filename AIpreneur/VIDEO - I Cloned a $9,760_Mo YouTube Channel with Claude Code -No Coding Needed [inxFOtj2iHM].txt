@@ -1,0 +1,203 @@
+Title: I Cloned a $9,760/Mo YouTube Channel with Claude Code -No Coding Needed
+Channel: AIpreneur
+Type: VIDEO
+Video ID: inxFOtj2iHM
+URL: https://www.youtube.com/watch?v=inxFOtj2iHM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:08:29+00:00
+
+Kind: captions Language: en Most beginners spend months trying to build a faceless YouTube channel and still
+don't know what niche to pick, what script to write, or how to make their videos look professional. Meanwhile,
+there are faceless channels quietly making over $10,000 a month with simple systems already running on
+autopilot. So, I didn't start from zero. I took one viral faceless channel, studied the system behind it, and
+cloned the entire workflow using Claude code. No camera, no editing skills, no expensive setup. Just one
+master prompt built around 12 stages >> [music] >> that does everything from picking the niche to writing the
+full script and generating the visual production plan. And then I connected it to free Google tool almost
+nobody is talking about yet. A tool that creates your images, videos, [music] voiceovers, and the final edit
+all inside one single tab. While [music] everyone else is juggling five different AI subscriptions, I'm going
+to hand you the entire workflow today, completely [music] free. But fair warning, stage five is where most
+beginners destroy the whole system and accidentally turn a viral workflow [music] into another generic AI
+script. Watch closely because if you get this part wrong, you won't be cloning a winning channel. You'll just
+be creating another invisible one. Step one, channel selection. Well, first, you need to pick a channel that
+is already winning. Don't guess. Don't pick what you like. Instead, pick a channel where the money is already
+flowing. A channel that's pulling massive views with a faceless format you can replicate. Now, let me show you
+the exact channel I picked for this build. It is called Fern. It is a faceless 3D animation channel that is
+absolutely exploding right now with cinematic 3D visuals, deep dive storytelling, no face on camera, and the
+numbers are insane with millions of views per video and fast-growing audience with pulse high retention. So,
+how do do find channels like this? Here's the trick. Open YouTube, search for Fern, click on one of their
+videos. Now, look at the suggested videos on the right. YouTube starts feeding you more channels in the same
+lane. Cinematic 3D, faceless explainers, and documentary-style storytelling. Click one and look at how many
+videos on that channel are performing well. Look at the suggestions again and click the next one. In about 5
+minutes, you will have four or five winning channels all in the same niche, all printing views. This is the
+foundation. If you skip this step, the rest of the system won't save you. Pick winners only. Now, here is the
+part nobody talks about. Picking a winning channel is easy. Cloning its style without copying a single word,
+that is the hard part. And that's exactly where most beginners break the system in the next stage. Watch
+closely because what I'm about to show you is the difference between a channel that flops and a channel that
+prints money. Step two, the Claude code content engine. This is where we install the content engine. I'm going
+to walk you through this slowly, click by click, because this is the most important step in the whole system.
+Get this right and the rest builds itself. So, first thing's first, head over to your browser. Search for
+Claude desktop download. Click the first result. That will take you to the official Anthropic page. Now, you
+will see a few download buttons, Windows, Mac. Pick the one that matches your computer. I am on Windows, so
+I'm clicking download for Windows. If you are on a Mac, just grab the Mac version instead. Once it downloads,
+open the installer file and install it as if you would install any normal app, nothing complicated. Perfect.
+Now, open Claude. It is going to ask you to log in. If you don't have an account yet, just sign up. Once you
+are logged in, you will land on the main Claude interface. Now, look at the left side of the screen. You will
+see three small icons stacked on top of each other. The first one, the chat bubble, that is the regular Claude
+chatbot. We are not using that today. The second one is for co-work mode. Skip that one, too. The third icon,
+the one that looks like a code symbol, that is Claude code. We want that one. Click on it, all right? You are
+now inside Claude code. This is your new content factory. Now, before we do anything, you need to give Claude
+code a place to work, a folder on your computer where everything for this channel will live. So, here's what
+you do. Open your File Explorer. That's This PC on Windows or Finder on Mac. Navigate to your desktop or your
+Documents folder, wherever you like to keep your projects. Right click, click New Folder. Name it something
+simple. I named mine AI preneur fern clone. Hit enter. Done. That's your project folder. Now, go back to
+Claude code. At the bottom of the window, you'll see a button or option that says Open folder. Click it. A
+window pops up. Navigate to the folder you just created. Click on it once to select it. Then click Open or
+Select folder. Boom. Claude code is now connected to your project folder. Every script, every prompt, every
+file Claude generates from now on lives inside this folder. Nothing gets lost. Everything stays organized.
+Now, you're ready to load the engine, and here it is. Open Claude and paste this master prompt. The attached
+file you see on screen right now is directly in the message box. Just ask in the comments and I will send it
+to you. Don't type anything else. Just paste the entire prompt, every single line, from the very first word to
+the very last and hit send. Now, give it a few moments. Claude reads the entire prompt and reconfigures
+itself. When it's ready, you'll see a confirmation, something like "System loaded, ready to begin." Boom. The
+one-two state content engine is now running. Now, let me walk you through the first five states one by one
+because this is where your entire channel blueprint gets built. So, the first thing Claude asks is, "Send your
+next message when ready, and I'll begin with state one. That's state one. Just type the name of one of the
+winning channels you picked in step one. For me, I typed Fern. Hit send. After that, Claude moves to state
+two, and now it asks to share the channel name and screenshots of the channel, the profile picture, the banner
+across the top, and the about page. So, head back to YouTube, open Fern's channel, take screenshots of those
+three things, and drag them straight into Claude. Type "Screenshots attached." and hit send. In a few moments,
+Claude studies the branding silently and gives you a full branding brief, five channel name ideas, two channel
+description options, a logo prompt, and a banner prompt, all style matched to Fern. Save those. We'll use them
+later when we build the actual channel. Now, move on to state three. Hit next, and Claude asks for two or
+three full video transcripts from the channel. Don't write them yourself. Instead, here's the fast way. Head
+back to YouTube, open one of Fern's most viral videos, scroll down below the video, click more, then click
+show transcript. The full transcript appears on the right side. Click at the top of the transcript, hold
+shift, click at the bottom, copy everything. Paste it into Claude and hit send. Repeat that for two more viral
+videos. Aim for three transcripts. The more you give Claude, the better the script you get later. Perfect.
+Now, Claude moves to state four and asks, "Do you want me to generate video ideas, or do you already have a
+topic?" If you already know what video you want to make, type your topic. If you don't, just type "Generate
+ideas." Claude will throw out a list of viral video titles based on the niche. Pick the one that hits hardest
+and send it. And now we hit state five, the most important state in the whole system. Pay attention here,
+because this is where most beginners screw up. So, what does state five do? Claude analyzes those transcripts
+you uploaded and extracts what's called the style DNA. That means the niche, the audience, the hook style, the
+sentence rhythm, the tone, the curiosity gaps, the retention techniques, the words per second, the average
+word count, everything that makes the original channel sound the way it sounds. By the end of state five, you
+have already locked in your channel name options, your branding, your topic, and your full writing style all
+in about 15 minutes of work. Perfect. The engine is loaded, the style DNA is extracted, but here's the thing,
+none of this matters if the actual script doesn't deliver. And what Claude does in the next stage is going to
+surprise you. So, watch closely because this is where the machine actually starts producing. Step three,
+turning style DNA into a script. This is the moment everything you have built so far stops being theory and
+turns into a real finished YouTube script. Right now, every word you are about to read on screen wasn't
+written by a human. It was written by system that studied a winning channel and rebuilt its voice from
+scratch. And the first time you see this happen, it genuinely feels surreal. Now, we generate the script. So,
+in Claude code, type next and hit send. Claude moves into state six. And before it writes anything, it shows
+you the target word count based on the average word count of the transcripts you uploaded earlier. For me, the
+original videos averaged about 2,900 words. Now, Claude writes the full script, and this isn't a generic AI
+script. Every line is locked to the style DNA from state five. Same pacing, same hook style, and same rhythm.
+But, every single word is original. Nothing is copied. By the end of state six, you have a complete YouTube
+script ready to record. So, highlight the entire script, press control plus C, and paste it into a Google Doc.
+Save it. Trust me, you don't want to lose this. While you are there, scroll up in Claude and grab the title,
+too. Paste that at the top of your doc. Perfect. Script is safe. However, a script alone will not get you
+views. You need cinematic visuals that hit harder than the words. And that is exactly where the next stage
+takes us. Step four, visual production. All right, this is where the channel actually starts to look like a
+real channel. Up to this point, we have words on a page, but words don't get clicks, visuals do. And in the
+next few minutes, Claude is going to build you a full visual blueprint. The style, every single image, every
+single animation, completely locked to your script. Most beginners spend weeks trying to figure this out
+manually. You are about to do it in under 10 minutes. So, head back to Claude code and type next. Claude moves
+into state seven, and now it asks for three to five sample images from the channel. And listen carefully,
+these are not thumbnails. These are actual frames from inside the videos. Big difference. So, head back to
+YouTube, open one of Fern's videos, pause it on a clean shot, a moment where you can clearly see the visual
+style, and take a screenshot. Pause again on a different scene, screenshot. Do this three to five times across
+different videos. Don't grab random frames. Instead, pick frames that show the character clearly, the
+background style, and the overall vibe. The cleaner your screenshots, the better Claude's analysis will be.
+Now, drag those screenshots into Claude. Type images attached, hit send, and in a few moments, Claude studies
+them and creates what's called a visual style profile. The art style, the color palette, the lighting, the
+camera angles, the composition, the mood, everything that makes those videos look the way they look. This
+profile is locked in for every prompt that follows. That is how your channel ends up visually consistent,
+instead of looking like random AI images glued together. Now, type next again. In state eight, Claude takes
+your script and breaks it down into beats, small chunks of about three to five seconds each. So, for every 3
+to 5 seconds of voiceover, Claude generates one fully detailed image prompt. For my script, Claude gave me 265
+image prompts. That covers every single moment of the video. And here's the smart part. Each prompt is fully
+standalone. That means each one fully describes the scene on its own, the subject, the environment, the
+lighting, the mood, the camera angle, the action, and the visual style explicitly named. So, when you paste it
+into a generator later, the AI doesn't lose context. Just sit back and let Claude run. Now, copy them into
+your Google Doc with the script. Now, right next, hit send again to move on to state nine. Claude asks, "Do
+you want me to create video prompts for each image prompt?" Say yes. Claude takes those same 265 image prompts
+and converts each one into an animation prompt designed specifically for a video model like Veo 3.1. Each
+animation prompt describes what motion happens, what camera move, what timing. Add those to your Google Doc,
+too. By the end of state nine, your blueprint is complete. One full script, a locked visual style profile, 265
+image prompts, 265 animation prompts. All consistent, all original, all ready to render. Perfect. The
+blueprint is done. But a blueprint isn't a video. And the next part is where I show you the one tool that
+turns all of this, every prompt, every clip, every voiceover, every edit into a finished video, all in one
+place. You've never seen anything like this. Step five, building the AI production pipeline. Now, this part is
+going to blow your mind. While most creators jump between five different tools, Midjourney for images, Runway
+for video, Eleven Labs for voice, CapCut for editing, Google just dropped something that ends all of that in
+one tab. Images, videos, voice overs, editing, all generated and assembled in the exact same place. No
+downloads, no exports between platforms, no broken workflows. This is the closest thing to a true content
+factory I have ever seen. And I'm going to walk you through it click by click. All right, open Chrome and head
+to Google Vids. Now you'll see a few options. Landscape for YouTube, vertical for shorts or TikTok, square for
+Instagram. I am going with landscape today. Once you're in, you will land on a clean canvas with a timeline at
+the bottom and a side panel with all the AI tools. This is your studio. Now, let's start producing and we are
+going to do it in the right order. First, the visual style. Second, the images. Third, the videos. Fourth, the
+voice over. Lastly, the edit. So, first thing, open the image panel and select landscape for image generation.
+Go back to Google Doc, copy the very first image prompt, paste it into Nano Banana Pro inside Vids, and hit
+generate. In a few seconds, you will get your first image and this becomes the visual foundation for your
+whole video. From now on, every other scene we generate is going to follow this same visual style. So, your
+video doesn't look random or disconnected. Now, take that first image and insert it directly into the
+timeline. Once it's there, click on the image and choose the option that says convert to video. When you click
+it, the VO feature opens inside the AI panel with a prompt box. This is where you go back to Google Doc, copy
+the first animation prompt, paste it into VO, and hit send. In a few moments, Google Vids takes your still
+image and turns it into your first animated cinematic clip. When the clip is ready, drag it into the timeline.
+Perfect. Now, your first scene is done. Next, click new scene in the timeline and repeat the exact same
+workflow for the second clip. Open Nano Banana Pro, paste the second image prompt from Claude, generate the
+image, insert it into the timeline, click convert to video, paste the matching second animation prompt from
+Claude, generate the clip, and drag it into the timeline. Then keep going the same way for every scene. Image
+prompt first, generate the image, drop it into the timeline, convert it to video, paste the matching animation
+prompt, generate the clip, and place it in order. By the end, your entire script is built scene by scene
+inside Google Vids. Every image, every animation, and every clip sitting directly in your timeline. No jumping
+between five different tools. No downloading from one platform and uploading to another. Everything stays
+inside one clean production workflow. Now, the voiceover. Go to the right sidebar panel and click on the
+voiceover tool. Vids has its own built-in AI voice generator, and the voices are clean. Paste your full script
+from Claude into the voiceover box. Pick a voice that matches your channel tone. For cinematic content like
+Fern, I would go with something deep, calm, and confident. Hit generate. In about 30 seconds, your voiceover
+is ready. Drop it directly onto the audio track in your timeline. No exporting an MP3, no importing into
+another editor, it is already there. Now, the edit. This is where everything comes together. Your animated
+clips are already in the timeline, your voiceover is already in the timeline. Now, split your clips so they
+line up with what the voiceover is saying at each moment. Keep clips short, around 3 to 5 seconds each. That
+keeps your pacing fast and your retention high. Click captions. Vids generates auto captions instantly. Pick a
+clean style and you are done. Now, add background music. Vids has a built-in royalty-free music library.
+Search something like cinematic or ambient. Pick a track, drop it on the bottom audio layer, and lower the
+volume to around 40 to 60% so it sits underneath the voice. Add transitions between your clips. Fade or
+dissolve work best. Do overdo it. When you're happy, click file, then select download, and choose MP4 video.
+Wait a few minutes. Done. The hacker who stole an entire casino tower in Macau. A 19-year-old sits at a
+baccarat table sipping a Coke. He's wearing a hoodie and counterfeit designer sneakers. Nobody at the table
+knows his name. He's not a high roller. He's barely old enough to gamble. But over the past You now have a
+full branded monetization-ready YouTube video built entirely with AI inside one single tool. From channel
+selection to finished video, Claude states, one Google Vids project, one afternoon. That's the system.
+Perfect. Now, go back to Claude code one more time and hit next. This moves you into the thumbnail stage.
+Claude will now ask you to upload two to three thumbnail images from the reference channel. Go back to the
+channel you're modeling, open their videos page, and don't just pick random thumbnails. Pick the ones that are
+already performing the thumbnails connected to videos with high views, strong titles, and clear visual
+patterns. Now, download or screenshot two to three of those thumbnails, upload them into Claude, type
+thumbnails attached, and hit send. Give Claude a few moments. It's going to study the thumbnail style and
+break down the full thumbnail style profile, the text placement, the color palette, the main object, the
+contrast, the layout, and the emotional trigger that makes people click. So, once Claude finishes the
+thumbnail analysis, hit next for the last time. In a few seconds, Claude will generate a few thumbnail
+concepts for your video based on the same winning style, but adapted to your own topic. Now, choose a concept
+that feels the clearest, the most emotional, and the easiest to understand on mobile. Then, go back to Google
+Vids or any image generator you use, paste the thumbnail prompt, and create your thumbnail. And that's it.
+Now, you don't just have a script, visuals, and clips. You have the full content package, the video, the
+style, [music] the production workflow, and the thumbnail that sells the click. That is the full workflow. You
+picked a winning channel, used Claude code to study [music] its strategy, extracted the style, generated the
+script, built the visuals, created the animation prompts, produced [music] the video scenes, and even created
+a thumbnail concept designed to sell the click. So now, this isn't just an idea anymore. It's a complete >>
+[music] >> faceless YouTube system. But the system only works if you actually run it. The full [music]
+12-stage master prompt is in the description. The tools are linked below, and the workflow you just watched is
+the exact process you can follow today. So pick one channel, >> [music] >> run the stages, build your first
+video, and publish. And if you want more AI income systems like this, subscribe to AI entrepreneur. Because
+here, we don't just [music] talk about AI tools. We turn them into real online assets. And if you want to see
+another way to clone any YouTube channel using Claude, [music] click the video on screen now. In that video, I
+show you a different workflow you can use >> [music] >> to study a channel, extract its structure, and turn it
+into your own content system. [music] Watch that next because it connects perfectly with what we just built
+here. Thanks for watching, and see you next tutorial.

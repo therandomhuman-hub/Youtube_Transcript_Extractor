@@ -1,0 +1,96 @@
+Title: NotebookLM + Claude: The New AI Combo for YouTube Automation
+Channel: AIpreneur
+Type: VIDEO
+Video ID: d6JCWUBGLbM
+URL: https://www.youtube.com/watch?v=d6JCWUBGLbM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:06:56+00:00
+
+Kind: captions Language: en Watch this. >> 117 [music] AD, 5,000 Roman soldiers march north into the Scottish
+[music] fog. They never come back. That eagle was the soul of the ninth legion, the most decorated, most
+feared legion Rome had ever put into the field. The ninth had fought across Spain, North Africa, and Gaul.
+Everything in this video, the script, the visuals, the voice, the editing, was made by AI. No camera, >>
+[music] >> no face, no writer, and not $1 spent. Just two free tools working together, Google's Notebook LM
+and Claude. [music] In the next 10 minutes, I am going to show you exactly how I built this video from start
+to finish in under 1 hour. This same workflow is quietly powering some of the fastest growing faceless YouTube
+channels right now, channels making [music] four to five figures a month from AdSense alone, and almost nobody
+is talking about it. So, if you have been waiting for the right moment to start your faceless YouTube channel,
+this is it. Stay with me. By the end of this video, you will have everything you need to build your first
+faceless channel. Welcome back to AI preneur, and let us get into it step by step. Step one, ideation. This is
+where most people fail before they even start. Here is the truth nobody tells you about. You don't need a
+brand new idea. You need a proven one. And Notebook LM is the tool that finds them for you. The fastest way to
+grow a channel in 2026 is to study what is already working in your niche, and then make a better version of
+it. And we are going to use Notebook LM to do exactly that. So, open Google Chrome, search for Notebook LM,
+and click the official Google website. Hit try Notebook LM, it is 100% free. Sign in with any Gmail account,
+then click create new notebook. Now, pick your niche. For this video, I am building a history documentary
+channel. So, I'm heading to YouTube, and I'm searching for World War II mystery documentary, looking for
+videos with millions of views. I am going to grab the links of four or five of these viral videos. Just click
+the three dot then share button, copy the link back in Notebook LM. Click YouTube as the source type, paste
+each link and hit insert. And here's where the magic happens. In under 2 minutes, Notebook LM reads every
+transcript, analyzes every hook, and understands every story beat. Now, type this one simple prompt. That
+analysis, every source is linked, and hit send. In a few moment, Notebook LM delivers me the viral blueprint
+of every video I just uploaded. The exact formula those creators are using to keep viewers watching for more
+minutes. This is gold. This is the structural DNA of viral content in your niche. Click save to notes so we
+can use this in the next step. That is the ideation part. 5 minutes and it is done. You now have a proven
+blueprint built from real viral videos. Not a wild guess, but a blueprint is worthless without a script that
+actually makes people stop scrolling. That is where the next step coming. Step two, scriptwriting. The next
+step is to turn that blueprint into a viral script. And this is where Claude comes in. So, go to Claude.ai,
+sign up for free with any Gmail account, and click new chat. Now, copy the entire blueprint Notebook LM gave
+you, paste it into Claude, then add this prompt below it, and hit enter. In about 30 seconds, Claude delivers
+a fully storytelling script with strong hooks, cliffhangers, and emotional moments. Written exactly in the
+style of those proven viral videos with smooth and natural human voice. Read it once, tweak any lines that
+feel off to you, adjust the hook if it is not strong enough, then copy the final version into a notepad file
+and save it. Now you have a killer script, but words alone don't go viral on YouTube. The next step is what
+turns this into into a video people actually watch. Step three, visuals production. Now, it is time to bring
+the story to life, and we're going to do it with two free tools. Nano Banana for images and VO3 for animation.
+But, before we make anything, go back to your Claude chat, the same one we just used, and paste this prompt
+and hit enter. In a few moments, Claude writes a perfect scene-by-scene visual breakdown of the entire video.
+Copy the first image prompt and head to Google Flow, click new project, and select image generation. Paste
+your first image prompt from Claude. Set the aspect ratio to 16x9, that is the perfect YouTube format, and hit
+generate. In about few seconds, Google Flow start generating your image. Now, here is a pro tip most people
+miss. To keep your images consistent throughout the video, same character, same lighting, same style, and same
+look, use the first image you generated as your master reference and your visual DNA for the entire video. So,
+click on the three dots on that image and select add to prompt. Just like that, the image is now attached to
+your next prompt as a visual reference. Now, type your next scene in the prompt box and hit generate. And
+boom, the new image keeps the same armor, same lighting, same style. Repeat this trick for every new scene by
+adding your master image to the prompt every single time. When you finish, save them on your desktop and move
+to the next part. By the way, if you are still with me at this point, you are already ahead of 90% of people
+who try to start an AI channel. They quit before getting here. So, pay close attention to what comes next
+because this is the part that actually makes your channel feel real. All right, now it is time to bring those
+images to life. We are going to animate every single one into a smooth, cinematic video clip. In Google Flow,
+click on video VO 3.1 tab and drag your first image. In the prompt box, paste your first animation prompt and
+hit generate. In about 30 seconds, you have a smooth 8-second cinematic clip powered by Veo 3.1. It looks
+expensive. It looks professional. Cost you $0. Now, one quick note. The free plan from Google Flow adds a
+small Veo watermark in the corner of your video. Do not worry about it. In the editing step, I will show you
+how to crop it out in CapCut in 3 seconds. Download it and repeat this process for every image until you
+finish. That is your full visual library. Cinematic clips. $0 spent. However, cinematic visuals without a
+strong voice feel empty. Here is the free tool that gives your video the soul it needs. Step four, voiceover
+creation. The voice is what makes a documentary feel real and we are using 11labs for this. So, go to
+11labs.io. Sign up free. The free plan gives you 10,000 characters per month. Plenty for a few full videos.
+Click text-to-speech on the home page. Open your notepad file from earlier, copy your entire script and paste
+it there. Now, pick a voice. For history documentaries, you want a deep, calm, and authoritative tone. A voice
+that sounds like it knows what it's talking about. I personally use Knox Dark or Anthony. They sound serious,
+trustworthy, and perfect for storytelling. Click generate speech. In about 20 seconds, your full voiceover is
+ready. Just download the MP3 and like that, your voiceover is done. Script, visuals, voice, all done. Now
+comes the part where it all comes together into one finished video. Step five, assemble everything in CapCut.
+Now, it is time to bring everything together. Honestly, this is the easiest part of the entire process. Open
+CapCut. It is free, works on any computer. Click new project and drag your 11 Labs voice-over onto the audio
+track underneath. Now, add your VO video clips onto the timeline in order. Scene one, scene two, scene three,
+and so on, all the way through. Here is the key. Sync the clips to the voice. When the script mentions a Roman
+soldier, the soldier clip plays. When it mentions a battlefield, the battlefield clip plays. Visuals match the
+words. That is what keeps viewers watching. Add a smooth transition between every clip. For documentaries, I
+always use black fade. It feels cinematic and serious. Click apply, then add it to all your videos. Quick fix
+on the VO watermark I mentioned earlier. Select all your clips and then zoom in and drag the bottom right
+corner up just slightly. Now, go to text, then add auto captions. Pick a clean style and highlight keywords
+like in a different color. This is what keeps eyes locked on the screen for the full 12 minutes. Last thing,
+add the background music. Go to Pixabay, YouTube library, or any free music source you have. Search for
+cinematic documentary track and download a one. Drop it on the music track at about 20% volume and that is it.
+Finally, export your video at 1080p 30 frames per second. Your full documentary video is ready to upload. So,
+there it is. There [music] is it. The complete system. Notebook LM for ideation, Claude for script writing,
+Nano Banana for visuals, [music] VO for animation, 11 Labs for voice, CapCut for editing. Six free tools and
+one full documentary video in under [music] an hour. The only thing left now is execution. So, do this today.
+Pick your niche, open Notebook LM, and build your first video this week. If this helped you, smash that like
+button [music] and subscribe. I drop a new AI money tutorial every single week. Remember, the video you saw in
+the first 10 seconds of this tutorial, >> [music] >> that was built with this exact system in under an hour
+and free. Now it is your turn. Thanks for watching and see you in the next one.

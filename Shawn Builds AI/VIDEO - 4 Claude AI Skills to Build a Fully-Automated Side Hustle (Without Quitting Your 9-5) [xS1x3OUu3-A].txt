@@ -1,0 +1,147 @@
+Title: 4 Claude AI Skills to Build a Fully-Automated Side Hustle (Without Quitting Your 9-5)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: xS1x3OUu3-A
+URL: https://www.youtube.com/watch?v=xS1x3OUu3-A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:20:36+00:00
+
+Kind: captions Language: en These are four clogged skills that you can use today [music] to build a side
+hustle that runs itself. I would know because I used them myself to make over $20,000 over the past 6 months
+while still working my 9-5. You don't need any technical abilities to do this. If you can type, then you can
+use these skills to start building your side hustle today. We'll do it together step-by-step. For those who
+are new here, I'm Shawn and I'm an AI engineer at a multi-billion dollar digital media company. And I use
+these skills every day for myself and for the teams that I work with. [music] They're game-changing. But the
+skills are the easy part. You want to learn not just the tools, but the systems that will change the way that
+you work with AI forever. I'm going to show you four different skills to cover the main four pillars that you
+need to run a side hustle. I call it the LSDO framework: lead generation, sales, delivery, and operations.
+Each of these pillars are pivotal for a side hustle to be successful. Miss just one and the whole thing falls
+apart. So, let's get to the first pillar of lead generation. Because before anything else, you need to find
+people who want your product or service. Now, like I mentioned, lead generation is the first bottleneck that
+we need to overcome to build a side hustle that runs itself. This is how we can get potential customers who
+are interested in our product or service. Now, there are plenty of ways to do this. Ways like cold calling,
+cold emails, and posting video and picture content. But I want to show you what I found to be the easiest way
+to bring in new leads for a new side hustle. And this all goes back to the five levels of awareness. Now, with
+the lead generation methods that I mentioned earlier, typically the people that you find are in one of these
+bottom two categories. Either they don't know that they have a problem and you have to teach them about the
+problem, or they know they have a problem and you're introducing yourself as a solution. But to get off the
+ground as quickly as possible, we want to find people in these top two categories. People who know about your
+product and are just trying to determine if it's a good fit for them, and then people who are the most aware,
+who know about you as a solution, and think it's the right fit for them, and just need one final push. And
+that's why, in my opinion, Upwork is such a great platform for people who want to start a side hustle today.
+If you don't know what this is, it's a freelancing platform, meaning people already know about a problem that
+they have, they know about the solution that they want, and they're just trying to find somebody who can do it
+for them, which means all you have to do is prove that you're the right person to solve their problem. We'll
+walk through exactly how you can do this automatically using AI. So, the first skill we're going to use is a
+Claude skill that will find the jobs that you're most likely to get on Upwork, and personalize the outreach
+using the exact formula that I use to make multiple thousand dollars on this platform already. If you're not
+familiar with Claude, they have an awesome feature called connectors. And in here, you can connect to hundreds
+of different apps. The problem is that they don't have one to connect to Upwork. So, we need our skill to find
+a different way to do this. So, while we can't connect to Upwork from Claude, there is a way to do this
+through an intermediate connector called Apify. Apify is a different platform called a web scraper, meaning
+that it can get data from hundreds of different platforms, and then all you need to do is connect to Apify to
+use that data. And lucky for us, they have a scraper here that connects directly to Upwork. So, our plan will
+go like this. We'll use a Claude skill to connect to Apify, which will then use its web scraper to get all the
+jobs that we need from Upwork. Now, there's one thing that you need to know about being able to connect Claude
+to Apify, and we'll go through this together. You'll need what's called an API key. This is a key that Appify
+gives us that allows us to unlock the door here to get into Appify to use its data. So, once you make an
+account on Appify, all you have to do is go down to settings, click on API and integrations, and copy this
+personal API token. Now, within Claude, you can find the Appify connector, and just paste in that API token
+that you copied right here. Now, I created a skill for you completely for free that you can download in the
+description below. All you have to do is type /swjobhunter. That will create this form in the chat for you
+here that we can fill out. First, we'll add in a few different search filters that we'll use to find jobs that
+we want to do for our side hustle. So, for me, I want to build out N8N and Claude solutions. So, I'll search
+for jobs that contain those keywords. Next, we'll add in the location of the jobs we're looking for and how
+many pages to return, which will just be one for now. Then, just a couple example projects that we've done in
+the past, a little bit about our current role and experience that are related to the topic, and an optional
+checkbox for if we want to record a video to put into our proposal. I already clicked find job here, so let's
+see what the results shows. From the filters that we put and the one page that it scraped, it found two jobs
+that meet our criteria. Now, I already hardcoded in all of the criteria that we need to find the best jobs
+that'll give you the best chance of landing them. One of those is that they've spent money on Upwork before,
+meaning that they're super likely to spend more money on hiring you as opposed to somebody who's posted before
+and never hired anybody. The second criteria is that there's under 20 proposals that have already been
+submitted, because if there's more than 20, then that's a lot of competition. Under 20, and we have a good
+chance of landing it. Also filtered from most recent to oldest. So, these are two recent jobs that have very
+high ratings from the person hiring who have already spent a ton of money hiring before and there's
+opportunity for me to submit a proposal. There's some information here about the actual job description and
+then we drafted up a proposal that all we need to do is copy and paste and send over. So if we wanted to apply
+to this we can click on the link here which opens the job in Upwork. We'll copy our proposal draft and then
+paste that into the cover letter section. Then all we have to do is optionally record a video or leave that
+part out. I recommend running through this process multiple times per day and start by just getting your first
+10 proposals out there. The more you submit the faster you can land your first side hustle job. The next skill
+we'll be talking about is sales. This is how we take that person who's interested in our product and service
+and convert them into somebody who actually pays us money. The best way that I found to do this is to present
+a sheet that clearly explains all the value that the potential customer will be getting from your product and
+service. Lucky for us I'll be sharing a Claude skill that does this for you completely automatically using the
+exact format that I used to land a paying customer that's paid me over $10,000 so far. Again the link to this
+will be in the description below where you can download completely for free. All you have to do is type into
+Claude {slash} SW offer sheet and click go. This will create a form in the chat that you just need to fill out
+with a couple bits of information. I already filled mine out here and it went through and created the offer
+sheet for me. What's key to note here is that they will only give you money if they find value in what you're
+providing. Alex Hormozi has a formula called the value equation and what you want to do is increase the
+variables on the top as high as possible. So make the dream outcome as big as possible and give them as big of
+a chance as achieving it as possible. Then on the bottom we want to minimize these as much as possible. Make
+it take as little time as possible to achieve the result and make it so that there's no effort and sacrifice
+on their end. All of this will be covered in our offer sheet. Now that our offer sheet is created in Clowd, we
+can actually go ahead and publish this as an artifact. And that'll give us a link that we can copy and paste
+into the web browser, which means that this is now a live website that we can share with anyone who we want to
+present the offer sheet to. The offer sheet explains what product we're providing and goes through all of the
+elements of the value equation that we showed earlier and does so in a way that subtly shows all the value
+that they'll be getting. Then it gives a couple points of proof that you have in your past, some information
+on exactly what's included, and then the investment that you're expecting, and the immediate next steps. So
+now you're able to find new customers that are interested in your product and service, convert them into
+someone who will actually hand you money and pay for it, and the next step is that you need to handle the
+actual delivery. This includes handing over the product that you created or actually performing the service
+that you're offering. The amazing part about the time that we're living in right now is that you can use AI to
+deliver 90% of the service that you're offering. I want to give you a real example of a company that I helped
+to implement actual AI delivery for them. This was for an online coach who does executive leadership coaching
+for other companies. And the service that she provided was creating these slide deck presentations that she
+would then to the different companies leadership teams. Here's the timeline of what it looked like to actually
+deliver one of these slide decks. Going through this process of custom design systems, presentation outlines
+and templates, mixing it in with their own coaching philosophies, and then finally making it as a presentable
+slide deck with speaker notes, would take over a week to do this for every single presentation for every
+single client that they had. So I helped to design and implement a solution that used Claude that got this
+process to less than 1 day. And this used a combination of different features in Claude like projects, skills,
+and connectors. What I want to show you is how you could do the exact same thing for whatever product or
+service that you're delivering. And I'm going to show you a skill that I built that tells you exactly how to
+do this for you. Once you download the skill for free in the description below, all you have to do is go into
+the chat here and type {slash} SW AI Architect. And then press go. Again, this will create a form in the chat
+that you can fill out exactly what problem you're trying to solve, what is triggering this automation, the
+types of tools that it's using, what the output will look like, and if any human approval is required. And in
+the end, it creates this cheat sheet for you. So, when it comes to the online coach that I worked with, this
+is all the inputs that I provided to the skill. And in the end, the skill is telling us exactly what we need
+to use to build this automatic solution for them. It's saying all we need to use are Claude connectors for
+Google Drive and Gamma. We're going to create a skill that does this slide deck structuring for us, and we're
+going to run the whole thing here in the Claude chat. And then it explains the exact execution flow to go
+through that would be able to tie all of it together. So, it's pretty wild that we're using AI to tell us how
+to build the solution that we're going to be delivering as a service to our client. And at this point, we can
+tell Claude to build out the skill that's used in this execution flow for us. The final part to having a
+successful side hustle is handling the operations. This includes everything from communications to the daily
+workflows that you're doing, and even how you track your finances. Tracking finances is actually super
+important for a side hustle because a lot of the times, you end up charging your customer based on the amount
+of hours that that working. So, having some kind of reliable and good time tracker is the most effective way
+to be able to charge your customer what you're worth. Here's an example, one that I found that has multiple
+different days of work, including when they were able to time in, when they were able to time out, the number
+of hours that were worked, exactly what project is being worked on, and what tasks were completed. Once you
+create an hourly rate, if you can track this accurately and you know your hourly rate, then you're able to
+determine how much to charge the client. So, if you work for $50 an hour and end up working 8 hours on various
+tasks throughout the day, then that means that you can charge your client $400 for that day. So, the last
+skill that's available to you here will handle that tracking for you as you're working on delivering your
+service. Once you download it from the description for free, all you have to do is type {slash} sw time
+tracker. That will create a time sheet directly in your Claude chat. So, all you have to do is tell it exactly
+when you're starting to work. Then you can do your work directly within the same chat and tell it when you're
+done with that task. And just continue doing this for every single task that you're working on. And it doesn't
+just have to be for one day, it can be for even an entire week if you keep it all in the same thread. And at
+the very end here, you'll be left with a time sheet that says exactly what day you were working on, who the
+client was for, in case you're handling multiple different clients, which task you were working on, the time
+that you started, the time that you ended, and then the hours that you worked between those. From there, it
+takes your hourly rate and calculates how much total you can charge. And then if you want, you can track if
+this invoice was paid or not. Now you're equipped with four Claude skills to automate your entire side hustle.
+[music] They cover the entire process from bringing in new leads, converting them into paying customers, being
+able to deliver your product or service, and then running operations smoothly along the way. I know they'll
+work for you because they've worked for me to generate tens of thousands of dollars. This is just one example
+of how Claude can help you with running a side hustle. But, there's so many different areas within [music]
+those four pillars that AI can make a huge impact to take the load off of your back and let AI be able to run
+things for [music] you. So, if you want to see how you can use Google Gemini to automate different parts of
+those four pillars within your side hustle, then go ahead and watch this video right here.

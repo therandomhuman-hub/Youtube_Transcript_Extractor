@@ -1,0 +1,186 @@
+Title: How to Become Dangerously Self-Educated with Gemini Notebook AI (NEW Google NotebookLM)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: jRyViRbgUXY
+URL: https://www.youtube.com/watch?v=jRyViRbgUXY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:18:53+00:00
+
+Kind: captions Language: en If you look at some of the most influential people of our generation, what do they
+all have in common? Mark Zuckerberg taught himself how to code at the age of 10 with nothing but books. Then
+he dropped out of Harvard to turn that self-taught skill into what is today Facebook and Meta. Quentin
+Tarantino dropped out of school at the age of 15 and studied filmmaking by watching thousands of movies from a
+video store instead of going to film school. And now he's created some of the most famous movies like Pulp
+Fiction and Django Unchained. Then we have Jay-Z who left high school and learned business on the streets of
+the New York City projects. And he turned those hustle instincts into what is now a billion-dollar music
+production company. Did you catch the pattern? Every single one of them took a learning into their own hands
+and went from dropouts to top of their game. And with Google turning Notebook LM into their new Gemini
+notebook, self-education is now easier than ever. 90% of what I've learned about AI in the past 6 months, I've
+learned this way. And [music] in that time, I went from working at IT at a finance firm to now being an AI
+engineer at a multi-billion-dollar digital media company. So in this video, I'll show you my four-step
+framework to learning almost anything with Gemini notebook to the point where you feel almost unstoppable. Now
+the problem with traditional education is that they reward you for memorization and not actual learning. I
+remember in high school, I got straight A's in all of my honors Spanish classes. But when I graduated and took
+a trip to Mexico, I couldn't hold a single conversation. Then when you do try to teach yourself instead of
+just relying on school, it's just binging educational podcasts, trying out different learning apps, and
+starting dozens of online courses without actually using any of the things that you learn. Admittedly, I have
+my own graveyard of unfinished Spanish lessons and Duolingo streaks that never actually got me anywhere. If
+this sounds like you, too, you're are the problem. The habits that you were unknowingly trained on are. Today,
+the tools to self-educate are better than any classroom. [music] And while everyone is focused on just ChatGPT
+and Claude and just regurgitating the responses, almost nobody is learning Gemini notebook to actually learn.
+And that is your real edge. But the edge is never just the tool, it's the system that you build around it.
+Before we get into that system, you first need to understand what differentiates Gemini notebook from all the
+other AI tools out there. We're going to start by going over Gemini notebook versus some of its other
+competitors for learning. And we're going to map them onto the layers of AI knowledge. And what I mean by
+those layers is that data is the data that you provide it and you want it to actually be able to tell you
+answers from. These are the true sources of information that you want to leverage. Then you have the web,
+which is performing something similar to a Google search to get an answer for you. This is great for more
+recent information. And then lastly, you have the training data that LLM or large language model was trained
+off of. This can be a few years old, so this tends to be the least accurate type of information. So, when we
+look at Gemini notebook, this is the most accurate because it only leverages the bottom base layer of that
+pyramid of the data sources that you provided. Claude projects is intermediate because it also leverages that
+data that you provided, but it also starts scraping the web and it uses its training data as well. Perplexity
+is a bit less accurate. It does have a strong emphasis on using web information, but it doesn't prioritize the
+data that you give it. And then lastly, we have ChatGPT, which is the least accurate because it's not using
+the data super well. And while it does look at the web, it's not as good as the other options at using that
+web information and mostly just relies on that training data. Like I mentioned, this is a four-step framework
+to learning anything with Gemini notebook. And the first of those steps is knowing how to use your sources.
+This might date me a bit, but as I was growing up in school, whenever we had to do a research report, we had
+to go to the library to gather all the information from books. And they always told us, "Don't use Wikipedia."
+Because they said that anybody can make up anything on the internet and put it on there, which could really
+mess up your research findings. The problem is now almost everything you want to learn is on the internet. I
+mean, if you just look on YouTube alone and try to find out how to prompt, there's so many good videos
+explaining exactly how to do this. Many of them coming from the source themselves. Like this one is from
+Google on how to prompt. So, how do we filter out the noise on the internet of all the junk information, like
+how my teachers thought of Wikipedia, versus the gold mines that are found in YouTube and other web sources?
+If you've ever played Minecraft, then you'll know exactly how Gemini notebook solves this problem. When you
+first spawn into a world, you're given a map of the world. But you only know the areas that you've seen and
+not anything that's outside that area. So, logically, as you're planning out your base, you might decide,
+"Okay, this open area right here is the perfect place to put my home." And then you need a farm to make food.
+And putting that right next to the river is the perfect place that the crops can grow and I can harvest them.
+You're only using the information about the area and the sources that you actually have. This is what Gemini
+notebook does. If you look at any of the competitors, like looking at ChatGPT, for example, if you ask where
+to set up your home, they might say that you should put it over here because they think that the river is
+going to continue down this way. It's going outside of the known area and venturing into the unknown, which in
+this case would represent other information from the internet or from the training data of the model itself.
+But the problem is, what if that river ends up being lava and it just burns your house to the ground? That's
+why we want to only work with the information that we know and we trust to give us results that are accurate.
+To do this in Gemini notebook, go to notebook.google.com. And from here, you can create a new notebook if you
+haven't made one in the past. Once you're in your notebook, you can add in any sources that you want. So, you
+go on the left side here and you click add source. Since I'm learning how to prompt, I only want to use
+specific sources that I found to be useful about prompting. So, I found this video on YouTube that summarizes
+9-hour AI prompting course in 20 minutes. So, I copied the link, went back to Gemini notebook, pasted it in
+here, and since it links to YouTube videos, I just clicked enter. And now you can see the course is over here
+on the left. And it's going to use that as knowledge as I ask it questions. Then I found this website from
+Google that explains how to become an AI professional. So, again, I copied the URL, went back to my notebook,
+pasted it in, and pressed enter. And now we add both the YouTube video and the website as sources. Lastly, I
+found this entire PDF book about prompt engineering. So, I added it to my Google Drive. Now, in Gemini
+notebook, you can add from your Google Drive here, and I just selected the prompt engineering PDF. And now we
+have these three sources as part of my notebook. And Gemini will only use that information to answer
+questions. So, I know the information is accurate based on the sources that I provided. So, when I ask it the
+difference between few-shot and chain-of-thought prompting like I'm a beginner, it will look through the PDF
+and the YouTube video and the website and give me an accurate answer, citing the source of where it got it
+from. So, this is from the prompt engineering book. And it brought me to the exact place in that book that
+it's using. Pretty awesome. Now that we know how to use our sources properly, let's move on to number two,
+which is finding your optimal way to learn. There is a framework called VARK, which explains that there are
+four types of learners. And it's key that you know exactly which type of learner you are, so that you're not
+putting in all this time and effort and getting back less results. The four types of learners are visual, in
+that you like to see diagrams, flowcharts, pictures, and symbols. Auditory, which means that you learn best by
+listening. Reading and writing, which is as you read information off of a page or you write it down, that's
+how you retain and learn the best. And then there's kinesthetic, which is hands-on learning by doing the
+actions. Growing up, I always thought I was a visual learner because I would see diagrams and just understand
+what was going on a little bit better. Even the first career that I went into in cloud engineering, these are
+the kind of diagrams that we would share for our system architectures, and it just made sense to me. But I
+didn't realize that I was actually missing out on so much learning once I discovered what my actual learning
+type was. I created a skill that helps you learn exactly this, and you can download it totally for free with
+the link in the description below. Once you download that file, all you have to do is going to Gemini Spark,
+or if you use Claude, you can do it in Claude as well, and click this upload button. Then you just drag in
+that skill file and click open. That will add in this learning style finder skill. If you don't have access to
+Gemini Spark, you can just copy the instructions from the skill I provided and just paste it in a normal
+Gemini chat. But if you do have the skill, once it's downloaded, all you do is type {slash} learning style
+finder and click go. This will bring you through a series of six questions to find exactly which of the four
+types of learners that you are. And after going through this, it became very clear to me that I'm actually a
+kinesthetic learner. So for me, just reading and listening to lectures don't give the best return as me
+actually going and solving problems in the real world. And I found this so true for me when I was learning AI.
+As I went into the real world and talked to real teams and built out solutions that saved them so much time
+and money, that's when I learned the most. Now, the cool thing with this skill is that it shows you exactly
+how you can get the most out of your learning style with Google's Gemini notebook. I'll show you what you can
+create for all four types of learners in Gemini notebook. But for me, it's saying that study questions, flash
+cards, and key scenario breakdowns would be the best for me to learn. So, if we hop back into our notebook
+here, you'll see on the right side that there is a studio. And there's a ton of different things that you can
+generate. For my visual learners out there, mind maps are going to be key for you. I created one right here,
+which breaks down exactly how prompt engineering works, and it goes through like a tree diagram where one
+section expands into the next, and it keeps going so you can see all the relationships. Then you can just
+click on one of them, and it will open up a question regarding that in the chat and get information from your
+sources. For my auditory learners out there, the audio overview is insane. I actually still use it even though
+I'm not an auditory learner. This will create a podcast explaining the concepts for you so you can just
+listen. I'll play a quick snippet of it for you here. If you set your maximum token output length very high,
+and you misconfigure the balance of temperature and top K, the mathematical probabilities can just flatten
+out. >> Flatten out. >> Pretty insane, right? For the reading and writing learners, you can click on reports
+here and then create a study guide. This study guide breaks down all of the higher-level concepts into very
+digestible parts, that you can go through multiple different steps, and learn all of the key points. And then
+for my fellow kinesthetic learners, you can create flash cards. This will ask you questions so you're actively
+thinking and interacting with the site, and then answering if it's true or false, and it tells you if it's
+correct or not. And that brings us to point number three of learning anything with Gemini notebook, which is
+that teaching is learning. The ancient Roman philosopher Seneca even had a quote about this saying, "While we
+teach, we learn." But if you're not a philosopher, there's actually a study on this conducted at the
+University of California in 2013, where they discovered that the teaching group significantly outperformed the
+control groups. The study went like this. There were three different groups that were assigned. The first one
+was told to just study like normal for an exam. The next one was told to prepare a presentation for the exam,
+but they never actually ended up doing the presentation. And the last group was told to prepare a
+presentation, and they actually gave the presentation to their peers. And it was pretty fascinating what was
+learned. In the short term, the people that studied just like normal learned the least, while both groups who
+prepared a presentation learned more. But in the long term, 1 week later when these people were assessed
+again, both of the people who prepared like normal and the people who prepared a presentation but didn't
+actually give it performed worse when you compare it to the people who actually gave the presentation who
+performed well on the exam. I could actually speak to this personally as well, because me teaching AI to you
+guys on this YouTube channel has helped me understand AI concepts and how things work in a much deeper way. If
+we hop back into our Gemini notebook here, you can create a slide deck presentation. And the key thing here
+for us is to create these presenter slides. These are going to be less detailed, more visual, with some key
+talking points so that you have to really understand the topic as you're giving a presentation about it. So
+here's the one that I created about prompt engineering. You can see it goes through, gives a couple of main
+points and statistics that we can talk over, gives some sliders that we can explain different concepts and how
+they scale, a few frameworks and formulas, and just some really good comparisons that you can go and explain
+as you're giving this presentation. Gemini notebook will prepare the whole slide deck presentation for you,
+and you just need to go in, understand exactly all the concepts that are on the slides, and then you can
+present it to someone else, and you will be so much smarter than before you made that presentation. That
+brings us to the final of the four points, which is that you should be able to learn on the go. I'm going to
+bring up another study here from the European Journal of Social Psychology, which explains that habits are
+formed when you are able to carry out the same behavior daily in the same context for an extended period of
+time. That relates to learning cuz if we can build a habit of learning something new in the same context every
+single day, the likelihood that it sticks with us will be so much higher. I can relate to this one personally
+because for me, going to the gym every single day has been a habit for years. I was really big into
+powerlifting, actually, and those training sessions can be up to two or three hours long. Now, I used to just
+listen to music throughout those sessions, and it was great, but I realized that if I want to be learning
+something new, this is the perfect way to do it. If I could stack these hour blocks every single day of the
+week, the amount I'll be able to learn over the course of a few weeks or a few months will be insane. Not only
+that, but I was even working at a gym and just vacuuming the floors with nothing else to do. So, if I add in
+the time of my training plus the time I was just sitting and vacuuming floors, that's a crazy amount of
+learning that I can make in that time. So, for me, podcast was the easiest way to learn throughout this time,
+so I can keep my hands free to do all the lifting and cleaning machines, but still be in taking new
+information, which is why I can't say enough about this audio overview feature within Gemini notebook. But, it
+doesn't even stop there because there's other times where I'm just using my normal Gemini chat, and I want to
+understand things from the sources that I created in my Gemini notebook. And luckily, there's an integration
+for this so that even if you're just using your phone or you're just on the website for Gemini, you can always
+tap into that notebook that you created. This even relates back to the layers of AI knowledge from earlier.
+Because while Gemini notebook is so strong on its data section, there might be times where you want to
+leverage the web searches or information from the training model itself. And being able to plug that Gemini
+notebook into the Gemini chat, which can leverage the training and the web information, allows you to stack
+those layers in any way that you want. Here in my Gemini chat, I was asking it to explain prompt engineering
+for me from just a normal chat interface, where I can search the web or just understand from its internal
+training. Which was great, right? It gave me some pretty good responses, but then I was like, "Oh, I actually
+don't understand this fully. Can you explain it a little bit differently?" So it gave another response and
+another example. But I was like, "Why don't I just use the sources that I know work so well from my notebook?"
+So from here I clicked the plus sign, I did more uploads and I chose notebooks, in which I can just add in my
+prompt engineering notebook, which I did. Then I just asked to explain from these trusted sources in my
+notebook, and it pulled exactly from the Google prompt engineering white paper and the prompt essentials
+course that I linked in my notebook, and gave me an accurate response. Congrats, now you're equipped to go
+learn anything using Gemini notebook. But if I had to give one recommendation on what to learn next, it would
+be AI agents. It's pretty clear that AI is the future and having agents be able to work for you 24/7 is what
+separates the people that are going to win in life and business in the future versus the people that are stuck
+clinging to the manual grind work and are pretty clearly going to fall behind. If you've been exploring Gemini
+and Gemini notebook, then you're probably pretty familiar with the Google [music] suite at this point. And
+Gemini Spark is a brand new AI agent that can run for you 24/7 completing [music] tasks while you're sleeping.
+Luckily, I recorded a video on exactly how you can set this up for yourself. So, if you want to learn that
+next, then go ahead and watch this video right here.

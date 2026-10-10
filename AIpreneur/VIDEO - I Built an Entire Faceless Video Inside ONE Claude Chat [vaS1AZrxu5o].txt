@@ -1,0 +1,144 @@
+Title: I Built an Entire Faceless Video Inside ONE Claude Chat
+Channel: AIpreneur
+Type: VIDEO
+Video ID: vaS1AZrxu5o
+URL: https://www.youtube.com/watch?v=vaS1AZrxu5o
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:05:45+00:00
+
+Kind: captions Language: en You can travel the world for less than your rent. Here are five countries that
+prove it. Vietnam, a budget traveler's dream. Stunning beaches, ancient temples, meals [music] for under $2.
+Your money goes very far here. Georgia. What you just watched wasn't filmed. No [music] camera, no actors, no
+editor cutting for hours. I made it using Claude. I typed one idea and a few moments later the video came to
+life right inside my chat. And if you've ever tried making AI videos before, >> [music] >> you know the old
+way. 10 tabs open, copy a prompt here, paste it there, fix the error, get frustrated, quit. Today that ends.
+>> [music] >> I'm going to show you how to turn Claude into your own faceless video studio. Once it is set up,
+you don't fight with prompts, you don't jump between tools, you just talk to Claude and it builds the video
+for you. But there's one step in here that almost every beginner skips and it's the difference between three
+random clips and a video that actually looks professional. Miss it and the whole thing falls apart. I'll show
+you exactly what it is. By the end of this video, you will know how to turn one simple idea into a full video
+using Claude. From idea to final edit. If you can copy and paste, you can follow this. Welcome to AIpreneur
+and let's build it step-by-step. Step one, give Claude the power to make videos. This is where we plug a video
+studio into Claude. It looks like the most technical part of the whole workflow, but it's really just two
+small parts. Connect the tools, then install a small file that teaches Claude how to use them. No code. Just
+follow my clicks exactly and you'll be done in a few minutes. Here's the simple idea so it all makes sense.
+Claude is the brain, a connector gives it hands and the video models like VEO are the studio those hands can
+reach. So you ask Claude for a video, Claude sends the request, waits for it and brings the finished clip
+right back into your chat. Now let's set it up together, step by step. First, open your browser and go to
+creativeclaw.co. On the homepage, you'll see a button that says start creating. Click it. It'll ask you to
+sign in, enter your email, mention how you heard about the Creative Claw, then click get started, and lastly,
+run the installation guide. That creates your account and takes you straight to the Creative Claw installation
+page, where you'll complete the two setup steps. You will see a small web address that looks like
+app.creativeclaw.co/mcp. Right next to it is a little copy icon. Click it to copy the address. Right under
+that, a button says open Claude. Click it. This opens Claude in a new tab and drops you straight into the add
+custom connector screen, so you don't have to dig through any menus. On that screen, you will see two empty
+boxes. In the first box, the name type Creative Claw. In the second box, the URL, paste the address you just
+copied. Then click the add button. Claude will ask you to sign in to approve it. Click through and sign in
+with the same Gmail. Then one last little screen appears that says you are not connected yet with a black
+connect button. Click connect, approve it, and you're linked. The connector's done, and you only ever do this
+once. Now the second part, the skill. This is the piece almost everyone misses, and without it, Claude works
+at half power. The connector gave Claude the tools. The skill teaches Claude how to use them, which model to
+pick, how to write strong prompts, when to spend credits, and when to save them. Without it, Claude has the
+studio, but no director's instinct. Go back to your Creative Claw tab. Scroll down a little to the section
+called step two. You'll see a file called a download button. Click it to download. Important, do not open or
+unzip the file. Just leave it sitting in your downloads folder exactly as it is. Right under that, click the
+button that says open skills page. It opens Claude's skill settings in a new tab. Look for a plus icon, click
+it, choose upload a skill, and select that zip file from your downloads folder. In a few seconds, you will see
+Creative Claude appear in your list of skills. Click it once and make sure the toggle next to it is switched
+on blue, means it's active. And that's it. Claude now has the tools and the director's brain. From now on,
+every time you start a new chat about video, the skill turns on automatically. You don't type any special
+command. You just talk to Claude. You just handed Claude a full video studio. But a studio without a script is
+just an empty room. So, let's fill it. Step two, write the script with Claude. Now, Claude is connected and
+it's tempting to start generating videos right away. Don't. This is the mistake most beginners make. They get
+excited, generate random clips with no plan, and end up with a bunch of pretty videos that don't connect. So,
+let's do it the right way. First, open a brand new chat in Claude, a fresh one. Not an old conversation. This
+makes sure your connector and skill load cleanly. You don't have to type any special command to turn the skill
+on. Remember, it activates automatically. You just start talking. So, before we generate anything, we ask
+Claude to write the script. But here's the key. Don't just say, "Write me a video script." That is too vague.
+Give Claude the full direction, the topic, the audience, the tone, the length, the hook, and the call to
+action. Here's the prompt you can use. Just swap in your own topic and audience. So, if your channel is about
+fitness, you might write about three morning habits that burn fat for an audience of busy beginners. If it's
+about travel, about five cheap countries to visit in 2026 for an audience of first-time travelers. Whatever
+your niche, you drop in your topic and your audience, and And rest of the prompt does the work. In seconds,
+Claude gives you a structured voice over script. And because the skill is active, Claude already understands
+this is for a video, so it writes in a way that's easy to turn into visuals. Read it once. If the hook is
+strong and every line can become a visual, you're ready for the next step. But a script alone isn't a video.
+The magic starts when we turn every line into a visual scene Claude can send to Veo. Step three, turn the
+script into video prompts. Now, we turn the script into something Claude can actually understand. And here's
+the line that makes it click. The script is what the viewer hears. The shot list is what the viewer sees. So,
+we don't ask AI to make one long messy video. We build it scene by scene. Every sentence becomes a visual
+moment. In the same chat, Claude already has your script, so you don't paste anything again. Ask Claude, "Take
+the script and turn it into a shot list for AI video generation. For each scene, give me the voice over line,
+a detailed Veo prompt, the camera movement, the visual style, the mood, and the duration. Use this visual
+style across all scenes. Add your style here, for example, cinematic, dark, neon, photorealistic. That last
+line matters. It's what keeps every scene looking like the same video instead of three random clips. Drop in
+whatever looks fit your brand. Claude hands you back a full production plan. Scene one, scene two, scene
+three, each with its own visual direction. It'll look long, and that's good. That detail is exactly what makes
+your clips come out cinematic instead of generic. You just turned words into a production plan. Claude knows
+exactly what to film, how to film it, and in what order. Now, it is time to start building. Step four, create
+the visuals inside Claude with Veo. Now, Claude has a shot list. Time to bring those scenes to life. Here is
+the beautiful part. You don't copy and paste anything. Claude already has every prompt. You just say which
+scene to make. But, before we generate, there's one decision that quietly controls your whole budget, which
+video model to use. Most tutorials tell you to draft on a cheap, ugly model, then finalize on the most
+expensive premium one. That advice is outdated. Inside the connector, there's a hidden gem most people miss, a
+lighter version of the premium model that's cinematic and affordable. In our case, it's called VO 3.1 light.
+Same cinematic look as the flagship, native audio, reference images, a fraction of the price. For a tutorial
+like this, it's the sweet spot one generation, publishable, and you don't have to memorize prices. Just ask
+Claude, "List the video models available with their credit cost per clip and best use case." In seconds, you
+get a real comparison table pulled straight from the connector. For a full three-scene video on VO 3.1 light,
+you're looking at roughly two to three dollars in credits. That's it. Now, before Claude can generate a single
+video, there's one thing it needs, credits. This is how the video models get paid. Every clip you create uses
+up a small amount of credits, a bit like fuel. So, before we make anything, you need some in your account. And
+getting them is beautifully simple. You don't hunt through any billing menu. You just ask Claude. In your
+chat, type, "I'd like to buy credits. Can you give me the purchase link?" Claude drops a clickable link right
+in the conversation, something like, "Buy 1,000 credits for $10." Click it. Then click open link on the little
+pop-up, and it takes you to a secure checkout page. Enter your email and card details, hit pay now, and the
+credits land in your account instantly. $10 gets you 1,000 credits, they never expire, and that's enough for
+several videos. Then you head right back to the chat. Now, you're ready to create. Now, you generate. Tell
+Claude, "Generate scene one from the shot list using VO 3.1 light, vertical 9 by 16, 8 seconds with native
+audio and hit send. In a few moments, Claude starts generating the video. The first time, you may see a pop-up
+asking permission to use the video tool. Approve it. And here's a time-saver. In that same pop-up, you can set
+the video tool to always allow. That way Claude won't ask every single time again and you can keep generating
+without interruptions. Now, give it a moment 30 seconds to 2 minutes. You don't stare at a loading screen.
+Claude checks on in the background while you keep chatting. When it is ready, the clip appears right inside
+the conversation. Now, review it like a director. Does it match the voice-over line? Is the camera right? The
+mood? If it is not, you don't start over. You give Claude feedback in plain words, more cinematic, slower
+camera, stronger lighting and it sends a better version. That's the loop. Prompt, clip, feedback, better clip.
+Once you love the scene, save it into a project folder and name it clearly like scene one intro shot. That
+tiny habit saves you so much time in CapCut. Then, move down the list. Now, scene two. Same model, same flow.
+Repeat until every scene has a finished clip. Once they're all saved, your visuals are ready. Our visuals are
+done, but right now, they're silent, beautiful and completely lifeless. Because here is the truth. No one
+tells beginners that the voice is what makes people feel your video. And the way we create it next is almost
+too easy. Step five, create the voice-over with Eleven Labs. So, let's give your video that voice. For this,
+we use Eleven Labs. It turns your script into a natural, human-sounding voice-over and the free tier is plenty
+to start. But, before you paste anything into Eleven Labs, don't skip this part. A script that reads well on
+the page isn't always ready to be spoken aloud. So, first, go back to Claude and ask him to clean the script
+for narration. Type, clean the script for AI voiceover. Make it natural, energetic, and easy to understand.
+Add pauses where they belong without changing the meaning. Copy your voiceover script that Claude gave you and
+go back to 11 Labs, pick a voice that fits your style, paste in the clean script, and generate. Listen back
+before you download. If it sounds too flat or too fast, ask Claude for stronger pauses or shorter lines, then
+regenerate. Once it sounds right, download it and save it in your project folder as final voiceover. This is
+the spine of your edit. Everything follows this audio. A strong voiceover makes simple visuals feel powerful.
+Don't rush it. Now, we have visuals and voice. The next step is where it all comes together and it's the most
+satisfying part. Step six, assemble and edit everything in CapCut. The final step is bringing it all together
+in CapCut. Start with the voiceover. Import it into CapCut and place it on the timeline. This audio is the
+backbone. Everything else follows it. Next, import your video clips and place them under the voiceover. Match
+each clip to the part of the voiceover it belongs to. When the voice talks about scene one, show scene one.
+When the voiceover ends, switch to the next clip. Keep it simple. The visuals follow the voice. Once all your
+clips are on the timeline, go to text, then add auto captions. Pick a clean style and highlight keywords like
+in a different color. This is what keeps eyes locked on the screen for the full video. Next, add some
+transitions to make it flow. Go to transitions in the top menu and use simple ones like mix or black. Fade
+between each clip. Next, add animations to make your clips feel alive. Select any clip, go to animation, and
+choose an entry or exit animation, subtle ones. Don't overdo it. One clean animation per clip keeps it
+professional. Then, add light background music, but keep it low so the voice stays clear. Drop in a few subtle
+sound effects, zooms, and transitions to make it feel alive. And here's the one editing rule to remember,
+never let the screen stay still while the voice keeps moving. If the voice changes, the visual should change,
+too. A new visual every 3 to 5 seconds keeps the energy up. Once it feels smooth, export. [music] And just
+like that, you've done it. A complete faceless video built from a single idea. So, here's the thing, you just
+watched [music] an entire video get built from one idea. And the truth is, you can do [music] this today. So,
+don't just watch and move on. Open Claude, set up the connector and the [music] skill, and create one simple
+faceless video. One idea, three scenes, one voice over, one edit. That's how you start. [music] If this helps
+you, subscribe to AIP for more simple AI workflows that actually work. And do me one [music] thing, drop a
+comment with the topic of the first video you're going to make. I read every single one. Now, build it. I'll
+see you in the next [music] one.

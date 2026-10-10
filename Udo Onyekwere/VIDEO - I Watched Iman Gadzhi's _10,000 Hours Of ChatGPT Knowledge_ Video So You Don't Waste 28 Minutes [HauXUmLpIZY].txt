@@ -1,0 +1,52 @@
+Title: I Watched Iman Gadzhi's "10,000 Hours Of ChatGPT Knowledge" Video So You Don't Waste 28 Minutes
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: HauXUmLpIZY
+URL: https://www.youtube.com/watch?v=HauXUmLpIZY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:34:56+00:00
+
+Kind: captions Language: en Hey guys, Iman Gadzhi just dropped a 28-minute ChatGPT video probably about 2
+weeks ago. Most of the stuff people skipped over when they watched it. I'm going to explain it for you in 4
+minutes. Here's the five tips that actually matter in the video. Every time you open ChatGPT and start a new
+chat, you're talking to a stranger. It doesn't know your name, your job, or how you like things explained. It
+knows nothing. You see, by default, ChatGPT knows nothing about you, nothing about your job, what you do, how
+you like things explained, what you don't like. Custom instruction fixes that in ChatGPT. You go to settings,
+personalization, and custom instructions. And then you tell it once who you are, what you do, how you like
+your responses, either short or direct or even detailed or with explanations, whatever. You set it up how you
+need, and that setup will change everything. >> You're going to go to settings, then you're going to go to
+personalization, and in there you're actually going to see the custom instructions right there. Inside of it,
+add what you want ChatGPT to know. >> And here's the part most people miss. Memory is right next to the custom
+instructions. is what you tell it on day one. Memory is what it picks up over time. Every conversation, every
+correction, every time you say no or not like this, it basically learns from that. >> Custom instructions is
+like giving someone you work with a one-page brief on day one. Here's who I am, here's what I need, here's how
+I like things done. >> Most people never turn it on, but you're literally leaving too many free upgrades on
+the table by not implementing this. ChatGPT was also built to agree with you. That's how OpenAI basically
+keeps you coming back, right? You could ask it the most ridiculous question and it'll always find a way to
+say, "Great question." So, here's what you do so it doesn't do that. Before you ask anything important, tell
+it "Play devil's advocate." >> you to force your ChatGPT to disagree with you. Force it to play devil's
+advocate. >> Challenge my thinking. Tell me my blind spots. Give me the strongest case for why I should could
+be wrong. You go from a yes-man to something that actually makes you way sharper. One more thing. It will
+hallucinate. It will get things wrong with complete confidence and you won't even know. So, here's how you
+catch it. Tell it to refer to you by your first name. If it starts saying great question without using your
+name, it's probably lost the plot. Stop, then double-check it again everything it just told you. As O E. Khan
+talks about ChatGPT has its own app store. >> It actually has its own inbuilt app store. And what if I told
+you that most people never even knew it existed or how to use it. So, instead >> You connect your Gmail,
+calendar, Spotify. It basically does the work inside those apps for you. This is going to be your first step
+to a personal assistant without basically paying the 50 grand a year for one. And the first minute of his day
+is that first 30 minutes he asks ChatGPT to summarize everything overnight. >> I asked ChatGPT to summarize
+everything that came in overnight. And then I ask it to filter out what needs a reply today, what can wait,
+and so on. >> It then filters what needs action and what can wait. Basically, that's his system. And it
+schedules task. He uses it to remind his designer every week to post videos. And then he sets a once and
+forget it. Agent mode lets ChatGPT navigate the web and do the actual work. You give it the instructions, it
+opens a browser, compares options, and brings you back the answer. And it always asks before it books or buys
+anything. You basically stay in control. So, start with something low stakes, and get a feel for it, then
+scale it up. That's how O E. Khan recommends it. >> All you have to do is give it some instructions like find
+me the three best reviewed hotels in Lisbon under $200 a night with a pool. And there we go. It goes off, it
+opens a browser, and navigates through different websites, and it comes back with the best options for you. >>
+Now, if you found this video useful, I break down a lot of AI content as well tech content creators who are
+pretty big with long videos, and I summarize it to four to six minute videos. If you have a content creator or
+influencer that you like me to basically start doing this for, drop that in the comment and I'd love to see,
+you know, what I can summarize for you. And feel free to watch the last two Iman Gadzhi the right here. And
+please like and subscribe. But other than that, I'll see you in the next one, and see you later.

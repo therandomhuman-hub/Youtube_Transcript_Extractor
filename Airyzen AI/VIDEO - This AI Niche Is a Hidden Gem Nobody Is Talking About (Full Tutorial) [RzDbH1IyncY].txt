@@ -1,0 +1,27 @@
+Title: This AI Niche Is a Hidden Gem Nobody Is Talking About (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: RzDbH1IyncY
+URL: https://www.youtube.com/watch?v=RzDbH1IyncY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:27:42+00:00
+
+Kind: captions Language: en These amazing old rusted object restoration videos are really going viral on
+YouTube and people love watching these satisfying restoration videos. In this video, I'll show you how to
+create videos like these in just 5 minutes. So, first go to Claude AI and paste this object restoration video
+master prompt. Then hit enter. Claude will ask you what type of restoration video you want to create. Simply
+choose anyone. I'm selecting type three. So, I'll enter three and hit enter. Then, you'll get 10 unique video
+ideas. Choose any one you like and hit enter. Now, you need to select the video duration. For this tutorial,
+I'm selecting 10 seconds. If you want to create videos longer than 10 seconds, the process is a little
+different and I'll show you how to do that at the end of this video. Now, choose the aspect ratio according to
+your needs. I'm selecting 9:16. After that, Claude will give you one scene with an image prompt and a video
+prompt. Simply copy the image prompt. Go to Flow AI and paste it here. Now, select these settings for image
+generation. Choose Nano Banana 2 as the model and hit enter. Once the image is generated, go back to Claude.
+Copy the video prompt from here. Then come back to Flow AI and click the three dots on the image you
+generated. Select add to prompt and paste the video prompt. Now, select these settings for video generation.
+Choose Omni Flash as the model and set the duration to 10 seconds. Then hit enter. And that's it. Your video
+is ready and here's the final result. Now, if you want to create videos longer than 10 seconds, check out this
+video on screen. The link is also in the description. That's it for today's video. If you found this video
+helpful, make sure to like the video and subscribe to the channel for more AI tutorials. Thanks for watching
+and I'll see you in the next video.

@@ -1,0 +1,187 @@
+Title: Gemini Spark AI Tutorial For Beginners (NEW Google Agents Masterclass)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: DsQR95uYbtU
+URL: https://www.youtube.com/watch?v=DsQR95uYbtU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:18:19+00:00
+
+Kind: captions Language: en Gemini Spark is the most beginner-friendly AI agent out there, and this is the
+ultimate beginners guide on how to [music] use it. This agent works 24/7 for you, completing tasks while you
+sleep. Now, there are two types of people thinking about AI right now. Those who are skeptical about all the
+hype and end up doing nothing, and then those who just took action and started learning by doing. When I first
+heard of AI agents, I was definitely in that first group. I thought it was just another overhyped chatbot. But
+after working with AI agents like Gemini Spark as an AI engineer at a multi-billion-dollar digital media
+company, it was clear to me that this is the future of work. The biggest companies in the world, like Oracle
+and Dropbox, are already firing people by the thousands because they're leveraging AI. So, knowing how to use
+these agents effectively [music] gives you a leg up compared to those who don't. Now, if you've tried AI tools
+like this and felt overwhelmed, or you've watched other tutorials and still don't know what to do with these
+things, stay with me. Because the way I see it, there are only three levels to master when building AI agents
+with Gemini Spark, and none of them require you to have any technical or coding background. In this video,
+we'll walk through all three levels together, step by step, explaining the why behind each and flagging the
+things that trip people up. And if you already use Gemini Spark, then this video will show you exactly where
+you stand on that ladder and what the next level looks like. By the end, you'll have your own autonomous agent
+working for you 24/7 using the free skills that I'll provide throughout the video. Just check out what one of
+the teams I worked with was able to build. Before we worked together, they used to spend an hour every single
+day pulling together research reports for shopping discounts. And now, an AI agent not only does the research,
+but even formats it, double-checks the content, and sends it to them over message. Imagine waking up and the
+most time-intensive task of your day already done and sitting ready for use in your inbox, all before you even
+have your coffee before work. Now, before we get started, we need to first understand what Gemini Spark is.
+The best way to think about Gemini Spark is by comparing it to its competitors. Gemini Spark sits all the way
+on the left here as the most beginner-friendly AI agent option. The fact that it sits in your browser means
+you don't even need to download another app to use it. Now, you've probably heard of Claude and Claude Cober.
+This is also relatively easy to use, but it is a bit more complicated than using Gemini Spark because you do
+need to get it set up on your computer, download an application for it, and learn a lot more different
+technical abilities that it has. And then all the way at the other end of the spectrum, you have apps like
+Codex, which is a coding agent and by nature is more technical, and Open Claude, which is super advanced. You
+have to set up the full thing yourself on your own infrastructure. So, if you're just getting started with AI
+and AI agents, then I recommend Gemini Spark to everybody that I talk to. Now, like I mentioned, there are
+three levels to learn as a beginner to master Gemini Spark. We're going to walk through one at a time, so by
+the end you'll have an AI agent with a skill that I'll provide you that runs the exact AI research report that
+I use every single week to stay up-to-date with AI. We're going to walk through one at a time, starting with
+the first one here, which is understanding what is an agent in the first place. And to fully understand this,
+we need to look at what an AI assistant is versus an AI agent. An AI assistant is probably what you're already
+used to. Think about your typical Gemini chat or Claude chat or even ChatGPT chat. I'm going to bring it to a
+baseball analogy because I'm a big baseball fan. Think about your AI assistant like the pitcher, and you are
+over here as the catcher. In baseball, the catcher holds up different signs telling the pitcher exactly what
+kind of pitch to throw. Meaning that the catcher is in charge and is telling the pitcher what to do. So, he
+might say to throw a fastball right down the middle like that. Or maybe he holds up a two and tells him to
+throw a curveball like this. Or even maybe a changeup over here, which is just starting in the same path but a
+little bit slower. Regardless, you are the one that is telling the AI assistant exactly what to do every
+single step of the way, because you understand what the objective is. In this case, it's striking out the
+batter, and the catcher has done all the research needed to tell a pitcher how to execute. This is exactly the
+same as you chatting with ChatGPT, telling it to do research for you, or talking to Claude and having it
+create a report for you. This is great and all, but we want to be able to allow an agent that can execute
+completely on its own, so that it can run 24/7, and can complete tasks while you're still sleeping. Which
+means that we need to take ourselves out of the equation. Now, that comes over to now what an AI agent is.
+Every once in a while in baseball, you get a veteran pitcher who is elite, and because of that, they're
+granted the permission to choose their own pitches. And this happens because they've been through thousands
+and thousands of pitches back and forth between you and the catcher, and them as the pitcher. So, you fully
+trust that they know exactly what they're doing, and they can execute on the commands. It's the same exact
+reasoning for setting up an AI agent. Once you run through what your objectives are line by line multiple
+times over, and can confirm that this is the outcome that we want. At that point, you can give those
+instructions to the agent and tell it to complete the task on its own, because you fully trust the
+instructions that you've tested over and over, and you know that anytime this agent runs them, it's going to
+give you the output that you want. Let me give you a real example of what this looks like in practice. So, one
+of the teams I was working with wanted to scrape different websites for coupon codes. So, for example,
+macys.com up here, on their homepage, they have a number of different coupon codes. So, they have home listed
+here with 60% off, and we can see that it's actually listed over here as well for 65% off. So, initially, I
+ran it through an AI assistant, and I had it go compile all of the results and turn it into a report.
+Something that looked like this, where it listed all of the coupon codes. There was also a column for the
+actual websites. Then it describes what the discount is. Once I did it enough on my own, and I trusted that
+the report output looked good, only at that point did I give the instructions to an AI agent, and now it does
+this completely on its own on the start of every single day. So, at the team that used to do it and used to
+spend 1 hour per day for each person on the team completely removes himself from the equation, and now it
+takes 0 minutes to do the exact same task. I'm going to show you how you can set up your own AI agent within
+Google Gemini Spark. Once you head to google.gemini.com, that will bring you to this chat assistant. But, we
+don't want to be with the chat assistant. We want to be with the AI agents in Gemini Spark. So, if you've
+bought the Google Pro AI plan, what you can do is go over to this switch over here, and click it to get to
+Spark. Now, within Spark, the way that we set up an agent that can run 24/7 is by going to the left here and
+clicking on this schedule section. This will let you set up an agent that can run at any time and any day. So,
+what we're going to do is create a new agent manually. Then you just need to fill in the details about what
+this agent does. So, this is going to be an AI research report. You can tell it exactly when to run. So, we're
+going to say it's going to run every single week. It's going to run on Monday at 9:00 a.m. And then you give
+it instructions. So, we're just going to say very basic, "Run a research report of all the latest topics about
+AI this week." Then you can go ahead and click save. Now, it's set on a schedule to run every single week, but
+I want to test it out now. So, I'm going to click these three dots up here and click run now. So, my agent
+just finished creating my research report about all the latest AI topics this week. It went through and did a
+ton of different research, gathering different articles, and came up with this report right here. And it's
+actually pretty cool because if you scroll down, it created a Google Doc for me as well, which I can open up
+on the side here and see the entire report, not just the executive summary. So, we can see it even created a
+couple of tables as well and gave some references. Now, AI agents are awesome, but if you've been watching my
+content for any amount of time, then you'll know that I believe that's only part of the equation. AI is only
+useful if you know how to use it for practical applications. I'm talking about ways that you can actually
+improve the way that business operates or build one from the ground up, which is why I put together a
+completely free roadmap to building an online business that runs itself. It'll take you through the four
+different bottlenecks that you'll face when building an online business and show you how you can overcome them
+using different AI strategies. One of them being AI agents. If you want to use this roadmap for yourself, the
+link is available completely for free description below. That brings us to the second level of setting up
+Gemini Spark as an AI agent, and that is giving your agent access. And by access, I'm talking about letting
+your agent access outside data and systems using something called Model Context Protocol or MCP. If you've
+ever used Legos before, then you'll know exactly what I'm talking about. Legos are set up in a way that every
+single piece can connect together through these little dots right here. They clip into each other to build
+structures. So, in this case, let's say your AI assistant or your AI agent is this base plate that you can
+build on top of. What MCP does is it acts like this standardized connector, meaning that no matter what color
+or size or shape your Lego brick is, it will always be able to plug into your base plate of the LLM. These
+bricks actually represent different data sources. So, think about your Gmail or Dropbox, for example. Or like
+in this video, the example I'll show is connecting to Notion. And if [clears throat] you assemble them in the
+right way, then you can turn it into any kind of output that you want. Something that's actually structured
+and conveys your data in a way that's useful. One of the companies I've worked with is Redmax Events, and they
+put on a ton of really cool corporate projects for different companies. And for them, we wanted to tackle
+their onboarding system. Which means that we need to be able to connect to all these different systems here.
+Whenever a new project is onboarding, it goes into monday.com, Google Sheets, Dropbox, QuickBooks, and
+CompanyCam. So, to connect an AI to all those different platforms, we use these connectors. And instead of
+taking 5 hours every single week, an AI is able to connect to all of them and do this in under 60 seconds.
+Let's talk about how you can do this now in Gemini Spark. If you go over to the left side here, you'll see a
+connected app section. And with here, you'll see all the different apps that you can connect to using this
+MCP. By default, there's a ton of different ones like Google Workspace, YouTube Music, and then a few others
+like Canva, Dropbox, GetYourGuide, Instacart, and even Zillow. But the cool thing is that they allow you to
+add custom apps. To connect to Notion, all we have to do is add a custom app. And then we paste in this URL,
+click next, and then this will allow you to connect. You'll know you've connected properly when it shows up
+here and you could turn it on. Now, if we go into our chat, we can do at and then type in our connected app.
+So, at Notion. So, the cool thing is we can go back into our previous chat where we made this report. Now, I
+could say create a new page in Notion with this report. You'll see that it'll ask you to use different Notion
+tools. This one is checking the pages that already exist. And then this next tool is going to actually create
+a page. And you can see that provides all the content from our report. It just finished creating a report
+within Notion. So, I can click on this link here and it will bring us to this weekly AI research report
+directly from Gemini Spark. Pretty insane that it has all links to every single section, has some diagrams in
+here, still has those tables that we saw, and then lists all of its sources here at the bottom. So, directly
+from Gemini Spark, we're now able to connect to our external apps and not only read data if we want, but also
+create items in other apps from Gemini. It almost feels like it's a superpower doing this. Now that we've
+created a basic agent and we know how to connect our data to external data sources, let's move on to level
+three of setting up an AI agent in Gemini Spark. This will tie together the other two and show you exactly how
+I create my own AI research reports. And that is skilling up your agent. Let's go back to our initial LEGO
+example. Let's say now we have all these LEGO bricks and we want to actually build something. The problem is
+that we don't actually know how to build anything with just a pile of LEGOs. We need instructions. And
+luckily, that's where skills come into play because with a different combination of bricks and sometimes even
+with the same bricks in a different order, we can build different outcomes. So, for this example, let's say
+with this pile of bricks, we have three different instruction sets. And each instruction set is like a skill.
+It explains exactly in order 1 2 3 4 5 6 how to put the pieces together to build maybe the Death Star. Or it
+can give instructions again 1 through 9 this time of how we can create a LEGO Millennium Falcon. Or just one
+more, it'll give you instructions on how to create a LEGO AT-Walker. That was for all you Star Wars fans out
+of there. But the point stands that given a set of instructions, which act as our skills, we now know how to
+build something that's useful. I'll give you a practical example with an online coach that I was working with
+who delivers executive leadership coaching in the form of PowerPoint to her clients. The way that this worked
+is that we created a skill in three different steps. The first one was connecting to Google Drive because this
+contained all of her own coaching document and her own philosophies and strategies and frameworks that she
+uses to teach to other company leadership teams. The second step is using Google Docs because they would take
+notes on the other leadership team that they're working with understanding what their problems are, what is
+their branding that they like to use, and gathering specific client information. Then in step three, it
+actually creates the Google Slides. So, while it's using those connected apps and MCPs that we talked about,
+it's doing it in a specific sequence that we describe in a skill. Then the outcome is very tailored
+client-specific decks that are in their branding but use her own frameworks and teaching principles. Something
+that used to take over a week to do can now be completed in less than a day with a proper skill. Lucky for us
+in Gemini Spark, we can actually add skills. All you have to do is go over here to the left side where it says
+skills. And then you can create them manually if you want by typing in the name, a description, and
+instructions. For our case, I'm going to show you a skill that I use weekly to find all the latest information
+about AI. The link to that is in the description where you can download it totally for free. Once that's
+downloaded, all you have to do is click upload skill. And then you can drag in that skill.md file. And that
+will create this weekly AI research report skill. You'll know that it works if you go to the Gemini Spark chat
+and you do {slash} weekly AI research report. The cool thing is that we can combine it with our connected
+apps. So, we can do at Notion MCP and click go. And you'll see that it connects to Notion, goes through its
+research report, and then goes to create a page. And it creates the page here that we can click on. And now
+it's a more compact report that goes over top headlines of this week. So, that I can stay up-to-date with all
+the latest AI news. Then it goes into new technologies of things that I should talk about and some popular
+methods and techniques that are happening in the space. Then it has some tools that are gaining traction.
+Again, maybe things that I should talk about in my videos, some governance and business notes, and then of
+course, citing its sources at the end. The really cool part is how we can combine the connected apps, we can
+combine the skills with the AI agent that we created in the beginning. We can head back into the scheduled
+section here and create a new scheduled task. Here, we're going to call it the weekly AI report, set it on a
+cadence. We're going to say weekly again, Monday at 9:00 a.m. But this time in the instructions, all we're
+going to do is put the slash weekly AI research report skill and tag the connected app of Notion MCP that we
+used earlier. Now, on Monday morning, or if we go test it manually, you'll see that it triggers the skill with
+the connected app. And then when you come on Monday morning, all you have to do is click allow, and the
+research report is already done, and it just adds the report to Notion. And the report in Notion is exactly
+the same format that we did manually when we ran it. So, pretty crazy that we combined the connected app to
+use external data sources. We added in a skill, which lays out instructions step-by-step on how to create our
+report, and we bundle it all together into an AI agent through Gemini Spark that runs 24/7 while we sleep. And
+this is how I stay up-to-date with AI every single week, and how I built solutions for multiple different
+companies and people and clients that I've worked with. Congrats, you are no longer a beginner to Gemini Spark
+because you've gotten all three levels to building an autonomous agent that runs for you 24/7. Now, there's so
+much more to the Google AI suite, and Gemini Spark is just one portion of that world. And if you're like me
+when I first started on this journey, [music] it can seem a little overwhelming to learn all this new
+information. But Google actually has a tool that helps you learn these things with AI. So much so that it
+actually helped me learn all the skills I needed to become an AI engineer today. If you want to find out how
+you can learn so much information that it almost feels dangerous using Gemini notebook, then I actually made a
+video that you can check out right here.

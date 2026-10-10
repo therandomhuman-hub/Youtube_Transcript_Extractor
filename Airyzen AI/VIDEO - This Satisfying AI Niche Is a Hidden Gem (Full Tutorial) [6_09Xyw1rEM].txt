@@ -1,0 +1,25 @@
+Title: This Satisfying AI Niche Is a Hidden Gem (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: 6_09Xyw1rEM
+URL: https://www.youtube.com/watch?v=6_09Xyw1rEM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:27:12+00:00
+
+Kind: captions Language: en These amazing plant growth time-lapse videos are going viral all over the internet
+and getting millions of views. And the best part is, you can create videos like these very easily using just
+one master prompt. So, first, go to Chat GPT and paste this master prompt. Then, hit enter. Chat GPT will give
+you different growth categories. Choose anyone. After that, Chat GPT will give you 10 unique video ideas for
+that category. I'm selecting idea number two. Now, select the video duration. I'm using 10 seconds for this
+tutorial. If you want to create a video longer than 10 seconds, the process is a little different. So, check
+out this video on screen. I've explained how to create longer videos in that tutorial. Now, choose the aspect
+ratio according to your needs. I'm using 9:16 for a short. After that, Chat GPT will give you one scene with
+an image prompt and a video prompt. Simply copy the image prompt and go to Flow AI. Paste the image prompt
+here and select these settings. Choose Nano Banana 2 as the model and hit enter. After a few seconds, your
+image will be ready. Now, go back to Chat GPT and copy the video prompt. Come back to Flow AI and click the
+three dots on the image you generated. Select add to prompt and paste the video prompt. Now, select these
+settings for video generation. Choose Omni Flash as the model and set the duration to 10 seconds. Then, hit
+enter. After a few moments, your video will be ready. And that's it for today's tutorial. If you have any
+video ideas, let me know in the comments. And if you found this video helpful, make sure to like the video and
+subscribe to the channel for more AI tutorials. Thanks for watching and I'll see you in the next video.

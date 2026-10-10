@@ -1,0 +1,71 @@
+Title: I Watched Iman Gadzhi’s “Master 98% of Gemini” Video So You Don’t Waste 26 Minutes
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: 1MKOA5vcvKY
+URL: https://www.youtube.com/watch?v=1MKOA5vcvKY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:35:31+00:00
+
+Kind: captions Language: en Hello guys, Iman Gadzhi just dropped a 26-minute video claiming you're not too
+late if you want to learn Gemini. I'm going to summarize it for you in 4 minutes. So, everyone keeps obsessing
+over Claude and ChatGPT, but no one is looking at this tool. And yet, I've used it to make more money, be more
+efficient, and do less of the stuff that I don't really want to do. And the coolest part about it is that it's
+embedded in everything that I already use. So, in today's video, let me talk to you about Gemini. >>
+Basically, everybody's glued to Claude and ChatGPT. But, Gadzhi says that Google AI is the one that's actually
+going to make you money. Why is that? It's because that Google AI is already inside everything you use, you
+know, Gmail, Google Docs, Google Sheets, and even YouTube. So, look, his first tip is the one that really
+matters the most with the setting up your personal intelligence, which is basically memory, connecting apps,
+and the instructions. The killer move is actually importing your memory from ChatGPT or Claude. Gemini gives
+you a prompt, you paste it into wherever you've been working. Then, it hands back a summary of everything it
+knows about you. You paste that into Gemini. And if you want, you can export your entire chat history and
+upload it, too. So, then you don't have to start from zero, which is exactly why he stayed on ChatGPT way
+longer than he should have. >> your business and the way that you make decisions. Moving to a new tool can
+feel like starting from zero. And starting fresh from zero wasn't something that I was looking to do. But,
+look, you don't have to worry about that anymore because these days it is so easy to transfer over. The first
+part here is importing your memory. How it works is Gemini is actually going to give you a prompt. You >> So,
+Iman also links his calendar and Google apps. So, Gemini has real context. And he tells it not to be basically
+like a yes-man and start pushing back if an idea is weak, right? Spend 15 minutes on that setup. Okay, now,
+most people burn their usage cuz they use the wrong model. Gemini has three models. You have flashlight, which
+basically is for dumb tasks, summarizing, quick back and forth, organizing lists, things of that nature. Um it
+barely touches your tokens, really. Use it for everything that doesn't really need thinking. Then second is
+flash. Flash is your daily driver. It reasons but doesn't really torture usage and burn it up. Then they have
+pro. Pro, bring it out when the boss wants something that was due yesterday. It burns tokens fast so use it
+pretty sparingly. Context is everything and the tokens are the currency. Manage it like Godsey's does and he
+says his company spend hundreds of thousands a month on tokens. Okay, this one is going to be the biggest time
+saver, which is gems and skills. So you stop re-explaining yourself to AI every single time you're writing. >>
+I'm actually going to take it a step further and become a lot more efficient when it comes to using Gemini.
+And that is tip number three, which is gems and skills. You see, once you start using these properly, you're
+going to realize how often you've just been wasting your time prompting AI with the same instructions typed
+out again and again for the exact same job. And that's just a waste if you ask me. >> Basically, a gem is a
+customized chat with a knowledge base stacked on top of it. For example, how you write emails, you know, build
+it once forever. Then a skill is a repeatable process. Gemini can call on it automatically and you don't even
+build it from scratch. You know, you don't build it from scratch. You describe what you want and it makes it.
+Or upload a skill file you wrote for Claude. There's even a library of thousands of ready-made ones that you
+can go look at. The intermediate tier is where Gemini actually gets really powerful. So the canvas keeps your
+chat on the left and your work on the right. It basically updates in place instead of dumping the whole thing
+back um at you to copy over. So you can use it to build a workout tracker apps, maybe make a quiz from a book
+or a chapter, or even edit scripts. >> I'm actually going to go ahead and upload a chapter from one of my
+favorite books straight into the canvas and then I'm going to ask it to build me a 10 question quiz off the
+back of it. And you're going to see that it's interactive as well. Now the first question, if I get >> And
+inside Chrome, Gemini can see your screen. Ask questions about any page without copying a single word. The
+power move is pick multiple tabs with the at symbol in task once. Then the advanced stuff, Spark. His ChatGPT
+co-work equivalent. It basically works on its own while you sleep. Godly has it summarize his whole inbox
+overnight into a Google Doc. And deep research. Have it built its own prompt first, interview you with the
+questions, then drop the finished report into notebook LM's audio overview. And then listen to it like a
+podcast. Which is genuinely a great workflow. >> Actually get my team to put up a 10-second clip of what it
+made for me. >> Yeah, that is the exact problem that this research blueprint we're doing a deep dive into
+today tries to solve. It's uh >> Now, in my opinion, here's the part worth hearing. Iman Gadzhi's honest
+verdict. Gemini is good at everything and great at nothing. Cuz Google went wide. It's in Gmail, Docs, Chrome.
+It basically Going wide means it never goes deep and it changes so much in the last few months that it doesn't
+even feel ready. >> It's good across the board and not great at any one thing. Because it feels like Google
+got so focused on getting Gemini into everything, they've gone very wide with it, okay? Gemini is in Gmail,
+Docs, Sheets, Search, Chrome on your phone, literally everywhere. But going wide doesn't automatically mean
+going deep and making it exceptional at one thing. And here's >> Last portion is that he ends with a side
+hustle summit pitch. I skip I really skipped that part, honestly. It's just like a lead magnet and um but but
+the 10 tips are the real content in there. So, if you're on Google Workspace, this is the 15 minutes of setup
+that really pays for itself every single day. So, be honest on the video, what's the one tip you you'd first,
+what part of Gemini would you like, and you know, if you want to hear more from me about Iman Gadzhi or other
+creators in the space you want me to summarize it, let me know in the comments and I'd love to do that. And if
+you want to watch my last video, I'll drop right here. I watched Iman Gadzhi's cloud video so you don't waste
+26 minutes. You can check that out.

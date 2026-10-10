@@ -1,0 +1,92 @@
+Title: $100,000 + 24 hours with Claude AI Trading Bot
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: ADW6z2uWihM
+URL: https://www.youtube.com/watch?v=ADW6z2uWihM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:21:46+00:00
+
+Kind: captions Language: en I programmed this AI bot with one mission in mind, to turn $100,000 into as much
+money as possible in a single day of trading. The idea of robotic trading goes back to the 1970s when the New
+York Stock Exchange introduced program trading to execute orders electronically. In the 2000s, high-frequency
+trading rewarded speed. So, algorithms began trading in the span of microseconds instead of waiting to perform
+heavy analysis. Now, in the late 2010s [music] and 2020s, machine learning and AI shift from a fixed set of
+rules on when to trade to an adaptive model that's trained on previous transactions and makes its own
+decisions based on current news articles and earnings calls. Now, I'm no expert when it comes to stocks, but I
+am an AI engineer. So, what did I decide to do? Turn my AI into someone who is an expert. So, I brainstormed
+the best investor that I can think of, and that is Warren Buffett. If you've been living under a rock and
+don't know who that is, he's the owner of the mega conglomerate portfolio company Berkshire Hathaway. It also
+happens to be one of the 10 richest people in the world with a net worth of $148 billion. After some searching
+on the web, I found that he's been posting every single one of his shareholder letters since 1977. This shares
+information about their financial performance, investment strategies, and their business philosophies. So, I
+downloaded all 48 that were available and uploaded it into my cloud. And then I asked it about all of its
+deepest, darkest secrets about my get-rich quick strategy. But, to my disappointment, I found out that he
+doesn't believe in day trading because of its volatility. So, I took to a new mentor, one with a little more
+risk and a lot more estrogen. And that happens to be no one other than legendary trader and hedge fund manager
+Linda Raschke. Now, I didn't know anything about her beforehand, but I found out that she uses a strategy
+that's called the Holy Grail. It involves a whole bunch of technical finance mumbo-jumbo with acronyms like
+ADX and EMA, but after some deep investigative work into the underlying strategy, I basically found out that
+it means to wait until a fast-rising stock drops to its average value, and then you buy with a safety net
+placed just below it. But here's a legitimate diagram for all the real finance bros out there. So, I
+downloaded every single PDF that I could find out there from Linda and added them to my AI. Now, here comes
+the moment of truth. Does this AI actually invest like Linda Raschke? I compiled 10 different questions based
+exactly off of her investment strategy, and we'll see what percent of those that the AI actually gets right.
+And there we have it. With 90% correct, I felt confident to go. Now that I trained up an AI bot, I need to
+find a platform to invest on. And there's two criteria I need to meet for a platform. One, it needs to be
+accessible by AI, meaning there needs to be some way that AI can connect to it. And two, it needs to have
+paper trading, because as much as I want to put in $100,000 of my own money, I'm not that rich yet. So, we're
+going to put in $100,000 of test money. Now, I've used the platform Robinhood before, and you could even call
+me a bit of a pro. And the good thing is that Robinhood actually has a cloud connector, but it doesn't have a
+paper trading strategy, so that crosses it off the list. But by doing a bit more research, I came across this
+one platform called Alpaca. And this one has both a cloud connector and paper trading with $100,000. Check and
+check. With an AI Linda bot and an Alpaca trading account, I felt ready to go. But there is just one more
+thing that I needed to prepare. I saw from multiple different articles that knowing the current events that
+are going on is key to being effective in day trading. Luckily, I found a free market and news platform called
+Market Toe, which can be connected to directly from AI to pull the latest news about any funds or markets. All
+right, now it's game day, and my strategy was simple. The market opens at 9:30 a.m. and closes at 4:00 p.m. I
+scheduled AI to run every 30 minutes and run through this workflow. First, we'll check is the cycle even valid
+during that time period. Then we'll run through a news pass where we get all the current information about
+stocks, see if any earnings calls were just released, figure out if there's any that we should be excluding
+from our list. Then for the symbols that survived our news filter, we'll pull all of the price data about
+them. Then following Linda's Holy Grail strategy, we'll calculate the ADX and the EMA using formulas that I
+don't know, but Claude does. Then we'll run it through the ADX filters that are applied through the Linda
+Raschke strategy, run some Holy Grail logic against the bucket that it fell into, then get some more account
+and position information before proposing a strategy. Then the AI will propose if I should buy, sell, or hold.
+From there, it's up to me if I want to approve or deny. And lastly, it's going to make a log of all that
+information for me to check and to share with you. I turned this whole workflow into a single command that you
+can run with in Claude code by typing {slash} scan Raschke. If you want to use that, then you can download it
+totally for free with a link in the description. 9:30 a.m. came and it was time to make the first run. During
+the news filter, it found out that Apple actually had an earnings call that morning, so it excluded it from
+the list of symbols to check. Then it ran through six different symbols and found that it should hold on all
+of them. Not really what I want to see, so I told it to expand the list a little bit further and re-ran it, in
+which again, it still said, even with the expanded list, to hold on all of them. 10:30 came and went, and
+again, it still was telling me to hold on all of them. Finally, by 11:30, it found two different stocks that I
+wanted to buy. The two were SPY and XLE. We bought 20 shares of SPY at $741 and then 300 shares of XLE at $59.
+By the time 12:30 rolled around, the AI decided to sell all of our XLE stock at a 14-cent loss per stock. So,
+not really a good way to start. The rest of the day really didn't have much action. It just held on everything
+keeping the spy stock that we had. And by the time that the market closed at 4:00 p.m., we were able to turn
+$100,000 into a whopping $100,022.40. Crazy, I know. $22 in profit. So, I know we said that we're going to run
+this for just one day of trading, but honestly, I want something with a little bit more action to see what
+happens. So, I made a couple changes to how we were assessing the stocks that we would buy and sell. And as a
+result, I made a new command called {slash} scan aggressive. We're going to take another crack with this and
+run it on the next day of the open market. Just like the other command, this one will also be available with
+the link in the description where you can download totally for free if you want to try it out. Day two just
+wrapped up and there was a lot more action this time around. We dipped our toes into some new stocks like
+Microsoft, Amazon, Meta, Netflix, and a couple other ones as well. I'll throw a summary of what happened on
+the screen here, but the most important thing is what happens by the end of the day. After two full days of
+using Claude AI as my trading bot, here is the final result. After starting with $100,000, we're now sitting
+at a grand total of $99,195. So, that second day of trading ended up tanking our stocks down pretty hard. And
+I think it really goes to prove that with this kind of trading, you need to be patient. Taking principles that
+are proven to work like the Holy Grail and then trying to expand them because you're a little less patient
+ends up resulting in a loss of money. Because if we just look at the initial day one and using that strategy,
+it actually made us a little bit of money. So, if you think about doing that over a longer period of time, I
+think it would actually work out. But because we wanted some more action and trying to get rich quick, we
+ended up here at a loss of almost $900. So, I wish I had some cool news about how much money we made, but But
+reality is that the way that we set this up, the AI bot is not the best way to do trading. I think it could
+get there at some point with some specialized training on specific stocks, [music] putting in some more
+investing knowledge and strategies, and then really sticking to that and seeing it all the way through instead
+of getting impatient and expanding the boundaries. But just because Claude AI as a day trading bot isn't the
+best solution right now, it's still great for so many other things in your daily work. So if you're interested
+in how you can set up Claude AI as an employee for yourself, then go ahead and check out this video right
+here.

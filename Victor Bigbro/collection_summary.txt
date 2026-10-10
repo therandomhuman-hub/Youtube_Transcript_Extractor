@@ -1,16 +1,16 @@
 Channel name: Victor Bigbro
 Channel URL: https://www.youtube.com/@VictorBigbro
-Last updated UTC: 2026-10-10T13:31:07+00:00
+Last updated UTC: 2026-10-10T22:39:59+00:00
 Discovered in current scan: 86
 Manifest total: 86
-Transcripts saved: 12
+Transcripts saved: 18
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 12
+Resolved items (saved transcript or explicit no-caption outcome): 18
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 74
+Still discovered/pending: 68
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

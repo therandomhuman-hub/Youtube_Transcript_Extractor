@@ -1,0 +1,37 @@
+Title: How to Convert Audio to SRT Subtitles and Translate Them with One Click!
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: QUuEYbr31cE
+URL: https://www.youtube.com/watch?v=QUuEYbr31cE
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-10T22:48:46+00:00
+
+Kind: captions Language: en In this video, I'll show you how to convert an audio file into an SRT file. An SRT
+file is what's used for video subtitles. It's also sometimes referred to as captions. Today, I'm excited to
+share with you a special tool. You simply upload your audio file and it will generate an SRT file for it.
+Plus, it can automatically translate the SRT into a language of your choice. Currently, the tool supports the
+following languages. Hindi, English, Spanish, French, Chinese, Italian, Japanese and Portuguese. More
+languages will be added in the future. Let's walk through an example. I want to create an SRT file for one of
+my videos. First, I'll open CapCut or any video editing software and create a new project. I'll add my video
+to the project timeline. Then, I'll export the project selecting the option to extract only the audio as an
+MP3 file. If your extracted audio has background music, you can clean it up using the audio separation tool I
+shared in a previous video. Now I have a clean audio file that matches my video. Next, I'll open the link to
+the tool audio to subtitles and translate. You'll find it in the video description. I'll run the first step to
+install the necessary packages. A pop -up window will appear. Click Run anyway. In just a few seconds, the
+first step will start running. Once it's complete, you'll see a green check mark next to the cell. Now let's
+generate the subtitles. Run the second step. Within a few seconds, a link to the tools Gradio app will appear.
+Click the link and you'll be taken to the apps page. Click here to upload your audio file. Once the upload is
+complete, select the original language of the audio and the target language for the translated SRT. My audio
+file language is English. And I'll choose Hindi as the translated language. Then, click Transcribe and
+Translate. In just a few seconds, you'll get two SRT files. One with the original language and one translated
+into your chosen language. Download both files. Now you have your original and translated SRT files. Final
+steps. Go back to your video editor. Drag the translated SRT file into your project timeline. Adjust the
+subtitle colors if needed to make them more readable. The final result will look like this. In this video,
+I'll show you how to install RVC on Google Colab after the latest updates. First, enter your username and
+password, then run the cell. Now you can export a new video with subtitles in Hindi or any other language you
+choose. You can follow the same steps to translate any video into any of the supported languages. Very
+important note, after you're done working on Google Colab, make sure to disconnect your session properly. Go
+to the top menu and click Run Time. Select Disconnect and Delete runtime. Then click Yes to confirm. This
+keeps your resources clean and free for future use. If you found this video helpful, please like and subscribe
+for more useful tools and tutorials. Thanks for watching.

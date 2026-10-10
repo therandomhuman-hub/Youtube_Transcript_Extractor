@@ -1,0 +1,22 @@
+Title: How to Install RVC on Google Colab - Clone Any Voice
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: DD5bIyI7_c0
+URL: https://www.youtube.com/watch?v=DD5bIyI7_c0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:48:16+00:00
+
+Kind: captions Language: en In this video, I'll show you how to install RVC on Google Collab after the latest
+updates. First, enter the username and password. Then run the cell. A pop-up window will appear. Click run
+anyway. After a few seconds, the step will begin running. Once you've logged in successfully, you should see a
+green check mark and a small check mark will also appear next to the step. You should also see T4 here. This
+means you're connected to a GPU which is required to install and run RVC on Google Collab. Now let's install
+RVC. Run the main setup step. This step takes approximately 9 minutes. When it's done, you'll see a green
+check mark next to the cell. Next, run the next step and wait for it to finish. A message will pop up. Click
+restart session. You'll notice the runtime is restarting. Wait until the connection is reestablished, then run
+the next step. After a few seconds, a message will pop up. Click restart session again. Wait until the
+connection is reestablished. RVC is now successfully installed on Google Collab and you're ready to train
+voice models, backup models to Google Drive, load models from Drive, or use the inference feature to clone and
+replace voices. For more details, check out my full RVC playlist linked in the description. Thanks for
+watching.

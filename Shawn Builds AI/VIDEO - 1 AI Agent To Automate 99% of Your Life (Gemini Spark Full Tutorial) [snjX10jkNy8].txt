@@ -1,0 +1,148 @@
+Title: 1 AI Agent To Automate 99% of Your Life (Gemini Spark Full Tutorial)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: snjX10jkNy8
+URL: https://www.youtube.com/watch?v=snjX10jkNy8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:20:02+00:00
+
+Kind: captions Language: en If you've used AI in the past, you're probably a little skeptical when you hear
+people saying that you can use it to automate 99% of your daily life. But Google's new Gemini Spark opens up a
+whole new world of possibilities that the original chat assistants couldn't do. In this video, I'll share with
+you three ways that you can use Gemini Spark to automate your life. And if you watch till the end, you'll have
+a personal AI assistant that will work for you while you sleep. Now, I don't blame you for being skeptical.
+Most of the time, AI is just slapped onto a product as a marketing stunt. After all, using ChatGPT feels more
+like a glorified Google search than anything [music] else. But with Gemini Spark, think of an AI that's
+equipped with access to any data that you need, can run at any time of the day, and can run non-stop to
+complete any task from A to Z. Things have seriously changed now with AI agents. And as an AI engineer myself
+at a multi-billion dollar digital media company, I've seen it firsthand. Just last week, I worked with a
+manager to cut off the first hour of his day every single day of the week with an agent that onboards new
+clients while he's still sleeping. Imagine waking up to not only your work done, but it being done better than
+you could have done it yourself. I'm talking about emails answered, designs created, and meetings already
+booked. At the end of the day, the people that are winning in business and life moving forward are the ones
+that are embracing AI the right way. And we want to be inside that circle instead of being stuck just like the
+people that are clinging to the manual grind work while their peers and competitors are automating. Because at
+the end of the day, if we're looking for true freedom with our time, that means handing off the things that we
+don't want to do. Before we jump in, let's understand exactly what Gemini Spark is. The main benefit to Gemini
+Spark is that it's an AI agent that's running 24/7. And since it's running in the cloud, that means that you
+can close your laptop and it will still be doing work for you. The best way to think about it is to look at
+some of its competitors. You've probably heard of Claude Co-work, for example, or even some of the more
+advanced options like Claude Code and Codex. Now, these can get technical super fast. So, if you want to go
+with the most beginner-friendly option to using an AI agent, then Gemini Spark is the AI for you. Like I
+mentioned in the intro, this video will be breaking down three different ways that you can use Gemini Spark to
+automate your daily life. And the first one of those features is using skills. If you've ever played Pokémon
+in the past, then you'll understand exactly what a skill is if you haven't heard of it before. Basically, the
+premise is that you're training your Pokémon to fight other Pokémon. And to do that, you need to give them
+special attacks. So, we have Pikachu here who has ThunderShock, Quick Attack, Slam, and Thunder Wave. In
+Pokémon, you can give your Pokémon different skills through these kind of CDs here. So, you can see in this
+example, there is a CD for Cut, Fly, Surf, Strength, Flash. These are all different moves that a Pokémon can
+learn. Skills are the exact same way. Except, instead of teaching attacks like in Pokémon, each skill is a
+separate task that you want your AI to learn. So, if you want your AI to be able to respond to emails, well,
+all you have to do is give your AI an email responder skill. Same with other tasks like taking my call notes
+or making different presentation slide decks. So, just like in Pokémon, we have our AI here. So, we have
+Gemini, and we give it the skill that we want, and all of a sudden our AI knows how to do that specific skill.
+If you think about it another way, it's kind of like an instruction manual when you're building furniture. You
+have a bunch of information on the top like, "What is included in this? What does it actually mean? What is it
+building?" And then you have the actual instruction steps from one through five on how to achieve the outcome
+that you're looking for. Here's the structure of an actual skill file. At the top, you have the name of the
+skill and some kind of description of what the skill does so that the AI knows when it should be using that
+skill. Then, underneath you have all the main instructions of what the AI needs to do to execute that skill
+properly. Here's an example one of extracting text from a PDF. The name of the skill is PDF, and the
+description says that it will extract text and tables from the PDF. And then below, there's a little bit of an
+overview, and then the instructions for this one is actually running lines of code. But as you'll see in the
+example that we go through, it doesn't need to be coding here. It just needs to be instructions on what to do.
+Now, there's two ways that we can go on to Gemini Spark. And this requires a pro plan to Google. Once you have
+that, you can go on to gemini.google.com, and on the left-hand side here, you'll see a switch. If you click
+that, you'll switch to Gemini Spark. Or in this video, I'll also show how you can do it in the desktop app.
+Again, on the left-hand side, you can switch over to Gemini Spark. And then you have a skill section on the
+left side. You can see here that I have a lead intake follow-up skill. If you want to download this for
+yourself, go ahead and click the link in the description where you can get this completely for free. Once
+you've downloaded it, all you have to do is click this arrow right here and drag in that file to upload that
+skill. Now, within here, we have the name of the skill, a description, and you can see all the steps that are
+required in order to complete the task of following up with a lead. You can see here that I just received an
+email inquiring about a business opportunity. So, back in Gemini Spark, we can go to the task section here,
+and we can run {slash} lead intake follow-up. The skill will pop up, and then you can click send. You can see
+here that Gemini Spark went through and found the email from our lead, and it's actually drafted a reply on
+our behalf that we can now send to this lead. Again, we didn't even need to do anything. We just ran the
+skill, it identified that there was a lead, and now it created an email for us to send back. So, we can see
+here the email that it drafted asking to book some time to chat. And you can even include a calendar link so
+that all of a sudden leads are getting booked on your calendar for sales call without you having to do any
+work. Now, if you stick all the way till the end at number three, you'll see how you can do this automatically
+without you even needing to run the skill for yourself. But before we get there, let's talk about number two,
+which is connectors. Connectors use this protocol called MCP, which just stands for model context protocol. If
+we go back to our video game analogy, think of your AI like a Gameboy. And all the different tools you use are
+like different games. So, we have Canva and Google Drive and Gmail. These are all different tools that we use
+in our daily life. What connectors do is that they act as this open port here in your Gameboy. And it
+standardizes the type of game that goes in. Since now they're all the same shape and size, any of these games
+can plug right into your LLM. Meaning that if you wanted, you can have your Gemini Spark create graphics on
+Canva for you, or search for files in your Google Drive, or like we just showed, draft up emails in Gmail. The
+example we're going to show is with a built-in connector to Gemini Spark. And this one is for Canva. With
+this, we can have Gemini Spark automatically connect to Canva and create different graphics for us. So, we're
+going to create some Instagram story graphics on an example product that we'll be launching next week. If you
+hop back into Gemini Spark here, you'll see that there's a connected app section. Click on that and you'll see
+some built-in connectors. Like we mentioned, there's Gmail, Google Drive, and then other ones like Google Docs
+and Google Keep. In order to use them, you can just turn it on right here. There's also some other ones. So,
+there's YouTube Music, and then there's some built-in ones like Canva, which we're going to use in this
+example, but also contacts, Dropbox, Instacart, and a bunch of others. It's also really cool that you can add
+a custom connector for yourself. So, as long as you find an app that has an available connector, and it gives
+you a URL, you can go ahead and add that into here. All you have to do to use that connected app in your
+Gemini Spark chat is do @ and then type in what you want to connect. So, we're going to do @Canva, and we're
+going to say, "Generate an Instagram story for my new face cream product launch next week." We'll see
+immediately that it starts trying to use tools from Canva. Like this one here is generating a design, and it
+comes up with the query itself on what it should use to create that infographic. Once we allow that, it will
+go ahead and execute, and now it gave us four different options to use directly from Canva. Let's say I like
+this one because it's launching next week. So, I'll go ahead and click on that, and it opens it up in Canva,
+where now we can download this and upload it to our Instagram story. It took no effort to create this. crazy
+what you can do with these connected apps. But, like I mentioned, this is all still you doing it manually by
+going to the chat, doing @Canva or /leadjn, and then running it yourself. But, we want it to happen without us
+even having to do anything. And that is where we get to the third feature that I'll be showing you, which is
+schedules. To understand how schedules really work, we first need to understand the difference between an AI
+assistant and an AI agent. With an AI assistant, you are like a coach. You are the one on the court telling
+the players exactly what to do, and you're drawing up the game plans for them by telling them to run your lead
+follow-up skill, or to connect to Canva and create your designs. It all still requires you to be there on the
+court directing the AI, telling it exactly what to do, which is great for some things, but there's other
+things where we want the AI to be able to do it all on its own. And that is where an AI agent comes into play.
+An AI agent is like your best player on the court. In a clutch situation, you give him the ball and you tell
+him to do what he does best, to go out and execute. Now, it takes a lot to be able to put your trust into an
+AI agent to do things on its own. But, that's why it's like your best player. You wouldn't allow one of your
+worst players to be able to do this, right? It's only your best players at the top of their game that you know
+have put hours and hours into training and constantly delivering to the point where you can trust them. It's
+the exact same thing with AI. What I recommend to do is first act as the coach. Give Gemini instructions on
+how to do what you need it to do. Once you trust that Gemini knows how to do that thing and you have the
+prompt that you've been using to get the perfect output, that's where we'll move to a schedule and let AI use
+that prompt that you know already works and let it act on that on its own. In order to use schedules in Gemini
+Spark, over here on the left, there's a schedule section. And from here, you can create it with Gemini or you
+can create it manually on your own. When you do create manually, you can choose exactly what cadence you want
+it to run and you can give it a name. So, if we wanted it to only run on Monday, we can uncheck all the others
+and leave just Monday every single week at 9:00 a.m. And then here is where we give it those prompt
+instructions that we trust and already know work. I created an invoicer agent that runs on a schedule here.
+Again, the prompt for this as long as the prompt from the second example and the skill from the first example
+will be available completely for free in the description below. What this skill does is that it checks this
+retainer hours tracker sheet that we have. So, for every client that we're doing work for, we have their name
+over here, exactly how many hours we've done work for them for with the rate that we're charging them, which
+comes to an overall amount that's due at the end. There's also a time log that breaks down exactly the tasks
+that were performed for each client and on what date and for how many hours. Now, what we need to do is take
+all this information of all the work that we've done and we want to make sure that we get paid for it, right?
+So, what it does is it takes this invoice template, it fills in all that information that was from the tracker
+into a nice invoice that we can send out to our client. I'll attach both of these to the same link in the
+description below along with the skills and the prompts. This prompt is really cool because it will take that
+invoice and convert it into a format that is good for email. And with this prompt created, we can now pause
+it, delete it, or what we're going to do is run it now to test it. So, we'll click run now. So, it just
+drafted up and sent out these three emails to those three clients that we had listed. And within the email, it
+says the invoice with the invoice number, the name of the client, and the date range that it's for. And it
+includes a formatted invoice exactly with all the line items, how many hours we're charging for, what the rate
+was, and the amount that's being charged. And it even summarizes all the work that was done through the time
+log that we had in our sheet. And then give some information on how to pay. And it does that the same way for
+all three clients. Pretty sweet. This is all done for us automatically on Monday morning. So, from the prior
+week, all the time that we spend actually working and delivering our projects, that's not lost. That's sent
+out automatically for us to the client so that all we need to worry about is getting that deposit into our
+bank account. Now, you know three different ways that you can use Gemini Spark to automate your life.
+Everything from writing instructions and skills to connecting to outside data sources with connected apps, and
+then using an AI agent that will run it all automatically for you on a schedule without you having to touch
+the keyboard. If this is your first introduction to the Google ecosystem, this is awesome. This puts you ahead
+of 99% of people using AI. Now, if you're excited about Gemini I like I am after seeing this, then you should
+really check out all the ways that you can use the normal Gemini chat. I've spent over 1,000 hours using
+different AI tools, and Gemini is way up there for me. So, if you want to see how you can use Gemini better
+than 99% of people [music] for any area of work or business that you're working in, then go ahead and check
+out this video right here.

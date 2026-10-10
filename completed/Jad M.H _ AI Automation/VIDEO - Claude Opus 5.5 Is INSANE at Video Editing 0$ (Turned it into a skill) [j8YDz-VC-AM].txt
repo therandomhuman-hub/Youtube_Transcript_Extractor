@@ -1,0 +1,162 @@
+Title: Claude Opus 5.5 Is INSANE at Video Editing 0$ (Turned it into a skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: j8YDz-VC-AM
+URL: https://www.youtube.com/watch?v=j8YDz-VC-AM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T21:49:01+00:00
+
+Kind: captions Language: en Okay, I read all your comments, all of them, every single one. And today I'm going
+to show you the full process of my Claude editor, how to edit your videos with AI start to finish, and not
+just long format, also short format, too, which I have never talked about in this channel because on short
+format one of my videos did over 100,000 views on TikTok. And as you know me, I'll turn it all into a skill.
+And the question I get the most is how do I edit my videos? One of you said, "I said I think many of us would
+like to know how you make your videos." And someone asked, "What do you use to edit your videos?" And somebody
+commented said, "As a Claude code user, I know this is entirely edited by Claude." And [music] yes, you were
+right. And I tweaked and I worked on my skill, and today I'm sharing it all. I've made two videos about my
+editor before, and honestly, neither of them was a proper walk-through, so this is the proper one. Because I
+don't have one AI editor, I have actually two. One for long format and one for short format. [music] And the
+one that you're watching right now is the long format, and they are a big part of why my channel is growing.
+My motion graphics videos just passed 140,000 views on YouTube, and it's insane. I can't thank you enough. So,
+everything that you're watching right now, the cuts, the sounds, the colors, the motion graphics, my Claude
+did all of it. I didn't touch a single [music] thing. And all cost is $0 apart from the Claude subscription.
+Now, obviously it has to do with consistency, the result I had. I just posted 16 long videos in 16 days. And
+those 16 days, they I did almost 300,000 views. But here's the thing, I could only stay as consistent because
+of my editor. A month ago I was posting maybe once or twice a week. So, today I'm going to show you exactly
+how both of them work, every step, what they do, what they cost, and how long they take. [music] Again, I do
+want to emphasize I turned it as a skill, two skills actually for today, the long format editor and the short
+format editor. And honestly, my favorite is a little bit the short format because I spent a lot of time
+tweaking it and making it more personal in a way. Both are free right now in my school community, link is in
+description. And honestly, I don't understand why people are not giving skills away for free. A full
+walk-through is really important. You have to understand how it works, or you won't get good edits out of it.
+That's why I would love if you could stay all the way to the end of this video. But here's the thing, they
+could also make it into a skill. It's easy to install, and that's what I'm actually doing today. I'm turning
+everything that you will see here, again, into a skill that you can install in 2 minutes. All I ask is when
+you use it, I would love if you can share in the school community post, and I would love to get some feedback
+also, what type of niche you would like to have your Claude edits. I use Claude a lot. I have a lot of tokens
+to use. I can go through my credits, especially if you want to save your credits, and you want to create a
+skill, I can do that for you. I would love to see more ideas, really. And one last thing, before we dive right
+into it, I do want to thank you so much for this past week. [music] I saw all the love. I was not expecting
+all of it, really. I mean it. We're almost at 4,000 people in there, and in my YouTube channel, we reached
+4,000 subscribers in a week. So I know what you guys love. You guys love these skills. So in my channel, I
+will be making skills every single week and turning it them for free, and I try to make skills that cost $0.
+The only thing that you would pay is your Claude subscription. I keep providing the skills. It just means a
+lot to me. And as you know me, I'm not sponsored. I don't make revenue out of my channel. I still don't. I did
+get some emails, and I don't want to take them at the moment because right now I would like to focus in my
+videos and give as much as value as possible. I know for a fact I've made some enemies and actually got an
+email from somebody about this. If you remember my last video on carousel saying that people will charge money
+for a carousel that look mid. Well, somebody contacted me via email and was not really happy about it. So
+without further ado, let's get this rolling. So first, why do you need an AI editor? I had a human editor and
+sometimes he came up with excuses which I understand. We're all humans but it does affect things. [music] It
+affects how much I pay, it affects how long a video takes and an AI that's kind of a big deal. When there's a
+news, you want the video out fast. You want to post, you want to record it and forget about it and think about
+the other one. And if the edit comes back days later, the topic is like kind of long overdue. Everybody talked
+about it affects your video. And an edit isn't one job. It's like seven jobs. Someone has to cut it, someone
+has to do color grading, someone has to do the motion graphics, someone has to scrape the internet for the
+website, the screenshots, the expos. I'm talking about someone has to do all and also somebody that has to do
+the sounds. >> [music] >> And that's usually not one person or it's one person who is really good at those
+things. These skills do all of it. So, who is this really for? So, if you have a business, you need content
+every week. Long formats or YouTube and shorts, TikToks and reels. We saw how to make carousels but also reels
+are important for your page. And you don't want to wait an editor or pay one for every single video. You
+record it, you drop it and it's done. If you have a brand, your videos need to look the same every time. Same
+colors, same fonts, same feel and that's exactly what a style is. You set it up once and every video looks
+like your brand. If you're building a personal brand like me, you'll want to post a lot, long and shorts,
+[music] and stay consistent. And the editor is what keeps you consistent. As I said earlier, if you do
+marketing for clients, for ads, for launches, every client can get their own style, their colors, their fonts,
+their rules. If you run an agency, you want to sell it, you can. Someone already took my motion graphic
+skills, put it in their agency, and they're selling it as part of their products. And this is another skill
+that you can actually do the same and charge other people. So, if you make videos or you want to make videos,
+this is exactly for you. Now, the second part, how does this work? First thing you need to understand, Claude
+can't watch a video, and he can't make a video either. It only reads and writes text. So, everything it does,
+it does with tools. Free tools that run on my computer. Claude is the editor sitting at the desk, and the
+tools are its hats. And all of it lives in one folder on my computer. I open Claude code in that folder, I
+drop my recording, and I say, "Edit this." And the first thing it does is ask me a question, which style?
+Because personally, I have eight different styles of long format, and every single time it asks first because
+the answer changes everything. Then, it just goes and does the [music] job. That's it. So, job one, it
+transcribes my video word by word with the exact time I said every word. It uses a free model from Nvidia
+called Parakeet. It runs on my laptop, and it costs nothing. So, $0 there, no API costs. [music] And here is
+what I learned the hard way from Parakeet. Once dropped 13 seconds of my audio, silently, no errors, and
+everything after it was out of sync. So, now my editor checks the transcript against the video minute by
+minute every single time. That's in the skill. The second job that it does, it cuts. It removes the pauses,
+the ums, and the takes I messed up when I record. I don't restart. I mess up a sentence, I just say it again.
+Claude sees it, I say it twice and keeps the good one and one of my videos was 10 minutes long and he cut it
+into 5 minutes. I do a lot of mistakes. But, what I do sometimes do, I do that manually. I prefer cutting that
+personally. I'm giving you this skill. I'm going to remove the packets because it sometimes doesn't do really
+a good job. But, right now I'm working into a system with Gemini cuz they just got a new release where it gets
+the audio correctly. The third job, it researches. This is the parts people don't expect. Every time I name
+something, a website, a tool, a tweet, it goes and gets the real thing. It opens Chrome in the background and
+screenshots the real website. The fourth job is motion graphics. And this is what most people don't get.
+Claude doesn't use a video model for this. It writes code. Every chart, every counter, every title is
+basically a little webpage. Then a free tool called HyperFrames >> [music] >> that is really popular in the
+browser. Takes a screenshot of every single frame and FFmpeg glues them all together. And because it's code,
+everything is editable. The color, the graphs, literally everything. The fifth job is coloring. Some of my
+style grade the footage itself like a warm film look. I mainly do that for my short content format. First, it
+cancels whatever color my camera added, then it grades and it measures the results against the numbers from
+the reference video. It's off. It fixes it. And it can cut me out of the background so big words can go behind
+my head. The sixth job is sound. Every time the layout changes, there's a transition and a sound. No silent
+cuts ever. That one [music] comes straight from me. I literally told it sounds are super important. I give it
+a library of sounds that it needs to be using. Sounds, I mainly do them in short format, not on long format.
+The seventh job is finishing. It glues all the chapters together, writes the captions, writes the chapter
+timestamps from the real video length, and give me the final video. And there's one rule that I'm really
+strict about. It never posts anything ever. [music] It renders it and stops. And I need to watch it first. So,
+that's the tools, but the tools aren't what makes it look good. Anyone can install FFmpeg. If you just tell
+Claude, "Edit my video." you get the default look. Same fonts, same gradients, same center, text fading in.
+Everybody has it. And that's what makes AI slop. The AI isn't really bad. Everybody's using the same defaults.
+And if you're an editor, you can use this to your advantage. You have the skills, you have the knowledge, and
+you can turn it into a skill. It's not going to replace your work, it's just going to make your work more
+efficient. I don't want to talk about controversy, but it looks like AI is not going anywhere else. So, just
+use that into your advantage. >> [music] >> Make that gap. So, what makes my edit looks like it's mine? There
+are two things, styles and rules. And I recommend once you get the skill, try and change it a little bit to
+have your own style. The first style, every style I have came [music] from a video I loved. I give the video
+to Claude, and since Claude can watch it, he uses FFmpeg to take screenshots every few frames. And it measures
+everything, the colors, the fonts, the layout, how long each thing stays on screen, how often the layout
+changes, and it writes all that down. For example, like my screen share style, which is this one that you're
+watching right now. It measures the video I copied it from, full screen 16% of the time, half camera, half
+39%, and 35 in big screen. >> [music] >> And the layout changes every 8 seconds. So, now my edits do look the
+same, and they stay consistent. They have these guardrails they have to respect. My long format editor has
+eight styles, like my short format has five. Now, rules, and this is super important. Every time I watch an
+edits, I [music] act like a director. I give it notes, can you relax with the sound effects, brighter, not
+dark, pause me and play the video. And then, once I'm happy with something specific, I just say, "Hey, can you
+add that into your skill?" And it keeps that forever. So, for example, my short format editor has a blacklist
+with 21 rules and every single one came from a cuts I reject. For example, no small text, no emojis, no
+captions sitting in the background, no random people as B-roll if they're not what I'm talking about. So, it
+will never use those rules. A long format editor also has the same thing. I want to show some resources
+everywhere when I talk instead of just writing. >> [music] >> Don't use random people in a podcast. So, when
+you install it, you don't start from zero. You start with all of my notes. Now, let me show you what a real
+edit looks like. I record a video, I drop the file in the folder, and I say, "Edit this." >> [music] >> It
+asks me which style and I pick it. It transcripts, it cuts it, then it writes a plan. Every chapter, what goes
+on screen, what real media to grab on, and then I have to approve. Now, the question everybody asks, "How much
+does it cost?" One of my top comment said, "Nobody ever explains the cost." So, here it is. I'm on the Claude
+Max plan [music] and I actually have four accounts. So, uh for my personal use and also for work and my
+business partner, that's the team [music] plan that we have. So, the most expensive things that you need to be
+um with the skill that you don't have to pay is basically APIs and other tools. Now, to be fair, that doesn't
+count the weeks I spent building the style and the rules, but I've already done that for you, so you don't
+have to pay more tokens. For me, when I was building the skill, it actually costed a lot. Uh I maxed out my
+plan, so $200 to be able to make this go. But, I kept refining it, so I don't have a specific number, but I
+have surpassed $200 to make the skill because I kept refining it, as you know. I have edited 81 shorts with
+it. One day, it edited five shorts. I was consistent in Instagram making five shorts a day, and it was easy to
+make. So, now how do we install this? Step one, you have to go to my school community. It's free. Link is in
+description. Step two, [music] find a post for this video. There's a link to my Google Drive. You download the
+folder. You will have two folders, one for the long format and one for the short format. You take both. I
+would prefer if you create two folders actually, one for long and one for short, so they're more consistent.
+Or you could put them together, and every time you ask Claude edit this video, please say this is a short
+form. Step three, [music] open Claude code, open the install prompts, copy everything, paste it into Claude,
+>> [music] >> and hit enter. It sets up all the free tools for you, so you don't have to install PyTorch,
+HyperFrames, or FFmpeg yourself. Step four, >> [music] >> start a new Claude code session, so the skill loads.
+Drag your recording in and say edit this and use Opus 5.5. That's what I edit with, and editing is a big job,
+so you don't go cheap on it, especially with the model. In Claude code, if you want to switch model and you
+don't know, you just uh do slash model and you pick Opus 5.5. And how long does it take it could take to edit
+it depends on the video, but with mine it does a lot of work. And my tip, uh your first edit won't be perfect.
+Mine weren't. Give it notes, and every time you say something to it, say add it to the skill. But, I'm pretty
+sure the skill that I'm giving you has already a lot of work done that I have done. And let me be honest with
+you, it's not perfect. Someone in my comments said >> [music] >> force jumps, and there are double words
+because actually that's me I'm the one cutting it and I'm not doing a perfect job with it. And a motion
+graphic designer in my comments said this can't replace editors and I get [music] it someone still has to
+decide what's good and what's bad and cloud just does the work. Especially if you have a lot of experience
+with editing you will have way better results. With that being said both skills are free in my school
+community link is in description install them edit one video and post it in school I would love to really see
+that. >> [music] >> And if you haven't clicked on subscribe please do as I will keep posting more free skills
+and thank you so much for staying all the way to the end of this video. Seriously [music] it really helps me a
+lot and I don't know how to thank you more I just try my best to make these skills. Tell me in the comments
+what you let AI edit your videos and I'll see you in the next one.

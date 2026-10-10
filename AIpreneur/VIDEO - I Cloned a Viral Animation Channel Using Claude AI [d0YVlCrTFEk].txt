@@ -1,0 +1,131 @@
+Title: I Cloned a Viral Animation Channel Using Claude AI
+Channel: AIpreneur
+Type: VIDEO
+Video ID: d0YVlCrTFEk
+URL: https://www.youtube.com/watch?v=d0YVlCrTFEk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:07:27+00:00
+
+Kind: captions Language: en What if you could build a faceless stick figure YouTube channel [music] without
+drawing, without showing your face, and without hiring an animator? In this video, I'm going to show you a
+simple, free AI [music] workflow that takes you from idea to script to visuals to voice over to a finished
+stick figure video step [music] by step. And the best part? You are not starting from zero. You are going to
+model what is already working, then use AI to build your own version around it. So, if you have ever wanted to
+start a faceless YouTube channel but felt stuck, watch this carefully because by the end of this video, you'll
+know exactly how to find the winning idea, write the script, generate the visuals, create the voice over, and
+assemble everything into a video ready to upload. Let's build it step by step. Step one, ideation. Every viral
+stick figure channel starts with one thing, a winning idea. Not a random idea, a proven idea that is already
+working on YouTube right now. >> [music] >> And this is where most beginners make their first mistake. They
+open a blank document and try to think of a viral idea. That sounds smart, but it's actually the slowest way
+to start. Viral stick figure channels are not winning because they got lucky with one random idea. They are
+winning because they understand what their audience already clicks on. So, in this first step, we are going to
+let Claude AI generate those ideas for us. However, not just any ideas. Ideas modeled from stick figure
+channels that are already crushing it. And here is how to do it. Head over to Claude and create a free
+account. You don't need the paid plan to start. The free version gives you more than enough. Once you are
+signed in, open a new chat and paste this master prompt that describes the engine of the whole workflow and
+hit send. In a few moments, Claude asks you which channel you want to model. Pick a stick figure channel that
+is performing well in a sub niche you actually enjoy. Stick figure self-help, stickman comedy, productivity
+stickman, philosophy stickman, motivational stick figure stories, anything. For me, I picked this stick figure
+channel called Simple Easy. Copy the channel URL from YouTube, paste it into Claude, and hit send. After that,
+Claude asks you to share the channel name and screenshots of the channel, the profile picture, the banner
+across the top, and the about page. So, head back to YouTube, open your selected channel, take screenshots of
+those three things, and drag them straight into Claude. Type screenshots attached and hit send. In a few
+moments, Claude studies the branding silently and gives you a full branding brief, five channel name ideas,
+two channel description options, a logo prompt, and a banner prompt. Save those, we'll use them later when we
+build the actual channel. Then, in Claude hit next. Claude asks for video transcripts. So, go back to the
+channel, click on popular videos, open one of the top performers, scroll under the description, and click show
+transcript. Copy the full transcript, paste it into Claude, do this for two or three more videos, and hit
+send. Now, Claude has the full DNA of that channel. Claude then asks, "Do you want me to generate video ideas,
+or do you already have a topic?" If you already know what video you want to make, type your topic. If you
+don't, just type generate ideas. And this is where Claude does the real deep analysis. It studies the
+transcripts and pulls out the channel's actual style, the hooks, the pacing, the storytelling flow, and the
+retention patterns that make people keep watching. In the same chat, Claude also gives you five video ideas
+built around that exact style. Pick the one that excites you the most, and that's step one done. But, an idea
+is only the seed. The script is what turns that seed into a video people actually watch. So, let's move into
+it. Step two, script writing. The script is what keeps viewers glued to the screen, and this is where most
+stick figure channels fall apart. They have decent ideas, but boring scripts. No hook, no curiosity, no
+retention loops. Lucky for us, Claude already has everything it needs to write a winning script. It studied
+the channel, it learned the pattern, it knows what works. So, once you pick your idea in step one, send it
+back to Claude. In a few moments, it starts generating the script using the style DNA from the previous step.
+Before writing, Claude may show you the target word count based on the transcripts you uploaded. For me, it
+was 1,800 words. Then, Claude drafts a full video script in under 60 seconds, matching the exact tone, pacing,
+and flow of the channel you modeled. It nails the hook, includes retention loops every 30 seconds, builds
+curiosity throughout, and ends with a clear call to action. Read it one more time. Make tiny edits if you want
+to add your own voice. Then, copy the final version into a fresh Google Doc and save it. That is it. Your
+script is done. That's step two. A script in a Google Doc isn't a video. You need visuals. Clean, animated
+stick figure scenes that make your channel look real. Step three, create visuals. This is the part where your
+stick figure channel starts to feel real and makes people stop scrolling. Strong stick figure animations are
+the difference between a channel that grows fast and a channel that dies at 40 subscribers. Here is how we
+handle it. Back in Claude, the system asked you to drop a screenshot of some videos of the channel. These are
+just screenshots of the kind of stick figure scenes, characters, and backgrounds the channel you modeled
+actually uses. Go back to that channel. Open a few of their videos. Take three to five screenshots that
+capture the visual style, the character poses, the backgrounds, the colors, the overall vibe. Upload all those
+screenshots to Claude and type images attached, but do not copy their style exactly. Add your own twist. Maybe
+your stick figures have a single splash of color. Maybe a hand-drawn rougher line. Maybe a cleaner minimalist
+look. That way, your channel stands out instead of looking like a copy. Claude studies the screenshots and
+reverse engineers the visual style, creating what's called a visual style profile. The art style, the color
+palette, the lighting, the camera angles, the composition, the mood, everything that makes those videos look
+the way they look. This profile is locked in for every prompt that follows. After that, Claude generates
+around 20 detailed image prompts, one for every scene in your script. Now, open Google Flow, the tool we're
+going to use for every single visual in this video. It is free to start, runs in your browser, and it gives
+you access to the two most powerful AI models on the market right now. Nano Banana 2 for images, VO3 for
+animations. Let's start with the images. Switch the model to Nano Banana 2. Grab your first image prompt from
+Claude and paste it in. Before you hit generate, do this one little trick. Upload a reference image first,
+something that shows your main stick figure character. This keeps every single image consistent across your
+whole video. Same character, same proportions, same world, same vibe. Now, hit generate. Within seconds, Nano
+Banana 2 creates a clean stick figure scene that matches your prompt and your reference. Download it. Repeat
+for every prompt Claude gave you. By the end, you will have every visual your script needs. Let's move now to
+the animations. Go back to Claude and say yes. Claude takes every image prompt and converts it into a
+cinematic motion prompt. So, every still scene now has a matching animation prompt. Back in Google Flow,
+switch the model to VO3. Upload the image you just generated as your reference. Paste the matching video
+prompt and hit generate. VO3 brings that stick figure to life with smooth camera movement and real motion. It
+looks like something out of a real animation studio. Do this for every scene. By the end, you will have a full
+cinematic stick figure video library. No drawing tablet, no animators, no editors, just Google Flow doing the
+heavy lifting. But, moving pictures with no voice is just a silent movie and nobody watches silent movies
+anymore. So, in step four, we give your channel a voice that sounds human. Step four, generate voiceover. A
+voice is what gives your channel its personality. It's what makes viewers connect. It is a random stick figure
+video into a brand. And the best part, you don't have to record a single word yourself. Head over to
+ElevenLabs, create a free account. It's the best AI voice tool on the internet right now. The free plan gives
+you more than enough to get started. Once you are in, click on the text-to-speech option on your dashboard.
+Now, grab the script you saved in step two and paste it into the ElevenLabs text box. Next, pick your voice.
+ElevenLabs gives you dozens of built-in voices. Male, female, young, deep, calm, energetic. Pick one that
+matches the vibe of your channel. If your stick figure channel is fast-paced and comedic, pick a confident
+young voice. If it is storytelling, philosophy, or motivational, pick a deeper, slower voice. The voice you
+choose sets the entire mood of your video. So, don't rush this choice. One more thing, pick one voice and
+stick with it across every video. That consistency is what turns your channel from random uploads into a brand
+viewers actually remember. Once you have picked your voice, press generate. In about 30 seconds, ElevenLabs
+delivers a voiceover that sounds like a real human. No robotic tone, no weird pauses, just clean, professional
+audio. Download the MP3 file, save it in the same folder as your visuals. Now, you have everything you need.
+Script, stick figure scenes, animations, voice over, all generated with AI, all ready to become a full video.
+Now, [snorts] it's time to assemble everything together into a finished video your audience will actually
+watch. Stay with me. Step five, assembling everything together. Now, we have the script, the visuals, the
+animations, and the voice over. So, the final step is to bring everything together inside CapCut. Open CapCut
+on your desktop or phone. Create a new project and import your 11 Labs voice over first. Drag the MP3 into the
+timeline because this voice over is your foundation. From this point forward, every visual, caption, sound
+effect, and transition should follow the voice. Next, import all the stick figure images and animations you
+created in Google Flow and then drop them onto the timeline in the same order as your script. Do not place
+visuals randomly. Match every scene to the exact moment the voice over talks about it. If the voice says the
+stick figure looks confused, show the confused scene. If the voice says the character starts running, cut to
+the running animation. If the voice says something important is about to happen, switch to a more dramatic
+shot. That is what makes the edit feel intentional instead of random. Now, focus on pacing. Try to change
+something on screen every three to five seconds. Whether it's a new scene, a zoom in, a reaction, a text pop
+up, or a small animation, long static shots make the video feel slow, but clean visual changes keep the
+viewers eyes moving. After that, add captions. Use CapCut's auto caption tool, let it scan the voice over, and
+then style the subtitles so they're bold, clean, and easy to read. Highlight to make the message stronger and
+easier to follow. Then, add sound design. Start with soft background music like lo-fi, tech, or cinematic
+music and keep it low around -15 to -20% volume, so it supports the voice without covering it. Add small sound
+effects where needed, a whoosh on a transition, a click when text appears, or a small ding when an important
+point pops up. Keep it clean, not noisy. Finally, add transitions like quick fades, zooms, swipes, or glitch
+effects, but don't overdo it. One transition every 10 to 15 seconds is enough. When everything is synced,
+watch the full video from start to finish. Make sure the visuals match the voice, the captions are readable,
+the music is not too loud, and the pacing feels smooth. Then hit export. Choose 1080p at 30 frames per second.
+And just like that, your stick figure video is complete, built with AI, edited in CapCut, and ready to upload
+to YouTube. Your brain deleted something today. Something you studied, something you spent real time on, and
+you had no idea it was happening. Here's the uncomfortable truth. Your brain isn't broken. It's doing exactly
+what it was designed to do. It's throwing away information it thinks you don't need. And if you're studying
+the way most students do, you're basically handing If you found this useful, subscribe to the channel, [music]
+because every week I share simple AI systems that help beginners create content, build faceless channels, and
+make money [music] online with AI. And before you go, click the next video on your screen, because I'll show
+you another beginner-friendly [music] faceless YouTube method you can start today. Thanks for watching, and
+see you in the next tutorial. [music]

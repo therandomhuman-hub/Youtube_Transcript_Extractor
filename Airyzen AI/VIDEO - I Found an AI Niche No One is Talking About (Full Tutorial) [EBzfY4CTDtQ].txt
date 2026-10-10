@@ -1,0 +1,29 @@
+Title: I Found an AI Niche No One is Talking About (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: EBzfY4CTDtQ
+URL: https://www.youtube.com/watch?v=EBzfY4CTDtQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:29:41+00:00
+
+Kind: captions Language: en In this tutorial, I'll show you how to create these amazing nostalgic old shop
+ASMR review videos. These videos give people a strong feeling of nostalgia and many viewers really enjoy
+watching them. So, first go to Claude AI, paste this master prompt. Claude will then ask you which country's
+old products you want to review. Choose any country. Then it will ask you which era you want to recreate.
+Choose any era. After that, it will give you 10 unique ideas. Choose any one. After that, select the duration
+of your video. And here's one important thing. Choose the aspect ratio according to your needs. For example,
+I'm making a short, so I'm using 9 to 16. After that, Claude will give you two scenes. In scene one, you'll
+get both an image prompt and a video prompt. And in scene two, you'll get only a video prompt. Now, you might
+be wondering, how do we generate the second part using the same image while keeping the video consistent and
+smooth? For that, don't skip the video generation part. First, copy the image prompt from scene one. Then go
+to Flow AI and paste the prompt here. Select these settings for image generation. Choose Nano Banana 2 as the
+model. After a few seconds, your image will be generated. Now, go back to Claude. From scene one, copy the
+video prompt. Then come back to Flow AI. Click the three dots on the image and select add to prompt. Now,
+paste the video prompt here. Select these settings for video generation. Choose Omni Flash as the model and
+set the duration to 10 seconds. Now, generate your first video. Once the video is generated, click on it and
+go to the last frame. Then click save frame. Now, the last frame of your first video is saved. Next, go back
+to Claude and copy the scene two video prompt. Come back to Flow AI. Click the three dots. Select add to
+prompt, and paste the scene to video prompt. Then, hit enter. Once the second video is generated, download
+both videos. And that's it for today's video. If you found this tutorial helpful, make sure to like and
+subscribe for more AI tutorials. Thanks for watching, and I'll see you in the next video.

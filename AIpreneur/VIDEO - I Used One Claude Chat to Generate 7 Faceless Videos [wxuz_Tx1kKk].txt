@@ -1,0 +1,119 @@
+Title: I Used One Claude Chat to Generate 7 Faceless Videos
+Channel: AIpreneur
+Type: VIDEO
+Video ID: wxuz_Tx1kKk
+URL: https://www.youtube.com/watch?v=wxuz_Tx1kKk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:05:13+00:00
+
+Kind: captions Language: en Look at this. Seven faceless video packages, seven hooks, seven scripts, seven
+shot lists, >> [music] >> and one full posting schedule, all built with Claude in one chat. No team, no
+filming, no starting from zero every day. And here is the important part. These are not seven fully edited
+videos ready to upload. They are seven complete production packages. [music] Titles, hooks, scripts, shot
+lists, voice over, and a posting calendar. The part most creators spend days trying to build. And I picked one
+of those packages, produced the visuals, created the voiceover, edited in CapCut, and turned it into a real
+faceless video. I'll show you exactly [music] how that happens before the end. The secret wasn't a better
+prompt. The secret was changing Claude's job. Most beginners use Claude like a writing tool. I used it like a
+production studio. But stay with me because there's one move inside the system almost nobody is talking about.
+Miss it and you'll still [music] be stuck making one video at a time. By the end of this video, you'll know
+how to turn Claude into a production studio that plans a full week of faceless videos for you >> [music] >>
+without overthinking the process. We'll go from idea to script to visuals to voiceover to final edit using a
+simple workflow you can copy for your own channel. No code, no team, and no technical skills. Welcome to
+AI-preneur and let us build it. Step one, the foundation. Before I show you how Claude helped me plan seven
+videos, you need to understand the trap most beginners fall into. They don't quit because they can't make a
+faceless video. They quit because every video feels like starting from zero. You spend hours trying to find
+the right idea. Then you write the script. Then you turn that script into visual moments. Then you generate
+the clips. Then the voiceover. You upload one video and the next day you have to repeat the whole process
+again. That is the real problem. You are not building a channel. You are rebuilding the same machine every
+single time. So, the goal isn't just to make one video faster. The goal is to make Claude understand the
+entire video machine, the idea, the script, the visuals, the voice-over, and the edit. Once Claude understands
+all five parts, it stops being just a script writer and becomes the brain of your production system. Because
+the moment Claude understands the full machine, you stop building one video at a time. You start building a
+week of content at once. That is the bulk multiplier. And in step two, I'll show you exactly how to set it up
+with two prompts you can copy. Step two, the Claude production studio, the bulk multiplier. This is where
+Claude becomes the production studio. Open Claude, start a new chat, and paste this ideation prompt. That
+tells Claude to act like your faceless YouTube content strategist and give you seven faceless video ideas, one
+for each day of the week matched to your niche and audience. For this test, my niche was motivation, and my
+audience was people over 40. But, here's the important part. I am not asking for seven random ideas. I'm
+telling Claude to mix the angles across the week, top lists, warnings, comparisons, mindset shifts, and case
+studies. That way, every video attacks a different curiosity gap. And for every idea, Claude gives me two
+things, a clickable title under 60 characters and a one-sentence opening hook. Now, hit send. In a few
+seconds, you have the first piece of the production system, seven titles, seven hooks, one full week of ideas
+in front of you. But, don't stop here. These are still just ideas. Now, we need Claude to turn them into full
+production packages. And here's the rule that makes the whole system work. Stay in the same chat and paste
+this master production prompt. That describes the whole production package. Now, before you hit send, fill in
+the creator input. First, the visual style for all seven videos. For my test, I used a 3D animated explainer,
+but you can write any style clean whiteboard tech, 3D animated explainer, warm lifestyle, golden hour,
+whatever you want the whole week to look like. Then, choose the target script duration, 60 seconds, 90
+seconds, 2 minutes, or let Claude decide the best length for each idea. For this test, I used 90 seconds. Now,
+hit send, and this is where the magic happens. Claude starts building the full pre-production package for
+every idea in a single formatted document. Each video gives you three parts. This sounds technical, but it is
+simple. Claude gives you what to say, what to show, and what to paste into 11 Labs, divided into three parts.
+Part one, the master script. Every sentence in the voice-over script is labeled with a tag, S1, S2, S3, all
+the way to the end. This is not just for organization. This tagged script becomes the single source of truth
+for the entire video, because later, the shot list and the 11 Labs script must follow the same words. Nothing
+is rewritten. Nothing drifts away from the voice-over. Part two, the shot list. Claude doesn't break the video
+into random scenes. It divides the script based on natural beat shifts, when the emotion changes, when the
+energy changes, when a new point begins. And the call to action always becomes its own final scene. For every
+scene, Claude gives you the scene title, which script tags it covers, the exact voice-over line, the video
+prompt, the camera movement, the mood, and the duration. This is the part that saves you hours, because now
+you are not looking at the script, wondering, "What visual should I create here?" Claude already tells you
+what the viewer hears, what the viewer sees, how the camera moves, how the scene feels, and how long it lasts.
+Part three, the 11 Labs ready script. Claude takes the same master script, removes the tags, adds natural
+pauses, adds line breaks, and keeps every word identical. So, when you paste it into 11 Labs, your voiceover
+still matches the shot list perfectly. When Claude finished, I realized the workflow was different. The output
+wasn't a messy AI response. It was a full production board, seven ideas, seven scripts, seven shot lists,
+seven voiceover-ready versions. And everything was connected. Every part flowed from the same source. So, I
+wasn't guessing anymore. I knew what the viewer would hear. I knew what the viewer would see. I knew how each
+scene should move, and I knew how long each scene should last. That's the bulk multiplier. One chat, two
+template prompts, and seven complete pre-production packages. One more thing, if Claude's response gets too
+long, the prompt tells it to finish the current idea cleanly, stop, and ask you to type continue. So, you
+never lose half a video in the middle. That is the moment Claude stops feeling like a chatbot and starts
+feeling like a real product. But, here's the truth. A production board isn't a finished video. It is the
+blueprint of a full week of videos waiting to be produced. So, let's produce one. Step three, visual
+production. At this point, Claude has done all the heavy planning. You have the scripts, you have the shot
+lists, you have the video prompts, you have the voiceover-ready versions, and you already know how every scene
+should look, feel, and move. Now comes the production. This is where you pick one of the seven video packages
+and turn it into a real faceless video. And don't pick the easiest one. Pick the strongest one, the one with
+the best hook, the one your audience would actually stop scrolling for. Open that package and go straight to
+the shot list. This is now your production map. Scene one tells you what the viewer hears, what visual to
+create, the mood, the camera movement, and how long the scene should last. Instead of opening an AI video tool
+and guessing what to generate, you already know exactly what to make. For example, if the script says the
+viewer feels stuck, the prompt might describe a dark room, a glowing phone screen, and someone trapped in a
+loop. That is not random b-roll. That is the visual meaning. Now, take the first video prompt from Claude and
+paste it into your AI video tool, VEO, Kling, Google Flow, or any AI video tool that fits your style. The tool
+doesn't matter as much as the system, because Claude already gave you the direction. Your job is simple. Take
+scene one, generate the clip, and download it. Then move to scene two, then scene three, then scene four,
+until the whole video is visually built. If you want the full step-by-step visual production workflow, I
+already showed that in other tutorials on this channel how to use different AI video tools, how to turn Claude
+prompts into scenes, and how to fix weak results. This video is the system that gives you the production
+board. Those videos show you the tools that turn that board into real clips. After the visuals are ready, move
+to the voice-over. Open the ElevenLabs ready script Claude created, copy it, paste it into ElevenLabs, and
+pick a voice that matches your niche. For motivation, you want something calm, deep, emotional, and
+trustworthy. For AI tutorials, you want something clear, confident, and easy to follow. Generate the
+voice-over and download the MP3. The last step is assembling everything in CapCut. So, open CapCut and create
+a new project. Drop your ElevenLabs voice-over into the timeline first. The voice is the backbone. Everything
+else follows it. Then add your AI video clips in the same order as the shot list. Scene one, scene two, scene
+three. Keep the visuals synced with the voice. When the voice-over talks about feeling stuck, show the stuck
+visual. When the voiceover talks about change, show the transition visual. When the voiceover gives the final
+message, show the strongest final scene. Now, layer the finishing touches and don't rush this part because
+this is what makes the video feel professional instead of homemade. Add captions across the whole video.
+Position in the center or lower third so they don't block your visuals. Use bold, clean text beginners watch
+with the sound off more often than you think. So, the captions carry half the message. Then, add light
+background music. Keep it low, around 15 to 20% volume, so it supports the voiceover without competing with
+it. For a motivation video, choose something slow and cinematic. For a tutorial, go with something calm and
+modern. Drop in a few simple sound effects at the moments that need a beat. A whoosh on a scene transition, a
+subtle pop when a keyword lands, a soft impact at the final line. You don't need many. Two or three good ones
+are enough to lift the whole video. Then, run a final preview from start to finish. Listen for any pacing
+issues. Check that the captions match what is being said. Then, hit export. That's it. One Claude package
+becomes one real faceless video. Now, the bigger picture becomes clear. You are not using Claude to make
+random scripts. You are using Claude to build a production board, and then you take one package at a time and
+turn it into a finished video using the tools you already know. That is how you stop starting from zero every
+single day. That is the system. Seven complete production packages built in one chat, produced one at a time.
+You do not need a team. You do not need to start over every week. You just need the right workflow, and now
+you have it. If you want the full two-prompt system I used in this video, drop seven videos in the comments
+and tell me your niche. I'll make sure you get it. And if you are completely new to faceless videos and want
+to see how to build one from scratch, go watch my previous video. It walks through the entire process from
+scratch. I'll link it right here. Subscribe to AI preneur for more AI workflow tutorials every week. Thanks
+for watching and see you in the next one.

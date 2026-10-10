@@ -1,0 +1,46 @@
+Title: How to Make Viral Ghibli-Style AI Cooking Videos (Step-by-Step)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: WhCCO1lnj5s
+URL: https://www.youtube.com/watch?v=WhCCO1lnj5s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:30:50+00:00
+
+Kind: captions Language: en This Instagram page has gained 147,000 plus followers by creating these simple AI
+Ghibli style cooking videos. Almost every video gets thousands of views, and many of them have even reached
+millions of views. In this tutorial, I'll show you how to make videos like these using just one master prompt.
+So, let's get started. Before we begin, I want to tell you about vitify.ai. You'll find the link in both the
+description and the pinned comment below. With vitify.ai, you can generate AI videos, create AI images, and
+access a wide range of AI tools all in one place. The interface is clean, well-organized, and easy to
+navigate. For this tutorial, we'll use Gen AI, so simply click on it. Here, you'll find several AI tools
+including text-to-image, text-to-video, image-to-image, image-to-video, audio-to-video, video-to-video,
+image-to-avatar, and upscale, which lets you enhance the quality of your images and videos. Now, head over to
+ChatGPT, paste this master prompt, and press enter. First, ChatGPT will ask you to choose the chef's
+character. For this tutorial, I'm selecting option two, so simply type two and press enter. Next, ChatGPT will
+ask what your character should cook. I'll choose pasta, so type pasta and press enter. Then, ChatGPT will ask
+for the video duration. I'm choosing 20 seconds. Now, ChatGPT will generate two scenes. The first scene
+includes both an image prompt and a video prompt, while the second scene includes only a video prompt. Make
+sure to watch until the end so you don't miss any important steps. Now, copy the image prompt from scene one,
+then go back to vitify.ai and paste it here. First, choose your preferred style. There are plenty of styles
+available, and for this tutorial, I'm selecting the anime style. Next, choose an image generation model.
+You'll find several options including Seed Realm V 4.5, Nano Banana, Nano Banana 2, Nano Banana Pro, and many
+more. For this tutorial, I'm using Nano Banana Pro. Now, select the 9:16 aspect ratio and click generate. Our
+image is now being generated. After a few seconds, it's ready, and the image quality looks really impressive.
+Now, it's time to generate the video. Click on the generated image, select all the existing text, and delete
+it. Next, copy the video prompt from scene one and paste it here. Now, select the image to video option. Then,
+choose a video generation model. Make sure your generated image has been added under image references. You'll
+find several video models here, including VEO 3.1, SeaArt 2.0, Grok Imagine, and many more. One thing I like
+is that Vitify.ai gives you multiple model options, so you can choose the one that best fits your needs. For
+this tutorial, I'm choosing Grok Imagine. I also tested VEO 3.1, and the quality is excellent. For this
+tutorial, I'm going with Grok Imagine. Now, select the 9:16 aspect ratio, set the resolution to 720p, choose a
+duration of 10 seconds, and click generate. The video generation has started. In my experience, it took about
+2 minutes to generate, and the quality turned out really impressive. Now, click on the generated image again,
+select image to video, copy the video prompt from scene two, paste it here, keep the same model, aspect ratio,
+resolution, and 10-second duration. Then, click generate, and that's it. Both videos are ready. Now, download
+both videos. After a little editing, here's the final result. And that's it for today's tutorial. If you'd
+like to try Vitify.ai, go check it out. The link is in both the description and the pinned comment below. You
+can also explore vitify.ai's plans to find the one that best fits your needs. If you do try it, let me know
+your experience in the comments. I'd also love to know if you'd like to see more tutorials featuring
+vitify.ai. If you found this tutorial helpful, don't forget to leave a like and subscribe for more AI
+tutorials. Thanks for watching and I'll see you in the next video.

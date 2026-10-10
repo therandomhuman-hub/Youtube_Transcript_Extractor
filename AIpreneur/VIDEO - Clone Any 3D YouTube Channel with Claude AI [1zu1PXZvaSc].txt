@@ -1,0 +1,192 @@
+Title: Clone Any 3D YouTube Channel with Claude AI
+Channel: AIpreneur
+Type: VIDEO
+Video ID: 1zu1PXZvaSc
+URL: https://www.youtube.com/watch?v=1zu1PXZvaSc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:07:57+00:00
+
+Kind: captions Language: en There's a faceless YouTube channel called ZachDFilms pulling 26.8 million
+subscribers [music] using nothing but short animation. No face, no studio, no team. And after weeks of
+breaking down exactly how it works, I built something even crazier. A full AI pipeline that clones this entire
+style. The visuals, the scripts, the animations, the edit using Claude AI one master prompt. No camera, no
+editing skills, no expensive software. By the end of this video, you'll have the same system I use, the same
+prompts, and the same workflow to launch your own faceless animation channel, even if you've never made a
+video in your life. But fair warning, most beginners destroy this system at one specific step. Miss it and
+you're not cloning a winning channel. You're just creating another invisible one. And the wild part? It all
+starts with a single decision most people get completely wrong before they even open Claude. Get this one move
+right and the rest of the system practically builds itself. Get it wrong and nothing [music] else matters. So
+let's start exactly where the system starts, with the one move that [music] decides whether your channel
+prints views or dies in the algorithm. Step one, channel selection. Well, first you need to pick a channel
+that is already winning. Don't guess. Don't pick what you like. Instead, pick a channel where the money is
+already flowing. A channel that's pulling massive views with a faceless format you can replicate. Now, let me
+show you the exact channel I picked for this build. It's called ZachDFilms. It's a faceless CGI animation
+channel that is absolutely exploding right now with hyperrealistic 3D shorts, micro explainer storytelling,
+and no face on camera. And the numbers are insane. Over 26.8 million subscribers, hundreds of millions of
+views, a fast-growing audience with the kind of retention most creators only dream about. So how do you find
+channels like this? Here's the trick. Don't just search for ZachDFilms and copy the first thing you see. Use
+Zach D films as your starting point. Open YouTube, search for Zach D films, and study the type of content
+showing up. CGI shorts, animated facts, 3D storytelling, and faceless explainers. Then take these niche
+keywords and search them directly. Type things like animation shorts, animated fact shorts, 3D fact shorts.
+Now, YouTube will start showing you more channels in the same lane, not just Zach's videos. Click into those
+channels and check if multiple videos are performing well. Don't trust one viral video. Look for channels
+where several shorts are getting strong views. In about 5 minutes, you will have four or five winning
+channels, all in the same niche, all using a format you can model. This is the foundation. If you skip this
+step, the rest of the system won't save you. Pick winners only. So, now you've got your winning channel locked
+in. But, here's the thing nobody warns you about. Having the right channel means nothing if you can't actually
+clone its style. And that's where 90% of beginners crash. They copy the topics and the format, but their
+videos still feel off, generic, and forgettable, because they're missing the one tool that turns a reference
+channel into a clonable system. Let me show you exactly what that tool is and how to weaponize it. Step two,
+the Claude AI content engine. This is where we install the content engine. I'm going to walk you through this
+slowly, click by click, because this is the most important step in the whole system. Get this right, and the
+rest builds itself. So, first things first, head over to your browser and go to Claude.ai. Click sign up if
+you don't have an account yet, or log in if you already do. The free plan works perfectly fine to start, but
+if you want longer conversations and bigger outputs, the pro plan is absolutely worth it. I'm running pro
+because I do this daily. Once you're logged in, you'll land on the main Claude AI interface. It looks simple,
+just a clean chat window with a message box at the bottom. Don't let that fool you. This is your new content
+factory. Now, before we do anything else, we need to load the engine, and here it is. Paste this prompt.
+That's the entire master prompt. Don't worry about understanding every line right now. Just paste it in
+exactly as it is. Now, give it a few moments. Claude reads the entire prompt and reconfigures itself. When
+it's ready, the 12-stage content engine starts running. The first thing Claude asks is, "What channel do you
+want to clone?" That's stage one. Just type the name of one of the winning channels you picked in step one.
+For me, I typed Zack D. Films and hit send. After that, Claude moves to stage two and asks for the channel
+name and screenshots of the channel, the profile picture, the banner across the top, and the about page. So,
+head back to YouTube. Open Zack D. Films channel. Take screenshots of those three things and drag them
+straight into Claude. Type "Screenshots attached" and hit send. In a few moments, Claude studies the branding
+silently and gives you a full branding brief, five channel name ideas, two channel description options, a logo
+prompt, and a banner prompt, all style matched to Zack D. Films. Save those. We'll use them later when we
+build the actual channel. Now, move on to stage three. Hit next, and Claude will ask for two or three full
+transcripts from the channel. So, open one of Zack's viral shorts, copy the video link, and paste it into a
+YouTube transcript extractor. If captions are available, the tool will pull the transcript for you. Then, copy
+that transcript and paste it into Claude. Repeat this with two or three viral shorts. The goal is to give
+Claude enough examples so it can study the hook, pacing, sentence rhythm, and storytelling pattern of the
+channel. And if a short doesn't have a transcript available, just skip it and choose another one with clear
+captions or auto captions. Perfect. Now, Claude moves to stage four and asks, "Do you want me to generate
+video ideas, or do you already have a topic?" If you already know what video you want to make, type your
+topic. If you don't, just type generate ideas. Claude will throw out a list of viral video titles based on the
+niche. Pick the one that hits hardest and send it. And now we hit state five, the most important part of the
+whole system. This is where Claude studies the transcripts and extracts the real style behind the channel, the
+hooks, the tone, the storytelling pattern, and the way each video keeps people watching. By the end of this
+step, Claude understands how the channel works not by copying the words, but by learning the structure behind
+them. And once that style DNA is locked in, we can turn it into a brand new original script that feels like it
+belongs in the same niche. Step three, turning style DNA into a script. This is where everything you built so
+far turns into a real script. Stay in the same Claude chat, type next, and hit send. Claude will move to state
+six, where it starts generating the script using the style DNA from the previous step. Before writing, Claude
+may show you the target word count based on the transcripts you uploaded. For example, Zach D Films videos are
+usually short around 30 seconds. So the script needs to be short, sharp, and built for retention. Now, Claude
+writes the full script, but this is not a random AI script. It follows the same pacing, hook style, rhythm,
+and structure that Claude extracted from the reference channel while keeping every word original. Once the
+script is ready, copy it and paste it into a Google Doc. Also, copy the title and place it at the top. This
+keeps everything organized before we move into the visual stage. And this next part is important because a
+strong script is not enough. If the visuals look weak, people will scroll away in the first few seconds. So
+now, we're going to turn this script into a full visual blueprint that matches the same style. Step four,
+visual production. All right, this is where the channel actually starts to look like a real channel. Up to
+this point, we have words on a page, but words don't get clicks, visuals do. And in the next few minutes,
+Claude is going to build you a full visual blueprint, the style, every single image, every single animation
+completely locked to your script. Most beginners spend weeks trying to figure this out manually. You are about
+to do it in under 10 minutes. So, head back to Claude AI and type next. Claude moves into state seven, and now
+it asks for three to five sample images from the channel. And listen carefully, these are not thumbnails.
+These are actual frames from inside the videos. Big difference. So, head back to YouTube, open one of Zach D
+Films shorts, pause it on a clean shot, a moment where you can clearly see the visual style, and take a
+screenshot. Pause again on a different scene, screenshot. Do this three to five times across different videos.
+Don't grab random frames. Instead, pick frames that show the visual clearly, the background style, and the
+overall vibe. The cleaner your screenshots, the better Claude's analysis will be. Now, drag those screenshots
+into Claude. Type images attached and hit send. In a few moments, Claude studies them and creates what's
+called a visual style profile, the art style, the color palette, the lighting, the camera angles, the
+composition, the mood, everything that makes those videos look the way they look. This profile is locked in
+for every prompt that follows. That is how your channel ends up visually consistent instead of looking like
+random AI images glued together. Now, type next again. In state eight, Claude takes your script and breaks it
+down into beats, small chunks of about three to five seconds each. So, for every three to five seconds of
+voiceover, Claude generates one fully detailed image prompt. For my script, Claude gave me around seven image
+prompts. That covers every single moment of the video. And here's the smart part. Each prompt is fully
+standalone. That means each one fully describes the scene on its own, the subject, the environment, the
+lighting, the mood, the camera angle, the action, and the visual style are explicitly named. So, when you
+paste it into a generator later, the AI doesn't lose context. Just sit back and let Claude run. Copy them into
+your Google Doc with the script. Now, hit next again to move on to state nine. Claude asks, "Do you want me to
+create video prompts for each image prompt?" Say yes. Claude takes those same image prompts and converts each
+one into an animation prompt designed specifically for a video model like Veo 3.1. Each animation prompt
+describes what motion happens, what camera movement, and what timing. Add those to your Google Doc, too. By
+the end of state nine, your blueprint is complete. One full script, a locked visual style profile, every image
+prompt, every animation prompt, all consistent, all original, all ready to render. Step five, building the AI
+production pipeline. Now, this is where most tutorials skip ahead and lose you because having the prompts is
+one thing. Actually turning them into images and clips is where beginners get stuck. So, let me slow down and
+walk you through the exact production workflow I use. To generate the images, I use Google Flow. Open Google
+Flow and create a new project. Go ahead back to the Google Doc, copy the very first image prompt from state
+eight, paste it into Flow, and hit generate. In a few seconds, your first image is ready. Now, repeat that,
+copy the second prompt, paste it into Flow, and generate. Then the third, then the fourth. Just keep moving
+down the list, one prompt at a time, until every image from your script is generated. Once all your images are
+ready, the next step is to turn them into short video clips. And this part is huge because viewers decide
+almost instantly if they want to keep watching or scroll away. If your visuals are just static, the video can
+feel flat. But when the first images move with smooth, cinematic animation, the video feels alive. That small
+movement helps stop the scroll, hold attention, and make the whole video feel more professional. So, here is
+how we animate. Open Meta AI in a new tab. Click the image upload button and upload your first image. In the
+prompt box, type "Turn this image into a video." Then go back to Google Doc, copy the matching animation
+prompt from state nine, the one tied to that exact image, and paste it directly under the "Turn this image
+into a video" line. Then hit send. In just a few seconds, Meta AI turns your image into a smooth cinematic
+clip. And because the original image was already high quality, the animated version comes out looking premium,
+too. Download that clip and save it. Now, repeat the same workflow for the next image. Upload the image, paste
+the matching animation prompt from Google Doc, and generate and download. For short video, animate most of
+your key images, especially the first 3 seconds. That opening moment is where the viewer decides if they stay
+or swipe. You don't need crazy motion on every scene, but each clip should feel alive. Add smooth camera
+movement, small zooms, or simple animations, so the short feels cinematic from start to finish. By the end of
+this step, you have a folder full of cinematic images, animated opening clips, and everything you need to
+assemble the final video. The script is ready. The visual style profile is locked. The images are generated.
+The opening is animated. Your blueprint just became a real production. But hold on, even with the best script
+and visuals, there's still one more piece that makes your short look professional before people even open it,
+the thumbnail. For shorts, the thumbnail is not everything like it is for long-form videos, because most
+people discover shorts inside the swipe feed, but it still matters when someone sees your video on your
+channel page, in search results, or next to your other uploads. A clean thumbnail makes your channel look more
+clickable, more branded, and more serious. So, go back to Claude AI one more time and hit next. This moves you
+into the thumbnail stage. Claude will ask you to upload two to three thumbnail examples from the reference
+channel. Go to Zach D Films, open his shorts or videos page, and screenshot the thumbnails that look the
+clearest and have the strongest visual pattern. Upload those examples into Claude, type thumbnails attached,
+and hit send. Claude will study the thumbnail style, the main object, the colors, the contrast, the layout,
+and the emotion that makes people curious. Once Claude finishes the analysis, hit next again. It will generate
+thumbnail concepts for your own short using the same style direction, but adapted to your topic. Choose a
+concept that is easiest to understand on mobile, then create it in Flow. And now, you have the full content
+package: the script, the visuals, the animated clips, and a clean thumbnail that makes your short look ready
+to publish. But, don't move too fast, because the next part is where your video either starts feeling
+professional or instantly feels fake. The visuals may stop the scroll, but the voice is what keeps people
+locked in. Step six, create voice over with Eleven Labs. Now, we need to turn the script into a real voice.
+And this part is important, because even if your visuals look amazing, a weak voice over makes the whole video
+feel cheap. So, for this step, I use Eleven Labs. Open Eleven Labs, go to text-to-speech, and paste your final
+script inside. Don't rush this. Choose a voice that matches the tone of the channel you are building. Calm,
+clear, slightly dramatic, but still natural. You don't want it to sound robotic. You want it to feel like a
+real storyteller is guiding the viewer through the video. Now, adjust the voice settings. Keep the stability
+balanced, add enough similarity so the voice stays consistent, and test one short paragraph before generating
+the full audio. Listen carefully. If the pacing feels too fast, add small pauses between sentences. If it
+feels too flat, choose a stronger voice or slightly increase the style setting. Once it sounds clean, generate
+the full voiceover and download it as an audio file. Save it in the same folder as your images and clips. Now,
+everything is finally ready. The script, the visuals, the animations, the thumbnail, and the voice that brings
+the entire video to life. Now, here is the moment everything clicks together. You already have the script, the
+visuals, the clips, and the voiceover. But, none of that matters if the edit feels slow, messy, or lifeless
+because the edit is where your video either hooks the viewer deeper or loses them forever. Step seven,
+assembling everything in CapCut. Now, it's time to bring the whole system together. Open CapCut and create a
+new project. First, import your Eleven Labs voiceover. Then, drop it into the timeline. This voiceover becomes
+the backbone of the entire edit because every image, clip, caption, and sound effect needs to follow the
+rhythm of the audio. Now, change the aspect ratio to 9:16. After that, import your animated clips and start
+with the strongest animated clips in the first few seconds because this is your hook. Line them up with the
+exact sentence they belong to. Then, place the remaining clips across the rest of the timeline and as you hear
+each part of the story, drag the matching video clip onto the timeline above the audio and position it to line
+up. Now, add captions. Use CapCut auto captions, go to text at the top, and click auto captions. CapCut will
+automatically generate subtitles synced to your voiceover. Pick a bold, easy-to-read style. I like ones with a
+black background or outline, and then clean them manually. Highlight the strongest words, money, terms, AI
+tools, shocking phrases, and key steps. This is what helps viewers follow the story even when they watch
+without sound. After that, add light background music, subtle whooshes, clicks, and small sound effects when
+important text or visuals appear. Keep everything clean. The voiceover should stay in front, the music should
+sit behind it, and the effects should support the story, not distract from it. Add some transitions to make it
+flow. Go to transitions in the top menu, and use simple ones like mix or black fade between each clip.
+Finally, watch the full video from start to finish. Cut anything that feels slow. Tighten every pause. Make
+sure the first 5 seconds feel impossible to skip, then export in 1080p or higher. Upload to YouTube, add your
+thumbnail, title, description, and tags, and now your AI-built faceless video is ready to publish. When you
+hold [snorts] in a sneeze, the pressure meant to escape your nose has nowhere to go, >> [music] >> so it
+shoots backwards through your sinuses and into your skull. As this pressure builds, it can rupture small blood
+vessels in your eyes and ears, >> [music] >> and in rare cases tear the tissue at the back of your throat.
+Afterwards, the trapped air pushes into the soft spaces around your face, causing swelling, and over time this
+can lead to infections deep inside your head. If you want more AI income systems like this, subscribe to
+AIpreneur, because here we don't just talk about AI tools, we turn them into real online assets. >> [music] >>
+And if you want to see another way to clone any YouTube channel using Claude, click one of these videos on
+screen now, [music] where I show you different workflows you can use to study a channel, extract its
+structure, and turn it into your own content system. [music] Watch that next, because it connects perfectly
+with what we just built here. Thanks for watching, and see [music] you next tutorial.

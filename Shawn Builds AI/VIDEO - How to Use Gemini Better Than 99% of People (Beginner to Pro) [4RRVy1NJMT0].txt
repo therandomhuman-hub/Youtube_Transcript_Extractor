@@ -1,0 +1,204 @@
+Title: How to Use Gemini Better Than 99% of People (Beginner to Pro)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 4RRVy1NJMT0
+URL: https://www.youtube.com/watch?v=4RRVy1NJMT0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:21:12+00:00
+
+Kind: captions Language: en As an AI engineer at a multi-billion dollar digital media company, I've spent over
+1,000 hours building with AI tools. And Gemini is right on top of that list right now. Now, I've learned a ton
+about how to use Gemini to run different parts of business. And I'll tell you that 99% of people aren't using
+it this way. So, in this video, I'll condense down all 1,000 hours and show you exactly how you can use Gemini
+better than 99% of people. And the best part is that each of the four steps that I show you build off one
+another. So, by the end, you'll be able to use Gemini to find leads, convert them to sales, deliver a service,
+and then make sure operations run smoothly along the way. Let's dig in. So, if you've been following my
+content for any amount of time, you'll know that I believe AI is only useful if you ignore all the hype and
+use it to solve actual problems in business. There's four main bottlenecks within business that we're going to
+use Gemini to solve. And the acronym I use for this is L S D O. L is for lead generation. So, this is how are
+you going to go and find potential customers to bring into your business or the business that you're working
+for. Now, there's a ton of different ways that you can do this, and I listed out a few of them here. So, first
+off, you could do some kind of calling. So, think about cold calling. And in the same vein, there's also
+emails. So, again, cold email outreach. Besides just doing outreach, think about content to try to get inbound
+leads. This can be in the form of pictures. So, think about like LinkedIn posts or Instagram posts. And then
+the other version of that is through video. So, that could be like YouTube videos like this. Or even creating
+reels or shorts to put onto those other platforms. So, how are we going to bring in new customers for our
+business using Gemini? Now, there's two features of Gemini that seem kind of similar, but one of them is good
+for doing this. So, I just want to cover both so you can understand what the difference is. The first one here
+is deep research. Now, what this does is that it tells Gemini to go and find multiple different sources from
+the web and compile all that information into a single response. So, the example I'm going to show you is how
+we can use this to find leads for a business by telling it exactly what criteria to look for, have it search
+through all the web, and then pull in actual sources from real companies that we can reach out to. The second
+feature I wanted to show you here is extended thinking. Now, this differs from deep research because the way
+that it works is that it goes through the same LLM multiple cycles. So, it'll think through a problem, come up
+with more questions to ask, run the LLM, answer those questions, and keep doing that over and over again until
+it gets to a result. This is really great if you need it to think deeply about a single problem. Coding is a
+really good example of this. If you just want to give it an end goal to do with your code, and it just goes
+over and over again until it solves that. But, for our purpose, we're going to use deep research, and I just
+wanted to explain the difference between these two cuz I was kind of confused when I first saw them. So, let's
+hop over to a real example. So, I ran a prompt here in Gemini. I'm going to walk you through every single part
+of it. If you want to download the template for this prompt, the link to that is in the description below. So,
+what we do is we tell it what kind of business we're running. So, I run an AI automation consulting agency,
+helping your ideal customer, so solo founders, small agency owners with a specific size, implement AI-driven
+workflows, automations, lead generation systems, et cetera. Then we can give it the actual industries. So, we
+can say that they're in events, they're in coaching and consulting, marketing SEO agencies, where they're
+based, so in the United States. Thing is, we want them to make enough money that they can afford a consulting
+engagement, and then provide an actual number of companies that we want to find. So, we're saying to find 20
+to 30 real businesses that match this profile. Then there's all the criteria we're going to get back. So, we
+want to get the business name, we want to get the owner or the founder's name that we can reach out to. We
+need the company website, preferably a LinkedIn profile URL for the founder if we can find it. If there's an
+email that's listed, that's great cuz then we can send emails. And then we want some kind of rationale as to
+why they will be a good fit. And then we're going to say only to include businesses that you can find real
+sources from. So, through doing this web search instead of just thinking through its own knowledge base. Now,
+after I ran that prompt, it came up with a research plan. So, pretty much explaining exactly what we said.
+It's going to research all those websites for the exact niche that we're looking for and provide all the
+information that we needed. So, from there you could start the research. At the end of the research, it
+compiles a report for you. So, if we take a look at this, it starts off by giving us a report of the type of
+industries that we're looking for here. But, the part that we really care about is the actual leads. So, if we
+scroll down a bit, we can see here is the list of actual leads. So, it gave us almost 30 different businesses
+here with the business name, the owner, the company URL. This is if it could find a LinkedIn profile URL or it
+tries to guess what it would be. Not as important because we can always search up the founder on LinkedIn.
+It's also guessing about an email address if it can't find one that's already online. And then gives us a
+reason why they would be a good fit. So, this is awesome, right? We have a whole list of people that need the
+exact service that we're offering. So, what we can do from here is hop onto LinkedIn, copy the people's name,
+throw it up top, and now we can see, okay, Derek here is running Acute SEO, so an SEO agency. He's the owner,
+which is perfect. That could be someone that we want to reach out to and offer our AI services to. We could
+check out one more here. It looks like Ann Smarty. Let's check out her LinkedIn. Looks like another SEO
+agency. She's the founder of Smarty Marketing SEO. So, perfect. We can offer again our AI services for running
+SEO. Or, also looks like she's posting on LinkedIn. So, we can offer our services to even post LinkedIn
+content. Awesome. Now that we're able to generate leads and bring them into a business, let's move on to the
+next part, which is about sales. This is how we can take the leads that we brought in and are showing interest
+and then convert them into an actual paying customer. So, a few different systems you can use to this are
+speed to lead. So, this is when a customer shows interest, how fast we can get back to them to schedule a
+meeting. Then we have building out customer profiles. Keep track of all the communications we had with that
+customer, all the deliverables that we've had before as well, and any files or assets that we've used
+together. So, kind of one central database that we can use about that customer for any conversations that we
+have. There's the process of writing up actual contracts and then other ones for creating sales presentations
+or decks that you want to present in a sales call or a discovery call. Now, we're going to focus on building
+out the client profiles using a Google tool called Gemini notebook. If you're familiar with notebook LM, this
+is the same thing, but it's just Google's new name for it. Now, this is something that I've actually built out
+for real sales teams that they use for their clients and the accounts that they're working for. Now, there's
+four main types of sources that we're going to add into our notebooks here. The first one is going to be
+websites. So, think about the actual company website or the account website that you're working with. The
+second one is going to be files. These are files that you are uploading from your computer. So, if you're
+taking any notes about them or you exported some emails or created a slide deck for them, these are things
+that you can upload into this notebook. The third one is going to be from your Google Drive. Now, this one is
+really useful because if we're using Google Meet for your meetings, for example, and you record the meetings,
+the transcripts will save to your Google Drive. And then you can just attach those transcripts to your
+notebook and now that notebook is aware of all the calls you've had with that client. And the last one here is
+YouTube. So, if they've posted YouTube videos or you find a video about how to actually close a deal that you
+want to use that philosophy, you could just link those videos directly in your notebook. All right, now that
+these sources are linked, what can we actually do with them? We'll take those sources, so for example, again,
+those websites, any notes that you've taken, maybe case studies, and then call transcripts, and you feed them
+all into your notebook, and then you can create a ton of different types of outputs. Now, the use cases that
+I've seen to be most helpful are coming up with reports or data tables about what to actually talk about in
+the meeting. Then there's creating slide decks to present during the meeting, and then audio overviews to
+explain everything that you need to know about that client going into that meeting, and then you can just
+listen to it before the call. All right, let's hop into a real example of how to do this. Once you're in
+Gemini notebook, you can create a new notebook here. I already created one for an example client called
+Meridian Digital. And then you'll see here there is an option to add sources. When you click on that, there's
+all the different options that we talked about before. You can add from the web, your Google Drive, directly
+from YouTube videos, or just upload files. We're going to do from Google Drive here, and I want to show you
+this folder that I made for that client, and it has all this information, including call transcripts, job
+postings that they have, case studies, information about the team, and just any information that we have about
+them. So, once we navigate to that folder, we can just select everything in here and do insert. And then
+you'll see them all on the left side here. So, what I did was first create a data table. And then I added in
+this prompt. Again, if you want the prompt, the link is in the description below. It's linked to all the
+different sources I have here. And the prompt is just saying to build a one-page call prep sheet as a table
+based on the sources in the notebook, being their top three pain points with the source that it's using,
+specific proof points from my case studies that I should reference for each one, objections that they might
+face, how I can handle them, three open-ended discovery questions to ask that reference something specific
+that they've said publicly. So, I click generate, and from there it came out with this prep call sheet. So, it
+specifically points out their pain point here, which is manual reporting. Multiple sources of Jordans say that
+they're spending 15 to 20 hours a month building slide decks. So, then it brings up an actual case study that
+I can reference of how I've solved this problem in the past. Some objections that I might face on how
+automation might miss that human touch that they want to put into their presentations, in which I can handle
+that objection by saying that automation will handle the data gathering and the visualization of the
+repetitive robot work. And now I have a couple questions to ask as well. Let's take a look at another one just
+for example. It's saying that they're having problem with scalability and growth. Specifically saying that the
+founder is the bottleneck and they had to turn down some clients. So again, we're going to bring up specific
+case studies of solving this problem in the past. We're going to tackle the objection that they're mentioning,
+and then ask a couple of discovery questions at the end. The next second way that I used this notebook was by
+generating an audio overview. So, I pasted in this prompt here. Again, the link in the description for free,
+and it says to generate an audio overview in a brief format. It's going to focus entirely on the specific
+prospect, with their pain points, what's costing them money, some industry background about them, and it's
+just going to be a pre-call briefing. So, I generated that, and it created this audio overview here. Let's
+play it here for a second. >> Imagine walking into a kitchen, but not just any kitchen. We're talking about a
+highly rated, incredibly successful restaurant. The kind with a month-long waiting list. >> Totally packed. >>
+Exactly. You push through the swinging double doors, fully expecting to see the master chef in his white
+apron, meticulously designing the next brilliant tasting. >> So, pretty cool. This will give us all the
+background that we need about the problems that they're facing before we even jump on the call. So, we
+generated new leads, we're able to convert them into sales. Now, what do we do? I like to use this analogy
+like a ladder. Each step is a ladder that we're crawling up here. So, lead gen is the first ladder. Once we
+get up there, we can tackle sales. Now, what do we do for the next part? Well, that is the D in LSDO, and that
+means delivery. How can we actually deliver our product or our service using Gemini? Well, for this, I want to
+talk about the example that I mentioned earlier, where your service could be creating LinkedIn posts for
+people. One of the biggest names right now on LinkedIn is Chris Donnelly, and he's the founder of this
+searchable.com. He has over 1.2 million followers on LinkedIn. And his main LinkedIn posting strategy is by
+creating these infographics. So, let's take a look here. We can see the first one here is which AI tool should
+you use? Talking about old versus new. He's done yeah, this graph right here. Um lot of different frameworks.
+So, founders framework, legal generation blueprint, a ton of different ones here if you just scroll through.
+The cool thing with Gemini is that they have an image generation model baked in. And in my opinion, it's the
+best image generation model out there. And that is Nano Banana. I actually have used this before to create
+multiple different LinkedIn infographics for my own LinkedIn. I'll show you examples here. So, I created one
+that was an AI iceberg of everything that's above the water and below the water. There's how to create an AI
+marketplace. And then this is a starter project. Again, it's using the AI marketplace, but the folder
+structure of the starter project to begin with creating a useful AI solution. Now, within Gemini, they have a
+way to save prompts that you can use over and over again. This is through a feature called Gemini Gems. So,
+what I'm going to show you is how to create a prompt that will consistently make quality LinkedIn
+infographics, save it as a gem so that you can run it over and over again for different topics that you want
+to create and deliver for your client. So, within Gemini, there's a section here called Gems. And I created a
+new gem here called LinkedIn. Let's take a look at what's actually involved with it. So, I just gave it a name
+and then I gave it instructions. If you want these instructions, again, the link is in the description below
+for free. So, it says that you're a LinkedIn infographic generator about creating AI automations. Every time I
+give it a topic, it's going to generate one infographic image using a strict constraints that we give it. It's
+going to use a specific color pattern that we want for our brand. So, it's saying to use terracotta and cream,
+in which we could give it a reference image if we wanted to. Very clean minimal layouts here, consistent icon
+styles, same font weight and hierarchy every single time, and keeping the image the same aspect ratio. Then
+we're going to give it some layout instructions, so always having a headline at the top, a couple of key
+points below with some small icons and labels, and then a footer at the bottom saying to follow me. And then
+there's some rules to always use the and uploaded reference image if we provide it with one. Only a couple
+things change based on my topic, nothing about the actual branding of it, right? The colors and the fonts.
+Don't use stock photos, and render it all accurately and legibly. So when you click on the gem, it starts a
+conversation, and you could see it puts this image mode here, which is Nano Banana. If you click the plus sign
+here, you can see where that's actually enabled. So I told this gem that the topic to create a visual about is
+why AI automation projects fail in the first 30 days. And within less than a minute, it generated up this
+whole infographic for me, which is using the exact prompting and brand guidelines that we told it. So pretty
+sweet, it's four different reasons that AI automation projects will fail in 30 days, and it gives my own
+branding on the bottom here. And this is something that if you do LinkedIn generation for clients, you can
+just use this to consistently create good quality posts for them, and have a gem for each of the clients that
+you're working with that hold all of their brand guidelines. All right, let's jump to the highest rung on the
+ladder here, and that is the O, which stands for operations. So this talks about how are you going to manage
+your team and communicate with them. Maybe you have a ton of different workflows that you're trying to
+automate and optimize. There's IT support and finance as well. Google has a really cool tool that is so useful
+for operations and automating workflows. I'm going to show you an example workflow of how we can draft up a
+reply to a client who's qualified when they come in through an email. If we think about currently how Gemini
+works, it's just a chatbot, right? So as you chat with it, you kick off processes manually on demand. But,
+what if you want it to happen on a schedule like everyday check my inbox, or you want it to happen from a
+trigger. So, let's say when an email comes in, that's when you want to qualify them and come up with the reply
+if they're qualified for our service. A good example of this is speed to lead. So, you want to decrease the
+amount of time it takes from when you get an email to when a calendar is booked. So, this is replying as
+quickly as possible when a lead comes in. If you're using the Google Workspace, there's a really cool tool
+that's available to you called Google Workspace Studio. Let me show you an example flow for the speed to lead
+system. So, I created this speed to lead flow here, and it starts when an email comes in. And then it's able
+to decide if the email that comes in is for a lead for my business, and if they're qualified as a business
+owner. Then it extracts all the info we need from the email, like what company is messaging me and what is the
+email about. If it decides that this is a qualified lead for business, then it's going to ask Gemini to draft
+a reply, and then it will actually create the draft of a reply in my email. Let's show an example of this
+actually kicking off. So, I drafted up an email here to myself saying, "Hi Shawn, I came in from your content
+on LinkedIn. I'm curious about workflow automation. I'm Jordan here, and some information about the company.
+Thanks." from that person. So, we'll go ahead and send that. Now, we can check out the activity here, and
+we'll see that it's running right now. It's deciding if it is a qualified lead, which it says it is true. So,
+now it's extracting that information, and it's drafting up the email. All right, so it just finished, and the
+draft email was created here. We can say It's a little bit confusing cuz I sent it from myself, where my
+account name is Shawn. So, it's a little bit confusing with the name, but you get the point here. It's
+basically replying and telling it this is something I can help out with, and if you want to book a call,
+here's my Calendly link. So, now all I need to do is continue checking my drafts. And as soon as a new one
+pops up, I can just go ahead, review it real quick, and send it. So, now you're able to not only generate
+leads, but convert them into sales, deliver on your service for them, and run your operations smoothly all
+using Google Gemini. Google Gemini is awesome, but the other tool that I find myself using more than all the
+others is Claude. I find that the pairing of Gemini and Claude really cover all the use cases that I need for
+AI. So, if you're interested in how to set up Claude AI employees run different parts of your business on your
+own, or to set up AI employees for other people, then go ahead and check out this video here of three
+different free AI employees within Claude.

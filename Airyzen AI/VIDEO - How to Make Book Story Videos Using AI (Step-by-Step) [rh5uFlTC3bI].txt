@@ -1,0 +1,47 @@
+Title: How to Make Book Story Videos Using AI (Step-by-Step)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: rh5uFlTC3bI
+URL: https://www.youtube.com/watch?v=rh5uFlTC3bI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T22:30:15+00:00
+
+Kind: captions Language: en First, watch this story video. >> Two families set off together for a peaceful
+countryside vacation. After a comfortable train journey, they reached a small village station and hired a van
+to take them to their rented house. But something was strange. The porter in the >> I created this video using
+a story from a book, and in this tutorial, I'll show you how to create videos like this using one master
+prompt. I'll also show you how to generate images in bulk for story videos, so you don't have to waste time
+generating them one by one. So, let's get started. But before we begin, one thing I want to make clear. Watch
+the entire video so you don't miss any important steps and everything stays clear. First, copy this master
+prompt. You'll find the link in the description below. Now, head over to ChatGPT, paste the master prompt, and
+press enter. ChatGPT will ask you to upload a picture of the story or paste the complete story text. I already
+have pictures of the story, so I'll simply upload them. Now, ChatGPT will ask you to choose the video
+duration. Select the duration according to how long you want your video to be. You can also enter a custom
+duration if you want to create a video of any specific length. For this tutorial, I'm selecting 2 minutes.
+Now, there's one important step before you press enter. Enter your desired aspect ratio here. If you're making
+a short or a vertical video, enter 9 to 16. If you're making a long-form video in landscape format, enter 16
+to 9. For this tutorial, I'm making a long-form video, so I'm entering 16 to 9. Now, press enter. Scroll down
+a little and you'll find the voice-over script for your video. Below that, you'll find all the scenes. For my
+2-minute video, ChatGPT generated eight scenes. Each scene includes an image prompt and a motion prompt. Now,
+copy the image prompt from scene one. We'll generate the first image manually, so head over to Flow AI, paste
+the prompt here, select the settings for image generation, and click generate. A few seconds later, our first
+image is ready. Now, we'll generate the remaining scene images in bulk. For this, you'll find a bulk image
+generation prompt in the description. Open the prompt and you'll see, "Insert all scene prompts here." Remove
+that text. Now, type one, then copy the image prompt from scene two, and paste it here. Then, type two, copy
+the image prompt from scene three, and paste it below. Continue doing the same for all the remaining scenes,
+adding each image prompt with its corresponding number. Once you've added all the image prompts, copy the
+entire prompt. Now, go back to Flow AI. Click on the agent option and open settings. The first option will be
+set to always by default, so change it to never. Select Nano Banana Pro as the model. Since we selected 16:9
+in ChatGPT, set the video ratio to 16:9 as well, then click save. Then, click on agent instructions. Add a new
+instruction and paste the prompt we just copied. Then, click done. Now, go to the first image we generated
+earlier and select add to prompt. Once everything is ready, simply press enter. And that's it. Flow AI will
+now generate all the remaining scene images in bulk, saving you a lot of time. Once all the images are
+generated, you can also use the motion prompts from each scene if you want to animate the images or turn them
+into videos. For this tutorial, I'm keeping it simple and creating the story video using static images. Now,
+download all the generated images. Next, go back to ChatGPT and copy the voiceover script. I'll be using
+Eleven Labs for the voiceover. Choose any voice you like, paste the script, and generate the voiceover. Once
+your voiceover is ready, open your preferred video editing software and do some basic editing. And that's it
+for today's tutorial. If you enjoyed the video, don't forget to leave a like and subscribe for more AI
+tutorials. Also, let me know your tutorial ideas in the comments. I'll try my best to create tutorials based
+on your suggestions. Thanks for watching and I'll see you in the next video.
