@@ -1,0 +1,20 @@
+Channel name: AIpreneur
+Channel URL: https://www.youtube.com/@AIpreneur2176
+Last updated UTC: 2026-10-10T05:51:04+00:00
+Discovered in current scan: 55
+Manifest total: 55
+Transcripts saved: 5
+No captions: 1
+Resolved items (saved transcript or explicit no-caption outcome): 6
+No-caption outcomes remain visible in the audit and do not count as saved transcripts.
+Failures: 0
+Authentication required: 0
+Rate limited: 0
+Still discovered/pending: 49
+Whisper fallback enabled: False
+HTTP 429 events this run: 0
+
+Scan results:
+- CHANNEL: OK — https://www.youtube.com/@AIpreneur2176 
+- VIDEO: OK — https://www.youtube.com/@AIpreneur2176/videos 
+- SHORT: NO_TAB — https://www.youtube.com/@AIpreneur2176/shorts ERROR: [youtube:tab] @AIpreneur2176: This channel does not have a shorts tab

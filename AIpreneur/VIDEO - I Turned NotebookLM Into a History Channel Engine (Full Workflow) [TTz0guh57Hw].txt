@@ -1,0 +1,102 @@
+Title: I Turned NotebookLM Into a History Channel Engine (Full Workflow)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: TTz0guh57Hw
+URL: https://www.youtube.com/watch?v=TTz0guh57Hw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T05:51:04+00:00
+
+Kind: captions Language: en Look at this channel, and this one, and this one. Three real history channels, all
+posting long-form videos, all pulling serious, consistent views. Right now, that's not luck. That's the proof
+this niche [music] is working. Now, what if I told you that you could start something like this with just a
+free Notebook LM engine factory? No writers, no 6-hour research sessions, no history degree. Just 1 month in,
+and you could already have a channel quietly producing accurate, [music] well-researched history videos on its
+own. Not just that, once everything's mapped out, there's a way to generate every single scene in one shot
+without touching a thing after you hit send. I'll show you exactly how later in this video. Welcome to
+AIpreneur, and let's build that step by step. Step one, build your research engine. In this step, we're
+turning Notebook LM from a blank page into an actual research engine, one that already knows what a good
+history video sounds like before you ask it for anything. So, first, open Notebook LM and start a new project.
+And then, before you add anything else, do the part everyone skips. Feed it real history channels first, so it
+learns the pacing and tone of content that already works. I'm adding three real channels as sources: Kings and
+Generals, The Armchair Historian, and The Entire History. Paste each channel's URL in one at a time, hit
+insert, and let it load. Quick honest note, I picked channels I could actually verify are real and active. If
+you swap in your own, double-check they're still posting before you build a whole system around them. Now, go
+to the settings tab in the top, hit custom, and paste this role prompt in the box. That turns Notebook LM into
+fact-checked, myth-busting script writer. Save that, and Notebook LM stops being a generic assistant. It
+becomes a myth verification researcher that already knows the shape of a good history video before you've
+typed a single idea. But, a researcher with nothing to research is useless. So, let's give it a job. Step two,
+generate your topic. Now, it's time to actually put this engine to work and get your first topic. So first,
+come back to the chat and ask it to give you five history myth-busting topic ideas, then hit enter. Here's
+what came back, five ideas, each with a myth and the correction stated in one line. The Cyrus Cylinder and the
+invention of human rights, the clumsy knight and heavy medieval armor, Operation Long Jump and the Tehran
+assassination plot, the lawless freedom of Golden Age pirates, and the obsolescence of World War I cavalry.
+I'm going with the last one, the obsolescence of World War I cavalry. Topic's locked, but before we write a
+single word, there's one step worth not skipping. Go back to sources, and this time use the deep research
+option to add two or three articles specifically about your chosen topic. Type in your topic, hit enter, and
+it'll give you around 20 sources, hit import on the ones that fit. This is what makes the difference between a
+script that sounds right and a script that is right. The style comes from the channels, but every fact now has
+to trace back to an actual source. Sources are loaded, topic is locked, and the research is [music] airtight.
+Now comes the part that actually turns all of this into something someone will sit and watch. Step three,
+write the script. Now it's time to turn all that research into an actual script, the part that decides whether
+anyone watches past the first 10 seconds. So first, go back to the chat session again and paste this prompt,
+which describes the whole core of your story script. And here's what came back, an 800-word script that opens
+on the exact cinematic image everyone already has in their head, glittering horsemen charging headlong into
+machine gun fire before revealing that cavalry was never actually rendered obsolete. It walks through how
+horse-mounted units really operated, dismounting to fight as rapid reaction infantry rather than charging with
+sabers, then traces the myth back to the early, highly visible disasters of of Halen. The verify tags landed
+exactly where they should on the specific dates, units, and casualty figures, not on the parts of the story
+that are already well established. Script's done. But a script with no visual plan is just a wall of text
+waiting to slow down your entire edit. So, let's fix that before it becomes a problem. Step four, build the
+visual plan. In this step, we turn that script into an actual shot list without ever leaving this project. So,
+first, go back to settings, then custom, and swap in this visual planner prompt that turns your finished
+script into a complete scene-by-scene visual blueprint, and hit save. Now, come back to the chat again and
+type "Build the visual plan for the script above." And hit send. Here's what comes back. Eight locked
+characters and settings, cavalrymen, warhorses, tanks, and key battlefield locations, followed by a full
+36-scene table, one row per beat, ready to export straight from the studio panel. Visual plan's ready. Now,
+it's time to actually see all of it. Step five, generate the visuals in bulk. Now, it's time for the part I
+promised you at the very start of this video. So, first, open Google Flow and start a new project. In the
+prompt settings, set Nano Banana 2 as your image model. Then, pick your aspect ratio, 16x9 for long form, 9x16
+for shorts. Then, look for the agent option and select it. Now, start generating your character and setting
+references first, one at a time. The cold steel cavalryman, the warhorse, the German Uhlan, the trench
+landscape, and the battlefield of Halen. Type "Insert scenes" below them and hit send. This locks each look in
+on its own, so nothing drifts once the batch starts. Once those are ready, drag each reference image directly
+into the prompt box. That's what tells Flow to carry that exact look into every scene that calls for it. Now,
+type "Insert all scenes." Paste your entire image prompt list directly below it, and add one more line at the
+end. Rename each generated image by its scene number in order. Hit send and Flow generates every single scene
+image automatically, one after another, renaming as it goes while you do nothing at all. Just leave it
+running. Once the stills are back, switch over to the video model and set your clip length to match your
+pacing. Reopen the agent and type insert all scenes one more time. But this time, paste the video prompt in
+first, then your full list of images right underneath it and send it off. The agent will show you the credit
+cost up front. Approve it and every scene animates on its own. Quick honest note, image generation in Flow is
+unlimited, but video generation isn't. It runs on credits, roughly 12 credits per 8-second clip, and you get
+50 free credits every day. Visuals are done. Now, they need a voice, or none of this lands. Step six, turn the
+script into a voice. Now it's time to give this whole story an actual voice. So first, open 11 Labs, go into
+text-to-speech, and switch over to the V3 model. Then pick something calm and clear. This is a myth correction
+video, not a horror story. So a measured, confident tone works better than anything dramatic. Now feed it your
+script in chunks, under 100 words at a time. Generate the chunk, then actually listen back to it before moving
+on. Small mispronunciations and flatline reads are easy to miss if you just skim past them. Once it sounds
+right, download it, then move to the next chunk. And number your files as you go, so they stay in order. Every
+piece is on the table now, voice, visuals, all of it. Time to turn it into an actual video. Step seven,
+assemble everything in CapCut. Now it's time to bring everything together into one finished video. So first,
+get all your assets into one folder, numbered video clips, voiceover files, and music tracks. Then open
+CapCut, start a new project, and import that whole folder in one go. Now, your voice-over goes down first.
+It's the spine of this entire edit because every clip gets matched to what's being said. So, listen through it
+and cut all the data out before you touch anything else. Then, select all your voice-over clips, right-click,
+and hit create compound clip. Don't skip this step if your captions come out broken or misaligned later. Then,
+lay your video clips across the timeline in order. Each one landing on the part of the script it illustrates.
+Since these are already animated, you don't need to add movement yourself. Just trim each clip to fit its
+matching line of narration. Now, go into CapCut's transitions panel. It's loaded with options to choose from,
+so pick one that fits between your scenes so each cut feels smooth and intentional rather than jumping
+straight from one clip to the next. Now, add captions, go to captions, hit generate, then choose a template.
+White text with a black outline works on basically any scene. Lastly, add your music tracks at around minus 20
+decibels. Then, preview it once from start to finish, check everything one more time, and hit export. >> We
+have all seen the tragic, romanticized image, a line of proud, glittering horsemen, sabers raised to the sky,
+charging headlong into a hail of machine gun fire, only to be systematically annihilated in a matter of
+seconds. In popular memory, the cavalry of the First World War is the ultimate symbol of military
+incompetence. >> We are told. [music] >> That's the full engine. And here's the part worth sitting with. Every
+single stage, from topic to script [music] to full visual blueprint, ran inside one Notebook LM project. No
+jumping between five different tools to get one video made. [music] Drop history in the comments with a myth
+you want this engine to bust next, and I will send you the full prompt pack. And if [music] you want to see
+another new engine rebuilt for a completely different niche, that video's on screen right now. Subscribe to AI
+preneur and I'll see you in the next one.

@@ -1,0 +1,134 @@
+Title: GPT-6 Astra Just Made Faceless Channels Way Easier
+Channel: AIpreneur
+Type: VIDEO
+Video ID: BW3tewLzZpE
+URL: https://www.youtube.com/watch?v=BW3tewLzZpE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T05:49:58+00:00
+
+Kind: captions Language: en Look at this scientific lore channel. 196,000 subscribers, $14 million total
+views, and around $7,000 a month in estimated earnings. That's a serious audience and a clear sign that people
+keep coming back for these stories. Now, what if you could start a channel like this with one step-by-step
+prompt system inside GPT6 Astro, the new model of chat GPT? You don't need to hire writers or artists, and you
+don't need any video making experience to follow along. I will walk you through it from your first idea to
+your finished video. Imagine a month from now, publishing original videos set in a universe you created with
+its own places, stories, and visual style. And here's the best part. Once your scenes are planned, just send
+the prompts together and let it run on autopilot. Step away, grab a coffee, then come back to check the
+visuals and fix anything that looks off. Stick with me because I'll show you how to reuse that setup [music]
+for your next episode and keep building your channel from there. Welcome to apipreneur and let's get started.
+First, open chatgpt.com and create a project with your channel's working name. Then, select GPT6 Astra from
+the model menu below the message box. If you see a thinking effort option, leave it at the default for now.
+Higher effort gives Astra more time to work through complex tasks, but it also takes longer. Use it for the
+difficult steps and keep it lower for simple ones. Next, go to YouTube and search the kind of channel you want
+to build. I searched for a scientific lore channel and the one I'm using for this whole video is monetized
+certifiably in-game with 196,000 subscribers, 104 million views. And look at it, it's still posting videos
+that outperform the subscriber count. That's a channel winning on format, not on a name people already trust.
+Now, click the videos tab and sort by popular. Those top videos are what you are taking apart. Open the first
+video, copy the URL and note the title and view count. Then under the description, click the three dots and
+hit show transcript. That's the text you need. Copy all of it and grab two or three screenshots of the
+visuals. Do that for four to five of their top videos. Then attach everything inside your project. Now come
+back to the chat and paste the first prompt that analyses the identity of the pick channel. Hit send. Wait a
+few moments and look at what comes back. First, the evidence table with one row per reference video broken
+into audience promise, hook mechanism, story progression, visual approach, and production difficulty. It shows
+what each video is actually doing and why does this universe look different. Then it separates observations
+from hypothesis, what the files actually show versus what it's guessing. And this column tells you which file
+each observation came from. underneath that two lists. The structural conventions you can borrow, how they
+open, how the middle is built out of cause and effect rather than a list of facts, how they separate what's
+established from what's speculation. And then the things you have to build yourself, their wording, their
+branding, their world, their voice, and at the bottom, it shows you what the evidence can't prove. With that
+one prompt, you've broken down who the channel is for, how it grabs attention, how the videos are structured,
+and what gives them their look. Now, we'll use those insights to build a channel with its own identity. Now,
+come back in the same chat and paste this second prompt that turns the format you just extracted into three
+universes that are entirely yours. And look at what comes back. Three directions. And they're not three coats
+of paint on the same idea. genuinely different premises, different audiences, different production demands.
+Each one gives you a target viewer, a oneline promise with three topic pillars and a visual approach and what
+it would actually take to produce. And look at this column, how it differs from the channel you just studied.
+Then it picks one, explains why in two sentences, and builds it into a full brief with a working name and
+pallet with codes. And notice what it refuses to claim. It flags that the name hasn't been checked and calls
+audience demand an untested hypothesis rather than a promise. Now come back again in the same chat and paste
+this prompt that takes your channel brief and recommends the winning topic for it. Wait a few moments and a
+full table comes back with highquality ideas judged on things you can actually check. Each row gives you the
+viewer's question. what you could genuinely put on screen, which world rules it leans on, how hard it is to
+build, and how well it delivers the channel's promise. That difficulty column is the one that matters when
+you're doing this alone. Then, it names the winner and explains the reasoning. Finally, it gets you three
+titles for that winning idea, each with its own matching thumbnail concept and an explanation of why each pair
+works together. So now you've got your first episode, your title, and your thumbnail direction. All of it
+traceable back to the brief. That's the topic line. But before we write a single word, there's one step worth
+not skipping. So back again to the chat and paste this next prompt that extracts the rule book for your picked
+channel. Hit send and look what coming back. A notebook of everything your universe now commits to. Each entry
+gets an ID and a status, established, implied, or intentionally left open. It also tells us whether the rule
+applies to this episode or the whole universe. That way, when we reach episode 4, we're still following the
+rules we set in episode 1. Then, a section of what stays unknown on purpose, each with a note on what you
+can't accidentally claim while it's open. And at the bottom, the contradiction list, your world breaks. That's
+your continuity handled before you've written a line. Now come back in the same chat. Attach the channel brief
+and the world ledger we just created and paste this next prompt that handles the first script for your channel
+and hit send. You'll get the finished narration ready to record, followed by the three biggest issues, the
+review found, and a breakdown of which World Ledger rules each paragraph follows. Before moving on, read the
+opening out loud. Does it sound natural? Is anything awkward or confusing? Ask for a quick adjustment in the
+same chat while it's still easy to fix. Once you're happy with it, attach your final script in World Ledger.
+Then paste this next prompt. That analyses your final script and builds the full visual plan for your episode.
+Hit send and give it a minute. What comes back is a shot list with one row for every scene in your video.
+Roughly 8 seconds per scene because that's what Flow gives you in one clip. Mine ran just under seven minutes,
+so it came back with 52 scenes. Take a look at any row. You can see the exact narration, what appears on
+screen, and the prompt to generate that image. Every scene gets its own visual, so we won't need to reuse
+images or build anything by hand in the editor. Now, scroll through the shots. Notice the variety. A wide view
+of the interior, a low angle looking up, then a close-up of a surface. We're showing the same world from
+different perspectives, keeping the visuals interesting as the story moves forward. Below the table, you'll
+find all 52 image prompts in one clean block. Keep that handy. We'll paste it into Flow in a moment. And at
+the bottom, you'll find motion prompts for a few selected scenes. These are the shots where a camera move
+helps reveal something or draw your attention to an important detail. Now, we have our story. But before we
+generate anything, we need to decide what viewers will actually see while they're listening. So, open Google
+Flow, start a new project, set your image model, and before we generate all 52 scenes, let's start with one
+image. This will be our anchor, the visual reference we'll use to keep everything consistent. Repeating the
+same description helps, but a reference image lets us show the AI exactly what we want. So head back to Astra
+and paste this prompt that handles the visual direction of the reference image. Now copy the complete prompt
+Astra gives you and head over to Google Flow. Paste it into the prompt box. Make sure your preferred image
+model is selected. Set the aspect ratio to 16 to9 and hit generate. Take a moment to check the design
+materials and lighting. If anything looks wrong, fix it now. We'll use this image to guide the look of our
+scenes. Once you're happy, download it. That's our anchor. Now open the agent option in flow and drag the
+reference image. Next, head back to Astra and scroll below the scene table. You'll find all 52 image prompts
+collected in one numbered block. Copy that whole block, making sure you include every prompt from scene 1 to
+scene 52. Then return to Flow and paste it into the message box underneath your reference image. Add a short
+instruction. Use the attached image as a visual reference. Hit send and let it work. Once the images are
+ready, check them against your reference. Look for changes in the overall style, lighting, or recurring
+objects. Now, let's bring a few of these images to life. Our plan already includes motion prompts for the
+selected scenes, so we'll use those here. Stay in agent mode and select your video model. Drag the images you
+want to animate. Then, paste their matching motion prompts from the plan. Make sure each prompt clearly
+identifies its scene image and ask the agent to name each video by scene number. Hit send. Let the clips
+generate. Then review them to make sure the movement looks right and the objects stay consistent. Keep an eye
+on your credits as you go. Visuals are done. Now they need a voice or none of this lands. So open 11 Labs and
+go to text to speech. The voice sets the tone for your whole channel. So think about what your format actually
+needs. Mine's an archive. So I want measured, calm, a little detached, not a thriller narrator. The voice
+should sound like it belongs to the world, not to an ad. Preview a few before you commit, then stick with it.
+It becomes part of your channel's identity, just like the colors are. Then feed it your script in chunks under
+a 100 words at a time. Generate, then actually listen back before you move on. Mispronunciations and flatline
+reads are easy to miss when you're skimming. Once it sounds right, download it and number the file so the
+order survives into the edit. Every piece is on the table now. voice, visuals, all of it. Time to turn it into
+an actual video. Get everything into one folder. Your numbered scene images, the animated clips, your
+voiceover files, and a music track. Then, open Cap Cut, start a new project, and import the whole folder in
+one go. Voice over goes down first. It's the spine of this edit because every visual matches what's being set.
+So, listen through and cut the dead air before you touch a single image. Then, select all your voiceover
+clips. Right click and create compound clips. Don't skip that one. It's what stops your captions from coming
+out misaligned later. Now lay your visuals across the timeline in order. Your scene plan already told you
+exactly which file goes where, so there's no guessing. Then lay your video and images clips across the
+timeline in order, each one landing on the part of the script it illustrates. The animated ones are already
+moving. Just trim them to their line. For the stills, add a slow push in or out that runs all the way to the
+end of the clip. because if it stops early, the image just sits there still, and that looks weird. Add a
+smooth transitions between scenes should match the format, too. Mine's calm and deliberate, so I'm using mix
+cuts and black fades. Nothing flashy. If your channel's faster, cut harder. Add captions, generate them, then
+fix the words it got wrong. And this is where your on-screen text goes, too. The labels, your plan listed for
+specific scenes. Pick one font, one color treatment, and use it everywhere. That's the font consistency we
+protected by keeping text out of the images. Put the music underneath at around minus20 dB, quiet enough that
+the voice stays in front. Preview once from start to finish and export it at 1,080p. The strangest detail on
+this starship is the empty space running through its middle. Between the crew compartment and the engines,
+there's an exposed frame carrying pipes, [music] cables, and almost nothing else. Why leave such a large part
+of the ship uncovered? because the engines produce heat and the crew needs somewhere that stays cool. [music]
+>> So, the system's built, but there's one thing it can't do for you. I pointed this at scientific lore
+[music] because I checked first. I found a channel already winning in that lane and worked out exactly why it
+works. That took me an afternoon and it's the only reason [music] everything after it had somewhere to go.
+Skip that and you'll build all of this beautifully [music] in a niche nobody's watching. And if you want a
+different workflow with the same idea [music] and free tool, check out the video on screen right now where I
+use Notebook LM to decode what's already [music] working. Drop archive in the comments with a sci-fi idea
+you'd build. I'll tell you if there's an episode in it. [music] Subscribe to AI Prreneur and see you in the
+next tutorial.

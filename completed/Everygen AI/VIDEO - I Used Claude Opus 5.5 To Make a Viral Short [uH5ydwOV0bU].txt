@@ -1,0 +1,121 @@
+Title: I Used Claude Opus 5.5 To Make a Viral Short
+Channel: Everygen AI
+Type: VIDEO
+Video ID: uH5ydwOV0bU
+URL: https://www.youtube.com/watch?v=uH5ydwOV0bU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T05:40:31+00:00
+
+Kind: captions Language: en This YouTube channel has made over $40,000 in a single month posting faceless
+shorts. So, it got me thinking, can I use the newest Claude Opus 5.5 model to make a short that could actually
+go viral? I've never made one before, but even I know that generating a video doesn't mean that people will
+watch it. So, today I'm figuring out what actually gets views and revenue and whether I can make it with AI.
+Every viral short comes down to nailing three things. the idea, the script, and the visuals. And we all know
+AI can't generate all three nowadays. But if you try that and your video barely got any views, what are you
+supposed to change? Well, that's the step that was missing. The research. Before we generate anything, we need
+to understand what's actually working right now and exactly why. That research is going to guide our idea, our
+script, and every single visual we use. And this is where the Evergen plugin for Claude comes in. To connect
+Evergen to Claude, I'll go to customize connectors, add custom connector. I'm going to call it Evergen, and
+I'm going to paste the link that you will find down below in the description. And now we are ready to do our
+research. So, I'm just going to go and tell Claude to analyze the most viral videos from this channel using
+EverGen and tell me exactly why they went viral. As you can see, it's using the video analysis tool, and after
+a few minutes, it has came back with the shotby-shot breakdown that we were looking for. So, apparently, all
+viral videos on this channel held back the payoff until the last few words. For example, if the video is about
+weird tiny creatures, which are crabs in this case, the viewer will only hear the word crab at the very end of
+the video. The hook always ties a strange object back to the viewer. For example, saying that the viewer has
+eaten these tiny creatures before. The script never gives viewers a place to scroll thanks to words like
+because, as, or but. The visuals are being changed every 1.3 to 1.5 seconds, which is essential to know for
+our workflow in the future. And the videos always loop because the ending is abrupt, which again doesn't let
+the viewer swipe away. That's what we're optimizing for. Doing this in-depth research of the viral channel
+instead of letting AI guess and wasting a bunch of your time and credits is the prerequisite for going viral.
+But now, let's actually apply all those learnings. And we're going to start with the idea. We already know
+what we're looking for. Something strange that is weirdly familiar to everyone with a reveal people would want
+to stick around for. So, I'll tell Claude, "Okay, great. Now, based on the analysis, give me five original
+video ideas that will go viral. Include the hook, the story will tell, the final reveal, and what viral video
+we have as inspo. By the way, while Claude is cooking, all the prompts I'm using in this video are going to be
+down below in the description. Okay, we have a list of potential ideas, but before I pick one, there are three
+things I'm paying attention to. First, does the hook make me curious immediately? Secondly, is the reveal
+actually surprising? If we're asking people to stick until the end, the answer needs to be worth waiting for.
+And lastly, is there enough stuff happening visually? We just saw that Discovery Do changes shots every a
+second and a half, so we need a story that we can tell visually. Looking at the five ideas we have, these two
+stand out to me immediately because of their hooks. These farmers are brushing bugs off cactus because you've
+probably eaten them this week. It kind of makes me want to watch the rest of the video instantly because it
+ties this strange gross thing back to me, which like Ber earlier tends to go viral. By the way, this idea is
+based on the short that has gotten 127 million views. But for today's experiment, I want to go for this one
+instead. The Hulk says, "These divers are spearing every one of these beautiful fish, and it's actually saving
+the ocean." Here, we're taking inspiration from this 57 million view short, where we take an act that sounds
+cruel, so spearing the fish, but then it actually turns out to be good. Having a great idea like this is
+essential to go viral. But what buries most shorts in the 200 view jail is the execution of that idea. Let's
+tell Claude that I want to go with the third option and have it write the script through EverGen. We do it
+this way because we want the script to follow the viral principles we found before during the research step.
+And as you can see, it came back to us in just a few seconds with an absolute banger. So, the hook is exactly
+how we liked it before. The sentences blend into each other with words like so, but and as once. There is
+moral tension, which I actually absolutely love. So, we say, "It may seem wrong to kill them." The final
+reveal only appears in the final line before the video loops. And of course, the script is already fact
+checked. Now, this is great, but this is the exact point where most people go wrong. They hand the reins to AI
+fully, let it generate the whole thing, and just hope for the best. And you might get lucky, but most likely
+you're going to waste a bunch of credits and get slop back. So instead, we're going to generate a shot map
+first. Basically, exactly what the viewer is going to see for every line of the voice over. And actually,
+Claude told me earlier based on our research that Discovery Do uses as much real world footage as possible. So
+that's exactly what we're going to ask Claude to find. Now map every line of the script to a visual. >> Two
+hours later. If you can't find anything for a specific voice over line, don't stress about it. We'll just
+generate an AI clip with every >> tomorrow. >> Okay, the shot map is back. And actually, it's crazy. Look at
+what Claude has just found. This is from a random channel with about 300 subscribers posted 5 years ago. I
+would never ever have found this myself, but it actually fits the video we're creating perfectly. And this is
+why this short map stage is so important. We gave Claude the exact story to illustrate, plus everything we
+learned from Discovery Dose. And now we saved ourselves a bunch of credits because we don't need to generate
+the whole video with AI, but just a few clips and made the final result much better because we're going to use
+a lot of real world footage. So, to put everything we have together into a viral short, you have two options.
+If you want to save some more credits and have full manual control, you can download the clips Claude just
+found yourself and edit everything together in Capcot, Premiere Pro, or Every Gen's video editor. But to save
+some time, I'm going to have Claude assemble the short itself using the Every Gen plug-in. I do want to add
+music, captions, and some light graphics myself though, and I'm going to show you how to do it all in under 5
+minutes in just a second. But for now, I'm going to ask Claude to skip those. This way, we outsource the
+time-consuming part to AI while keeping the control over the finishing touches to make sure that there are no
+silly mistakes like typos in the captions, for example. Okay, this is what we got back. >> These divers are
+spearing every one of these beautiful fish, and it's actually saving the ocean. And it may seem wrong to kill
+them, but they're an invasive species from the Indo-Pacific with no natural predators in the Atlantic and
+Caribbean. So nothing stops them from eating huge numbers of native reef fish, including the small fish that
+keep coral reefs healthy. And keep in mind that a single female can release millions of eggs every year. But
+since their spines are venomous, divers catch them with special spears and now hold hunting competitions to
+remove as many as possible. As once the spines are cut off, the meat is white and mild. So restaurants now
+serve them because lion fish is actually delicious. And that's why >> Wow. Honestly, I'm so pleasantly
+surprised. It looks great. the pacing, the voice over, the shot selection, the fact that there are no stupid
+mistakes like AI sometimes has. Everything is done exactly like on the viral channel we're copying. But now,
+let's actually make it have this virality potential by adding finishing touches, which won't take more than 5
+minutes. I'm going to drop the video Claude has just outputed into every gen's video editor because really
+everything that we need to finish up the short is already templatized here. Now, I noticed that Discovery Do
+uses this suspenseful music in their videos to peique viewers interest even more. So, I'm going to go to the
+sounds tab and I'm going to enable the suspenseful filter for music. And honestly, all of these probably would
+be good. I'm just going to go for the very first one. What I'm going to do is I'm just going to trim this song
+nicely like that. And I'm going to create a few key frames at the very end for the volume to make sure that it
+fades out. And just like that, we're done with our music. Let's move on to captions. So for that, I'm going to
+click on the video that Claw generated for us. I'm going to scroll a little bit down until we see the presets
+for the captions. And in my opinion, this impact bold one looks the cleanest. So I'm just going to click on
+it. And then I'm going to click generate captions. And after a few seconds, as you can see, we have these
+captions that look pretty good. The last step, which is totally optional, is just I've noticed that in the
+viral video we're taking as inspiration, they have this red arrow pop up around a second into the video
+pointing to the specific object that the viewer should be paying attention to. So, I'm going to do the same
+exact thing, and it's going to be very, very simple. I'm just going to click on add track over here. I'm going
+to add a video track. Then I'm going to go to the stickers tab. I'm going to select the arrow uh we have over
+here. And I'm going to zoom in a little bit to make sure that this arrow starts exactly when we say every one
+of these beautiful fish because I want the arrow to be pointing at the actual fish. Just like that. I'm going
+to key frame its position over here. And I'm going to make sure that the arrow stays almost like attached to
+the fish throughout the duration of the whole clip by just key framing its position like that. Now, that
+probably took me less than 3 minutes, but we have our shot ready. So, I'm going to go and click export and
+let's see what we cooked up. These divers are spearing every one of these beautiful fish, and it's actually
+saving the ocean. And it may seem wrong to kill them, but they're an invasive species from the Indo-Pacific
+with no natural predators in the Atlantic and Caribbean. So, nothing stops them from eating huge numbers of
+native reef fish, including the small fish that keep coral reefs healthy. And keep in mind that a single
+female can release millions of eggs every year. But since their spines are venomous, divers catch them with
+special spears and now hold hunting competitions to remove as many as possible. as once the spines are cut
+off, the meat is white and mild. So, restaurants now serve them because lion fish is actually delicious. And
+that's why >> I'm of course going to let you judge it yourself, but I think this is a really good output for
+something that has taken us less than 30 minutes. And because Claude kind of guides you throughout the whole
+process, you can follow it as a complete beginner. And the biggest thing I have personally learned is that the
+research we did initially gives you the reason behind every single decision that comes later. Without that
+research, we'd just be guessing. So, here's your challenge. Pick a channel in your niche, break down what's
+working, and then create your very own viral short. You'll find every gen, the claw setup, and all the prompts
+I've used in the video down below in the description. Thank you for watching and I'm going to see you in the
+next

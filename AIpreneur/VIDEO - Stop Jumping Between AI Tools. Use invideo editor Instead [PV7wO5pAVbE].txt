@@ -1,0 +1,115 @@
+Title: Stop Jumping Between AI Tools. Use invideo editor Instead
+Channel: AIpreneur
+Type: VIDEO
+Video ID: PV7wO5pAVbE
+URL: https://www.youtube.com/watch?v=PV7wO5pAVbE
+Language: en-US
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-10T05:48:43+00:00
+
+Kind: captions Language: en-US Look at this. This…And this… What if I told you that you could make visuals,
+voice, music, even motion graphics, without jumping between different tools anymore? one prompt, inside one
+single tool. This is the new invideo editor. It's free to use, and today I'll show you exactly how it works,
+click by click. And if you're serious about starting your channel today, stick with me until the end, because
+this removes most of the production headaches you've been fighting. Here's my real session for the first film.
+One message in. A storyboard out. Then the agent builds the whole thing on the timeline by itself: images,
+video clips, voice, music and captions. That's the first cut. And by the end of this video, you'll know
+exactly how to make your own. Welcome to AIPreneur, and let us build this together. Alright, let's go. Open
+your browser and head to ai.invideo.io. At the top right, click Log in. You can sign in with your Google
+account in one click. On the home page, right under the big text box, you'll see a button called Timeline
+Editor. Click it. A small window opens. Click Start with a blank timeline. If it asks for a project name, I'll
+call mine Garbo, then click Create. And here's our editor. Quick tour, so nothing looks scary. On the left is
+where your agent will live. In the middle is the preview, where you watch your video. On the right is the
+timeline, where every image, clip, voice, and caption will land. And up here you have the Edit and Audio tabs,
+for when you want to fix things yourself. Remember this empty timeline. In a few minutes, it will hold a
+complete film, and you won't drag a single file to get there. Now, let’s move to the part that changes
+everything: your own AI agent editor, living right inside the timeline editor. So, on the left side, click
+Create agent. It asks for a name. I'll call mine Garbo Editor. You can call yours anything you like. And there
+it is.You talk to it in plain English, it does the heavy work on the timeline, and you stay in charge of every
+decision. But before we give it anything to do, we need the most important ingredient of all: a good story. A
+story that works in this style has four things. It's real, so you can check every fact. It has one hero
+against something much bigger. It has a twist you can say in one sentence. And it has moments you can show,
+not just explain. For this video, I picked Juan Pujol, the spy known as Garbo. A Spanish chicken farmer who
+fooled the German high command around D-Day, and got medals from both sides. One hero, one huge enemy, and a
+twist nobody sees coming. Story picked. Now let's turn it into instructions the agent can actually follow: Let
+me show you how it's built. It has four simple parts: Part one, the style: the recipe for the look, written
+once and kept word for word in every shot. Part two, the production rules: only three real video shots, still
+images with slow camera moves for the rest, and the storyboard always comes first. Part three, sound and text:
+a documentary narrator, tense music with no sound effects, and bold captions. Part four, the shots: ten shots,
+each with the exact line the narrator will say. Now I paste it into the chat and hit send. In a few moments,
+the agent starts analysing your instructions and processing your scenes; at the same time, it asks me a couple
+of questions, like how long do you want? How much should this scene move, what mood do I want for the music,
+and how do you want the voice and the music to be rendered? Then it comes back to generating the scenes after
+each approval: you will see the agent on the left processing and generating scenes one by one, testing shots
+and fixing production issues, just like a real editor would. Each time, take a second. Read the options, look
+at what each one would change, and pick the one that fits your story best. Don't rush this part, because your
+answers decide what your video will look and sound like. Everything looks good, so I approve. And now the fun
+part starts: Keep your eyes on the timeline. The agent creates the video clips and the narration, then puts
+everything in order. The images and clips go here. The voice goes here. The music sits underneath. And the
+captions go on top. I didn't drag a single file. Let's watch the first cut. Not bad for a first try, right?
+But a first cut is not a final cut. Let's improve and make it yours. Look at the timeline on the right. Now
+you have two ways to improve it: ask the agent or take control yourself. The first way: just ask. Our agent is
+still right there on the left, so we just talk to it like we would with a human editor. I ask for two changes
+in one message: First, turn the opening scene into a short video with Seedance 2.5, so the film starts with
+real movement. Then swap one scene for a better version: scene 6.6 out, scene 6.1 in. And look at what it does
+before touching anything. It reads the whole timeline first, so it doesn't break the narration timing. It even
+watches the new scene and counts the fake agents on screen. There are seventeen, so it keeps ten of the
+existing ones, and the shot still ends with exactly twenty-seven. While the new opening renders with Seedance
+2.5, it prepares the swap on the timeline. And here's the detail I love. The first clip was only five seconds,
+too short to cover the opening line. So the agent generated a longer, eight-second take, and placed it so the
+next scene starts exactly on its first spoken word. Before exporting, it checks its own work one more time. It
+catches a tiny frozen moment at the end of the farm shot, and fixes it. Then I ask for one last thing:
+transitions between the scenes, with soft fades and dissolves. And again, the change lands right on the
+timeline. The second way: do it yourself. Everything the agent built stays editable. Click any clip, and the
+Inspector on the right gives you the controls: zoom, position, rotation and crop. So if you want to adjust
+something by hand, you can. That's the balance I love here. The agent does the heavy lifting, but the final
+call is always yours. When you're ready, click Preview to watch the whole film full size. And when everything
+is good, export it in 1080p and download your video. And remember the clean 3D version you saw at the very
+start? That one is right here, in a separate project inside the same editor. Same story, same workflow. A
+blank timeline, an agent, and a prompt. The only difference is the style I asked for: minimalist 3D figures,
+like a clean Blender render. Here are the shots the agent generated for it. So once you have a story that
+works, you can try it in as many styles as you want. Now let's try a completely different style. This time,
+we're making a short cinematic war teaser: a historical battle scene that looks like the opening of a
+big-budget movie. Just like before, we start with a new project, and we call it "History". Then we open the
+invideo editor, click Timeline Editor, and choose Start with blank timeline. Now we click Create agent and
+give it a name. I'll call it "History" too, so we always know which project it belongs to. And our agent is
+ready. All we have to do now is tell it what we want. Next, we tell the agent what we want: a fifteen-second
+war teaser about the night Constantinople fell, in 1453. Big-budget and photorealistic, with smoke, fire, and
+flying embers, and no video until we approve the storyboard. We hit send, and the agent comes back with a plan
+and four quick questions. We pick David Joel as the narrator, let each shot follow the length of its line,
+skip the on-screen title, and go with a stock music track. It even catches a small historical detail on the
+banners and offers to fix it. We say yes. From there, the agent takes over. It draws the storyboard, and we
+approve it. It renders the three shots while the narration is being created, and redoes the two that miss the
+brief. Then it lays everything on the timeline: video, captions, voice and music.lastly we click Preview and
+hit Export. Now, here's the one that surprised me most: motion graphics. With clean shapes,moving text and
+exact timing. First, we create a new project. Go back to the home page, click Timeline Editor, then Start with
+blank timeline. Next, on the left, we click Create agent. And we give it a name. I'll call mine "motion
+graphics". Now, before we send it any content, we give it a style. Think of it as your own mini design system.
+I describe mine in a few short lines: electric-blue interfaces, deep navy backgrounds, floating UI cards,
+clean typography and smooth 2.5D parallax. We send it, and look at the reply. The agent saves it as the house
+style, so every scene it builds in this project follows the same look. Then we send the content. For this
+test, I picked the 50/30/20 budget rule as a 10-second animation. And we describe it step by step, in plain
+English. The title appears, then moves up. A circle draws in and fills to fifty percent for needs. Then thirty
+percent for wants. Then twenty percent for savings. And to finish, the chart slides to the left, and "Simple.
+Powerful." appears on the right. Now the agent comes back with a few questions, just like a real editor would.
+It spotted a conflict: my description asks for teal, coral, and gold, but my style is all blues. So instead of
+guessing, it asks which one wins. Here, we keep it consistent and choose the blue family. Then we set the
+length to ten seconds, and we submit our answers. Next, look what it does with our description. It turns it
+into a second-by-second plan. Zero to one and a half seconds: the title. One and a half to four: the first
+fill. Four to six: the second fill. And so on. So either write it second by second yourself, or describe it
+clearly and let the agent break it down. Just never leave the timing vague. After that, the agent locks the
+look with three stills: the opening, the full chart, and the end frame. Same rule as before, images first. We
+check them, and if everything looks right, we approve. Then the agent renders the full ten seconds as one
+continuous shot, with Seedance 2.5. And it doesn't stop there. It reviews its own render. It checks the
+labels, checks the chart proportions, and even catches the title getting cut off for a split second at the
+end. Then it goes back to fix it. Finally, once everything checks out, the agent places the clip right on our
+timeline. Ready to play, ready to export: Ten seconds. An animated chart, moving text and icons, in my own
+visual style. If you run an explainer channel, a finance channel, or a business page, this alone can save you
+hours every week. Let's recap. In one video, we made three completely different styles: a 3D documentary, a
+cinematic battle scene, and a motion graphics explainer. All inside one editor, with an AI agent doing the
+heavy work on the timeline. No dragging files, no keyframes, and hours of editing saved. I've put the invideo
+editor link and all three prompts in the description, so you don't have to rebuild them yourself. And if you
+make your own film, comment editor and tell me which story you picked. I read every one. Now you know how to
+make the videos. So the next big question is: what channel should you actually build? In my last video, I
+showed you how to decode the system behind a successful channel and build your own version of it. It's right
+here on screen, and it's the perfect next step after this one. Thanks for watching, and I'll see you there.

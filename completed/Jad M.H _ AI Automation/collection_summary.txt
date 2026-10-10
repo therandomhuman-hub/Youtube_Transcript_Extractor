@@ -1,18 +1,18 @@
 Channel name: Jad M.H  | AI Automation
 Channel URL: https://www.youtube.com/@JadM.H
-Last updated UTC: 2026-10-09T21:13:59+00:00
+Last updated UTC: 2026-10-10T05:27:33+00:00
 Discovered in current scan: 185
 Manifest total: 185
 Transcripts saved: 184
 No captions: 1
+Resolved items (saved transcript or explicit no-caption outcome): 185
+No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
 Still discovered/pending: 0
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
-Archive status: COMPLETED under the resolved-outcome policy (184 transcripts saved, 1 item recorded as NO_CAPTIONS).
-No-caption outcome remains visible in transcript_manifest.json and transcript_audit.csv; it is not counted as a saved transcript.
 
 Scan results:
 - CHANNEL: OK — https://www.youtube.com/@JadM.H 

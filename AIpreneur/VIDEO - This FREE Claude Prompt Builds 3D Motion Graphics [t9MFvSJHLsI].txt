@@ -1,0 +1,92 @@
+Title: This FREE Claude Prompt Builds 3D Motion Graphics
+Channel: AIpreneur
+Type: VIDEO
+Video ID: t9MFvSJHLsI
+URL: https://www.youtube.com/watch?v=t9MFvSJHLsI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T05:48:10+00:00
+
+Kind: captions Language: en You've probably seen 3D motion graphics videos like these going viral across
+Instagram, [music] TikTok, and Pinterest. And here's what makes it interesting. People pay real money for
+videos like these. But traditionally, making one takes hours of work [music] in After Effects. And if you've
+ever tried making one yourself, you already know how it goes. You open the software, you watch a 2-hour
+tutorial just to move one shape across the screen. You lose a whole evening on a 3-second animation. So, you
+close it and you tell yourself this kind of work just isn't for you. But it is. Today, you were just handed
+the hardest way to do it without complicated software, design background, or paid subscription. And the result
+looks like it came out of a professional studio. It all starts with one [music] master prompt and a 1-hour
+workflow. So, let's get started. First thing, open Claude, start a new chat, and paste this prompt. That's one
+master prompt and one chat. And from here, you drive the whole thing by typing the word next. Claude comes
+back with five viral topic ideas and asks you to pick one by number. Or, you can skip them and write your own
+in your own words. For this video, I'm going with this one. Curiosity is not a hook. It's a hole in the brain.
+And look at what comes back. In a few moments, Claude writes the script. 11 short lines grouped from the hook
+to the closing truth. And it opens with, "They say curiosity is a hook that pulls you in. But curiosity is not
+a hook." Every sentence is short on purpose because each one is going to become one image. Now, scroll down
+and keep your eyes on what comes underneath it because this one line tells you exactly how many scenes you're
+making. Scene count, 11. One line, one scene. So, before you generate anything, you already know you need 11
+images and 11 clips. Now, let's give all of this a look. So, back again to the chat and type next. In a few
+moments, Claude gives you three palettes. All three have have same look. The only thing that changes is the
+paper and the color that carries the weight. Purple on off-white, teal on dark slate, or terracotta and orange
+on pale cream. I'm taking the third one, terracotta and orange. And what prints out now is your locked
+palette, the paper, the grid, the accent shapes, the typography, and the two background lines fixed for all 11
+scenes. And Claude writes it into every single image prompt from here on. Type next again and all 11 image
+prompts come out at once. Each one comes with its script line, the image prompt, and the exact words for that
+frame. And this time, those words are generated right inside the image. So, head over to Google Flow, open a
+new project, and turn on agent mode. Before you generate anything, open the agent settings and set both
+defaults at once. Images at 9 by 16, one per prompt with Nano Banana 2, and video at 9 by 16, one per prompt
+with Omni 1.1 Flash. Then, paste this line above. Create an image for each of the prompts given below and
+paste all 11 prompts from Claude. Now, hit generate and let it fill the grid. And look at this. Same cream
+paper, same grid, same terracotta and orange shapes. The brain, the puzzle piece, the fishing hook, 11
+different scenes, and they all look like they came from one video. That's the locked palette doing its job.
+And the words are already on every frame. Curiosity, hole, gap, itch. Now, rename every one of them right
+inside Flow. S01, S02, S03, straight down the list. I know this looks like the boring step you skip, but Flow
+hands these back in a grid with no labels, and in the very next stage, you're matching them against video
+prompts. Now, let's move to the motion. In the same Claude chat, type next and every image gets its matching
+video prompt. Each clip is built in four phases, an open, a kinetic build, a hold, and an exit. That's
+deliberate. It gives you a clean cut point at both ends. Now, back again to your same project in Google Flow
+and drag your images in as references from S01 straight through. Your agent mode, video model, and ratio are
+already set from the start. So, just paste this batch instruction above your video prompts to matches every
+video prompt to its image and animates each one for 6 seconds and hit generate. A floating marble brain with a
+glowing orange hole drifts before the bold word hole on a minimal white background. In the final second, the
+camera zooms into the hole transitioning to the next scene. Now, a quick honest note, on the free plan, Flow
+only gives you a limited number of credits each day. So, you won't get all 11 clips in one sitting. Expect to
+finish them over two or three days. On a paid plan, you can do it all at once. So, once all 11 clips are
+ready, open the first one, S01, then S02, all the way to S11. Now, do the same for the rest. Next, download
+them on your desktop in a file you can refer back to later. And there they are, all 11 clips in order in one
+folder. The visuals are finished and right now, they're completely silent. But a motion graphic without a
+voice is just pretty pictures moving. So, let's give it one. Again, go back to Claude Chat. But this workflow
+has no voice stage. So, instead of typing next, paste this short prompt that reformats your script into 11
+lines to fit inside its 6-second clip. And Claude prints your script back out with the same words formatted
+for the voice engine, one line for each of your 11 scenes. Now, copy all that and open 11 Labs in a new tab.
+Go to text to speech and paste your script into the text box. Next, pick a voice that fits your video. For
+this one, I want something calm and clear, so I'm going with a deep, raspy voice. Hit generate, and in a few
+seconds, you'll hear it read back. Listen to it once all the way through. If a line sounds rushed or flat,
+just regenerate. Once it feels right, download the MP3. And here's one honest note I want to pass on. The
+voice won't read at exactly the speed your 6-second clips assume. So, once the voiceover is on your timeline,
+remeasure each line, because the real lengths will be slightly different. Now you have the visuals and the
+voice, but right now, they're just pieces sitting in a folder. The next few minutes in CapCut are what turn
+them into something people actually stop scrolling. Open CapCut desktop and start a new project. Import your
+voiceover along with all 11 clips. Voiceover goes down first, because that's your backbone. Everything else
+gets timed to it. Now, before you put any clips, you see this ratio icon here? Click on it and change your
+ration to 9:16 or whatever you want. And now add a solid cream color track underneath everything in the exact
+pale cream paper color from your locked palette. That way, when a clip fades out, it fades into paper, not
+into black. It keeps the whole video feeling like one sheet. Then bring your clips in above it, S01 through
+S11, in order, and trim each one to the length of its voiceover line. Most of these clips lose a good chunk
+off the end, and that's fine, because the fade is going to replace the exit. Now they fade. About five frames
+before the end of each clip, set an opacity keyframe at 100 and keep going for all the clips. A 100% opacity
+keyframe and a 0% opacity keyframe on every single one. On the very last frame, set one at zero. And because
+of that cream track underneath, it fades into paper. After you complete that, go to animation and set some in
+animation, like slide, to make the transition smooth. And then, select all the clips, right click, and make a
+compound clip. Then, add music underneath low enough that the voice always sits on top, and two sound effects,
+a paper snip when the hole first appears in the brain, and a single soft tick on the last scene when the dot
+breaks loose from the question mark. Lastly, when everything looks good, export at 1080p30 frames per seconds.
+And for the cover, use the whole frame, the brain with the hole glowing through it because it's the strongest
+single frame in the video. And here's the finished result. >> They say curiosity is a hook that pulls [music]
+you in. But curiosity is not a hook. It is a hole in your brain. Your brain spots a gap between what you know
+[music] and what you want. That gap feels like an itch you cannot ignore. >> [music] >> So, that's the whole
+thing. One master prompt, one locked palette, two batches, [music] and one edit. Now, if you want to see a
+different style approach running on a full YouTube [music] channel instead of a single video, that build is
+right there on your screen. And if you want the exact master prompt I use in this video, just type motion
+graphics in the comments, [music] and I'll send it to you. And make sure you subscribe and hit the
+notification bell because in the next video, I'm showing you part two, [music] an even easier way to make
+these where all you do is prompting. Thanks for watching, and see you there.

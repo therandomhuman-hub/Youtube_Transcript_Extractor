@@ -1,0 +1,220 @@
+Title: GoHighLevel AI Studio Tutorial (Beginner’s Step-by-Step Setup)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: gncu8nn4WC0
+URL: https://www.youtube.com/watch?v=gncu8nn4WC0
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-10T05:30:59+00:00
+
+Kind: captions Language: en What's up you guys? Jason Wardrop here and I am super pumped for today's video
+because I'm going to give you a full tutorial of GoHigh Level's new AI studio. I'm going to give you some real
+life use cases. I'm going to show you exactly what I'm building right now and how you can leverage this for
+your own agency. I'm going to show you how to unlock early access. So, you've been seeing everyone talking
+about High Level's AI Studio and you're like, I'm not seeing this on my account. I'm going to show you how to
+unlock that everything step by step today. And if you're brand new to the High Leo community, you're watching
+this video, you think this is awesome, I'll have an extended 30-day free trial down in the description that
+you can jump in, get started. You'll get all my courses, templates, scripts, private community, weekly live
+calls with me, everything from A to Z. So, without further ado, let's jump in. I want to show you guys exactly
+some use cases of how I've been using this and how you can go through and use it for your own business as
+well. So, this is a website I use for a demo client. This took me about 10 seconds to go through and create.
+I'm going to show you guys how to actually create this on today's video. But I just gave High Level's AI
+Studio a simple prompt, which I'll show you guys exactly here in just a second. And it made this
+professionally, beautifully designed website with all the information of this business, how to contact it, and
+we'll even get to some more um actual real life use cases that you could do with these simple websites. All
+right. And then I also made some websites for my own business. So like this one right here, as most of you
+guys know, I am an affiliate for High Level. And so I'm going through and I'm making all these different sales
+pages that I can go and have different angles where I'm promoting High Level. And you can see these are
+beautifully designed pages. I'm just going through and prompting it, telling it like, "Hey, I like this. I
+don't like this. I want you to tweak this or that." And then just show you some other examples. As most you
+guys know, I'm an affiliate for High Level. And so I go through and I make different sales pages hitting
+different angles of how people can go through and use the Highle software. So you can see this one completely
+different design very beautiful I am not a coder I don't know any website design anything like that I know
+kind of like the fundamentals of what gets a website to actually convert and so you can see this one is
+completely different but I'm able to whip this up in a matter of minutes here is another one completely
+different angle I told to make it like an apple.com style website but I was like okay but I want to be selling
+highlevel 30-day extended free trial and so the cool thing is is whether you're an affiliate or whatever
+you're doing, most likely you are going through and building an agency. You can whip up professionally
+designed websites and sales pages just like this for your audience. So, I just wanted to give you guys a few
+different examples of how this goes through and works so you can see what you're going to be able to do by the
+end of this video. Okay, so first things first, how do you actually go through and get access to AI Studio?
+Because it's not fully released to everyone. You're not just going to see it in your account quite yet. So you
+can see right here on mine, it's in the side menu, but this is a new release. And so what they do is High Leo
+puts this in the lab section. It's kind of like the beta section. So all you do is come down here to settings.
+And from here, we're just going to scroll down and you can see labs right here. And this is all of the beta
+features that they're testing out. Okay? So you can come over here and we can just type in AI Studio and we
+just toggle this on. And so once you toggle this on, it's going to go through and it's going to show up on
+your side menu over here. And in another video, I'm going to cover Ask AI because they're both very similar
+yet very different in their use cases. And so stay tuned. Make sure you subscribe to the channel so I can go
+through and show you exactly how I'm using AskAI versus AI Studio because these are some of the biggest
+releases that High Level has made honestly since they got started. So we're going to come over here to AI
+Studio. Now, I want to show you guys some real life use cases because it's like, okay, anyone can show you how
+to toggle it on. Anyone can show you how to like type something, but I like to go through and think about real
+life use cases. When someone's showing me a new AI tool and they're like, look at all the cool things you
+could do. I'm like, okay, but like how does that actually affect me? How am I actually going to go through and
+use that for my own business in my own life? How is it going to go through and benefit me? So, the first use
+case I want to show you guys, which is a pretty powerful use case, is using it for clients. Okay? And so, like
+this Jerry's plumbing right here, I'm going to show you this use case because this is actually super cool. Um,
+out of all the AI studio videos that I've seen, I haven't seen anybody demoing it exactly like I'm going to
+demo and show you guys. And so, hopefully this is really helpful in going through and seeing the capabilities
+of AI Studio and what you can actually do. So, what I like to do is I like to use different tools and feature
+sets inside of High Level to help me go and get clients. So, if you've been on my channel for some time now,
+you know I like to go over to Google to be able to find clients because if you're going to go and find a
+plumber or a dentist or electrician or whoever it might be, you're going to go through and type in, we'll just
+say plumber, and we'll say in Bentonville, Arkansas. Okay, that's where I found this Jerry's Plumbing. So,
+we're going to go through, click on this, and actually what we're going to do, I'm going to come over here to
+um maps.google.com because it's just easier to be able to show you guys. Uh we'll say, well, plumber in
+Bentonville, Arkansas. Okay, so we'll type that in. And as we go through, we see all the different plumbers
+right here. I'm just going to move my head for a second so we can actually zoom in and see the different
+plumbers. And so, we can see up here, this is Jerry's Plumbing. And the reason why I like Jerry's Plumbing is
+because as you go along and you look at all the different plumbers over here, Jerry's Plumbing is one that
+I've done demo videos on this before, but I know they don't have a website. So, they've got five star reviews,
+seven fivestar reviews. So, they have an awesome service and an earlier version of Google Maps says they've
+been in business for over 10 years. So, if they've been in business for over 10 years, they only have seven
+reviews, but they're all five stars. They don't even have a website. They don't have a photo. there's a lot of
+optimization that we can go through and do with this specific business. And so when I'm going through and
+reaching out to these businesses, I'm saying, "Hey, I see you don't have a website. Would love to go through
+and build a full AI enabled website for your business." And so I'm only doing this if they're saying yes.
+Okay? So once the actual client gets back, says, "Yes, I'm actually be interested in in checking out a
+website." Then I want to show you guys how simple this is. So, what I like to do is like to come up here to
+share. So, this is going to share their Google My Business profile listing. Okay? And then we're just going to
+copy link right there. And then I'm going to go back over into the AI studio. And I'm going to say, "Hey,
+build me a professionally designed plumber website for this business." and pull in all the information from
+there. Google my business profile. Okay. And I'm just going to paste the link because now the AI and I'm going
+to hit enter just so I can do this while I'm explaining this. Now the AI is able to pull that link. It's able
+to go grab their contact information. It's able to grab their hours. It's able to see, okay, what services do
+they offer? All the reviews. It's able to pull in all the reviews. It does everything from A to Z. And that's
+literally all I have to do to build an initial website. And then hang with me here. It's just going to build
+this. It's going to take a minute or two. I'm going to wait till it's done. And then I'm going to show you
+some additional prompts that I like to go through and give this to make sure that it's AI enabled. And it's
+just like that next level tier professionally designed website for this client. Okay, check this out guys.
+Here we have the final product. Professionally designed website that we literally just had AI do all of this.
+And the cool thing is is they've got the phone number right there. It pulled in their fivestar review ratings.
+It pulled in their business hours, their location, everything from A to Z. Okay, now this is probably a use
+case. You're like, Jason, I've seen this. I've watched some of these other videos. I know that this actually
+can do this. Which if you haven't, obviously you're looking at this and like, okay, that's super cool. Maybe
+the Google My Business profile link was a little bit unique. Now, from here, if you wanted to, all we got to
+do is use this little prompt spot right here and make any tweaks that we want to. So, we use this just like a
+chat GPT. We just like ask it questions or tell the different things to do. And you can see they even have
+suggestions of things to do to the website. So, like for example, if you're like, I'm not really a fan of the
+orange. Or if the client is not a fan of the orange, you say, hey, I want to change it to red or blue or
+whatever the color is. You can easily do that. Or you can easily throw in the logo. Just tell it and it will
+go through and change whatever you want. Now, what I want to show you guys, I think is super cool, and I'm
+just going to move my head for this, is I want to go through and I want to say, now add a conversation AI chat
+widget and train the conversation AI agent on the Google My Business profile link I gave you. So, the AI agent
+can accurately respond to all questions. Okay. And then I'll just paste in the link again. And so I'll just
+hit that. And now what it's going to do is it's going to go through and it's going to connect the chat widget.
+I'm just move my head down there in the bottom righthand corner where you can see my head's going to be
+popping up right here. It's going to create a conversation AI chat widget and then it will also create a
+conversation AI agent and it will automatically train a knowledge base so that when we go through and ask the
+questions to the chat widget. So like a potential client, a potential customer is jumping on Jerry's plumbing
+website, it will be able to get all of the answers right from the chat widget. So, it's just going to take a
+minute here, but I hope you could see these real life use cases that when you go through and approach a
+Jerry's Plumbing, show them this professionally designed website when they don't have one at all or if they do
+have a website and it doesn't look very good and you can create a beautiful professionally designed website
+and add these AI conversation AI chat widget capabilities and even there's a lot of other use cases that we
+can go through and do. Then you could see how they're going to be blown away and more than likely they're
+going to say, "Yes, I want to be a client. I want you to go through and help me out with all these things."
+Okay, so now it is completed. So let's go through and test this. So what we're going to do is we're just going
+to hit publish up here. You go through and tweak the URL how you want, but we're just going to hit publish
+right here. And you can see up here it automatically pulls in the metatitle and the description, but it looks
+like there's a little bit just for this sake of example. I might just kind of like obviously if you're going
+to go through and build this for a real client, you're going to spend a little bit more time on this. But now
+we're going to be able to publish it to go and push it live so we can test out this chat widget. And you can
+see that everything we're doing, we're literally just prompting the AI to do it all for us. And so the cool
+thing about this is if you look at like a one-man business, one woman business, you can really scale things
+quite a bit because you don't need to go and hire a ton of talent and the AI is doing a majority of this work.
+So now we just come up here. We just hit publish right there. And now we grab this URL. Just going to open up
+a new tab, paste it in there, and I'm going to move myself. And you can see now we didn't have this before, a
+little chat widget. And so I can come over here and say, "What hours are you open?" Okay. And because I gave
+it the Google My Business profile link, it is trained on the business and so it knows exactly how to go
+through and respond. And this is a little bit small on my screen right here, but let's zoom in. It says, "We
+are generally open Monday through Friday from 8:00 p.m. Looks like it's kind of getting cut off right there."
+Okay. And then I can say, "What services do you offer?" Okay. And then it's just going to go back and it says,
+"We offer a wide range of top rated plumbing services. Can you tell me more about your issue?" So before we
+had to go through and we had to get all this information, we had to go and copy and paste it into a
+conversation AI knowledge base. Take that, tie it into a chat widget, put the chat widget onto the website. In
+addition, build the whole website. And instead, now we are literally just going through and we are prompting
+AI inside of AI Studio to do all of this for us. Now, one other um prompt I want to show you guys because this
+is something that I like to do at least for my own pages is I like to say, "You are a conversion rate
+optimization specialist. What would you do to tweak the page to maximize conversions?" Okay. And then
+depending on the website, I usually am more specific on what a conversion means. is like for this it might be
+to get a phone call or to book an appointment. For me it's like for somebody to go through and start a free
+trial on my website or it might be to yeah book an appointment on a calendar or to opt in put in their name
+and email or whatever it might be and then I like to just hit enter and then it goes through it acts as a
+conversion rate optimization specialist. So, you're kind of giving it that hat to think about and then it goes
+and searches the internet, thinks about what the best ways to optimize this website are, and then it'll give
+suggestions. And sometimes it's like, hey, here's a few different suggestions. Choose one which one you want
+to do. And other times it just goes through and does it for me. So, this time it actually went through. It
+says, "Hey, maybe add a lead capture form, testimonial section, promotional offer, sticky mo um mobile call to
+action." So, this one I'm just going to say, hey, let's do a testimonial section and hit proceed. And a lot of
+times I'll do this several times because it hasn't given me all the different ideas of going through and
+optimizing the page. And so, obviously a testimonial section a lot of times like trust badges like verified or
+like credit cards things or different like reviews right by the call to action button. That helps out a lot.
+And so that's one little prompt that I like to do over and over again to help optimize my websites, my sales
+pages, my landing pages, and get them converting at another level. Okay, so that just finished. So if we
+scroll down, we can see there is this Trusty community, this little testimonial section that was added. Now, I
+want to show you one other use case that you can go through and use this for your own business. So let's say
+let's go back out of here. So, I wanted to show you guys a use case of how I've been using this for my own
+business and creating sales pages. Obviously, I'm an affiliate for High Level, but whether you're an agency
+owner or you're building a white labelled SAS on High Level, this is an extremely beneficial use case as well.
+Okay, so I like to go through and I might like to make sales pages specific to a different marketing hook. So
+if you think about this like with paid ads, we're testing all these different hooks, all this different
+messaging and then we're sending it to one sales page because traditionally making a sales page was very time
+consuming. It was very tedious and so we couldn't go through and test a different hook on the ad and a
+different hook on the sales page. And maybe we could do a little AB split test, but that was pretty much the
+extent of it. And so what I like to do is I like to go and have different hooks speaking to different
+audiences in a different way. Even if it was like real estate agents, I'd want to make one that was like real
+estate agent newbies. They're like solo agents, right? That's going to be a different marketing message than
+if I'm talking to a real estate broker who's got a team or real estate team leader, right? And so these are
+all different messaging that I would want to have if I'm selling like a real estate software. or if I'm white
+labeling high level and selling to them. So, one feature I love in all these AI tools is the voice to speech
+um feature. However, you see it doesn't have that and I'm assuming it's going to have that here in the next
+version because this is literally V1 which this is in my opinion the best V1 that High Level has released. And
+so, and V1 stands for version one if you're not a nerdy techie like me. Um, so what I do is I come over here
+to chat GPT and I just say I just hit this dictate and then I copy and paste it over. Make me a professionally
+designed sales page. You are a professional copywriter. You're professional designer. I want you to make it a
+full complete sales page speaking to a solo real estate agent. A newbie who is looking to go through and grow
+their business. They haven't achieved a six-figure annual income yet, but they're really hoping to. they're
+looking for the next thing. And what what we provide is a software tool to help them generate leads, automate
+their follow-up, really grow their business with AI, and be able to book more appointments. And so, I want you
+to make a complete professionally designed website with a testimonial section. I want you to also think that
+you're a conversion rate optimization specialist. And so you're going through and thinking about all the
+different things that need to be on a sales page to make somebody convert into um starting a free 30-day trial
+on my software. And so I want the sales page to speak to this person directly and have all of the sales
+messaging that would want them to go through and start a 30-day free trial. When they start the 30-day free
+trial, we'll also give them a free kickoff call, be able to help them get all set up one-on-one. I'm going to
+provide additional courses, templates, scripts that have worked in the past for other agents that have gotten
+them amazing results. Okay, so I'm just going to go through and do something like that because then I just
+don't have to type it all out. And obviously, I was probably a little bit more wordy than I needed to be, but
+then I'm just going to copy and paste this and go throw it back into the AI studio. Just like that. And I'm
+gonna hit enter. And then I'm gonna let it work its magic. Okay, check this out, guys. So, I'll move my head
+so it's not in the way. But it says, "Break the six figure ceiling. Let AI book your appointments. Speaking
+specifically to realtors. Start your 30-day free trial." It's got no credit card required. So, it's got all
+the features and everything that we would want in here. And so, it's talking about the solo agent trap. This
+is amazing how it goes through and not only has done all the copy for us, speaking directly to our ideal
+client avatar, but the copy's there and the design is there and it's all set up the right way, how we want it.
+Um, one-on-one kickoff call just like we talked about, proven AI scripts, lead genen mastery course,
+everything from A to Z, testimonials, frequently asked questions, all the things that we would want here. And
+so just like I would in the other videos like I showed you, I would probably come over here and say, "Hey,
+what other things your conversion rate optimization specialist, what other things should we go through and
+tweak and add to this website?" Right? Or I could go through and just see, okay, do I like all the frequently
+asked questions? Do I want to add more? Just go and tell it, hey, add this, do this, do that. And you don't
+even have to be like crazy descriptive. You don't have to give it exactly what to say. So, I don't have to go
+over to chat GPT and say, "Hey, write a frequently asked question for this solo agent and do all this stuff
+because it's already built in to the software." And so, you don't even have to you just give it a quick idea
+and it then knows how to take that idea and write all the copy, make the headline, change, you could change
+out the little icons or whatever it might be. Or you could say, "Hey, I don't like this like darker version. I
+want it be more of a light style." Or another thing that I like to do is if you want to come over here, let's
+see where it is. Dribble. Dribble is a page that has all these different website designs. So you can look at
+all these different website designs. And there's a lot of other um platforms just like this. But you can say,
+"Hey, look this one right here." You could pull it up and you could throw it into the AI and say, "Hey, I like
+this style. Can you make it more like this style?" Right? So you could easily go through clone any website.
+And from here, just like the Jerry's plumbing use case scenario, you could easily add a chat widget, add the
+conversation AI knowledge base, whatever you want to go through and do. So, I hope this was helpful as far as
+seeing real life use cases of using Highle's new AI studio. And if you are brand new to High Level and you
+want to go through and get started, I'll have a link to start an extended 30-day free trial down in the
+description. You'll be able to get all of my courses, templates, scripts, community access. weekly live calls
+with me or if you want to go through and upgrade with my link, you'll be able to see that down there below as
+well and you'll be able to unlock access to everything I have. So, with that said, guys, thanks so much for
+watching and I'll see you in the next

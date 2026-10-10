@@ -1,0 +1,136 @@
+Title: Stop Copying YouTube Channels. Use This AI Automation Instead!
+Channel: AIpreneur
+Type: VIDEO
+Video ID: i3EUBPnCmZA
+URL: https://www.youtube.com/watch?v=i3EUBPnCmZA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T05:50:31+00:00
+
+Kind: captions Language: en What if I told you you could clone the exact [music] formula behind any monetized
+YouTube channel in under an hour without showing your face, without editing skills, and without a single paid
+tool? I know it sounds crazy, but after this video, you'll wish someone told you this sooner. Because right
+now, there's a group of creators quietly using one free Google tool to decode channels pulling millions of
+views a month and then building their own on top of that formula. And today, I'm going to hand you the exact
+step-by-step workflow they use. Stick with me until the end because the last step is where the real magic
+happens. So, first of all, take a look at this channel, History and Mythology. This channel has gained over
+82,000 subscribers across 465 videos, and it pulled more than a million views in just the last 30 days. Look
+at the top performers. Their Medusa video sits at 1.2 million views, and the complete Odyssey has already done
+1.1 million in a single month. This is a real monetized channel. Here's another example, Koo Psychology. And
+look at the data on this one. This channel started in December 2025. That's about 9 months old, and it's
+already at 109,000 subscribers, 138 videos, and 6.6 million total views pulling an estimated $3,700 a month.
+So, this one's monetized, too, and it got there fast. Two completely different niches, same underlying
+formula. And that formula is exactly what we're about to pull out. So, here's what we're actually doing. We're
+not guessing at what works. We're taking a channel that already proved it works, pulling the formula out of
+it, and building something original on top of that formula. First, open a new tab and go to
+notebooklm.google.com. You can sign in right away with zero setup. Once you are in, click new notebook. You
+will land inside a fresh, empty notebook. Think of it like a smart research assistant that helps you create
+content based on what it learned. Next, go back to the channel you chose. Open their most successful videos,
+the ones with the highest view counts, and copy the URL of each one. Grab 10 to 15 of their best videos. The
+more you include, the sharper your results will be. Open each video, grab the link from the address bar, and
+drop them all into a doc, so they're ready to paste in one block. Back in Notebook LM on the left side, you
+will see a section called add sources. Click on it and choose the website option and paste in all the video
+links you just copied. Paste them all at once. Then click insert. Notebook LM will now start loading and
+reading every one of those videos. Give it a moment. It is doing real analysis in the background. While it
+loads, click the title at the top and name this notebook something clear, like channel clone plus your niche,
+so you stay organized as you build more of these. Now, this is where it gets exciting. At the bottom of the
+screen, you will see a chat box. Click it and paste this first prompt that analyzes the top performing videos
+of this channel. Hit enter and watch what happens. At this time, Notebook LM reads every single video you gave
+it and extracts the formula behind the channel. In a few seconds, it comes back with a full playbook for our
+channel. It shows you exactly who the audience is. High-functioning people who look composed on the outside,
+but carry a quiet, unspoken weight on the inside. It shows the recurring topics, nervous system regulation,
+childhood programming, the hidden cost of being the reliable one, the slow validating tone, >> [snorts] >> how
+the hooks open by naming a private feeling the viewer has never heard said out loud, and how every script
+follows the same shape, the lived reality, the shame around it, the root cause, the hidden cost, then a gentle
+path forward. Now, before you get ideas, decoding a formula is not the same as copying a channel, and this is
+the line that keeps you monetized instead of stuck. And Notebook LM won't make that call for you. It hands you
+the formula. Deciding what structure to borrow and what identity to leave alone. That's the one part of this
+that's still your job. Now, still inside the same chat, type this next prompt. The handles your 10 channel
+names and hit send. In just a few moments, Notebook LM gives you 10 channel name ideas, each with a quick
+explanation. Pick the one that resonates most or use them as inspiration for your own. Once you have your
+channel name, keep going in the same chat and type this prompt. That brainstorms 10 different video ideas for
+your picked channel. Hit send, and just like that, you have 10 ready-to-go video ideas. These are not random.
+They are built on the formula of a proven monetized channel, which means they already have a much higher
+chance of performing well. You now hold the exact formula behind a channel that already makes money. It's time
+to turn it into a script. Now, go back in the same chat, pick the video idea you want to use, and paste this
+prompt. That handles the whole narration for your video. Hit send. In a few moments, Notebook LM starts
+writing the full script, already matching the hook style and pacing of the channel you cloned. A script that
+reads as if the proven channel wrote it, because it is built on that exact formula. At this point, you've
+recreated the entire content engine behind a monetized channel without leaving one tab. The words are done.
+Now, the next step is making sure your visuals match that same channel style instead of looking random or
+inconsistent. So, stay inside the same notebook where the full formula is already loaded. Go to settings, then
+custom, and put in this visual planner prompt and hit save. Then, come back to the chat and type build the
+visual plan for the script above. Because the formula is still active in that same notebook, it is not
+inventing a style from scratch. It uses the exact style cues from the channel you cloned and applies them
+consistently across the whole production package. Same mood, same energy, and same visual identity. By the
+end, you get a character reference, all your image prompts, and all your video prompts ready to use. Your
+blueprint is ready. Every scene mapped to the cloned style. Now, let's make it real. And there are two free
+ways to do that. The first is one click. A finished video, no timeline, nothing to edit. The second takes
+longer to set up, but it generates every scene of your video in a single unattended pass while you walk away.
+That's the one that turns this from making a video into running a channel. Starting with the fast one. And
+this part genuinely feels like magic the first time. Script in, finished video out. Voiceover, visuals,
+animations, all on autopilot. Let me show you. Inside your notebook, look for the studio tab. You are going to
+see a whole set of output options. Video summary, mind maps, study guides, quizzes, infographics, and slides.
+Many useful things, but for us, the one we want is video. Click on it and before you hit generate, click the
+small pen icon to customize the settings. Here's what to set. Format, keep it on explainer. This is the style
+that works best for psychology and self-help content. Language, choose whatever language you want. Notebook LM
+supports most major languages. So, if your audience speaks French, Spanish, or Portuguese, just select it
+here. Now, scroll down to pick your visual style. You have a few options. For the type of channel we're
+modeling, whiteboard works really well. It's clean, professional, and easy to follow, but feel free to try
+others and see what fits your niche. Once your settings are good, hit generate. Now, just sit back for a
+moment. Notebook LM is reading your script, building the visuals, recording the voice-over, and assembling the
+full video automatically. No timeline, no rendering, no manual editing. It's all happening behind the scenes.
+When it's ready, you can watch the full preview right there in the browser. >> Here's our road map for today.
+We'll cover the misunderstood mind, the generational imprint, the weight of deep processing, and finally,
+seeking quiet and regulation. Kicking things off with section one, the misunderstood mind, where we uncover
+the hidden threat. >> So, that's the fast path, and it genuinely works. But, I don't stop here, because every
+creator hitting that button gets the same house style, same look, same feel, same handful of templates. So, we
+take that same script somewhere you decide what your channel looks like. The formula stays, the visual
+identity becomes yours. And, the same setup that builds one video builds the next 10 in a single batch while
+you're not even at the screen. That's what turns one video into a channel. So, first, open Google Flow and
+start a new project. In the prompt settings, set Nano Banana 2 as your image model. Then, pick your aspect
+ratio, 16 x 9 for long-form, 9 x 16 for shorts. Then, look for the agent option and select it. Type insert
+scenes, then paste all your reference image prompts directly into the prompt box below it. This locks each
+looking together, so nothing drifts once the batch starts. Hit send. Flow generates every single scene image
+automatically, one after another, while you do nothing at all. Just leave it running. Once those are ready,
+drag them all together directly into the prompt box. That's what tells Flow to carry those exact looks into
+every scene that calls for them. Now, type insert all scenes. Paste your entire image prompt list directly
+below it, and add one more line at the end. Rename each generated image by scene number, like scene 1 2 3 4.
+Hit send and flow generates every single scene image automatically in one go, renaming as it goes, while you
+do nothing at all. Just leave it running. Once the stills are back, switch over to the video model and set
+your clip length to match your pacing and hit save. Then type insert all scenes one more time, but this time
+paste the video prompt in first, then your full list of images right underneath it and send it off. The agent
+will show you the credit cost up front. Approve it and every scene animates on its own. Quick honest note,
+image generation in flow is unlimited, but video generation isn't. It runs on credits, roughly 12 credits per
+8-second clip, and you get 50 free credits every day. Visuals are done, now they need a voice or none of this
+lands. Now it's time to give this whole story an actual voice. So first, open 11 Labs. Go into text to speech
+and switch over to the V3 model. Then pick something calm and clear. This is an explainer, not a horror story.
+So a measured, confident tone works better than anything dramatic. Now, feed it your script in chunks, under
+100 words at a time. Generate the chunk, then actually listen back to it before moving on. Once it sounds
+right, download it, then move to the next chunk. And number your files as you go, so they stay in order. Every
+piece is on the table now, voice, visuals, all of it. Time to turn it into an actual video. So first, get all
+your assets into one folder, numbered video clips, voiceover files, and music tracks. Then, open CapCut, start
+a new project, and import that whole folder in one go. Now, your voiceover goes down first. It's the spine of
+this entire edit, because every clip gets matched to what's being said. So listen through it and cut all the
+dead air out before you touch anything else. Then select all your voice over clips, right click and hit create
+compound clip. Don't skip this step if your captions come out broken or misaligned later. Then lay your video
+clips across the timeline in order. Each one should land on the part of the script it illustrates. Since these
+are already animated, you don't need to add movement yourself. Just trim each clip to fit its matching line of
+narration. Now go into CapCut's transitions panel. It's loaded with options to choose from. So pick one that
+fits between your scenes. Black, fade, or mix works great. So each cut feels smooth and intentional rather
+than jumping straight from one clip to the next. Now add captions. Go to captions and hit generate. Then
+choose a template. White text with a black outline works on basically any scene. Lastly, add your music tracks
+at around minus 20 decibels. Then preview it once from start to finish. Check everything one more time and hit
+export. >> Imagine the drive home from a family gathering where nothing obviously went wrong. There were no
+shouting matches, no slammed doors, and everyone kept their voices polite and steady. And yet, as you pull
+into your driveway, you are met with a heavy, hollow exhaustion that makes it difficult to even turn off the
+engine. >> [music] >> That's a complete video built on a formula decoded from a channel pulling over a million
+views a month but original in your own identity >> [music] >> produced through your own pipeline, not a copy.
+Channel that learned from the best one in its lane and then went and built its own thing. [music] Now decoding
+the formula is one half. The other half is what you pointed at because [music] the wrong niche with a perfect
+formula still goes nowhere. That's the exact [music] breakdown in the video on screen now and it's the logical
+next move once your engine is built. And if you want to see the same engine pointed at a completely [music]
+different niche, I turned Notebook LM into a history video machine with the same decode and another bulk
+production with entirely different output. [music] That one's on screen right now, and it's the perfect one to
+watch next. Drop clone in the comments with a channel you decode [music] first, and I'll tell you whether its
+formula is worth building on. Subscribe to AI Entrepreneur. I'll see you in the next one.

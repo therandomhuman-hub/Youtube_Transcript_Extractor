@@ -1,0 +1,160 @@
+Title: I Used GPT-6 To One-Shot Viral Shorts
+Channel: Everygen AI
+Type: VIDEO
+Video ID: k9_77tEreP8
+URL: https://www.youtube.com/watch?v=k9_77tEreP8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T05:39:14+00:00
+
+Kind: captions Language: en I'm going to show you exactly how to make viral videos inside of Chat GPT in just
+a couple of prompts. GPT-6 just dropped and now AI can research, script write, voice over, make visuals, add
+captions, and even edit your video probably better than you can. So, to prove this, I recreated five different
+videos that got hundreds of millions of views on social media and I'll share all of the workflows, skills, and
+prompts that I used so that you can just copy me. The first step to get started here though is the setup and
+this should literally take like two clicks. You're going to want to go over to everygen.ai/mcp, press on the
+Chat GPT box, and then press add everygen plugin. Once you're here, then you're going to want to press on
+install plugin. And then when Chat GPT wants to access everygen, you press allow. And just like that, the
+everygen plugin is installed. You can do this for every AI as well. This video I'm going to be focusing on
+Chat GPT, but if you wanted to install it in Claude for example, the steps are on the /mcp page that you went
+to before. The first niche that I want to make a video in is this nature facts niche because historically this
+niche has been very, very hard to make good videos. You need to have good ideas. You need to have good
+visuals. Your scripts need to be great. Your voice-overs need to be great. The captions need to be good. Like
+it's very complex to make a good nature facts video. This channel Discovery Dose has gotten hundreds of
+millions of views posting nature facts videos and you can see here the channel got up to making thousands of
+dollars a day at one point completely off of YouTube AdSense. This is what a Discovery Dose video looks like.
+>> Cats are strangely obsessed with these leaves [music] for one specific reason because they're known as
+sisal leaf and they've been used >> Did you notice that the first three clips in that video were AI generated?
+We actually know the guy who runs this channel and he uses everygen to make some of the visuals in his videos.
+So, I'm going to try to recreate a video that would be posted on his channel and I'm going to send it to him
+and see what he says. So, I'm in Chat GPT right now with the everygen plugin installed and the prompt that I
+typed is, "Can you use everygen to make a viral video that will be posted on this channel?" And then I linked
+the Discovery Dose channel. "Should follow the same scripting style, same voice-over, same captions, edited
+without dead space. Return with a video that independently passes a review of being better than the recent
+Discovery Dose video. So, you can see here I'm really asking a lot of it. I'm using the newest and most
+powerful GPT-6 Soul model on medium effort here, and you can see the results are going to be absolutely
+insane. If I press into the model's thinking here, you can see that it's using the video analysis tool from
+Evergen, which is really the secret sauce to stop all of the AI slop that you've probably experienced in the
+past. It goes through and actually analyzes all of the previous Discovery Dose videos to build a scripting
+style and visual style. And you can see here, Evergen channel analysis found a consistent structure, a direct
+hook, quick process details, and an abrupt reveal. It then goes and searches the web for a couple different
+ideas that it thinks would be good, and in the meantime, asked me to choose a voice. >> Hey, this is how your
+audio would sound with my voice. >> Hey, this is how your audio would sound with my voice. >> Hey, this is how
+your audio would sound with >> We're going to use the Evergen voice because I think it sounds the best. When I
+was making this video, I had the GPT permission set to approve for me, so it wasn't asking me any questions.
+It was just going and writing the script and then generating the voice you see here, but obviously you can
+have this on ask for approval and it won't just spend your credits. That being said, within 2 minutes it
+already had the idea, the script writing, and the voiceover generated. >> These farmers are scraping white
+patches off cactus pads because inside is a color you may have worn or eaten. >> It sounds so realistic, it's
+actually crazy. So, the voiceover is 30 seconds and it originally split this into eight different scenes, then
+started generating them. And you can see here, this is what they look like. It's shockingly realistic once
+again. I told it to Seadance 2.5 for this because I wanted the most realistic visuals possible, but if you
+wanted to save money, you could always use another model like Kling 3.0 or something else like Seadance 2.
+These generations take a couple minutes, so if I go through the thinking here, you can see that it just waits
+on them to get generated, and then if something fails, it regenerates it. It generates starting frames for
+your videos, runs a ton of commands, and then it just shows up with this video. >> These farmers are scraping
+white patches off cactus pads because inside is a color you may have worn or eaten. At first, it looks like
+mold, but the patches are tiny cochineal insects >> Basing this off one prompt, this is absolutely insane, but
+there's still some stuff that I don't like like the captions and I think that there could be better visuals in
+it and stuff like that. So, that's step two to this process. The good part about Chat GPT is that it doesn't
+have feelings, so you could be as direct as you want with the feedback. The music is bad and not like what
+Discover Dose would use aren't good. The script part of color you may have worn or eaten is bad, you should
+change it. There's also some dead audio space in between sentences. You can probably get the point that
+there's no real special prompting sauce here. I'm just talking to it like I would talk to an editor that was
+doing revisions on a video. Chat GPT then took my feedback and worked for 32 minutes and 16 seconds and you
+can see here in the thinking it generated a new script change, it generated new voice over stuff like this. >>
+These farmers are scraping white patches off cactus pads because those patches could end up in the clothes
+you're wearing. >> It's a better hook. It then generated a new background audio. >> [music] >> And it made
+more variations of the clips like you can see here that were also super visually appealing. So, after half an
+hour of working on my revisions, this is what Chat GPT got back to me with and remember that 100% of what
+you're about to watch is AI generated. >> These farmers are collecting tiny white insects off cactus pads
+because those bugs can turn your clothes bright red. They look like grains of sand, but each bug is covered in
+white wax while it feeds on the cactus. The farmers brush them into a tray, let them dry, and crush them into
+a dark powder. When that powder is stirred into water, the whole bowl turns red. Workers then soak white wool
+in the dye, hang it to dry, and weave the red thread into fabric, which means that bright red scarf on
+someone's shoulders could be colored with crushed insects. >> You guys don't understand how crazy it is that
+you can make videos like this that are 100% AI generated. Maybe that last video was a bit confusing to you
+because there were multiple aspects, we had to do revisions and everything like that. So, in this section, I'm
+going to show you how you can legitimately one-shot a video that has the potential of getting over 5 billion
+views. I promise you I'm not joking. This is Nunu TV Nursery Rhymes. It has 29.4 million subscribers and if
+you haven't heard of it, it's probably because you're not a child or you're not a parent. They post animated
+videos for kids like this one that has 5.4 billion views. >> 1 2 3 4 5. [music] Ready, steady, go. >> The
+craziest part about these videos is that they were made pre-AI. So, I know that there's an animator actually
+going and making these videos that's getting paid hundreds to thousands of dollars. Luckily, now if you have
+the Evergen plugin, you can recreate this with one single prompt and I think that the video that we recreated
+is actually better than the original. So, I'm in ChatGPT here and the prompt that I typed was use Evergen to
+make a kids YouTube short in this exact style and then I linked the video that we just watched. Make it a bit
+longer than the original, roughly 20 seconds. Make sure to analyze why this video got so many views and make
+sure that this one has the same elements. You can see I'm prompting the model to really think about why this
+original video went viral and it does an amazing job at this. It went and worked for 10 minutes and you can
+see here in the thinking it found the nursery rhyme skill that's baked into Evergen, which is this super long
+prompt that explains how to make good nursery rhyme videos, which is why it was able to one-shot this. So,
+after waiting for a couple more minutes, you can see that the model generated the video and then was checking
+its work to make sure that it was up to the same quality standard as the video that I linked and it came out
+with this. >> 1 2 3 4 [singing and music] 5 up the rainbow steps we climb. Ready, steady, [singing] go. Down
+the slide we fly. 1 2 3 4 5 up we go another [music and singing] time. Ready, steady, go. Let's slide again.
+>> I'm not a kid, but if you ask me, this is a banger. I want you to understand that before this, all of the
+kids channels had to pay thousands of dollars a video because there was no way to make these animations
+easily. That being said, this next style of video is also pretty hard to make. If you scroll on the internet
+at all, you've probably come across Zach D. Films videos. This guy is making hundreds of thousands of dollars
+a month posting these 3D animated story videos. And the issue is that making these 3D videos in Blender
+without AI takes days and costs hundreds to thousands of dollars. Chat GPT, use Everygen to make a full Zach
+D. Films style short linking the channel. Imagine this short were to be posted as the next video on his
+channel. Analyze his scripting style, visuals, voice over, and make this video pass an independent review of
+being better than his recent few videos. Chat GPT works for 17 minutes and 54 seconds and does all of the
+stuff that I was asking it to do, like writing the script, coming up with the idea, and then generating this
+voice over. >> When a mantis grabs this beetle, it fires boiling spray from its back end. >> Pause. You can
+see that with the Everygen video analysis, it picked up on the first couple of seconds of the Zach D. Films
+videos being super important, so it's doing a hook and hopefully a visual hook that is super appealing and
+stops you from scrolling. It generated this image of a beetle and a mantis as the starting frame, which is
+going to be interesting. GPT-6 decided that for this video, it was going to use Kling 3.0, which is a much
+cheaper model that generates faster. And after a couple minutes of waiting, this is the first draft that it
+generated. >> When a mantis grabs this beetle, it fires boiling spray from its back end. You see, it stores
+the liquid in >> See, it's decent, but not quite there yet. When you're trying to make more complex videos
+like this one, the reality is that you're probably not going to one shot it, but after two, three, four
+revision passes, you can actually get to some really good final product. You can see here in my first revision
+pass I said, "I don't like the movement. It's too slow, not like Zach King films, and the visuals on the first
+clip aren't super appealing, and it should have this like crazy spray thing that happens when you say spray.
+Also, the second clip is boring. The second and third clips are too similar, etc., etc., etc." It then goes,
+takes my feedback, and works for 9 minutes and 27 seconds to then give me this video. >> When a mantis grabs
+this beetle, it fires boiling spray from its back end. You see, it stores the liquid in one chamber and the
+chemicals that set it off in another. So, when it squeezes, the liquid passes through a one-way valve and
+bursts into hot mist. But, the valve shuts under pressure, keeping the blast out of the beetle, and it aims
+that nozzle straight at the mantis, which suddenly drops its lunch. >> So, I think that the hook is really,
+really good. Obviously, there's still some things that I would change, but I only did one revision pass for
+this. If I were actually trying to upload it, I would do two, three, four revision passes, etc. Nonetheless,
+this is insane to be able to make in like 10 or 20 minutes without even needing an animator. The fourth style
+that I want to show you is more cinematic. It's animated, and it has an actual storyline behind it, kind of
+like this Disney-style short that got over 100 million views on Instagram Reels. >> [snorts] >> First of all,
+I feel like I need to say this, but in the short studio in Evergen, not just the ChatGPT plugin, we actually
+have an exact Disney format that you can use to recreate these exact same style of videos. Videos like this
+one were made in one prompt using the Disney template. It's like basically the exact same thing. Obviously, in
+the Evergen ChatGPT plugin, you can just ask it to use the Disney format in the Short Studio and it'll go and
+do that. But, for this video's recreation, I wanted to do something that had nicer animations and something
+that was maybe a bit more emotional. So, my prompt was, "Use EveryGen to make a full Disney-style animated
+short like this." And then I linked the video. "Come up with an idea and make a video that you think would be
+better than the video I'm linking you. Focus on good visual hook and story. Make it about 30 seconds long."
+This one only worked for 4 minutes and it's calling it The Last Spark for some reason and and it was really
+focused on nice animations plus a good storyline. I gave it literally no other input or commands and this is
+the video that it gave me. Okay. The animation looks so good. The music. Oh. What a beautiful story. The last
+style that I want to try recreating is one of the most popular styles on social media right now, which is
+ranking videos. Channels like this one called RankZilla are getting hundreds of millions of views per video
+posting ranking compilations. It's hilarious cuz that clip was 100% AI generated. Once again, to make the
+individual ranking clips, you can actually use the ranking videos format in the EveryGen Short Studio. You can
+see here all of these videos were made with that format and they look super realistic. But, I wanted to see if
+ChatGPT could figure out how to actually edit the entire ranking video together by itself with all of the text
+as well. My prompt was, "Use EveryGen to make a ranking-style YouTube short that is better than this video."
+And then I linked the video that we just watched. "Should follow the same style, text, etc. and have a
+funnier, more eye-catching hook. For this one, as always, it went and analyzed the short's pacing, captions,
+ranking format, etc. But then it wrote this script then asked me to approve it. Once I approved it, it worked
+for a couple of minutes generating all of these clips and then it gave me this video. It's a good hook.
+[laughter] >> THAT WAS INSANE. >> YEAH. OKAY, I don't know what that clip is. Okay. Physics on that are all
+right. If I were to go and actually post this, I'd probably change out some of the orders of the clips and
+regenerate some of them. But the point here is that you can basically make any clip that you can possibly
+think of and you can revise it enough to make it look real. If you're trying to monetize these videos, you
+should know that YouTube is paying out 20 to 30 cents per thousand views on shorts right now. A lot of people
+think that AI content just gets demonetized right away and this is not true at all. YouTube demonetizes people
+for what they call inauthentic content, which by definition is mass-produced, generic, repetitive, or
+manipulative. So, as long as you're putting some original element into your videos and you're actually putting
+effort into them, then you should mostly be fine. If you want the prompts, skills, or tools that I used in
+this video, they should be linked down below. Good luck.
