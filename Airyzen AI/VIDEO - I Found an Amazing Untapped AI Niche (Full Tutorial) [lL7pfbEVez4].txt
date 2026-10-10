@@ -1,0 +1,27 @@
+Title: I Found an Amazing Untapped AI Niche (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: lL7pfbEVez4
+URL: https://www.youtube.com/watch?v=lL7pfbEVez4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:39:22+00:00
+
+Kind: captions Language: en These mini cartoon story videos are one of the most engaging types of content out
+there. Kids and adults both love watching these short stories, and creators are getting millions of views from
+videos like these. And the best part? Creating these mini cartoon stories is actually super easy. You can make
+them using just one master prompt. But before we get into the tutorial, there's one important thing I want to
+make clear. The master prompt is password protected, and the password is hidden somewhere in this video. So,
+make sure you watch until the end to find it. Now, let's get started. First, open Claude AI. Paste the master
+prompt here and hit enter. Claude will give you 10 different mini story ideas to choose from. Pick whichever
+one you like. For this video, I'm going with idea number one. I'll simply type one and hit enter. Claude will
+generate an image prompt and a video prompt that we'll use to create the video. Let's start with the image
+prompt. Copy it and head over to Google Flow AI. Paste the image prompt here. For the image settings, choose 9
+to 16, select Nano Banana 2 as the model, and choose X1. Hit enter, and your image will be generated in just a
+few seconds. Once the image is ready, go back to Claude AI and copy the video prompt. Come back to Flow AI.
+Click the three dots on the image we just generated and select add to prompt. Paste the video prompt here. For
+the video settings, choose 9 to 16, select Omni 1.1 Flash as the model, set the resolution to 720p, choose a
+10-second duration, and select X1. Hit enter, and your video will be ready in just a few moments. Once your
+video is ready, you can upload it to whichever platform you want. And here's the final result. >> [laughter]
+>> That's it for today's video. If you found this video helpful, make sure to like the video and subscribe to
+the channel for more AI tutorials. Thanks for watching and I'll see you in the next video.

@@ -1,0 +1,94 @@
+Title: This FREE Claude Prompt Builds Stickman Animations In Bulk
+Channel: AIpreneur
+Type: VIDEO
+Video ID: wGwM633YVq0
+URL: https://www.youtube.com/watch?v=wGwM633YVq0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:15:15+00:00
+
+Kind: captions Language: en This is how most people make AI [music] stickman videos. One prompt, wait, next
+prompt, wait, next prompt, wait. Five scenes take an afternoon, 20 scenes take a weekend. And that's the real
+reason most people can't post consistently in this niche, not the tools, not the ideas, the sheer number of
+times you have to sit there and click generate. Here's what nobody tells you. You don't have to generate them
+one at a time. There's a separate mode inside Google Flow that most people never open and it runs the entire
+batch for you. Now watch this. Every scene, one paste, nobody touches the keyboard. This is the move. You
+paste every prompt [music] in one block, hit send, and walk away. That's it. That's [music] the whole
+technique, but it only works if your character and your prompts are prepared for it [music] first. Feed the
+agent the wrong thing and you'll batch generate 20 scenes you have to throw away. Welcome back to AIpreneur
+and let's build it step by step. Step one, build your character engine. One prompt drives this whole thing and
+it's not a prompt you fire once and hope, it's a five-stage system. It hands you a locked character, a topic,
+a script, every image prompt, and every video prompt in one stage at a time. Now, open Claude, start a fresh
+chat, and drop this in. That's your engine live, but an engine is useless without a character. And what you
+build in the next 60 seconds decides whether every scene after it holds or falls apart. Step two, generate and
+lock your character. Claude opens by asking three things, gender, age, range, outfit style. Answer however you
+want. This is the one creative decision that shapes every scene you're about to make. For this build, I'm
+going male, late 20s, casual streetwear. Send that and Claude hands you a full character image prompt. Copy
+it. Now open Google Flow and start a new project. Paste it into the prompt box, open the settings, open the
+image tab, and select Nano banana 2 as your model. Pick your ratio 9 by 16 for shorts, 16 by 9 for long form,
+and set your image output to two and hit generate. When the pair comes back, got one you're happy with,
+download it and keep it somewhere easy to find. Then type locked into the chat. Your character is locked, but
+a character with nothing to do is just a drawing. He needs something to say. Step three, pick your niche and
+write the script. Now, come back to Claude chat and type next. Claude asks for your niche, then hands you 10
+numbered topic ideas. Self-improvement, relationships, money habits, psychology, daily discipline. Read them,
+pick one, and send the number. Then it asks for a length and it tells you exactly how many scenes each option
+produces. That number matters because it's the size of the batch you're about to run. I'm taking 30 seconds.
+That lands at five scenes. What comes back is your narration split into numbered beats. Every beat comes back
+as two lines, the words he says and underneath it the action he performs. One line, one action, one scene.
+That pairing is what makes the next two steps mechanical instead of guesswork. Those beats will look a little
+long when you read them. Leave them. Text-to-speech reads faster than you do in your head and each beat is
+sized to fill a full 6-second scene. Cut them shorter and you'll end up trimming half of every clip away. Keep
+that script open, you'll pull the narration straight out of it in the next step. Step four, turn the script
+into a voice. Now it's time to give him a voice. So, open 11 Labs and go to the text-to-speech section. Then,
+on the right side, pick a voice that fits your story's tone. A voice that sounds like it is sharing something
+meaningful, not selling you something. Match that feeling. Paste your script in the text box, then hit
+generate. Listen once and download the audio when it feels right. You have a script and a voice. Now let us
+build the visuals. Step five, generate every prompt. Back in the chat, type next. Claude converts every beat
+into a numbered scene image prompt. One per beat in order as one clean block. Now read one closely because
+they're written differently than you'd expect. Each one describes the action and the environment and nothing
+about what the character looks like. No outfit, no build, no face. Not once. That's deliberate. Your character
+reference image is going to carry all of that and every word you spend re-describing him is another opening
+for the model to reinterpret him. Copy that whole block and keep it somewhere. Then type next again. Now
+Claude gives you your video prompts. One per scene, numbered to match your image list exactly. Same rule, lock
+camera, one clear action, nothing about appearance. Copy that block, too. Everything we've done so far was
+preparation for this one move. Step six, bulk generate with the flow agent. This is the step that fixes the
+problem we opened with. Everything before now was set up. Back inside Google Flow, look for the agent option
+and select it. This is not the regular image or video tab. It's a separate mode that runs the whole batch
+automatically. Open the settings inside the agent. Configure your image and video settings and hit save. Now
+drag and drop your character reference image into the agent. This is the part that matters. That single image
+tells the agent exactly what your character looks like, so every scene it generates comes back in the same
+style with the same figure. Now pull up the image prompts you saved back in step five. Back in the agent, type
+insert all scenes. Then paste all your image prompts directly below that and hit send. The agent now generates
+every single scene image automatically all together while you do nothing else. Five scenes or 50, it runs the
+same way. Just let it run. Once all the images are done, click the three dots on each one and rename them by
+scene number. Scene one, scene two, scene three, straight through. Then download them all in order. Mistake to
+avoid, don't skip the renaming. Your beats are in story order and your edit depends on that order. Rename them
+now and the edit takes minutes. Skip it and you'll be guessing later. Now start a new project inside Flow and
+drag all your numbered images in at once. Then drag them into the prompts box. Pull up the video prompts you
+saved earlier and back in the agent type insert all scenes again. Paste the video prompts below and hit send.
+The agent shows you how many credits it's about to use. Click approve and watch it animate every scene
+automatically. Download your clips in order. Your visuals are done. Quick honest note, Google Flow gives you
+50 credits a day and they reset every 24 hours. That's roughly one short video per day. Check the credit
+estimate before you approve a batch and plan around the daily reset. Every scene is generated and you barely
+touched it. Now let's put it together. Step seven, assemble everything in CapCut. Get all your assets into one
+folder first. Numbered clips, voiceover files, and music track. Now open CapCut, start a new project, and
+import the whole folder in one go. Music goes down first. Pulled back to around minus 20 decibels so it sits
+underneath everything. Then drag the voiceover onto the timeline and push those up near 10 decibels so the
+narration cuts through. Now zoom into the timeline and drop your clips onto the timeline in scene order.
+Because the numbering carried through from the script, scene one sits over beat one, straight down the line.
+Trim each clip so it lands exactly as its line is spoken and cut any dead air between them. For captions, hit
+text, auto captions, generate. Pick a template, then resize them so they're not sitting over the character's
+head. On a stickman animation, the figure is the whole frame, cover him and you've defeated the point. Then
+add transitions between each clip. Fade transitions work best. Choose something like mix or black fade works
+great. Preview it once, check your sync and export. >> You keep telling yourself [music] you'll start
+tomorrow, but tomorrow never actually comes, does it? That excuse has been running your life for years now. >>
+[music] >> Here's a trick your brain can't argue with. Commit to just 5 minutes. Not the whole task, not
+[music] the whole project, only 5 minutes. 5 minutes >> That's a complete stickman animation >> [music] >>
+generated as one batch instead of one clip at a time. Built from one prompt using free tools. One prompt, one
+locked [music] character, one paste, and the same engine runs the next one. Start with a 30-second video
+today. >> [music] >> Pick a topic you'd actually watch, run the master prompt, and let the agent do the
+generating. The first time you walk away and come back [music] to a finished set of scenes, that's when this
+clicks. Drop stickman in the comments with [music] the niche you're starting in, and I'll reply with a
+character idea that'll work for it. And if you want to see this same engine pushed into investigative [music]
+documentary animation, the Vox style build is up next. Subscribe to AIpreneur, and I'll catch you in the next
+one.

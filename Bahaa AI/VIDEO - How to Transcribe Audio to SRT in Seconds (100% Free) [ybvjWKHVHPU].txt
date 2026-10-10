@@ -1,0 +1,31 @@
+Title: How to Transcribe Audio to SRT in Seconds (100% Free)
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: ybvjWKHVHPU
+URL: https://www.youtube.com/watch?v=ybvjWKHVHPU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T07:00:15+00:00
+
+Kind: captions Language: en In this video, I will be sharing a very useful tool with you. The audio
+transcription and SRT tool. You can simply click here to upload your voiceover audio, select what you want if
+transcription text or SRT format, then click transcribe. And in a few seconds, you will get the result preview
+here. Click here to download the result. That's it. Now, let's see how can you run this tool for free for
+unlimited use. >> Hello everyone. This is Baha AI. Thanks for being here. After watching this video, if you
+found it useful, give it a like and positive comment. That really helps me. Now, let's go back to our video.
+Open your Google Chrome browser and make sure you are logged in with Gmail. We will set up and run the app on
+Google Colab. So, we will be using a Google Colab notebook. To get the link of the notebook used in the video,
+go to this link. You will find it in video description and in the pinned comment. Enter your email here. Check
+this, then click here. Go to your email and you will find a new email from Baha AI. Open it. And here is the
+notebook link. Open it and wait for it to fully load. Run the first step. Then click run anyway. Wait for the
+connection to be established. After that, step one will begin working. In a few seconds, it will finish. Then
+run step two to load the model. After it is finished, go to step three and run it. After a seconds, app link
+will appear. Open it. And this is our app fully running. The installation took approximately 2 minutes. Now,
+click here to upload your audio file. After uploading is complete, select what you really want, a text format
+or SRT format. Let's test text first. Click transcript and wait for the result. And that's it. Click here to
+download the text file. Let's try the other option, the SRT output, and click transcribe. And that is the
+result. In few seconds, you got the transcription of the audio with timestamps. Click here to download the SRT
+file. Sometimes, you may find mistakes in the SRT file. So, I created an SRT editor tool, and it runs locally
+on your PC. You can edit and correct anything in the SRT file with a preview. This will be our coming video,
+so make sure to subscribe to my channel to get the new updates when they are alive. Thanks for watching, and
+see you in the next video.

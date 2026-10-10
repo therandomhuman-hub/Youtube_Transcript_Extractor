@@ -1,0 +1,172 @@
+Title: How To Sell Digital Products Using Someone Else’s Audience
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: 9ql2NUyKd4A
+URL: https://www.youtube.com/watch?v=9ql2NUyKd4A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:42:52+00:00
+
+Kind: captions Language: en Hello guys. I know y'all have been on me for not recording and it's been about six
+days and I will say I don't have a valid reason, but the school community is up and I'm going to put it right
+here. Don't worry, I'll put the link below. But basically, the school community is just going to give you all
+the free value that I've given to y'all where it's easy for you to access and it's easy for me to answer
+y'all's questions and really get to communicate with y'all. So, if you want to join that community, please go
+ahead. It's free. So, just join that and you'll see a lot of value in there. And at that point, you'll be able
+to talk to people as well. I'm freaking ecstatic for it. I'm ready for it. So, yes, I have not dropped a video
+in 6 days, and that's why I'm addressing it. But don't worry, guys. I'm still dropping a lot of value for
+y'all in the school community and on this channel. And that's all I'm going to do. Now, as well, we're going
+to get to lesson five. How to make a free landing page and sell your digital product. Now, we did cover this
+in the last lesson, but I can see in the comments a lot of y'all really had questions saying that I skimmed
+through it. So, I'm going to kind of go back and I have a better way for y'all to generate the website. Right?
+So, we're going to do that process. Then, we're going to do lesson six, which is how to sell to someone else's
+audience. I'm going to teach you how to do that. So, we're going to break down those two. And like I said,
+y'all join the school community. It's easier to reach me. Y'all will have people who are in the game and, you
+know, are in the same spot as you and you can just learn from each other. I guarantee it's going to be if you
+join that community, you will scale three times as fast. But let's get to my screen. I'm going to show you how
+to create a landing page again in an easier way for you guys. I'm going to reiterate this way. If you want to
+do it through you can do that. Click new website. Um, use a blueprint, build with AI, one of those, right? But
+a lot of you guys, and this is what I ran through, which the AI credits, you just don't get enough to really
+build and customize your website how you want. So, what we're going to do is we're going to come to something
+called Google AI Studio right over here. Now, Google AI Studio is one of the best places that you can create
+apps, mobile games, software, things of that nature. So, we're just going to use this. Once you log in and
+everything, you're going to come over to plus new app and describe the app, right? Or you can browse the app
+gallery. You can kind of see things that have been built here. I think some of them have websites. Um, some of
+them have websites, but we're not really looking for something like this or this. We're looking for a one
+landing page just like this. Looking for something just like this. One landing page where they can easily
+click and get it. So, let's come back over here. Now, we click new app. And what we're going to put here is I
+do have a prompt actually for you guys. Let me pull that up here. And side note, I'm going to be dropping the
+prompt into the school community. I'm going to show you where you can get it. So, when you come to the
+community, you'll see something called free prompts, or it may have a different name, but it's going to be
+here. You're going to come through here, and basically all of the prompts that we've been doing in the videos
+are all here to help you, right? And these do go from order from top down. Um, but the one that we're about to
+use right now is this prompt right here. So, you're going to grab this. This is just giving information.
+You're going to grab this right here. And this is what I'm about to use in this next section. So that's what
+you copy. Then the prompt is here. Let me see if I can show y'all the entire thing. We're going to use this
+prompt right here. And what we're going to do is we're going to get an image first to make sure that's how we
+actually want it. So if I take this boom and let's open chatbt. I'm going to show you guys kind of how I was
+already using it. So, I think it's this, right? Yeah. So, for example, this is the prompt. I'm not going to
+read it for you guys, but there is some things you need to um fill it in with, right? Like my product in one
+sentence. What is your product? My audience, who buys this, the price, outcome they get, proof, you know? So
+you can kind of go in and fill these in or you could just paste this attach and ask it to ask you the
+questions that you need and then you'll answer that, right? So for example, like for this one, what is my
+product? A 14-day training guide that takes someone from zero push-ups to their first real push-up using daily
+progress, whatever. My audience beginners who never tried push-ups. So all you got to do is paste this prompt
+in ChatBT. For example, if I paste this and I put this, mind you, the grammar was terrible, but okay, give me
+another prompt for an example for someone who teaches people how to do calisthetics and how to hit their first
+push-up within 2 weeks. So, when I put that, then it gave me this right here. Right now, understand this is an
+example. So, you guys may want to actually give it more description than this or go fill it out yourself and
+ask it to um kind of fix it up for you. So, make sure you do that. Just know I'm just showing you an example.
+But basically, I took this one, which you see the training on how to go from zero push-ups to the first row
+push-ups. I copied it. It come over to Chacha BT. I can even paste it again and be like, give me an image of
+how this site, now this is the image that it gave me of how the website looks. And this is pretty good, pretty
+fair. Um, of course, if you want to put your picture on there, too, you can do that. like um like I said, like
+how mine is. I don't want to say it's the same, but good style right here. So, you guys take the prompt the
+take this prompt right here. I'll put it in the I won't put it in the description because the prompt is pretty
+long. So, you'll have to go to my Discord and I'll put it in a resource section and you just got to go get
+that. Um and yeah, I'll describe where it's at in the description. Now that we know what the website's going
+to look like, what I'm going to do is I'm going to take this full prompt right here and then copy that.
+Actually, don't paste this part, but um going to take that come back over here to Google AI Studio. Then I'm
+create me an app. I'm going to create me a onepage landing page. Onepage landing page. Yeah, sorry. Onepage
+landing page. And I'm going to give this details right here. Then I'm going to download this right here. Boom.
+Once that's downloaded, then come over here. Make sure you drag it over. It's going to be like that. You're
+going to select send prompt. So going to send it and allow. And then we're going to wait. Now guys, this is
+what the page looks like after everything. It's not uh it's not even close to what the image was supposed to
+be. Well, yeah. It's not even close to what the image is supposed to be. Now, I will say I don't think I used
+the best model for it, though. Um I think I use Gemini. What I use? Yeah, Gemini 3.5 or something. So, so this
+kind of looks a little bit out of um scope. I mean, it's still good, but we kind of need it one. Okay, there's
+one page. That's good. We kind of want it a little more information. So, let's see if we can get it even a
+little bit closer. So, give it one second. Okay. So, you see I put the picture back in. I'm going to ask it,
+can you make it look, can you make this uh landing page as identical as this photo? And let's go down to build
+plan mode. Let's going to plan it for real quick. Do the question mark. So, now that we put the plan, it's not
+going to just build it. We can kind of talk to a little bit. So, let me scroll all the way down. Let's wait a
+bit. Okay. Now it's asking us a couple questions like no top bar. We don't need this really. So I'm going to
+say no top bar in the photo. The FAQ answers are shown expanded. How should that FAQ behave? Let's go back
+over here. FAQ expanded. Um yeah, we'll show it expanded. Why not? Keep all answers visible by default with
+toggle icons. Yep. What should happen after someone submits their email for the free day one sample? Uh right
+now show instant day one interactive sheet PDF download. We'll do the recommended again and submit. Now give
+it a moment again. Now I just switched this back to the build mode and said go ahead and build everything we
+planned. Now we're going to wait for that. Okay. Now this does look exactly like it actually. So like look at
+this. Looks very similar. Very similar. It's just this section right here. So what I'm going to do is tell it
+um let me see this section right here. We want to change it a little bit. Can you change the top section to
+match the Well, actually, let's do this right here. We're going to come back over here and we're going to
+screenshot this right here. Come back. Paste. Shoot. That did not work. Can you make the updates to the top
+section so the image looks so it looks exactly like this? then just give it a moment again. Okay. So, I've
+tried this a couple a couple times and I can't seem to get this header um to be like the screenshot. And I
+believe it's because of the model of Gemini we're using. So, what I'm going to do is I'm just going to
+download this and paste it into Claude. So, yeah. So, basically this is what that looks like. I'm just going
+to click here. Um come over here, export, download as zip. Then, let's move Claude over here. Uh, open that
+zip and just boom. Can I get the the hero page of this? I believe this model will be better. So, if you're
+having issues, just do that or maybe even try chat GBT. I don't know which one's the best to do, but that will
+work. So, just watch. Okay. So, screenshot. I'm going to do the black version actually. Then, can I get the
+hero page of this to look like the screenshot? Then, boom. So, let's try that real quick and we'll give it a
+second. Okay. Boom. Now we're done. This is what I wanted right here. Completely what we wanted. So, now that
+we have this, that's what we're going to use. That's going to be our website. And to use it, you just download
+it. Oh, to use it, of course, you just click the download button, download all, then you can use it however.
+Now that I showed you how to make websites like this, I'm hoping that you all know how to host it. But if you
+don't know how to host it, you're basically just going to push it into GitHub and then like Netlefi and then
+basically it'll be live. So, if you want to see an example about that, that'll have to be a whole different
+topic because it's going to drag out this video even longer. So, let me know in the comments if you know how
+to host this website once you have something like this. Let me know. But, let's continue. So, now that's how
+to create your own landing page. And of course, like I said, you can use your own images in there like I did
+and I showed you how mine looks. Um, you just drag and drop it in there and basically tell it how to do it.
+You can do that in AI Studio Chatt. So, now that we did that, I'm going to show you how to sell to an audience
+that already exists. And basically, you're going to package these things up for them and then sell it for them
+and then split the commission like 50/50 or something like Now, to go through the process of finding people
+who have um an audience, understand that you don't need followers to sell your product. You need one person
+who already has the following. And there's actually three ways you can really structure this to go about this.
+So, first it would be the affiliate. Basically, they post about your thing, which is the PDF or the digital
+product, and every time someone buys because of them, they get a cut, which is basically no money out of your
+pocket up front, right? Then the second is maybe like even a flat fee. So, you just pay them one time, and it
+works if they've got real reach, but it's a bigger risk if the post flops, if that makes sense, because
+they're paying for for it up front. Then third, and this is the one I'd really start with if you've really got
+nothing yet, is just you just give them the product for free plus a cut of anything. It sells, right? It's
+zero cost to test if a partnership would even work. So, we're going to start there and then we're going to go
+bigger. I'm going to show you how exactly how to find that person, what to say to them, and then how the sale
+actually happens even if you have zero audience right now. And let me also say this. Here's where people mess
+up most of the time is that they go find the biggest name in their niche. And that's not what we're going to
+do. We can't do that. We're going to find someone in an adjacent niche, not a not really a direct competitor.
+So, for example, if I was selling a beginner calisthenics guide, I don't need to go to a calisthenics coach
+selling the same thing, if that makes sense. I can go to a general beginner fitness creator with the same
+audience but maybe like a different offer and we're going to kind of ignore the follower count for a second
+and look right back at the comments. If a creator's got like 20,000 followers and nobody's really commenting,
+remember that the audience is dead. So, I'd rather work with someone who has maybe 8K followers and who's got
+like real people in their comments than someone who has 100K who basically has nobody. Okay. So now for us to
+find people we want to work with, you're going to have to find 20 creators, right? So find them near two to 5
+50k. They're actually going to be able to see your messages. And basically, we're going to grab the same
+questions that showing up in their comments, right? You can either do the method, you can either do the method
+that I showed in the last video or you can use something called export comments.xyc, right? So you take a very
+popular video that they have. Say you have a list of 25. You take a very popular video. You come over here.
+This you get about 7,500 comments to export, right? That's way more than you really need. So, you're going to
+basically come back here, paste the link in here, get started for free. You can do it for free. So, don't
+worry. Everything on this channel is showing you how to get do it for free. Then those comments will pop up.
+Right now that you're done, you're going to copy this right here, which I'll have it in the school link when
+you join that. and you copy this right here. You paste the comments and you paste the creator with the
+followers and what they teach. You're going to do that. Then send a preview. Basically, once you create a
+product and hopefully the goal is that you can create a product that you can kind of sell to any influencer
+and all you have to do is tweak it a little bit. That's going to be the goal. And you're going to want to
+follow up with them, of course. Now, here's a good example. Like say like a gamer and you take five of their
+top videos and they've showed their settings and they're playing like Call of Duty or they're playing some
+video game. You're going to make a product about the best settings that you know the gamer uses and they're
+you're going to send you're going to sell that for like 15 bucks or 27 bucks. You basically extracted
+everything they said in the video or even went to go look at the settings in the video. Then you're going to
+make a whole blueprint over that creator. Sometimes what I've done is I've took 50 videos I just put into claw
+and told it to transcribe it and make me a digital product and it'll make something so niche. So that's why I
+gave the gaming aspect cuz you can just sell a digital product based off the settings of their gameplay, you
+know, very very niche. I was doing how to do uh push-ups within 14 days, right? For the calisthenics or
+whatever. So you got to go really really niche and go kind of really deep, right? So don't be like how to make
+money online. That's not going to sell because that's it's not really solving a specific point. You want to
+solve a specific point. So that's how you create your website. And I know I showed you how to do it with W,
+but that's how you do it with AI Studio if you want more tokens. And then you can put it into Claude if
+needed. And as well, that's how you uh find creators to do it for, then send them messages. And I'll kind of
+touch more in that in the school community. So, please go join the school community because it's easier for me
+to review what y'all are saying and to respond to you guys compared to going into my comments on YouTube. It's
+very hard. So, go there, go check it out. It's free. So, free to get all the resources that are in there and,
+you know, you can win from that. But, thank you guys for watching. If you got all the way here, comment that
+you are the 1%. You know, I I like how y'all are commenting that cuz y'all are getting through the whole
+video. But let me know if you have any questions. Um, there's a lot of videos that I got coming up and I'm
+going to be more consistent for you guys. I understand I was a busy with the school community, but that should
+be no excuse for not dropping content for y'all consistently. So, just get ready for that. And please like and
+subscribe and I'll turn your notifications on so I can, you know, give you information when you need it. But
+I'm going to link my top two videos right here. Like and subscribe right here. Take care and get ready for the
+next one and let's print some money. Join the school community and get

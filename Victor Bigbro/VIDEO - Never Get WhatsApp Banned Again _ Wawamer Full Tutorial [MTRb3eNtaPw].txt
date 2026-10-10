@@ -1,0 +1,142 @@
+Title: Never Get WhatsApp Banned Again | Wawamer Full Tutorial
+Channel: Victor Bigbro
+Type: VIDEO
+Video ID: MTRb3eNtaPw
+URL: https://www.youtube.com/watch?v=MTRb3eNtaPw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:49:25+00:00
+
+Kind: captions Language: en In this video, I'm going to be walking you through if you don't know what it is,
+it's basically a software that helps you automatically warm up multiple WhatsApp accounts using AI so you can
+avoid temporary bans, message limits, and all the headaches that comes with operating new WhatsApp accounts.
+So, you can come over to their website right here, or you can click on the first link down in the description.
+Once you click on that link, you're going to be redirected to this page, and over here you can see it says
+free WhatsApp warm up to bulk sender with anti-ban protection. And over here, you can see some more details
+about the software, okay? So, it's basically a software that helps you warm up new WhatsApp accounts so you
+can avoid bans and run multiple accounts, and I'm going to talk more about that somewhere around this video.
+So, you can actually come over to their website right here. Once you're here, you basically want to go ahead
+and click on download. From here, you can download the software for your device. So, in this case, I'm going
+to go ahead and download this for Windows, and once it's done downloading, I want to basically go ahead and
+install the software to my computer. So, once you install the software, you are going to land on an interface
+that looks like this, and from here, they're going to have you sign in to your account. So, first off, if you
+want to log in multiple accounts inside of the software, you can easily come over here and click on this icon
+here, and once this opens up, you can come down here and click on plus, and once you click on plus, you can
+easily come over here and click on confirm, and it's going to create a new window for you. And once that new
+window is created, you can easily log in another account from this window, okay? So, I'm going to go ahead and
+remove this by right clicking and clicking on remove accounts. Next, we have the groups section. You can click
+on this drop-down arrow and actually create groups to organize your accounts. So, let's say I'm warming up
+multiple accounts to do my marketing, I can easily organize everything in the marketing group and create a
+group. And once I click on that, I can easily organize my accounts by clicking on none here and setting this
+to a particular group, in this case, the marketing group, okay? So, this actually helps you organize your
+accounts so you can know exactly what each account is for. You can also create another group. Let's say you're
+warming up your WhatsApp group for support, you can also do that here and create a group for that. What this
+actually helps you to do is to keep things organized so you can know exactly what each WhatsApp account is
+for. So, that's it for the group section. So, I'm going to go ahead and get rid of all these groups. So, next
+we have the start section. So, we can actually sort these by signed in, which is accounts that's signed in and
+over here I can also sort these by unsigned, which is accounts that is logged in but not currently signed in.
+So, what that basically means is an account that's logged in inside of your computer but got logged out. So,
+I'm going to go ahead and put this on all stats and that's it for all these sections. I'm going to close this
+back and you're going to talk about the proxy section. So, you can literally go over to the proxy section here
+and once you click on proxy settings you can click over to proxy settings on top and click on add proxy and
+from here you want to go ahead and give your proxy a name. So, I can give this US proxy. Next, I want to
+select the proxy protocol by clicking on this drop down and over here I can see all the proxy protocols that
+they have. So, for this example I'm going to choose socks five. Once I choose the socks five protocol, I want
+to basically go ahead and fill out my proxy information like my host, port, username and password. So, you can
+literally copy those information from your proxy provider and once you input that information, you can
+literally come down here and click on save and once you click on save, you are going to have a proxy and what
+that allows you to do is it actually allows you to log in your WhatsApp account from a different IP address
+using your proxy. So, once you set your proxy, you can literally come down here and click on plus and once you
+click on plus, you can select the proxy you've added and once you select a proxy, you can literally click on
+confirm and your WhatsApp account is going to be logged in to the IP address of your proxy. And over here you
+can see all the information of your device. So, that's it for the proxy section. Next, we are going to talk
+about warm up task. So, you can come over here and click on warm up task and click over here where it says
+manage rules and once you click on that, you're going to be redirected straight to this page. Now, over here
+we have 7-day fast warm up, 14-day standard warm up, 21-day advanced warm up and account pool warm up. And
+over here you can see how long they warm up your account. These three are self warm up and the last one is
+pool warm up and I'm going to explain exactly what all these means, okay? So, you can actually create your own
+custom rules by clicking on new rule on the top. And once you click on that, you are going to be redirected
+straight to this page. Now, over here, you are going to have to name your rules. So, let's name this the test
+rule. You can name it whatever you want, so you can use the name to actually remember this rule. So, once you
+name your rule, you can set this on self warm up, team warm up, or pool warm up. And if you don't know what
+any of this means, you can literally hover onto this question mark icon and you see what they all mean. So,
+self warm up basically means accounts logged into this device chat with other device. Team warm up means
+accounts on different devices within the same team chat. And finally, pool warm up actually means your account
+interact with external high-quality accounts provided by the system. So, if you don't have a team and you
+still want to warm up your account, the best option is to go for the pool warm up, which means your account
+chats with other accounts. After that, you have the daily limit. So, this basically means when you want your
+account to warm up. The default settings is normally good. Next, we have the message intervals. This basically
+means how long you want your account to delay to avoid frequent sending. So, next, we have the AI language.
+Now, it's on Chinese. You can click on this drop down and put this on English. And finally, we have the warm
+up period. So, you can click on this drop down arrow and set how long you want the AI to warm up your account.
+So, in this case, I'm going to leave it on 28 days, but you can do whatever you want. Now, the rest of the
+configuration are good by default. You don't have to worry about any of those. And once you are done with
+this, you can literally come down here and click on save config and you are going to have your own custom
+rule. So, that's basically it about setting these rules. And if you still don't understand what the rule
+means, it's basically how you want the AI to warm up your account. So, once you are done with this part, you
+can head back and from here, you can actually create tasks and I'm going to show you exactly what that means.
+So, once you are on the warm up tab, you can click on new tasks and once you click on new tasks, you can give
+your task a name. So, let's be like test task one. So, once you give your task a name, you are going to go
+ahead and select the rule you want to use for this task. Now, over here is where we have our rule and you can
+see the test rule we created. So, you can use this one or you can use the one that they already have, okay?
+So, once you set your rule, you can go ahead and select the WhatsApp account you want to warm. So, all your
+accounts are going to be displayed here and you can actually search for your WhatsApp account using your
+nickname or your phone number on this tab. And not only that, you can also pull up your WhatsApp account by
+groups. So, let's say you've already grouped your WhatsApp account, you can actually sort that here and warm
+up your accounts by groups. So, I can easily come here and click on the one WhatsApp account I want to warm up
+and I can come over here and click on start now and it's going to immediately start warming up my account
+using this rule that I've set here. Not only that, I can also come over here and click on create now and once
+I click on that, I can easily come over here and click on this play icon to start the rule. And once I click
+on that, it's going to start warming up the account immediately. And this other icon allows me to view the
+task and see what it has done so far. So, over here it's going to show me the account it has successfully
+completed, the message it has sent so far today, and total message it has replied. So, that's what this icon
+helps you to do and you can actually duplicate this task by clicking on this icon and over here you can edit
+the task by clicking on this edit icon and down here you can stop the task, okay? You can start the task and
+you can stop the task and finally, you can click on this trash icon to delete the task. So, that's all there
+is to know about the warm up tab. Now, we are going to move over to the dashboard section. So, I'm going to
+click on the dashboard section and I'm going to explain exactly what all this means, okay? So, first off, we
+have the port usage section. Now, this basically means how many accounts you have logged in and the amount of
+space you have left. So, for example, I personally have a space of five accounts and I've logged in one
+account, that's why it's saying five out of one. And here, it's showing 20% cuz I've used 20% of my ports. So,
+next we have today's messages sent and received. So, that basically means how many messages have your accounts
+sent and received. And over here, we have today's disconnected accounts. After the today's disconnected
+accounts, we have the warmed up accounts. This basically means accounts that are successfully warmed up. So,
+next you have the column section. Now, you can click on this and select the columns you want. So, over here
+are your columns. So, we have the proxy, friends, and in between. So, if you want to remove some columns, you
+can click on this settings here. Let's say I don't find the friends column useful. I can uncheck this friends
+and uncheck interaction date. And what that will do is it's going to remove that column and I can only focus
+on the useful columns. So, after the column section, you have the group management section. Now, we can click
+on this folder here and actually organize your groups. Now, this group and the first group we talked about are
+not actually the same groups. So, you can come down here and click on this folder on the group management
+section and add a group. So, let's do a hello group. You can name this whatever you want. Let's say this is
+for your marketing, support, whatever. You can name it whatever you want. Once I add that, I can actually come
+down here and click on create. And this actually helps me to organize my accounts. So, let's say you
+successfully warmed up your account and you want to organize your regular account from the warmed up account.
+You can come over here and click on details. And once you click on that, click on this drop down arrow. Let's
+say this hello group is where you keep all your warmed up account. You can go ahead and organize it by
+clicking on here. And once you see this group, you know all your WhatsApp accounts in this group are
+completely warmed up. And on the remark section, you can come down here and write warmed up and ready. So,
+once you put your remark, you can click on this drop down arrow and set the stage. Now, over here we have not
+started, warming, completed, and the rest. So, I can set this on completed and I can also add warm up record.
+So, I can literally copy this here, paste it in, and click on save. And it's actually going to record this
+with dates. So, this actually helps you stay organized, so you know exactly what WhatsApp accounts are ready.
+Now, one cool feature I like about this site is that they have a one-click warm-up feature. I just showed you
+everything there is to know about this site, but let's say you don't want to click all the random buttons, you
+just want to have the software warm up your account. You can easily log in all your accounts by clicking on
+this plus, and once you log in all your accounts, you can go ahead and click on the dashboard section. Now,
+once you click on the dashboard section, you want to go ahead and click on one-click warm-up. Now, once you
+click on that, you see right here it says one task-free account detected. The following preset rule will be
+automatically assigned. Now, what this means is it's going to automatically detect all your accounts that are
+not currently warming up. And if you actually want to manually select the account, you can come down here and
+check the account and click on one-click warm-up, and over here you see it says one account selected manually.
+So, you can manually select the account, or you can literally come over here and click on one-click warm-up,
+and it's going to do everything for you. And once you do that, you want to go ahead and select the rule. So,
+remember that test rule we created few moments ago, you can come over here and use it and click on start
+warm-up, and it's going to start warming up your account with just a few clicks. And if you don't want to use
+the test rule, you can click on this change rule here and select a rule you want to use. You can select a rule
+you want to use and go ahead and click on start and literally start warming up your account. So, that's one
+thing I like about this software. So, you don't have to go ahead and set all the random complicated settings,
+it's just going to warm up all your accounts and get it ready for you. So, I'm going to wrap this video up
+here cuz I've pretty much explained everything you need to know. Smash the thumbs up button if you got value
+out of the video and subscribe to the channel. I'm going to talk to every single one of you all in the next
+video. Peace.

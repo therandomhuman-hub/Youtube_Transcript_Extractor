@@ -1,0 +1,115 @@
+Title: How To Build Digital Products People DESPERATELY Need (Free AI) | Lesson 2 & 3
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: qSCFcNN1py8
+URL: https://www.youtube.com/watch?v=qSCFcNN1py8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:44:43+00:00
+
+Kind: captions Language: en Hello everybody. I'm going to show you how to build then package the digital
+product. This is going to be lesson two and three. Going to pack them in together and give it to y'all. Now
+for a little recap, this is what we did in lesson one. So in lesson one, we found a creator and then from that
+creator, we researched their comments and found something to sell. Once we got that, we got a list of products
+that we were going to um create as a digital product for them. After we did that, we went to Gumroad and
+searched if it was a good product. And that was just by looking at reviews from people who have already sold
+that digital product. And that's how we found our winning. So, let's get back to it. If you have your product
+now, just follow my steps with your own product and then we can all build this together. But let's get into
+it. I'm going to go to the screen. Okay. So, like I said, we've done the research. I came back to this page.
+And now you're going to grab your winner product. And remember, this one was mine for the calisthenics. And
+I'm going to come grab this pocket one and copy. Well, first this is the prompt. This is the prompt right
+here, which I'll I'll put that in the description below. And I know a lot of y'all said that I didn't post the
+other prompts, which I was pretty sure I did, but I'll put those down uh below in the description as well. But
+you're going to copy your the the winning product. You're going to put this prompt in there and then you're
+going to click enter, which then is going to give you a bunch of the steps and templates and what what you
+kind of want to make your um what we're going to make the ebook about or the PDF about or whatever the digital
+product is about. So then you're going to get something like this as you see from zero to first pull up the
+zero strength starter plan. Maybe we'll change how that sounds later on, but all we know is I'm going to copy
+this right here. You can see 15 to 20 research queries. Then we come to perplexity. You don't get that many
+tokens in Perplexity. So make sure that you're not, you know, typing a lot in Perplexity and you're just
+copying and pasting this. So all you're going to do is take the output of this and put it in Perplexity. No
+other words. And then you're going to wait for that. Now that we have the entire um information that we're
+going to need, we're basically going to copy this and put it back into Claude. So, let me copy this real quick
+and make sure you're follow. You can make sure you're following exactly what I'm doing and you'll get the same
+results, of course. So, you copy the whole thing here. Come back to Claude and this is what right here and
+paste this. But when you paste this, you want to put in another prompt, which I will give you that right here.
+Boom. So, you're going to put you're going to come to Perplexity, copy, paste it back into Claude with uh this
+prompt right here. And then you're going to get this chapter one. After you get the chapter one, you're going
+to keep putting next for the next chapter. So, if we come over here, you can see when we were doing the
+research, um, let's scroll down a little bit. Got phase one, phase two, phase three, phase four, and things of
+that nature. Um, so, so after you get this, you're basically just going to put next, right? So, come down
+here, put next. It's going to come up with that next chapter, the daily structure. And if you're realizing, if
+you're wondering how it's coming up with the chapters, remember if we come back over here, know where it's at.
+daily. Sure. Yeah. So, for example, this whole phase is its own phase right here. Then when you put next, this
+is going to be its own phase right here. Then when you put next, I believe this is its own phase right here.
+So, we do it in chunks so we can get a good bulk of the information. So, now I'm going to go back because it
+should be or it's this one. It should be done maybe. No. Okay. So, got the daily structure. Um then next to
+phase one for example come over here it should be phase one you know we just did the daily structure you see
+did that section now we're in the phase one section so come back type next and you kind of you have to do it
+in chunks if you do it in one bulk and let it do the whole PDF or ebook it's it's just not going to it's not
+going to give a good result in my opinion from what I've done. So, okay, we get that. Then when that's done,
+you type next. And you basically just keep going through this process, which I guess I'll go through it for
+y'all. Okay, so we just keep going through. And I believe it should stop when we get to that uh last section.
+Where's that last section? I don't know even where that last section is here, but I guess we'll see. We'll
+just keep putting next until it gives us that last section. Next. So this remember that we're doing uh
+calisthenics. So it would be pretty valuable for you know for someone who was doing this like to put their
+links here. So it seems pretty you know umformational to show them how to do it. So this this is a pretty good
+ebook. The last piece the closing chapter. So you know we're going to say next. It's going to give us a
+closing chapter first pull up right. Boom boom boom boom boom. We want this compiled to a single dog PDF or
+are you handling assembly on your end? Yes, we do. And as well what when we put next is going to give us a PDF
+for that ebook. But I do have another prompt here um for styling and how you want to style it because if you
+don't give it any style is going to choose what it wants. So, this prompt here, which I will paste this in the
+uh I'll paste this in the caption below or maybe I'll give it e I'll give it to y'all easier compared to just
+pasting it in the description. But no, maybe I'll just paste in the description. But yes, so take the full
+book and output one complete HTML file. Premium book design, not minimal. It doesn't have to be uh uh HTML. I
+could just put PDF here. I could put PDF here. Um, then you can describe how you want your color. You can
+describe how you want your color. That's going to be customized to how you want it, of course. Um, or when we
+get to the sales side, how the, uh, business owner or influencer or coach wants it from your conversations
+with them. But, you know, you can read this uh, pretty self-explanatory then. But, let me put yes. Then once
+it does that, oh, also we can do this as well. No, no, no. We'll just do this for now. And once we do that, we
+wait and it's going to give us the full printed um ebook, PDF, however you want to make it. If I would have
+put ebook, I would have done it that way, PDF that way. It doesn't really matter. So, we'll wait for that.
+Now, we got the ebook here. This is it right here. It gave me ebook. My bad. It gave me a book and a PDF. So
+you can see from zero to hero pull-ups uh of course path to rep one where are you daily structure phase one
+building tension you know you can of course read but that's what it's looks like boom boom boom um sometimes
+the format will come out kind of weird so for example let's let's test it out if I download that see if the
+format's weird. Uh, okay. This Yeah, like like things like this. Like you got to kind of fix like broken pages
+like that a little bit. But the structure of the page is what really matters. Um, and this one looks pretty
+good. It looks pretty good. Now, let me see if I can show you how to clean it up cuz that was a PDF. Okay.
+Yeah, the HTML probably wouldn't have any of those issues. You can see that here. So, the HTML will never have
+those issues. the little milestone certificate. Make sure you do read over what these things are. And while
+you're while you are creating this ebook, like um of course you can change it however you want. I mean,
+however style you want to do it, you can copy this, put this back into here, and change the style. Or for
+example, like if I look through here and some of the formatting's rough, um it won't be rough on the HTML most
+likely, but the PDF side, sometimes it ends up like like this or like this, you know, like sometimes it just
+doesn't look too pretty. If that's the case, I have another prompt for you. Um and that is the it's I call it
+a fixed pages prompt. So for example, can you give me the PDF again and follow instructions below? Then you do
+that. Then you let that go again and the PDF will come back with a better structured version of it. So it
+doesn't look something like this. Okay. So now that that's finished, basically this is the new version of uh
+the prompt I just pasted, which I actually don't like it more. Basically, what it did was append everything to
+the top. You can see this. So, everything's up at the Here, let me zoom out a little bit. Like, everything's
+appended to the top and it doesn't look too good. So, um I'm going to keep it at the original where it looked
+more sleek and clean. I think that the original's right here. Yeah, like this looks way more clean. It's not
+really appended to the top, but structured really good. Um, it's structured really good like this. I would try
+to push this, excuse me, I try to push this a little down. Um, and make sure after you create this, you read,
+you actually like go through and read it and make sure like it actually sounds like, you know, a good thing
+like that is providing value before you just ship it out. Then go ahead, talk to Claude, fix all these pages.
+Say that you want uh like for example this page. uh say, "Can I can you push workout B to the second page or
+to page 13?" You know, things of that nature. Um I'm not going to do it here, but yeah. So, that's how you
+create your ebook, your PDF, your digital product, whatever you want to sell. And yeah, that's the process.
+Now that I showed you how to create the digital product with AI, I'm going to show you how to package it up.
+Basically, make sure that it's really sellable. And I do have one prompt that's going to do this for y'all.
+And of course, you can customize it for whatever um digital product niche or you're trying to go to. But I'm
+going to show you right here. Let's get to the screen. Now, to make this more of a product, what you can do is
+put this prompt right here, which is basically read the product, find anything we missed, improve the
+structure, and package it into something that's easier for the customer to actually use. This is just if you
+read it and you feel like it's not simple enough to someone to understand or um you don't know the value that
+they extracting out of it. I would use this prompt right here and it'll change it all up. You basically put
+this prompt download then drag the PDF here. You could do this here or in chat. It doesn't matter or with
+whatever AI model. It doesn't really matter. I guess use the one that you actually have tokens. Um because
+some of y'all are using the free version, some of you are using the paid. So it'll differ from that. But
+that's how you build the AI product and package it. And guys, that's how you create the PDFs and really
+package into a product. Um, in this next lesson, I'm going to show you how to actually put it on WO. I know a
+lot of you are asking questions on and about how to get sales and we're getting to that. And if you have any
+questions, put it down below. I'm going to show you my two top videos right here. And like and subscribe right
+here. Get ready for the next one.

@@ -1,0 +1,191 @@
+Title: How to Use ChatGPT Astra AI Better Than 99% Of People (Beginner to Pro)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: zK7r8zJG2pY
+URL: https://www.youtube.com/watch?v=zK7r8zJG2pY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:27:55+00:00
+
+Kind: captions Language: en Everyone's been saying that ChatGPT is just a glorified search bar, including
+myself. And for a while, we were [music] right. You typed a question, got a wall of text back, and still had
+to do all of the work yourself. But ChatGPT's new Astra model is a completely different animal. It's OpenAI's
+most powerful publicly available model, and it beats [music] the top Claude models on key benchmarks. But the
+real shift is that it can do actual real work for you, not just telling you how to do a task, but actually
+doing it. As an AI engineer, I see what separates the systems that automate real business versus the ones that
+just get stuck in the hype phase. So, in this video, I'm not just going to show you a random set of features
+that you'll never use like in other YouTube tutorials. I'll show you the five steps to master ChatGPT six
+Astra using the features that will actually help you build an income online. With the last step literally
+allowing you to deliver for paying customers while you sleep. And I know they work because I've personally
+used this exact playbook to build an $8,000 per month agency on the side of my last 9-5 IT job. So, if I could
+do that with little AI experience at the time, then you can do it, too. But before we jump into the first
+step, the first thing we need to figure out is what should we be building in the first place? Now, I ran track
+all throughout high school, and the five features I'm going to show you today from ChatGPT Astra is just like
+a relay race. Let me explain. So, in this case, we have five laps as part of our race. And once we complete a
+step, we're going to pass the baton to the next one. And we're going to do this all the way through all five.
+So, let's start with the first lap here, which will help us build an online business through ChatGPT Astra by
+helping us figure out what idea we should even start to tackle. Now, the first question you should be asking
+yourself is should I be building a product or a service? And the main difference here is that with a product,
+it sounds great on paper that you're building something once and selling forever. While with a service, you
+have to deliver on it. In the digital age now, typically a product involves building some kind of software.
+And there's a crazy stat that approximately 92% of SaaS startups fail within their first three years. And
+that's because the mindset for so many product builders is just like this quote here from a baseball movie
+called Field of Dreams. And it goes, "If you build it, they will come." Initially, I believed this, too. I
+thought if I built something good enough, then people will just find it and use it. But that couldn't be
+further than the truth. I probably spent over 6 months building out three different SaaS product ideas over
+here. And in the end, I couldn't get a single person to pay for them. And that's because I couldn't answer yes
+to this one question. Do I know someone who will be so excited by this that they will buy right now? If you
+can answer this question with yes, then you can go ahead and start building your product. But if the answer is
+no, like mine, then product is probably not the best idea for you. On the other hand, when I started
+implementing a service, I was able to get up to $8,000 per month with very little experience. So, at the end
+of the day, while products do have infinite leverage and you don't have to manage clients, there's a ton of
+risk of building up an entire product without even knowing if it's possible to make your first dollar with it.
+Well, on the other hand, a service business is very fast to your first dollar and you can charge a good amount
+for it. And although it's a little bit harder to scale in the long run, it doesn't cost anything up front to
+build your service. Now that you decided to build a service business, I want to show you how you can come up
+with your exact business idea right within ChatGPT using GPT-6 Astra. So, I created this business builder AI
+skill. Once you download the skill file, all you have to do is drag it here into ChatGPT and tag the skill
+creator. You'll know it works in the end when you're able to tag the freedom founder builder. From here, all
+you have to do is either dragging your resume or go to LinkedIn and export your profile to add to the chat.
+This will build out your freedom founder builder dashboard to tell you your business idea based on your
+previous experience. So, for mine on the ideator phase, it tells me to build an internal AI workflow studio.
+It gives me exactly why it is my unfair advantage, which brings us to lap two of our relay, which is figuring
+out exactly who to target for our idea. We want to figure out who is our dream customer to serve with Chat
+GPT-6 Astra. And to do that, we just need to answer a couple of questions. What is their current reality? What
+are the problems they're currently facing? What is their desired transformation? How exactly do you help? And
+who don't you help for this service? Again, in our freedom founder dashboard, we can go to the targeter stage
+here, and it will tell us exactly who our dream customer is. So, for us, it's specifically technology leaders
+at 50 to 500 person companies. Now, this dashboard is great for getting you started, but I want to point out
+that if you want me to take a personal look at your business idea and help you plan out the exact next moves
+to take, I'm doing a free limited number of one-on-one calls with me that you can book with the link in the
+dashboard or the link in the description below. Now that we know what to build and who we want to target,
+let's go on to lap three of this race, which is actually launching our business idea with Chat GPT. With any
+type of business these days, a huge part of landing customers is by creating some form of content. And there's
+two types of content that we can make. The first one is organic, and the second one is paid. Taking a look at
+paid traffic, I actually have experience with this working with media companies. It's all about finding great
+ads from other people that you can take the best elements of and combine together to make your own idea. So,
+for this Target back to school ad, maybe they found that this circular 20% off was pretty good. They could
+have figured that this purple background color is good, as well as a diverse set of kids from different
+ethnicities. And then maybe they found that this shade of pastel, along with having pencils on the cover,
+really helped to drive conversions. So, you combine all them together and you end up with a new ad that has
+the best parts of every single one that you referenced. Now, paid is great, but again, you have to pay for it
+in order to use it and get people to look at it. So, as someone who's first launching the business, we want to
+take a look at organic. I have a couple posts pulled up here from Ali Abdaal, who runs a business teaching
+productivity and makes multiple million dollars per year. So, he makes things like this infographic that show
+his habits that save him 25 hours per week and goes through one by one. And then you have Gary V here, who
+runs a media agency. And he posts these kind of inspirational photos that have quotes on them that resonate
+with people. Both of these combined to help get eyeballs on their accounts and to get them people who comment
+who can become customers. So, how can we build these with AI and do this through ChatGPT? Well, we're going to
+use something called Model Context Protocol, or just MCP for short. It's a very similar to a Game Boy, if
+you've ever played it. Think of your Game Boy just like ChatGPT, and all the different apps that you want to
+connect to are like different games. MCP is a standardized opening here. So, any of these apps can plug right
+into your AI and you can use them directly within ChatGPT. We're going to be connecting ChatGPT directly to an
+app here called Gamma, who's also the sponsor of this video, which will allow us to leverage ChatGPT to create
+this organic content for us. Within ChatGPT, all I did was go to plugins here on the left, and then I searched
+for Gamma. Once you connect your account, it's pretty easy to tell if it works. You go to a chat and you can
+tag @gamma. So, all I told it to do was to use Gamma to create an Instagram carousel post on five ways to use
+AI. I told it to have a cover page and on each of the slides talk about these five topics, including my
+Instagram handle on the bottom. And within just a couple seconds, I now have a carousel that I could that I
+can post on Instagram just like Ali Abdal's. And it goes through each of the five ways to use AI, talking
+about a key concept in each of the infographic slides here, a very simplistic design. And we did this directly
+within ChatGPT. Now, if we want a design that's more like Gary Vee's with a motivational quote, I did the same
+thing here. I said, "Use Gamma to create a single-page Instagram post." And again, in just a couple seconds,
+it created this infographic here of a foggy window written in it that says, "If you build it, they will come."
+And if you see at the bottom here, it even has my Instagram handle at the bottom. Now, we have a way to launch
+our service business using organic content, which means that we can again pass the baton to lap number four.
+And in this one, the goal is to take those people who commented and follow and turn them into people who will
+actually buy our service. Now, it's extremely important to know exactly what you are selling. Think about it
+like a game of Mario that I used to play when I was a kid. You have their current situation over here as
+Mario. What you want to do is identify their current situation and where they are at right now. From there,
+you do some discovery and find out what is their desired outcome. And with their current situation and their
+goals in mind, you need to uncover all the different pain points that they're facing in getting to that goal,
+which allows you to position your vehicle or your service business as the solution for them to not have to go
+through all this pain and to get from their current situation to their goal. Now, the problem is most people
+try to sell their vehicle. If it's something with AI, then that's people talking about how great AI is and you
+have to be using AI. But, if you want someone to actually commit and spend money, you need to be selling their
+desired outcome, which is not just the physical of what they'll get at the end, like capturing and saving
+Princess Peach, but it's even the feeling of what it's like. So, being invincible by using your solution,
+which is the star over here. If we go back to our builder dashboard, we'll see that there's a seller tab,
+which tells us what their current situation typically looks like, what their goals are, all the pains that
+they're facing. Now, you could position your service as the solution. Now, if we want to be prepared going
+into these calls, we can build what is known as a sales pitch deck to hit on all of those points in order for
+us. As an example of this, we're going to be building a sales pitch deck for this company, David Protein,
+which is just a really popular nutrition protein company that uses very simple ingredients. And we're going to
+be pitching our AI Workflow Studio service. So, within ChatGPT, all I did was tag Gamma again and I said to
+create a sales slide pitch deck that's six slides max, using a theme that I made for that David Protein. And I
+wanted to talk about my automation idea with all the elements that we spoke about. So, their current
+situation, their goal, the pains, and how my idea is the solution. And within 40 seconds here, it created this
+slide deck. Now, within pitch deck, it talks about what their current situation looks like, what the goal
+would be as their desired outcome, all of the pains that they are facing to block their path, and then how
+internal AI workflows will help them overcome those pains. So, you can see the difference between just selling
+AI versus positioning it as a way to solve their problems. Then, it's just a little information about how this
+will work with an offer. Now, even with these AI-assisted pitch decks, I know that selling a service is
+definitely something that's new and can be a bit intimidating. It definitely was for me as someone with an
+engineering background who's a bit more introverted and not as much of like a salesman. But that's why again,
+I just want to point out that if you want some personalized one-on-one assistance on any step of this process,
+then I'm offering a limited number of free one-on-one coaching calls that you can book directly with the link
+in the description below where we can talk about your exact situation and what it takes to get to that next
+stage, whether it's building up the business idea or how you can sell and deliver for your first customer. All
+right, the hard part is over and you were able to turn someone who was interested in your service into someone
+who's actually handed you money and paid for it. But now you're probably feeling a different kind of anxiety,
+which is actually having to deliver for them. So, pass the baton to the last step here and you have now become
+an operator who is delivering their service. A lot of people actually get this wrong. Think about your service
+as like a juicy steak that you're preparing. Now there's tons of different ways that you can cook a steak. You
+can cook it on the barbecue, you can cook it on the stove, and if you're brave enough, you could even cook it
+in the air fryer. Now for business, everyone gets so caught up on how you're actually cooking the steak,
+whether it's you doing all the work yourself, you're hiring other people to do the work, or you're just using
+AI to do the work for you. But in reality, it doesn't actually matter how the work gets done. The customer or
+the client only cares that they get a good result that tastes good in the end. So there's no reason to be
+struggling trying to build it all yourself when you can use ChatGPT 6 Astra with some other connected tools to
+do the service for you. At the end, the result is the same and you get a happy customer with good results.
+I'll show you a really good example from a customer that I worked with who is an executive leadership coach.
+So, she would go to companies and talk to their leadership teams and help them figure out their problems and
+overcome their bottlenecks in business. Now, to do this, she would have custom slide deck presentations
+explaining all the problems that they're facing and how to solve them. And the process would take about a week
+to do this. It involved building out an entire client design system so that the slides end up being in that
+client's style. Then, they would create a presentation outline that would include all of the coaching
+strategies that she had, along with the accompanying issues that they discovered through discovery calls.
+Then, finally, from the outline, they confirm it with the head coach that all looks good, build out a slide
+deck presentation explaining how to solve those problems with her coaching philosophies, and then at the very
+end, add in some speaker notes. What we did was add AI into this process, which got it from over a week long
+to deliver into less than a day. And the clients still get great results that they can use and leverage
+without even having to know that AI was used in the middle here to build out the decks. So, it was a
+multi-step process to do this. The first thing we did is we connected to her drive to pull down all of her
+coaching philosophies and frameworks that she uses. Then, we connected to Google Docs, which would pull all of
+the notes that they took, the call transcripts, and exactly who was part of the company that they're helping
+and what the problems are that they're facing. Now, initially, we went straight to Google Slides and created a
+slide deck in there. But, we missed out on the whole client theme portion of it, and we wanted more
+aesthetic-looking results. So, what we did is we looped in Gamma to this mix. Within our AI provider, we
+connected to Gamma, pulled in the client's theme, and built a detailed slide deck that we're able to then
+present to the client. So, that way, it's directly in their style and goes over all of the pains that they're
+facing and how to solve them. It's actually so easy to do this within ChatGPT. All I said was to use Gamma to
+create a 10-slide deck proposing solutions for the service that we brought up in our Freedom Founder
+dashboard. Then I said to specifically use my notes in this Drive folder to gather content for it. And in that
+Drive folder, I have notes on all my different methods that I use, as well as discovery call transcripts, and
+some notes about the team. And within under a minute and a half, it comes up with a 10-slide deck
+presentation. It's gathered all of that context from the Google Drive, put it into here to explain what
+exactly was heard, what their current workflow looks like, all the different pains that they can remove, and
+the solution that we can do it with our AI workflows, including a way that it uses all the tools they're
+already using in their stack. So, at the end, there is a proposed solution and next steps. Now, I'll do you
+one even better, because with ChatGPT and Astra, you can do this automatically to have it run without you
+having to be at the keyboard. And all you have to do for that is go on the left here to the scheduled task
+section. Now, you can create a new scheduled task here, and within it, I pasted those same instructions to use
+Gamma to create the deck, and talk to Google Drive here to get all of the context that's needed. So, we can
+just tag Google Drive like that. Then we can have it run in the cloud so that it runs even if our laptop is
+closed, and we can have it run weekly right before the week starts so that we're prepared and have slides to
+present on Monday. We can see the created task here and actually view a run that it had. And at the end here,
+it creates the exact deck that we need without us even having to open up our laptop, just like before, in the
+same theme of the company that we're making this for. So, super personalized. Awesome. So, now you have an
+idea of how you can use the latest and greatest ChatGPT 6 Astra model to build out a business idea for you,
+land customers, sell them, and even deliver for them. It's pretty insane now how you can tackle every single
+stage of business using a powerful model like GPT-6 Astra. Now, I don't just want to drop you here and have
+you figure out everything else on your own. So, I want to give you three options that you can take. The first
+one is to download that business builder AI skill. You can download it for free with the link in the
+description below, and it will give you the exact roadmap on what you need to take as next steps, [music]
+depending on the current stage that you are in. Now, if you've already done that and you still want some more
+personalized help, then I'm offering a limited number of free one-on-one coaching calls. So, I can understand
+your exact situation and we could point out how to move you to the next stage of building your one-person
+online business using AI. The third step is if you're still just trying to learn a little bit more about AI
+tools. [music] And for that, I've made some great videos on other AI models like Google Gemini. So, if you
+want to watch the top 20 hacks I have to use Google Gemini to help build a one-person online business with AI,
+then you could check out the video that I'm linking right here.

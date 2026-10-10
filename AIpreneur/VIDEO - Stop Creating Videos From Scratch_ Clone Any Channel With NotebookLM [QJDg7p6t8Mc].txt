@@ -1,0 +1,117 @@
+Title: Stop Creating Videos From Scratch: Clone Any Channel With NotebookLM
+Channel: AIpreneur
+Type: VIDEO
+Video ID: QJDg7p6t8Mc
+URL: https://www.youtube.com/watch?v=QJDg7p6t8Mc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:17:57+00:00
+
+Kind: captions Language: en Most creators spend months guessing what kind of channel to build, testing ideas,
+failing, and starting over week after week. [music] But the real challenge is not simply choosing a niche. It
+is understanding the audience, finding the right topics, crafting stronger hooks, structuring better scripts,
+and uncovering the full playbook behind a successful YouTube channel. The channels already winning are not
+[music] guessing. They are following a proven formula. And in this video, I'll show you how to turn Notebook
+LM into a content engine [music] that decodes that formula from any monetized channel in minutes. From the
+audience and topics to the hooks, script structure, [music] and overall content strategy. Then, once you have
+the formula, you can use it to create [music] complete cinematic videos, produce them in bulk, and automate
+almost [music] the entire process. Welcome to AIpreneur. Let's break down the system and build it step by
+step. Step one, find the winning channel. The whole system only works if you start with the right channel. So,
+open YouTube and find a channel in whatever niche you want to work in. For this whole video, I'm going to use
+one example so you can follow along start to finish. Psychology and human behavior. It is one of the best
+faceless niches right now. The videos are calm, cinematic, story-driven, and people come back for the next one
+every single time. But everything I show you works for any niche. So, whether you are into finance, history,
+or relationships, just follow the same steps with your channel. So, search for something like psychology of
+people or human behavior on YouTube and look at the channels that come up. What you are looking for is a
+channel that is already proven. Consistent uploads, strong view counts, and one you can verify is actually
+monetized. You are not cloning a channel that is guessing. You are cloning a channel that already cracked the
+code. Quick honest note, do not pick the biggest channel in your niche with 10 million subscribers. Pick a
+channel that is growing fast, faceless, and clearly following a repeatable formula. Those are the ones worth
+modeling because their success comes from the system, not from a personality you can never copy. You have got
+your target. Now, let us get inside its head. Step two, decode the winning formula with Notebook LM. Now, open
+a new tab and go to notebooklm.google.com. You can sign in right away with zero setup. Once you are in, click
+new notebook. You will land inside empty notebook. Think of it like a smart research assistant that helps you
+create content based on what it learned. Now, go back to the channel you chose. Open their most successful
+videos, the ones with the highest view counts, and copy the URL of each one. Grab 10 to 15 of their best
+videos. The more you include, the sharper your results will be. Back in Notebook LM, on the left side, you
+will see a section called add sources. Click add source, choose the website option, and paste in all the video
+links you just copied. Paste them all at once. Then, click insert. Notebook LM will now start loading and
+reading every one of those videos. Give it a moment. It is doing real analysis in the background. While it
+loads, click the title at the top and name this notebook something clear, like channel clone plus your niche,
+so you stay organized as you build more of these. Now, this is where it gets exciting. At the bottom of the
+screen, you will see a chat box. Click it and paste this first prompt. Then, analysis the top performing
+videos of this channel and hit enter and watch what happens. Notebook LM reads every single video you gave it
+and extracts the formula behind the channel. In a few seconds, it comes back with the full playbook. For our
+psychology channel, it shows you exactly who the audience is. People trying to understand themselves and
+others. It shows the winning topics, the calm, reflective tone, how the hooks open with a relatable inner
+struggle and how every script follows the same shape, a problem, an insight, then a reframe that makes the
+viewer see themselves differently. Now, still inside the same chat, type this next prompt. Notebook LM gives
+you 10 name ideas, each with a quick explanation. Pick the one that resonates most or use them as inspiration
+for your own. Once you have your name, keep going in the same chat and type this. And just like that, you have
+10 ready to go video ideas. These are not random. They are built on the formula of a proven monetized channel,
+which means they already have a much higher chance of performing well. You now hold the exact formula behind a
+channel that already makes money. It's time to turn it into scripts. Step three, turn the formula into
+scripts. Now, this is where we go beyond what most people are doing. Instead of using Notebook LM to create
+one basic script at a time, we're going to take the proven formula we've just uncovered, give it to Claude,
+and use it to generate complete natural-sounding scripts that match the channel's exact style. So, open Claude
+and start a new chat. Paste in the channel formula breakdown Notebook LM gave you in step two. Then paste in
+the video ideas you want to use. Now, paste this prompt, hit generate. Claude writes full scripts
+back-to-back, each one already matching the hook style and pacing of the channel you cloned. Scripts that read
+as the proven channel wrote them because they are built on that exact formula. At this point, you have the
+formula, the titles, the ideas, and the scripts. In other words, you've recreated the entire content engine
+behind a monetized channel. The words are done. Now, those words need a look. Step four, turn your scripts
+into a visual blueprint. Now, our scripts follow the structure of a proven channel. The next step is making
+sure your visuals match that same channel style instead of looking random or inconsistent. So, stay inside the
+same Claude chat where the full formula is already loaded and paste this prompt. Then, hit generate. Because
+the formula is still active in that same chat, Claude is not inventing a style from scratch. It uses the exact
+style cues from the channel you cloned and applies them consistently across the whole production package. Same
+mood, same energy, and same visual identity. In the end, you get a character reference, all your image
+prompts, and all your video prompts ready to use. Your blueprint is ready. Every scene mapped to the cloned
+style. Now, let us make it real. Step five, generate the visuals. Now, it's time to bring that visual style to
+life. Open Google Flow and start a new project with your character reference. Copy it from Claude, paste it
+into the prompt box in Flow's image tab, open the settings, select Nano Banana 2 as your model, pick your
+ratio, and hit generate. Flow builds your character in one single image that locks the visual identity of the
+channel you are modeling. Download it and keep it somewhere easy to find. Now, inside Google Flow, look for
+the agent option and select it. This is not the regular image or video tab. It is a separate mode that runs
+the whole batch automatically. Open the settings inside the agent, configure your image and video settings,
+and hit save. Drag and drop your character reference image into the agent. This tells it exactly what your
+characters look like, so every scene it generates stays consistent with the cloned channel style. Now, go back
+to Claude and copy all your image prompts in one block. Back in the agent, type insert all scenes, then paste
+all your image prompts directly below that and hit send. The agent now generates every single scene image
+automatically, all together, while you do nothing else. Just let it run. Once all the images are done, click
+the three dots on each one and rename them by scene number. Scene one, scene two, scene three. Then download
+them all in order. Now, start a new project inside Flow and drag all your numbered images in at once. Then
+drag them into the prompts box. Go back to Claude, copy all your video prompts in one block, and back in the
+agent type insert all scenes again. Paste the video prompts below and hit send. The agent will show you how
+many credits it will use. Click approve and watch it animate every scene automatically. Quick honest note, the
+visuals only look as good as the style you decoded. Because we cloned a psychology channel, your prompts
+produce exactly the right mood. A lone figure in a crowd, a quiet moment of realization, soft cinematic
+lighting, real emotion in every scene. That is what makes this niche so powerful on video. If you picked a
+messy channel with no consistent style, that is what you would get back instead. When it is done, download all
+your clips in order. The visuals are alive. Now they need a voice. Step six, the voiceover. The channel you
+cloned has a certain voice and energy. Your voiceover needs to match it. So, open 11 Labs, go to
+text-to-speech section. Then on the right side, pick a voice that fits the tone you decoded back in step two.
+For a psychology channel, that means calm, warm, and reflective. A voice that sounds like it is sharing
+something meaningful, not selling you something. Match that feeling. Paste your script in the text box, then
+hit generate, listen once, and download the audio when it feels right. Use the same voice across every script,
+so your channel builds one consistent identity, just like the channel you modeled. You have got the visuals
+and the voice. Time to bring them together into one finished video. Step seven, assemble everything in CapCut.
+Open CapCut desktop version and create a new project. Import your voice over and all your video clips. Drag
+the voice over onto the timeline first. This is your backbone and everything else lines up against it. Then,
+drag each scene onto the timeline above the voice over in order. Because you numbered your clips earlier, you
+already know exactly which one goes where, so there is no guessing. Now, match the pacing to the channel you
+cloned. If their videos cut fast, cut fast. If they hold on calm shots, do the same. Trim each clip so it
+lands exactly when the voice does. Then, bring the clip audio all the way down so only your voice over is
+heard. Now, add your finishing touches. Add captions with a clean template. White text with a black outline
+reads well on almost any footage. Drop background music underneath the voice over at a low volume so it
+supports the voice instead of fighting it. Then, add transitions between each clip. Subtle transitions work
+best. Choose something like mix or black fade works great. Run a final preview from start to finish. Check
+your pacing and captions, then export in 1080p or 4K. >> Have you ever noticed the person [music] who handles
+everything alone? You tell yourself it's because you're strong, but psychology tells a different story. >>
+[music] >> You weren't born this way. Your brain built this pattern. This isn't about willpower. >> [music] >>
+It's about wiring. >> And just like that, you have taken a proven monetized channel, >> [music] >> decoded its
+formula, and produced your own video built on that exact blueprint. The script, the style, the voice, and the
+pacing. If you want to turn this into a full [music] content machine and produce these videos in bulk, watch
+my NotebookLM bulk video next. [music] It picks up right where this one ends. And drop clone in the comments
+with [music] the niche you are cloning and I will reply with one thing to look for before you start. Subscribe
+to AI preneur and I will see you in the next one.

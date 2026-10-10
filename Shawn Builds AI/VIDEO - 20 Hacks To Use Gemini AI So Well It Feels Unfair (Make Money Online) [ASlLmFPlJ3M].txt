@@ -1,0 +1,335 @@
+Title: 20 Hacks To Use Gemini AI So Well It Feels Unfair (Make Money Online)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: ASlLmFPlJ3M
+URL: https://www.youtube.com/watch?v=ASlLmFPlJ3M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:31:37+00:00
+
+Kind: captions Language: en It feels like everyone's obsessing over chatbt and Claude right now. And almost
+nobody's paying attention to the one AI that's already inside your email, your calendar, your docs, and even
+the video app that you're watching this on right now, and that is Gemini. Here's why that matters. Gemini
+isn't just another chatbot that's bolted onto a search bar. It's built by Google, a $4 trillion company that's
+building AI into the tools that you already touch every single day. So, while Chad GPT and Claude are guests
+within your workflow, Gemini [music] already lives there. The thing is, most people are still way
+underutilizing it. It's like they have a Ferrari sitting in their garage and they only ever use it [music] to
+drive to the mailbox. As an AI engineer at a multi-billion dollar digital media company, I use these AI tools
+every single day, building real business systems for a living and seeing the patterns that work versus the
+ones that just fall flat. Not only that, but I also built my own agency that made $8,000 per month on the side
+of my last 9-to-F5 IT job using the hacks that I'll show you today. Now, don't worry if you aren't technical
+because Gemini also happens to be the easiest AI to start with as a beginner. So, in this video, we'll go over
+the 20 Gemini AI hacks that feel almost unfair to use. Because while a majority of people are just searching
+for quick tips and tricks about AI from other YouTubers, I want to show you the ones that have the power to
+provide you with both the time and financial freedom to go on more adventures with your friends, take longer
+vacations with your family, and spend the time giving your body the exercise it needs to be in the best shape
+of your life. But before we get started, let's understand exactly what these hacks will be creating for us in
+the first place. I first want to introduce you to what I call the freedom formula. And it has three parts
+involved that we want to maximize to obtain the time and financial freedom that we're looking. Now, I've been
+into powerlifting for years. And within powerlifting, there's three different lifts that you're trying to
+maximize. You have the squat, the bench press, and the deadlift. when you add them all together, that's how
+you get your total score. And you want to maximize each component of it to get the highest total possible. And
+it's the same thing with the freedom formula, except this time the three elements that we're trying to
+maximize is the money that we're able to make, the money that we're able to save, and the time that we're able
+to save. These two combined will equate to the financial freedom we want. And this one over here will allow us
+to have time freedom. So, the first 15 hacks I'm going to show you in the video today are going to fall under
+these three categories. With the last category being how you can continue to learn about these AI systems in
+the most efficient way. And each category that I show you, I'm going to be focusing on a different Gemini AI
+tool. So, let's go ahead and start with the first five hacks, which are going to be focused on making money.
+The Gemini tool we're going to use for making money is going to be Gemini Spark. And hack number one is going
+to be using skills to find your profitable business idea. Now, if you don't know what a skill is, I'm going to
+explain it like a video game that I used to play, Pokémon, where the premise is that you capture these Pokémon
+and you battle against other ones by training them on certain moves that you can use for the attacks. And you
+could teach them moves by providing them with these CDs over here. So, examples like cut, fly, surf, strength,
+flash, all these ones here. And think of these CDs as kind of like skills where instead of cut and fly, it
+might be responding to emails or taking my call notes or making my slide decks. So when you have your AI over
+here like Google Gemini, you provide it with the skill that you want and now it has the ability to do whatever
+is in that skill. Now, I partnered with one of the top AI creators in the space and my good friend Patrick
+Dane to build this exclusive Gemini AI skill that you can only get on my channel that you can download for
+free using the link in the description below. This skill will help outline the business road map to find your
+profitable business idea and it works by finding the intersection of the skills and knowledge that you already
+have with the things that you enjoy doing and that the world actually needs. Then the AI does the heavy
+lifting by researching all the competitors to find exactly what you should charge for AI and then creates a
+custom 60-day roadmap on how you can go about landing and selling your first client. Now, if you have the
+Google AI pro plan, you can go to gemini.google.com and hit the toggle here to switch to Gemini Spark and then
+on the left side here, there'll be a skills section. Now, once you download the skill for free with the link
+in the description, all you have to do is click this upload button and drag in the skill. MD file, and that
+will create this Go Business Playbook Gemini skill. You'll know this work if you go to the tasks section and
+type /gobus playbook Gemini, and this pops up, and then you can just click go. Now, I actually recommend doing
+this on the Gemini desktop app because if you do it in here, then it will create this interactive HTML
+playbook after you answer a few of the questions that it asks and then opening it in the browser outlines the
+business road map for you by giving you an overview of exactly what niche you should go after, narrowing in on
+the exact idea that positions you as a niche of one. Then Gemini does all the validation on the back end for
+you to find competitors which shows you that this is in demand and looks at their offers on the back end to
+find exactly what you should charge for this idea with a road map for the next 60 days that shows you week by
+week how to go about building out and selling this idea. I think my favorite part is in the ideas section here
+where it gives you verbatim things you could say on sales calls because with an engineering background sales
+wasn't exactly my strongest point. So again, you can download and use this skill for yourself using the link
+in the description below. And that brings us to hack number two, which is using schedules within Gemini Spark.
+Schedules are what allow us to turn an AI assistant into AI agents. And you can go on the left here again to
+the schedules section. Now, you can create them here manually by giving your schedule a name, selecting which
+days you want it to run on and exactly what time, and then giving the instructions on what you want the AI
+agent to do. Now, in my previous videos, I talked about the importance of being able to generate leads using
+AI, in which we built a skill here that helps us do it. The link to this video will be in the description
+below as well. But all I'm doing in this schedule is calling that skill weekly on Monday at 7:00 a.m., which
+will then run the skill and find potential prospects for my service and then track them on this prospect
+tracker. So, without having to do work every single week, I wake up to a list of potential prospects who need
+my service. That brings us to hack number three, which is using connected apps. Connected apps in Google
+Gemini Spark use what's called model context protocol or MCP. The way this works is like the old Game Boy
+Advance that I used to have where the Game Boy itself is like Google Gemini. And each app you want to connect
+to is like a different game. So we have Canva over here, we have notion, and we have Gmail. What MCP does is
+it standardizes the connection to the Game Boy. So this connection here is always the same. And then if they
+design the connected app the right way, all of them can then plug into our AI system. To do this in Gemini
+Spark, we can go over to the connected app section here. And we'll see that there's a bunch of ones that
+already exist here, like the Google Workspace ones. So flipping this on, I'm going to show you how you can use
+the Gmail connected app. Back in our prospect discovery chat, what you can do is in the chat, do at@ and then
+you have access to all of your connected apps. So you can do at@gmail and have it create actual draft emails
+to send out to these prospects, which is exactly what I did right here. I said to draft Gmails to the first
+three contacts to work with them based on their business and what I offer. You can see an example of what I
+created right here, which is pretty cool because it's a customized email reach out to the emails that we
+found, talking to their point of contact and using information about their own company and providing a link to
+my calendar to book. So you can draft up emails to everybody and then go ahead and send them. Which brings us
+to hack number four, which is using custom connected apps. So while there are a bunch of pre-made connected
+apps here, there's also a way to add custom ones, which you can see I've added a couple here, but all you have
+to do is do add custom app and find the URL that app uses. So for Notion, that is this URL. Once you add it,
+it will have you log in and then show you all the available actions that are possible with that app. You'll
+know that this works if you go back to your chat now and do at@ notion and it pops up. So, back in our same
+prospect discovery tracker, I just said to create a new file in notion for this offer and the persona that I'm
+going to target. So, I can track them once I created the emails for them. And it went ahead and used our
+notion connected app. And in the end here connected to our notion and created this documentation talking
+exactly what our offer is, who's our ideal customer, and then keeping track of all of the different people
+that we are reaching out to so that we have clear track record of the things that work for the campaigns that
+we're running. And that brings us to the last Gemini Spark Hack to make money, which is creating offer sheets.
+We're going to use Alex Hermoszy's value equation here because I'm not going to pretend that I have a better
+one. And the way that this works is that people pay the amount of the value that they perceive that they're
+getting. So if we are able to outline a maximum dream outcome that they can achieve and increase the
+likelihood that they think that they will achieve that goal along with decreasing the amount of time it will
+take to get it and decreasing the effort and sacrifice. All of that helps to increase the value and overall
+increase the amount that they're willing to pay. I created another skill that again you can download totally
+for free with the link in the description below that will help you build out these offer sheets to maximize
+that value equation. Once it's uploaded all you do is do slash offer sheet builder and then you tag Google
+Docs as the connected app and then you can provide it with details about your business. So I ran it here for
+an automation service and it created this offer sheet completely on its own that talks about each element of
+the value equation. Stacks up different problems that they'll face in ways that will solve that problem with
+the perceived value that they will gain from it. Gives them highv value bonuses and guarantees to increase the
+likelihood that they will actually accept our offer and then stacks them all up at the end with a total
+perceived value and then the actual investment price. So, this is going exactly off of the principles of the
+value equation. Again, you can also download this skill for free with the link in the description below. All
+right, now let's talk about the next five hacks, which are going to be about saving money using the normal
+Google Gemini chat. And hack number six is going to be comparing Google Gemini with the competitor's pricing.
+I have three different competitor pricing sheets. One is for Gemini, one is for Chat GBT, and one is for
+Claude. So, we can see exactly what we're getting for each of these AIs. All of them have a free level plan.
+But if we look at the progression past that, the first plan for Gemini starts at $5 per month, which includes
+not only Google Gemini benefits, but also just Google Drive benefits like cloud storage, while Chad GBT starts
+at $8 per month, and Claude starts at $17 per month with their pro plan. Both of these only providing benefits
+within their AIS. Claude is actually more in line with the chat GPT plus plan and the Gemini Pro plan. And the
+cool thing with the Google Gemini program is that it's not only increasing the amount of access you get. So
+pro plan has 4x access compared to the free version, the plus plan has 2x access, but it just keeps giving you
+more and more benefits outside of AI. So, while you do have all these AI benefits like getting access to
+Google Flow and Gemini Spark here, you're also now getting things like Google Health and YouTube Premium. And
+the same pattern goes for their highest tier plans like the Google Ultra plan for 100 a month, the ChachiBT
+Pro plan for 100 a month, and the Claude Pro plan also at 100 per month. So, from just a pricing perspective,
+if you want the most bang for your buck, then Gemini offers the most benefits. All right, let's move on to
+hack number seven here, which involves image generation. One of my favorite parts about Google Gemini, is that
+you can use their image generation model, Nano Banana, to create images, which in the past I've used for a ton
+of different type of images, like LinkedIn infographics, as an example. Now, a lot of people spend money
+hiring people to build out their content in the form of images. So, infographics is one example and thumbnails
+is another example. Here's a couple of thumbnails from my channel that I was able to leverage Nano Banana to
+create these thumbnails. But if we hone in on the LinkedIn ones, I created all of these using Nano Banana. And
+there are people on LinkedIn like Chris Donnelly whose entire client acquisition strategy relies on LinkedIn
+inbound content with infographics. If we look at his posts here, we can see that a majority of them are
+creating these infographics. So this one has to do with SEO comparisons. This one is a LinkedIn playbook. This
+one is again SEO and AI strategies. So instead of hiring a content manager team, you can start super
+lightweight like I did and do this all yourself and still create very high quality images using Nano Banana.
+All you have to do in the Gemini chat to do this is click this plus sign here and do create images. And then
+all you have to do is describe exactly what image you want to create. So I'm creating here a LinkedIn
+infographic. And with this prompt, it created this infographic here about why AI automation projects fail
+within the first 30 days. Something exactly that I could post on LinkedIn myself instead of hiring someone to
+create the content for me. That's honestly one of my top hacks that I use every single day with Google Gemini.
+But let's move to hack number eight, which is using Gemini gems. Gems are really cool because you can
+basically create these contained contacts that act sort of like its own employee. you can leverage these
+employees rather than hiring real ones for very specific and narrow tasks. So to do this on the left side here
+in Gemini there's a gems section and I created one for LinkedIn here with that prompt which describes exactly
+what it is. So saying that it's a LinkedIn infographic generator for me and describes the style that it should
+be creating these images in with some info about their layout, the rules and all it requires is me providing a
+topic. And then in the default tools section here, I provided it with images. So while this one specifically
+here is like a LinkedIn content generation employee to create images, you can do this for any kind of task
+that you're constantly doing over and over. And this image was actually created using that gem. Here you can
+see the LinkedIn custom gem where I just provided it with a topic. Hack number nine. Now to save money is
+using deep research. The way deep research works within Google Gemini is that you provide it with a prompt and
+it will go ahead and search multiple different websites all at once to compile the ideas and provide you with
+the outcome. Now, this ties back to the Google AI plans because to maximize our usage, we want to understand
+how to use our normal prompts and deep research. So, each plan here has different usage limits, but what they
+aren't as descriptive here with is the different deep research limits. So while all of them have access to
+deep research, there's also different levels of deep research access that you can use. Gemini deep research
+basically operates under its own dedicated generation cap that's separate than your normal usage limit. The
+thing with deep research is that if you were to do this all on your own, just typing into the chat to look at
+all these different websites, that's going to take up a ton of usage. But you can optimize this by using one
+of your deep researches to scan all these sites for you instead of wasting your precious usage. So you can see
+here with different tiers. The free tier has up to five reports per month using the flash models. The pro plan
+typically is up to 20 reports a day and the ultra one is up to 200 per day. To start leveraging deep research
+in Gemini, we can click the plus sign here, go to more tools and select deep research. Now, I provided with a
+prompt here to find the biggest pain point and gaps within small to medium-siz businesses when they're trying
+to use AI agents for business workflows. And it went through it did deep research on all of these different
+websites that are listed down here, a ton of them, including Reddit. And it created this report for me that
+lists out all of the pain points and goes in depth from all those different sources. And doing this just
+straight up in the Gemini chat would have used a ton of usages and might have drained my entire usage for the
+day. But now I have it as a listed table of contents here in a report form that can be shared, exported to
+things like Gemini notebook. And I could even create things like web pages, infographics, quizzes, flashcards,
+etc. All right, that brings us to the last point here. Hack number 10 to save money using Google Gemini, which
+is using the canvas. When you're designing a new application, there's typically a flow that you go through
+that I learned from my user experience days where first you draw out exactly what you think the app should
+look like, which is just the basics called wireframing to make it useful. Then you up the quality a little bit
+to make it a little bit prettier by creating mockup designs that are still not functional, but they show what
+it would look like. And then the last step here is actually coding up to make it work. If you've ever played
+Guitar Hero, it's kind of like that where you're starting on easy mode here just to hear what the song sounds
+like to see if you like it and then you move up to something like medium, hard, expert where there's more
+steps involved for the same song. So to create these mockups with Google Gemini, you just click the plus sign
+here and then you can use more tools and you can select canvas. Now you can use the canvas to create the
+mockups instead of paying somebody to create the low or highfidelity designs. So, I requested to create a
+working prototype of a lead tracking dashboard for small automation agencies and then gave it a little bit of
+details of what I want exactly in this design. And just like that, it created this dashboard here in which I
+have code here, but it's also just a preview section so I could see exactly what it would look like and test
+out how the flow works with real users. So basically building out a highfidelity or even to some extent a code
+mockup of the proof of concept for the design. With the first 10 hacks out of the way, we're going to move on
+to 11 through 15, which is all about saving time with Google Workspace Studio. Hack number 11 here is going to
+be autodrafting email replies. If we look at what we covered so far, all of them have to do with these two
+types of actions. The first one being just using AI like a normal assistant which requires you to type into
+the search bar. The second one works on schedules just like Gemini Spark so that it runs every single week or
+every day or whenever frequently we want it to run. But what about happening on a trigger? So some kind of
+action occurs and we want AI to do something in response. Google Workspace Studio allows us to take action on
+triggers. There is a concept here called speed to lead, which is all about decreasing the amount of time it
+takes to respond to a message from an interested prospect and ideally get them on some kind of sales call. And
+this works because it's proven that if you respond within the first 5 minutes, the amount of contacts you are
+able to make with these interested prospect is 10 times higher than if you were to respond in the first 10
+minutes. So catching them early is actually the best way to actually close and land deals. So to do this with
+Workspace Studio, we need to go to studio.workspace.google.com. And from here, we can go to this plus sign
+here to create a flow. I created this one here called speed tole. And you can see the trigger happens when I
+get an email. It will decide if this is a task that's coming from an interested lead for my business. It will
+then extract important information and decide if it is from an interested business partner, then it will
+create a response using Google Gemini and draft up a reply. So when I receive an email like this that's
+saying, "Hey, I'm interested in your automation services." We can see all the different activities here that
+occur and the logic step by step that happens. So that for this one, it automatically decided that yes, this
+is an interested business user and drafted a reply with a link to my calendar so that all I need to do is look
+at my drafts and click send. Hack number 12 is going to involve getting chat notifications because I don't
+know about you, but I'm not checking my email drafts all the time. I want something that's going to save me
+time by notifying me right away when an interested lead comes in. So while Google does have the Gmail feature,
+it also has a Google chat feature which has notifications enabled on my phone. So as an additional step in the
+flow, I added in a action to notify me in the chat. As a result here, we can see I got a message from speed to
+lead in the Google chat that's saying that there's a prospect that came in and that a reply is ready and
+drafted. So what happens now is that I get a notification on my phone that a draft is ready. So I can just go
+into Gmail and click send. That brings us to hack 13, which is summarizing our calls. I created a new flow
+here that triggers off when a meeting is finished. So when a call happens and it creates the transcript of the
+call with some notes, this will wait for the transcript to finish. It then summarizes that transcript,
+extracts some key information about it like action items, and then goes through and create tasks for me to
+complete. So instead of spending all this time just writing notes by hand, this will take the notes for me and
+then create action items that all I need to do is go through and complete the checklist items. And we can see
+an example here of the tasks that were created automatically saying that from my call I need to organize
+follow-up appointments, track financials, decide on different tools, and a couple other ones here. And the
+cool thing is it knows who's talking to. So, we'll identify who is talking, saying what needs to be done, and
+then you can decide if it's for you, then add it to your task list. The next hack is going to be using Gemini
+Notebook within Workspace Studio. If you're not familiar with Gemini Notebook, it's a really cool tool that
+allows you to really leverage specific data sources. If you've ever played Minecraft, then you can think about
+Google Gemini in the way that you think about using a map. Typically, when you ask AI a question, it will use
+a variety of sources, including ones that you're not familiar with. So, if we use the map example here, we
+might ask AI, oh, where should I create my house? And it will say, oh, this is a pretty flat area here. Let's
+create it here. With this known area being our known sources, if we ask it where to build a farm, it might say
+to put it all the way out here into the unknown sources because it thinks that like our river is going to
+continue here. The problem with this is that we don't know if we trust these outside sources. So, while AI
+might think that it is a river, it might [clears throat] just end up being a lava lake and burning our entire
+farm and house to the ground. Gemini notebook is awesome because it only uses the known sources that we
+provided here instead of just making assumptions based on unknown outside sources. So, I created a notebook
+here about AI token optimization, and I threw in a bunch of sources, including a YouTube video about prompting
+for agents. I added in a website about AI token optimization, and I added in a PDF about the same topic. So,
+you can add in a ton of really cool sources here, including YouTube videos, Google Drive documents, and
+websites. Then, I created a flow here as the backend to a chatbot assistant for my notebook. So if I'm using
+my phone and going through Google chat, I can send a message in this helpbot space and when it's received, it
+will ask my notebook that I created about AI token optimization and give a response. So if I go into this
+helpbot channel here, you can see that I asked what are tips to optimize my token usage. And if we look at the
+activity, it detected here that the message was sent. It asked my Gemini notebook to give a response and it
+then messaged me with the response. So, in the chat here, I got a message from my token help bot here that
+explains exactly the answer to my question based on only the sources that I provided. Let's go to hack 15,
+which is the last one here about saving time with Workspace Studio, and this is using skills. If you're on a
+Google Workspace plan, you'll see that there's also a skills section here within Workspace Studio. You can
+create them with this plus sign on here and clicking skill. Now I created one for that free Google business
+Gemini skill that will give you the profitable business idea. Then I created another flow that responds in the
+chat when I ask it to create me a business idea. So all I need to do is go into my bisbot space and do at biz
+to ask it a question. Then it will run it through Gemini. It will use my go business playbook Gemini skill and
+give me a response. So you can see in the chat here I'm in my Bisbot space and I did at biz and it gave me the
+first two questions I needed to answer. So I went ahead and answered those and it gave me the next couple
+questions. So again I did the same thing. I answered them all and then it gave me all the information from the
+business generation skill and it gave me it as a response here in text form. So, if I want to leverage my
+skills directly from my phone in just a normal chat that I'm using in my day-to-day, all I need to do is tag
+at biz and it will save me time by running my pre-existing skill and giving me a response. That brings us to
+the last batch of hacks here, which is about learning. And we're going to use nothing other than Gemini
+notebook so we can continue learning about these AI systems that will keep building up our skill set to
+achieve our goal of freedom. So, hack number 16 is going to be creating audio podcasts. This has been a total
+hack in my day-to-day life because there's so many times where I'm out and about doing different things and I
+don't have time to just sit down and focus on learning. So, for example, here going on my run in Central Park.
+I do this almost every day around lunchtime. And I listen to things in my headsets and I used to just listen
+to music, but then I realized I can be creating audio podcasts and listening to them. I'm learning while doing
+my day-to-day exercise. So, if we hop back into our token optimization notebook here, there's an audio
+overview section. And there's a few different ways that we can create audio overviews. I like just creating
+the generic deep dives. And you'll see here that I created an audio overview based on the sources I provided.
+So, that's 21 minutes of explaining how to optimize token costs. I'll play a quick snippet here so you can
+understand what it sounds like. >> Or most systems today are poorly optimized. They retrieve massive
+multi-page chunks of raw documents and they just inject the entire unedited text into the prompt. >> Oh wow.
+So instead of just giving the model the answer, it's just giving you the whole book, >> right? Rather than
+extracting only the specific sentences. >> So super easy to listen to this no matter what I'm doing throughout
+the day. Hack number 17 here is going to be about leveraging progressive learning through Gemini notebook.
+There's a similar concept to this in weightlifting called progressive overload where you continue lifting
+heavier and heavier weights, but you do it slowly and slowly over time so that the heavier weights feel
+normal. You can see how I did it with lifting where it took forever for me to lift two plates on bench press.
+But over time, over the course of years, I ended up moving up to heavier and heavier weights, eventually
+moving within 3 years to over three plates instead of two plates. The way that I like to do it is within these
+flash cards and quizzes. As you're going ahead to create flash cards, you can choose the level of difficulty.
+You can do easy, medium, or hard. And the same here with these quizzes, easy, medium, hard. So what I'll do is
+create resources that start as easy. Like we can look at this quiz here. It's asking what is the primary goal
+of AI token optimization. And as we go through and get all these correct, we move up to harder and harder
+quizzes. So in the medium level one, it will ask about more specific numbers here, a bit harder of a question.
+And then again, hard will be the hardest level of questions here. So it's like the same thing as progressive
+overload, but we're doing it for learning. And again, here I'll just show you an example using flashcards.
+This is the easy version of it which is just asking what's the primary unit of cost in LLMs going to be
+tokens. Yep, tokens here versus a harder one here which is asking how it's defined in an enterprise context.
+Let's move to hack 18 which is creating mind maps. It took me a while to find out about this mind map feature
+here. But as someone who does resonate with visual learning, this helped me not only visually but also
+implement learning into my dayto-day. So, I created a mind map here about different AI token concepts. And the
+cool thing is that it's like a hierarchy of learning items. So, there's different concepts that expand into
+more and more concepts and keep going and going until you get to the lowest level here. So, what I like to do
+is learn about one of them every single day. I'll go through I'll start with removing redundancies, then move
+to structured lists and compression. And once I finish those, then I'll go back and understand the overall
+prompt compression. After that, I'll move to the next one here where I'll focus on these three and then learn
+about cashing strategies. So, it really helps to break it up into again a learning progression. And then you
+can go ahead and click on one of these options to learn more about it in the Gemini notebook chat. So, when I
+click on removing redundancy, it will automatically add this to the chat and give me some more context around
+that topic. Hack 19 is going to be learning by teaching. Like the great philosopher Senica said, while we
+teach, we learn. And I found this to be true for myself. I mean, just looking at my YouTube channel, teaching
+these Gemini and AI topics to you guys has helped me understand them so much better than I did beforehand. But
+besides that, I was part of this indie hacking group in New York City where we would get together and build
+out different apps. And a lot of that would be AI based. So, we would get together and not only share what
+we've created, but also share the things that we've learned. And Gemini Notebook is great for this with its
+slide deck feature. So, while you're creating a slide deck here, there's a few different options you can
+choose. And for teaching, you can choose the presenter slides, which are cleaner. They have less detail in
+them, but it makes you really have to understand the content so that you can explain it and talk about it to
+other people. We can see the slide deck that I created here that goes over AI token optimization and how you
+can increase your AI usage without scaling the costs. So, as you're learning about these topics, you can
+create slides here that you can then present to other people to prove that you've learned the concepts for
+yourself. And it's nice these slides just use basic images so that you can really understand the concepts in
+the back end and explain it with a simple visual. And that brings us to the last hack here, number 20, which
+is going to be directly editing the slides. This is just a cool one that I didn't know about in the future and
+helps to make edits to a couple different slides in your decks. So here's a different token optimization deck
+that I created earlier and it goes through very similar concepts here with different visuals. Now this is just
+a very basic example, but I saw this graph that I created and I was like I want it to be a little less hectic,
+less chaos going on and just easier to understand. So instead of generating an entire new deck, what I was
+able to do is click the three buttons here and say revise. Then I can go through slide by slide and leave
+notes on what I want to change. So I can add notes here to simplify the image so that it's easier to read. And
+it creates a new deck here with the slight adjustments just to the slides. So while it's very gradual, you can
+see the before here and the after, I just think it's super useful that you can just make slight edits to the
+existing slides instead of trying to recreate an entire new deck. Oh man, that was a lot. But now you have 20
+hacks that you can use for different tools within Google Gemini that will help you not only use it like a pro,
+but also use it to get real outcomes of freedom by making you money, saving you money, saving you time, and
+helping you learn. And the crazy thing is that you can now build a business that's able to be run with just
+one person by leveraging AI. So, the first thing I recommend is checking out that free skill with the link in
+the description that will help you find your profitable, unique oneperson [music] business idea using Google
+Gemini. And once you do that, I've created a video that you can watch right here on how I'd start a oneperson
+business with Gemini AI in 30

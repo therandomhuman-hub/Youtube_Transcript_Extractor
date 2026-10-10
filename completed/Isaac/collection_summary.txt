@@ -1,10 +1,12 @@
 Channel name: Isaac
 Channel URL: https://www.youtube.com/@isaacverse
-Last updated UTC: 2026-10-09T17:29:40+00:00
+Last updated UTC: 2026-10-10T06:26:51+00:00
 Discovered in current scan: 9
 Manifest total: 9
 Transcripts saved: 9
 No captions: 0
+Resolved items (saved transcript or explicit no-caption outcome): 9
+No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0

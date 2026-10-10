@@ -1,0 +1,347 @@
+Title: How I Created a $65,000/month Faceless YouTube Channel Using AI Tools
+Channel: E'Calm
+Type: VIDEO
+Video ID: H6VzeNE99Iw
+URL: https://www.youtube.com/watch?v=H6VzeNE99Iw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:32:45+00:00
+
+Kind: captions Language: en In 2026, a lot of YouTubers are going to waste one or two years of their lives
+creating videos, get nowhere, and eventually come to the conclusion that YouTube is a waste of time. But,
+here's the truth. YouTube is much bigger than simply becoming a YouTuber. The thing is, if you understand how
+to use the platform properly, it can turn you into a real creator, build you an audience, open doors to
+businesses, and give you influence far beyond YouTube itself. I'm telling you from experience. But, here's the
+thing. There are a few things you need to understand first. Let's start with number one. At the beginning of
+2026, you probably told yourself something like, "This year, I'm finally starting my channel." Or maybe you
+already had one and promised yourself, "I'm hitting 50,000 subscribers this year." Or even 100,000
+subscribers. [music] You told yourself, "I'm getting monetized. I'm going to upload consistently no matter
+what." Then, you start uploading. One video, two videos, or let's say 10 videos. Then, a few weeks go by.
+Nothing happens. Your videos are getting 30 views, 70 views, maybe 200 views if you're lucky. And suddenly,
+you start thinking, "Maybe YouTube just isn't for me." That's funny, because YouTube is for everyone. You see,
+in most cases, the problem isn't YouTube. The problem is that you don't fully understand what YouTube actually
+wants. Listen, YouTube makes a huge portion of its revenue through advertising. And for YouTube to show people
+more ads, those people need to stay on the platform. That means YouTube has one major objective: keep people
+watching. Put this in mind. The longer someone stays on YouTube, the better it is for the platform. And once
+you understand that, the algorithm becomes much easier to understand. Let's say you upload a video. YouTube
+shows your thumbnail to a small group of people who it thinks might be interested. Some of those people click.
+Now, YouTube starts watching what happens. Do they immediately leave? Do they watch 30 seconds? Do they watch
+5 minutes? Do they finish the video? Do they comment? Do they like it? And more importantly, [music] after
+watching your video, do they continue watching something else on YouTube? If your video successfully keeps
+people watching, YouTube has a reason to show it to more people because your content is helping YouTube
+achieve its goal. But if people constantly see your thumbnail and ignore it, or they click and leave after 10
+seconds, YouTube has very little reason to keep recommending that video. And this is where a lot of creators
+go wrong. Instead of figuring out why people aren't clicking or watching, they simply upload another video,
+then another one, then another one. And 6 months later, they've uploaded 100 videos with almost no results.
+So, ask yourself, do you want to learn it now, or just forget about it? I'm going to show the proper way to
+start a YouTube automation business. If you're here to learn, then here's what you need to do. First, you need
+to pick a niche that's already working. And honestly, I think this is where a lot of people get lost. They
+make YouTube automation harder than it needs to be. In fact, they think they need crazy editing, or some
+expensive software, or a perfect production setup before they can even start. And I don't blame them because
+they've been told that the only way to keep people watching is to constantly throw edits, or some fancy
+animations, or crazy effects on the screen. Well, it makes the video look nice, but that's not always true.
+You can take an AI-generated script, turn it into a realistic AI voice-over, [music] add AI-generated visuals,
+and create a complete video. If the topic is interesting and the information you're giving people is genuinely
+valuable, people will watch. And if your content follows YouTube's monetization policies, you can still make
+money from it. Here's a proof. This is a channel I started at about 9 months ago. You can confirm it here. My
+first video was published on 11th of January this year. And what you don't know is that I use AI for almost
+everything. The script, the voice-over, and the visuals, all are done using AI. So far, the channel has
+generated more than 14 million views and made over 62 grand. Meanwhile, most people are still scared to start
+because someone told them, "You can't monetize AI content." But AI itself isn't the problem. What matters is
+the quality and the value you give to your viewers. Here's another channel I started just 3 months ago, and
+you can also confirm that here. The views aren't anything crazy yet, but it has already made me more than 8
+grand, and that's actually pretty good considering I haven't even been consistent with it. You can verify it
+yourself. The last time I uploaded on this channel was 10 September. So, imagine what could happen if I was
+uploading two solid videos every single week. All right, here's what we're going to do. I'm going to hand over
+the exact blueprint I used to build these two channels from scratch. The workflow, the strategies, and
+everything you need to know. And we're starting with niche number one, the psychology niche. First, you need
+to create and optimize your channel. For this, there's a secret, but we'll get to that later. All right, open
+YouTube and click on your profile. Click on switch account. Next, click on view all channels. Now, you can
+click on create account. And then enter your channel name here. Then the handle. Now, before I tell you the
+kind of logo you should use, let me tell one secret. You see, I started this channel about 10 months ago, or
+let's say 11 months. But if you check here, you'll realize the channel was created in 2015. Even on this
+particular channel, I started this channel a year ago. But if you check here, you'll realize the channel was
+created in 2024. You see, when starting a new channel, I recommend you use an old Gmail account if you have
+one, or just rebrand an old channel that has less or no subscribers. I'll tell you what to do if you don't
+have one. But first, let me tell you why. You see, YouTube's biggest fight is against automated bots creating
+channels to spam comments or reupload stolen content. So, if you create an account then start uploading right
+away, there's a higher chance your video won't be recommended to people because the YouTube system thinks
+you're a bot. And let me be sincere with you. YouTube hasn't said this anywhere, but I'm telling you this from
+my own experience. And these are proofs. Now, if you don't have an old account, you can create a new account,
+but you need to warm it up. I'll show you the proper way to do that in the next step. So, let's upload the
+logo. For this, I recommend you use a face. If you follow me for a long time, you'll know what it means. You
+see, the human brain is so obsessed with human faces. That's why you can easily discover faces in objects like
+these. Now, once everything is done, you just have to click on create channel. And your channel will be
+created. Now, we need to optimize the channel. So, click on customize channel. All right, you can go ahead and
+upload a banner if you want. But, here's where we're focusing on, the description. You see, we need to tell
+the algorithm what our channel is about. And what people don't know is that you can create very good content,
+but it'll not make sense if it shows to the wrong audience. That's why you need to tell YouTube what your
+channel is about right from the very beginning. So, click on the prompt link, it's free. Just grab the first
+prompt from here. Then, go to either ChatGPT or Gemini. For me, I'll use Abacus AI agent. All right, let's
+paste it here. Now, you can see we need to add some keywords here. And to find those keywords, we need a
+keyword research tool. So, head to VidIQ, then click on the search icon here. Now, in the search bar, enter
+the niche. You can see lots of keywords here. But, here's what I did. Instead of randomly selecting the
+keywords I want, I chose keywords that have a high search volume and a low competition or a medium
+competition. I also pick high competition keywords, but only if the search volume is over a million searches.
+All right, I'll click here to copy them. Go back to Abacus AI, then paste them here. >> [music] >> I can now
+hit send. Copy it from here. Then, go back to the channel. Paste it here. >> [music] >> Then hit publish. Easy
+as that. Now we need to do a few settings. So click on settings. Click on channel. Then here, choose your
+country. Then paste the same keywords you copied here. Now before you hit save, click on advanced settings.
+Then under this setting, just choose the middle option because we don't want our content to be shown to kids.
+We want to make money from our content. Now scroll down and enable the auto dubbing feature. This way,
+whenever you upload a new video, YouTube is going to translate the audio of your video into other languages.
+So let's say you uploaded an English video, YouTube will translate your voice over into languages like
+Spanish, Dutch, Hindi, and more. This way people who will ignore your video because they don't understand
+English can now watch in their own language, which means extra views for you. Next, click on feature
+eligibility. Then make sure you verify your phone number. You can now hit on save. All right, the channel is
+now ready and we can go ahead to create videos. But if you created a new account, then here's how to warm up
+your account. You see, instead of wasting time watching videos and reacting to them, use it to find video
+ideas. Let me show you. You know, I have two methods of finding video ideas that have a higher chance of going
+viral. And honestly, this is what I've been using throughout my journey. Let's start with the first method.
+And this is where you do the warm up if your account is new. All right, open YouTube and should see a blank
+page like this with no data. Now search for any popular keyword related to your niche. I'll say psychology.
+You'll see lots of viral videos. Just open at least five of them and take note of this. You're going to spend
+at least 1 minute on each video. If you can, just watch the entire video, then like and comment on the ones
+you think you like. Now, to find a viral idea, you need to come to filters. Then click on popularity. Now,
+here's a trick. You're going to find an outlier. If you don't know what it means when we say an outlier, it
+simply means a video that performs significantly better than a creator's usual baseline average. So, let's say
+a channel normally averages 2,000 views per video, and a new upload suddenly hits 100,000 views. That's a 50x
+multiplier, and that's what we called an outlier. So, if we scroll down, you can see this video is a 52x
+multiplier, meaning this video has over 52 times the views the channel was getting. Hope you understand. The
+next thing to look out for is the views per hour. This metric tells you if people are still interested in the
+topic. For this, there's a particular number to look out for. We'll get to that in the next method, but if you
+check here, you can see this video has 105, which is not bad for an 11-month video. Because if you do the
+maths, that's more than 75,000 views a month. And if your average view duration is even 4 minutes, that alone
+is more than 5,000 watch hours, which is enough for monetization. You can see another idea with a 100x outlier
+and 176 views per hour. And this video has over 5 million views in 7 months. That's a killer idea, and if you
+can create a very good content about this, it's more likely to blow up, too. If I copy this topic and search,
+you can see people use the same topic and get results. Even this channel, which has only 133 subscribers, got
+more than 3K views on this topic. And another channel with just 5,000 subscribers hits over 450,000 views, and
+it's the popular video on his channel. So, you can see that this method works so well. Now, here's the secret.
+To be able to achieve a great result, there are a few things to keep in mind. And that's when the second
+method comes in. You see, we need to find an outlier from 20x and above. And for the views per hour, it should
+be above 100 if the video is less than 3 months old. But if the video was published 3 months or above that,
+then you should look out for any number above 50. And lastly, if a video is a year old, 20 views per hour is
+okay. But to make things easier for you, you need to use VidIQ. Without it, the first method won't even work.
+The outliers in the views per hour were showing because we have the VidIQ extension installed. So, open VidIQ.
+The link is in the description. Once here, just hit on research. Then enter any popular keyword. Let's enter
+psychology again. Next, click on videos. Now, since we don't want an outlier below 20, I'll click on filters.
+Then set the outlier score to 20 and above. >> [music] >> Now, another trick I mostly use here is that I find
+new channels that are blowing up. So, I set the subscribers zero to 5,000. For the views per hour, I don't
+like anything less than 20, so I'll set it to 20 and above. All right, let's hit on apply. Now, check this.
+You can see this video was published a month ago and already has 80,000 views. And this is a small channel.
+Now, remember what to look out for if the video was published less than 3 months. We need an outlier above 20x
+and at least 100 views per hour. If you check here, you can see the outlier is 100x, which checked the box,
+and the views per hour is 100, which also checks the box. So, we can confirm that this is a viral potential
+topic. Now, here's another one with only 1.8 subscribers. It has over 100,000 views. And you can see that the
+outlier score and the views per hour matches what we need. So, this is also another good topic. There are lots
+of topics here, like this one for instance. It's a small channel with only 1.6 subscribers, but this video has
+over 200k views in 5 months. Now, since the video is more than 3 months old, we're to find an outlier score of
+20 and views per hour around 50. But, if you check here, you'll realize it's even more than what we're looking
+for. You can click here to find similar ideas if you want. Now, this is what you're going to do. Find at least
+20 topics using any of these methods. I'll give you an uploading schedule just to keep following what we're
+doing. This year, the goal is to monetize at least one faceless channel. So, if you haven't subscribed yet,
+just like the video and hit subscribe. Now, hear this. Finding the best idea isn't everything, because a good
+idea can make people click, but the main aim is to make them click and watch. See, you need to understand that
+YouTube constantly evolves. What worked 10 years ago isn't necessarily going to work in 2026 or 2027 or 2030.
+If you go back to around 2014, there were far fewer creators competing for views. And for some niches, you
+didn't even have to do much, because there was less competition. So, you can just upload consistently and your
+videos will go viral. But, now the platform has evolved, because even in the late 2010s, creators were also
+making longer and more in-depth content, like 20 minutes, 30 minutes, sometimes even an hour. Because YouTube
+changed its recommendation engine to prioritize total watch time. So, those longer videos could generate lots
+of watch time when people actually stayed and watched. Then another major shift happened. Short-form content
+exploded everywhere. Instagram and TikTok changed how people consume content, and YouTube also introduced
+shorts. Suddenly, people could consume lots of videos within minutes. I know you've probably experienced this
+yourself. You open YouTube shorts thinking you'll watch for 5 minutes, then you look at the time and somehow
+it passes hours. That is how powerful recommendation algorithms have become. So, all I want to tell you is
+that YouTube has changed. And the simple thing you can do to go viral is to replace the algorithm with your
+audience. So, instead of thinking too much about how to get a higher retention and other stuff, focus on what
+your audience wants to watch. Because if we can get them to click and stay on YouTube for longer, you're
+fulfilling the algorithm's desire, and it'll reward you for that. Simple. So, the question is how do we keep
+them watching? You see, I'm going to be honest with you. You won't get anyone to watch [music] the entire
+video. That's not possible, bro. Especially for what we're doing right now. Like this 15-minute video, for
+instance. It has over 2 million views. But let's check how long viewers spent on this video. You can see that
+only 24.8% watched the entire video. Only 24.8%, [music] bro. But the video has over 2 million views. This is
+another example. You see, [music] for educational content, this is normal. Viewers will leave. But for those
+who will stay, you need to keep them throughout the video. Simple. And that's why you need a killer script,
+because that's what viewers are going to follow. And if I leave [music] everything for you to figure it out,
+most of you would be struggling. That's why I prepared this prompt for the script. It's something I personally
+use, and I'm giving it to you for free. The link will be in the description. Just copy it from here. Then head
+to Abacus AI. It's by far the best [music] AI agent I've used so far. The link in the video description and
+the pinned comment if you want to try. >> [music] >> All right, let's paste it here. Now, scroll all the way
+to the top. Then you can see that we need to enter our idea here. So, I'll go back to vidIQ. Copy one of the
+ideas we got here. Go back to Abacus AI, then replace it with those texts. Next, you need to enter the length
+of the video. For this, I recommend anything above 12 minutes. But I'll be posting this video on my channel,
+so I'll say 15 minutes. One thing to know is that this prompt has been structured based on my personal
+preference. So, I recommend you go through and customize it to suit your need. Let's click on this tab and
+select agent. Now, all you need to do is to click on send and just like that, you'll get five titles like this
+and if you scroll down a little, you're going to see the full script. >> [music] >> But, we can't generate the
+voiceover with this because it's included with subtitles. So, let's ask it to give us only the script for our
+voiceover. All right, the script is ready. You can click here to download to your device or copy it to Google
+Doc and change a few things. Next is voiceover and we can just ask it to generate a voiceover for us [music]
+and it'll do just that. But, the issue is when building a brand, you need to keep the voice consistent.
+Therefore, we can't use that trick. So, the best way is to open Abacus AI on another tab, then click on this
+icon to open the sidebar. Now, click on image/video. Click here and choose speech. Next, click here and select
+text-to-speech. Now, you can go ahead and choose the model you like, then pick a voice. For the voice
+instructions, I'll say natural and conversational. Finally, I can paste the script here, then hit send. You
+just have to click on these three dots, then click on download to save it to your device. If you want to save
+credit, you can use Google AI Studio. Click on get started, then click here. Now, scroll down until you see
+Gemini 3.8 flashlight TTS. Click on and create new dialogue, then paste your script into the text box. >>
+[music] >> I recommend you generate the voices in batches. Don't generate all at once. Now, to pick a voice,
+simply click here and you'll have lots of voices to choose from. Once you're okay with everything, just hit on
+run and your voiceover will be right here. Simply hit the download icon and you'll get it on your device. Now,
+for the visuals, it's simple. First, head back to the prompts, then grab the third prompt here. Now, head back
+to where you generated the script, then give it the prompt. Abacus AI will analyze the number of lines in your
+script, then tell you the number of images you need. Once it's done with those analyses, it'll start
+generating the images. But, here's something you should know. You need to change the character because if you
+use the prompt without editing it, everyone will end up getting the same characters. So, inside the prompt,
+scroll down to character reference, then simply change that. And one [music] thing, Abacus AI won't generate
+all the images at a go. Like this example, where it's we're creating a 15-minute video. [music] And you can
+see that we need 242 images to make this video. But, it generated only nine. This is because Abacus AI wants
+to make sure you check the result to see if everything is okay. So, if you check the generated images and
+everything is fine, you just have to ask it to continue and it'll give you the next batch. Simple. I know this
+will take a bit longer, but you need to because YouTube isn't for lazy people. You may think it'll take hours
+to do it. Well, I've to be honest, making money on YouTube isn't easy. You need to put in the work to see the
+result. So, if you're lazy, then don't worry yourself. But, the best part of it is that [music] when the money
+starts coming in, you can hire someone to do it. So, you'll have to spend your time from the start, just
+accept that because that's the reality. All right? So, once you're done generating the images, you just have
+to click on files. Then you'll see a folder like this. Yours may be named differently, [music] but it should
+be like this. Just click on the download icon and all the images will be saved to your device. All you need is
+to locate the zip file, unzip it, and your visuals will be ready for editing. I wanted to tell you something
+earlier on, but first let's open CapCut and import the visuals and the voiceover. [music] Let's add the
+voiceover to the timeline like this. Let me zoom in a little for you to see everything we're doing. Now, since
+it's an AI-generated voiceover, we need to edit it to make it flow naturally. You can see the long pauses in
+it, and if you listen to your own, you'll realize there should be pauses at some places. See, your voiceover
+controls how the information feels, and it needs to flow. So, click here, and select the blade tool. Now,
+instead of cutting every silent [music] part, do this instead. Listen to the voiceover, and if you find a long
+pause, just chop it off to where you think it will be great. [music] And if you find a place where you think
+there should be a pause, just add that. It's simple. >> She's right there. Across the table or standing in
+line [music] at a coffee shop. >> Here, you can see the pause here is very long, so I'll cut off a bit of it
+and close the gap. >> She's right there. Across the table or standing in line [music] at a coffee shop. >>
+Now, I'm going to repeat that to make sure the voice flows naturally. >> She's right there. Across the table
+or standing [music] in line at a coffee shop or at a mutual friend's party, and you have something to say. You
+know you do. You can feel it forming, but the second you actually [music] look at her, >> Now, the voiceover
+sounds better, so I can just start arranging all the images on top of it. It should be easy because the
+numbers are there. This is the reference image. That's why it's named differently. So, we won't add that.
+[music] Now, we're going to cut it according to the voiceover. But, if you remember, one sentence is equal to
+one image. So, to make things simple, we can go back to the scripts, check where the second sentence starts.
+You can see this is the first sentence, and the second starts from across the table. So, I'll go back to
+CapCut, find the exact beginning of that sentence. >> She's right there, across the table, or >> Then, move
+the play head to that point. >> [music] >> Now, I can crop the first image by clicking this button. Right.
+I'll go back to the script again, and find where the third sentence starts. You can see it starts here. So,
+I'll listen to the voiceover, then find that exact phrase. >> But, the second you actually look at her, >>
+This time, the image of the second sentence is shorter. [music] So, I'll extend it by dragging it like this.
+That's it. So, after you've arranged all the images, you can add some text overlays and elements like arrows.
+This is not compulsory, but if you can do it, it'll help improve viewers retention. Like the first sentence
+says, she's right there. So, I can go to stickers, find an arrow, and point it at the girl, because that is
+who he's talking [music] about. Now, I can add the pop sound effect, lower the volume a bit, then match the
+length with the sentence. For the next sentence, I can use text to highlight what I'm saying. Once done with
+that, I'll use the click sound effect and match it with the text. It's simple to do. >> She's right there,
+across the table, or standing in line at a coffee shop, or at a mutual friend's party, and you have something
+to say. You know you do. You can feel it forming. But, the second you actually look at her, something happens.
+In your chest, in your throat, the words dissolve. Your mouth goes dry, you smile too fast, or you look away,
+or you say something completely pointless, and the moment closes. She moves on and you stand there replaying
+it thinking, "What is wrong with me?" You're not stupid. You're not even that nervous in other parts of your
+life, but something switches off and it keeps switching off in the exact same moments with the exact same
+people. You're about to understand why. All right, let's hit export. Now, there's one secret here. When
+exporting your project, don't just leave the file name default. Instead, name it with your video title or any
+keyword in your niche that has a good search volume. I'll tell you why later. But before that, let me show you
+how to generate a clickable thumbnail. One thing most beginners get wrong is that they think their videos are
+packed with lots of good information, so people will watch. But in reality, that's totally wrong. What you
+need to know is that before someone gets to know the information you're going to share, they need to click
+first. And that's why the thumbnail is more important. I call it packaging. You need to package your video to
+make it look attractive to the audience. Think about when you're on YouTube yourself. You open the home page
+and there are lots of videos in front of you. You don't click all of them. Most of the time, you click the one
+that immediately makes you curious. [music] Maybe the thumbnail shows something surprising or maybe the title
+makes you feel like there's something you need to know. You haven't watched the video yet, so you don't even
+know if it's good. You're clicking because of how it was presented to you. And that's exactly what your
+thumbnail and title are supposed to do. They need to give people a reason to stop scrolling and say, "Wait, >>
+[music] >> I need to see this." And you don't have to start this from scratch because that's what beginners
+don't know. You don't know what's working when you're starting as a complete beginner. So, you need to tap
+into what's already working. Simple. Let's open vidIQ again and I'll show you something. Hit on research, then
+search for any popular related keyword in your niche. I'll say psychology. Now, here's the trick. We're going
+to find a thumbnail style that works, just like I told you earlier, because you just need to give what the
+audience wants and that's all. So, click on thumbnails. Now, you can see lots of thumbnails here, >> [music]
+>> but we want a 100x outlier and at least 20 views per hour thumbnails, something like this. It has good
+views, a good outlier score, and it's still getting over 140 views per hour. So, we can recreate this
+thumbnail, but here's where most people fail. You see, instead of using only the idea, they rather choose to
+create the same thing. They copy the same text and the same avatar, which is wrong because when people see
+your thumbnail, they'd be like, "Oh, I've watched this already." So, you just need what's happening on the
+thumbnail and recreate it. For this thumbnail, the idea is simple. It's using the title as the thumbnail.
+That's the whole idea. So, we can also use our title on the thumbnail and add our avatar. To confirm this
+works, you can just click on find similar thumbnails. You can see it's working, like [music] few subscriber,
+1.7k views, 274k subscribers, 3.4 million views, 55k subscribers, [music] 5.7 million views, and just 65 subs,
+1.5k views. So, select the one you like, >> [music] >> click on the remix thumbnail, then here you can see we
+need to replace our title with this existing one. Next, hit send, and just like that your thumbnail is ready.
+You can click here to add image and text here if you want, and you can also edit it with a prompt. If you're
+cool with everything, simply click on download. Simple. Now, before we upload the video, let's move on to the
+second niche. It's a simple history niche. And like I said earlier, I started this channel 3 months ago, and
+it's making me more than two grand every month. I'm using the same system as the first niche I showed you, but
+there are a few tricks you need to know. So, now that you know how to properly set up your channel and warm it
+up, let me quickly show you how I find my ideas. We're going to start by going to VidIQ. You see, the reason I
+love this method is that when you're entering a new channel, you have no idea about your audience. You don't
+know the kind of content they enjoy. So, if you're going to rely on AI for ideas, then you're not ready for
+YouTube. You may get a couple of bangers, but your growth may take years. But, if you know what's working for
+your audience, it's like your mom giving you your favorite food. All right, click on research. Then in the
+search bar, enter history. Now, you know what to do here. You're going to find top performing videos from
+smaller channels, but you need to make sure the video is still getting views, and it has a good outlier score.
+To do that, switch to videos. Then you can click on filters. Set the subscribers to less 5K. Then the views
+should be about 50K. Let's set the outlier score to 50 and above. And the views per hour should be 20 and
+above. You can go with 50 and above if you like. All right, let's hit apply. You can see the first video here
+is the type of video we need. It has a good outlier score, good views, and the views per hour is also good.
+And this idea is coming from a smaller channel, too. >> [music] >> So, we can create a video about this. Now,
+let's move on to posting. You see, you'd be surprised how most people do this wrongly. First, you need to
+understand that once your video is published, the algorithm will scan your content and the description to know
+what your video is about. And for your video to go viral, you need the right audience to click on your video
+because they're the only people that could stay and watch it through. Think about it. If you open the YouTube
+app to learn how to grow your channel, that's the only content you'd be aiming for. Nothing else matters.
+Although some thumbnails are tempting, so you may end up clicking a couple of them. But, since you didn't open
+the YouTube app to watch those videos, you'll watch a few portion of it, then skip it. The same thing will
+happen to you if your video is pushed to the wrong audience. That's why you don't need to joke with your
+description because it explains to the algorithm what your video is about and who to share it with. To make
+things easier, I'm giving you the prompt I use to write my descriptions for free. This prompt can literally
+write a description for any video [music] in any niche. Before it to work, you need two things. Let's grab it
+from here so I can show you. All right, I'm going to open Abacus AI [music] in another tab, then paste it into
+the chat. Now, if we scroll to the top, you'll realize we need to paste [music] our keywords and the script.
+The keywords will tell the algorithm to target anything related to our video. So, instead of pushing our video
+to someone who came to YouTube to watch how to make pizza, it'll rather show it to the audience who came to
+watch psychology videos. And the script will also give the AI a fair idea about our video, so it can use those
+keywords for something meaningful. Because we can't just paste the keywords in the description. All right,
+let's find good [music] keywords using VidiQ. I'm going to click on research and then enter my video topic in
+the search box. Let's say my topic is psychology of people who go quiet when they're hurt. Now, you can see
+there are lots of related keywords here. You're not going to select all, but what you're going to do is to
+pick the ones with high search volume and low or medium competition. Like this one here. You can see the
+search volume is more than 300,000 and it has a medium competition. That's okay. So, I'll select that. This
+one also has good numbers. And this one also. You can see another one here. Although it has a higher
+competition, the search volume is very high. So, that shouldn't be an issue. I'm going to select this one,
+too, to make it five, then click here to copy. Now, I can paste it here, >> [music] >> then copy my script and
+replace it with this text. I can now hit on send. And just like that, the description is ready. We just have
+to grab it from here, then open YouTube Studio. Click on create, then upload video. Now, click here, then
+upload your video. If you check here, you can see that the file also has a high search volume keyword. These
+little things might now make sense, but if you're a beginner, YouTube needs [music] to understand your channel
+to push your video to the right audience. So, don't underestimate these small details. All right, we can enter
+our title here then go ahead and paste the description. Next, upload your thumbnail. This is just a tutorial,
+so I'll upload any thumbnail here so we can move fast. For playlist, it's good to create it because it helps
+[music] accumulate watch time. So, I recommend you create that when you're uploading your next video so you
+can add them to it. Now, this is the most important thing that destroys beginners, but we fixed that when
+creating the channel. So, let's move on. For the AI use section, you can choose yes. It won't affect your
+views or your channel. For the tags, it doesn't really matter, but you can just paste the keyword you used to
+generate the description. Now, choose education as your content category then click next. Next again, then
+next. Now, pay attention here. Most people will choose public, but don't do that. Let's select unlisted and
+click on save. I want to show you why. Let's close this. Now, let's click on content, hover the mouse to the
+video we just uploaded, then click on the edit icon. Now, if we click on languages, you can see that we need
+to do a few settings here. This setting will translate our video into other popular languages like Spanish,
+Dutch, German, Hindi, French, and the rest. Now, you may be asking right calm, what's the reason for this? You
+see, there are lots of people who might love to watch your video, but the language of the video could be a
+challenge for them so they won't even bother clicking. But if the video is translated into their language,
+they'll see the title in their language, meaning they'll understand what the video is about and click to
+watch. This way, you get views almost everywhere. So, your views could be tripled if you do things right. It's
+simple. All right? Click here to choose your language. Then click confirm. Now, watch what happens. You can
+see that YouTube is translating our video to all these languages. All we have to do is to wait for it to be
+processed. After all is done, you're going to see published next to all of the languages along with subtitles
+like these. This is telling us we can now publish the video to the public. Simple. Let's click on details.
+Then click here to change it from unlisted to public. Click on done. Then hit save. And your video is now
+live. If you learned something today, make sure to give a like and share the video to your family so that they
+can start, too. And don't forget to subscribe. Now, one thing. If you're someone who's serious about learning
+how to make money with YouTube shorts without showing your face, then this video is for you. See you in the
+next one.

@@ -1,0 +1,34 @@
+Title: Subtitle Studio - Edit and Sync SRT Files Like a Pro
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: RBGO4UTv2nQ
+URL: https://www.youtube.com/watch?v=RBGO4UTv2nQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:59:43+00:00
+
+Kind: captions Language: en In this video, I will share with you a very useful app, the Subtitle Studio app, a
+browser-based SRT subtitle editor. Let's see what this app actually do. Click here to select the audio file of
+the SRT. Click here to select the SRT file. Then click load timeline. You will see your subtitle cues and the
+audio file are in the timeline. You can select the SRT part you want and change its text from here, or you can
+adjust its start and end time by dragging its edges. Also, you can split a single cue by clicking the split
+button here. Then edit its text here to make it perfectly synchronized with the audio. You can undo changes
+from the undo button. Also, you can delete the selected cue if you want. After making all the changes you
+want, you can simply click the export button here and save the new edited SRT file. Now, let me show you how
+you can run this app on your PC locally. Hello, everyone. This is Baha AI. Thanks for being here. After
+watching this video, if you found it useful, give it a like and positive comment. That really helps me. Now,
+let's go back to our video. The app code is hosted on GitHub. So, all what you need is to clone this repo on
+your PC. You will find the repo link in video description and in the pinned comment. Go to where you want to
+download the app files. Click here on the destination bar. Remove everything. Type CMD and press enter. The
+Windows command prompt window will open and we are in the current folder. Type this command, get clone, then
+paste the repo link. >> Then press enter. The cloning process will start and within seconds the app files are
+on your PC. Open the app folder. Before running the app, you should have Python installed on your PC. If you
+are not sure, open command prompt on your PC and write this command. Python -v Then press enter. If it showed
+the Python version, so you have Python installed. If not, you have to install Python on your PC. You can
+search YouTube for that and will find the way. Now, let's close all these command prompt windows. Then open
+this file, subtitle studio.bat. This command prompt window will open. When running the app for the first time,
+it will need to download ffmpeg files required for the app to run. This process happens only when running the
+app for the first time. Wait for it to finish. After it is finished, the app will open automatically in your
+web browser. Keep this command prompt window open. It will show you the errors if happened. Now, this is the
+app fully running. You can use it just like I showed you at the beginning of the video. Thanks for watching
+and see you in the next video.

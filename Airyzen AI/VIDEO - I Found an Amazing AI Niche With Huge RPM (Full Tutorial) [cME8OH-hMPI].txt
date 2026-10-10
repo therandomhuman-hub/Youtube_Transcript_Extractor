@@ -1,0 +1,33 @@
+Title: I Found an Amazing AI Niche With Huge RPM (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: cME8OH-hMPI
+URL: https://www.youtube.com/watch?v=cME8OH-hMPI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:37:35+00:00
+
+Kind: captions Language: en I made this amazing whiteboard animation video completely from scratch using just
+one free AI master prompt. And yes, I'm giving this master prompt to you absolutely free in the description
+below. No passwords, no catches. But rules are simple. Make sure to watch this video until the end so you
+don't make any mistakes during the generation process. Let's dive straight into it. First, open the
+description, copy the master prompt, and head over to Claude AI. Paste it and hit enter. Claude will instantly
+give you 10 different video categories. You can choose any number you like. For this video, I'll type eight
+and press enter. Now, Claude gives us 10 fresh video ideas based on that category. Let's go with idea number
+five. Next, select your voice over language. I'm choosing English. And set the video duration to 20 seconds.
+Claude just generated a professional voice over script and two separate scene prompts for us. Now, let's move
+on to the actual generation process. Copy the image prompt for scene one and head over to Flow AI. Paste the
+prompt here and copy these exact settings. Model Nano Banana 2.1, aspect ratio 9:16, and X1. Then hit enter.
+In just a few seconds, your base image is ready. Next, go back to Claude and copy the video prompt for scene
+one. In Flow AI, click the three dots on the image you just generated and click add to prompt. Paste your
+video prompt and apply these settings. Ratio 9:16, model Omni 1.1, flash 720p resolution, duration 10 seconds,
+and X1. Hit enter. And your very first scene will generate. To make the video feel seamless and continuous,
+here is a pro tip. Click on your newly generated video, skip to the very last frame, and click save frame.
+Now, copy the scene two video prompt from Claude. Go to the last frame we just saved, click the three dots,
+select add to prompt, paste the prompt, keep the exact same settings, and hit enter. Your continuous sequence
+video is ready. The final step is the voiceover. Copy your voiceover script from Claude. I'm going to use 11
+Labs to generate the audio, but you can use any free tool you prefer. Paste the script and click generate.
+Now, simply merge the audio and video clips in your editor, add a bit of formatting, and here is the final
+result. >> Why does the first hour after posting matter so much? Platforms test your post on a small group
+first. >> If you love this workflow, make sure to subscribe for more step-by-step AI tutorials. Grab your free
+master prompt in the description below, give it a try, and I'll see you in the next video.

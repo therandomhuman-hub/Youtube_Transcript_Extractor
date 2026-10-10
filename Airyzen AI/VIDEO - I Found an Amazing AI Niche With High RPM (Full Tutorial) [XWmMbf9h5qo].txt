@@ -1,0 +1,32 @@
+Title: I Found an Amazing AI Niche With High RPM (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: XWmMbf9h5qo
+URL: https://www.youtube.com/watch?v=XWmMbf9h5qo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:40:31+00:00
+
+Kind: captions Language: en This one has crossed 19 million views. This one has 16 million and this one has 11
+million and almost every video on this channel is getting millions of views all by creating these amazing
+guess the logo videos and the best part is you don't need a complicated setup to create videos like these. In
+this tutorial, I'll show you how to make AI guess the logo videos using just one master prompt and a
+completely free method. So, let's get started. First, head over to Claude AI. Paste the master prompt here and
+hit enter. I've added the link in the description so you can easily get the prompt from there. Claude will
+give you 10 different categories to choose from. For this video, I'm going with category number three. Type
+three and hit enter. Claude will ask, "How many logos do you want in this quiz set?" I want two logos for this
+video. So, I'll enter two and hit enter and there we go. Claude has generated logo one and logo two. Each logo
+comes with an image prompt and a video prompt which we'll use to create the complete videos. Let's start with
+logo one. Copy the image prompt and head over to Google Flow AI. Paste the prompt here. For the image
+settings, choose Nano Banana 2 as the model and select X1. Hit enter and let Flow generate the image. While
+the image is generating, go back to Claude AI and copy the video prompt for logo one. Once the image is ready,
+return to Flow AI. Click the plus icon, select the image we just generated and choose add to prompt. Paste the
+video prompt here. For the video settings, choose 9 to 16 if you're making a short or 16 to 9 for a long-form
+video. I'm going with 9 to 16 for this tutorial. Select Omni 1.1 Flash, set the resolution to 720p, choose a
+10-second duration and select X1. Hit enter and your first video will be ready in just a few seconds. For logo
+two, go back to Claude AI and copy the image prompt. Bring it over to Flow AI, paste it in, and keep the same
+image settings. Hit enter to generate the image. While that's generating, grab the video prompt for logo two
+from Claude. Once the image is ready, click the three dots on it and select add to prompt. Paste the video
+prompt here and keep the same video generation settings. Hit enter and your second video will be ready as
+well. Once both videos are generated, here's the final result after a little editing. >> Which food brand does
+this logo belong to? McDonald's. >> Can you identify this food brand? >> Starbucks.

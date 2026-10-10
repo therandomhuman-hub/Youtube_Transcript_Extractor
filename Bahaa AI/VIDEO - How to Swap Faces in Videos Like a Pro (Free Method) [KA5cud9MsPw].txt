@@ -1,0 +1,43 @@
+Title: How to Swap Faces in Videos Like a Pro (Free Method)
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: KA5cud9MsPw
+URL: https://www.youtube.com/watch?v=KA5cud9MsPw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T07:00:45+00:00
+
+Kind: captions Language: en In this video, I will show you how to replace faces in images and videos for free
+using Google Colab. Open your Google Chrome browser and make sure you are logged in using Gmail. As I told
+you, in this tutorial, we will be using Google Colab notebook. To get the notebook, open the link in the
+description or in the pinned comment. The notebook link is not publicly available. Enter your email here.
+Check this. Then click here. Go to the email you entered. You find an email from me. Open it and you will find
+the Colab notebook link. Open the Colab notebook link in your Chrome browser. Then run the first cell. Click
+run anyway. Wait for the connection to be established. After that, cell one will begin working. It is
+downloading the files of the app we will be using. Its name is Neo Refacer. After step one is complete, you
+will see a check mark next to the step. Now we are ready for step two. Run step two. Now we are installing the
+app on Google Colab. This process takes approximately 3 to 4 minutes. Wait for it to finish. When it is
+finished, this message will appear. The installation required to restart the Google Colab session. Click
+restart session and wait for the connection to come back. Now the installation is complete. Let's move to step
+three. Run it. In this step, we are actually running the Neo Refacer app. After a few seconds, you will see
+the Gradio UI link. Open it. Wait for it to fully load. Now, we have the app running. As you can see, you have
+two main options for face swapping, image mode and video mode. We will test them both to see how things work.
+First, let's test the image mode. First, we need to upload our target image. After uploading complete, you
+will see the preview here. Also down here, you find that the app analyzed the image and extracted the faces
+from it. Now, we can target a certain face to replace it, or we can also replace multiple faces at once. Let's
+try it to see. I will select this face as a target. Then, I will upload the new face here. Then, click reface
+image. The code will work on the image, and the result will appear here. Very nice and high quality. Now,
+let's try changing two faces at once. We already set this one. Let's target this face, too, and upload a new
+face. Then, click reface image. And this is the result. The target faces were replaced at once. Very
+impressive. Click here to download the image. As you can see, you can target up to eight faces in one image.
+Now, let's move to the video mode. Click here to upload the target video. I will upload this one. As you can
+see when the upload is complete, the code extracted the faces from the video and they appear here. I will
+select this one as a target face and will upload the new face here. Then click reface video. The app will
+start working on the video. It will take some time depending on the length of the uploaded video. It is
+preferred to use videos under 30 seconds. If you go to Google Colab page, you will see it is working on the
+video frames. When it finishes, the new video will appear here. And this is the result. Unfortunately, as you
+can see, the quality in the video is not the best, but we may fix this issue in the future. So, make sure to
+like and subscribe to my channel to get the updates as soon as they are alive. Let's try targeting two faces
+at once like we did in the image mode. Let's target this face, too, and upload a new face here. Then click
+reface video. And here is the result. The two faces were replaced. Click here to download the video. I hope
+you find this tool useful for you. Thanks for watching and see you in the next video.

@@ -1,0 +1,87 @@
+Title: This FREE Claude Prompt Builds  VOX Style  Animation Automatically
+Channel: AIpreneur
+Type: VIDEO
+Video ID: Hh0zvOU1eeE
+URL: https://www.youtube.com/watch?v=Hh0zvOU1eeE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:16:53+00:00
+
+Kind: captions Language: en There is a new animation style pulling in millions of views right now, and it
+looks like it takes a full studio to produce, but it does not. Because one master prompt turns any topic into
+[music] a complete paper cut animation, the script, the voice, every single frame, and the music using free AI
+tools. And the best part, once the system is set up, you can produce these in bulk, almost completely on
+autopilot. Welcome to AI preneur, and let us build it step by step. Step one, build your animation engine.
+Everything in this workflow runs on one thing, a Claude master prompt. This is not a normal prompt you type
+once. It is a full system that walks you through every stage of production one step at a time, so you never
+have to figure out what comes next. First, open Claude, start a new chat, and paste this master prompt in.
+Send that, and your engine is live. Now, let us give it a story. Step two, generate your script. Claude now
+asks what niche and topic you want. Pick anything, history, space, nature, sports, business, or technology.
+These animations work across every niche because the style carries the story. For this build, I am going with
+business, the rise of the shipping container industry. It has natural drama, clear stages, and it gives us
+strong visual beats. All of that looks incredible in layered paper. Send your topic, and it asks for a length.
+You can go anywhere from 30 seconds up to 5 minutes. These animations hold attention well, so longer
+storytelling formats genuinely work here. I am going with 1 minute to keep this build tight. What comes back
+is your full narration, written sentence by sentence, and numbered. And that numbering is the whole point.
+Every single sentence is one visual beat, one sentence, one image, one animated clip. My 1-minute script gave
+me 24 beats. Copy the script into a doc and keep it open. You are going to work from it in the next two steps.
+Mistake to avoid, do not rewrite the script into flowing paragraphs. The one sentence per beat structure is
+what makes the rest of this workflow automatic. Break that and you break the system. The story is written. Now
+it needs a voice. Step three, turn the script into a voice. Open 11 Labs and go to text to speech. First
+thing, switch to the V3 model. That is what gives you the most natural emotional output. And on a storytelling
+format like this, the voice carries everything. Pick a voice that fits your topic. For business documentary,
+calm and measured works. Now here is the part most tutorials skip. Do not paste your entire script in at once.
+Copy the first few sentences only, generate that chunk, listen to it and download it. Then move to the next
+chunk. If you paste too much text in one go, the voice starts to drift and distort. Working in chunks keeps
+every line clean. Keep going until your whole script is voiced. Quick honest note, 11 Labs free gives you
+10,000 characters a month, which is roughly one full video. If you are producing these in bulk, that is the
+real trade-off and it is worth knowing before you build a schedule around this. You have a script and a voice.
+Now let us build the visuals. Step four, generate every image prompt. Go back to your chat and type, "Next."
+That one word triggers stage four. Claude now takes every sentence in your script and converts it into a
+complete paper cut image prompt. One per beat, numbered in order. 20 sentences, 20 prompts, a five-minute
+script would give you well over 100. That is exactly why this is prompted as a bulk list instead of one at a
+time. Read through a couple of them. Each prompt describes one hero object, its background, the lighting, the
+color palette, and the layered paper construction. That consistency across every prompt is what makes the
+finished video look like one cohesive piece instead of 15 unrelated images. Copy the whole list. You are about
+to paste all of it at once. You have every frame written. Now let us generate them all in one go. Step five,
+bulk generate the images. Open Google Flow and create a new project. In the prompt box, open the settings and
+select Nano Banana 2 as your image model. Then pick your aspect ratio, 16 by 9 for long form, 9 by 16 if you
+are making shorts. Now, instead of pasting prompts one at a time, look for the agent option and select it.
+This is a separate mode built for exactly this, running a whole batch automatically. In the agent type, insert
+all scenes. Then paste your entire list of image prompts directly below that and hit send. The agent now
+generates every single frame one after another without you touching anything. 18 images or 100 18, it runs the
+same way. Leave it going and do something else. When it finishes, click the three dots on each image and
+rename them by beat number, scene one, scene two, scene three, all the way through. Then download them in
+order. Mistake to avoid, do not skip the numbering. Your beats are in story order and your edit depends on
+that order. Rename them now and the edit takes minutes. Skip it and you will be guessing later. Every frame
+exists. Now let us bring them to life. Step six, animate every scene. Go back to your chat and type next.
+Stage five gives you the universal video prompt, one single animation prompt you apply to every image. Read
+what it actually does, because this is the part that makes the whole style work. It locks the camera
+completely, no zoom, no pan, no drift. Then for the first seven seconds, the scene assembles itself layer by
+layer, back to front. Each paper piece sliding into place and settling with a tiny bounce. For the last 3
+seconds, it becomes a living paper poster. Clouds drift, fabric moves, light shifts across the layers, and
+nothing else changes. That locked camera is the secret. Most AI video drifts and warps because the model is
+free to move. Lock it and you get clean, stable, handcrafted-looking animation every time. Back in Google
+Flow, switch the video model, set your duration, and open the agent again. Type insert all scenes, then paste
+the video prompt paired with your numbered images, and send. The agent shows you the credit cost before it
+runs. Approve it and watch every scene animate automatically. Download your clips in order, your visuals are
+done, your animation exists. Now it's time to assemble everything in CapCut. Step seven, assemble everything
+in CapCut. Put every asset into one folder first. Your voiceover files, your numbered clips, and your music
+track. Then open CapCut. Create a new project and import that single folder. Everything lands at once. Drag
+your music onto the timeline first and bring it down to around minus 20 decibels, so it sits underneath
+everything else. Then, bring in your voiceover files in order and push them up to around 10 decibels, so the
+narration sits clearly on top. Now zoom into your timeline and start laying your clips above the voiceover in
+beat order. Because you numbered everything, clip one goes over sentence one, clip two over sentence two,
+straight through. Trim each clip so it lands exactly when its line is spoken. Once everything is synced, add a
+few transitions between beats. The blink transition works beautifully with paper cut because it mimics a
+stop-motion frame change. Then add a vignette effect and pull its intensity down to around 60%, so the edges
+darken just slightly and the paper texture pops. Preview it once from start to finish. Check your sync and
+pacing. And export in 1080p or 4K. >> Before 1956, cargo moved one crate at a time. Dock workers hauled sacks,
+barrels, and boxes by hand. Ships sat in port for over a week. Trucking entrepreneur >> That is a complete
+papercut animation built from one prompt using free tools. One prompt, one topic, one finished animation. And
+the same engine runs the next one and one after that. Start with a 30-second video today. Pick a topic [music]
+you actually find interesting, run the master prompt, and see what comes back. That first one teaches you more
+than any tutorial can. [music] Drop papercut in the comments and tell me the topic you are starting with. I
+will reply with one beat idea that will look incredible [music] in layered paper. And if you want to see how
+to produce five of these in a single session instead of one, watch my bulk pipeline video next. [music]
+Subscribe to AIpreneur and I will see you in the next one.

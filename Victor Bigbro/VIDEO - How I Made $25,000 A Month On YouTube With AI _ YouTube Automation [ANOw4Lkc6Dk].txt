@@ -1,0 +1,169 @@
+Title: How I Made $25,000 A Month On YouTube With AI | YouTube Automation
+Channel: Victor Bigbro
+Type: VIDEO
+Video ID: ANOw4Lkc6Dk
+URL: https://www.youtube.com/watch?v=ANOw4Lkc6Dk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:47:37+00:00
+
+Kind: captions Language: en This is a YouTube channel I started just under two months ago and so far it has
+accumulated over 2.7 million views with over 75,000 subscribers and in the last 28 days it has made over
+$25,000. Now before I do anything I'm going to go ahead and reload my screen so you see this all legit. And as
+you can see everything is still intact. In this video I'm going to be revealing everything including a new
+niche that anyone can start even if you know nothing about faceless YouTube. Now here's the deal. We're going
+to be using 100% free tools in this video but you're going to have to put so this is a channel called Proof.
+It started just one month ago and it already has a popular video with over 3.2 million views in just one
+month. Here's another video 1.2 million views in three weeks. And these videos are very simple to make that's
+why they're uploading multiple videos per day. So over here I can see this one is one day ago one day ago one
+day ago and this one is 19 hours ago 14 hours ago and 7 hours ago. Here's another channel this one started
+just six months ago and the second video literally got over a million views and over here you can see they are
+getting pretty decent amounts of views. Here's another one this one started basically under a year ago and
+their most popular video is sitting on 6.1 million views. Here's another one 2.4 million views and you can see
+they are getting pretty decent views. There's a lot of other channels in this niche getting insane amount of
+views. So step number one is creating and branding the channel. Now this part is simple and I know anyone can
+do it but there are few things I do to prevent my channel from getting zero views and zero impressions which
+I'm going to talk about in a bit. So first off you want to simply come over to your YouTube homepage and click
+on your profile click on create a channel and down here you want to go ahead and put your channel name. Now
+you can come up with this yourself or you can use this prompt right here which I'm going to provide you down
+in the description along with all the reference channels I'm going to use in this video. So go ahead and grab
+three of your competitors names. I'm going to do Cosmic Lens Astrom Earth and this one right here called
+Proof. And I'm going to go ahead and paste the three names in here. Next you want to go ahead and copy the
+entire prompt and paste it inside of Gemini. Now it's going to provide you with a ton of names. Just go ahead
+and pick one of them that sticks out to you. In my case, I'm going to go with this one right here called
+Beyond Earth and I'm going to go ahead and paste that in and I want to go ahead and choose a handle. So, I'm
+going to see if Beyond Earth is available. If it's not available, I like to put EN, which stands for English.
+So, go ahead and create your channel. So, now you want to go ahead and brand your channel. So, go ahead and
+copy your name and come back to this prompt. Scroll down here, you'll see the logo and banner prompt. So, go
+ahead and insert your channel name right here and down here I want to go ahead and insert what your channel is
+about. So, in my case, I'm going to do space documentaries and everything space. So, go ahead and copy this,
+open up your browser and search for Flow. So, this is exactly how the URL is going to look like. So, once
+you're here, basically go ahead and click on new project and once you click on new project, you want to go
+ahead and paste in this prompt. Make sure the agent is turned on and you want to head over to one of your
+reference channel like this one as an example and you want to go ahead and zoom in to the logo and take a
+screenshot. And then paste that into Google Flow. Go ahead and click on send and just like that, you're going
+to have a logo and banner. Now, you want to go ahead and download this by hovering on the image, clicking on
+the three dots and clicking on download. So, I'm going to upscale this to 2K and I'm going to do the same
+thing for the banner. Now, you want to come back to your channel, click on customize channel and from here,
+you want to go ahead and click on upload and upload your logo. Click on done and you want to do the same thing
+for your banner. So, click on upload and upload your banner. Click on done and after that you go ahead and
+click on publish. Now, come back to our prompt here. So, for the channel description, you want to go ahead and
+input your channel name here, which is Beyond Earth and include what your channel is about. Next, I want to go
+ahead and copy this description prompt and I'm going to go ahead and paste it inside of Gemini and click on
+send. So, Gemini is going to go ahead and generate three different channel descriptions. So, go ahead and copy
+the one that sticks out to you. In my case, I'm going to go with the first one and I'm going to go ahead and
+paste that down here and click on publish. So, now you want to go ahead and optimize the channel. So, come
+down here, click on settings, click on channel and select a country. Next, I want to add some keywords to this
+channel. So, I'm going to do NASA space documentaries, universe, galaxy, and theory. Next, you want to click
+on the advanced settings and set this as not meant for kids. If you don't set this, your videos are going to
+be uploaded on a completely different platform from YouTube, which is YouTube Kids. Once you set this, click
+on feature eligibility and verify your channel. This allows you to upload videos longer than 15 minutes and
+thumbnails. Now, you can click on verify phone number and verify this using your local phone number. Once all
+that's done, you can come down here and click on save. So, the next step is to start creating videos for the
+channel. So, first off, you want to go over to your reference channel. Once you're here, just go ahead and
+copy the URL of this video by right clicking and clicking on copy link address. And you want to come back to
+your prompt chat and you'll see the idea generation prompt. So, go ahead and paste in your URL in here and you
+want to go ahead and do that for four to five times. So, once you have all the links, you want to go ahead and
+copy the entire prompt and you want to go ahead and paste it inside of Gemini. Now, we're going to be using
+Gemini cuz it's the only AI that can actually do this. Now, you want to click on this drop-down arrow. Make
+sure it's on flash 3.5 and click on extended thinking and click on send. And once you do, it's going to
+connect to YouTube and it's going to extract all the data that's making the videos successful. So, scroll all
+the way down here and you see it's going to rank the idea from the strongest to weakest. So, go ahead and pick
+an idea that feels clickable to you. So, in my case, I'm going to go with idea number six, Jupiter is not what
+we thought it was. So, I want to copy this and I want to come back to our prompt. So, scroll down here and you
+see the script generation prompt. So, go ahead and paste in your idea here, which is our idea number six, and
+you want to go ahead and copy the entire prompt. Come back to Gemini and paste this in. Click on send and it's
+going to generate you a script with visual concept and sound effects. And you can see this is not some basic
+script. It starts with something common most people already know and it counters that and actually corrects
+the misconceptions, which is a very strong way to hook viewers. What I recommend you do is, while all these
+data are important cuz that's what you'll be using to structure the videos correctly, you want to go ahead and
+tell it to give you only the script in the code block and click on send. So, once you have the script, you
+want to go ahead and copy it and paste it inside of a notepad. So, once you have your script, you want to
+preview the script to make sure it actually makes sense and generate the voiceover. So, open up a new tab and
+search for Google AI Studio and click on the first link and click on any of the voices. Come back to your
+script and copy your script. So, I'm going to do just parts of the script cuz I don't want the video to be way
+too long and I'm going to go ahead and paste that inside of here. Next, you want to go ahead and cancel all of
+these. And for this scene, I wrote space documentary and I used the exact same thing as the sample. After
+that, you can click on this drop-down and set this on empathetic and you can go ahead and choose any of these
+voices. In my case, I'm just going to leave it just as it is because this is a tutorial and go ahead and click
+on run. And you're going to get something like this. >> We were taught in school that Jupiter is a giant
+gentle ball of gas. >> So, you can come down here and click on download. Once you have the script, come back
+to your prompt and copy the visual prompt and come back to Gemini and paste your entire prompt and click on
+send. So, down here it's going to provide you with multiple prompts, but there's actually more to this and I'm
+going to explain that in a bit. So, leave this tab open and open up your video editor. I'm going to be using
+CapCut for this video cuz it's free and anyone can use it. So, once you're inside of the software, the first
+thing you want to do is to go ahead and click on import and import your voiceover. So, once you import your
+voiceover, you want to drag it to the timeline and start sourcing visuals for this video. So, come over to
+pixels.com. You can also use these other options. They also give free stock videos. Now, here's the deal. Most
+people don't know this, but when it comes to generating videos on Google Flow, you are actually capped at 50
+credits a day and it's not going to be enough to create full videos. So, here's what we're going to do. We are
+going to be using stock videos for most of the visuals and deploy AI footage where we don't find a footage
+that fits our scene. Now, you don't have to worry about the quality because most of our competitors are
+already using stock videos. So, down here on your prompt, you see that you have your video generation prompt
+and down here you already have search term that you can use to source visuals for each 10 second of your
+scene. So, copy the search term and go ahead and paste that inside of Pexels. Then, click on this drop down
+and set this on video and go ahead and search for that. So, you can straight up click on any of these and
+preview it. If it looks like something you would like to use, you can straight up go ahead and download this
+for free. Once you download the first video, I recommend you download another one so you can actually change
+it up so your scenes don't come off boring. So, I'm going to download another one. And once I download another
+one, I can come back to my prompt here and down here, you can see another search term that you can straight up
+copy and search inside of Pexels. So, repeat the same process and download another visuals. So, once you've
+downloaded some visuals, you can come back to CapCut and import those visuals. So, I'm just doing a few, but
+in your case, you can go ahead and download as many visuals as you need. So, I'm going to drag this in here.
+In some cases, your video is going to be flat just like this one. So, what you have to do is to click on the
+video, click on speed, and increase the speed. So, in this case, I'm going to do 5x. Now, you want to make
+sure that your video is exactly 10 seconds. So, go ahead and shift this to be exactly 10 seconds. And you want
+to go ahead and drag in the second clip, okay? And you want to make sure this is another 10 seconds, which is
+exactly 20 seconds. So, cut and delete. Now, you want to go ahead and animate the footage cuz it still looks a
+bit flat. So, what you want to do is you want to move your play head just near the end of the first clip and
+click on the clip and then go ahead and add a transform key frame like this and send your play head all the
+way back and just straight up increase the scale right here like this and drag the video to a place that looks
+appealing just like this. Now, you want to go ahead and add a transition. So, come over to your transition tab
+and under the classic transition, you want to go ahead and drag in the mix transition. Now, you can use the
+mix or you can use the black fade transition cuz that's the exact transition that fits these types of video.
+Now, in most cases, the stock videos are more than enough to get your videos done. But if for any reason you
+don't find a footage that perfectly fits what you're trying to explain, you can come back to your chart. Now,
+this prompt actually gives you the exact second for every scene. So, you can straight up copy your prompt
+right here and come over to Google Flow. Pasting your prompt in here. Once you do that, turn off the agent and
+click over here and make sure it's on video. Put this on one and make sure this is on VEO 3.1. Once you do
+that, click on send and you're going to get a footage. Now, you can go ahead and do that for the second
+prompt. Copy, come back here and paste everything cuz we already done all the settings. Click on send. So,
+once you're done generating your videos, you can straight up download them to your computer. Then, come back
+to CapCut and go ahead and import the file you just downloaded. Now, you want to basically drag and drop the
+videos inside of your timeline. So, basically, once you're done with the visuals, you want to go ahead and add
+subtitles to your videos. Now, this feature is actually paid in CapCut, but I'm going to show you exactly how
+to get it done for free. So, come over to this website right here called audiotosrt.com. Once you're here, go
+ahead and click on upload file and you want to go ahead and upload your voice over. So, once you do that, come
+down here and click on start conversion. Once it's done, click on download SRT and once you download this
+file, you want to come back to CapCut, click on titles, and click on local captions. Now, go ahead and click
+on import files and import the file you just created. Now, drag this straight to your timeline. So, I'm going
+to go ahead and change this to title case and I'm going to change the preset style to this one. So, the last
+thing you'll be needing is a background music. So, for that, come back to your YouTube channel, click on your
+profile, then click on studio. Now, scroll down and click on audio library. From here, you want to go ahead
+and set some filters. So, first off, set this on attribution required, set the genre to cinematic, click on
+apply, and set the mood to dark and click on apply. Now, you want to go ahead and play through the background
+music and find the one that actually sticks. In my case, I'm going to go with this one right here. So, come
+down here and click on download and I'm going to be presented with this test and your music is going to be
+downloaded. So, first off, copy this and save it somewhere and come back to CapCut. Now, click on media and
+import your music. Now, you want to go ahead and drag this below here and you want to reduce the volume of
+your music and trim the SX. So, once you're done with this, you want to basically go ahead and export the
+video. Click on export, and this is exactly what we've created. >> We were taught in school that Jupiter is a
+giant gentle ball of gas, a soft colorful cushion floating peacefully in the outer solar system. We were told
+that if you flew a rocket through it, you would simply glide through its clouds and emerge [music] out the
+other side. >> Now, the next step is to generate the video metadata. For that, come back to your prompt and
+locate the metadata prompt and copy everything. Now, come back to your chat and paste this inside of Gemini
+and click on send. So, first off, you want to go ahead and generate your thumbnail. So, copy this, come back
+to Google Flow, paste this in, and turn on agent mode. Now, go ahead and send this. So, just like that, we
+have our first thumbnail. Now, we actually have up to three different thumbnail prompts, and you can go ahead
+and test all three to see the one that perfectly suits your video. The next step is to actually upload the
+video. Now, come over to your YouTube account and click on create on the top and basically upload Now, for the
+title, you want to come back to your prompt chat and copy the title and paste this in. For the description,
+you want to come back here again and grab your description and paste that in as well. And lastly, you want to
+copy the tags, scroll all the way down here, click on show more, and paste in your tags. So, once you have all
+these secured, the last thing you'll be needing is your thumbnail. So, come back to Flow and straight up
+download your thumbnail and come back to your YouTube channel and upload your thumbnail. Now, you want to come
+back to this attribution text here, copy it, and paste it inside of your description. Now, go ahead and click
+on next, and click on next again, and again. Now, you want to go ahead and set the video public and straight
+up publish the video. And once you do, congratulations, you've published your first video. Now, I'm going to
+wrap this up here cuz I've pretty much shown you all the steps. Smash the thumbs up button and subscribe to
+the channel. I'll talk to every single one of you all in the next video. Peace.

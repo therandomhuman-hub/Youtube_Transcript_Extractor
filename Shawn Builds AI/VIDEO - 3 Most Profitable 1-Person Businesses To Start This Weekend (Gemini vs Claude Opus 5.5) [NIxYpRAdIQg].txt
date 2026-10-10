@@ -1,0 +1,165 @@
+Title: 3 Most Profitable 1-Person Businesses To Start This Weekend (Gemini vs Claude Opus 5.5)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: NIxYpRAdIQg
+URL: https://www.youtube.com/watch?v=NIxYpRAdIQg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:28:30+00:00
+
+Kind: captions Language: en It took me 6 months to make over $20,000 with AI services, all while working my
+last 9 to5. But it all started with that first stubborn $1,000. In this video, I'm giving you the three best
+oneperson businesses to earn $1,000 this weekend, even if you're just a casual AI user, so that you don't need
+to go through the same pain that I did. Now, if you're anything like me, then you've probably watched a dozen
+videos online about how to make money with AI. But when you look up after hours have passed by and you're no
+closer to building a business. It's not your fault. It's the people feeding you lies that you can vibe code a
+$10,000 website. Like, dude, there's no way that anyone's willing to pay 10K for that website. And then at the
+same time, I see a ton of people hyping up crazy new AI models like Clawude Opus 5.5. Now, I'm a huge
+proponent of Google Gemini since it's the easiest AI to learn for beginners, but as a personal experiment in
+this video, we're going to test how Google Gemini stacks up against Claude Opus for each of the three business
+ideas. So, let's start from the top because if we want to make $1,000 ASAP, we need to pick an idea that we
+know people will pay for. I want to start with a quick story that explains why I feel so strong about
+validating demand before you build. This is me at a meetup group in New York City with a bunch of other people
+who build apps. Now, with a technical background, that was my first idea of how to make money with AI. I'll
+just vibe code some apps. But there was a quote that we always told ourselves to remind us of something very
+important. It's a popular quote in Silicon Valley, but it actually comes from a baseball movie called Field of
+Dreams. And the quote is, "If you build it, they will come." Now, we weren't telling ourselves this quote so
+that we can follow it. We were telling ourselves this quote because it is completely wrong. I spent over 6
+months vibe coding different SAS products. You can see the three that I made here. One for social media, one
+that was an AI app for recipes, and one that was AI for cloud infrastructure, which is what I did in my last
+job. Now, I spent over 6 months making these, and at the end, I had hours down the drain. and zero customers
+at all. All because I believed if I build something good, then people will come and use it. But what I should
+have been doing is asking myself this one simple question. Do I know someone who is so excited about this SAS
+that I'm building that they would buy it right now? If the answer is yes, then you should ask them to actually
+give you money and make the first purchase. If the answer is no, then avoid that idea completely and move on
+to something else. If I followed this advice, it would have saved me so much time. You have no idea. So, in
+this video, we're going to check out three pre-validated ideas that you can try out to make $1,000 this
+weekend. And we're going to run it through Google Gemini. But at the same time, we want to compare it to some
+of the newer, more hyped up models like Claude Opus and see how it stacks up. Before we jump into those three,
+I want to help you if you already have an idea and you want to try and validate it, which is one of the
+reasons I built the business builder AI skill that you can download for free with the link in the description
+below. Once you download it, you can go into either Gemini Spark or Claude and go into the skills section and
+upload it right here, which will create this Freedom Founder Builder AI skill. You'll know this works if you
+go into the chat now and type /freedomfounderbuilder and it pops up. Then you could either drag in your resume
+here or go to your LinkedIn, click these three buttons and say save to PDF and add it to the chat. After you
+run it, it will create this Freedom Founder dashboard that you can open up in your browser. And the first
+thing it will do is find your perfect AI business idea based on your experience that makes it your unfair
+advantage. But as you go through the instructions of the quiz, you might find out that you're at the seller
+stage. within that tab, it gives you a comparison versus other competitors to pick out the price that you
+should charge. And if there's competitors doing it, that already validates the idea. But another way to
+validate it is to try launching and talking to real people. So in the launcher tab here, it gives you a real
+search that you can open up on LinkedIn for qualified prospects, which we can see here opens up this entire
+list of contacts. I definitely recommend giving this skill a shot. But I know having a validated AI business
+idea is a tough thing to do, which is why for a limited time, I'm offering free one-on-one coaching calls
+where I can understand your exact situation and tell you how you can get to the next business stage. You can
+book that call at the bottom of the skill here or click the link in the description below. The first
+profitable AI business that we'll be talking about is creating and running ads. Working with media companies,
+ads is a huge part of the business model. So, I have some experience about how they work and how we can use AI
+to create good ones. It's all about finding really good references to create a new ad. So, let's say you're
+working for Target to make a back to school ad. You probably want to take a look at some of the best
+performing ads that they've run in the past and we want to take elements from that to add into our new ad. So,
+if we look at this ad here, we might find out that 20% off in the form of a red circle is a good way to
+capture attention for people. If we look at another one, we might see that this purple background is a good
+thing to use as well as using kids from multiple different ethnicities so that everybody feels like they can
+use target products for going back to school. But not only ads from this company, even competitor ads. So if
+we look at staples here, we might find out that this pastel shade in the background performed well. And having
+maybe pencils in here is also something that helped. So we combine all those elements together and come up
+with a new ad. The crazy part is that there are so many really good AI models these days that you can use to
+generate these ads for you. So, let's take a look at what ads we should even be generating with AI in the
+first place. If you go on to meta ad library, they actually give you an entire listing of all the ads that are
+posted from companies. And these are posted onto Facebook or Instagram. So, if we look up a popular company
+like Aura Ring, we see that there are 70 results here. They're a pretty established company that makes rings
+to track your exercise. So, it makes sense that they have a bunch of ads running and then they have a bunch of
+successful ones. But, if we look up one of their competitors like Ultraum, who also makes exercise and fitness
+rings, we can see that they only have 24 ads running. Now, let's take a look at the difference. So, with Aura
+Ring, it looks like this ad did pretty well here. So, what we want to do is now go on to Ultraum and see if
+they have any ads that are like that. Looks like they have a bunch of just single ring ads. So like this one
+here, but they don't have any that have multiple rings linked together. So that's opportunity for them to take
+what's working for a bigger company and implement it for a smaller company. Now that's great, but how can we
+use AI to generate these ads for them? Let's first take a look at using Nano Banana within Google Gemini. On
+the left side here, you can open up the panel and go to images. Then all I did was give the Aura Ring ad
+first, followed by the ultraum ad. And I said, "Anal analyze the first ad, make a version of this for the
+second ad." And in the matter of a couple seconds, it created this new ad right here, which shows the ultraum
+ring with a different discount percentage and has them all lined up and stacked here. So, it looks pretty
+good. And this is totally one way that you can do it. But now I want to see what this looks like using Claude
+Opus 5.5. Now, the first thing I'm going to do is open up my connectors and set up the sponsor for today's
+video, which is Higsfield. With Higsfield enabled and Claude Opus 5.5 on, I just pasted in both ads again and
+gave it the exact same prompt. Again, in a matter of seconds, it gave me two different options I can use right
+here. The color is actually a bit better in this one, and I like that this one didn't copy over the four in
+the top like the Aura Ring one had here, because for Ultra Ring, it's not version four. So, they're both
+pretty good, but I think the Clawed Opus one wins out slightly here. Now, for ads, the way that you can charge
+for this is usually based on the amount of clicks that your ads end up getting. But what if you want something
+that's consistent, like a flat fee that you can charge, so that you know you're always getting the same
+amount? That brings us to business number two, which is creating thumbnails. I found this LinkedIn post here
+from a YouTube strategist where he's talking about how much you can pay for a thumbnail designer. And there's
+a ton of different pricing options that you can use, ranging from $50, which is just straight up making a
+design, all the way up to $500, where you are the one coming up with the concept and you're creating the
+design with multiple variations with top tier quality. And this is what we want to strive to get to. You're
+probably thinking, how can I actually land clients to make thumbnails for them? Though, I get a ton of emails
+from people who are offering to do thumbnails. The key is making them personalized. This person here is using
+my name and cracks a couple jokes about his girlfriend. This one here talks about watching my channel and
+saying the content is solid, but doesn't really get too specific, so it's not as good. This one gave some real
+examples of the way that they make thumbnails, which is good that I can take a look and decide if it's
+something I want to move forward with. And this one here is probably the best because they bring up a specific
+video that I had made. So, make it personal to them and give some examples of ones that you generated for
+yourself first. and then find the channels that you like and expand their information here where you can get
+their email address right here. Now, all these thumbnails here on my channel were AI generated. So, let me
+show you now how we can do this. So, let's say I want to make a new video about using chat GPT instead of
+Gemini. All I did here was paste in one of my previous thumbnails for Gemini. Then I also gave it Chad GPT
+text and the OpenAI Chacht logo. And I just told it to replace the app and replace Gemini at the bottom, which
+gave this result, which you know looks pretty solid. So that's one way that you can make variations off of
+their previous thumbnails to make something new. Doing the same thing now with Claude Opus. We're going to
+paste in those same three images and give it the same instructions. And the result here, in my opinion, is
+actually better. It shows the app up here with a glow around it, which is the biggest difference. But overall,
+I think the image quality is a little bit better. Just as another example here, I gave the reference image of
+a Mr. beast thumbnail and I said to replace it with me as the YouTuber and in a couple seconds it generated
+this one here also pretty good. Same thing here within Claude Opus and the result is for this one. So for that
+first thumbnail I'd say Claude Opus wins but for the second one I think they're about tied. Before we move
+into the last business idea I just want to bring up one more time that I'm here to help you out. So, I'm
+offering a limited number of free one-on-one coaching calls where I can understand exactly where you are in
+your oneperson AI business journey and recommend next steps to bring you to the right stage so we can make
+that first $1,000 as soon as possible. So, go ahead and book the call for free with the link in the
+description below and I will chat with you soon. We've talked about both ads and thumbnails at this point,
+which are both image generation strategies, but what about generating videos? Well, for that I'm going to show
+you business number three, which is creating UGC content. If you've never heard of UGC, it stands for
+usergenerated content, which is any content that's created by people, customers, fans, or creators instead of
+by the actual brand themselves. There are entire marketplaces like Collabster here that will post
+opportunities to work with brands. So, like making an Instagram story or a photo or even like a video reel
+that's 60 seconds long. If you create an account here, you'll be able to see these opportunities and create
+this UGC content using AI. And this isn't something totally new, right? There's AI avatars already out there
+on Instagram, like this account here that has over 2.2 million followers and is just an AI avatar. So, imagine
+doing something like this, but instead of just a random shirt, you use a shirt for a brand and get paid to
+make it. Same with this one here. This one has over 400,000 followers and even post some videos. So, again,
+same thing. You can make something like this, but maybe instead of that random necklace, you get paid to
+create one of wearing the necklace of the advertiser. First up in Google Gemini, you can go on the left here
+and click on the videos section. Then, literally all I did was give an ad for the product. So, I did the
+ultrahuman ring right here. And then I gave the person to make the UGC video for, and I gave it a prompt to
+make a vertical UGC style video with some explanation on how the video should go. And within a couple minutes,
+it made this video here that I'll play for you. Okay, I finally switched from my smartwatch to this, the Ultra
+Human Ring Pro. I forget I'm even wearing it, and it's still tracking my sleep and recovery every night.
+Honestly, not going back. >> Pretty wild, right? It's pretty solidly realistic and shows me wearing a ring and
+doing some explanation about it. The only thing that's missing is that good New York accent. But now, let's
+see what the Opus 5.5 version looks like. I gave it the same two pictures here, the advertisement and the
+picture of me. And this time, I had it actually give me a prompt, which is the one that you saw earlier. And
+with this prompt, I used it to then create the video. I said, "Run it with his field using the images of the
+product and the man." And then within a couple minutes, it created this one here. So, let me play this as a
+comparison. >> Okay, I finally switched from my smartwatch to this, the Ultraum Ring Pro. I forget I'm even
+wearing it and it's still tracking my sleep and recovery every night. Honestly, not going back. Okay, that
+one's even better. It's kind of crazy. The lighting is even better in this one. It had some nice gentle
+background music and it does this really cool animation here where it shows the tech that's going on inside.
+So, when it comes to photo realism, I'm going to give the point to the Claude Opus model here. Now, you're
+equipped with three different oneperson businesses that are all pre-validated with demands, and you have a way
+to get customers with them that will help you get $1,000 this weekend using AI to do all of the delivery. It
+doesn't get much better than that. The next step to take would be to continue to scale. So either taking one
+of these ideas and getting really good at it and scale up your operations or take something that you are
+already good at and use that to create an online business around it using AI. Instead of just dropping you off
+at this point, I want to give you three next steps that you can take to continue building either of those
+choices that I just gave. So the first option is to download that free business builder AI skill with the link
+in the description. that will help you if you want to go down the path of taking an idea that you already have
+or the skills that you are already good at and building an AI business around it. The second option is to book
+one of those limited free one-on-one coaching calls with me again with the link in the description below so
+that I can understand exactly which way you're thinking about going and give you some personalized feedback of
+the exact next steps that you can take for your situation. And the third step is to keep learning about
+different AI tools so that you can get more comfortable with them and then start building out your oneperson
+AI business idea. For that, I created a video of 20 different Gemini AI hacks that will not only make you an
+AI wizard, but equip you with the abilities to make money online with AI. I

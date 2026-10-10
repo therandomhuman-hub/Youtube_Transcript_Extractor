@@ -1,0 +1,231 @@
+Title: I Made an AI Game That Got 10 Million Downloads (Full Breakdown)
+Channel: E'Calm
+Type: VIDEO
+Video ID: hkB8MfrqkVM
+URL: https://www.youtube.com/watch?v=hkB8MfrqkVM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:34:44+00:00
+
+Kind: captions Language: en I spent five months building an Android game for the Google Play Store using
+nothing but AI. And somehow that game has now hit 10 million downloads. Now, I already know what most of you
+are wondering. How much money did it make? So, in this video, I'm going to reveal exactly how much I've made.
+And more importantly, I'll break down everything I've learned from building and growing the game from scratch.
+All right. So, this is my ADM Mob dashboard. And as you can see that I made more than 3,400 last month alone.
+and I'm hoping to hit at least 50 grand this month because I've spent quite a lot this month. We'll get into
+that later. As you can see, this app is making me some serious money. Just yesterday, I made over three grand
+and I'm pretty sure I'll hit around 4 grand or 5 grand today because it's not even noon yet. It's only 11:51
+a.m. Now, if you're thinking about getting into this business, there's something you need to understand about
+ADM Mob. You might be looking at this number and thinking, "Wait, so am I actually getting all this money?"
+Well, not exactly. Let me break it down with a simple example. Let's say my app generated 20 grand from users
+in the United States out of the total revenue. ADM Mob will withhold 30% of that US source revenue, which
+would be 6 grand. That means I'd be left with 14 grand from that portion plus whatever I earned from users in
+other countries. Let me show you a real example. If you look at my earnings from July 1st to July 31st, you'll
+see that I didn't actually receive the full 34 grand. Now, let's go into it because this is where you'll
+understand it clearly. You can see the starting balance which represents what I earned during July. But when
+you look at the ending balance, you'll notice that it dropped a little. And that's because ADM Mob only pays
+for valid traffic. So, that difference is revenue that was deducted because it was identified as invalid
+traffic. Now, if you look right here, you'll see the taxes. This is what I was explaining earlier, and you can
+see it's more than 10 grand, which is crazy. But a big reason for that is that I have a lot of users from the
+United States using the app. But even after all those deductions, I still ended up taking home more than 24
+grand. And honestly, that's not bad at all. Although I also spent like 6 grand on ads. So if you take that
+out, I was still left with roughly 18 grand. So yeah, after everything, I'm still in profit. So how can you
+also start a business like this? See, before we start everything, you first need to understand how this
+business works because this could be a waste of time if you don't understand how it works. The thing is, most
+of you understand that YouTube pays creators based on their RPM. That's how much you make per 1,000 ad views,
+right? The same applies to what we're doing today, but instead of RPM, ADM Mob uses eCPM, which stands for
+effective cost per mill. in simple explanation is a metric that measures the estimated ad revenue an app
+developer earns for every 10,000 ad impressions. So what it means is that I'm not making any money for
+installations but rather the ad impressions. [music] I hope you get it here. You can see I've eCPM of $6. But
+this keeps changing. Sometimes it's high and sometimes it's low. This is because in ADM Mob this price
+determination happens through two main layers. The first one is the auction system and this is how the ad is
+sold. And the second one is market variables. That's where geographic location, ad format, type, user
+engagement, seasonality, and app category comes in. I don't want to go much into that because most of you
+might get confused and I don't want it that way. So, let's move on with what you'll need to get started.
+First, you'll need a monetization platform because you want to make money. And for this, there are a lot. ADM
+Mob, Unity Ads, Start.io, io app loving like a lot but per my experience I think ADM mob is the best it's just
+like AdSense you know so we're going to use that the second thing you'll need is where you'd be publishing
+your game and for this there is no better place than the Google Play Store if it's an Android app meaning
+we'll have to create a Google Play console account which costs 25 bucks then lastly it's either you hire a
+developer or use AI to develop the app yourself [music] personally I use AI and that's what I'm about to show
+you. But we can't start creating the game right away because we'll be adding some codes for our app to display
+ads so we get paid. So, let's start by creating an ADM Mob account. And it's simple. Just search for the ADM
+Mob on Google. Then click on the first link. Now, click on get started. Then sign up with your Google account
+here. Choose whether you want to receive updates from ADM Mob or not. Then choose your country. Now go through
+the terms, then click here to accept it. Next, you can go ahead and hit on the start using ADM Mob button.
+Now, verify your account and ADM Mob will review your information. [music] To speed up the reviewing process,
+you need to fix your payment information as well. So, click on this button. Then here, click on the red button
+which says fix it. Now, click on add payments account. Fill in your details, then hit submit. Now you can see
+our account is being verified. This can take up to 24 hours. [music] But while waiting, we can go ahead to
+create our first app. This is not the app we're going to publish on Google Play Store, but an app that's going
+to give us ad codes to feed into the app we're going to build for Play Store. All right, click on apps and
+click on this button. Now, choose the platform. In this case, it's Android. So, let's select that. Now the app
+is not listed on Play Store yet. So let's select no. Next, click on continue. Here we need to name [music] our
+app. So crack your brain, then come up with a good name, something that people will remember. I'll call mine
+Word Rush. Now click on add app. All right, our app has been added successfully. Next is creating ad units,
+which are the types of ads that's going to show when users launch and start using our app. So, click on this
+button. Now, we need to choose the type of ad we want in our app. I wish I could explain all the ad types
+here, but I don't want this video to be longer. But if you check here, you'll realize I'm using only two ad
+types, which is reward ads and interstitial ads. Reward ads are mostly videos. That's why you can see this
+high eCPM. All right, let's click on the first one which is an interstitial ad. Then give a name to the ad
+unit. I'll say interstitial one. Now click on create ad unit. All right, we've created the first ad unit
+successfully and you can see the app ID and the ad code. Let's click on done. Then create the second ad unit
+which is reward ad. And we're going to do that by clicking on this button. Select reward ad. Now name it. Keep
+everything as it is. Then click on create ad unit. Click on done. You can add other ad units. But per my
+experience, if ads are too much on your app, people find it annoying and they'll uninstall it. That's why I
+use only two. Now, if we click on overview, you'll notice something here. This is because we need to create
+the main app and publish it to the Google Play Store before it can be fixed because Edmob needs to review the
+kind of app we are submitting for monetization. Knowing this, the next step is to create the actual app. And
+this is the interesting part of the entire process. For this, you can hire a developer or use any AI tool you
+think can do the work. But for me, I'm already using Abacus AI. You see, when I share tools like this, people
+think I'm paid to promote it. Bro, I've not received a dime for it, and I don't even earn affiliate
+commissions. It's the best AI agent I've used so far, and it always does the job for me. That's the only
+reason I always share in my workflow. It's not necessary to force you to use this same tool. If you have a
+tool that you think it'll still work, why not? That said, head to the description and click on the prompt
+link. You're going to see this master prompt right here. Just get it. Then grab the entire prompt from here.
+Now head to Abacus AI or any tool you think can do the work for you. Then paste it into the chat box. Next,
+click here. Then select agent. You see, we're creating a good-look app. So, we need a tool that will
+understand our prompt. All right. Scroll to the beginning of the prompt. You can see that we need to fill in
+all this information and pay attention here because one mistake and ADM Mob and Play Store reject your app. So
+first the app name and this is the name that appears when people install the game. Let's enter it here. Now
+the app package or application ID. You see this must be unique on Play Store and you can never change it and
+to avoid rejection it should be in this format. That's why I've added an example here. So it's going to be com
+dot. Then you enter your name, whether it's your brand name or any name you wish to use. So in my case, it'll
+be like ecom studios. H I think it sounds good. Ecom studios. All right, I'll bring another dot. Then enter
+the app name. Keep in mind that this works just like a web address. So make sure there are no spaces between
+the letters. I hope you got it. All right, we can clear these now. Now for the app version, you can enter any
+number like I'll say 2.0. Next is the add configuration and you can see that we need to enter the app ID here.
+To get that, let's head to our ADM Mob dashboard. Now, I'm going to click on home and refresh to see if our
+account is approved. Oh, the account has been approved. That's good news. All right, let's go grab the codes
+by clicking on apps. Click on the app. Now, we need the app ID. So, click on app settings. Then, click here to
+copy the app ID. If you're worrying about this error here, it's because we've not published our app on Play
+Store yet. Like, we need to publish the app then submit the link for review. We're going to fix that, so don't
+worry. All right, let's go back to Avocus AI and paste the code we copied here. Next is the interstitial ad
+ID. So let's go back to our ADM Mob dashboard. Then click on on ad units. Here you can see the interstitial ad
+unit we created. Just click on it. Then copy the code from here. Go back to abacusai. Then paste it right
+here. Next is the reward ad. So head back to ADM Mob. Go back to the ad units. Click on the reward ad unit.
+Then copy the code. Let's paste it here. If you want to add any other ad unit like the banner ad for example,
+[music] you can just create the ad unit and paste the code here. Now with everything set, we can now hit on
+send and wait for the result. You'll love it. Just relax. Just check this. That's interesting. Let's test it.
+Going to hit play. All right. So, you'll need to complete the first category to be able to unlock the next
+category. That's interesting. [music] You can add more levels if you like. Okay, let's pick classic. So, you
+can see all the words you'll have to solve below here. And you can see I have three hints. If I want to add
+another one, I'll have to watch an [music] ad. That's interesting because that's where we'd get paid. Let's
+try to solve some and see. All right. I see elephant here. And you can see it's cancelled, meaning I've
+[music] solved that. And you can see the score. Now, let's try the hint. You can also test the app on your
+Android phone. Just open Play Store, then search for Expo Go. Install the app on your device, open it, then
+tap on scan QR code. Now, scan it and you'll get the app on your phone. You see, to be able to upload the app
+on the Play Store, we need to save our app as an APK file and install to test it to see if everything is okay.
+And to do that, just click on deploy. Here we're creating an Android app. So, make sure Android is selected.
+Now, leave everything as it is and click on build app. All right. We can now hit the download icon from here.
+Then, hit download again to save the app. One thing to know is that if you don't download the app as soon as
+possible, the download link will expire and you're going to see errors like this. So when it happens like
+that, don't panic. Just refresh the page. Click here, then download it again. Now that the app is ready, we
+need to publish the app on Play Store. But before that, we need to create the icon for the app. So head back
+to the prompts, then copy this prompt here. Head to where you generated the app. Then paste the prompt here.
+Now make sure to edit it to make your icon unique. Don't just copy paste. All right, the icon is ready. Let's
+save it then move on to publish the app. To start, we need to create an account on Google Play Console. That
+will be the back end of the Play Store. So search for Play Console and click on the first link. Log in with
+your Google account and you'll get a page like this. Here you're creating this account for ourselves. So click
+on the get started button here. Click on continue. Click on next. Now enter your developer name here. This is
+what people will see on Play Store. I'll say the com apps. All right. Let's click on next. Now you need to
+link your payment profile for verification. So click on this. Then choose create new profile. Click continue
+and fill in your details [music] here. Now click on next. Enter [music] your email here. Then click on verify.
+Next. Check this box. Then click on the next button. Here I'll enter something like I have no prior experience
+managing a Google Play console and this is my first time creating an account. Here I'll say no and I don't
+have a website. Let's click on next. For the number of apps, I'll say 10. Then here, I'll click on yes. Then I
+want to make money with my app. So I'll check all these. >> Choose the app categories. Now fill this
+information. >> Then click next. Confirm all the terms. Then click on create account. Now this is going to
+cost you 25 bucks. So I'm going to pay for that. Now you can see our account has been created successfully.
+But before we can publish our game, we need to fix a few things. First, we need to verify our identity.
+[music] So let's click on get started. Click on agree. Then you'll see a notification on your phone. Tap on
+agree. Then verify your identity. You can use your passport or your government issued ID. You can see that
+Google is verifying my ID and the information I provided. Let's move on to the next one. So, we're going to
+click on view details, then follow these instructions. So, first you're going to install the Play Console app
+on your device. Then, sign in with the same Gmail you use, then choose the developer account. It's simple.
+Once done, then we move to the phone number verification, but our ID needs to be verified first. So, you're
+going to have to wait for a few days. I'll come back and show you the process once our ID is verified. [music]
+All right, it's been 2 days now and you can see that my identity has been successfully verified. Now, let me
+mention this. I know most of you will encounter issues with this process. So, I'll leave my Tik Tok account in
+the description. Just contact me if you encounter any issue concerning what we're doing, but don't write a
+full essay. Just go straight to the point and it should be about this and not anything else. Thank you. Now,
+before we can publish the game, we need to verify our phone number. So, let's click on this button. [music]
+Click here. Then scroll down to check if your phone number is correct. If it's okay, click here and choose
+whether you want to verify via [music] text message or call. I'll go with text message. All right. Click on
+verify phone number. You're going to receive a sixdigits [music] code. Just enter it here. Then hit on verify.
+You can now hit on save changes. Now if we click on home, you can see that we can now publish our app. But if
+you're enjoying the video so far, [music] kindly use 5 seconds of your time to show appreciation by liking the
+video and subscribing to the channel. This is the only way to tell me I should keep sharing more stuff with
+you. All right, next is publishing the game. This is the easiest but the most complicated part and if you
+don't follow the steps carefully, your app would be rejected over and over again. So do yourself a favor and
+follow the steps carefully to avoid any rejection. All right, let's start by clicking the create app button.
+Now enter your app name, then the package name you use when generating the app. If what you enter here didn't
+match the game app during the review, your game won't be approved to the Google Play Store. So, if you don't
+remember it, just go back to Abacus AI, then ask it to give you the package name of the game. You should see
+it here. Just grab it, then paste it here. Now, just like I told you earlier that your package name should be
+unique. So, let's check the availability by clicking this button. Good. Our package is available, meaning we
+can move on to choose the language of the app. I'll select English United States. Now, choose whether it's an
+app or a game. Click on free. You see, one thing I've noticed is that when your game appears on the Google
+Play Store, other mobile apps platforms like APK Viewer also put it on their platforms. And those [music]
+platforms have a lot of traffic. But if we keep this on, Play Store will make sure we don't get any
+installation from those platforms. So, it's not compulsory, but I recommend you turn this off. This way, when
+you publish the game on Play Store, those platforms will also put it on their platform and send you some
+traffic. That's a win for you because you don't have to pay anyone for that. Scroll down and accept these
+policies here. All right, let's click the create app button. Good. We've successfully created the project, but
+we're not done yet. We need to fill in some details, and that's the tricky part, so pay attention. First, we
+need to set up how the game should look on the Play Store. So, let's click on grow users, then click on store
+presence. Now, click on store listings. Click on this button. Here, we're required to provide a short
+description of our game and a full description as well. [music] And one thing, these are not just
+descriptions. This is how people are going to find your game. Meaning, your description should be packed with
+high search keywords. So, in case you want to write those yourself, then you should take note of that. But if
+you go back to the prompts and scroll down a little, you'll see a prompt to generate those descriptions here.
+Just grab it. Then head to where you generated the app. Make sure you're in the same chat. Then paste the
+prompt here. Hit enter. And just like that, you'll have the descriptions ready. Just copy the short one. Paste
+it here. Then go back and grab the long one, too. Paste it in this box. Simple. Now, we need to upload our
+visuals. And the first one here is the logo of our game. So, let's click on add assets, then click on upload.
+Now find the logo of our game, then upload it. One trick is to rename your logo with a good keyword. So
+instead of naming it icon, I'll change it to word search. When naming images, use underscore instead of space.
+All right, you can see the image here. Just click on add. Next is the feature image. So go back to the prompt,
+then grab the next prompt from here. Go back to Abacus Aai then paste it and make sure you change a few things
+like the colors and some text. This will help you get a unique result rather than copy pasting. All right,
+let's download it then upload it right here. You can also play and record the game upload to YouTube then
+paste the link here. This is optional so you can skip it if you like. Next is phone screenshots. Like we need
+to provide screenshots of our game. But if we take the screenshot ourselves, we'll have to adjust the size
+with a photo editing tool and it will not [music] even look nice. So I provided another prompt for that too.
+Just go back to the prompt and you should see it here. Copy it, then give it to Abacus AI. I think you should
+understand why I love using Abacus AI. like it can literally do anything you ask it to. So why the need to pay
+for multiple AI tools? All right, the screenshots are ready. Click on the folder. Then you should see it here.
+Just hit the download icon. Now unzip the file and you'll see all the screenshots. Just see how good they
+look. All right, let's upload them here. You can rearrange them. So next we need to upload a screenshot for
+users with tablets. So click here and upload the same screenshots. Simple. Now leave the rest as default. Then
+click on next. Check this. Select all the images. Then hit save. Now go to store settings. Then fill in these
+details. So click on edit. I only use my email, so I'll enter that and hit save. Now scroll up and hit edit
+from here. Choose the game category and hit save. Next, click on manage tags. I'll add a few tags, then hit on
+apply. All right, let's go to our dashboard. You can see we fixed only two of these settings. Now, we need to
+fix all these two. And the first one is to set a privacy policy page. So, head to Avacus AI and let's ask it
+to write a privacy policy page for our app that we should use to publish on the Google Play Store. Now, copy
+everything from here. Then open Google doc. Create a blank document. Then paste it here and enter your email
+here. Now click on share. Set it to anyone. Then copy the link. Click here. Then paste it in the box and hit
+save. Now if I go back, you can see we've completed this step. Next is the sign up details. So, let's click on
+that. Our game has no sign up, so let's hit on no, then hit save. Let's go back and click on the next one. The
+game has ads, so click on yes, then save. Go back, click on content rating, then start questionnaire. Now
+enter your email. [music] Choose game. Then accept the terms and conditions. Click on next. The game doesn't
+contain any violence. So no, there's no fear. This one to no here to no. Just choose no for all. Then hit
+save. Click on next then save. Let's go back. Click on the next one which is the target audience. Choose these
+three. Then hit next. Now hit save. Let's go back again. Scroll down and click on data safety. Click on next.
+Here, let's choose yes because of Google ADM Mob. Even though the game itself doesn't collect any user data,
+but the ADM Mob SDK does. Here, select yes. Then here, check this option. Click no. Then click next. Here,
+choose the first option. Click next. Now, click on start. Then select both. Next, click yes. Then choose data
+collection is required. Here select advertising or marketing. Then choose the same here. Hit on save. Now
+click next to save. Go back. Then click on on government apps. Select no then save it. Go back again and this
+time click on financial features. Check the last option then click next. Click on save. Let's go back again.
+Then click on this button. Select yes from here. Then check advertising and marketing. Click on save. Go back,
+then click the next one. Scroll to the button, [music] then check the last option. Click next, then click
+save. Now we're set. And the next thing is [music] to upload the file. But before our app can go live, we must
+run a closed test with a minimum of 12 people who have been opted in for at least 14 days. And you can't do
+this alone because Google's rules are very strict. If you don't have enough engaged testers, Google will
+reject your app when you apply for production. So, here is my plan to help all of us beat the system. I've
+created a dedicated Discord community for those who want to start this business. You can find the invite link
+inside the prompts. Once you're in, we are going to do a tester swap. By teaming up, we can easily hit that 12
+tester requirement, get the high quality feedback Google wants to see, and get our apps approved for the
+Google Play Store together. Stay safe and see you in the next

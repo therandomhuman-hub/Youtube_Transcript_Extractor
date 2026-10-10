@@ -1,0 +1,26 @@
+Title: I Found an Engaging Untapped AI Niche (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: cG9ORNTO2lY
+URL: https://www.youtube.com/watch?v=cG9ORNTO2lY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:39:57+00:00
+
+Kind: captions Language: en This Instagram page has gained over 450,000 followers just by creating these
+engaging English learning videos. And in this tutorial, I'll show you how to create videos like these using
+just one master prompt. So, without wasting any time, head over to Chat GPT, paste the master prompt here, and
+hit enter. I'll leave the link in the description so you can easily get it from there. Make sure you watch the
+video until the end so you don't miss any steps. Chat GPT will give you 10 different formats to choose from.
+Pick any format you like. For this video, I'm going with format number one. I'll simply type one and hit
+enter. Chat GPT will ask, "How many sections or questions do you want?" For this video, I'll enter one and hit
+enter. Chat GPT will generate one section with an image prompt and a video prompt. I'll start by copying the
+image prompt and heading over to Google Flow AI. Paste the image prompt here. For the image settings, choose
+9:16, select Nano Banana 2 as the model, and choose X1. Hit enter and let Flow generate the image. Once the
+image is ready, go back to Chat GPT and copy the video prompt. Come back to Flow. Click the three dots on the
+image we just generated and select add to prompt. Paste the video prompt here. For the video settings, choose
+9:16, select Omni 1.1 Flash as the model, set the resolution to 720p, choose 10 seconds, and select X1. Hit
+enter and your video will be ready in just a few moments. And here's the final result after a little editing.
+>> What do you call this? A colander. >> That's it for today's video. If you found this video helpful, make
+sure to like the video and subscribe to the channel for more AI tutorials. Thanks for watching and I'll see
+you in the next video.

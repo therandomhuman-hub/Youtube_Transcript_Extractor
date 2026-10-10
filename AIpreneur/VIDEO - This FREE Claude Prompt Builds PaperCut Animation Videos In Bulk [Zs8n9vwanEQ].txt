@@ -1,0 +1,82 @@
+Title: This FREE Claude Prompt Builds PaperCut Animation Videos In Bulk
+Channel: AIpreneur
+Type: VIDEO
+Video ID: Zs8n9vwanEQ
+URL: https://www.youtube.com/watch?v=Zs8n9vwanEQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:16:21+00:00
+
+Kind: captions Language: en A style of papercut animation is taking over YouTube right now. Dossier photos,
+redaction bars, torn newsprint, that breaking news Chiron look. And it looks like it needs a full newsroom
+motion graphics team behind it. It doesn't need one at all. A single master prompt can turn any story into a
+full papercut [music] animation style with narration, voice, every collage frame, and the sound design using
+free AI tools. And the best part, once you have set the system up once, you can crank these out in bulk almost
+hands-free. Welcome back to AI Preneur, and let's build this one from scratch. Step one, build your animation
+engine. This entire workflow hinges on one thing, a Claude master prompt. It's not something you type once and
+forget. It's a full production system that carries you through every stage one at a time, so you're never left
+guessing what comes next. So, open Claude, start a fresh chat, and drop this master prompt in that describes
+the full narrated case and the animation engine. Paste it in, and your engine is running. Your engine's built.
+Now, let's give it a case to crack. Step two, generate your script. Claude will ask what niche and topic
+you're after. Anything works. True crime, business scandals, science cover-ups, historical conspiracies,
+internet drama, corporate exposés. The style carries the story no matter which one you pick. For this build, I
+picked true crime, the unsolved disappearance of a small-town bank auditor whose files vanished with his
+business scandal. A wellness that faked its clinical trial data for a decade. Give it your topic, and it'll
+ask for a length next, anywhere from 30 seconds to 5 minutes. This style thrives on quick cuts, so don't
+stretch it out. A tight runtime keeps the punch. I kept mine to 1 minute. What you get back is the full
+narration broken into numbered sentences. Each one is a single revelation, one line, one image, one clip. My
+1-minute version landed at 25 beats. Drop that script into a doc and keep it open. You'll be pulling from it
+for the next two steps. Mistake to avoid, resist the urge to smooth it into paragraphs. That one revelation
+per line structure is what keeps the rest of the pipeline automatic. Flatten it and the whole system breaks.
+Script's done. Now it needs a voice that sounds like it's uncovering something, not narrating it. Step three,
+turn the script into a voice. Head to 11 Labs and open text to speech. First move, switch over to the V3
+model. It's what gives you that natural, emotionally loaded delivery. And on an investigative piece like this,
+the voice is doing half the work. Choose a voice that matches the energy, clipped and urgent beats calm every
+time. You want investigative journalist energy, not a calm documentary narrator. Don't dump the whole script
+in at once. Feed it a few sentences at a time, generate, listen back, download, then move to the next chunk.
+Large pace are where the voice starts to drift and lose consistency. Repeat until every line is voiced. Quick,
+honest note, the free 11 Labs tier caps out around 10,000 characters a month, about one video's worth. If
+you're planning to publish often, that ceiling is worth building your schedule around. The voice is locked in,
+time to build the case file. Step four, generate every image prompt. Back in your Claude chat, type next. That
+triggers stage four. Claude converts every line of your script into a full paper cut style collage prompt, one
+per beat, numbered in sequence. Skim a few of them. Each one nails down the dossier piece, the redaction or
+document, the torn newsprint backdrop, the lighting, the sepia and red tone. [snorts] That shared DNA across
+every prompt is what keeps the final video feeling like one investigation instead of a stack of random images.
+Grab the entire list, you're pasting it all in one shot next. The file's written. Now, let's print every page
+of it. Step five, bulk generate the images. Open Google Flow, spin up a new project. In the prompt settings,
+set Nano Banana 2 as your image model. Then pick your aspect ratio, 16 by 9 for long form, 9 by 16 for shorts.
+Skip pasting prompts one at a time, find the agent option instead. It's built specifically for running a full
+batch in one pass. Inside the agent, type insert all scenes. Paste your full prompt list right underneath,
+then send it off. The agent will churn through every frame on its own back to back. Walk away and let it run.
+Once it's done, open the three-dot menu on each image and rename it by beat scene one, scene two, and so on.
+Then download the set in order. Mistake to avoid, don't skip renaming. Your story only makes sense in beat
+order, and your edit depends on it. Every page is printed. Now, let's make it move. Step six, animate every
+scene. Back in the chat, type next. Stage five hands you the universal video prompt one animation instruction
+that applies to every single image. Pay attention to what it's actually doing, because this is where the style
+comes alive. The camera stays completely locked, no zoom, no pan, no drift. Each collage piece slams into
+frame with a small shake over the first 2 seconds, and any redaction bar comes down with a hard thud. After
+[snorts] that, it settles into a living dossier, page grain flickering, a page corner lifting, light pulsing
+like an old film projector. That locked frame and hard impact are the whole trick. It's what gives this style
+its punch, instead of the usual smooth AI drift. Back in Google Flow, switch over to the video model, then set
+your clip length to match your pacing. Reopen the agent and type insert all scenes one more time. Paste the
+video prompt in first, then your full numbered list of images right underneath it and send it off. The agent
+will show you the credit cost up front, approve it, and every scene animates on its own. Pull your clips down
+in order. Visuals done. The file's alive and moving. Time to put the whole case together in CapCut. Step
+seven, assemble everything in CapCut. Drop every asset into a single folder. First, voiceover files, numbered
+clips, music track, open CapCut, start a new project, and import that folder in one go. Lay your music down
+first and pull it back to around minus 20 decibels so it stays under everything. Then bring in your voice
+files in order and push those up near 10 decibels so the narration cuts through. Zoom into the timeline and
+stack your clips above the voiceover in beat order, trimming each one so it lands right as its line hits. Once
+it's synced up, drop a glitch or static transition between beats. It reads like an old broadcast cut and fits
+the tone. Add a film grain overlay and a vignette pulled down to around 60% so the edges darken just enough
+for the newsprint texture to pop. Want headline text on screen? Exposed. Breaking news. Missing man. Add it
+here in CapCut instead of baking it into the AI images. It stays crisp and you can restyle it anytime without
+regenerating a single frame. Run it once, start to finish, check the sync and the pacing, then export at 1080p
+or 4K. >> A small town, a quiet bank, a missing man. Martin Hale audited accounts for 11 years. On March 3rd,
+he vanished without a trace. His car was found running, door open. His briefcase was gone. >> That's a full
+paper cut animation style with one prompt, free tools, [music] and one finished video with the same engines
+ready to run the next one. Start with a 30-second cut today. Pick a case that actually pulls [music] you in,
+run the master prompt, and see what comes back. The first redaction bar you watch slam into place is what
+sells you on this. Drop Vox in the comments [music] with a case you're starting on. I'll reply with a beat
+idea that'll look great in redacted collage. And if you haven't seen the Vox style version of the same engine,
+that one's up next. Subscribe to AI preneur, and I'll catch [music] you in the next one.

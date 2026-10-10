@@ -1,0 +1,293 @@
+Title: I have too many Gemini AI business ideas (17+ to steal)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: LtMMH0S0ESE
+URL: https://www.youtube.com/watch?v=LtMMH0S0ESE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:30:27+00:00
+
+Kind: captions Language: en I have too many AI business ideas, and honestly, there aren't enough hours in the
+day for me to be able to build them all. As an AI engineer at a billion-doll media company, I spend every day
+building AI systems for real business, even building up my own agency [music] that made $8,000 per month on
+the side of my last 9 to5 IT job. So, these ideas just keep piling up faster than I could chase them. And I'm
+way too locked into my current lane to build all of them myself. Even though I know a bunch of these would
+turn into a spare $2,000 per month, some can combine into a full replacement for a 9 to5 and a couple into
+businesses that are bigger than I've already run. So instead of just sitting on them, I'm handing you 17 plus
+of [music] them right now. While most AI channels on YouTube tell you to just start an AI agency or to sell an
+AI audit that frankly nobody will actually pay for. I'm talking about specific plays that you can actually
+start this weekend with nothing but a laptop and Google Gemini. The easiest AI to start with for beginners.
+Now, the idea is only half of it. So, for every single one, I'll break down exactly why it works with the goal
+that once you see why, you stop waiting for someone to hand you the next one and start spotting these ideas
+for yourself. Here's the crazy thing, though. Most of these were flatout impossible for a solo person to build
+just a couple years ago. You needed a developer, investor funding, or a computer science degree. But that wall
+is now gone with AI. And the people actually making money on the internet are the ones who are taking action
+on this new superpower, productivity while everyone else is just stuck watching tutorials. So keep something
+open to take notes because a few of these are going to hit you and you'll be like, "Wait, I could actually
+build this myself." And stick around because the last few are the ones that I would personally build for
+myself if I were starting from zero today. Now, before we dive right in, let's start by defining what actually
+makes a good AI business idea. Now, there are four specific criteria that I look for in an AI business idea to
+put it onto this list. If it checked all the boxes, then I'm going to give it to you here. The first one is
+that we wanted to be able to run with one person. The whole idea is that this is something you can do for
+yourself and you could do on the side until it's big enough to become your own thing. The second one is that
+it's a repeatable process, meaning that you can build a system around this to where each time you perform the
+action, it gets easier and easier, which is great for AI. The third one is that it doesn't take all of our
+time. And this really ties into the fourth one of that AI handles the parts that we aren't good at. So AI will
+take on chunks of the business execution so that we're not stuck doing the things that we're not good at and
+so it doesn't take all of our time up. Now that the idea is on our list, there are three things that you
+should be checking throughout the video for each idea to determine if this is the right one for you. And this
+is what I call the three Rs of your unfair advantage. And the three Rs are roots, range, and reach. Roots
+means that you have experience working in this industry before. So, it's not something that's completely brand
+new that you're going into. Range means that you have the skills to execute whatever service you're planning
+on doing. And reach means that you know people or contacts in that field. As a real example of this, one of
+the companies that me and a partner worked with is called Maxwell Social, which is a really cool event venue
+based in New York City. And we were able to help them find over a 100,000 qualified leads that they're able to
+call up and close for 5 figure event deals. And the reason that we were successful with this was because we
+checked a lot of those three Rs for our unfair advantage. If we look at our roots, we'd actually done some
+work with another event company. So, we have industry experience here. If we look at our range, our skill sets
+were complimentary to what we were doing. I had experience in AI and automation and he had experience in
+generating leads and finding customers because he had a sales background. So, that's also a check. And lastly,
+when it comes to reach, if we looked on our LinkedIn, we had a couple of contacts that were already in the
+event space. So, that is another check. And we checked all three of these boxes which made it a good business
+idea. So as we go through each of these for yourself, make sure to think of these three Rs. And even if you
+check just one of them, consider it a good idea to start pursuing. The order of this is going to go from the
+simplest ideas first, go through a little bit larger ones, and eventually we're going to come to the big one
+at the end that I would personally start if I were starting from zero. Let's start with number 17, which is
+selling AI skills. If you watch any of the videos on my channel, you'll notice something similar between them
+all. As soon as you go into the description here, you'll notice that there are free AI skills, and they link
+to this Gumroad page here where I have them all listed out for $0. And I have dozens of them here. Now,
+although I give these out for $0, I've still sold between 4 and 5,000 copies of them at the time of this
+recording, and people have donated over $250 to these free AI skills. So imagine if you actually charge for
+these. So the idea is pretty simple here. If you are using AI in your current dayto-day job, you probably have
+a bunch of very valuable AI skills. And if you don't, you can make them pretty easily. At that point, it's all
+about being able to market them well. So you would create some form of content for your particular niche. And
+within the videos, you would use your skills. That way, people will see how great they are and how useful they
+are, and they'll want it for themsel. I'll show you a real example of this right now. One of the skills that I
+built out here is a business builder, which will help you find a good AI business idea and give you some
+advice on finding your first customer based on your current experience from your resume or your LinkedIn
+profile. Now, there's a link here where you could just download it by putting in your name and your email.
+This is where you would add some kind of money if you were going to charge for it. Now, I'm going to show
+myself using this just like you would in your videos, and I provide a link to this in the description below
+for anyone else who wants to download it. This one is totally for free. Once you download it, you can go to
+Gemini and switch over to Gemini Spark. Then, in the skills section here, you would click the upload button
+and drag in the file. And you should see this freedom founder builder skill. You'll know this works if you go
+into the chat and do /freedomfounderbuilder and it pops up. Then you either take your existing resume or you
+go to your LinkedIn. You click these buttons and you click save to PDF. And back in the chat here, you can
+just upload that file. You can see it attached right here and then you click go. I recommend doing this in the
+Gemini desktop app because in the end it'll come up with a dashboard that you can open up in your browser. You
+can see here that it comes up with my validated business idea based on my current experience and it goes over
+those three Rs of unfair advantage that we spoke about and how I can check all of these boxes with my idea.
+Then it gives me some ways to find customers with a custom LinkedIn search here. That'll bring up an entire
+list of people who are valid for my business with some words that I can use for outreach. There's a few more
+tabs here on how I can set up freelancing to land customers with messages around proposals and how I can go
+about making content for this. But at the end is a step by step of exactly where I should start. So again,
+this idea is great if you're already working with AI skills and you're okay to make a little bit of content to
+market them. That brings us to number 16 here, which is selling digital products. This is super similar to the
+last one of AI skills, and that you can set up just a Gumroad page to sell them, but instead of putting AI
+skills here, you would do other digital assets. Now, a good rule of thumb here is to do things that are very
+specific for a particular niche. Here is an example of that. So, if you are setting up a Google sheet, you can
+build this out with Google Gemini. And let's say there's an expense tracker that you like to use, you could
+just sell an expense tracker which is available to anybody. But as the saying goes, if it's for everybody,
+then it's for nobody. So, instead, what you should do is think about an area that you work in or an interest
+that you have and turn this digital product into something that's very specific for that. So, a good example
+is turning an expense tracker into an expense tracker for tropical climate gardeners. Now, anyone who is a
+tropical climate gardener will see this template and think that it is specific and perfect for them, which it
+is. So, instead of charging $10 for something, you can then charge $100 for what is 90% the same thing. That
+brings us to number 15, which is offering SEO, AEO, or GEO services. If you aren't familiar with these, these
+stand for search engine, generative engine, and answer engine optimization. With these last two ones being
+about AI, the whole purpose of these is to help different companies have their products and websites show up
+in different searches, whether it be a Google search like SEO or AI generations or even chatbot responses.
+Now, the thing is, there are already a lot of skills that can help you out with this. I found this one here on
+GitHub that was built for Claude but works with Gemini and I would argue that it works even better with Gemini
+because Gemini is built into Google where people are doing their searches. So all you have to do is download
+this skill.md file and once you upload it you could do / SEO Geo AEO. Then I gave it a website and told it to
+run a full audit. So you could do this for any other company that has a website. And at the end, it spit out
+this PDF here of exactly how this website will rank on SEO, GEO, and AEO. And it breaks down all the different
+components that go into it. So, think about running this for another company, identifying the areas that
+they're not good at. So, it either needs work or it's missing, and then finding other AI skills that help you
+dig deeper into these so you can give them advice on how to fix it. That brings us to number 14 now, which is
+building AI websites. You may have noticed on the internet now that there are a ton of websites that just look
+the same. They're all built with a big title header with a small subheader, some buttons here, and a
+navigation bar up top. All of those are present in this one here. They're available in this one here, too, and
+even in this one. So, why do they all look the same? That is due to a phenomena termed AI slop. You've
+probably heard of it, which basically means that there's a bunch of low-quality mass-produced digital content
+that was made with AI that lacks meaningful effort. So, although it's easier than ever to create AI websites,
+most of the time they come out like AI slop. We could even check out the web traffic here using an extension
+in Chrome called Similar Web and see that these ones don't actually get a ton of traffic. This one has an okay
+amount, like 2,000 views per month. And this one over here gets it doesn't even have enough to register. So
+the whole thing here is having the taste to be able to build AI websites that don't look like AI slop. And for
+this I recommend using Google's anti-gravity which is its coding agent. In my opinion just a more
+beginnerfriendly version of claude code. But if we look at this website which was very wellb built, we can see
+that the web traffic here is like multiple million per month. So, if you can build websites quickly and
+effectively using AI, but not make them look like slop, then this could be a good option for you. Number 13 on
+the list is vibe coding an app. Now, this is super hard to pull off effectively. There's this term that was
+popularized from Silicon Valley, but comes from this baseball movie called Field of Dreams, which states, "If
+you build it, they will come." Which is the mindset that a lot of people have when they're making apps. But
+it's actually totally backwards and you should not think this way at all. When I first started down my AI
+journey, since I had an engineering background, I thought I would just vibe code some apps. So, I spent
+months, probably over 6 months, building three different apps and doing so with some manual coding and
+eventually more with vibe coding. This one here was to compile different social media feeds into one place.
+This one here used AI to help you generate different recipes. And this one here helped with cloud
+infrastructure and how you can deploy it more effectively since that was my day job. But the problem is I
+spent all this time building these apps and at the very end I thought I had something cool but nobody was
+actually there to sign up for it and pay for it. So it's not even an effective business if you can't get
+anyone to pay for it. So here's the question that you should ask. Do I know someone who would be so excited
+about this that they would buy it right now? If the answer is yes to this, then you should actually try to
+collect the money from them. And if you can, then go ahead and start building. If you can't, just like I
+couldn't say yes to this, then you should avoid building that app and move on to another idea. But if you do
+go down the building path of it, again, you can use anti-gravity CLI from Google. Before we hop into the top
+12, I want to let you know that I'm offering free AI coaching calls for those who are looking to start or grow
+a oneperson business using AI. I really want to learn more about you guys and the problems that you're facing
+so that I can make the best content possible. So, if this is something that sounds interesting to you, then go
+ahead, click the second link in the description to book a free one-on-one coaching call directly with me.
+Number 12 on our list is going to be ad creation. Working in media, ads are a big part of the business model,
+and there are two different workflows that go into generating ads. One is creating variations. So you can see
+for this target ad here, they took the same ad and made three different variations to see which ones perform
+best. This is what's called AV testing. And I do the same thing for my YouTube videos where it was very easy
+to identify which one was outperforming the others and brings in more traffic. The second one is new ad
+generation. So, taking existing ads that performed well in the past, either from yourself or from competitors,
+taking elements from each of them, and coming up with something that is considered new, but you believe will
+perform well because it has parts of ones that performed well in the past. There's a bunch of different image
+generation models out there, but my favorite that I like to use all the time is built into Google Gemini
+already, which is Nano Banana. within Gemini. All you have to do is click on this images tab right here. And
+you'll see that it is now enabled. And you can see what I was able to create with just a single sentence here
+to create a back to school ad for Target. So, what you would do is drag in references and use them to generate
+new ad images. Number 11 on the list is all about lead generation. If you could tie directly to getting more
+customers for another company, then it's really easy to tie and be able to make more money. We can take a look
+at Maxwell Social again as an example. At its most basic level, we want to come up with segments that we can
+target from their target audience. And it starts with finding a big pool of people to start with. A simple
+example of this is running a prospect discovery in Google Gemini, which can then output a bunch of different
+names that it finds directly into a Google sheet. With those names, you can then divvy them up into different
+segments based on different attributes. So as AI is pulling it, it can determine what is its geographic
+location, what is the demographic of the customer, what are some things that they're thinking about, what's
+their psychographic, and what is their behavior look like? And as AI is grabbing all these lists of people, it
+can then split them up into different groups. So for this example, we found people that were based in New York
+City as one segment, and we found people that were newly hired with a vent in their title as another segment.
+And then another one was like what industry they worked in. So finance was an example. Then you provide this
+information to the company so that when they reach out, they can be much more specific with their targeted
+messaging because it's much more likely to get a reply when you say, "Hey, I'm looking for finance companies
+based in the New York City area." As opposed to just saying, "Hey, I have a service that I think I can help
+you with." So it helps increase the specificity at scale. Related to this, at number 10 is running cold email.
+Once you have a whole list of leads, now it comes to reaching out to them. Here's a real example from the
+agency that I was running. We were running a service that was AI for coaches. So, we were targeting online
+coaches, agencies, and consultants. Within one week of our first campaign, we sent over 900 emails, which when
+you use AI, doesn't turn out to be a ton of effort. From there, we got a 4% reply rate. And within our first
+week of running this, we booked four sales calls with people that we've never met or even talked with before.
+Now with Gemini since Gmail is directly built in once you get your list of people you can say to draft
+atgmail. You can see here if I do at@gmail it links directly to the service and say to draft up emails to work
+with them. And since we already know a bunch of information about the people from the lead generation, we can
+reach out with highly specific messaging saying hey whatever their name is I came across your company and
+thought it was a hightouch brand working with these specific type of people. So, we're calling out information
+directly about this company. And again, I didn't make this myself. AI created this entire thing for me, even
+linking to my calendar. Number nine is executive recruiting. When I first graduated from college, I worked at
+a Fortune 500 company called Estee Lauder that owns a bunch of other beauty companies. And I had a cool
+opportunity to travel to Koala Lumpur in Malaysia and build out a new hiring center. You can see here all the
+people we hired. And there I am right here. Now, this whole process was a lot of back and forth emailing and
+scheduling when in the end I wanted it to be something that was easy. So, I built a lot of automation to help
+with easy submissions and automatically sending calendar invites. With AI now, you can easily grade based on
+the submissions and automatically grade interviews as well from their transcripts. Since a recruiter's
+commission comes directly as a percent of the salary that they're able to land for the person they're hiring
+for. What this automation would do would increase the number of candidates when you look for specifically
+executives that increases their salary. And overall, that would increase the recruiter commission and the
+amount that you're able to charge for your service. Within Google Gemini, we can use a service called Google
+Workspace Studio. And we can set up flows so that when a form submission comes in from a candidate, we can
+directly ask Gemini to grade their resume and set up a meeting if they're a good fit. Or after we finish the
+interview, we could take the transcript. We can ask Gemini to grade them. And then if we're bold enough, we
+can email them directly or email a hiring manager saying that this person looks good and we'd like to move
+forward. That brings us to number eight, which is IT services. Again, back in my Estee Lauder days, I was on
+the cloud team and we used what's called Microsoft Azure. And one of the big things I did was fully automate
+server upgrades and contributed to AI initiatives. When you're working with cloud servers, a lot of times the
+provider like Microsoft will give updates. So going from like version one to version 1.1 and you have to
+upgrade all these different servers here to the next version. Now, initially this would take an entire IT
+cloud team the full weekend to do. But when I added in automation and AI, it went from this long process into
+one that took two team members 2 hours to complete. So, saving their entire weekend. So, if you have an IT
+background, you can use Google Gemini to build out these automations. And it works even better if you're
+working within Google's cloud platform. Number seven is becoming a content manager. If you scroll through
+LinkedIn, you'll notice that there are a lot of posts that look the same. It's a lot of these infographic
+style posts. This guy Chris Donley is a great example. He has over a million followers on LinkedIn and runs
+this huge SEO company. And pretty much all of his posts are these infographics. Now, do you think he's the one
+that's actually creating these? No, of course not. He has a team of content managers that will create and
+manage these posts for him. Now again with these image models, Google's Nanobanana is great at doing this and
+I've actually done it for myself. I use Nano Banana to create a number of different LinkedIn infographic posts
+specifically around AI. So you can reach out to business owners on LinkedIn and help them create more content
+on LinkedIn which brings in inbound customers. I was actually able to land sales calls based on my LinkedIn
+infographic posts. If you want to take this to the next level, you can become a LinkedIn creator for yourself.
+One of my friends here from college, Megan, is a LinkedIn creator about data science and technology and talks
+about AI as well. And she's been open that she's made seven figures from doing this. So, it's the same thing
+of creating images using AI that you can post on LinkedIn, but you could also talk about AI in your posts.
+Here's the example of the one I was talking about that got a ton of impressions here over 20,000 and even led
+to booked sales calls going into the top five. Now, if you're not afraid to get in front of the camera for
+yourself, you can be an AI YouTube creator. I have a bunch of friends that are doing this as well. Patrick
+Deng here is helping people scale their business with AI. Sandy is helping people create content with AI. And
+then you have me as well. And there's multiple different ways that you can monetize within YouTube. I mean,
+first off, you have the just monetization through YouTube ads, but then you also have people who can tip and
+subscribe like with Patreon. You have working with brands through affiliate deals, through sponsorships, and
+then you can even sell your own merchandise. Now, it sounds great, but this definitely is a skill that you
+need to get good at and master because you need to find the best topics that are in demand. Learn how to
+package them in a way that's catching attention over others and learn how you can present them in an engaging
+way that people actually understand. I mean, even just looking at my content from the early days where I was
+getting, you know, barely 400 views, this one got like under 150 views to learning this skill and getting
+better and now having multiple videos that got over 20,000 views. You can see it's definitely a skill and you
+can have AI help you. I have multiple different skills that I use to help me create YouTube hooks and the flow
+of the video. Number four on the list is becoming a video editor with AI. Google has a few of its own video
+generation models. So, you have Gemini Omni, you have Veo 3.1, and you can see some of the differences here,
+mainly being about reference images, the length of the clips, and how conversational and back and forth that
+the model can go. And in Gemini, all you have to do is go on the left here and click on video. I've created
+videos with Gemini that I've used within my YouTube videos. You can see this one here is popups for a number
+of items. So, when I have a video that goes over four different steps, I'll use this as an example, but you
+can even take it to the next level and use other AI tools. Like I use Dcript to help me record and edit using
+AI. Moving into the top three, we have small tomed medium-siz business client onboarding. I worked with a
+company called RedMax Events, and they put on cool corporate events for companies like Wonder and Sapphire and
+eBay and Duncan, a bunch of really cool ones. And they were spending over 5 hours per week just taking new
+clients and putting them into their new systems. So we look at like monday.com, Google Sheets, Dropbox, Quick
+Company Cam, a bunch of different ones. And instead, I built out an agent automation that did this in under 60
+seconds. And in Gemini Spark, you have connected apps that allow you to access all these different sites
+directly from Gemini. So once you get some information, you can put it directly into all these different
+platforms. You can see Dropbox is even right here. And if it's not on this default list, you can add custom
+ones like I did below. Number two on the list and one of the top ones that I recommend for people who
+especially don't really know exactly what they want to be doing with their AI business idea is to do
+freelancing on Upwork. And it's actually the way that I first started to land my first clients. If we look at
+the five levels of awareness, we'll understand exactly why Upwork is such a good platform to get started on.
+While most of the time with your business ideas, you need to target people that are completely unaware that
+they even have a problem to begin with. Or maybe they know that they have a problem, but they don't know what
+solutions are out there. And even if they know what solutions there are, they don't know about you as a
+potential way to solve it. All of that is eliminated with Upwork because you focus on these top sections here.
+They know about a specific product that they can use to solve their problem, and they're making a post about
+it to try to get it solved. So maybe they want a specific Gemini or clawed solution. They're going to make a
+post that they want someone to help them build it. Then when you apply, they become the most aware. They know
+that you are an option to solve their problem. And all you have to do is convince them that you are a good
+person to solve their problem. Now, I have 100% completion, top rated, multiple five-star ratings, and I've
+made over $3,000 on this platform. And a lot of the jobs that I focused on were around this platform called
+N8N, which has all these different nodes that you create AI automations for. And I would ask Google Gemini to
+help me create the code for these that I would copy right into NADN. But if you don't want to work directly on
+AI, you can do things like copywriting. And you can see all these different jobs that are available. And if
+you're good at copywriting, you can guide AI to help you write copy. But think about doing this for whatever
+skills you currently have and turning those skills into something that people will pay for. Number one on this
+list isn't something that's totally flashy or exciting, but it's proven to work time and time again, and that
+is to do consulting work. You're probably thinking, "How can I use AI to do consulting work?" But let me show
+you an example of how one of these companies that I worked with was executive leadership coaching where she
+would go to all these different companies that needed help with their leadership teams and help them basically
+just solve their problems. But the process that they would go about this took over a week to do it. First they
+would get client design systems to create slide decks in their client style. Then they would create those
+presentations using all the different coaching strategies that they have plus the company issues that they
+found from discovery. Confirm it all with the head coach at the end. Build out the slide deck to present to
+them and then add in speaker notes at the end. So instead, what we did is we used different connectors as well
+as skills to turn that into a seamless flow process to where one we'd go into the Google Drive and get all the
+information about her coaching philosophies and the frameworks that she uses. Then we'd go into Google Docs
+and get transcripts and notes from all the calls that they've had with the company to understand their
+problems. Then we put those together with the client design system to create a Google Slide deck. And this
+deck was able to be customuilt into their exact design style, talked about the problems that they were facing,
+and used her coaching philosophy and strategies to solve them. And it even added in speaker notes at the end.
+So that turned what took over a week long into something that took less than a day to complete. And the real
+value ad here is taking the skills that you already have and have built up using AI to make the execution
+easier and then turning that into a business that you can help others with. Now you have 17 different AI
+business ideas that you could take and use for yourself. And if you've been thinking about the three Rs of
+your unfair advantage, you'll know which ones are the best for you to target right away. Now, I don't just
+want to go leave you with all these ideas here. I want to help you with three options that you can use to take
+as next steps. The first one is if you want a more custom business idea and plan to execute [music] on. You
+can use the first link in the description to download the business builder skill. The second option is if you
+want personalized feedback directly from me on your exact situation. And for that, I'm offering a limited
+number of free coaching calls where they'll be one-on-one with [music] me so I can learn about the problems
+that you're facing. You can book this call for yourself with the second link in the description. And the last
+option [music] is if you want to continue learning about AI tools before you start building. And for that, I
+created a video that you can watch right here on 20 hacks for Gemini AI on building a oneperson

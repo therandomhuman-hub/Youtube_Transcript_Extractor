@@ -1,0 +1,179 @@
+Title: Create Stickman Animation Videos On Phone FREE (Full Tutorial)
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: 2zpM7v5alLs
+URL: https://www.youtube.com/watch?v=2zpM7v5alLs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:57:56+00:00
+
+Kind: captions Language: en You want to make AI stickman animation videos. You grab your phone, open YouTube,
+and search for how to make AI stickman animation videos. All you find are tutorials for computers, but you
+don't have a computer. How can you make these videos? Actually, you can, and it is actually easier on mobile
+phones, only if you have the right tools and workflow. I also searched for apps to make these videos, but I
+didn't find anything. Should we stop here? Of course not. I've created apps specifically for making these
+videos on your phone, and I'll share them with you in this video. Not only that, I'll explain the complete
+correct way to make successful stickman animation videos, from the video idea to writing the script, creating
+the voiceover, and even generating the images. And most importantly, I've created a dedicated app that
+assembles your video in seconds without using any video editing app. All of this is free with no limits,
+subscriptions, or account creation. Before we start, I want to tell you a very important thing. It's about
+your mentality. Please, please, please keep learning and practicing. You have to do the required work to get a
+high-quality video in the end. Take your time. Don't rush. It is not about quantity anymore, it is about
+quality. You will get your chance, so be ready for it. Now, let's start. Step one, choosing a video topic. As
+I always say, do not choose the video topic based on your personal opinion, and do not let AI choose it for
+you. The video topic must already be successful with an audience that is actively searching for it and
+interested in it. And that is simply how the YouTube algorithm works. YouTube does not care about the topics
+you personally choose. It only cares about what the audience wants. That is why the algorithm is always
+looking for what the audience is interested in right now, and push more videos about that topic to the same
+audience. It's simple. If your video topic is in demand, YouTube has no choice but to recommend that video to
+more viewers. In this case, YouTube needs you. To find a topic that interests the audience, go to a successful
+channel in your niche. In this tutorial, we will choose the niche of videos about how ancient humans lived.
+This channel is actually getting very impressive numbers and growing quickly. Go to the videos tab and sort
+the videos by popular. We are looking for videos that were published within the last 3 months at most, but are
+also ranking high among the most viewed videos. In this case, this is the video we are looking for and its
+topic is, "What did ancient humans do all day?" So, we have identified the video topic. Let's move on to the
+next step. Step two, generating the script. I will use the Chat GPT app. You can use whatever tool you prefer.
+We will use our first master prompt in this video, which is specifically designed for writing the script and
+it is not an ordinary prompt. The prompt gives the AI specific instructions for writing a script with certain
+characteristics. The instructions have one goal. It is to make the viewer engage with the video as much as
+possible. It encourages the viewer to comment on the video and share their opinion. And this is one of the
+strongest signals that the YouTube algorithm looks for. There is engagement on the video. That means this is a
+good video and recommend more viewers. That's simply how the game works. Copy all the prompt. Go to Chat GPT
+and paste it. Tap send. Within seconds, the chat will respond with, "What topic or question do you want the
+video to be about?" We will reply with the video topic we identified earlier, "What did ancient humans do all
+day?" Then tap send. The chat will respond with, "How long do you want the video to be?" Here, we will specify
+the approximate length of the video we want. In this video, we will create a short-form video just to test the
+workflow and tools. Then, we can use the same method for creating long-form videos. If you want a dedicated
+tutorial for long-form videos, let me know in the comments. In the chat, type "40 seconds." The chat will
+respond with this message. It wants you to confirm your request. Type "Okay" and send it. The chat will write
+the script for you. Now, we have the script and we are ready for the next step. Step three, generating the
+voice over. Now we will convert our script to a speech. For this purpose, I created this free TTS app. To
+install it on your Android phone, open the APK file and install it. You may need to tap install anyway or scan
+the app file before installing it. This is because you are not installing the app from Google Play. We will
+install all the required apps later using the same way. After installing, open the app. The app includes all
+the languages you could possibly need and a wide variety of voices. And here I want to clarify something. The
+voices may not be as perfect as those offered by paid websites. However, there are still many good voices in
+the app that are suitable for this type of video. Trust me, imperfect voices can actually attract the viewers'
+attention more. The human mind gets bored with things that are too perfect and predictable. More unusual and
+imperfect something is, the more the mind stays alert, notices what is different, and makes an effort to
+process and understand it. Of course, you can use 11 Labs or any other tool, but trust me, the more different
+you are, the better. In addition, all the voices in the application are free, no copyrights, and have no usage
+limits. Copy the script from Chat GPT, then paste it here. Choose the language from here. As you can see,
+almost every language in the world is available. Then choose the voice from here. You will find that each
+language has many different voices. You can add a voice to your favorites here, so that you can use it later.
+Take your time experimenting with the different voices. Trust me, there are some really good ones. I'll choose
+this voice for the test. Let's listen to it. >> What did ancient humans actually do all day? You might imagine
+endless hunting, wandering, and sitting around a fire. But most of their time was probably spent doing
+something much less dramatic. Finding food, preparing it, making tools, collecting fuel, carrying water,
+building shelter, and caring for children could consume huge parts of the day. And here's the strange part.
+They probably didn't experience their lives as one endless struggle for survival because humans also spend
+time talking, playing, making art, resting, and maintaining relationships. So, when you imagine an ancient
+human's ordinary day, are you picturing a life that was completely different from yours? Or just a life where
+the same human needs took up most of the day? >> Not bad, right? Now, before saving this voice over, we have
+an option here to remove the silent moments from the audio. This makes the voice over much more engaging. I
+recommend enabling this feature, especially for shorts and reels videos, but the final decision is yours. This
+feature is only applied when you save the voice over. To download the voice over file to your device, click
+here. Choose where you want to save it on your device, then give it a short name, so it will be easy to
+identify later. And be careful and don't change the extension of the file. Then click save. Wait for the app
+to finish. Now, we have the voice over and we are ready for the next step. Step four, create the SRT file for
+the voice over. This is the step that determines whether your video looks professional or not, and no one will
+ever tell you this secret. You may watch many videos of this type and notice that one video looks very good,
+while another one does not look good at all. The whole secret is here, the SRT file. It is literally the
+secret ingredient behind successful videos. It is also what we will use to create the captions in the final
+video. If you don't know what this file is or what role it plays in the process, let me explain briefly. This
+file divides the sentences in the script so that they match exactly with the time they are spoken in the voice
+over. It precisely defines the start and end time of each sentence, synchronized with the voice over. In the
+upcoming steps, we will turn each sentence into an image, and the SRT file will handle the editing process for
+us. I created an app that generates the final video in seconds without any editing from you. You will see that
+in the upcoming steps. To create the SRT file for the voice over, go to this link and you must be logged in in
+your browser with your Gmail. You will find all the apps and prompts used in this tutorial in the video
+description and the pinned comment. Then click here to launch the tool. You will see this message. Click run
+anyway. Wait to be connected. Then wait a moment for the tool to be ready. Then this public URL will appear.
+Tap on it. Wait for the tool to load. You will see the tool interface like this. Tap here to upload the voice
+over file. Then wait until the upload is complete. After that, you have three options. Tap sentence SRT, then
+tap transcribe. Within seconds, a preview will appear here. Click here to download the SRT file to your
+device. Select where to download it. Then download. Then go back to the tool and select word by word SRT, then
+tap transcribe. The result will appear like this. Click here to download the second file to your device.
+Select where to download it. Then download. Go to your file manager where you downloaded the files. Now we
+have two SRT files, but Android doesn't recognize SRT files, so it added .txt at the end of its name. Now we
+need to rename the files and remove the .txt at the end. The file name must end with .srt. Rename the two
+files. You may see this message. Tap okay again. Now the extension of the file is .srt. Let's do the same for
+the other file. You will know the role of each one in the upcoming steps. Don't forget to close the tool in
+your browser. We are now ready for the next step. Step five, improve the sentence SRT file. In this step, we
+are going to review the sentence SRT file. As I told you earlier, each sentence in this file will be an image
+in the video. So, here you need to decide what should be a scene in the video and what does not. To make this
+process easier, I created this tool for you. It is compatible with mobile devices. From the web browser on
+your phone, go to this link. Subtitlestudio.bahai.com. Before I continue, remember one very important thing.
+We are trying to create a high-quality video. That means you need to put in the necessary effort. Don't rush.
+Don't create your videos quickly and carelessly. The effort you put in will reach the viewer. Always remember
+that your goal is for the viewer to enjoy the video. And if you succeed at that, you will win the YouTube game
+very easily. Now, let's start reviewing the sentence SRT file. Click here to select the voiceover file we
+created. Then click here to select the sentence SRT file. Then click load timeline. The voiceover file will
+appear here. And above it, you will see the different sections of the SRT file. If you click on any section of
+the SRT file, it will be selected. You can edit the text written in this section from here. You can improve
+the start time of an SRT section by dragging its edges at the exact point where the sentence begins to be
+spoken. You should consider each section of the SRT file as a scene in the video. You can split a specific
+section using this button. You can delete it if necessary using this button. You can undo any change you make
+using this button. This button deletes everything. Take your time to make the SRT file match the audio
+professionally. Split the sentences when necessary. Do not spare any effort here because this file is what
+will actually create your video. After you finish everything, go to the top and tap export SRT. And that's it.
+This is our edited sentence SRT file. Now we are ready for the next step. Step six, create the storyboard
+images. This is where the fun begins. We are going to create the scenes for the video, but we are not going to
+create one image at a time. Instead, we will create a storyboard image of nine scenes at once each time. This
+will make the image generation process much faster and easier. And most importantly, we will get a consistent
+style and consistent characters throughout all the scenes in the video. For this purpose, we will use the
+second master prompt in this tutorial. Copy the master prompt for generating the images. Then, this time, I'll
+go to the Claude app. Paste the prompt here, then send it. The chat will respond with this message. It wants
+you to send it the edited sentence SRT file. Tap this plus sign, then select the edited SRT file from your
+phone, then send it to the chat. The chat will respond that it has read the script and is ready to start
+creating the prompts for the first nine scenes. Type "Okay" and send it. The chat will respond like this. This
+is not a prompt for a single scene, it is a prompt for nine scenes at once. Now go to the Flow app on your
+phone. Create a new project. But before creating the images, we need to determine the image style you want. To
+do this easily, go to YouTube, then search for a thumbnail created in the style you prefer. Take a screenshot.
+Then crop it so that only the thumbnail itself remains. Then save it to your device. Go back to the Flow app,
+tap this plus sign, then tap image, then select the thumbnail you saved. Go back to the Claude app and copy
+the prompt it sent you. Return to Flow and paste the prompt. Click here and select these settings: image 9 16,
+one result image, model Nano Banana 2. Then tap send. Flow will create the first batch of scenes. Look at
+that. Nine scenes with the same style and characters. Don't worry, we will split them later with a single tap.
+Tap here to download the image. Choose 2K. Wait for the image to be saved. Now let's go back to Claude. Type
+okay and send it. Claude will create the next nine scenes. Copy the prompt and go back to Flow. With the image
+you created opened, tap edit, then paste the second prompt. Then send it. Flow will create the next set of
+scenes. And this is the result. Same style, same characters with minimal effort. Now save the image in 2K like
+we did before. Now back to Claude. Type okay and send it. It will send you the third prompt. And under it you
+will see it is the final batch. That means the SRT parts are finished. Copy the prompt, back to Flow. Tap edit
+and paste the prompt and send it. And this is the result. Our scenes are finished. Save the third image in 2K.
+Now all the images have been saved to your phone. Go to your file manager app. Create a new folder for the
+images we download. Then, find the storyboard images we downloaded from Flow. Select them all. Move them to
+the images folder we created. Go to the images folder. Sort them by date modified to order them correctly.
+Rename the first image to be one. And the next to be two. And the next to be three. Now, we have all the
+storyboard images and ready for the next step. Step seven, split the storyboard images. To make this process
+as easy as possible, I created this app for you, the 3 by 3 image splitter app. Install it to your phone. Open
+the app. Tap here and select the folder containing the storyboard images. Tap use this folder. Here, you will
+see the number of images in the folder you selected. This setting is used to crop the dividing lines between
+the scenes in the storyboard image. Leave it as it is for now. Then, tap split all images. The app will split
+the images. Once the process is complete, this confirmation message will appear. If you go to the image
+folder, you will find a new folder named splits. Inside it, you will find all the individual scene images.
+Look at that. Delete the empty scenes at the end. Now everything is ready to create the final video. Let's
+move on to the next step. Step eight, create the final video. Now we have the voice over, the improved SRT
+file, the word-by-word SRT file, and the scene images. To assemble the final video, we will not use any video
+editing software. Instead, we will use an app that I created specifically for this stick figure video creation
+method. It is the SRT video generator app. Install it on your phone. Then open the app. From here, select the
+video type. In our case, I will choose portrait 9:16. Then click here to select the splits folder containing
+the scene images that we split earlier. Tap use this folder. Then tap here to select the edited sentence SRT
+file. Then tap here and select the voiceover file. Then tap here and select the word-by-word SRT file. This is
+optional if you want to add captions to the video. Here you will find the zoom effect option. This adds a zoom
+effect when transitioning between the images in the video. You can disable or enable it. I will leave it
+enabled. Now tap generate video. Now let the magic happen. Your video will be assembled automatically without
+any action from you. All of this is made possible by the edited sentence SRT file. Wait for it to finish. Once
+the process is complete, you will see this confirmation message. The video is now saved in your gallery. Now
+let's see the final result. >> What did ancient humans actually do all day? You might imagine endless hunting,
+wandering, and sitting around the fire, but most of their time was probably spent doing something much less
+dramatic. Finding food, preparing it, making tools, collecting fuel, carrying water, building shelter, and
+caring for children could consume huge parts of the day. And here's the strange part. They probably didn't
+experience their lives as one endless struggle for survival because humans also spent time talking, playing,
+making art, resting, and maintaining relationships. So, when you imagine an ancient human's ordinary day, are
+you picturing a life that was completely different from yours, or just a life where the same human needs took
+up most of the day? >> I know we need to improve the voice-over, so I will keep searching for a solution. I
+promise. Now you have all the tools and the complete method. Using just your phone, you can start creating
+professional stick figure videos. Get started, experiment, and never give up. If you face any issue, write it
+in the comments. See you in the next video.

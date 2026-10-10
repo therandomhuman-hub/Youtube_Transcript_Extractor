@@ -1,0 +1,29 @@
+Title: I Found an Amazing AI Niche With Huge Potential (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: 0ALSR_7K6Zw
+URL: https://www.youtube.com/watch?v=0ALSR_7K6Zw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:41:07+00:00
+
+Kind: captions Language: en This Instagram page has gained 300,000 plus followers with just 125 videos simply
+by posting these amazing quiz videos. And in this video, I'll show you how to create videos like these in just
+5 minutes using a single master prompt. So, let's get started. First, go to Claude AI. Paste the master prompt
+here and hit enter. I've added the link in the description, so you can easily get it from there. Claude will
+give you 10 different quiz categories. For this video, I'm choosing category number one. Simply type one and
+hit enter. Claude will then ask you, "How many questions do you want on one paper?" I want two questions, so
+I'll simply type two and hit enter. Claude will then generate two scenes. In scene one, you'll get an image
+prompt and a video prompt. And in scene two, you'll get only a video prompt. First, copy the image prompt from
+scene one and go to Google Flow AI. Paste the image prompt here. For the image settings, choose Nano Banana 2
+as the model. Now, hit enter and let the image generate. Once the image is ready, go back to Claude AI. Copy
+the video prompt from scene one. Then, come back to Flow AI. Click on the three dots on the image we just
+generated and select add to prompt. Now, paste the video prompt. For the video generation settings, choose
+Omni 1.1 Flash. Set the resolution to 720p, duration to 10 seconds, and select X1. Now, hit enter. Once the
+video is generated, click on it and go to the last frame. Click on save frame. Once the last frame is saved,
+go back to Claude AI. Now, copy the video prompt from scene two. Come back to Flow AI and click on the three
+dots on the last frame we just saved. Click add to prompt. Paste the scene two video prompt here. Keep the
+same video generation settings and hit enter. And here's the final result after a little editing. >> What is
+the capital of France? >> Which is the longest river in the world by volume? >> That's it for today's video.
+If you found this video helpful, make sure to like the video and subscribe to the channel for more AI
+tutorials. Thanks for watching and I'll see you in the next video.

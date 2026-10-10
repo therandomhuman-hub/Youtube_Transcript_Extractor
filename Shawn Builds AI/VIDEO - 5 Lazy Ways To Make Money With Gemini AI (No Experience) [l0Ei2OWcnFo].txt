@@ -1,0 +1,274 @@
+Title: 5 Lazy Ways To Make Money With Gemini AI (No Experience)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: l0Ei2OWcnFo
+URL: https://www.youtube.com/watch?v=l0Ei2OWcnFo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:31:02+00:00
+
+Kind: captions Language: en If you've watched any other AI sidehustle video on YouTube, they all say the same
+thing. Every single one of them promises overnight [music] riches and then tells you to just go vibe code some
+websites with AI. But let me ask you this. If it was really that easy, wouldn't everyone be doing [music] it?
+That's because the side hustles that actually work the best aren't the flashy hype ones, but the [music]
+boring repeatable work that's proven to work time and time again. as an AI engineer at a multi-billion dollar
+digital media company who has actually gone out and started my own $8,000 per month AI agency on the side of
+my last 9-to-f5 IT job. I'll be ranking five of the most realistic AI side hustles that you can go out and
+start this weekend that either I have done for myself or I've helped others to achieve. If you're someone
+that's willing to spend just a couple hours per week guiding AI from your laptop so that you have the time and
+financial freedom to explore new places with friends, take extra vacations with your family, and get into the
+best shape of your life, then this video is for you. Now, don't worry if you aren't technical, because after
+spending thousands of hours trying different AI tools, I'm not going to tell you to hop in the terminal and
+become some clawed code wizard. I'm going to show you how you can do this with the most beginnerfriendly AI
+tool of them all, Google Gemini. So, let's start at number five and work our way up to the number one boring
+AI side hustle. That is, frankly, paying people more than their full-time job. For every single side hustle on
+this list, we're going to be running through four different pieces. The first one is going to be coming up
+with a real example of this side hustle working, either that I've done myself or that I've helped someone else
+to achieve. The second item we're going to talk about is the value proposition. As in why is this actually a
+good idea for a side hustle and why are people actually willing to pay for it. Then we're going to move to
+number three which is how you can build this for yourself using Google Gemini. And lastly, we'll be filling
+out a scorecard so you can see exactly how effective this side hustle is. Now the scorecard is going to be
+assessing the side hustle on three different criteria. The first one being how beginner friendly it is to get
+started. The second one is how fast you can get to your first income when you first start and the last one is
+your ability to grow. Each voting for weak is going to be one point, moderate is two points and strong is
+three points. So when you add them up at the end, you'll get a score out of nine. We will also be categorizing
+where AI helps the most in this side hustle out of three different options. Those three different options come
+from what I call the freedom formula. If this is your first time watching the channel, let me explain exactly
+what this is. For years, I was super into doing powerlifting as a sport. And in powerlifting, there are three
+different lifts that you're trying to maximize. You have the squat, you have the bench press, and you have the
+deadlift. Each of them, you get as high as possible as you can on the weight that you can lift. And when you
+add them up, that's how you get your total score. So, when you get as much as you can on these, your total
+becomes higher. And it's the same thing with the freedom formula, except instead of three lifts, we're going
+to be focusing on how much money you're able to make, how much money you're able to save, and how much time
+you're able to save. If we can maximize these three, then we will be maximizing our freedom. And the first two
+here have to do with the financial freedom. And the last one here is your time freedom. Now that we understand
+how this will work, let's hop into number five. Item five on the list is doing recruiting using AI. When I
+first started in the corporate world after getting an engineering degree in college, I started my career at a
+Fortune 500 company called Estee Lauder. It's a really big makeup and cosmetics company that owns a ton of
+other smaller ones. But I was super fortunate in one of the tasks that I was able to do with them. They were
+planning to open up a new global technology center in Koala Lumpur, Malaysia. So, I was able to go for 6
+months to help open this up. Now, while we were there, we had to interview and hire for over 40 full-time
+positions. You can see everyone at the end here. This is right when we were about to leave at our farewell
+lunch, and I am right over here. We had to interview and hire for all of these people. And being an engineer,
+I noticed a ton of parts of the recruiting process that were just taking too long and super inefficient. There
+was just so much back and forth emails passing resume around talking to recruiters and talking to the
+candidates, scheduling the interviews and then actually giving interview feedback. And this was taking extra
+days and weeks that frankly we just didn't have because we were only there for 6 months. So instead I built an
+automation that allowed easy submission of new candidates. There's automatic calendar invites when we wanted
+to interview someone and we had a scorecard system for grading. Now, all this was done before AI, and you
+could do even more with AI now. You can do AI resume grading for an initial screening, and you could do an
+analysis of the interview to determine if they would be a good fit. So, if you were going to recruiting
+companies to offer this as a service, the value proposition is very simple. The commission that a recruiter is
+able to get is a percent of the salary of the person that they were able to hire. So when you use AI for
+recruiting, you're able to increase the number of candidates overall, as well as increasing the amount of
+candidates salary if you're hiring just for executives, let's say, and therefore at the end increase the total
+recruiter commission, which is why they would pay for your service. I just want to point out with increasing
+the salary here, that's if you specifically decide to do executive recruiting. Now, we can actually build this
+out using a Gemini tool that I think is pretty low-key, but it's awesome. It's called Google Workspace Studio.
+And on the left side here in the plus sign, you can create a new flow. And the way that this works is that it
+starts with some kind of trigger and then you're able to perform actions. One example flow that you can do
+here is starting with a form submission, which would be a candidate submitting their resume and some
+information about themselves. Then an action is run to run their response through Gemini to determine if they
+fit your criteria all on its own. And if they are, at that point, you can set up a meeting. So, it's not back
+and forth of sending resumes with people and then manually looking every single one of them over to set up
+calls. They're able to automatically have meetings on their calendar with the most qualified prospects. Now,
+another flow here is that after you interview them, you can record them and track the transcript. Once that
+happens, you can run the transcript through Google Gemini. And at this point, you could just have a score pop
+out. Or if you're feeling comfortable enough, you could have it actually accept or reject the candidate and
+send an email back to them. Or if accepted, it would send an email to the hiring manager telling them that
+this is a good candidate and that they should check them out. Going back to the scorecard, let's run through
+the grades for each part of it and understand why this ranked as number five. In terms of how beginnerfriendly
+this recruiting agency is, we're going to give it weak because there are a lot of different parts that you
+need to think about in terms of grading resumes, setting up autorejections, creating new calendar events, and
+communicating with different parties. And out of all the different side hustles, this might be a little bit
+more technical than the other ones to set up. When it comes to the speed to first income, we're going to give
+that also weak because now you need to go and talk to recruiting agencies. And if you don't have proof or any
+connections in the space, it could be a little tough to get started, especially if you're trying to target
+something like executive recruiting that pays more. And lastly, for ability to grow, we're going to give this
+moderate. Once you get a little bit of proof, it will get a little easier to land your next clients. Now,
+where AI helps the most in this side hustle is with saving money. Because typically to have this kind of
+effect and really scale up operations like this, the recruiting agency needs to hire more people. So, you're
+not just making them more money as well, but you're saving them money from having to hire new employees to get
+better outcomes. So, when you add these all up, the total score for this one is 4 out of nine. You may be
+thinking, "Sean, that sounds like a great side hustle, but I don't have any experience in the recruiting
+space." Which is why I want to provide you with this free exclusive Gemini AI skill that will help you find
+your profitable business idea. I partnered up with one of the top AI creators in this space and my good friend
+Patrick Deng to make this skill available to only you guys on my channel. So if you want to download it and
+follow along, the link is in the description where you can download for free. Now this skill will help you
+find a business idea by finding the intersection between the skills you already have and the knowledge and
+experience you already have along with the things that you already enjoy doing and the things that the world
+actually needs to find a validated idea. I will then do the heavy lifting to research its competitors and find
+out where your services fit in. And at the end, it will spit out a custom 60-day road map to help you land
+your first client and close them with sales. Even if you aren't a salesperson like me, I recommend running
+this through the Gemini desktop app where you can switch over to Gemini Spark here and go to the skills
+section. Then you can click the upload button and drag in the skill file here. You'll know this works if you
+go to tasks and do slashgo businessplaybook Gemini and this pops up. Once you run that, I will ask you a
+couple different questions that you can answer in the chat here. And then what's really cool is that it spits
+out this interactive HTML playbook that you can open up in the browser. And just like I mentioned, it gives
+the entire overview of your whole business plan right here, but dives in even deeper into exactly what your
+idea should be, including my favorite part, which is some lines you could say verbatim in sales calls. Then it
+goes into validation, taking a look at some competitors to prove that this is a valid idea that works, as well
+as checking out their pricing to see exactly what you should charge. In this next section over here, once you
+know what you should be charging, it plans out the next 60 days. The next AI side hustle we'll talk about is
+doing consulting work. You're probably thinking, how is consulting a? Let me give you a real example from an
+executive leadership consultant that I worked with where she would go to other companies and help their
+leadership teams with her expertise before we worked together. This is what their process looked like to make
+one presentation slide deck for one company. It took over a week to do so because first off they would build a
+client design system so that they can create slide decks in the style of the client's company. Then they would
+create a presentation outline of all of the coaching strategies that she has along with all the company issues
+that they were able to unravel from conversations. Then all that has to be signed off with the head coach
+before being added into a slide deck. And then after the fact, all the speaker notes were added so that she
+can read off of them quick during the presentation. But with the process I'm going to show you, we ended up
+turning this over a week-l long process into something that took less than a day. And we did this by creating
+a custom AI skill. If you never heard of skills with AI, it is very similar to Pokemon if you've ever played
+that in the past. I used to play this all the time growing up. In Pokemon, you battle your Pokemon against
+each other by having them use different attacks. So things like Thundershock, Quick Attack, Thunderwave, and
+Slam here that Pikachu has. Now, the way that you can teach your Pokémon different attacks is with these CD
+cases here. So you can see one here for cut, fly, surf, strength, and flash. And you could think about each of
+these CDs as a skill. So instead of cut, it could be respond to my emails or take my call notes or make my
+slide decks. Then all you do is you take your AI like it's a Pokémon. So we have Gemini here, and you provide
+it with the CD, which is just a skill.md file. So the value proposition here is that you decrease the time it
+takes to deliver which will increase the number of clients that you can obtain and overall increase the amount
+of dollars that you will earn. So with Gemini, this is a very straightforward process because Gemini already
+lives within all the different tools that you will use. So first off, you have all of your resources and your
+philosophies on coaching, including coaching templates that you would fill out in a Google Drive. That is step
+one. and the AI will check that first. Then Gemini can check all of your different documents that have
+information about the company that you're working with. So this could be called transcripts and summaries of
+all the problems that they're currently facing. Then it combines all of that together and puts it into a
+Google slide. So that now you have a presentation that explains all their problems and how you can solve them
+with your philosophies. Then at the end here, it spits out a nice slide deck explaining how to solve their
+problems and the design of the company. Rating this side hustle, we're going to start with beginner friendly,
+which is going to be weak because you really need to be an expert in your domain and have worked in it for a
+while to feel confident in guiding others of how to be successful in it. Now, that's different for everyone.
+So, for you, this could be moderate or strong depending how comfortable you feel, but typically I'm going to
+put weak. Speed to first income is going to be moderate. Again, if you've worked in the industry for a while,
+you probably have some contacts so you can already reach out and get started quicker and the ability to grow
+is strong because once you nail down exactly what your coaching philosophies are, that's something you could
+scale across multiple different clients. So, add them all up and you get a score of 6 out of nine where AI
+helps the most here is with making money because of that value proposition of speeding up your time to
+delivery, landing more clients, and then making more money. All right, so side hustle number three here is
+going to be creating and selling AI skills. If you've watched my videos in the past, you probably know that I
+have an entire page here of giving out AI skills. Now, for mine, I give them out totally for free. You can see
+I have dozens here that I'm offering for $0. And the crazy part is that even though I offer all of these for
+$0, people have donated to me. I have the stat here from a day or two ago that I've given out a total of over
+4,000 copies of my skills. And even though they're free, people have donated and I've made $264 from that.
+Pretty wild. So, if you think about scaling this up as a business model, you can actually charge for these
+skills instead of giving them out for free. Now, just like everything else, this sounds great, but it relies
+on one key piece as part of the value proposition. And that requires you to be able to market these skills
+very effectively using content. You can see that I have dozens of videos. I posted 61 different ones of me
+talking about AI and using these skills over and over again. So, if you're able to show you using them
+effectively and getting good outputs, all you would do then is provide a way for people to download them like
+in the description here where I give multiple links to different skill downloads. So, in the video you would
+just show using your skill and say, "Hey, if you want to do this for yourself, the link to the skill is in the
+description below." And that's how they get onto the page to purchase the skill. So, the whole value
+proposition here is that you increase the amount of videos that you make to increase the amount of views that
+you get and overall increase the amount of skill downloads that you have. Now, you may be wondering, how do
+you create a skill? And it's actually very, very simple. If you're within your Gemini Spark chat, all you do
+is chat with it to accomplish anything you're doing in your normal work. So, you can see here I'm doing a chat
+to find more prospects. And this is a long prompt here, but it could even be multiple different messages going
+back and forth throughout a whole conversation to get to whatever output you're trying to achieve. And then
+once you get to the output, all you have to do is tell Gemini to turn this into a new skill. And you can even
+give it a name. So I'm calling this prospect agent skill. And it tells me that it was created and gives a
+little overview here. You know this works when you then go into the chat and do /rospect agent skill and it
+pops up. You'll also see it in your skills section here, prospect agent skill. So, what you would do is you
+would click download here and then upload that to a site like I use, Gumroad. In terms of how beginner
+friendly the side hustle is, I'm going to give it moderate because it's really easy to get started, but you
+really need to know your domain in order to make a skill that works well that you can sell for money. The
+speed to first income is also going to be moderate. This really depends on how good you are at marketing and
+making content. And then lastly, your ability to grow is very strong because once you make a video once
+showing how to use the skill and explaining how to use it, people can continue to watch it and download. And
+all you have to do is scale up your videos to scale up the amount of downloads. So add them all up and the
+score you get is 7 out of nine. And where AI helps the most here is going to be with making money cuz you're
+using AI to build skills that you can use within AI that you can sell for more and more money. That brings us
+to number two on the list here, which is ad creation. Working for a digital media company, ads is a big thing
+that we need to focus on as a revenue stream. And we identified two different ad flow creation processes. The
+first one here is creating variations of ads for testing. If we take a look at Target here, they have a back
+to school ad going on right now where they have three different kids here with a discount for 25%. And you
+create different variations of the ad. So you can see it's all the same kids, very similar, but just slightly
+different. And this is good because you can test them one against each other to see which one is getting the
+best clicks and the best conversions and ultimately bringing in more money for the company. And that's what's
+called an AB test. And I do this for all of my YouTube thumbnails as well. You can see from one of my last
+videos here, I AB tested not only the thumbnails, but even the titles are slightly different to see what
+performed the best. And the outputs are really important because I see 40% of people are clicking on this
+video while only 28 are doing on this one. So I know that this title and thumbnail combination is going to be
+way more effective for getting views. The second method is [clears throat] new ad generation. This involves
+taking aspects from other ads that were effective to create a new ad. So if we look at this target back to
+school ad, we can look at some of the inspiration. There's previous ones in the past that look like they had a
+circle discount code here and maybe it was found that that was effective. So, they're able to pull that aspect
+of it to create this 25% one. This one over here has purple. So, maybe that performed really well, which is
+why they added purple in the background here. As well as being inclusive of multiple different diversity kids
+to make sure that everyone feels included. So, you can see that in both the ads and then even from competitors
+like Staples. Maybe it was found that this kind of pastel type color was good, which inspired the purple
+partially, as well as having like pencils on the cover here. So, they added in up here. So, here's the value
+proposition for each of those different flows. If you increase the number of ad variations, you can increase
+the number of testing you do on campaigns and increase the number of dollars you make for having winning ads.
+While with new ad creation, you're increasing the amount of references that you have to increase the number of
+campaigns you could do for new ads and then increase the amount of dollars that is earned for the customer by
+having new campaigns. Now, the great part is that you can have AI do so much of this work with different image
+models. You can see that Grock has an image model, GPT has image models, there's other ones like Midjourney,
+and all of them create really good outputs. But my favorite one is using Nano Banana. I use this one all the
+time, including for my YouTube thumbnails. And this happens to be part of the Google Gemini suite. If you go
+on to Gemini, there's an entire section to do this here under create images where it adds this little image
+section here, and you could just describe what images you want. Now, I've used Nano Banana for my YouTube
+thumbnails and even to create different LinkedIn post infographics. So, it's really effective. And you can see
+with just one prompt in the chat here, I said to create a back to school ad for Target and it created this
+entire ad that includes multiple different elements of what we talked about. What you would do is provide a
+reference image of an ad you want to make variations to or multiple different other ads that you want to take
+elements from and combine those to make a new ad in the chat here. Now, to rate this side hustle, we're going
+to give beginner friendly a score of moderate because understanding how to make good variations and new ads
+does take some skill, but the actual creation of the ad is so easy using the Google Nano Banana models. Speed
+to first income is also going to be moderate because it's an easier cell when you say you're going to run ad
+campaigns for someone. If you think of the amount of people you can serve with that, it's huge. There's a ton
+of people that would want more customers through effective ad running. And lastly, the ability to grow is
+going to be strong because once you nail down one strategy, it's just rinse and repeat. The total when you add
+those all together is going to be seven out of nine. And the area where AI helps the most is going to be with
+saving money because typically companies hire people to generate all of these ads by hand and design them all.
+So instead of hiring somebody to do all this and increasing your headcount, you can just use the free Google
+Nano Banana. Kind of crazy. That brings us to the number one side hustle here, which is cold email. If you
+haven't done this before, don't worry. Let me just explain it a little bit further. When I was first starting
+out my agency, one of the ideas that I was trying was AI or clawed for coaches, helping online coaches, other
+agencies, and consultants use AI for themselves. Now, I never ran cold email before, but I decided to give it
+a shot cuz I know I can increase the amount of people I can reach. So, in my first ever cold email campaign,
+in one week, I was able to generate and send 900 emails. I got 4% replying to those emails, and I was able to
+book four sales calls in one week. So, people that I've never worked with or even talked to in the past, I was
+able to get four of them on sales calls. And I was able to use automation AI to increase the number I was able
+to send. So, it wasn't a huge strain to create and send 900 emails. The idea is that you can do this for other
+companies and it's a pretty simple value proposition, right? You increase the number of emails that you send,
+which increases the sales calls that are able to be booked and increase the total number of sales. Now,
+there's different tools that really help scale up cold email like instantly here. But I want to show you one
+of the simplest ways to get started with Gemini. So, I've shown this in multiple different videos, but I ran a
+skill here that helped me to find different prospects, which you would create to find prospects in your
+clients niche. And this created an Excel sheet with a targeted list of different companies and people that I
+can reach out to. Then, we can use connected apps to communicate with Gmail and create some drafts. And to do
+that, you just need to tag at@gmail here. So, I said draft Gmail to the first three contacts to work with them
+based on their business and what I offer. Obviously, if you do this at scale, you would do more than just
+three contacts, but this is just to show you what it can create. And then in the draft here, it's specifically
+talking to the person that the skill found. And it's bringing up their company name, saying, "Hey, I love the
+company. I love the specific aspect of your brand. This is what I do, and I think I can help you out. And if
+you're interested, then go ahead and book a quick call with me with a link to the calendar here." So, all I
+need to do is click send. And the name of the game here is just getting a lot of information about the people
+because the more information they have, the more personalized you can make this email. I've had cases where I
+was able to find information from LinkedIn about them. See that they made an appearance on some podcast and
+then bring up, "Hey, I loved your podcast appearance in the email." So, you can see how more likely you are to
+book a call when you're able to leverage AI and niche down into really personalized messaging. And then it's
+all about scaling up the amount that you're able to send while maintaining this personalization. In terms of
+how beginner friendly this is, I'm going to give it a strong. You can see there that to get started, you just
+need a way to find people, which you can start by just using Google Gemini, and then scale up to other methods
+to get LinkedIn data or from some other platforms. Then speed to first income is also going to be strong. This
+is a service that everybody wants and you can offer. And instead of having to pay for running ads like the
+last one, cold email is completely free to send out. So you could even charge just a percentage of the amount
+of sales that they're able to make from leads that you find. And the ability to grow here is moderate because
+it's relatively easy to scale up once you find a particular niche. But you will have to expand into other
+segments of people that they can target and scale to start using some other platforms like instantly once you
+start sending out enough emails. This is going to give it a total score of eight out of nine. And AI helps the
+most here with saving time because instead of having to go through and personalized every single one for every
+person you go out to, AI just reads information about them and spits out a personalized message. If you take
+anything away from this video, it [music] should be that it's not the flashy, crazy, hype AI side hustles that
+are making people the most money. It's really just these simple, boring [music] tasks that are proven to work
+time and time again that get the best results and you're just using AI to speed up the [music] process and
+improve how you execute. So try out one of these side hustles and I really hope you see success with using
+[music] it because I've had success for myself with using them and I know that they can work. [music] Now, if
+you want to scale that up and create a oneperson business using AI and specifically using Gemini, then I have
+two different options that I want to provide you with. The first one is to download that free skill with the
+link in the description below to find your profitable AI business idea. The second one is that you can watch
+my video right here on how to create a oneperson business with Gemini AI.

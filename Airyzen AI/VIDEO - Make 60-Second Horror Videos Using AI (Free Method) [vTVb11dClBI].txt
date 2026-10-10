@@ -1,0 +1,38 @@
+Title: Make 60-Second Horror Videos Using AI (Free Method)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: vTVb11dClBI
+URL: https://www.youtube.com/watch?v=vTVb11dClBI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:38:09+00:00
+
+Kind: captions Language: en Horror story videos are one of the most viral types of content on the internet.
+These videos can pull in millions of views and creators are growing their channels by making content just like
+this. In today's video, I'll show you how to create these 60-second long horror story videos using just one
+simple method. Let's head over to Claude AI, paste the master prompt here and hit enter. I've added the master
+prompt link in the description. And one more thing, the prompt is password protected, so you'll need to watch
+the entire video to find the password. Claude will give you 10 different horror story ideas to choose from. If
+you already have your own idea, you can type that in as well. For this video, I'm going with idea number five.
+I'll type five and hit enter. Claude will ask which language you want the video in. You'll see options like
+English, Hindi, and Spanish, but you can also enter any other language you want. I'm going with English, so
+I'll type one and hit enter. Next, choose the video duration. Since we're creating a 60-second video, I'll
+select 60 seconds. Claude will generate six scenes with each scene being 10 seconds long. That gives us a
+complete 60-second story. Let's start with scene one. Copy the image prompt from scene one and head over to
+Google Flow AI. Paste the prompt here. For the image settings, choose 9:16, select Nano Banana 2 as the model,
+and choose X1. Hit enter and give it a few seconds to generate the image. Once the image is ready, go back to
+scene one and copy the video prompt. Come back to Flow AI, click the plus icon. Select the image we just
+generated and choose add to prompt. Paste the video prompt here. For the video settings, choose 9:16, select
+Omni 1.1 Flash. Set the resolution to 360p, choose a 10-second duration, and select X1. Hit enter and your
+first video will be ready. Once it's generated, open the video and go to the last frame. Click save frame to
+save the final frame of video. Now, move on to scene two. Copy the video prompt from scene two. Go back to the
+last frame we just saved. Click the three dots and select add to prompt. Paste the scene two video prompt here
+and keep the same video settings. Hit enter and your second video will be generated. Open it, go to the last
+frame, and click save frame again. For scene three, copy the video prompt and use the last saved frame from
+scene two. Click the three dots, select add to prompt, paste the prompt, and hit enter. From here, it's the
+same process. Repeat these steps for the remaining three scenes using the last frame from the previous scene
+each time. This keeps all the scenes connected and makes the entire story feel like one continuous video. Once
+all six videos are ready, download them one by one and bring them into any editing software. Give them a
+little editing and you're ready to upload the final video to whichever platform you want. That's it for
+today's video. If you found this video helpful, make sure to like the video and subscribe to the channel for
+more AI tutorials. Thanks for watching and I'll see you in the next video.

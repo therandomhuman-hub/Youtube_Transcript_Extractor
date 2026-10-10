@@ -1,0 +1,226 @@
+Title: How I Make $23K/Mo Posting on Facebook (With AI)
+Channel: Victor Bigbro
+Type: VIDEO
+Video ID: n2uCUuMIxG4
+URL: https://www.youtube.com/watch?v=n2uCUuMIxG4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-10T06:47:07+00:00
+
+Kind: captions Language: en So, this is one of my pretty recently created Facebook pages, and so far, this one
+has reached over 500,000 followers, and it made $23,000 in the last 28 days. Now, just to show you that this
+is all legit, I'm going to go ahead and reload my screen. And as you can see, is still 23,000 bucks. Now, the
+reason I'm able to get result like this is because 94% of my viewers comes from top tire countries. So, in
+this video, I'm going to be showing you how I grew and monetized this Facebook page. But you need to pay
+attention because Facebook has a weird policy where they'll allow you to post a piece of content. It gets
+views, but it doesn't get monetized and ultimately makes no money because not all content that are allowed on
+Facebook are monetizable. So, you need to know how this works so you can avoid that. So, first off, we need a
+Facebook profile. And for that, I like to use this software called Go Login. And you'll see why in a bit. Now,
+this software will help us with two things. When we start posting videos, the Facebook algorithm will first
+test our content based on our location to find the best audience for our video. So, we want to optimize our
+account using this tool. So, it starts the test from a tier one country, which in terms gives us more tier one
+audience and allow us to make the most money from ads when we get monetized. Secondly, it will help us scale
+safely. So, in case we want to run multiple accounts, we can isolate them all. So, if something goes wrong
+with one account is not going to affect the rest. So you can come over to their website or you can click on
+the first link down in the description. Once you're here, you want to go ahead and start your 7 days free
+trial and you don't have to upload your credit card. So once you've got your account, scroll all the way down
+and download the software based on your device. So once you log on to the software, it's going to look like
+this. Ignore all the complicated buttons and click on the cloud Android tab. Once you click on that, you want
+to create a cloud Android. So simply click on the plus button on the top and give your cloud Android a name.
+So, I'm going to be like Facebook profile one and click on create. Now, you want to go ahead and add a proxy.
+So, come down here and click on choose a proxy and choose a proxy of your choice. In this case, I'm going to
+do United States. And just like that, I'm ready to go. So, go ahead and click on run and click on view. And
+it's going to pop up your cloud Android. So, go ahead and click on app store on the top and search for
+Facebook and click on enter on my computer here. And from here, you just want to go ahead and download
+Facebook and click on open. From here, you just want to go ahead and click on create new account. and
+basically go ahead and fill out your name and email and create a Facebook account. This part is simple and I
+know anyone can do it. So once you've secured your Facebook account, you want to go ahead and warm it up for 4
+to 7 days at least by scrolling reels, liking posts and all that basic stuff in your cloud. And once you do
+that, you can proceed with the next step. So come back to go login again and you want to go ahead and stop
+this and click on all profiles and create a new browser profile by clicking on add new profile on the top. Now
+you're going to name this. are going to be like Facebook desktop. Next, you want to come down to the proxy
+section, click on this dropown, and set your country to United States. Now, there's a ton of settings, but the
+default settings is already good. So, go ahead and click on create profile below here. And once you do, you
+want to go ahead and click on run. And from here, you just want to head over to facebook.com and log your
+account. So, once you're logged in, you want to go ahead and click on see more. Scroll down and click on
+pages. Now, click on create page. For the page name, you can come up with a name yourself or you can use my
+prompt. Now, I'm going to link this prompt in the description so you can follow along. So, go ahead and copy
+the page name generator prompt and paste it inside of Gemini. Click on this dropown. Make sure it's on pro and
+set this to extended thinking. Now, come down here and set the number of names you need. In this case, I'm
+going to do 15 names and click on send. Now, Gemini is going to come up with a bunch of name ideas. In my
+case, I'm going to go with this one right here called Stoic Forge. Now, I'm going to copy this and I'm going
+to head back to Facebook and paste this in. Now, for the category, go ahead and search for digital creator.
+Set it to that. And for the bio, you want to come back to the prompt. Copy the bio generation prompt. Paste
+this in. And you want to copy the name of your Facebook page and paste this inside of your prompt. And go
+ahead and click on send. Now, it's going to generate you multiple bio options. Just go ahead and pick one. In
+this case, I'm going to go with the second one. Paste this in here. After that, you want to go ahead and click
+on create page. So, next, you'll be asked to fill out your contact details. skip all this and just fill out an
+address. So, I'm going to do that real quick and I'm going to go ahead and click on next. And for the logo,
+you want to come back to the prompt, copy the entire logo and banner prompt and paste it inside of Gemini.
+Now, go ahead and insert your name and click on send. And just like that, Gemini will generate a logo and
+banner for you. So, go ahead and click on the download to download it and come down here and download your
+banner. Now go back to your Facebook page and upload your logo here and upload your banner and click on next.
+Now you'll be asked to add a WhatsApp number. I personally like to skip this part. Click on next again and
+click on done. And just like that, your page have been successfully created. Now I'm about to show you how I
+make these videos with AI. But I need you to understand a few things. If I come back to my actual account, you
+see my posts are getting pretty decent views. That's because I understand a few important signals that
+Facebook is actually looking for. The first is the loyalty and intent signal. Facebook will push your videos
+more if viewers keep coming back to your content week after week. And the second is your video viewing
+duration signal. This basically means your video retention. How long viewers stay when they watch your video.
+The longer the viewers watch, the more views you get. And the third is the originality signal. Facebook is
+able to detect the originality of your videos. I don't know how they do it, but they can. They will instantly
+limit your reach if your content is unoriginal. and I'm going to show you exactly how I achieve all this. Now,
+to create the content, you're going to need a successful reference Facebook page to take inspiration from. So,
+I found this competitor's Facebook page and we are going to be using it as a reference because they get quite
+a lot of views. Once you find a page like this, you want to go ahead and extract data from this page. So, how
+you do that is very simple. First, you want to open up a blank Google Docs document like this and you want to
+come over to this website right here called facebookanscript.com. Next, come back to their videos and you want
+to focus on the highest performing videos. For example, this one with 20 million views. You want to click on
+it. Once you open up the video like this, you want to click on share, copy the link, and come back to this
+site, paste it in, and click on extract. Next, copy this. Come back to your blank document, paste it in, and
+grab the title of the video like this. Click on enter and be like title and paste this in. Next, come back to
+Facebook and locate another viral video. Let's say this one with over 400,000 views as an example. Then click
+on share again. Click on copy link. Come back to Facebook to transcript. Click on back. Paste this in. Click
+on extract. While it's extracting, come back to Facebook. Copy the video title. I'm going to be like title
+again and paste this in. Now I want to come back here and grab my transcript. This one is a bit long. Is a 15
+minutes transcript. Now I'm going to copy this and I'm going to come back here and paste this in. Now you want
+to go ahead and do this for four to five times. But if you want a ton of data, I recommend you do up to 10 to
+15. It's going to take a little bit of time, but it's important so we can consistently create viral videos.
+Now, once you have this, you want to come down here and name this data today. And I want to come down here and
+click on file. Click on download and click on PDF. Now, you want to come back to Gemini, open up a new chart,
+upload this file. Also, make sure it's some pro 3.1 extended thinking. Now come back to our prompt and copy
+the video ideation and script prompt and paste it inside of Gemini and click send. Now it's going to extract
+all the data from our document and it's going to come up with powerful viral ideas. You just want to go ahead
+and pick a strong video idea. In my case, I'm going to go with idea number 12. So I'm going to copy that and
+I'm going to paste this in here and be like 1 minute. Now in your case, you can choose how long you want it to
+be. So I'm going to go ahead and click on send and it's going to generate me the script. So once the script is
+ready, you want to open up a new tab and want to search for Google AI studio and click on this first result.
+Now it's going to redirect you straight to this website. Make sure you are on this URL. Once you're here, you
+want to go ahead and click on create new dialogue. From here, you want to go ahead and select a voice. So
+click on this drop down, set the gender to masculine, and then scroll around to find a voice. And once you
+find a voice, you want to go ahead and play the voice. And if it sounds like what you want to use, you want to
+go ahead and click on it. In my case, I'm going to go with this one. And after that, click on this drop down
+arrow. And down here, you're going to need a test to properly nail the style of the narration. So, come over
+to our production prompt here. Scroll all the way down and down here at the voice generation section. You want
+to go ahead and copy this style test here and go ahead and paste that in here. After that, you want to come
+back to your script and copy part of your script like this and paste it in. Then go ahead and click on run
+right here. And you get something like this. >> Building a legacy for your family. >> So, once you've got
+this, you want to go ahead and download this. and you want to go ahead and copy the next batch of your script.
+So, copy the next batch, come down here, paste it in, and click on run again. While this is generating, you
+are going to go ahead and copy the rest of your script and download this one. And lastly, you want to paste
+the final part of the script and click on run. And finally, I'm going to download the rest of the script. So,
+once you got the voice over, you want to create your base character. So, come back to Gemini and open up a new
+chat. Now, come back to your production prompt and copy your base character prompt right here. So, copy the
+entire base character prompt and paste it inside of Gemini. And you want to go ahead and grab an image from
+your reference Facebook page. So, come over to your reference Facebook page and open up one of their videos.
+And what you'll be looking for is a standalone character from this video. So, take a screenshot of this and
+paste it inside of your prompt. Now, click on send. So, this is basically a base character. Now, if you don't
+like this, you can go ahead and change it a bit. So for example, I can be like make him wear a black suit and
+it's going to generate a new version for me. So you basically want to go ahead and play around with your
+character so you nail it perfectly as you like. In my case, I'm going to go with the first one here. I'm going
+to go ahead and click on download. So once you have your base character, you want to come back to your script.
+Upload your base character. Let's come back to your production prompt and copy the visual generation prompt
+and paste it inside of Gemini. Again, make sure it's on pro extended thinking and click on send. So now it's
+going to generate a complete visual prompt of our script. So leave this tab open and come over to
+flow.google.com. Once you are here, click on new project. And once you do, you want to come back to your
+production prompt and copy the entire flow prompt. Now come back to Google flow and paste this in. Now make
+sure the agent mode is turned on and click on this settings. Change the video aspect ratio to vertical like
+this and click on this dropown and set this on the Omni flash model and click on save. Now come back to Gemini
+and copy your entire visual prompt and paste that inside of Google Flow like this. And lastly, you want to
+make sure you copy your base character and paste it inside of Google Flow. And then click on send. Now it's
+going to show you what the generation will cost. I'll click approve. And just like that, it's going to
+generate all my videos at once instead of me going in and generating them one at a time. So once the videos
+are fully generated, you basically want to go ahead and download them one at a time by clicking on this three
+dots and clicking on download. You want to click on the size you want to download the video. So I'm going to
+basically do that for the rest of the video. Now, by the way, the images and videos we've generated so far was
+100% free. Next, you want to go ahead and put all this together inside of a video editor. Come over to
+capcot.com. You can literally come over to the website here and download the software for 100% free. So once
+you've downloaded the software, you want to open up the editor. Now, click on import to import all your media
+assets. Now, you want to go ahead and drag and drop your voice over to the timeline. So, I'm going to drag
+this in and drag the second one. And I'm going to do pretty much the same thing for the rest of the
+voiceovers. So, once you have your voice over, you want to play through it and locate where you have
+unnecessary pauses. For example, this section. And once you find that, you want to go ahead and click on this
+drop down, click on the split tool, and go ahead and split this like this and delete it. So you basically want
+to go ahead and do that for the rest of your video. So once you're done editing the audio, you want to go
+ahead and import the visuals. So go ahead and drag in the first visual here. Drag that in and drag in the
+second video. And you basically want to go ahead and do that for the rest of the video. Now you don't have to
+worry about this going out of sync because by default, Capcot is going to sort your videos based on the first
+one that was generated. Okay? So go ahead and import the rest of your videos like this. So once you've
+imported all your videos, you want to go ahead and highlight everything and click on audio and then reduce
+your volume to nothing like this. So next you want to come over to the effects tab and search for sharpen
+edges and go ahead and drag in the sharpen edges effect. It's completely free and stretch this all the way to
+the end. Now come over to the fas tab. Scroll down here and locate the alternative tab. From here you want to
+locate the lost forest fitter. You'll find it on the left hand corner like this. Now drag this to your
+timeline and stretch this all the way through. Now to properly preview your video, you want to click on this
+icon on the top and click on vertical. Next, click on ratio and make sure this is on 9.16. So now you can
+perfectly preview your videos. Now next is your subtitle. Now the subtitle feature is paid. So I'm going to
+show you a tool that you use to achieve this for free. So first click on export and make sure it's on 480p
+like this because we don't want a large file. Click on export. Once your video is done exporting, click on
+open folder and come over to this site right here called audio tossrt.com. Once you're on this site, pull up
+your folder and drag this in like this. Once you do, click on start conversion. So now it will take some time
+to transcribe your video. Now once it's done like this, you want to go ahead and click on download SRT. And
+once you download the SRT, you want to come back to Capcot. Now close this out and click on test on the top.
+Now from here, you want to click on local and you want to click on import file. Now, import the SRT file you
+just downloaded. Now, go ahead and drag that to your video timeline like this. And just like that, it's going
+to automatically add your transcript for you for free. Now, go ahead and drag this to the center like this and
+customize the font how you like it to be. So, I'm going to do all caps and I'm going to click on this dropown
+and choose a font. So, I personally like to use this particular font. So, once you nail this font, set this on
+bold. Next, you want to scroll down here and select the font style. So, I'm going to use this one. Next, click
+on the animations tab and you want to go ahead and find the fade in animation. So, I already have it in my
+favorite, but you just have to scroll around a bit and locate the fade in animation. So, once you locate the
+fade in animation, just go ahead and click on it like this. After that, you basically want to go to each of
+the text and edit the text to your liking. I'm going to edit mine a bit. Once you're done with your subtitle,
+you want to highlight your entire video like this and click on adjust. Then, scroll down here and increase the
+whiteness. And once you're done with that, the last thing you'll be needing is a background music. So for
+that, come over to this website right here called pixabay.com. Once you're here, click on music and search for
+the keyword piano motivation and click on that. So you basically want to scroll through and find the perfect
+music that suits your video. So I'll be going with this one right here. Now you want to go ahead and click on
+download. So once you download the music, you want to come back to Cap Cut and import the music you just
+downloaded. Now go ahead and drag this to your timeline like this and lower the volume of the music a bit. Now
+play it to see if it perfectly fits. So this perfectly suits my video. I'm going to go ahead and cut off the
+SS. And just like that, your video is ready. So go ahead and click on export and export this to 720p and go
+ahead and export the video. So here's a preview of what we just created. >> Building a legacy for your family
+means nothing if you don't survive long enough to witness it. You spent [music] decades trading sleep,
+ignoring exhaustion, and skipping medical appointments under the excuse of leaving something behind. Your body
+keeps accurate [music] records. So now we'll need to upload the video. So come over to your Facebook page,
+scroll down and click on real. Once you click on that, click on add video and upload your video. Once you
+upload your video, scroll down and click on next. Now click on next again. Now you're going to need a
+thumbnail, title, and description. So for that, pull up your production prompt and scroll all the way down
+till you find the upload prompt. So go ahead and copy the upload prompt right here and come over to Gemini and
+paste this in. Now click on send and you'll be presented with multiple title variations. Go ahead and copy the
+strongest one and scroll down here and copy your description. Now come back to your Facebook page and first
+paste in your title. Click enter and paste in your description. And lastly, you're going to need to add some
+tags here. So I like to do # stoicism stoic mindset and lastly I'll add stoic wisdom. Now once you have that
+locked in, you need a thumbnail. So again come back to your production prompt and scroll all the way down and
+copy your entire thumbnail prompt. Just wait till you see how powerful this prompt actually is. So copy this,
+head on over to Google flow and open up a new project. Now paste this in here and come back to your Gemini
+chart. Go ahead and copy your entire script and paste that inside of your prompt down here. And next, come
+back to Gemini and copy the title you chose. I'm going to copy this first one and I'm going to go ahead and
+paste that right here. Now, come back to your competitor's page and take a screenshot of this page. Copy and
+paste inside of Google Flow. Next, come back to your base character and copy and paste it in here. Now, if
+you'd like to change the color of your font instead of looking the same like everyone else's thumbnail, you
+can come over to this site right here called color kit.co. Once you're here, click on this circle and select
+the color you like. And once you select the color you like, go ahead and copy this code and come back to flow.
+Scroll all the way down to your prompt here and change the ascent test color right here. Okay? And also, you
+can change the font in the prompt. Now, if you don't want to change any of the colors or the font, just go
+ahead and click on send and your thumbnail will be generated. Now go ahead and click on it and download your
+thumbnail just like this. Now head back to your Facebook page. Click on edit and upload your thumbnail. Now
+click on save and finally confine your real is save for publish and click on post. And just like that you've
+uploaded your first reel. Now getting monetized is pretty simple and straightforward. You need 10,000
+followers and 600,000 minutes of watch time which is about 10,000 watch hours in the last 60 days. Now that
+sounds like a lot, but you need to realize billions of people log on to Facebook every single day. And
+Facebook has literally promised to push out quality videos. All you've got to do is to upload good videos.
+Now, I've just told you Facebook's monetization requirements, but you still need to know the types of content
+that are eligible for monetization, else you'll probably not get monetized even if you hit the requirements.
+Now, you need to understand that Facebook specifically looks for content you create and edit yourself. And if
+the content is good enough that people actually watch and enjoy the video, you're good. But it's really
+important you stay away from the content in the list I'm about to lay out for you because they might be
+allowed on Facebook but they don't get monetized. The first one is static image pose. The second is slideshow
+of images, debated social issues, explicit content, misinformation and misleading medical information. So you
+want to stay far away from all of these because they might be allowed on Facebook but they are not
+monetizable. So once you know all this correctly, you want to come over to Facebook and click on this menu
+icon. Click on monetization and then click content monetization. Now you have to click on notify me. Now what
+this will do is to tell Facebook that you are interested in the monetization program. So when you hit the
+requirement, they'll let you know you are eligible. So I'm going to wrap this up here cuz I've pretty much
+shown you all the steps. Smash thumbs up button and subscribe to the channel. I'll talk to every single one of
+youall in the next video. Peace.
