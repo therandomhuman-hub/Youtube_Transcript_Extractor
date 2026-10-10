@@ -116,5 +116,24 @@ jobs:
             echo "No transcript or state changes to commit."
           else
             git commit -m "chore: update scheduled YouTube transcripts [skip ci]"
-            git push
+            # Other workflows or manual commits may advance main while this run is collecting.
+            # Rebase onto the latest main before pushing; never force-push over newer work.
+            pushed=false
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                echo "::error::Could not rebase archive changes onto latest main. Preserving remote history; inspect conflicts."
+                git rebase --abort || true
+                exit 1
+              fi
+              if git push origin HEAD:main; then
+                pushed=true
+                break
+              fi
+              echo "Push attempt $attempt failed; refreshing main and retrying."
+            done
+            if [ "$pushed" != "true" ]; then
+              echo "::error::Unable to publish archive after 3 safe push attempts."
+              exit 1
+            fi
           fi
