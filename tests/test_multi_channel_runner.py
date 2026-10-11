@@ -261,6 +261,10 @@ def test_per_channel_budget_checkpoints_partial_progress(tmp_path, monkeypatch):
 
     assert result["attempted_this_run"] == 1
     assert result["saved_this_run"] == 1
+    # Inventory counts all known manifest entries, not only the one attempted.
+    assert result["video_count"] == 3
+    assert result["short_count"] == 0
+    assert result["known_items"] == 3
     assert result["batch_limit_reached"] is True
     assert result["status"] == "IN_PROGRESS"
     checkpoint = json.loads((root / "channel_state.json").read_text(encoding="utf-8"))
