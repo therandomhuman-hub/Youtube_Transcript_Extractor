@@ -1,0 +1,29 @@
+Title: You’re Wasting Hundreds of Hours Using AI Without Skills
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: SPq75I3KTgQ
+URL: https://www.youtube.com/watch?v=SPq75I3KTgQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:31:51+00:00
+
+Kind: captions Language: en If you're chatting with AI and you haven't started using skills yet, then you're
+literally wasting hundreds [music] of hours. So, you're probably wondering what are skills? Skills are a very
+lightweight set of instructions that you give to AI so that it knows how to do a specific [music] task. And
+one of the best parts is that you can not only make skills for yourself, but you can share it with other
+people so that they know how to do the exact same task within their AI. So, what are skills actually made of?
+If we dive a little bit deeper, we can see here we're on Claude and we have a skill section in customize. And
+just taking a look at one skill, this is a brand guideline skill, there's a skill.markdown file. Within there,
+the top metadata consists of a name, which is just the name of the [music] skill, a description of what it
+does, and then everything below this line is instructions for the skill on what it does. So, for this one, it
+states the main colors of a brand, [music] accent colors, typography, everything you need to know for your
+brand. So, whenever you chat with AI, it knows exactly what your brand looks like. And you know, when you
+share it with somebody, their AI knows what your brand looks like as well. So, think about sharing this with
+your marketing team and how powerful it would be if out of the box it just knew what your brand was like.
+Let's take a look at another example that's a little bit more in depth. [music] So, in this one, there's again
+a skill.markdown file, but there's also a folder with templates that contains a script and a viewer. So, you
+can provide other files such as scripts, and in your skill file, you tell it to use those scripts to complete
+its task. Now, like I mentioned, you can share these with other people on different websites even. So, you can
+download them, share it, and there's also hubs like Claw Hub where people can upload their own scripts. So, if
+we take let's say uh this Brave Search one, scroll down, and there's a skill.markdown file with the name, the
+description, everything here on how to use it, and then certain scripts that go along with it.

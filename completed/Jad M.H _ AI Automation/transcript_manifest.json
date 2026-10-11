@@ -2788,5 +2788,20 @@
     "discovered_at": "2026-10-10T21:48:31+00:00",
     "last_discovered_at": "2026-10-10T21:48:31+00:00",
     "updated_at": "2026-10-10T21:49:01+00:00"
+  },
+  "98KlVeJ9ylg": {
+    "video_id": "98KlVeJ9ylg",
+    "type": "VIDEO",
+    "title": "The New Viral Motion Graphics (Turned it into a skill)",
+    "url": "https://www.youtube.com/watch?v=98KlVeJ9ylg",
+    "channel": "Jad M.H  | AI Automation",
+    "status": "SAVED",
+    "source": "YouTube automatic captions",
+    "language": "en-orig",
+    "filename": "VIDEO - The New Viral Motion Graphics (Turned it into a skill) [98KlVeJ9ylg].txt",
+    "message": "Transcript saved",
+    "discovered_at": "2026-10-11T21:56:17+00:00",
+    "last_discovered_at": "2026-10-11T21:56:17+00:00",
+    "updated_at": "2026-10-11T21:56:52+00:00"
   }
 }

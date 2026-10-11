@@ -1,0 +1,18 @@
+Title: Claude Code Isn't What You Think It Is
+Channel: Udo Onyekwere
+Type: SHORT
+Video ID: 4SmgXN2lsZc
+URL: https://www.youtube.com/watch?v=4SmgXN2lsZc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:34:11+00:00
+
+Kind: captions Language: en Now, the ninth tip is Cloud Code. He says that Cloud Code, you know, the name
+scares people off for no reason, but you describe what you want in plain English in Cloud Code, and it writes
+and tests the software. His chief product officer, who isn't a developer at all, built himself a custom
+marathon training app from scratch. Didn't write a single line of code. Just text it in Cloud Code in the
+prompts. >> is tip number nine, using Cloud Code. Now, I know that the name puts people off, and I get it. You
+hear a code, and you assume it's a developer thing that's got nothing to do with you. And I can tell you it's
+not. You describe what you want in plain English, and then it goes and writes the software behind it, and then
+tests it. It can even fix things when something breaks. Setting it up really isn't that complicated. You just
+download Cloud Desktop,

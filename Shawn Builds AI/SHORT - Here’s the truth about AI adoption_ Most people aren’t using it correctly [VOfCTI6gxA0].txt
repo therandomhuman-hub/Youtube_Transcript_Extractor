@@ -1,0 +1,37 @@
+Title: Here’s the truth about AI adoption: Most people aren’t using it correctly.
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: VOfCTI6gxA0
+URL: https://www.youtube.com/watch?v=VOfCTI6gxA0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:32:23+00:00
+
+Kind: captions Language: en Everyone says they're trying to use AI to improve their business in 2026, but the
+reality is that most people don't even know how to leverage MCP. [music] MCP stands for model context protocol
+and it's basically the standard that AI uses to communicate to other services and actually go out to perform
+real actions. So instead of just having a chatbot like chat GPTt that you use to bounce ideas off of, MCP lets
+you leverage your AI to connect to different tools [music] and perform actions. So for example, you could send
+an email through Gmail, uh perform some web scraping to do a competitor analysis and even write and commit
+code to GitHub. I like to think of it in terms of cooking. You can see we have our AI chef over here in the
+middle. If we provide it with the right tools, in this case it's how to make different ingredients like
+marinara sauce, meatballs, and spaghetti, then if we ask it to make spaghetti and meatballs, it will be able
+to pull from those, put them together, and give us the output that we [music] desire. Now, the problem with
+this is that these are very specific tasks. So if we ask it to make something like a chicken parm, it doesn't
+know how to actually perform that because it was never taught how to make chicken and [music] things like
+penet. MCP on the other hand is completely different. So again we have our AI chef over here, but instead of
+giving it individual tools, we give it a recipe book which is MCP. So the first recipe book might be how to
+make spaghetti and meatballs. So, it teaches it how to make marinara sauce, how to make meatballs, and how to
+make spaghetti just like before. So, we can take those and make spaghetti and [music] meatballs. But on top of
+that, we have other MCP servers or other recipe books. So, now it knows how to make pesto, chicken, and
+[music] noki, which is the best pasta, by the way. And now it can make a recipe with those ingredients.
+[music] Now, we have one more MCP server, so it can take these ingredients and make [music] another recipe.
+The real unlock here is not that it knows how to make three different recipes, but that it knows how to make
+all the ingredients from all of the recipes. So now, if we ask it to make chicken [music] parmesan, it will
+pull marinara sauce from this MCP server. It will pull chicken [music] from this MCP server, and it will pull
+pennet from this MCP server. And in the end, it will output what we want in the desired outcome. So if we zoom
+out a little bit and compare to [music] actual business outcomes, this would be like giving multiple MCP
+servers. One for Gmail [music] for example, that could tell it to create drafts, send emails, and read emails.
+We can give it another one for the web [music] to search, filter, and scrape websites. And then we could also
+give it one for GitHub to basically read and write code. So it'll be able to pull what it needs from each of
+these MCP servers and output something [music] that is a new capability that we wouldn't be able to do as

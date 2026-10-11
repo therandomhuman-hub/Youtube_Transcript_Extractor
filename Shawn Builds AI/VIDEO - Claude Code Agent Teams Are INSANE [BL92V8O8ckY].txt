@@ -1,0 +1,185 @@
+Title: Claude Code Agent Teams Are INSANE
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: BL92V8O8ckY
+URL: https://www.youtube.com/watch?v=BL92V8O8ckY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:24:41+00:00
+
+Kind: captions Language: en Cloud Code is the fastest growing AI coding tool in the world right now. And for
+good reason. Projects that used to take weeks now take only hours by leveraging the power of AI agents. But it
+doesn't stop just there. In this video, I'm going to show you how you can code up to 10 times faster by
+leveraging some new [music] AI agent coding abilities in Claude Code. My name is Sean, and for years, I've
+been helping Fortune 500 companies [music] save thousands of hours through process automation. AI agents are
+the next wave and they're going to be what turns thousands of hours saved to [music] tens and hundreds of
+thousands of hours saved. Not taking advantage of these tools [music] in 2026 is leaving so much potential on
+the table. So go ahead, open your terminal, follow along, and let's get started. So like I mentioned, Cloud
+Code is a super awesome development tool that was created by Anthropic that runs on AI agents. And it's able
+to do a ton of different things. Since it lives in your codebase, it can actually write code in your files. It
+can read your codebase. It can run commands. And it integrates with all of your favorite development tools.
+And one of the best parts is that it's available pretty much anywhere where you work in the terminal in your
+IDE. So maybe VS Code, Cursor, or Windsurf or even anti-gravity by Google. And even in the browser, you can
+access it. So that sounds great and all, but what does that actually mean? Well, if we take a look at the
+evolution of coding, we started from actually having to write everything ourselves without any AI assistance,
+which of course took hours and took a lot of independent research to bug fix into having sort of an AI
+co-pilot while you coded that would be able to fill in text for you, fill in lines of code, generate commits,
+and maybe do one perform one small task. Now, this was limited to only small and specific tasks at a time,
+maybe a single feature, fixing a single bug, uh, etc. Now, this was still an improvement over having to do
+everything yourself, but the next wave of development in coding assistance is when we became uh, capable with
+AI agents. So, co-pilots are great. They were little assistants that can help you out and they completed they
+were able to do, you know, small tasks. Now, agents in coding are able to do much larger tasks like an entire
+code base, comprehensive testing and documentation. And it's not that it's able to take on just a large task
+all at once, but it's able to break it down into a bunch of small tasks and complete them all individually
+that together add up to something that is large. So this is where we've been at for a while and it's probably
+how most of you are using tools like cloud code, cursor, windsurf, etc. But this is just the start because new
+tools like cloud code are integrating with something different that uses multi- aent systems. So what does
+that actually look like? Let's take a look here at one of cloud codes features. So now you can ask it the same
+task, right? We're creating an entire code base. It says I want one of you coding, one of you testing, and
+another documenting. So it's being able to split up the tasks. Now, the main benefit to this is that you're
+able to go much faster than you were beforehand. You can see that there's this main agent here that's kind of
+like the project manager, and it's able to communicate to all of the sub aents. And each sub agent has a
+specific role. So this one has its glasses on. So obviously this one is the coding agent. This one has a
+pencil. So this is going to be the documentation agent. And this one's got a test tube. So this is the testing
+agent to match all three of the use cases that were mentioned up here. This is already a great step in the
+right direction to making agentic coding faster with sub aents. But again, cloud code took it to the next
+level. And that's where agent teams come into play. You can see it's the same thing. It's saying that we want
+to write a codebase, one coding, one testing, one documenting. Again, there is the coder, the documenter, and
+the tester. But this time while the main project management agent is able to talk to all of them and able and
+they are able to talk back the difference between this and sub agents is that these are each able to
+communicate with each other. So let's think about what this actually means. Let's say that the tester is
+running its tests but it reaches a problem and it's able to talk to the code agent and tell him there's an
+issue here. we need to actually update our code. So the code agent can go and write some more code. Then after
+the code agent finishes there, it can tell the um the document agent to now document those new changes and
+each of them are working on multiple things simultaneously while working with while working with each other
+and then they're able to communicate back to the project management agent. If we compare that with sub agents,
+in order for the testing agent to know what the coding agent has done, it needs to first reply back to the
+main agent. Then the m main agent needs to tell the coding agent who then needs to tell the main agent again
+who needs to again reply to the testing agent. You can already see how much more streamlined this newer way of
+working in agent teams is. All right, so let's dive a little bit into the Cloud Code documentation and learn a
+little bit more about these features. So, this explains really well what Claude Code is capable of. First off,
+being able to kind of pick up a lot of the tasks that you don't want to be doing in your day-to-day basis,
+like writing tests, uh, running them, doing, fixing linting, things like that. Then there's the primary
+feature that you use, which is going to be building features for your application and fixing bugs. With Git
+integration, it's able to stage your commits, push them, and write commit messages as well, and do branch
+control. If you're not using MCP and instruction skills and hooks, then you're definitely missing out on some
+things that Claude Code has to offer. I'll make another video on these, but basically, these are what allow
+Claude Code to interact with other things, reach out and perform actions. So maybe it can reach out to GitHub
+and get information from there or reach out to get information from your Jira cards to know what task you have
+to complete. That's more of MCP instruction skills and hooks will tell it exactly how to go about doing that.
+And since Cloud Code is in the terminal, there's a ton of CLI integrations that are super awesome and like I
+mentioned before in working from anywhere. So you can have it in the terminal in your IDE the web or on the
+desktop app. Now, agent teams is what we're really interested in learning more about here because it can spawn
+multiple agents to work on different parts of your code simultaneously with the lead agent and then all of
+these sub agents or other agents that are spawned up can communicate with each other to complete their tasks
+in parallel and in unison. Now, if we take a look at how standard claude code works, it all begins with your
+prompt. This is the user prompt and what you're telling Claude code to do. Then it goes into this agentic loop
+which is where all the magic actually happens. Gathering context is the first step in here which is super
+important for it to understand the context of what it needs to do. So this could be reading your files. This
+could be leveraging MCP and reaching out to other sources to get information and examples so that it knows how
+to complete your task. After it has the context, it takes actions. So, most likely this is going to be writing
+code or running commands and then it verifies the results to confirm that everything that you asked for is
+completed properly and that it's working. Then it loops back again, gathers context. If it needs to adjust.
+So, if something was wrong in the verification, it will loop back again, gather new context to solve the new
+problem. Let's say it runs into an error. Take action. verify results and then keep going in that loop to
+complete your task. Which is why Claude Code is so powerful as a coding assistant. In the middle of that, you
+can interrupt it at any time, add in new commands and new prompts to kind of steer it in the direction that
+you want it to go. At the very end, you'll have a completed assignment or codebase in whatever format that you
+had asked for. But how could we improve this even further? And that's when we're going to start looking at
+things like sub agents. But how can we improve this even further? And that's when we're going to start looking
+at some of the newer cla features like sub aents and agent teams so that we can make this process faster at
+our results even better than they were before. So claw code has a pretty awesome table here that goes over
+multiple different features, what they do, when to use them, and gives examples. And you can see sub aents and
+agent teams are both on here. Now, I'm not going to go over everything that has to do with them, but I will go
+over a quick summary. So, sub anients are great for isolated execution, and they're all kind of contained
+within a single session. So, it's still parallel tasks, but they're in a single session with specialized
+workers. Like I mentioned before, there could be like a researcher, a document, and a coder. And a good
+example would be if you have a lot of files and you only want to return key findings. So it's a very specific
+kind of tasks that multiple sub agents can do in parallel. Agent teams are different in that each agent is
+going in its own session. So it's still parallel. It's able to do parallel research, but it's able to work on
+multiple different things at once like feature development, debugging, and competing hypothesis because they
+can kind of communicate with each other, debate, and come up with the best solution. So, a good example would
+be having multiple different reviewers to check different aspects of the app like security, performance, and
+uh other tests all at the same time. Let's clarify even further because they're both parallel work, but
+they're actually architecturally different. So sub agents will run inside a single session and return results
+back to a uh a kind of like an agent leader while the agent teams are all independent different cloud code
+sessions with different agents that will communicate with each other and with the main task. Now, one
+important thing to note is that with sub agents, the cost is going to be lower because they're all part of one
+context rather than multiple different contexts which are all kind of building up their own costs
+simultaneously. So, with TLDDR is that you want to use sub agents for a quick and focused task. So something
+very specific and where they could have multiple parallel ones going over at the same time tackling that
+problem. While an agent team is great if you have multiple different kind of tasks and you want them to
+communicate with each other to challenge each other and come up with the best result possible. I think it's
+easiest to visualize this through an architectural diagram that Claude Code has in their documentation. So sub
+agents have a main agent that spawns multiple sub aents that can all do the same task or different tasks, but
+they're going to be siloed. They're each going to perform their work, get a result, and give it back to the
+main agent, and they all report back. And it's pretty clear how agent teams are different, and that you have
+your team lead, which is the main agent, and it creates a shared list of tasks. Then each uh not really a sub
+agent but a kind of a teammate agent that is spawned will communicate with that task list and get the tasks
+that are associated with their role. It'll work on there. It'll communicate with other teammates and see what
+they found, share what share what they found and overall cross off the task list and share it back up to the
+main agent. So let's actually start by playing around with sub agents. So, we're going to hop into the
+terminal here and start up claud code. And the first thing we're going to do is type in / agents. And this
+will let us create a new agent. So, press enter there. We're going to say that this is going to be personal.
+If it's project, then it's going to be only for a specific project, but we want this to be global so that we
+can use this sub aent in any project that we have. So, let's go personal. We're going to generate this with
+Claude. And what we're going to do is we're actually going to paste in this text that I have here that's going
+to create a new agent. It's going to be able to scan files, suggest improvements, and for read readability,
+performance, best practices, etc. Explain the issues, show the current code, and provide an improved version.
+So, this is a code improvement agent. So, let's go ahead and run that. Sweet. So we just created the new agent
+and these are the permissions and the tools that we're going to give it. So we're we're only going to give it
+readonly tools for now to make sure that everything is stays safe for this tutorial. So readonly tools
+continue. This is the models that we can give it. So I'm going to say this one can use sonnet and we can pick
+a color. So this is what will show up in the terminal when that agent is running. Now I'm a big uh Mets fan.
+So I mean obviously blue or orange for me. And since this is a cloud code tutorial, I think we got to go with
+orange here. Now, this is memory and it actually saves it to a file. For these purposes, we are not going to
+use memory. And there we have it. This is kind of the description of the agent, all the information about it
+that we gave it. And let's press enter to save it. Cool. And we can see our agent right here, the code
+improvement advisor. Right. So, I'm going to go ahead and open up a code editor. So, I'm using anti-gravity
+and we're going to test out this code improvement agent with some real code that I have for setting up a
+self-hosted N8N instance. All right. So, let's go ahead and spin up Claude code in my code IDE now with my
+project. So, we could do slash slash agents and see our agent. Yep, the code improvement advisor. Awesome.
+We'll escape out of there. And since we made this a personal agent, not a project agent, that means it will be
+available in this project as well. even though we didn't explicitly specify that. So, let's go ahead type in
+this prompt and we're going to change this to say the code improvement advisor and we're going to go ahead and
+run that and see what kind of suggestions it will give us. So we can see it running now and like we specified
+the color before we can see that the color is shown here along with our agent name and it's looking through
+all my files and it's trying to analyze it. All right, it looks like it's done here. Use 23 tools and we're
+just waiting for it to wrap up. Awesome. So here is the end result. So this is the code improvement. It gave
+different issues that it noticed in specific files. So, there's some hard-coded credentials. It's saying in my
+Docker Compose, which is the local setup for N8N. Um, it's saying there's some emails in the some actual
+emails in the examples. Um, a bunch of other things that it's saying could be security concerns and potential
+issues down the road. So, it's it's split it up, which is kind of cool, into critical, high severity. There's
+also medium severity which um is just not as critical. So different slight improvements that I could make and
+then some things that are low severity as well. So um yeah, it gives top three quick win. So yeah, that's
+pretty cool usage that you can do for sub agents. And now we're going to take a look at how to actually use
+agent teams. So just to note, agent teams are experimental at the moment. They're disabled by default. Um, and
+they do have known limitations, but we just need to add this uh setting to our settings.json file, which
+should enable it. Luckily, there's a code snippet here that we'll copy and put into our settings. So, again,
+we'll open up our settings.json in anti-gravity. Let's open it. Awesome. And we'll print in the ones that we
+just copied. So that should enable the agent teams mode. So we're going to hop back into our terminal here and
+start up cloud code. And the cool thing here with agent teams that you actually don't need to create certain
+agents like we did with the sub aents. We can actually just give it a prompt and it should create and run the
+agent teams on its own. So let's go ahead and paste in this prompt saying that we're going to design a CLI
+tool. It's going to track to-do comments across their codebase and it's going to create an agent team to
+explore this from different angles. a teammate on the UX side, the technical architecture side, and one that's
+going to be a devil's advocate. So, let's go ahead and run that and see how it uses the feature that we
+enabled to set up and run and coordinate an agent team. These are all the steps that the UX specialist is
+doing. It's performing a bunch of web searches. And we can check out the tech architect. We can see what this
+guy's doing. Uh, looks like it's parsing data. Oh, test number two assigned. Cool. Check out the devil's advoc
+advocate here. Let's head back to the main one and see how we're still waiting. But I see that the other ones
+are grayed out on the bottom here. So I think the only one that's left still running is the UX specialist. All
+right, it says all three are in. They're going to shut down the team. It's going to synthesize it from the
+main agent and let us know what the result is. Cool. So, it just spit out the plan and let's see what it's
+saying. It's going to give us okay a design brief product syn uh thesis here. Give three perspectives [snorts]
+with multiple different features. All right. And it has a technical foundation here saying what language to
+use, parsing, storage. Pretty cool. And yeah, here's the actual CLI portion of it saying what the commands
+would be. So, it's going to be a a CLI tool called todo. And it's telling us kind of what to avoid when we're
+building this. So, broke it up into multiple different phases and shut down the agents. Awesome. So, you can
+really see what the potential is here with these multi- aent systems where you have multiple agents running at
+the same time, completing their tasks in parallel and in unison while you have your terminal completely open
+to do other tasks on your own. Now, this is just scratching the surface because there are so many [music]
+tools out there that are available to help in every part of your business and more and more tools are coming
+out every day. I'll be here to stay on top of them so you always know what's going on with the latest AI
+technology and [music] how you can use it to get the best results for your business. Thanks for watching and
+I'll catch you in the next one.

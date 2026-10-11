@@ -1,0 +1,21 @@
+Title: Everyone is switching from ChatGPT to Claude. If you’ve been putting it off, you have no excuses now
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: wXg1Zke1ekY
+URL: https://www.youtube.com/watch?v=wXg1Zke1ekY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:30:08+00:00
+
+Kind: captions Language: en If you've been watching a ton of people switch over from ChatGPT to Claude and you
+haven't had the time yet, you literally have no excuse now. Anthropic Academy just dropped a ton of free
+Claude training classes. Just hop over to anthropic.skilljar.com and they're all listed out right here. If
+you're brand new to Claude, then you can check out Claude 101 to get a good start. If you want to go a little
+bit deeper into how you can [music] use it for work, then check out the Claude co-work course. Or if you're
+developer, then there's an intro to Claude code on the top. I think one of the most slept on parts of AI right
+now is it can go and talk to other programs. Like it would talk to your Gmail or your Google Calendar. You can
+learn how to do that with Claude by checking out the MCP or model context protocol courses, both the
+introduction and a more advanced one. They even have courses for educators and students or if you're in an
+enterprise environment, how to use Claude with Amazon Bedrock or Google Cloud for text AI. [music] And for you
+real Claude nerds out there like me, there's a course on agent skills that you can do these [music] tasks more
+repetitive and consistently, as well as sub agents so you can do them more efficiently and effectively.

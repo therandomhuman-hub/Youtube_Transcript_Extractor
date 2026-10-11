@@ -1,0 +1,28 @@
+Title: If You Haven’t Started Using Claude Skills 2.0, You’re Already Behind
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: W8Cnl0Qacck
+URL: https://www.youtube.com/watch?v=W8Cnl0Qacck
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:30:40+00:00
+
+Kind: captions Language: en If you haven't started using skills 2.0 in Claude yet, then you are already
+behind. Now, skills 2.0 aren't different than normal skills, but it changes the way that you can create them
+so they're much more consistent [music] and reliable. And the way that it does that is by introducing a skill
+creator. Now, the skill creator is actually just [music] another skill that Claude gives you out of the box.
+You can see here in my skills, we have the skill creator with the markdown file and a number of different
+folders, different [music] scripts, references, agents, and more. Now, the skill creator just literally holds
+your hand and walks you through the skill creation process. [music] It starts by performing an interview. It
+asks you what you're looking for, [music] what you're trying to accomplish, and any conditions that you might
+have. Then it drafts up an initial version of the skill. After that, [music] it performs a test of the test
+that you're trying to complete with and without the skill, [music] so it can compare them in the evaluation
+phase and see how effective the skill actually is. Then you can provide [music] feedback to tell it, you know,
+if you want to make an improvement in one way or maybe it wasn't as effective as you'd hoped. You might want
+to give feedback so that it can improve and revise. [music] And this portion here pretty much just goes on
+repeat until you are satisfied and could go ahead and create the [music] skill. So, here's an example of the
+evaluation. We could have the benchmark results right here. This is the pass [music] rate with the skill and
+without the skill, so you could see it's more effective with the skill. The time it takes is much shorter
+without the skill, [music] and it even takes less tokens. And then it breaks down per evaluation. >> [music]
+>> You see this one's analyzing different uh productivity tools. And it checks different assertions and see if
+it passes it with and without the skill.

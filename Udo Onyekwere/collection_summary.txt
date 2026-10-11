@@ -1,16 +1,16 @@
 Channel name: Udo Onyekwere
 Channel URL: https://www.youtube.com/@udo_dagreat
-Last updated UTC: 2026-10-11T18:36:49+00:00
+Last updated UTC: 2026-10-11T22:42:28+00:00
 Discovered in current scan: 63
 Manifest total: 63
-Transcripts saved: 48
+Transcripts saved: 60
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 48
+Resolved items (saved transcript or explicit no-caption outcome): 60
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 15
+Still discovered/pending: 3
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

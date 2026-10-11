@@ -1,0 +1,169 @@
+Title: YouTubes new update changes everything (MAJOR FEATURES)
+Channel: Deven Seenath
+Type: VIDEO
+Video ID: OgUexEKJ9_c
+URL: https://www.youtube.com/watch?v=OgUexEKJ9_c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:06:11+00:00
+
+Kind: captions Language: en Oh my gosh, the amount of AI news that just got released for YouTube specifically
+is just insane to me. Like there's type of there's all types of autodubbing. There's like lip changing, VO3
+updates. It's so much here. Let's I'm just going to get straight into it. All right, if you guys don't know
+who I am, my name is Devon Cath. I do a lot of YouTube stuff. Um, you know, I'm pulling 1.4 billion views a
+month right now. I'm helping a lot of people grow their own YouTube channel. And this is day 17 of the View
+Maximizing Boot Camp. a little bit of a little break in our boot camp. We're going to get straight into it
+now. So, the first things first, major AI with YouTube news. So, Google V3 and video gen is now inside
+YouTube. So, you're going to be able to actually make AI types of videos in the actual YouTube app itself.
+They're making it so the editing software of YouTube is going to be much much more easier to understand and to
+actually, you know, use. Um, for pose control, you're gonna be able to take a picture of yourself and
+basically make yourself pose in any type of way in the YouTube app. Um, for speech to song, there's going to
+be a speech to song, so you can, you know, they already kind of had this before and lots of other AIs, but
+they're basically taking every AI, you know, video gen, image gen, you know, music gen, and they're putting it
+all into YouTube. And this is kind of bad as well because there is going to be so much AI slop now. So, just
+just be be prepared for all the AI slop over the next couple months because when these features start rolling
+out, the content is just going to be worse and worse AI generated. It's going to be so bad. They're adding
+filters and object drops. So, basically means like if you have a banana or something like that or you want to
+have a banana sitting on you, you could basically use an AI to basically say, "Hey, put a banana on me while
+I'm talking in this video." And it'll actually just do it like it looks real. Um, auto editing and vertical.
+So, what this will do is like it's going to take a lot of your YouTube long form and then put it into short
+form, but it's actually going to make it look good instead of like slop. There was already a feature like that
+before, but they're making a lot better. So, as for studio and experiments, what they're doing with studio is
+they are making it so you can basically have a 247 AI to talk to. So, you can ask it like, you know, hey, why
+am I losing views around this point and my time? It'll analyze your channel and actually give you real
+results. It is insane. That AI is going to be incredible. When you like have a thumbnail that's not performing
+well and you ask the AI, hey, why is not performing well? It'll give you in-depth analysis of each individual
+metric on your channel to tell you how to fix it. It is insane. Um, it'll have you're going to have uh native
+AB testing for titles. Now, we already have titles for uh we already have AB testing for thumbnails, but for
+titles, you're going to be able to just, you know, kind of change it and kind of just see, you know,
+experimenting. Hey, does this title work better? But this one is really good for long form content. an
+upgraded inspiration tab. I don't think anyone uses inspiration tab. We're gonna be honest. I don't think no
+one uses that, but it's going to make it a little more uh useful. So, you're actually being able to get real
+results and like actually have quote unquote uh more than surface level themes when you're looking at the
+inspiration tab. For live streaming, they're adding this new feature where if you're streaming in a uh 16x9
+desktop, it's going to automatically make it vertical. So if you're streaming horizontally, you can also set
+it up so it's streaming vertically as well. And you can have two at once. So you can have like, you know,
+people on shorts can watch your shorts and live stream. People on like your computer can watch your long live
+stream and so you're not splitting your audience. So if you're on mobile and you're watching, you want to
+watch on there. If you're on desktop, you want to watch on there. Co-streaming. So this is pretty cool.
+They're going to allow you to go live on multiple platforms now. Uh sorry, multiple um channels now. So some
+people like for example if you have a clipping channel and you have a regular channel I don't know how you
+know useful this will be but you'll be able to go live on multiple channels to avoid like any type of reuse
+penalty. So it's pretty nice. Also going from live to shorts you're going to have clipping now like how Twitch
+has clipping. So if you're live streaming there's going to be a clipping option where you can clip that uh
+video into an actual short without any extra editing needed on practice mode. So now you're going to be able
+to have a fake audience and an AI chat that lets you rehearse going live. So like you're basically going to
+have real bots in your live stream to practice live streaming. Just the amount of AI updates is insane. I'm
+not even halfway through this document yet. That's so crazy. Um for pra for practice mode, you're going to be
+all to be able to do a lot of um uh testing to see just to make sure your videos is being pushed um correctly
+into the actual like bit rate of the YouTube as well. So, no problems with lagging or anything like that. It's
+a really good testing um thing. Side by side ads. So, you guys know how you can play ads and stuff uh on, you
+know, live streaming. Well, you're going to have it. So, on Twitch, when you have a live stream and you, you
+know, even ad playing, it basically minimizes the live stream and has the ad playing like in a bigger corner.
+YouTube's going to be like that now. And it's actually going to boost RPM, but you're not going to lose your
+people when you're actually live. Uh, one stream key. So, you're not going to have multiple stream keys for
+like OBS, uh, Streamlabs, and whatever else you're using. You're just going to have one key from now moving
+forward. You don't have to generate a new one that just covers for everything. All right. Mobile reaction and
+membersonly switch. So, you're going to be able to do this now where you can instantly flip your stream from
+public to private members. So, you can go live, announce to your audience, hey guys, I'm going to be doing a
+private live stream for only my, you know, uh, members on my YouTube. So, if you guys want to, you know, join
+the membership, then we're going to, uh, you know, have a private live stream. You hit the button, it just
+switches to members. And then playables. So, now, you know, we already know about the YouTube games. Honestly,
+I don't think anyone is using it. I I know people are saying YouTube is saying that they want to push it out
+more, but let's be honest, no one's using it, but there are going to be more playables and stuff with YouTube
+live uh for games. That that's pretty interesting. Monetization and brand. So, this is the huge part. All
+right. you are now going to be able to insert your own brand deals into like a promo of your video. So
+basically what I mean is if you want to remove or place an ad sponsorship into your video later, like let's
+say you wanted to integrate a a sponsorship and then all of a sudden your sponsorship got terminated or
+something happened in the YouTube editor, you'll be able to remove this sponsorship and if you're contracted
+for a year after a year you can remove it from the video. So it's entirely gone and you don't have to work
+with the company anymore. So, it's not on there forever. So, if you're signing a contract, usually companies,
+they pay you on on YouTube for more because that video is a longevity video. You can't just randomly take out
+the ad, right? But now, you're going to be able to insert or swap your ads into the video. This is insane
+because you don't have to be stuck in contracts anymore and you can have multiple brands switching. So, let's
+say a brand pays you for, you know, a month to have it there, you can switch to another brand and then
+reinsert the ad into the video. That's pretty crazy. Partners, open calls, and hub. So, there's going to be a
+hub where you can talk to other content creators in the YouTube studio and reach people who are getting
+similar views to you. That is pretty crazy. Also, on top of that, you're going to be able to have a hub for
+brand deals. So, you know, instead of being able to like, you know, wait for a brand to reach out to you or
+you reach out to brands, there's going to be a basically a hub where you are a certain rank on YouTube, you're
+getting a certain amount of subs and views and they know your niche and they'll be able to reach out to you
+purely just from the YouTube studio. So, no need for, you know, third party negotiations, all types of scams,
+you know, going back and forth. It's just through YouTube. And, you know, you'll just get probably get paid
+straight through AdSense. It's pretty crazy. short brand links approval. So, you're gonna be able to put like
+brand products and stuff on shorts and I think more people are going to be able to do that. And you're
+probably going to see a lot of sponsored shorts as well, which is going to be awesome because shorts only
+makes money through revenue right now and maybe super chats. And now you're going to be able to get sponsored
+on shorts through ads and clickable ads. And it's going to be pretty awesome. AI product tagging. So,
+YouTube's going to now detect if you're actually having a product in your video and they're going to tag it.
+So, if you're affiliated with that product, you're going to get paid immediately. Um, so it just adds it to
+it. So for example, if you're making a product about AirPods and then Apple has a connection with YouTube,
+YouTube's automatically going to put an AirPod buy thing on your shorts or your long form video and if someone
+buys it, you're going to get a commission. That's crazy. Global and safety. This is crazy. Okay, I need you
+guys to pay attention for this part. All right, YouTube is now officially releasing a global translation for
+every single language. Now, this is pre-released to a lot of bigger YouTubers like Mr. Beast. I don't know if
+you've seen his videos, but um in most of his videos, you can basically select almost any language in the
+world, the most spoken languages, and it it's basically dubbed for him. So, when you watch the video, you can
+watch in Japanese, in Spanish, and Portuguese and Hindi, it doesn't really matter. That's how he's able to
+pull so many views every single long form video. It's because not everyone's English- speakaking. He has
+people from all over the world watching his videos. That's why the comments are in all different types of
+languages because he has people. He literally has the Naruto voice actor voicing his, you know, voice in the
+actual um, you know, uh, his actual videos. Well, now they're actually going to have it their own autodub for
+Spanish, Hindi, Korean, Japanese, and so on and so on and so on. But the crazy part is it's going to have
+automatic lip sync. So, it's going to use an AI to change the way your lips move to make it look like you were
+actually talking in Spanish, Hindi, Korean, Japanese, you know, Portuguese, whatever. This is huge. You're
+going to get so much more reach in your viewers because before, let's say you only spoke English. There's only
+1.5 billion people in the world who speak English. And now you're going to be, that's only 20% of the world's
+population. Now, you're gonna get access to 100% of the world's population. You could potentially 5x your
+views. I'm getting 400 million views a month right now on this channel. This channel right now. 400 million
+views a month. And I'm going to be able to 5x it. I I'm probably going to be able to pull close to 200 billion
+views a month once this feature rolls out. It's going to increase my my revenue streams by probably 3 to 5x.
+Like I I'm already making $40,000 a month from YouTube. I got like 36 channels right now that I'm you know,
+look at this. I I mean I'm going to have my editor blurred out, but like I have so much channels I'm running
+right now and they're mostly in English. And you're telling me that I'm going to be able to dub all of them?
+I'm going to be making like close to $300,000 a month from YouTube once this dubbing feature comes out and
+you're going to be able to make so much more money, too. Also, another thing as well for likeness detection.
+YouTube is going to scan and impersonate deep fakes of you. So if people are making deep fakes of you or
+you're you're you know you're making deep fakes of other people, it's going to be able to detect that and
+immediately take down the content. Lastly, also YouTube is adding this feature where if you are a member of a
+channel, let's say you're a viewer or manager, you're going to be able to upload a video across um one channel
+and the watch time is going to count towards multiple of them. So, let's say you and your YouTube buddies are,
+you know, collaborating on a video, but you want that video to add to your views overall and your watch time
+overall. You know, the person who's uploading is going to get the revenue, but you're still going to get the
+watch time and the views, which is going to count towards monetization. It is crazy. They're basically adding
+like collaborations on Instagram onto YouTube. So, that's pretty awesome. Audio and podcast. So, we kind of
+already talked about this a little earlier, but if you upload a podcast audio file, YouTube's going to be able
+to autogenerate visuals and graphics, so it doesn't feel like a static image. So, you can basically just
+record just audio and you upload it and YouTube's going to have AI basically fill the entire video. Now, I'm
+not sure how powerful this is going to be, but they're integrating with V3 and Google AI Gem, which I don't
+know if you guys have seen it already, like the woolly mammoth and like the the abominal snowman, like talking
+vlogging videos. It's really good. Like, it's so hard to tell that's that's not real. And they're integrating
+that into YouTube within the next couple of months. So, this news is crazy. All right. Uh, this was announced
+two days ago on September 16th. Sorry I'm getting to you guys a little late. Um, I just I've been busy with
+other stuff, but I really wanted to make a video on this. This is day 17 of the boot camp. So, just expect
+this information and this this stuff to get rolled out over the next couple of days because oh, this this is
+insane. This is so insane. The amount of AI YouTube is using to integrate. It's like YouTube is becoming the
+most dominant app. like it didn't have some features that like Instagram and like Tik Tok had where you can
+like go live and you know like or you know how Twitch had it where when you're going live uh like the ads
+would play on the side or you know there's clipping but like they're basically just taking everything good
+from every platform and putting it on YouTube and then including Google AI gen and BO3 and the dubbing is just
+insane just oh gosh you guys stay tuned for this. Um anyways that's pretty much it for this video. If you guys
+don't know who I am, my name is Devin Cath. I pulled 1.4 billion views this month across all social media
+platforms. Um, I run 36 YouTube channels, YouTube automation. I'm making over $110,000 a month of social media
+right now at the age of 19. Um, so I mean, it's it's pretty good stuff. Pretty good stuff. If you guys want to
+work with me oneonone, click on the first link in the description and check it out. If you guys want access to
+this document, I'm going to leave it in like somewhere in the description as well. Make sure to join my
+Discord. We got lots of amazing people in there sharing and growing um, you know, their analytics and stuff
+like Here, I'll show you guys right now. So, we got a crazy community over here growing really quickly. I
+mean, if we just go to the welcome, like we're having like, you know, like 50 people join every day and like
+we're growing this community really quickly. We have so many people sharing their analytics in here and we're
+all teaching and learning each other. And of course, I have an ask Devon section where if you guys want to ask
+me any questions, I'd say I consider myself a YouTube expert. So, if you want to, you know, get a question
+answered by me, you can ask me here. But if you want to work with me one-on-one and help me scale your
+channel, help you scale, I can help you scale your channel, you know, from, you know, either zero to 10
+million views, 10 million to 50 million, you know, 5 million to 100 million, whatever you want to get. I can
+pretty much get you there. Um, click on the first link in the description, you can work to apply with me.
+Anyways, that's going to be it for this video. Have a good rest of your day. I'll see you guys on day 18 of
+the boot camp. If you guys haven't watched the rest of the boot camp yet, watch day one because we're pulling
+crazy amounts of information and sauce on YouTube that no one is dropping. So, I'll catch you guys in the next
+video on day 18. Bye. I love you guys.

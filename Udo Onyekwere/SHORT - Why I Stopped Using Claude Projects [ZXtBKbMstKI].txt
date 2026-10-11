@@ -1,0 +1,13 @@
+Title: Why I Stopped Using Claude Projects
+Channel: Udo Onyekwere
+Type: SHORT
+Video ID: ZXtBKbMstKI
+URL: https://www.youtube.com/watch?v=ZXtBKbMstKI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:34:46+00:00
+
+Kind: captions Language: en Now this next tip goes against what everyone says. Avoid projects. Eamon actually
+hates them, but because a project has its own separate memory, it completely cut off from everything else in
+Claude. So if you spent months building up context in normal chats and then go work inside a project, it's
+like Claude never met you and basically forgets everything of the previous history.

@@ -1,0 +1,25 @@
+Title: If you’re using Claude skills by themselves, you’re doing it wrong.
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: 3rMbfWON4yI
+URL: https://www.youtube.com/watch?v=3rMbfWON4yI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:29:34+00:00
+
+Kind: captions Language: en If you started using skills in [music] Cloud, you probably know how great they
+are, but honestly, if that's where you stopped, then you're really leaving potential on the table, and I'll
+show you why. So, with [music] skills, it pretty much all lives within the Cloud world, which is great for
+some situations, but you might notice that there's times that you want to interact with the outside world.
+[music] You may want to connect to Slack to send a message, or connect to Notion to write a page. So, all of
+this is tough to do within skills and tough to share, but luckily, we now have plugins. So, plugins, what they
+do and why they're so powerful, is that they bundle up a bunch of different parts of Cloud all in one package.
+So, we already kind of talked about skills, and you know what that is, but now you can add skills with
+commands, with prompts, and [music] with connectors to reach out to the outside world, start workflows, run
+specific tasks, and tell it what it's doing. And with skills before, you would have your skill, you'd have to
+download it if you wanted to share it with your friend over here, you would send it over [music] to him or
+her, and then they would upload it for themselves. [music] So, honestly, in the modern world, not the best
+solution. But with plugins, what it does is create a real marketplace. And there, you can literally just plug
+into it, hence the name, plugin. So, when you add your plugin to a marketplace, you can have a developer over
+here that plugs into it, maybe you over here, you're plugging into it, all the other Cloud nerds, including
+me, this one's me, plugging into it, and all being able to use that exact same bundle of connections.

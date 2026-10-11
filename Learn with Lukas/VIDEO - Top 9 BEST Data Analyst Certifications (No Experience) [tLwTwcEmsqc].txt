@@ -1,0 +1,175 @@
+Title: Top 9 BEST Data Analyst Certifications (No Experience)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: tLwTwcEmsqc
+URL: https://www.youtube.com/watch?v=tLwTwcEmsqc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T23:10:01+00:00
+
+Kind: captions Language: en A data certification is one of the quickest ways [music] to get hired, especially
+as a beginner without prior experience. AI is changing things, but a data analyst job is here to stay, [music]
+assuming you have the right updated skills, including AI by taking certifications. Now, why care what I have
+to say? Well, I started my channel talking about data analytics over 3 years ago, and that was all I did back
+then. I've made tutorials, reviewed courses for over 3 years with millions of views, and I've created some of
+the most popular data analytics guides on YouTube, helping thousands of people start their careers in data.
+Everything's public. Now, I totally agree. Most courses and certs are a complete BS and waste of time. But,
+these nine certs actually matter for becoming a data analyst in 2026 with no degree or prior work experience,
+and at the end we'll cover some advanced level certs, too, [music] so let's begin. The first certification is
+by Microsoft called Power BI Data Analyst Associate, or simply PL-300. Now, this one is perfect for beginners
+and one of the most valuable data analyst certifications ever. Recruiters literally scan the internet and
+resumes looking for this stuff. I'm not going to waste any time, so let's check the details really quickly.
+The objective is to demonstrate methods and best practices aligning with business and tech requirements for
+modeling, visualizing, and analyzing data with Power BI. Basically, to make it really simple, this
+certification is data analytics plus Power BI. That's it. Now, why should you spend a whole course learning
+Power BI and get a whole certification on it, right? Why? This website actually analyzed millions of data job
+listings, and here you can see the data analyst job. Power BI shows up at the top of the list with about 20%
+of the job listings specifically asking for Power BI skills. Now, look, let's be honest. It's never going to
+replace learning SQL or Python, but if you think of your resume like a toolkit, Power BI is a very strong tool
+to have in your toolkit. It also integrates well with other Microsoft products like Excel and even Microsoft
+Azure, which is very popular when you're doing data analytics in the cloud. Now, this certification is about
+creating data visualizations and dashboards and reports, so people can use them in your company and explore
+the data for themselves, which is called self-service analytics. Now, it says intermediate level, but that's
+just kind of because you do need some studying and you can take it in like a week. It's still pretty quick.
+I'd say it's for beginners and we'll cover that in a second. Now, this certification is reviewed every 12
+months, so I only recommend getting this one if you're applying for a job right away. I would say that the 12
+months should be sufficient, but you never know in this job market unless you're well prepared. Now, the exam
+itself covers four different areas of Power BI and data analytics. It covers data preparation, data modeling,
+data visualization, and data analysis. And then, a fifth one kind of, which is managing and securing Power BI,
+which is kind of like a specific part of that course to that tool. There is a free learning course, which you
+can see right here, at about 20 hours, and also a free practice assessment, which I highly recommend. I can't
+stress this enough. You need to take the practice assessment. There's also an exam sandbox you can play around
+with, and just some other things to get more comfortable uh before the exam. Now, in the exam, you get 100
+minutes, and if you fail, you can retake it 24 hours later, so no problem. But, each attempt costs $165 in the
+US. Now, price will vary depending on your region, but that's why I highly recommend studying and taking the
+practice exam, which is free, so why not do it? But, I actually don't recommend starting with this data
+certification. I recommend doing this instead. Take the Microsoft Power BI Data Analyst Certificate on
+Coursera, which has nearly half a million students. And this is kind of like a longer, more complete learning
+track for the official PL-300 certification. It's much more detailed, much better, and just much more
+valuable. And if you finish this professional cert, you'll learn a ton of stuff in addition to preparing for
+the cert, and you'll be extremely well prepared for PL-300 Microsoft official cert. So, it's a win-win. It's
+also beginner level, 5 months at 10 hours a week, so it's, you know, a lot longer, I'll be honest, than the
+20-hour prep course, but definitely worth it, trust me, and you'll be much more likely to pass the exam as
+well. And you also get a 50% discount on the real Microsoft exam if you complete this Coursera program first.
+So, instead of just taking the certification quickly, you'll also build projects, build a portfolio, learn the
+stuff in detail, and you'll not only have a certification, but actually have a portfolio and a good resume you
+can show to recruiters, and that is how you land a job in data. So, I love these two ones, especially when you
+combine the Microsoft one with the Coursera one. It's a really good combo. Only reason not to take it is if
+you prefer Tableau or something else instead of Power BI, or if you're still missing SQL skills, that should
+always come first. Next up is the CompTIA certification. Now, founded back in 1982, CompTIA is a leading
+organization for certs that are specifically known for their A+ cert, which helps a lot of people break into
+IT. But, they also have security certifications, network certs, and of course, our data analyst certification.
+It's called a Data+ V2, as it's a new version they just released. I'll quote the website saying it's an early
+career data analytics certification that shows you have the practical skills to turn raw data into insights.
+You'll be tested on your ability to analyze, interpret, and communicate data clearly, solving business
+problems, standing out to employers, and making data-driven decisions. It's basically a perfect one for data
+analysts. Now, we can still take a look at the content if it's going to be worth it when you actually look at
+the exam, right? What are you going to be tested on? 20% is data concepts and environments, which is kind of
+like data fundamentals and the basic tools you can, you know, use. The next part, 22% is acquisition and
+preparation. Basically, how you get the data and where you get the data from, and how you prepare it for
+analysis by exploring it, transforming it, making it into the right format that you need. The next part is my
+favorite, data analysis at 24%, where you'll be surprisingly analyzing your data, communicating results, and
+dealing with a lot of issues, trust me. And then, there's a 20% visualization and reporting. We can create
+these funny-looking charts, and you can make your manager happy by delivering good reports. Then, some data
+governance, which is kind of the boring part, but very important. It's how you manage the data, how you store
+it, how you deal with versions, documentation, traceability, privacy, access control, all these things,
+quality encryption. These things are very important and play a big role in the other steps to make it a
+success, or more so to not make it a huge failure when somebody steals all your data. That's pretty much all
+you need to know. Now, the exam itself was released in 2025, and it's 90 minutes and 90 questions, so it's one
+question per minute, and it's definitely not about reasoning or, you know, doing a project yourself. It's
+basically just multiple-choice questions, mostly [music] answering quick knowledge stuff. They do recommend 18
+to 24 months in a data analyst position, which I don't really agree with. If you practice properly and
+actually learn, you can take this. But, I do recommend that you should probably learn at least 6 months' worth
+of data analytics and do projects for 6 months before you take this exam. It's supposed to be a little bit
+difficult, and that's kind of the point. Great option, not that easy, but for people willing to take on the
+challenge. Next up is DataCamp. [music] Now, DataCamp is one of the key players in the data space with over 19
+million learners. [music] That's a lot of people, more than many countries, so they must be doing something
+right. [music] They offer a certification for aspiring data analysts, which I've featured before on the
+channel. It's industry recognized and always gotten great feedback from you guys, so I thought I would just
+bring it back again, why not? There are two different levels to it, and the first [music] level, or first
+certification, focuses on the basics and becoming kind of like just learning the basics. The second one is
+then about becoming job-ready, so it's more like basic and then job readiness, which in my opinion is a very
+good approach for beginners. Now, let's talk about the details. You sign up for the certification right here,
+and you have 30 days after you register to complete [music] the certification, and, you know, complete a few
+steps. If you successfully pass the steps, you are officially certified. >> [music] >> That's it. The steps
+include a timed exam and a practical exam. Now, the timed exam focuses on testing your knowledge in a specific
+amount of time, which makes sense, and whether you actually understand the underlying [music] theory. So, it's
+more about theory in the the time exam. The practical exam tests your real data skills and whether you can
+actually work and do the job of a data analyst. And so, how it's going to look like when you take the test is
+kind of like for the basic level, you need a first-level 2-hour timed exam and a practical exam. That's it,
+two exams. [music] The job-ready level, so one level above, has two timed exams, and one of them is 2 hours,
+another one is 1 hour, plus a practical exam. So, a really interesting thing that nobody seems to be talking
+about is you can actually pick your own skills when you take these exams. So, for example, [music] most
+courses out there, they kind of force you to learn either R or Python or something like that, but DataCamp
+lets you actually choose that yourself, so you don't have to learn both, which is [music] much better thing to
+focus on one thing like R or Python, whatever you prefer, and then SQL. [music] Now, I shamelessly personally
+prefer Python, but R is a great option, too. And the learning experience is incredibly hands-on and
+interactive here, and the easiest way to prepare for the certification is kind of just to follow the data
+analyst in Python or data analyst in SQL career tracks. But, you can just prepare in any way using their
+platform. You have access to all their courses. And then, once you get certified, you're also part of the
+exclusive community of other certified people. Wow. I love it. And there you can find like things like events,
+private forums, group chats, you know, other resources to help you in your journey of applying for jobs, which
+I definitely like. They've made the whole process extremely simple to kind of learn the skills, pass the
+exams, get certified, and then join their community, which is one of the big advantages of DataCamp. Now, to
+master the data visualization skills, which is a core part of being a data analyst, you can check out their
+data analyst in Power BI track. [music] You go through a complete learning program co-created by DataCamp and
+Microsoft, specifically designed to prepare you for their official PL-300 certification, which we briefly
+mentioned before, also known as Microsoft Power BI data analyst. This is one of the top certifications and
+highly respected across the data industry. It's kind of like a cheat code on your resume, as I said,
+especially if you're just starting out. And plus, again, if you use DataCamp to prepare, you can get a 50%
+discount on the certification. So, you're effectively getting the best of both worlds. You're getting
+practical experience, actually doing the projects and working on these things, and also a pathway to an
+industry-recognized certification for a discounted price. Another option for you Tableau users is going to be
+the Tableau Certified Data Analyst [music] certification. And this one focuses specifically on, surprisingly,
+Tableau. Now, the data visualization software Tableau is made and owned by Salesforce, and it's one of the top
+data skills employers look for. You take the actual certification on Tableau's own site, but DataCamp helps
+you prepare all the way. You simply follow their Tableau learning track, which teaches [music] you pretty much
+everything you need to know. And then you head over to Tableau's own website, pass the certification, pass the
+exam, and get certified. I'm a big fan of these tech certifications, and you can either combine the general
+[music] data analyst cert, or you can take them on their own. They're completely fine on their own, too. Would
+definitely recommend. Moving on, we have the Google Advanced Data Analytics cert. So, look, I'm a big fan of
+the Google certificates, but the basic version is not good enough anymore. Learn in-demand skills like
+statistical analysis, Python, regression, and machine learning in less than 6 months. That's what I'm talking
+about. Now, you say, "Lucas, why the heck should a data analyst learn all these things?" The truth is,
+everything isn't perfect, and you don't actually need everything. You'll see that the course starts with
+foundations of data science, and that's very good. But as a data analyst, we don't need all of it. It talks
+about translating data into insights, statistics, regression, machine learning. And in my opinion, the reason
+why it's a good option is because it goes beyond the data analytics skills. And the job market is quickly
+changing, and if you just know like how to do some SQL or create some cool visualizations, you're not really
+future-proofing your career. It's much better to learn a broader set of data skills and as much as you can
+learn. And everything you do in this course is using Python, which is literally the number one programming
+language and one of the most in-demand skills for data analyst, data scientist, machine learning engineers, AI
+engineers, so many different jobs. And it works perfectly in combination with the other courses like the one
+up next. And that is Microsoft data visualization. Develop skills in a data analysis and visualization, build
+job-ready skills, or so they say, for an in-demand career in data visualization in as little as 3 months, no
+prior degree or experience required. Now, in my opinion, this is kind of like the perfect complement if you
+just want to focus on data viz, making charts, graphs, reports, and working with Power BI. Many of these
+courses actually overlap with Microsoft's data analytics certificate, but this one is kind of just like a
+shorter version if you only want to focus on the data visualization part. Absolutely worth it if that's your
+objective. Next up is a more advanced certification, which is Microsoft Fabric Analytics Engineer Associate.
+Now, full disclaimer, I don't recommend this for complete beginners, but it's also not as hard as people
+think. Fabric is Microsoft's cloud-based analytics platform. It's part of the broader Microsoft Azure
+ecosystem, which you might be familiar with. If not, that's fine. Azure is used by a lot of companies for
+analytics, machine learning, and all that stuff. It's a valuable skill, and we can see that the role
+recommends this for data engineers as well as data analysts. And kind of what it does is help you prepare and
+enrich data for analysis. Basically, you're building skills to getting data ready in a Microsoft Fabric to be
+analyzed. You also secure and maintain analytics assets, like for example, your data, and implement and manage
+semantic models, which can be used to generate reports and analyze data. So, it's kind of like a mix of all
+these things of infrastructure, analyzing, >> [music] >> maintaining all the data. And there's a free practice
+assessment, a learning course about 25 hours, which is for free, and the exam is a 100-minute test for 165
+bucks in the US, but varies by country. So, who should take the certification? Again, I don't recommend it for
+beginners. It's kind of ideal for data engineers or more senior aspiring data analysts. It's intermediate
+level. And then we have one of my favorite certifications, [music] Microsoft DP-900. Now, this one is for
+beginners, and it's called Microsoft Certified Azure Data Fundamentals, a much better option for all
+beginners. The goal here is pretty simple, and it's to show knowledge of core data concepts related to
+Microsoft Azure and their platform. It's beginner level and made for the data engineer primarily, but I think
+it can be extremely valuable for data analysts, too, [music] as more and more is moving to the cloud and
+platforms like Microsoft Azure. And showing that you have these skills improves your data analytics resume,
+even if it's primarily for data engineers. It literally says, "This certification is made for you if you're a
+candidate beginning to work with data in the cloud." So, if you're just looking to get started with that, then
+it's a great one. There's a free practice assessment and a learning path, but really, there's only two core
+things you need. You should understand relational and non-relational data, and you should understand the
+different types of data workloads like transactional and analytical. You learn that in the free course in just
+a few hours. Slap it on your resume, and boom, you prove basic proficiency in a Microsoft Azure. Massive
+advantage as a beginner. That's it, guys. I also reviewed some more of the top data analytics courses. Check
+this one out right here, and goodbye for now.

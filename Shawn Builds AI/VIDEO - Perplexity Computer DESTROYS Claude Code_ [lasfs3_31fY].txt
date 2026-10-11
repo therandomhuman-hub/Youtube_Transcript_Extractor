@@ -1,0 +1,95 @@
+Title: Perplexity Computer DESTROYS Claude Code?
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: lasfs3_31fY
+URL: https://www.youtube.com/watch?v=lasfs3_31fY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:24:10+00:00
+
+Kind: captions Language: en Perplexity just dropped something called computer and it's coming for Claude.
+Tools like Claude and Open Claw have been exploding recently because they're AIs that can actually do things
+for you. Think about sending messages, creating reports, and coding full applications. It's basically like
+having an AI employee that's working for [music] you. And Perplexity, one of the largest AI companies in the
+planet, just launched their own version and they're saying that it could be even better. So today we're going
+to test that out and see if Perplexity's computer is better than the other options out there. So what I have
+pulled up here is the OG Perplexity site. Now if you haven't used Perplexity before, I think it's the best AI
+tool to use for research. And the reason is because it's amazing at taking different sources and compiling it
+into an answer and then citing those sources for you to use. So, for example, here I have a query pulled up to
+ask for companies that are expanding into new data centers for AI. And what it does is it actually pulls real
+sources that are relevant and recent. So, if we check out the sources, we can see here all these articles that
+um were pretty recent to when I actually ran this earlier this month. So, that's great, right? It is recent,
+it's relevant, upto-date, and it gives you real sources. But how does this actually compare to something like
+Open Claw or Clawed Code that can connect to all these different sources and code and run AI so much faster?
+Well, Perplexity took a strong foothold in that market yesterday when they launched Perplexity Computer. Now,
+their goal is for this to be a competitor of things like OpenClaw and Claude Code. And the way that it works
+is that it is running sub agent systems. So, if you haven't heard of that, um, you can go ahead and check out
+the video above here where I explain how sub agents and multi- aent systems work. But basically, this is what
+claude code is using to code so much faster than a lot of other platforms. And the key part of that here is
+this API calls that are connecting to your services. So now it's not just going to be answering questions in a
+chat, but it can reach out to any other service that you have as a connector through MCP. Now, all of these
+are going to be running in parallel. So, think about it like this. You might have one sub agent that's going
+and performing competitive research, while another one could be compiling that into an Excel sheet, adding it
+to your Google Drive, and then the other sub agent could be messaging you on Slack with a link to that new
+report. Now, one of the other things that puts perplexity above other platforms is that it is great at
+orchestrating different models. So, Claude code just uses the anthropic models while here they orchestrate
+between, you know, anthropic models with Opus. uses Gemini for deep research, Nano Banana for images, and Veo3
+for videos, Grock, Chad GBT, so it knows which model is the best for each task. And the sub agents will choose
+the model that will best perform what it needs to do. In their demo video, they're asking about different
+companies like Nvidia and getting real data based on their searching abilities, but also uploading an Excel
+sheet so I can use that as reference. and it could also update it now. So then it runs these sub agents like
+we mentioned so it's able to do multiple things at the same time and comes up with the valuation at the end.
+So that's super super awesome. But it doesn't just stop there. It actually updates the model, creates a new
+sheet that you can use and it saves as a file for you to download. Not only that, but also it has the ability
+to create visualizations. though um it creates interactive web apps that you can actually use to look at the
+data and interact with it. Now this is one of the coolest features in my opinion because since it's a
+cloudbased app it's actually able to self-host these things which puts it above claude and openclaw in my
+opinion because it is available and more useful for nontechnical users. It's also pretty awesome that it can
+schedule tasks meaning that you can say to update this every time that Nvidia has a quarterly earning. so
+awesome at doing cron jobs while some of the other platforms don't do things like that. Here's an example of
+it actually going and creating clips, short form videos based on other videos, adding captions and things like
+that. So, super super powerful tool with a ton of potential with what it can do. And like I mentioned earlier,
+Perplexity Computer can connect to a ton of different applications that you may have accounts for. So this is
+just the list here and it does this through MCP which is actually very similar to how claude code does it. So
+u both of these have awesome integrations that your sub agents can utilize. So let's check out some actual
+examples of perplexity computer in action. So they have a bunch of live examples and this one here is creating
+a fitness tracker from Andrew Huberman's recommendations. So, um, it's running multiple tasks in parallel,
+checking, uh, Huberman's strategies here, and it's going to, yep, get more information about him, and it
+creates files, um, on Perplexity side, and it's using Opus 4.6. So, this is how it creates actual interactive
+sites that you can use. Um, so it created this interactive web app that we can use. And if we check it out, u,
+yeah, pretty sweet. It has Hubberman Lab up here. and days of the week that you can train. Um, it actually
+has, you know, you can time your workouts like this. Gives you the protocols, exactly what you should be
+doing. Um, and even two different types of days. So, if you want to do a strength day or a hypertrophy day,
+you could time your rests. Um, so honestly, really powerful. And you can see up here it's hosted by Perplexi.
+So, super cool. And you could even download a report. That's awesome. Let's check out one more. So, let's make
+this interactive Billboard chart race. So, what it's going to do is run tests in parallel again. Check out all
+the Billboard Hot 100. Um, look at some more data sets. Check out different code repositories. So, it's
+actually running code commands on Perplexity side. Look at that. It even authenticates to it, too. That's
+that's amazing. And cool. It grabbed data from 1958 to 2026. It's building out the lists and wow, it's
+creating MP4 file animation and look at that. You check this out. That's awesome. So, it shows the actual um
+numbers of how popular different genres were throughout the years. So, you could see rock super popular. This
+was in the 60s I believe. And now as we move, let me move myself here. So yeah, that was in the ' 60s, '7s,
+'8s. Pop just kind of takes off. So wow, awesome. Awesome. Let's go back, check out the rest of this. Move
+myself back down here. And it creates it even deploys this, right? So, it's deploying a web app that we can
+use. And this one's interactive again, kind of like the Huberman Lab one. And it says the top uh the top genre
+and we can see it over time. So, this is throughout the years. That's so cool. It's like an interactive map
+that you can use and see what the number one hit is in each genre. Actually, the top three. Wow. So,
+Perplexity Computer is super cool, but don't get too excited because it does come with a hefty bill to get all
+of those capabilities. They want you to upgrade to the max plan and there's a yearly option and a monthly
+option, but it is steep. It is $200 per month if you play if you pay monthly. So, um you know, a lot of
+capabilities here, but you're definitely going to be paying for it. On the other hand, if we look at Claude
+Code, they start with a $17 per month plan. if you pay uh annually for the pro pro plan and then even $100 per
+month for max max plan and I think it goes up to 200 as well for some plan. So um Claude is definitely a
+little bit easier to get into and eventually work your way up but again different capabilities and you should
+consider that as you're deciding on what price point you want to go with. So, Perplexity Computer unlocks a
+whole new world of possibilities with a ton of new capabilities, some of which are available in other tools
+like Claude Code, others of which are unique and new to the whole ecosystem. Now, if you are non-technical and
+you're trying to use AI to its highest capabilities, then in my opinion, Perplexity Computer is leading the
+game right now, especially with the fact that it can deploy web apps. It can run um cron jobs on a schedule
+and it's so great at doing research. So any data inensive task where you need live information and recent
+reports then perplexity computer is going to be the top option for you. Now this is not a technical tool. So
+if you are trying to do anything like coding applications then this is probably not the tool for you. But for
+other use cases for business users this is awesome. So, if you're just getting into utilizing AI for your
+business, maybe start with something a little bit lighter like Claude Pro. And if you decide that you actually
+want to take it to the next level, then Perplexity Computer could be the best option. I'll see you guys in the
+next one.

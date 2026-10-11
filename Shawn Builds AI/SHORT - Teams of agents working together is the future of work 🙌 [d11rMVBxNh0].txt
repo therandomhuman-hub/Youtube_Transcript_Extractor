@@ -1,0 +1,30 @@
+Title: Teams of agents working together is the future of work 🙌
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: d11rMVBxNh0
+URL: https://www.youtube.com/watch?v=d11rMVBxNh0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:26:15+00:00
+
+Kind: captions Language: en Teams of AI agents working together to complete a task is the future of work.
+Anthropic just released the two best patterns that you can use to organize teams of agents for this purpose.
+They're both designed in a way that utilizes a lighter, faster, cheaper model along with a heavier, smarter
+model that's also more expensive to balance out the tasks in the right ratio, but also to optimize your token
+expenses. The first format here is the advisor format. a cheaper executor model like Sonnet 5 in the main
+loop. The most of the tokens are built at this cheaper executor rate, but when it needs advice on an important
+decision to make throughout the process, then it has the ability to call a tool up to a more expensive model
+like Fable 5 for instance. Since this is on demand, it's used less frequently and overall costs less than if
+you were to run this through Fable 5 on its own. The code for it is actually pretty simple. As you're creating
+your main agent, you just give it an advisor tool, which is using the more expensive model for the advisor.
+The second pattern is the orchestrator pattern, where the main loop is running through the more expensive
+model like Fable 5. In that main loop, the primary purpose of the main loop is just to create an execution
+plan. That execution plan is then fanned out to multiple worker agents that are running cheaper models like
+Sonnet 5. Each worker agent then has its own loop to complete the task and report it back up to the primary
+orchestrator agent. Since the orchestrator is just doing the plan, most of the work is carried out by the
+workers, so most of the tokens are built out to the cheaper model. The code for this is a little more
+involved, but still not too bad. First, you create the worker agents using the cheaper model, giving it the
+tools and the system prompt that it needs. Then you create the coordinator agent that's using the more
+expensive model. And in here you add a field that tells it that it's a coordinator and give it a list of the
+worker agents that it can call upon. The thing is, there's no right or wrong way to run these multi-agent
+systems. So try both out for your scenario, see which one gives better outputs and costs less tokens.

@@ -1,0 +1,134 @@
+Title: The New Viral Motion Graphics (Turned it into a skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: 98KlVeJ9ylg
+URL: https://www.youtube.com/watch?v=98KlVeJ9ylg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T21:56:52+00:00
+
+Kind: captions Language: en This is motion graphics on the left. That's the lyric music video for my motion
+graphics video. The one that did over 160,000 views. And on the right, Katana rebuilt it shot for shot. Same
+cuts, same timing, same words, every hit on the same beat. But now I'm in it. And today you're going to learn
+how to make this. And on the right was done by AI. My claude was the director. I read my edits. It planned
+every single cut. and the Katana Hicksfield new editor built it basically. Wait, that's just give me one more
+minute. I'm almost done. I'm sorry, D. All right. For a long time, I kept telling you I'm not sponsored.
+Nobody paid me for any of these videos because honestly your support and how well these videos have been
+doing, companies are actually reaching out to me and that means I can make even more videos because I have
+more time to make the best content I can. I have said no to some of them because they weren't the right fit.
+But this video is sponsored by Hicksfield and that's a company I was already using anyway. my avatar, the 3D
+sneakers, my clothing, the brand carousels, that was all Hicksfield and they decided to support this video.
+So, shout out to them. And more importantly, with their support, I can keep giving my skills away. I don't
+want to put any of them behind the payw wall. I want you to have as much access to this stuff as possible. And
+that's what they're allowing me to do. They also have an offer that is in the link in the description. And
+nothing changes. I'm still going to show you every credit and how much call out usage it took. So, thank you
+so much for your support. And if you want to try the katana, it would mean the world to me. My link is in the
+description because it tells them that you're enjoying what I make and that it's useful. And that's what lets
+me keep working with that. And as you know me, I'm not giving any of this. The skill is in my school
+community. The link is in description, too. And I see all of you posting in school when you use my skill. I
+appreciate you guys a lot. So try to use the link of Hicksfield and the skill that I made with it on school.
+The only thing I'm asking uh stay all the way to the end of this video first because you need to understand
+how the system works. All right, without further ado, let's get started. So what is even Katana? Basically,
+you give it an edit that you all that already works and it rebuilds it shot for shot with your own face, your
+product or your clips. It matches the cuts, the motion, the color, the titles and the audio. on their page, it
+literally says, "Recreate the edit and make it yours." So, if you see something that you really like online,
+you could recreate that edit in Higsfield. >> Okay. >> And the best part, it runs on MCP. So, it runs through
+the Higsfield MCP. It even says powered by Claude Motion that just got released recently. And there are two
+ways to start. You pick a a community presets, add up to five photos, and recreate it. Or you upload your own
+edit, add up to 40 images of your characters, your products, your clothes, and Katana rebuilds it around them.
+I'm going to show you both. Okay. Now, this part that I'm most excited about because this channel is basically
+motion graphics at this point because of the videos that I've made. If you watch my motion graphics videos,
+you know the rules. Nothing moves at the same speed from the start to finish. When something lands, it has
+weight. and every hit lands on the beat and they look really solid and that's the reason why they look really
+good. Every single cut takes the best route to match their references. If the original shot already works, it
+keeps it. The flashes, the text, the colors, the camera moves, that's code writing code frame by frame, that's
+motion graphics. It uses your footage and only when something is missing, like me as a swordsman, does it
+generate a new shot. So, the motion is code and the AI only draws the hero. And you can see it in the cost
+line. The part made with code or your own footage costs zero credits. The new shots are where the credits go.
+So, you always know exactly what what you're paying for. Okay, so that's Katana, but where people get really
+lost. You connect it, you open a new chat, and then what? If you have a business, which edit are you supposed
+to pick? What should the video even say? What's the hook? Most people have no idea and a lot of people also
+don't have a lot of time for this. So what I did, I built a skill for it. And if you're new here, a skill is a
+set of instructions you add to Claude that teaches it how to do a specific job. Once it's installed, Claude
+follows the playbook every single time that job comes up. So you don't need to have to prompt it again. The
+skill already knows it. It knows what it's supposed to do. This one turns Claude into a creative director for
+Katana. So, one of you asked me for a food shop. So, I brought back Ember and Bun, the burger spot for my
+carousel video, and this time I gave it an ad. And one honest thing, Katana runs aren't instant. It's
+planning, generating, editing, checking. If you're on a smaller cloud plan, start with a short video. I ran
+all of this on Opus 5.5 on the Max. Now, as you can see here, uh this is the Katana page, and these are the
+edits that a lot of people did in the past. So, what you can do, let's just scroll real quick through them.
+Uh, this is the one that you've probably seen already >> and I just swapped my face into it and it literally
+did the frame by frame. It did it in an amazing way. >> Break the pattern today or the loop will repeat
+tomorrow. Break the pattern today or the loop will >> so for example in here this is motion graphics. Um, what
+Hicksfield is able to do is only generate videos but now they added a motion graphics effect that is really
+cool. So like you see here the video how it looks like >> pattern today or the loop will >> I go in my videos
+and you can see it created frame by frame there's no edit nothing no sound no music nothing right pretty
+boring I would say but then it took the montage it took the edits and it did it super nice and neat now you
+can take one of these that you really like or what you can do also that is really cool is you can take a
+motion transfer if you have the subscription in itfield you have basically three options. The first option is
+generate images, static images and then just like create that motion graphic effect like this one that is only
+static images and it costed around 10 to 8 credits I believe and the motion graphics fully just Higsfield did
+all of that just images So that's 10 seconds. I only used 10. Let's say just 10 credits. That's pretty solid,
+too. So that's the first option that you have. Either credits, uh, images, static images, or you can have a
+mix of both. That's the second option, videos and static images to save on tokens. But if we do it right, and
+that's the reason why I made the skill, so we don't waste that many tokens. And the third option is basically
+you have a video that you really like and you just want the motion graphics. You can bring your video and just
+say to your claude, I need you to edit this video for me. So here is the video. It did not look like this at
+all. Let's just put it full screen right now. >> Dude, dude, get out of my face. >> Hello my beautiful. Did
+you miss me? That's full motion graphics. It took those videos and just edited all together which is really
+cool. Now all you have to do is in the link in the description you go and install the zip. Once installed you
+also open this. It will open a Google doc. You copy it. Command A, copy. You go in your cloud. You open this.
+You go in settings. Once you go in settings, go all the way to the bottom where you see customize. Go to
+skills and then click on upload as skill. So, all you have to do is install this download. There it is. It's
+installed. I'll drop it here. That's perfect. Click on upload. There we go. So, we go back now to our chats.
+We click on try and chats right here for video. We do slash katana direct director. We leave it and we paste
+what we uh copied here. Once it's pasted, just click enter and we wait. Now, now it's going to make our life
+really easy. Hickfield is connected and your plus plan has 2,000 credits. So, what's the business and who are
+your customers? Let's just say e-commerce clothing. And where will this run? I'll just say a campaign ad. Pay
+ad. Let's just do the frame 69 because that's what I want. But if you're going to do a paid ad, it would most
+likely be 9 to6. The brand, let's just call it next phase. What is the offer? Let's just say new launch. No,
+no logo for me. So, what it's going to do is it's going to ask a few questions um about um the clothing if you
+have prototypes. So you can either generate them in Hicksfield or just use them and generate a video or an
+image. Uh with the avatars also it's really good at generating avatars because in this skill it's going to
+create a story especially for the ad campaign or the organic. It goes and generates the characters the
+stylesheets and what it's about. So for example here this is a styles sheet that it did. And the reason why I
+recommend to have this type of styles sheets for a character and avatar, it's not a good idea to have multiple
+shots. Three shots would be definitely more than enough and a close-up. Uh, of course, same thing here. And
+here we have the brand. Pretty straightforward. So, what if you don't want to go buy my skill? We simply just
+do /katana. You click enter and you will have inside your claude everything that they have in Hicksfield. So
+let's say I do want to change a little bit in here some things. So let's let's generate something all
+together. Let's take this one and let's take an image of myself and the avatar that we have. All right. Now
+it's done. I think it would be nice to have maybe a bike. So let's go in Google just a bike like this and take
+an image that look something really cool. All right, let's just take this one and then open image in a new
+tab. Save image. Saved. We're going to go back to Hicksfield. No. Go back to our chats. There it is. Upload
+media here. And we can just drag it. What I'm going to do, this is the annoying part about MacBook. And then
+we click on generate. That's it. That's all we have to do. It's katano darka and basically just aura forming.
+One thing here that is really cool is we can see the progress and what's going on. So, we see here it's using
+the frames, uh, the edits and everything powerful. This is super important. So, these are our references.
+These are the edits that they're going to be doing and the avatars. I gave it no prompts whatsoever, nothing.
+I just gave it the images, three images, and that's it. So, right now, what we can see is just the videos that
+it has made so far. Let's look at the first one. Holy, that looks really like me. It's so strange looking at
+this. Okay, it took also the motorcycle. There's no sounds and anything. It will take that all together.
+That's so crazy. It's doing this so well. Wow. I wonder how it's going to look like the final result. Oh boy,
+that's me. Okay, that's interesting. All right, it got the frame. It got the motorcycle how it's going to look
+like. All right, let's just wait and see the final result. Amazing. We just got the final results. So, let's
+watch it. This is the first time I watch it. Sorry. Let me replay it. That's That's crazy. I didn't give it no
+prompt, nothing. Just changing uh the characters in there. So, the good thing about this is that Hicksfield
+has a lot of people that uses their platform, which mean a lot of people are going to have resources in there,
+too. If we go back to the katana thing, we can see that people have already shared some things in here like
+this one. >> Yeah, right here. >> This you can fully change it or you can have your own SAS and change
+everything about it. Motion graphics. So really, who is this for? If you have a business and you've never
+edited a video in your life, a food shop, a clinic, a gym, you have some photos or logos, maybe a clip on your
+phone, that's enough. If you have a brand, you can ask for a full campaign, same video, three different hooks,
+so you can test which message actually works. If you're building a personal brand like me, put yourself in an
+aura forming edit, make yourself in a swordsman, show up in every video. And if you do marketing, you could do
+this as organic content or you could do it as paid ads. Then you run a V1 to V4 and keep the winner. Katana is
+really new. It just came out. And what I like is that nothing is kind of like hidden. You can add skills in it
+and it doesn't use your chip on your computer. So try to find an edit that you love and open Cloud. It'll make
+yours. The link is in description and the skill is in my school. If you make something with it, post it in
+school. I would love to see it. I see all your posts already. I really want to see them. And if you struggle a
+little bit of knowing what you want to do, just comment down below. I have a lot of credits to use. I will
+definitely try and make it happen and make a video about it cuz you guys have a lot of great ideas that I take
+from. If you stayed all the way to the end of the video, thank you so much. Seriously, you guys motivate me to
+make more videos and keep giving skills away weekly. And if you didn't click on subscribe button, please do.
+and I'll see you on the next one.

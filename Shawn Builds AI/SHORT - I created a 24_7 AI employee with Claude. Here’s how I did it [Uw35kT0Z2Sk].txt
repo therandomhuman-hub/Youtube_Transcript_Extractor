@@ -1,0 +1,32 @@
+Title: I created a 24/7 AI employee with Claude. Here’s how I did it.
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: Uw35kT0Z2Sk
+URL: https://www.youtube.com/watch?v=Uw35kT0Z2Sk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T22:27:51+00:00
+
+Kind: captions Language: en I just created a 24/7 AI employee for myself using Claude and here's how I did it.
+Link is in the description if you want step-by-step instructions that you can copy and paste. Claude released
+a feature called scheduled task which lets you define a certain task that you want accomplished and put it on
+a cadence say weekly or daily so that it is completed for you in that time. I want to create an AI employee
+that reads through my Gmail's everyday and summarizes them. So the first step is to head over to Claude.ai.
+From there I hit the side panel, go to customize and click on connectors and then there's a bunch of different
+connectors here. I'm going to add in the one from Gmail. If you don't see it on here, click the plus sign and
+browse connectors and you should be able to find it. Just so you know how it works, I'm going to reconnect the
+Gmail over here. So I'll click on that, give it access, choose the email address that I want to use, click
+continue, continue, and now it's connected. Now you'll notice on Claude that there is no sidebar for scheduled
+tasks and for this I'm going to head over to Claude.ai/code and if you hit the sidebar over here, now you'll
+see the scheduled section. Now if you have the Claude desktop app installed, you'll notice on both the code
+and the core sections there are scheduled tasks. The difference is that when you're doing it on the desktop
+app, you need to have your laptop up and running. But since I want this to run at any time, that's why I'm
+going over to the website. So now we'll click on create a scheduled task and I'll give it a name, summarize my
+emails from the past 24 hours and organize them by what is urgent and what needs actual actions to be done.
+Make sure to anonymize the email for this task. Once we have the task, we can choose a schedule. I'm going to
+do it everyday at 9:00 a.m. Here's where the connectors come back that we set up earlier. So for this one, all
+I need is Gmail. You should see your scheduled task created and you can click on it, see the details. [music]
+And for now, we're going to run it just to test it out. So I added one more line to make it a clean HTML file
+format and send it back to me as an email report. So it just finished up and let's see what it made. My email
+report was just drafted up and saved to my inbox and it separates it by urgent, action needed, and
+FYI/newsletter. So I'm looking forward to getting this every single day at 9:00 a.m.

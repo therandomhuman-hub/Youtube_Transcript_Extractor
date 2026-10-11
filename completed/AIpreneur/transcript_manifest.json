@@ -815,13 +815,13 @@
     "title": "Make Faceless YouTube Videos Using Only Free AI Tools!",
     "url": "https://www.youtube.com/watch?v=w2b8Z6Z3b50",
     "channel": "AIpreneur",
-    "status": "DISCOVERED",
-    "source": "",
-    "language": "",
-    "filename": "",
-    "message": "Discovered; waiting for transcript",
+    "status": "SAVED",
+    "source": "YouTube automatic captions",
+    "language": "en-orig",
+    "filename": "VIDEO - Make Faceless YouTube Videos Using Only Free AI Tools! [w2b8Z6Z3b50].txt",
+    "message": "Transcript saved",
     "discovered_at": "2026-10-10T05:47:27+00:00",
     "last_discovered_at": "2026-10-10T05:47:27+00:00",
-    "updated_at": "2026-10-10T05:47:27+00:00"
+    "updated_at": "2026-10-11T22:09:42+00:00"
   }
 }

@@ -1,0 +1,112 @@
+Title: Top 7 AI Jobs Of The Future (No Degree)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: UbcpAhGydNA
+URL: https://www.youtube.com/watch?v=UbcpAhGydNA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T23:09:30+00:00
+
+Kind: captions Language: en Look, AI is better than humans now. We lost. Goodbye. That's how most people feel
+right now. And honestly, I felt just the same way. But I got some good news. I'm going to fix it because while
+AI is starting to replace jobs, it's also creating new jobs, jobs that are future-proof, somewhat in demand,
+and most don't require a college degree. And so when a ship is sinking, what do you [music] do? Do you sit
+around and wait for a disaster or do you get on a life raft or at least climb on a door? Now, I've got a life
+raft, but it's not that big. So grab your seats. Okay, first up is going to be AI quality assurance. And look,
+I get it. It sounds like the most boring job ever, and it kind of is, to be honest. But because it's a little
+bit boring, it's also stable, and it actually pays surprisingly well while everybody else is getting replaced
+or laid off by AI. Because you know what's worse than staring at numbers all day? It's being broke, having no
+job, and not being able to afford the life you want or even basic needs because of a massive inflation and
+recession. And that's a very common thing today. So what's AI quality assurance? Well, you know how AI
+sometimes spews out nonsense like when a customer service bot of an airline accidentally sent an innocent
+woman to the wrong country? I mean, is she responsible too for not checking her ticket before getting on the
+plane? Yeah. But do you think the courts care or do you think they're getting sued anyway? Yeah, they got a
+nasty lawsuit. Now, companies building these AI models and companies building software relying on these AI
+models need it to work, not just most of the time, but honestly all the time. And that is why quality
+assurance analysts are in such high demand because AI is moving so quickly and everything's being built with
+it. Now, your job is not to build anything or create complicated AI infrastructure. It's to test it for
+reliability, biases, hallucinations, check that everything works, and your AI does what it's supposed to do.
+You test it, you sign it off before deployment, and this job is only becoming more and more important as AI is
+being integrated into every aspect of our society. Imagine healthcare, like what a mistake with AI could mean,
+or education, transport, like the flights, everything. Now, it does require somewhat of a technical background
+in quality assurance or IT, but it's not that complicated and you're not building or programming any of these
+things. Now, I'll give this job a solid seven out of 10, slightly lower because it's mostly for tech people
+and very boring. Next up, everybody's talking about AI, right? Managers are just saying, "We need this, we
+need that." But one guy is shaking his head filled with fear whenever the managers say something like that,
+and that's going to be the AI cost analysis. Now, companies are paying a lot of money for AI, like serious
+numbers. Whether it's for their support chatbot or their internal systems, everything can get pretty
+expensive. And everybody just sees the innovation, the new stuff, but the AI cost analyst sees the
+inefficiencies, and he looks at the $3 million AI bill and smiles because it could have been $4 million
+without his work. Now, as you might guess, if you can save a company millions, you're worth a lot to the
+company, which is a good place to be both to negotiate salaries and to be future-proof in your position. And
+so, it's all about knowing which models to use, when to fine-tune them, when things are getting too expensive,
+and when to keep going or when to shut things down. I think this job is going to explode in growth in the near
+future, and here's why. AI companies have all been kind of competing for market share, like OpenAI and
+ChatGPT, Anthropic and Claude, Google and Gemini, etc. And they have been subsidizing their models, basically
+pouring their money or venture capital into these models to, you know, make them run even if they lose money
+on it. A lot of these AI companies are not profitable. They're not making any money, they're actually losing
+money every single day. But they're okay with it in the growth phase. It's kind of fine short-term. These
+companies are getting billions from other streams of income, so they can afford it. But long term, of course,
+they need to be profitable, which is why I believe AI will become more and more expensive in the near future,
+resulting in AI cost analysis becoming a critical component for companies using it. So, I'm going to give this
+career an 8.5 out of 10. Still pretty early though. All right, next up is going to be AI operations. Now, this
+stuff is scary. It was a normal Tuesday night last year when a major bank lost millions. People woke up to
+their accounts emptied and they couldn't even pay for lunch with their card. People who have been saving for
+decades in their bank account suddenly had nothing. Other people got the best day of their lives. They woke up
+to a new life and they suddenly had insane amounts in their accounts they couldn't never imagined. People
+thought they won the lottery or something overnight, but in reality, the bank just messed up. Social media
+went absolutely crazy, as you can expect, and the bank's reputation is still damaged to this day. So, Lucas,
+what actually happened? Well, it's pretty simple. Humans are not able to supervise billions of transactions
+manually. They use algorithms and AI systems to help them out with all these bank things. And their AI system,
+the ones that automatically deal with millions of transactions and payments every day, completely crashed. It
+started mixing up accounts and who the money actually belonged to, which is an absolute nightmare. The news
+called it a massive banking glitch and regulators got on their throats, threatening huge fines and even taking
+away their entire banking license, shutting down the bank. Now, the absolutely worst thing is the customers
+like you and I were of course freaking out that their savings would be lost forever. And that is why banks and
+other companies require AI operations people, the people who basically manage AI and make sure it works
+day-to-day. Tiny mistakes can lead to chaos quickly, especially in these big systems, and boring AI ops people
+constantly watch, test, and they're ready to stop disasters. And for that reason, they're compensated pretty
+well, and it's relatively future proof as well. Because even as everything gets more advanced, it still needs
+multiple layers of, you know, control and people checking it. I'll give this job like a 7.5 out of 10. It is
+difficult. You're dealing with critical infrastructure, so it takes a while to get into this field. But if
+you're starting from scratch, I think it's still definitely worth it. Moving on to business intelligence
+analyst. Now, in a world of data, those who can use it, they are going to win. And that's why I strongly
+believe intelligence, data analytics, data science, machine learning, all that good stuff. Now, business
+intelligence is pretty self-explanatory. I mean, it's about using data to improve decision-making by making
+data-driven decisions. And by doing so, we can make smarter, better choices, whether in a company, in a
+government, or for ourselves. And this field is seeing massive changes thanks to AI because old tools are
+becoming outdated, and I guess some people are scared about this, which is totally fair. It's changing pretty
+quickly, but I think the jobs will be fine. They'll just become a lot more powerful with new AI tools able to
+deal with data in a way that we never really imagined before. So, I do believe in both business intelligence
+and data analytics, if you are willing to stay up-to-date because things are changing pretty quickly. Eight
+out of 10. Now, next up is going to be AI content manager. So, a lot of content is nowadays being created with
+AI. And if you've been on any social media, you've seen a lot of it, guaranteed. Even on YouTube, it's
+becoming a huge thing, which creates a completely new job title. Think about TV, right? You might have a
+channel manager on TV, somebody managing what's being put out. But now, everybody can have their own TV
+channel using AI content. And somebody has to manage all this content, just like a social media manager with a
+different focus. This job is rising quickly and is a solid place to be. So, I'll give AI content management a
+seven out of 10 because it's still a very new thing, and also you will be competing with other people in
+social media marketing that are just switching into this field. All right, next up is going to be the AI
+safety analyst and most again jobs focus on building and maintaining AI, but somebody has to ask the hard
+question, what if something goes wrong? And your job is to stress test the models, the apps, and anything else
+built with or using AI for regular issues and AI specific issues like bias, hallucinations, privacy issues,
+that's a big thing. And for two reasons. First, if I mean if you're running a company, your users expect you
+to test these things and make sure it's safe. And we've all seen these leaks and breaches and scams leading to
+scandals in the news and that's really bad for the company. But also, they're forced to buy the law. More and
+more AI regulations are appearing regarding who's responsible, what needs to be done, etc. And for a big
+company, that could get very expensive if they don't prepare. So, everything in AI is happening so quickly and
+I truly believe this job is the future. You're not going to see a lot of job listings at the moment. I mean,
+it's super new, but this skill is rising in value especially in things like quality assurance and policy
+making even if you don't go for that specific job. And I'll give it like a 7.5 out of 10. And then we have the
+AI product manager, one of my favorites. And to be a product manager, you don't need to be a tech genius or a
+you know, hardcore developer. You're kind of like the pilot of the plane. You don't really build the plane or
+maintain it. I mean, that's not the pilot's job, but you fly it and decide where to go next. And you have your
+team of engineers building the AI and your products, but you'd lead the development and make sure your goals
+are being met. Now, product management, I'll be completely honest, is already a huge field with good salaries
+across many industries. And so, even if there's like a layoff in finance or you know, something else, you can
+still find product management jobs in engineering or other fields. And if you can specialize in AI, I do think
+you're setting yourself up for a very strong future because all the companies are pouring the resources into
+AI. And so, AI is where I would like to be. And for that reason, I'll give this a nine out of 10 score. And I
+don't give a nine out of 10s very often, so keep that in mind. Now, to get these jobs, you will need skills
+and a certification, of course. And in this video, I show you the best AI certs popping off right now, so do
+check it out if you're interested. Goodbye.
