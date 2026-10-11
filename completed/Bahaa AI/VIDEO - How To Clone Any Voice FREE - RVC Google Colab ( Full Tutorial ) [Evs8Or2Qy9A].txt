@@ -1,0 +1,96 @@
+Title: How To Clone Any Voice FREE - RVC Google Colab ( Full Tutorial )
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: Evs8Or2Qy9A
+URL: https://www.youtube.com/watch?v=Evs8Or2Qy9A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:44:22+00:00
+
+Kind: captions Language: en in this video you will learn how to clone any Voice using a new code of RVC on
+Google collab for free this method works on the computer in mobile phone without problems in this video I will
+make the tutorial using a computer in a coming video I will make a tutorial using a mobile phone so make sure
+to subscribe to my channel for more related tutorials this tutorial will be in four main parts preparing the
+audio file that will be used to train the model training the model on Google collab for free saving the model
+on Google Drive for later use or to resume training using the model to replace any voice with the model voice
+first preparing the audio file used to train the model the audio file used in training is what determines the
+quality of the model preferably 3 to 5 minutes of clean audio without silence noise or music in this tutorial
+I will clone my own voice and I will create a model that can sing or speak any language you can record an
+audio file for yourself on on your computer using audacity or you can even record the sound on your mobile
+phone and transfer it to your computer in order to enhance the audio and increase its quality I will use the
+free Adobe audio enhancer tool you will find all the links in the video description they will appear to you
+like this click sign in and log in with your Gmail email then click on choose files to upload the audio file
+after that the tool will work on the audio file leave it until it's over after that you will see a preview of
+the audio file after enhancing it click here to download the file to your device that's it the audio file is
+ready now we are ready for part two training the model on Google collab for free open your Google Chrome
+browser and make sure that you are logged in with your Gmail email open the Google collab project link and it
+will appear like this I can assure you that this is the easiest and simplest code you will ever see for using
+RVC on Google collab for free run the main step this window will appear to you click run anyway the step will
+start working this step will to install the RV C program on Google collab it will take approximately 5 minutes
+after it is finished a green check mark will appear next to the step after that training the model the first
+step in training the model is to upload the audio file that we prepare to train the model on click and run
+step one the choose files button will appear click on it and choose the audio file that we prepared the audio
+file will start uploading uploading the enhanced audio file will take some time maybe 10 minutes or more
+depending on the length of the file after the upload is complete a small check mark will appear next to the
+step after that step two in this step we will specify the name of the model and the program will analyze the
+audio file that we uploaded in the previous step here we will write the name of our model the model name must
+be in English without spaces or symbols I will use the model name for example Baha in this box I will not
+change anything leave it on rmvp GPU then run the step it will start working after it is finished a green
+check mark will appear next to the step after that step three in this step the model will be trained here we
+will write the same name of the model that we wrote before it must be the exact same name in this part we will
+determine the number of epics quite simply the number of epics is what determines the extent of the model's
+training the more the better but it is preferable that it be between 200 and 1,000 here I will train the model
+on 100 epics just for the tutorial purpose in the next video I will explain how to resume training the model
+on a higher number of epics so if you are interested make sure to subscribe to my channel then run step three
+it will start working this step takes time depending on the number of epics you set this is not an error you
+won't need the tensor board after the training is completed without errors a green check mark will appear next
+to the step we have finished part two now let's move to part three this is the most important part after
+training the model because we will save all the training files of the model on Google Drive so we can use the
+model at any other time or we can even resume the training to improve its quality here I will write the exact
+same name of the model we trained for me I will write Baha I will leave this Choice unsafe and run the step
+this window will appear to you this is the window for connecting Google collab with Google Drive click here
+and then here and then here after the connection is complete the step will start working wait for it to finish
+it may take 3 minutes more or less that's it the saving is done if you go to Google Drive of the same email
+used in Google collab you will find a new folder named RVC packages open it wait until a file with the name of
+the model appears you can wait a minute for this file to appear you will find a large file more than 1
+Gigabyte in size that's great we have created the model and saved its file on our Google Drive part three is
+done now let's move to part four using the model to replace any voice with the model voice move to section RVC
+inference in Step One our Target file will be uploaded this is the audio file which we will replace its voice
+with the model voice the target audio file must be a very clean and highquality audio and free of any noise or
+music run step one a choose files button will appear click on it and upload the target audio file after the
+upload is complete a small check mark will appear next to the step and a preview of the uploaded file will
+appear this is a vocal audio file of a singer named Frank Sinatra as he sings a famous song called Fly Me to
+the Moon of course I won't be able to play it because of copyrights but I will play the result after a minute
+next step two in this step we will determine the model we will use in this box I will write the exact name of
+the model I want to use for me I will write here B this second part is about determining the genre voice to
+convert from and convert to if I change the voice from male to male or from female to female this value will
+remain zero if I change the voice from a female to male this value will be minus 12 if I change the voice from
+male to female this value will be 12 here I am changing the voice from male to male so this value will be zero
+leave these settings as they are then run the step it will start working after finishing a preview of the
+result audio file will appear this was the result Fly Me to the Moon let me play Among the Stars let me see
+what spring is like on and to download the result audio file click these three dots and choose download and
+save the file on your device if you want to try the model on another audio file go to step one again run step
+one and upload the new Target file then run the step two and wait for it to finish then the result preview
+will appear and you can download it in the same way okay that's great now let's say I come another day and
+want to use the model I trained how to do that because once you disconnect from Google collab all the files
+will be deleted will I have to train the model again no of course that's why we uploaded the model file on
+Google Drive here I will disconnect from Google collab from the list above click runtime disconnect and delete
+runtime and click yes I will close the page completely I will assume that I came another day and will open the
+Google collab project link run the main step click run anyway wait until the installation of the RVC program
+finish and a check mark appears next to the step then go to the section of load model from Google Drive here I
+will write the same name as the model that I want to load from Google Drive here I will paste the link of the
+model file go to Google drive to get the link to the model but I have to change its General access first right
+click on the model file choose share then share change restricted to anyone with the link then click done you
+will do this only once not every time I come to get the model link to copy the model link right click on the
+model file and choose share then copy link go back to Google collab and paste the model link here here is a
+very important note there is no necessary that the email to which the model file is uploaded on be the same as
+the email which you use in Google collab for example let's say that you trained a model on email one and
+uploaded the model to Google Drive with email one it may happen that your Google collab not work on email one
+later for any reason for example you may reach the limits of daily use at this case you can use Google collab
+with another email email 2 for example and use the link of the model file in the email one Google Drive
+therefore we will never lose what we have done at after that I will run the step wait until the step is
+finished and a check mark will appear now we are ready to use this model go to the section of using the model
+run step one and upload the target audio file then go to the step two I will write the same name as the model
+I want to use then I will run the step after it is finished the result will appear in the coming video I will
+show you how to resume training your model on higher value of epics to improve its quality thanks for watching
+see you next next video

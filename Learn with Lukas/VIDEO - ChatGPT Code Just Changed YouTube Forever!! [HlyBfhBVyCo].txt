@@ -1,0 +1,103 @@
+Title: ChatGPT Code Just Changed YouTube Forever!!
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: HlyBfhBVyCo
+URL: https://www.youtube.com/watch?v=HlyBfhBVyCo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:52:34+00:00
+
+Kind: captions Language: en You're on your lunch break scrolling through YouTube and suddenly you see a stick
+man, a funny looking stick man with 4.6 million views. So, you click it and there it is. There's no fancy
+editing or 3D, no person, just simple photos of stick figures put together one after the other and that's it.
+Photos of stick figures viral. Sounds too good to be true, I know. So, you open up the channel and there you
+see it. 500k subscribers, high total views. And the first video was published just 1 year ago and you freeze
+and you think if a stick man can go viral, why am I sitting here at work doing something I hate? And so that
+night you decide, let's dig deeper. You open up your laptop [music] and you start typing and try to do the
+same. But it totally flops because you don't know how to write a script that people actually want to watch and
+every tool is expensive and at the same time the stick man channel got another viral video and you're just
+sitting there in the dark with nothing waiting for the sun to rise and you to return to your regular 9-5. I
+know what that's like because I've been there, but in this video I'll show you a free way to create these
+videos with no design skills and no paid tools step by step. But first, open up ChatGPT and all you need is
+the free plan, no subscription, no five tools and the first step is generating ideas. Now, it's really really
+really simple. I do my research manually and with a couple of tools and then I find a niche that I'm
+interested in. Not going to spend so much time here because everybody talks about this and I've made a lot of
+videos on finding a niche. But really quick, what I do is I have a prompt I made which gives me viral ideas in
+my niche, but not only ideas, but also topics that are based on things that already work. Videos that have
+already gone viral and topics that are known to perform. And that's a good place to start. AI can do
+incredible research for you and find those ideas as long as you give it the right direction. If you want my
+prompts and a full workflow of this, I'll leave a link in the description as well. Now, I pick one of these
+ideas and then I head over to YouTube, best platform, and I search around a little bit. And I validate so it's
+a real good idea and it actually, you know, performs on YouTube and it's not just the AI hallucinating, which
+sometimes it's going to tell you things that aren't true. And then, once I picked my idea, I literally just
+follow a sequence of prompts, simple as that, which creates the structure of my video step-by-step, and then
+it creates the script with me barely lifting a finger. Now, here's the script I created on the screen using
+this exact process and it's about 15 minutes long, the faceless script, and it actually looks pretty good.
+Don't you think? I'll now dump the script over into a Google Docs, whatever word document you want to do,
+because big disclaimer, you have to do some manual editing as well. And yes, it takes real work. Ah, damn,
+you're going to have to do some work, not just press a button. That would be great, but it doesn't really work
+that way. So, I spent some time improving the intro. I cut out any boring parts and look, AI is really good,
+but it does make mistakes and spending 25 to 30 minutes editing will bring it from an five out of 10 to let's
+say an eight out of 10. People often skip the manual editing stage and wonder why their scripts feel like AI
+slop and get no views. I mean, it's because they are. So, do one final edit yourself. Now, let's make our
+final video using only free tools to create these faceless YouTube videos. And you could literally sit back,
+order a pizza, and have everything ready before dinner. But warning, don't start editing. Don't even think
+about it yet. This is what destroys a lot of faceless creators. They have a script and now they start putting
+together the visuals. They go to ChatGPT, they generate some scenes, they generate images, but it's the wrong
+order. You want to start with the voice over first, always. And then, once you have a voice over, you have
+that ready, then you may start looking at the production side. And the reason is pretty simple. If you don't
+do this, and if you start with the editing, the flow of your video is going to feel off and the rhythm is not
+going to match the voice over. The voice over is our entire foundation. It's the backbone of our video and
+it's why the stick man hit 4.6 million views with literally just a stick man. So, here's how we do it and
+build this properly step by step. You want to start by taking your script and turn it into a voice over. In
+this example, I'm going to use 11Labs, which has a free plan to create AI voices with. But wait a second, a
+big disclaimer here. Don't pick a generic voice. You want want something unique or even better, you can clone
+your own voice A in these tools. Both options work. And the reason is pretty simple. A lot of the AI slop
+videos use the same basic AI voices, which means they will become a target for the algorithm. So, even if you
+make good content, you might still be caught in the crossfire, which is why I recommend you stay far away from
+those generic voices. Now, you can even use something called Google AI Studio to create your voices. And
+that's the same company that actually owns YouTube. So, yes, Google is for AI. They're not against it, but
+they are against low-quality slop. So, now what I'm going to do is very simple. It's to download the audio
+from my script, and let's create our scenes. Now, this changes everything. Because how do you know when a
+scene starts, when to move your little stick figure, and decide, "Okay, you know, what should I put in my
+video?" Well, here's how you do it. You can use a transcription tool that is going to analyze your underlying
+voice-over, your audio file. And it's going to scan it, and it's going to look at, "Okay, what's going on
+here? What's happening here?" And it's going to read your pauses in your sentences, well, AI voice, between
+the different paragraphs and sentences where you, well, pause. And that becomes the right place to put an
+image or change your scene. Because it's kind of like the natural breakpoint of your video, different pauses
+in the spoken script. Now, before you would have to do this manually, but you don't need to do that. It can be
+done with tools, which work in any language, and can analyze your underlying script audio voice-over file. And
+then, you take that new transcript, which basically breaks down your script in different natural ways, and you
+throw that into ChatGPT again to ask it to now generate an image for every different scene that you've broken
+down. I know there's a lot happening all at once, but I'm going to explain it and you don't need to stress
+about this. So, what's going to happen is that AI is going to analyze this script now, and it's going to
+generate one image at a time for each of these little sections in your script, which means it's basically
+producing a whole video one image at a time. Now, I get it. It's a little annoying, I know, and you have to
+keep going until it's generated every image because you have to do it step by step. You have to ask one image,
+next one, next one. But again, you don't need to design anything or record anything, and there are different
+tools to speed up this process. So, you can just click like one button and do all of this. But again, let's
+keep everything free and very simple and basic here. So, even though it's going to take a little bit of time
+to produce all of your images, when they're ready, we have every scene that we need for our video without
+designing anything ourselves. So now, it's time to start to put everything together and start getting some
+views, hopefully. So, open up your editing software. I do recommend CapCut for beginners because it's very
+easy to use with many AI features, and it's also cheap and free. Not sponsored, by the way. They have a good
+free plan, which pretty much covers everything you need for this video. So, what I'm going to do is I'm going
+to import my voiceover, import the different scenes, your images, and then just put them together in the right
+order step by step so everything matches according to the script that you generated with the small indicators
+of where to switch and matching them to that voiceover. A little manual work, which there are ways to speed
+this up as well, but it's very simple, nothing complicated. That's all. So, now after putting together all of
+our generated images into CapCut and just aligning them properly with our scripts, we basically have a full
+video. Now, can we do more? Yes. Do we need to? No. We could add music, we could add a lot of different
+effects, we could add some cool transitions, but let's make sure we get viral and gain something from all of
+our hard work and actually get views. So, we go back to GPT and we ask it, "Please come up with some different
+thumbnail ideas for my topic." And a big warning and a disclaimer here when you're using AI for these ideas,
+you need to make sure the AI actually goes out and researches and finds real examples. Some AIs don't do that
+and others just hallucinate. So, it's important that you model things that actually work instead of just
+random hallucinations and ideas because the goal is to scan for good thumbnails and basically get ideas. And
+so, you can double-check this, too. But anyway, then we simply ask the AI to generate our thumbnails, which
+you can do all within ChatGPT or a similar tool. So, we go back and forth, we correct a few things, we might
+ask it to do something different, and then we download it, and here's an example of a thumbnail that I just
+made. Now, I personally like to do some final edits and add it to another program, which I talk about in other
+videos, but that's it. I spent nothing, so even with a tiny budget, imagine what's possible on YouTube. Now,
+everything I didn't have time to cover in this video is explained in detail in my full training for free,
+which you can find a link to in the description if it's still available. Thanks, and good luck, my friend.

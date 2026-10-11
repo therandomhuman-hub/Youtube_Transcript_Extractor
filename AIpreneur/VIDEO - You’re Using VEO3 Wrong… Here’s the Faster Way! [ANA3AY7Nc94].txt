@@ -1,0 +1,108 @@
+Title: You’re Using VEO3 Wrong… Here’s the Faster Way!
+Channel: AIpreneur
+Type: VIDEO
+Video ID: ANA3AY7Nc94
+URL: https://www.youtube.com/watch?v=ANA3AY7Nc94
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:38:58+00:00
+
+Kind: captions Language: en What if I told you that you could create 100 cinematic AI videos while you sleep?
+Not one at a time, not five. 100 real short films with a single click. No expensive [music] software, no hours
+of waiting, just pure automation that turns [music] Google's VO3 into a content machine. Stick around because
+what I'm about to show [music] you changes everything. Hey, it's AI prneur here and today we're diving into
+something most creators don't even know exists yet. Everyone's testing Google V3 like it's a toy, making one
+video at a time. But I've cracked a system that lets you automate the entire process and generate cinematic
+videos in bulk. This is beginnerfriendly and I will walk you through every single step, including the
+consistent workflow that keeps your characters and style locked across every scene. This is not a theory. By
+the end of this video, you will have your first batch of videos ready to upload and everything you need to
+launch your own AI content channel. Sound good? Then let us jump into it. Step one, create your story with
+consistency lock. [snorts] Here is where most creators fail. They jump straight to generating videos without
+establishing consistency rules. Then they wonder why every scene has different characters or random style
+changes. We're going to fix that with a three-part consistency system before we even touch V3. Let's first
+create our story. So, open chat GBT or Claude and use this prompt. This prompt will give you 12 scenes of
+historical story. Hit generate and don't turn it into video prompts yet. We need to lock it in consistency
+first. For that, paste this next prompt into your chatbot. You'll get all prompts in the description. Now hit
+generate and copy this entire output and save it. This is your consistency lock. Every video prompt will
+reference this. You should have now a 12 scene story concept and a complete consistency lock with character
+DNA, world bible, and camera language defined. In the next step, I will show you how to access V3 and set up
+the automation tool that makes bulk generation possible. Step two, access VO3 and set up autoflow. Now that we
+have our story and consistency system ready, let's set up the tools that will generate everything
+automatically and in one click. So, open Google and search for autoflow automation for V3. You will see a
+browser extension pop up. Click on it. Once it is installed, pin it to your toolbar so you can access it
+easily. Here is what autoflow does. It removes all the repetitive work from video creation. No more typing
+prompts one by one. No more waiting for each video to render and no more downloading files manually. It
+handles everything automatically and it's free to use. Next, click on the autoflow extension and select go to
+flow. Flow is the official platform where V3 lives. Create your account if you don't have one yet. It takes
+about 30 seconds. As you know, V3 works on a credit system. The free version gives you 100 credits to start
+with. If you're serious about scaling, you can upgrade for more credits. Models, credit amounts, and pricing
+can vary by country and plan, so check what you see on your own screen. I'm using a paid plan that gives me
+enough credits for about 100 videos per month, more than enough to fill a content calendar. Now, we need to
+dial in the settings so the automation runs smoothly. So, click on the settings icon in autoflow. First, under
+video per task, select one. This tells the system to generate one video per prompt. Choosing multiple just
+wastes credits. Second, choose your model. Select VO3 because the model names may vary on your screen. And for
+bulk creation, choose the faster option if available. You can look at the credit cost displayed for each
+model. Third, pick your aspect ratio. If you are making YouTube shorts, choose vertical. For long- form videos
+or cinematic shorts, choose landscape. I'm going with landscape for this tutorial. Fourth, set your video
+length. Type in 5 to 10 seconds for each clip. This keeps your workflow fast and efficient. And lastly, turn
+on auto downloads. This feature scans for finished videos and downloads them automatically. No manual work
+required. At this time, you should have autoflow extension installed. V3 account created and settings
+configured for bulk generation. Coming up next, I will show you how to convert your story into V3 prompts with
+a consistency lock built into every single one. Step three, create the story scenes and convert it to VO
+prompts. Now, we turn your story into V3 prompts, but we are doing it the smart way with consistency headers
+on every single prompt. So go back to chat GPT and use this prompt that will convert your story into V3
+prompts with consist lock. This is critical as every single prompt needs that consistency header at the
+beginning. This is what tells V3 to keep everything locked. Now let us clean up the output so we have a
+perfect numbered list ready to paste into autoflow. And for that we will use this cleanup prompt. Now copy
+this entire list. This is what we will paste into autoflow. You should have now a clean numbered list of 12
+the VO3 prompts each with the consistency header. In the next step, I will show you how to generate all 12
+videos in bulk with a single click. Step four, create your full story in bulk. This is where the magic
+happens. We're going to take all 12 prompts and generate them automatically. So, head over to autoflow and
+click on control. You will see a large prompt box. Paste all 12 prompts into the box at once. Click add to Q
+and click start Q and then hit run on this project. And that's it. The automation kicks in. You are not
+clicking anything. You are not waiting between each one. It is all happening automatically. Watch as autoflow
+works through your queue, generating each scene one by one, automatically downloading them as they finish.
+Depending on your credits and server load, this should take anywhere from 15 to 30 minutes for all 12 clips.
+While those are rendering, we are going to move on to creating the voice over. By the time we are done with
+that, your videos will be ready. Coming up next, I'll show you how to create a professional cinematic
+voiceover that matches your historical story perfectly. Step five, create your cinematic voiceover. Now, it is
+time to create the narration for your historical story. We are breaking this into two substeps. First,
+generating the narration script for our story and then creating the actual voice over. So, go back to chat GPT
+and use this prompt to create a proper narration script based on your 12 scenes. Hit generate and read the
+output. This is your narration script. Now, let us turn that script into professional voice over. So, go to
+Google AI Studio and click on turn text to speech with Gemini and select single speaker mode. Paste your
+narration script into the text box. The character limit is generous, so you can paste the full thing. On the
+right side, you will see voice options. Pick one that fits your historical tone. I recommend a deeper, more
+measured voice. Test a few until you find the right match. Here is a secret weapon for best voice quality.
+Click on style instructions. Go back to chatbt and use this prompt. that will describe the narration style of
+your narration and hit generate. Copy the output and paste it into the style instructions box in Gemini. Now
+hit run and let it generate. Listen to the result. If the pacing feels right and the tone matches your
+historical vibe, download it. If not, adjust the style instructions and regenerate. You might need to add
+speak slower or add more dramatic pauses between sentences. You have now a professional cinematic voice over
+saved to your computer perfectly matched to your 12cene story. Now let us check if the bulk generation is done
+and assemble everything into your final video. [snorts] Step six, assemble everything in your editor. By now
+your bulk video generation should be complete. Autoflow will have saved all your clips into a folder numbered
+in sequence. This makes editing incredibly easy. You don't have to hunt for the right clip. Just follow the
+numbers. You can use any editing software for this. For this tutorial, we will use Cap Cut desktop version.
+Open Cap Cut. Create a new project and import your voice over and all your video clips into your editor. Next,
+drag the voice over onto the timeline first. This is your anchor. Then, starting with clip one, drag each
+scene onto the timeline above the voice over. Match each clip to the corresponding narration. Trim any extra
+footage so the visual matches the audio timing and then select all the clips and low the volume down. After
+that, add smooth transitions between scenes. Go to transitions, search for gradual fade or cross dissolve and
+apply it between all clips. This creates a cinematic flow. Do not forget to add captions. Click auto captions
+in cap cut. Generate the subtitles and apply a simple readable template. White text with black outline works
+well for historical content. Color grade if needed. V3 output is usually good, but you can add a slight
+cinematic L or adjust contrast saturation to unify the look. And lastly, export your video. Use 1,080p or 4K
+depending on your clips. H264 codec for YouTube. And that's it. You have now one complete cinematic historical
+short film ready to upload. [music] Let me show you what the result looks like. >> A falling star meets a
+waiting lantern and time loosens its grip as the first path opens. Ink and paper awaken. Stories taking flight
+as history learns to multiply itself. Oceans glow with imagined roots. Courage written across uncharted water.
+Stars rearrange above curious hands. knowledge forming patterns humanity can follow. Steel and steam. >> This
+is what V3 looks like when you stop experimenting and start scaling with proper consistency systems. That's
+the entire workflow. [music] 20 minutes of setup and you can create a month's worth of content in a single
+day. The key difference between this and what everyone else is doing is the consistency lock. That is what
+turns random AI clips into actual coherent stories. If you found this valuable, hit that like button and
+subscribe to AI [music] Prreneur for more tutorials like this. By the way, I just published another two parts
+like this automation workflow. [music] And the best part, one dropped a secret full automated workflow that
+[music] handles everything itself. Look and drop a comment and let me know what type of AI videos you [music]
+want to create next. Thanks for watching. Now go automate your content and start building your channel.

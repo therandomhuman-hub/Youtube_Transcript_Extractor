@@ -1,0 +1,200 @@
+Title: Stop Using Gamma, Claude AI Makes Better Slide Decks (Here’s How)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 8ze-qAN14eA
+URL: https://www.youtube.com/watch?v=8ze-qAN14eA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:56:05+00:00
+
+Kind: captions Language: en In this video, I'm going to show you the three steps you can take to make the best
+slides possible using Claude. So, you can not only stop paying for other AI tools like Gamma or GenSpark or
+spending way too much time manually creating them in PowerPoint, but also create even better outputs. My name
+is Sean and I'm an AI enablement engineer at a billion-dollar media company and I go team to team helping them
+implement AI solutions just like this to make their processes more efficient. I'm going to walk you through
+the exact steps I used to take an online coach's client creation slide deck process and turn it from something
+that used to take 20 hours per week into a single Claude skill that takes under 20 minutes to run. First,
+we'll break down why Claude is better than these other AI tools like Gamma or manually creating slides in
+PowerPoint. Then, we'll go over the optimal way you can set up Claude to get the best outputs possible. And
+lastly, we'll see how you can take this entire workflow and turn it into a single Claude skill that you can
+run with just one word in the chat. Let's get started. So, first up, let's talk about why we even want to use
+Claude for slide deck creation in the first place. The most popular tool on the market right now for creating
+AI slide decks is Gamma. They actually offer a few different pricing plans here. Each one has their own
+limitations and of course, as you pay more, you have less limitations and more capabilities. They do have a
+free plan, but they also have a plus plan that starts at $12 per seat, pro plan at $25, and ultra which is
+$100. But, there's a few different aspects that we want to take note of here. First off, there's a limitation
+to the number of slides you can put in your deck at each plan. If you want the ability to put over 20 slides
+in your deck, that means you're going to have to go with the pro plan off the bat, which allows 60 cards per
+prompt. You can add more after the fact, but you're going to have to handle separating your prompt into
+multiple different phases in order to get all those slides into your deck. The other important figure to note
+is the monthly credits. The free plan gives you 400 credits to play with off the bat and then it goes up from
+1,000 to 4,000 to 20,000 as you go up in plans. I wrote down over here what you can actually use the credits
+for. So, it takes 40 credits to make a single presentation. Adding a single card to each presentation takes
+five credits. If you want to chat with AI, that takes 10 credits. And of course, if you want to add images,
+that's going to cost more. Since you're limited with the amount of cards you can put in each presentation,
+depending on what you plan you're on, I broke down exactly how many cards you can get based on the amount of
+credits you have here. The thing is you're probably going to get less with this because you'll be using some
+of the other AI features like one-off changes on a single slide deck or redoing another slide deck or chatting
+with the AI and generating images. The other thing about Gamma, which is actually pretty nice, is that they
+have a design theme. This means that you can customize your presentations based on who you're making them for.
+So, if you're making it for your company, it can be an internal theme for your company. Or if you make it for
+clients, you can put it directly in their theme. The problem with Gamma though is that this is a manual
+process. If you already have a slide deck that's built in the theme that you want, that's great. You can
+upload it and it will extract the theme for you. But if you don't, that means that you're going to have to
+manually go in, create a theme, pick the colors, pick the fonts, some images, which can take a good amount of
+time to do, especially if you're changing themes often for new clients. But once you do have the theme, you
+can use it forever. When we're talking about the actual usage of Gamma, it's really only used for one thing,
+which is creating slide decks. So, it's a pretty limited tool in what you can actually do. Compared to a tool
+like Claude, which we're going to check out now, that has the ability to do so many different things besides
+just creating slide decks. Claude on the other hand also has a free plan, but it's super limited in how much
+you can chat with it. So, you're probably going to want to start with a pro plan, which if you're paying
+monthly is going to be $20 per month. But the $20 pro plan of Claude is cheaper than the $25 pro plan within
+Gamma. Claude also doesn't have those manual limitations that Gamma has like extracting the design themes and
+how many slides you can create in a deck. And I'll show you guys how to do all of that in the second step. And
+lastly, again, the usage of a tool like Claude is so much more broad than just creating slide decks like
+Gamma. With Claude, you can connect to hundreds of different tools and orchestrate everything directly from a
+single chat. Not only that, but you can then create a workflow to kick this all off in one command, but I'll
+show you in step three, and even create workflows that run autonomously while you're sleeping. This is great
+and all, but how do we actually use Claude to create these slide decks now? That brings us to step two, which
+is what is the optimal setup that we can use within Claude to get the best outputs possible. Now, the big
+thing we want to focus on here is context. There's two levels of context that we're going to want to focus on.
+The first one is the audience context. And this is information that's just about the audience that you're
+presenting to. I'll give you a real example that I've worked with to really drive the point. When I was
+working with this online coach, they had companies that would go to them for executive coaching. And each one
+of those companies had their own audience context. So, these are things like a description about who the
+client is and what they do, information about all the stakeholders that you would need to know, all of the
+struggles that they're dealing with and the pain points that they've surfaced throughout all of your
+conversations, and even the design of their websites and their brandings so that you know how to create the
+slide deck presentations. The other level of context is the presenter context. And these are things about you
+as the presenter that would be incorporated into the slides. So, back to this online business coach example,
+that was the actual online business coach. They had their own way of teaching that we wanted to make sure was
+included within the presenter context. So, that was information about their company, all about their coaching
+philosophy, the different frameworks that they like to use, and different worksheets that they use to create
+and hand out during the presentation. Let's jump over into Claude so I could show you what this really looks
+like in practice, and you could follow along with me to create this exact setup within your own Claude that
+uses context optimally. If you're anything like the client I'm working with, then you probably have some
+documents in a Google Drive. And this one is specifically about the audience. So, you can see here there's
+three different documents. There's one that is a company overview. There's one that is conversations that I've
+had with the client. And there's another one that is stakeholders within the client. Now, what's important to
+know is that this is all consistent context, which means it's information that we have that isn't really going
+to change. I actually see a very similar setup for a lot of sales teams as well who are working with different
+accounts. They'll have all these documents for a specific account that they use to keep all this information
+basically in this context. What we're going to do is download all three of these items. Once they're
+downloaded, we're going to use a feature within Claude that's called projects. So, if you go over here and
+click on projects within chat, what we'll do is create a new project for this audience. So, for me, I'm going
+to call it the name of the audience, which is Meridian Logistics. So, we'll create the project. And a project
+in Claude just keeps track of all memories that you can use it for multiple conversations. So, the idea is
+that you create this one project and any presentation or slide deck that you're going to use for this
+audience, you'll be able to make it directly in this chat. What we'll do now is add those files that we
+downloaded as context for this project. So, you can see that they're all added right here. Now, the one thing
+that we're missing is the design theme. If you remember in Gamma, there was a way to create a design theme
+specifically for our client, but we don't have that here. So, what we're going to do is use a Claude skill
+that I created and you can download completely free below in the description on extracting this design theme
+directly from the audience's website. I found the website here from Meridian Logistics. So, what we're going
+to do is copy this URL and we'll [snorts] go into Claude again. And once you download the skill and upload it,
+all you have to do is type {slash} design MD extractor and then you paste the website name and click enter.
+From here, Claude's going to go on to the website and understand exactly what are the design themes that are
+used within the website, the colors, the fonts, everything like that, and pull that into a single design theme
+file. The skill just completed and it created this preview that it was able to extract from the site. And it's
+pretty cool because the site even had bot protection, but it was able to get through that and get all the
+branding colors. So, we can see here the different colors that they extracted. Some orange colors, it looks
+like. I guess it got it from If we check out the actual website, I guess it got it from some of the background
+here. And it actually shows some imagery that created of shipping, air freight, ocean freight. So, it
+extracted a lot of good information about it, and even the typography about it, too. So, the different fonts
+that it's using, the sizes, the weights, all of that. Information about the buttons, uh all the different form
+elements, the badges it uses. Pretty sweet. It gives you this preview like within a browser of what this
+design theme looks like. But, besides just putting it in a preview for you, it also creates what we actually
+need for our context now, which is this design.md file, which takes all that information that was in the
+preview and the info that it extracted and puts it in this readable form that AI likes to use. So, what we'll
+do is we're going to download this as an MD file. And once we're back in our project, we're going to upload
+that file. And there we have it. Now that we've completed all the audience context, we need to think about the
+presenter context. And that's going to be all the information about us as the person or the company who's
+presenting. We have our online coaching company here, Apex Clarity. And within this folder in Google Drive, we
+have all the different documents that I'm working on myself and with my team. So, think about a company
+overview about who we are and what we do, our philosophy that we like to teach in our coaching. We have the
+client worksheets and also the frameworks that we like to show in our coaching. One of the main differences
+here with this presenter context is that this is something that's in living, breathing documents and that we
+might update and change what our philosophy is or some of the frameworks that we're using. We might add in a
+new framework that we want to teach or some new templates that we want to hand out in the form of worksheets.
+And because of this, we want to keep it within Google Drive and we'll reference these files directly in Google
+Drive. So what that means is that we now need to connect the Google Drive connector to Claude and we'll do
+that by going to our chat here, clicking this plus sign, going to connectors and doing add connector. And
+we'll browse. Uh from here we could type in drive and it's a pretty popular one. It should pop up and you just
+need to select connect. And once you go through that whole sign in process, it will give you directions going
+back to Claude that you can open it up and it will finish the connection. You can see that here how it's now
+connected and has access to all these different tools. And the important ones that we need is being able to
+read the file content. Back within our project, we need to make sure that the connection is enabled. So we
+will click this plus sign here, go to connectors, scroll down to our Google Drive and make sure it's turned
+on. We're also going to provide some instructions to the project so it has an understanding of exactly what it
+has access to. So in this instruction sections, we'll add the plus sign and paste in some information like
+this. So this says that the project is used for the audience whose name is the title of the project.
+Information attached in the files to the project include the design theme of the audience, the conversational
+context with the audience including their pain points, information about all the stakeholders in the audience,
+and an overview of the audience. As the presenter, you can find all information about me in the Google Drive
+folder called Apex Clarity, which includes company overview, coaching philosophy, worksheets, and frameworks.
+So you can see that this is super generic and something that I can use for every single project or every
+single audience. And the reason that we can is because, you know, me as the presenter will not be changing.
+All this stuff is going to stay the same. While up here, this will be changing, but this is generic enough
+that it should work for anything because it's going to be looking at the title of the project to find the name
+of the audience. And if we [snorts] keep the files the same where there's always a design theme,
+conversational context, information about the stakeholders, and an overview of who the audience is, then this
+will always work. For the presenter, these are all files that we know we're going to be using every single
+time. But, we can also say, "Feel free to use any files in that drive folder as a reference." So, in case you
+have a bunch of sheets or documents or PDFs that you want to use as context, this will know that it has access
+to that, but we are explicitly calling out these things. So, now we'll just save the instructions and we're
+good to go to start creating the presentation. The cool thing about Claude is that it actually has a built-in
+PowerPoint presentation skill. So, you could see here that it has a skill for PowerPoint here. And saying that
+it could basically create and edit and read different PowerPoint slide decks. A pretty common problem that I'm
+facing with my clients or these audiences is that they don't have clarity as a company. So, I want to make a
+presentation about that so I can give it to them. So, now all I'm going to say is this. Create a PowerPoint
+presentation based on the audience, which is the information in the files, and about me as the presenter,
+which is information in the Google Drive folder. And this should be about having complete clarity on knowing
+what the client is doing. This is something that they're struggling with. And this specifically happened after
+having meetings and not really knowing what the next steps are. And we'll just run this. You can see that it
+actually started by reading that PowerPoint skill that we mentioned. And now it wants to actually access our
+Google Drive to get our information. So, we'll always allow that. And this will allow it to grab the context
+in real time from Google Drive. So, in case other people on your team or other people that you're working with
+are making changes to those files, they'll continue to do that and this will always have the most updated
+information. Check it out, Claude just finished and look at the slides that it made. Pretty solid. It's the
+exact branding of Meridian Logistics here. Let's make it a little bigger. Um so, it says knowing exactly what
+your client is doing for post-meeting clarity and accountable next steps. So, exactly the topic that we
+mentioned. And the visuals are solid, right? Going through all of the different steps here. And it actually
+ended up using the commitment contract framework that I have in my frameworks document. So, if I go back to
+Claude here, it shows that slide four is the commitment contract. Yeah, right here. So, it's the exact
+frameworks that I had within my Google Drive. It's now using that within the presentation. So, pretty neat.
+And of course, you can make adjustments to individual slides or add more as you want, but I think this gets
+you a good 90% of the way there to where only slight tweaks are needed. And then of course, from here you can
+download it as a PowerPoint or add it to Google Drive as a Google Slide. Let's wrap this up and turn the
+entire workflow that we just ran to create this presentation in Claude into a single skill that we can run
+with just one word in the chat. The easiest way to create a skill in Claude is actually using another skill
+that's built into Claude called the skill creator. And this skill is going to allow us to create any kind of
+presentation based on the context within the project as long as we give it a topic to make the presentation
+about. So, we'll say use {slash} skill creator to create a skill that creates a presentation for the audience
+that this project uses and always using the same information about the presenter, which is from the Google
+Drive. Keep this generic to work across any audience in any project and looking at the project instructions to
+get information about that. And also look at the project instructions about the presenter as well. If a topic
+wasn't provided to you for what to make the presentation about, then make sure to ask for that as the first
+step before creating the presentation. This will be a PowerPoint and then we'll click run. It just finished
+creating the skill here called audience presentation. And we can see the preview on the right here on
+basically what it's doing. So, it's saying it's create a PowerPoint, use Google Drive. It says where it's
+going to get the information about both the presenter and the audience. And it walks through different steps
+here about getting the topic, reading the project instructions, getting the presenter info, reading
+information on how to make the PowerPoint, planning the actual slide structure, using the design.md file that
+we created in the beginning, and then actually building out the presentation. So, in order to use this, we are
+going to click save skill. And it's as simple as that. It saves the skill and we can manage it over here in
+our skills and you should see audience presentation. So, if we were to try that, we'll go back to our project
+here and we'll type {slash} audience presentation and we'll say about leadership. And then that should be all
+we need to do. We gave it the topic, so now we'll be able to run the whole skill on its own about the topic of
+leadership and we will see at the end what kind of presentation it makes. The leadership presentation just
+finished and we can see here again it's following the design theme of the Meridian Logistics company that we
+extracted in the markdown file. And it's actually using the frameworks again from our Google Drive here, the
+Clarity Map. So, we'll actually pick the framework that best fits the presentation and it found that that one
+actually worked best for this leadership one. Now, you know exactly why you should be using Claude to create
+these presentations instead of other AI tools like Gamma or creating them manually in PowerPoint. You know the
+optimal way to set up Claude with projects and context in order to get the best outputs. [music] And you know
+how to turn the entire workflow into a single, repeatable, executable skill >> [music] >> in the chat using
+just a single word. Now, you're probably thinking of all the different ways that you can use Claude 2 [music]
+to improve the other workflows that you're using. But, Claude actually created a plugin called Claude for
+Small Business that [music] has a whole bunch of different skills and different connectors that handle
+different parts of your business like accounting, marketing, HR, operations, and more. If you want to learn
+how to use Claude with this plugin, then go ahead and check out the video that I have right here.

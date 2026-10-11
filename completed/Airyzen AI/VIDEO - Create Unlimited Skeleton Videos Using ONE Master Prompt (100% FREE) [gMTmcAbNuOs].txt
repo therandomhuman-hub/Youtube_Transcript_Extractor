@@ -1,0 +1,50 @@
+Title: Create Unlimited Skeleton Videos Using ONE Master Prompt (100% FREE)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: gMTmcAbNuOs
+URL: https://www.youtube.com/watch?v=gMTmcAbNuOs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:12:42+00:00
+
+Kind: captions Language: en Look at these videos. They're getting millions of views on TikTok, YouTube, and
+Facebook. And creators are making thousands of dollars just by making simple skeleton videos. Now, look at
+this channel. It has gained over 200,000 plus subscribers with just 31 videos, and almost every video has
+millions of views. And in today's video, I'll show you exactly how to make these skeleton videos completely
+for free using just one master prompt. And yes, I'm going to give you that master prompt absolutely free.
+First, open ChatGPT. Then, copy the master prompt, paste it into ChatGPT, and hit enter. It will instantly
+generate 10 different skeleton video ideas. Let's pick idea number one. I'll simply type one and send it.
+Next, ChatGPT will ask, "What duration would you like for this video?" I'll choose 30 seconds since we're
+making a YouTube short. Now, ChatGPT has generated a complete voice-over script that we'll use in our video
+along with six scenes. Each scene includes an image prompt and a motion prompt. We'll generate the voice-over
+later. First, let's create the images. Start by copying the image prompt from scene one. Now, head over to
+Google Flow AI. To generate the images, select these settings. Next, paste the image prompt you copied into
+Flow AI and press enter. Your image will start generating. Now, go back to ChatGPT and copy the image prompt
+from scene two. Paste it into Flow AI and generate the image. Repeat the same process for scenes three, four,
+five, and six until you've generated all the images. Once all the images have been generated, download them
+one by one. Just click the three dots, then select download to save it to your device. Once you've downloaded
+all the images, go back to ChatGPT and copy the motion prompt from scene one. Now, head over to Google Vids,
+which lets you generate unlimited AI videos completely free. Now, paste the motion prompt you copied into
+Google Vids. You You also choose the aspect ratio here. If you're creating long-form videos, select 16:9. If
+you're making YouTube shorts, choose 9:16. Since I'm creating a short, I'll select 9:16. Now, come over here
+and select this option. Then, click add images and choose your first image. Now, simply click the generate
+button and your [clears throat] video will start generating. Now, to generate the second video, copy the
+motion prompt from scene two and go back to Google Vids. Click the cancel button to clear the first prompt and
+image so you can paste the second motion prompt. Don't worry, the first video will continue generating in the
+background, so it won't be removed or canceled. Now, paste the motion prompt here, then select image number
+two. Now, simply repeat the same process to generate the remaining videos. Once all your videos have been
+generated, it's time to download them. Go to one of the generated videos, then click insert at the bottom.
+This will add the video to the timeline. Next, click the down arrow next to the share button in the top right
+corner, then select download as MP4. Your video will start downloading. To download the second video, simply
+click the insert option below the video, then select insert in new scene. Next, delete the first video from
+the timeline. After that, download the newly inserted video using the same method. Repeat this process for the
+remaining videos until you've downloaded them all. Now, it's time to generate the voice-over for our video. Go
+back to ChatGPT and copy the voice-over script. Then, head over to Eleven Labs and click on narration. I'm
+using this voice, but you can choose any voice you like. Now, paste the voice-over script here, then click
+generate. And just like that, our voice-over is ready for the video. Simply click here to download it. And
+after some editing, here's the final result. >> What if you never slept again? Day one feels almost normal.
+Then, your brain starts slowing down. Your reaction time gets dangerously worse. Your memory begins >> So,
+that's how you can create unlimited skeleton videos using just one master prompt, completely free. If you have
+any questions, drop them in the comments below, and I'll be happy to help. If you found this tutorial helpful,
+make sure to subscribe for more AI tutorials like this, and don't forget to share this video with your
+friends. Thanks for watching, and I'll see you in the next one.

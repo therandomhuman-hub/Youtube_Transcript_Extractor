@@ -1,0 +1,160 @@
+Title: The ONLY AI Agent I Sell to Make $100k FAST (4-Step Framework)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: etujEkZ0oZs
+URL: https://www.youtube.com/watch?v=etujEkZ0oZs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:59:41+00:00
+
+Kind: captions Language: en Over the last 6 months, I went from working in IT at a finance company and knowing
+zero about AI to becoming an AI engineer at a billion-dollar digital media company. And at the same time,
+building my own AI agency to multiple thousand dollars per month. The reason I was able to do this so quickly
+is because I found one type of AI agent that both large enterprises and small companies are literally paying
+thousands for. And I just did that on repeat. Maybe you've tried doing something like this before and you
+haven't had the same level of success. The problem is because most creators on YouTube are giving you bad AI
+advice just to sell you into a course or a community. [music] The reality is that these creators aren't
+selling AI themselves. And if they did, then it's all outdated advice like selling chatbots or voice agents.
+I'd rather tell you exactly what's working right now from someone who's actually doing this and sold an agent
+to a client last week. I'm going to show you the exact agent that I learned how to build and sell that clients
+keep asking for. And if you stick to the end, I'll show you how you can have them keep coming back to you for
+more. If you can lock in for 20 minutes to watch this video, then you can literally change your life. If you
+can't, then sorry, this video is probably not for you. When it comes to building and selling AI agents, it's
+really only a four-step roadmap. And if you can get all the way to the end, you'll literally have clients
+coming back to you to buy more from you. And the first step of this roadmap is determining what is the optimal
+AI solution to sell. So first we need to understand why most AI automations end up failing. And that's because
+you are probably chasing trends. If you keep going for the newest thing, then you're never going to be able to
+get good at building and selling something. And all of these ones here, internal chatbots, voice agents, uh
+different workflows like N8N, Make, and Zapier, customer support, and AI websites, all of them have different
+downfalls. Specifically, most of it is too much unique work to the point where it's hard to deliver on this
+and it's hard to scale it because you're building out these complex solutions differently for every single
+client. The other problem is that you don't have the skill set to do this. If this is something that's new to
+you, then you don't know how to do this and the learning curve to get to this point is pretty high. These
+solutions could be pretty complex and understanding how it works takes a good amount of time. So, what are we
+going to do instead? Let's think about what we want from an AI solution from our side. First off, we want
+something with a high profit margin. Something that is easy for us to build, doesn't take a lot of time,
+doesn't cost us a lot, but can make us a lot of money on the back end. Now, the easy delivery part is
+extremely important if you want to scale this because you can't be spending a lot of time on each client. And
+when it comes to scalability, that is the amount of time it takes to build the solution. We want something
+where we can build it once, make slight adjustments to each time, and continue to sell it to new people.
+That's the perfect AI solution for us. Let's take a look at some different AI solutions and compare them so we
+can determine what the best would be. First off, if we look at internal chatbots, the profit margin is, you
+know, it could be decent for this, but it is very difficult to deliver because it takes a long time to build
+internal knowledge bases for every single client. They might be using different ones. It's hard to scale
+because they are using different ones, and it takes a lot of skill set to learn like retrieval augmented
+generation and indexes and embeddings, things you would need to know to build these internal chatbots. Now, if
+we look at the next one, that's a voice agent, and again, the profit margins are in the middle there. The
+delivery speed is also in the middle, but it's hard to scale because each client wants the voice agent to do
+something different, and you need to learn how to use voice agents to give good outputs because it's difficult
+for it to sound perfectly human, and a lot of times clients have too high of expectations for what the AI can
+do. If we look at different workflows like n 8 n make and Zapier, the profit margins are medium, the delivery
+speed also medium, the scalability is medium, and the The set required is medium. These ones can take a long
+time to build and learn cuz each platform is unique and you need to sit there and go through one node at a
+time on building out these workflows. So, it's very unique problems to each client and you don't want to be in
+the business of building these unique solutions. If we look at customer support agents, the profit margins are
+pretty low on this. A lot of people are doing this. There's high competition, takes a while to deliver, it's
+hard to scale up because every client has different knowledge and you need to learn how to build these agents
+and provide it with the knowledge so that you can deliver for your clients. If we look at building AI
+websites, the profit margin is pretty low. Again, there's a lot of competition to do this. The speed to do it
+is easy with a vibe coding and scalability is also easy cuz you can just vibe code a new website, but
+everyone's doing this. So, the skill set required is medium. It's not too hard to learn, but it's also not
+super easy cuz you need to know how to code a little bit. So, overall, this isn't the best of solutions. But,
+if we come to the last one here and check out custom Claude skills, this really checks all the boxes. The
+profit margins are high with this. I'll show you in a bit how you can really charge a lot for these, but it's
+all about using the Claude skill to solve the client's problem. The delivery speed is easy because you can
+build custom plugins and skills that can be shipped out to multiple clients, especially if they're the same
+type of client in the same industry. And the scalability is easy because it's just providing them with the
+skill. And the skill set required is extremely easy. If you've used Claude before, you know you can just type
+in normal English straight into the chat and you can create these skills like that. We determined that Claude
+skill is the best option that we want to go to, but we need to actually deliver on this. And for that, we need
+to take a look at what the delivery loop actually looks like. First off, is discovery, building the solution,
+and retaining. So, it's figuring out what can we solve for the client, what problem using a Claude skill. Then
+it's building out the actual solution, which is the skill, maybe a project, setting up different connectors,
+and lastly, it's retaining them so you can continue to get recurring payments. Now, this is a loop because
+you're going to move them from discover to build, from build to retain, and in the end, I'm going to show you
+how you can turn from retain back into a discovery phase and continue to have them on this loop. So, that
+brings us to step two in the road map, which is discovering what solution to build. First off, we need to ask
+ourselves the question, what are we actually selling to the client? Are we selling a commodity, something like
+a chatbot, a cloud skill, an automation template, a single workflow, or a website? And all of these, if you're
+just saying you're selling that thing, it's a race to the bottom. It's whoever can get the lowest price, and
+the client is going to compare your price with other people's to take the lowest one. When on the other side,
+if we sell outcomes, say we're selling the client saving 10 hours per week on a task, or we're going to build
+them something that can make them an extra $5,000 per month, or even save them 15,000 per month if you're
+replacing another tool that they're using. All of this warrants for premium pricing. You could charge a lot
+more when you're selling the outcome as opposed to selling a commodity. So, the question becomes, how can we
+turn the solutions that are commodities into an outcome that we can charge premium for? And the trick to doing
+this is by understand standing their pain. Let's take an example here for a client I'm actually working with,
+which is an online coach. They're spending 20 hours per week building out these client slide deck deliverables
+for all of their retainer clients, and these are high-paying retainer clients. So, what's the commodity? A
+slide deck skill that would just create these retainer client decks for them in one command. So, that's the
+commodity. If I were to sell them a single skill, I could probably get $100 for it, maybe 200 if I'm a good
+salesman. The difference is, I sold them on the outcome. I said, "You're going to save 20 hours per week. You
+can land one to two extra clients with that time and make an extra $10,000 per month." That sounds a lot
+better than just "You can buy this skill." So, instead, I was able to charge over $2,000 for the solution when
+in reality, it's the same thing that would have been sold for $100. But, this only works if we're going to
+move to step three. You know how to build the solution. So, now that we know the outcomes that we want to
+provide to the client, we want to make this into something that Claude can do. We want to make this native to
+Claude. So, how do we do this? Well, we can bundle up multiple different features of Claude and create the
+solution around those. So, the different features of Claude are skills, which are repeatable workflows,
+connectors, which access different outside sources. There's projects, which maintain consistent context.
+Routines, which allow you to trigger something autonomously or on a schedule. And lastly, chat, which is how
+they can interact with it directly. Now, the good news is you don't need to learn all of this from scratch. I
+actually created a free skill that is an AI architect for you, and it tells you exactly how to create the
+solutions in Claude based on the client's problems. So, if you want that, the link is in the description. I'm
+going to show you exactly how you can use that right now. Once you download the skill, it's extremely easy to
+use. First of all, just type {slash} SW AI architect and just type that in and press enter. And it should kick
+off a few questions for you to answer. All right, so generated this form for me, and now we can just fill it
+out with our answers. So, what is the problem? Describe the task that's painful, slow, or broken. So, we'll
+say, "I want to easily generate slides for my retainer clients when I have to make presentations for them
+about leadership coaching. I want it to be in their style, their brand style, but the content should be from
+my coaching company." Now, this is what the client was asking for pretty much. What triggers it? We're going
+to have a person trigger it every time. The tools that it needs is Google Drive. We're also going to say that
+it needed Gamma to generate presentations. And it should produce drafted content. We want it to create the
+slides. Does a human need to approve it? Uh yes, we're going to want human approval here. Any other context?
+Let's say the clients are going to change. That should be generic, the team size as well, but the tools should
+always stay the same. And I want it to create a slide deck in the end. Cool. So, let's go ahead and build my
+architecture. It just finished and it generated this document for us that explains exactly how to build our
+solution, and it makes it right in the chat, which is super nice. So, if we go through here, we can see it
+summarizes the problem and basically just the answers to all of our questions. If we look at the execution
+flow, it says that in Claude chat, the coach is going to initiate this with a client and a topic. And then
+it's going to run a Google Drive connector to get all the content that it needs. It's going to do Drive
+connector again to fetch the client brand profile. It's going to use the skill to structure the slide deck and
+the chat to review it, and finally Gamma to generate the deck. And it tells us exactly over here what we're
+going to need. It says we're not going to need a routine, which is correct because we're going to trigger this
+manually and not automatically. And then it's going to use connectors to Google Drive and Gamma, skills to
+actually run the workflow, projects, one per client to hold all the brand information, past decks, etc., and
+Claude Chat to actually drive it. And this is actually the exact solution that I built for the client that I
+sold them for $2,000. This is literally exactly the same thing. And now, you just have to answer the questions
+and it Claude will just tell you what to build. Now, building it out from here is super simple. You can just
+ask Claude, "How do I actually build this now?" And when it comes to the skill, you can just tell Claude,
+"Build the skill for me." in the chat, and it will start building it exactly how it outlines it here. Now that
+we've built the solution for them, we want to go to step four in the process, which is retain. And that's
+because we don't want to just build one solution and hand it off, and that's it. We want them to come back for
+more. We want to have that repeat income coming from the AI agents that we're building. So, how do we do this?
+The secret is how you hand over the very first solution that you're building for them. If you do this the
+right way, that first solution becomes a starting point that you can use to build a lot more for them. So,
+this comes in the form of three different deliverables that you're going to provide at the end. The three
+deliverables are one, documentation. This is written documentation that is a standard operating procedure,
+which means going through step one, step two, step three of how to use the workflows that you created, an
+overview of what the workflow actually does and how it works. And then lastly, actual templates that you use.
+So, this is providing the actual skill file or any scripts you made or anything like that. The second one is
+videos. So, this is you just recording your screen, going through how it works and how to use it. And if you
+just stop at these two, it goes a long way at showing the client the quality of work and talent that you have.
+There's been so many times where I've provided clients with this information here, and they were blown away at
+going above and beyond and the extra mile and they've come back to me for future projects. So this alone can
+do it. But if you throw in this third one, that's how you can work immediately on the next project and have
+the client excited about it. And the third one is positioning. This is the king here. And what do I mean by
+positioning? This is positioning yourself as the solution to their next problem. You've been very intertwined
+into their business up to this point. You understand exactly how they do things and how things work. So you're
+in the perfect position, perfect spot to tell them these are the other things that you can build off of with
+this one solution I made to keep improving your company and make more returns. Or this is another area in your
+company that you can improve to make even further returns. So this is next steps of what you can do now that
+you built out this solution. How can we take this to the next level? Or build out other solutions and in ROI
+table of each solution that you want to propose and how much more they'll get back from it. So if we take a
+look at an example here, we'll say now that we've built out this client deck skill, maybe you want to create a
+skill that auto creates a proposal. We can say this saves you three to five hours per proposal, can add you an
+extra 10 to 20k per month and that's going to be the highest ROI for you. And we can just go through the list
+here, keep listing a bunch of them and get them excited about all these new projects that you get to now do
+and make more money from them. Because in their eyes, it's a good deal cuz now they're getting this return as
+well. If you want to continue learning how to build AI that actually works and can land you clients, then go
+ahead, hit subscribe and you can watch some more of my videos right here.

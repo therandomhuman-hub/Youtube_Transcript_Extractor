@@ -1,0 +1,93 @@
+Title: 5 AI Courses That Are Worth More Than a Degree
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: qQHl4gnpi2k
+URL: https://www.youtube.com/watch?v=qQHl4gnpi2k
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:58:52+00:00
+
+Kind: captions Language: en Look, AI is changing every 5 minutes and degrees are not keeping up. You see the
+problem? Companies don't care where you learned AI, they care that you can use it, but nobody actually can do
+that. So, here are five AI courses that make you job ready in weeks, not years. [snorts] High value, in
+demand, top skills. And so, first up is AI for business by Wharton. Yes, Wharton, that business school from
+the University of Pennsylvania, one of the best top-ranked business schools in the entire world. And I already
+know what some of you guys are thinking, "Lucas, I don't want to start a business." Fair, but here's the
+thing, you're actually not learning how to start a business, you're learning how to work in a business. And if
+AI is going to change how that business operates, and you're working in a business, you should probably
+understand what AI can do and what it can't do and where it's actually heading next. Because honestly, that
+alone removes a lot of the stress around the topic of AI. And once you understand the technology, it stops
+being this scary thing that might take your job and starts being a tool that you actually know how to use.
+Although, just a disclaimer, I mean, even the people that do know the thing are still a bit stressed, so I'll
+be perfectly honest about that as well. Now, that specialization is made exactly for that. It has no
+prerequisites, it's beginner level, and you don't need to know how to code. It's only four courses covering
+the fundamentals of AI and ML and how AI is used in marketing and finance and people management, AI strategy,
+governance, all those fancy buzzwords, and things like ethics, risks, how companies actually roll this stuff
+out. And you also get interviews with industry leaders who manage data at companies like McDonald's and Visa,
+the card company, if you know the Visa cards, you probably do. So, you can see how things actually work in the
+real world and not just in theory. Now, should you take it? I mean, over 78,000 people have already taken it
+and they seem to like it. They've given it a 4.7 rating and so, the whole thing takes about 4 weeks at 10
+hours a week and at the end you get a cert from the University of Pennsylvania on your LinkedIn. And I mean, a
+Wharton credential without the Wharton tuition, which is really expensive, by the way, that's a pretty good
+deal. And number two is the IBM AI product manager professional certificate. Now, this one is for people who
+don't want to be the engineer, but rather be the person that makes the money. [snorts] No, but the person that
+actually decides what's happening and what's gets built. Product managers sit right between the business side
+and the tech side, and right now companies desperately need project or product managers, both of them, that
+actually understand AI. And that combination is pretty rare because it's so new, and rare skills get paid
+well, usually. This is a 10-course series, and so it's pretty long, but it's completely beginner-friendly, no
+prior experience required. It literally says so in the FAQ section right here. And the first courses teach you
+the, you know, classic product management, the life cycle, the role, working with stakeholders, not getting
+angry when people do the wrong thing, building a product strategy and a roadmap. And then it kind of shifts
+into the fancy buzzword of AI a little bit more, talking about artificial intelligence, generative AI,
+basically ChatGPT, prompt engineering, and the foundational models. And then the best part, it basically
+combines both things. You learn how to actually build and manage AI products. And the final course is about
+using Gen AI tools like our favorite ChatGPT, Gemini, Copilot, whatever you want to use in your daily work as
+a product manager. It's very hands-on. You do build a pretty good portfolio along the way, which I really
+enjoy. And so you finish with actual proof of what you've done and your skills, and not just a certificate,
+because that's worth way more than a cert. Now, IBM says that you can get job ready in about 3 months at 10
+hours a week, and over 84,000 people have already enrolled, and it has a 4.7 rating. I don't agree with the 3
+months at 10 hours a week thing, but still pretty useful. And if the technical tracks of this video sounds
+like too much for you, this is the one that I would pick. And let's move on. Now, next up is going to be
+DataCamp, and they're the perfect example of AI courses because here's the problem with learning AI at
+university, right? Curriculums take years to update, and by the time a chapter on AI is printed, half the
+tools in it are already outdated, and you're learning that. And so, DataCamp doesn't have that problem. Their
+content gets updated constantly, and the tracks I'm about to show you were updated just a few months ago or
+even weeks. And so, everything's interactive, and you write the actual code in your browser from the first
+lesson. And also, 19 million people are learning on DataCamp for a reason, including myself. And so, first up
+is the associate AI engineer for developers track. It's beginner-friendly with no prerequisites, and in about
+26 hours, you go from basically nothing to building AI-powered applications. You start by working with the
+OpenAI API, connecting things like ChatGPT into real applications, and then covering some things like Hugging
+Face, LangChain, Pinecone, and the exact tools you'd see in an actual AI engineer job description today. It's
+also filled with projects, which I love, so by the end, you've actually built things for your future
+portfolio. I keep pointing aspiring AI engineers here because it's the fastest path I found from zero to
+actually shipping AI features. And if you're less of a developer and more into data, we have the associate AI
+engineer for, well, data scientist track. This one is made for people who already know a little bit basic
+Python, but instead of just creating AI apps, you actually work in deeper with the AI models themselves,
+training and fine-tuning them, deploying them into production with MLOps, and putting everything together. So,
+it's going to be around 40 hours taught by engineers and data scientists from top companies like Microsoft.
+And if you're thinking about starting this track, just know that some parts are difficult, but that's kind of
+exactly what makes it valuable. I mean, the university would teach you this over semesters using resources
+made before half of these tools even existed. And here, it's like 26 or 40 hours of training with a cert that
+actually tests whether you can do the real work. Now, both of these AI engineering tracks lead to a proper
+certification. And so, these are not going to be like a multiple choice quiz where you have to like put in
+some basic stuff. Their AI engineer cert actually comes with a timed exam plus a practical real hands-on exam
+designed to test whether you can actually build what the track taught you in AI. So, you can walk out with a
+credential that actually holds some real weight on a resume and not just a participation badge or certificate
+of completion. And so, pick the track that matches you. Developer if you want to be a developer and build AI
+apps, and data scientist if you want to work with more with the models themselves. And the links are at the
+top of the description. Go grab one for yourself. Now, number five is the AI agent developer specialization
+from Vanderbilt University. And if you've been watching this channel for a long time, you know that AI agents
+are the big topic right now, and we're talking about that quite a lot. And so, we're moving from chatbots that
+answer questions to agents that actually do things. They use tools, they have memory, they complete tasks on
+their own. And the people who know how to build AI agents are in a very good position right now. This is a
+six-course series taught by Dr. Jules White, who is one of the most popular AI instructors on Coursera. And
+over a million people have taken his courses. Now, you build a complete AI agent framework in the programming
+language of Python from scratch, piece by piece, step by step, so you actually understand how AI agents work
+instead of just copying somebody else's code. You learn how to create them from scratch. And you learn a tool
+calling, memory, multi-agent system where agents work together, and how to build agents that are safe and
+trustworthy, of course also useful. You also create your own custom GPTs and go very deep on prompt
+engineering and the projects are practical here, too, and things like agents that explore files, generate
+documentation, automate workflows, whatever you want to do. You should know some basic Python though before
+you start, but no specific AI or ML knowledge is required. And it only takes about 2 months at 10 hours a week
+and it has a 4.8 star rating from over 10K reviews, which is one of the highest I've ever seen. And so, check
+out this video for more AI certs. I think you'll like it and it's top-rated, so why not check it out?

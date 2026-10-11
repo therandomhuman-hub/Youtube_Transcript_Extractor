@@ -1,0 +1,68 @@
+Title: Google Just Dropped FREE VEO 3 Access— Do This Before It’s Gone
+Channel: AIpreneur
+Type: VIDEO
+Video ID: QbddTuXwqak
+URL: https://www.youtube.com/watch?v=QbddTuXwqak
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:38:24+00:00
+
+Kind: captions Language: en Maya runs through the tunnels and the city dares her to stop. A man falls, the
+clock blinks red, and Mia chooses to act. On the bridge, she [music] sees the trap spreading across the city.
+Time is running out as she clears the platform alone. This entire cinematic video created with zero editing
+skills, zero budget, and it took less [music] than 10 minutes. Google just unlocked VO3 for a one month free
+trial and most creators still don't know this exists. This is 100% legal. It is a new Google website flow that
+gives you free trial access to V3. And the best part, it can enable Nano Banana Pro on the same account. In
+the next few minutes, I will show you everything and we will generate a professional video together [music] so
+you can confirm it works on your screen. And by the end of this tutorial, you [music] will have a V3 account
+that generates professional AI clips with no watermarks and no limits. Welcome to AI prneur and let's get
+started. Step one, get free V3 access. All right, first open Google and type Gemini Business on your screen.
+Click on the first result. It will take you to the official Gemini Business signup page. Click it. Then sign
+in with any Gmail account you already have. If you want to keep things clean, you can create a fresh Gmail
+just for this. Once you are in, you will land inside the Gemini Business Workspace dashboard. This is the key
+because it unlocks the VO video option. This gives you 27 days trial of V3 generation and unlike the standard
+flow plan that limits you to 100 credits, this account has zero restrictions. In the next step, I'll show you
+the one toggle that proves VO3 is activated and will generate your first clip live so you can confirm it works
+on your screen. Step two, generate your first video. Critical step. All right, this is where most beginners
+mess it up, so watch closely. You're now inside the Gemini chat dashboard. In the message box, type a simple
+video prompt. Nothing complicated yet. Now, stop before you hit enter. Look at the bottom and click tools.
+Scroll until you see create with VO and select it. This is the key. If you don't choose this tool, you're not
+using VO. You're generating with the basic model. Once create with VO is selected, hit generate and give it 15
+to 30 seconds. Now you should see your first output, an 8second cinematic clip. And here's why this is so
+powerful. Most free video tools either give you a lowquality preview or they slap a giant watermark on it.
+However, with this Google method, you get a clean export, professional quality, and it actually looks like a
+real cinematic shot. Now, click the download button in the corner and save it. Now that you have confirmed it
+works on your screen, in the next step, we're going to scale this into a full professional video, not just one
+clip. Step three, build a complete story video. Perfect. Now, we're going to stop generating random clips and
+build a real story video that feels cinematic and addictive from the first second. Here is the simplest
+beginner way. Open chatbt and type this prompt. It will give you an original story with eight scenes. You're
+going to convert them into VO prompts. Right under the story, paste this prompt. Anyway, you can choose your
+own story style and your own prompts. It is up to you as V3 accept all style of videos. Now go back to Gemini,
+click tools and select create with Veo. Then paste scene one prompt and generate your first clip. In a few
+seconds you will get a cinematic clip. Download it and then repeat the exact same process for scene two, scene
+three and so on until you have all your clips. There is a quick tip. If you ever get unable to generate, do
+not panic. Just shorten the prompt. Keep only the core action, the camera, the style, and generate again. By
+the end of this step, you will have a full mini movie made of consistent scenes. And in the next step, we will
+stitch everything together into one professional video. Step four, add voice and assemble the video. All
+right, now you have got all your scenes downloaded. Now it is time to turn those separate clips into a real
+watchable video that feels like a mini movie. So, open your editor and create a new project and import every
+clip you generated. Drag them onto the timeline in order. Scene one, then scene two, then scene three. And
+once they're all lined up, do a quick pacing pass. If a clip feels slow, trim one, 2 seconds. And if a moment
+feels important, leave it slightly longer. Now, we add the voice over. So, go back to Chachib and ask it to
+write a narration for your story. copy it and generate the voice using any text to speech like 11 Labs, Cap
+Cut voice, Google AI text to speech or whatever you already use. Then import the audio into your editor and
+place it under the clips and then select all the clips and low the volume down. Next, add music, choose one
+cinematic background track and keep it consistent across the whole video. Then lower it so it sits under the
+voice. The voice should always be the loudest. Finally, add captions. Click auto captions in Cap Cut. Generate
+the subtitles and apply a simple readable template. When everything looks clean, export in 1,080p, and you now
+have a complete professional story video built from VO scenes. Now, the good news in the same Gemini account
+you just set up can also give you access to Nano Banana Pro free to create a pro thumbnail for your story
+before you upload it. So go to chat GPT and ask it to create prompts for your thumbnail. Then pick the best
+one, copy it, and then go back to Gemini. Click tools, select Nano Banana Pro, paste the prompt, and generate.
+In a few seconds, you will have clean thumbnail options, download the best one, and you are ready to publish.
+And that's it. You have now a full workflow. Gemini trial, create with [music] VO, scene by scene story, cap
+cut voice plus music, Nano Banana Pro thumbnail, one setup, and full [music] pipeline. Comment prompts and
+I'll send you my exact prompt pack to [music] get clean, consistent results fast. And don't wait. Free access
+like this can change anytime. Set it up today. Generate your first eight clips [music] and upload your first
+video. If this saves you time, subscribe right now, like the video, and hit the bell of notification because I
+drop a wonderful tutorial like [music] that every week. Thanks for watching, and see you next time.

@@ -1,0 +1,135 @@
+Title: How To Automate Stripe For Recurring Payments & Invoices
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: vzhVvjNpTUE
+URL: https://www.youtube.com/watch?v=vzhVvjNpTUE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:14:56+00:00
+
+Kind: captions Language: en Hello guys, welcome to this video. Today I'm going to be showing you how to
+autosue invoices and receipts in Stripe using make.com. This is very high leverage. Like I said, this will be
+somewhat like the other one I created, but this one's using Stripe. Stripe is very it's very Stripe is a
+little difficult when it comes to the backend and uh making automations. So, I'm going to teach you this in a
+very streamless way where you can either make it for your own business or sell it to other people. as a
+service. Okay, let's get into it. So, let's go to make. I kind of already started, but basically, we're going
+to watch events, right? So, we're going to watch events and we're going to choose when um we get to extract
+that customer, what action they take for us to extract them. So, let me bring this over. Right here in my
+stripe, I'm using a sandbox. Sandboxes are basically used for testing purposes. You can't there's no real data
+will be, you know, actually you can't really do anything uh live with this. So, it's all practice. Now, we're
+going to go to Oh, no. Sorry, not the web hooks. Let's go back. So I want to actually create the Yes. So let's
+create the product first, right? So product catalog. We're going to create one. Create a product. Let's say
+our product is [Music] um 30-day 30-day fat loss fat loss um 30-day fat loss bundle, right? We will help you
+lose you lose 10 pounds in the next 30 days without any cardio. And oh my gosh, I have a bug in my face.
+Without any cardio and high intensity, high intense uh full body full body workouts, right? So, we have that
+right there. We could upload an image, but I'm not going to. Okay. Oh my gosh, there's a bug in my face. We're
+going to make this a oneoff purchase. So, say, you know, we make this a uh say this is a $120 course. Yeah.
+Say, you know, $120 bundle they can buy auto. We're going to quality one. Okay. My grammar. Yeah. Yeah. Yeah.
+Add the product. Okay, now you see this. You know, you made your product or you probably already have one. So,
+that's good. Now, we have it. We're going to act as if someone was going to buy it, right? But we want to set
+up a couple APIs so we can catch it. Not that. So, we can catch it in make.com. And you can actually do this
+strictly off Stripe, but make you can just it's more intuitive. You can, you know, connect this to CRM. You
+can connect it to other things. So that's why I'm teaching you this really. So if you come to APIs over here,
+like I said, these I will rotate these keys by the time this video ends. So you can't use these. But let's
+make let's create Yeah, hold on. Give me one second. Make sure I'm looking at the right thing. Okay. Yes.
+Let's come back down here over here. API key. Let's create restricted API. Providing this key to another
+website. That's what we're going to do. Continue. Name. We're going to name this um invoice product um yeah
+invoice to product or to to to customer sorry to customer I'm going to provide my over here I'm going to
+create a web hook so we can you know provide it over there. So, as you see, um, going to create a new web
+hook. We're going to name it the same exact thing, actually. So, this then I'm going to put Stripe. And now
+we're going to scroll down to invoice right here. And we can get invoice created, deleted, finalized,
+anything. So, we're actually just going to we're actually going to grab all of it so I can just show you all
+of these at one time. As you see, boom, show address. We're going to copy address to the clipboard. Come back
+over here and boom. And that's going to create the restricted key right here. Right now, if I come here and
+edit the key, I can see everything that is going to be connected to this um API, right? So, that's cool. I
+kind of want to already test this out before anything. So, if I run it, nothing will happen, of course. Let me
+come here. I want to act as a customer. Yeah, we're going to add a test customer as if they were going to buy,
+you know, the product, right? So, say Jenny Rosen, then I'm going to put my put my resume email. Um, actually,
+no, I'll just do uh I'll just do this email right here. com description just customer. Scroll down to the
+billing information and default invoice. Yes, we want to look at all the templates which I actually should
+have clicked create new template. So you know template looks like this. Um, yeah, template looks like this.
+That's fine. Template name. This template will be for that specific. What was it? Invoice to customer. I think
+that's what we named it. Invoice. No, no, no, no. We're going to workout invoice. I say 30-day 30-day workout
+invoice. Excuse me. Um, now you know we can put the thank you for your business memo. We'll do the any
+questions you can contact us at utgdia.com.gdia.com. Boom. Now, we're going to create this template. I don't
+think this one needs an invoice ID. So, boom. Create the template. Day workouts. Choose the Or actually, we
+don't have to do this. Oops. We don't have to do this, do we? Um, I think this is just the Well, here we'll
+just do the United States. Keep the rest the same, honestly. So, usually a customer will add all of this
+information. I don't want to add my information. If I think if I click it. Yeah, I don't want my information
+coming up like this. So, let me just add customer. We'll just add it like this. Jenny Rose with my email. Now,
+Stripe, of course, has not done anything because we haven't created an invoice. Now, if we act as this
+customer as they were purchasing something, let me remember how to do that again. So, if I come over here,
+where is it? Come to we created a product here. Yes. So now we're going to act as if we were going to purchase
+this product as Jenny. Let me remember how to do this. Give me one second. Product catalog. 30-day fat loss.
+Scroll. I guess you can cross sell and everything. So that's kind of nice. Copy live mode. That's not what I
+want. I believe what I want is I could use this right here just to test it out. So if I create an invoice,
+boom, Jenny Rose. So if Jenny was actually creating the invoice on your website or whatever it is, this is how
+it would pop up. Jenny Rose boom 120. You know, there's nothing else here left because I didn't add too much,
+but you can see some of the information populated here. Bill to Jenny Rosen, United States, my email that I'll
+show you. Any questions, contact us at boom. So, we can save. Now, I want to make sure this is catching it.
+We're going to send the invoice. And we're not going to see any CC anybody. We're going to add the invoice.
+Send invoice. Hopefully, if this is not caught, we'll have to come back and see why it was not caught. Only
+send emails to the address of team members within the sandbox. Oh, okay. So, I have to go back now and I have
+to only send it to myself. So, we're going to go back to Jenny Rose as a customer. Come here. We're going to
+edit. Like I said, this is a sandbox, so I can only send it to myself. And that's what you saw right there.
+So, update customer. Create the invoice. No product. Click the product. Click this right here. Create invoice.
+as if Jenny Rose was purchasing. And this would automatically happen once you know someone would pay for
+someone would automatically do it on your site or however your your Stripe is integrated into you know your
+business. Send an invoice. Send invoice. Let that wait a minute. Boom. Test invoice sent. Wait for this. If
+this does not go, we'll have to check why it did not go. So invoice was created and you can check by coming
+back in. Let's see where is it. Coming back in the API keys. We'll just create the we'll just create that same
+thing one more time. We'll try to buy the product again. Because I'm I can't find what I was looking for. Come
+here. Where's the product? Here. Right here. And wait. Apologies. Click this. Come here. And we're going to
+create invoice. Choose Jenny again. Make sure this is running. It doesn't have to be running, but we're going
+to make it run. Save. Send invoice. Send the invoice fully. And boom. Now that this is caught, you'll get a
+whole bunch of information, right? You get the customer's name, you get the email that it was sent to, uh any
+questions, you can contact us here. Thank you for business and all of that. Now, if I go to my Gmail to show
+you the actual invoice, like what was the point of this video? Go to my Gmail. I get something just like this
+right here. And of course, we've run it twice, so we get this. you pay this invoice. You can pay it. You can
+pay it not. Whatever. Right? And that's your choice whether to pay it or not. Whatever. Boom. Pay. Bam. So,
+that's pretty good. Now, what the fun part is is that you saw that that do not need make with make. You can
+now connect it to other things, right? So, if you want to if you want to grab everybody who's purchased um or
+grab everybody who got an invoicing invoice link, you can connect this to let's say about like Air Table or
+Google Sheets and then you can uh that's not what I meant to do. You can do this. Then you can say we had a
+database for example we can let me open my air table. Going to click this but we're going to open a new one
+and wait for that to load. And then we're going to name this customers. Then invoice sent. And say you want to
+grab those customers emails and you want to grab the product they bought or the the product invoice was sent.
+Okay, we can name that better. Invoice for product. Boom. Oh, wow. Invoice for product. Create field. So now
+if we have all this information, we don't need uh we can use that actually. We don't need this right here.
+Let's put potential because they haven't, you know, paid for the invoice that we're going to delete this
+record right here. So, boom. Say we have these fields right here. Now, when I come back here, I can watch
+events. We can create a record. Actually, we can go to air table. We can create a record in the generate
+invoice. in table two, right? We're going to save that real quick. We're going to delete these. This one, we
+could search invoices, of course. So, if we wanted to get the product that was invoiceed, we'd have to do this
+right here. You have to search invoices. So if I come here do this then connect this right here and we get the
+customer ID subscription ID. Let's see. Well, there is no subscription actually. Um okay, let's not do that.
+We're going to do this. We're going to search for customer and you search it by their email. So you can type
+in email right here. Customer email customer email. Going to set this to one. Basically only one output can
+be. So if 3,000 people, you know, got an invoice, only one can be grabbed. So invoice, you come here and I put
+the [Music] search customer. Then from that customer, it'll search the customer ID, which I need to grab from
+strictly this right here. Just click save real quick. So that goes away. Customer ID seven right there. Boom.
+Then you know there is no subscription ID. We don't there's actually nothing there we need. Going to put that
+as one. We're going to connect it here. Let's run this one more time. So, if I come back over here and you
+know that that person sent another invoice. Uh, so Jenny Royals, we're going to send going to send another
+invoice. I wasn't running it, but you'll see this right here. Boom, boom, boom, boom. And this actually didn't
+get the data we wanted. I should have unconnected it. But if I refresh this right here, you should get [Music]
+some. No. Oh, wait. Let me uh wait. Let me see what uh let's go back. Let me see what this actually grabbed.
+Oh, this actually grabbed nothing. It was empty. That's good. So, come here. I can now see information from
+all of these right here in this air table. So, invoices sent. Click this. Scroll down and you can get the
+price if you wanted. looking for get the invoice sent. So this is actually the object you want to grab the
+invoice sent. Let me So if I scroll all the way down in this type was invoice sent. I actually grabbed one of
+the other ones which let me see if I can show you. I know this is a cluster but this is how it works. So, if I
+type if I type invoice, if I type invoice, you'll get invoice sent uh invo you you'll get a couple of
+different invoices. So, invoices sent, you'll get invoice item, which I believe that's what we're looking for,
+honestly. So, the invoice item just shows you what they purchased, right? Um, but it comes in this form, not
+in the actual what the title was. So, let me go back down and invoice item. Let's just grab this. That's the
+invoice that was sent. The invoice item should just actually see my bad. The invoice item would be this. If
+you look at it, let me save that. Oh no, I meant to do this. Okay, I guess I can't. That's what I meant to do.
+So now wish I could run it again. Set an invoice. Send test invoice. Boom. Got some of the information and it
+will look where's air table look like this. Jenny Rose Udo. This is the invoice product. And then you know
+something for attachments and something for invoice. I don't know why I put this here. I don't think we need
+this. But basically you can as you see this will you know do the whole stripe back end send the invoices and
+you put the invoices in a CRM where you can understand and have it for you. But yeah that's a small but a
+little complex way how to auto issue invoices and receipts in Stripe. You know if you need anything let me
+know. uh give me the next business idea or the next automation idea you'd like to see and I'd be happy to
+share.

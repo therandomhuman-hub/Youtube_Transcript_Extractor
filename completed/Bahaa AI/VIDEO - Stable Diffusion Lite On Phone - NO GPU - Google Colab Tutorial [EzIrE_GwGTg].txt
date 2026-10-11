@@ -1,0 +1,35 @@
+Title: Stable Diffusion Lite On Phone - NO GPU - Google Colab Tutorial
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: EzIrE_GwGTg
+URL: https://www.youtube.com/watch?v=EzIrE_GwGTg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:48:27+00:00
+
+Kind: captions Language: en in this video you will know how to use stable diffusion on your smartphone free
+and without limits on use you will also know how to use styles to create images that match your desires the
+first thing is to open the web browser and make sure that you are logged in with Gmail after that open the
+Google collab Link in the video description it will appear to you like this run the first step then press run
+anyway then it will start loading when the stat is finished a small check mark will appear then the second
+step this is the step to download the model you can use any model you want from saveidi.com for example if we
+choose this model APC realism [Music] long tap on the download button then choose copy link address then you
+will go back to Google collab and paste the link here [Music] then you run the Second Step it will download
+the model foreign the third step it is the step to install and run stable diffusion this step will take
+approximately 3 minutes then you will see a link like this tap on it it will open in a new tab it will open a
+page like this this is the main interface for stable diffusion on mobile here you will find the section name
+style this version of stable diffusion has a ready-made style collection it will help you in making photos
+easier and faster styles are pre-made prompts here we have over 50 Styles in the video description you will
+find the link to an illustration of each style and the type of image it creates before we start generating
+images we will change the batch count to four it is the number of images that the program will generate each
+time we tap the generate button I will test some words and try to generate images using styles of course you
+can try whatever you want for example we will write the word girl and choose the 3D character Style [Music]
+foreign [Music] give the program some time to make the images [Music] that was the results to download the
+image long tap on it and save the image to your device what if we try a word spider me and using the same 3D
+character Style we will get results like this of course you can write whatever you want without selecting a
+specific style but here I am showing you how the style facilitates the process of making a certain type of
+image let's try another style and another word for example we will write the word cat and choose the adorable
+Style [Music] oops foreign [Music] for example let's write the word girl and choose the horror Style [Music]
+let's try the word lion with the cute Kawaii Style [Music] let's try the word horse with the robot I Style
+[Music] you can try whatever you like of the prompts and styles only when you're done go to Google collab page
+tap here then tap runtime [Music] then disconnect and delete runtime then tap yes

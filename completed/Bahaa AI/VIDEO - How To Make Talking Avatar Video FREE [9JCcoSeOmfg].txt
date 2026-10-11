@@ -1,0 +1,75 @@
+Title: How To Make Talking Avatar Video FREE
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: 9JCcoSeOmfg
+URL: https://www.youtube.com/watch?v=9JCcoSeOmfg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:45:58+00:00
+
+Kind: captions Language: en in this video you will learn how to create a talking Avatar completely for free
+and without using any paid websites subscriptions or limits you will learn how to turn an image into a video
+of a person speaking like the one you are watching now in this tutorial we will use the computer but the steps
+can be done simply on the phone as well whether it is Android or iPhone first we will create a folder for the
+project to place the files that we will use the first thing we need is a picture of the person we want to turn
+into a speaking video you can use any image you want whether it is a picture of a real person or a picture
+that you created with AI I will use an image that I created with AI using stable diffusion you can watch this
+video to learn how to use stable diffusion on Google collab you will find all the links used in the video
+description the second thing we need is the audio voice over file you can use an audio voice over file that
+you record reced with your own voice or you can use any website that converts text into a speech using
+artificial intelligence such as voice maker or 11 Labs now we want to add natural movement to the face and I
+blinks to this image to do this we will use a free application available for Android and iPhone phones it is
+the mug Life Application this app has many features including free in paid ones we will only need the free
+feature you can use this app on your phone if you want or you can use blue stacks on your computer if you do
+not know blue Stacks it is an Android emulator program through which you can run Android apps and games on
+your computer it is completely free all you have to do is download it from the official website and install it
+on your PC when you open the program it will appear like this now we must upload the image to Blue Stacks
+click medium manager then click import from Windows then choose the image the image was added the blue Stacks
+media Gallery after that open the Google Play Store of course you will need to sign in with a Gmail find and
+install the modif [Music] app when you open the application it will appear to you like this click here when
+you use the application for the first time it will explain to you how to use it to use the image we want click
+here then click here then choose the image the image will appear in the app like this you will find the image
+turned into an animated video without blinking in natural facial Movement we need a 20 second video of this
+but this length is not allowed for free in the app so we'll record the screen for about 20 seconds I will use
+OBS studio to record this part of the screen for about 20 seconds OBS studio is a completely free program and
+there are many tutorials on YouTube on how to use it [Music] after recording 20 seconds we will go to the
+location where the OBS Studio screen recording files are saved cut the recorded video file and paste it into
+the project folder but this screen recording video is quite large in size we want to reduce it size to make
+the next steps easier and faster open the Google search engine and search for easy GIF resize video and open
+this link click the choose file button choose the screen recording file then click upload video wait until the
+upload is complete the website page will appear to you like this type in a new WID 7 20 leave the new high
+field blank then click resize video when finished you will notice that the video size is reduced by more than
+90% without affecting the video quality then click save to download the new file into the project folder now
+we have a video of the face in a voice over file open your web browser and make sure that you are logged in
+with your Gmail email open the link to the first Google collab project wave to lip links are in the video
+description it will open for you like this run step one this window will appear click run anyway after that
+step one will start loading this step will take approximately 1 minute when the first step is completed a
+small green check mark will appear next to the step after that run step two the choose files button will
+appear click on it and choose the video file that we made previously the video will start uploading after
+completing the upload a preview of the video will be displayed after that run step three the choose files
+button will appear click on it and choose the audio voiceover file after uploading a preview of the uploaded
+audio file will appear after that run step four this is the step of making the video setting the audio file on
+the video and matching the movement of the lips this step takes time depending on the length of the audio file
+used after completion you will be shown a preview of the final video and this is the result in this video you
+will learn how to create a talking Avatar completely for free and without using any paid websites
+subscriptions or limits you may notice that the quality of the face in the video is very low but we will solve
+this issue in the following steps after that run step five to download the final video into the project folder
+after the video download is complete you must disconnect from this project on Google collab from the top menu
+click run time then click disconnect and delete run time then click yes then close this page from your web
+browser in the next steps we will improve the quality of the face in the final video very significantly open
+the link to the second Google collab project click in run step one press run anyway step one will start
+loading this step will take approximately 4 minutes when the first step is completed a small green check mark
+will appear after that run step two the choose files button will appear click on it and choose the final video
+file that we created in the Wave 2 lit project previously the video will start uploading when the upload is
+completed you will be shown a preview of the uploaded video after that run step three the choose files button
+will appear click on it and choose the image that we used previously after the upload is complete a preview of
+the image will appear after that run step four in this step the program will fix the face in the video and
+raise its quality this step takes time depending on the length of the uploaded video after completion a small
+check mark will appear next to the step you will see a preview of the new video after raising the quality of
+the face this is only a preview and the video Dimensions will be the same as the video Dimensions that we
+uploaded in step two after that run step five to download the new final video I will show you the result after
+a few seconds if you intend to make another video run step six then repeat the steps starting from step two if
+you are finished you must disconnect from Google collab from the top menu click runtime then click disconnect
+and delete runtime then click yes and this is the final result in this video you will learn how to create a
+talking Avatar completely for free and without using any paid websites sub descriptions or limits you will
+learn how to turn an image into a video of a person speaking like the one you are watching now

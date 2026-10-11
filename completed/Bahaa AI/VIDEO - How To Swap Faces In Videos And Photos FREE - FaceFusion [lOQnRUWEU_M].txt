@@ -1,0 +1,39 @@
+Title: How To Swap Faces In Videos And Photos FREE - FaceFusion
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: lOQnRUWEU_M
+URL: https://www.youtube.com/watch?v=lOQnRUWEU_M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:44:54+00:00
+
+Kind: captions Language: en in this video you will learn how to replace a specific face in videos or photos
+with the face you want even if the video or photo has more than one face completely free using face Fusion on
+Google collab the most important thing in the used videos and images is that the face be completely visible in
+the images and throughout the whole video first we will create a folder and put in it an image of the face
+that we will use a video and another image for testing open your web browser and make sure that you are logged
+into your Gmail open the SP Fusion project link on Google collab in the video description it will appear to
+you like this run the step one to do the basic installation this window will appear click run anyway after
+that the first step will start loading when it is done you'll find a small green check mark that appears
+beside the step after that run step two then run step three wait until all components are downloaded then open
+this long link this page will appear this is the face Fusion interface of course you will find a lot of
+settings and options but it is preferable not to modify anything the only adjustment we will make is to check
+the face enhancer option this option will greatly improve the quality of the replaced face in videos and
+photos in the part called Source click here choose the image of the face you want to use in the Target section
+the target video or image will be set first we will test deep faking a photo click here and choose the Target
+photo wait until the upload is completed and the program interface is fully loaded you will find that the
+program has identified all the faces in the image in this case there are two faces here you will find that the
+program shows you a preview of the final result with the selected Target face in the default settings the
+program replaces the face on the left of the image you can select the face you want to swap in the photo from
+here after that press the start button to begin the swapping process to download the final image image click
+this Arrow to save the image to your device now we will test deep faking a video using the same Source face
+click this x to clear the target file then click again to upload the target video wait for the video to be
+uploaded and the program interface to complete loading choose the face you want to replace in the video then
+press start this step takes time depending on the length of the target video if you go to the Google collab
+page you will find that the program works when finished this message will appear go to face Fusion interface
+again wait for the final video preview to appear you can play the final video before downloading to check the
+result then click this Arrow to download the video and this is the result if you see any error messages for
+any reason close the face Fusion interface page then go to the Google collab page and stop step three then run
+step three again then open the long link and start using the program again if you are done you must disconnect
+from Google collab close the program interface page from the Google collab page in the top menu choose runtime
+disconnect and delete runtime and click yes

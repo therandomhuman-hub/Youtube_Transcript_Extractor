@@ -1,0 +1,39 @@
+Title: How To Make Talking Head Avatar FREE
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: mEsKqQTNzQQ
+URL: https://www.youtube.com/watch?v=mEsKqQTNzQQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:46:28+00:00
+
+Kind: captions Language: en in this video you will learn how to turn a photo of a face into a video by copying
+the movement and expressions of another face in another video using your phone and completely free the first
+thing is to create a folder for a project on the phone in this folder we will put the face image in the face
+video that we will use the photo must be of the face only and be in a square shape in this tutorial I will use
+this image of the statue the video must have only the face and not the full body and be square in shape too if
+the video you want to use is not Square you can use the cap cut app to edit the video you will find all the
+links used in the video description we'll take for example the video we have here it is not square and does
+not focus on the face open the cap cut app and create a new project then choose the video that we will edit
+and click add at the end of the timeline you will find the part that the application adds automatically tap on
+it to select it then tap delete from the bottom menu choose ratio then choose one to one ratio then tap this
+check mark tap the video in the timeline to select it then use your two fingers to set the video area on the
+face then tap here to extract the new video after exporting is done tap done you will find the project here we
+will get back to it later now we have our face image in face video ready open your web browser and make sure
+that you are logged into your Gmail after that open the Google collab Link in the video description run step
+1. then tap run anyway [Music] within seconds the first step will be completed when a step is finished a small
+check mark will appear we are now ready for the next step run step 2. a choose files button will appear tap it
+and choose our score video the video will start uploading [Music] after uploading a small check mark will
+appear in a preview of the uploaded video will show up then run step 3. a choose files button will appear tap
+it and choose the face image after the upload is complete a preview of the uploaded image will appear after
+that run step 4. then run step 5. then run step 6. in this step the final video will be created this step
+takes time depending on the length of the video uploaded in step 2. after the step is completed a preview of
+the final video will appear you can play it and check the result the final video has no sound but we will fix
+this later after that run step 7 to download the video to your device after a few seconds the window to save
+the new video will appear after the download is finished if you want to use another image run step 3 to choose
+a new face photo then rerun the following steps [Music] thank you [Music] after completion you must disconnect
+Google collab runtime tap here [Music] tap runtime tap disconnect and delete runtime tap yes now we will add
+the audio to the final video in the cadcut app we will open the project that we made initially from the bottom
+menu choose overlay choose add overlay then select the final video tap add then adjust the position of the
+video after that tap this Arrow to extract the video [Music] you will then find the final video with sound in
+the media gallery on your phone

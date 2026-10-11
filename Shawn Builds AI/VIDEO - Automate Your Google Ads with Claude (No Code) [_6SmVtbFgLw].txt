@@ -1,0 +1,155 @@
+Title: Automate Your Google Ads with Claude (No Code)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: _6SmVtbFgLw
+URL: https://www.youtube.com/watch?v=_6SmVtbFgLw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:02:23+00:00
+
+Kind: captions Language: en Here's a scenario that's probably happening in your business right now and you
+don't even know it. Someone finds your company through a Google search and they like [music] the ad, they buy
+your product and they become a customer. Awesome. But then 6 months later they see your ad pop up again, the
+same acquisition ad being shown to someone who's already a customer. And this isn't just a theory, studies
+show that about 37% of ad spend is wasted due to imprecise targeting. So, if you're spending $5,000 a month on
+Google Ads, that's potentially [music] $1,500 that's just being handed back to Google to advertise people that
+already like you. And the reason this happens isn't because you're careless, it's because the gap between your
+CRM and your Google Ads is still a manual process. You'd have to export a list, make sure it's formatted
+correctly, go back into Google Ads and then upload it again every single time you close a new deal. And the
+thing is nobody does that consistently, so the leak just keeps running. This doesn't have to keep [music]
+happening today with AI in your back pocket. In this video, I'm going to show you how you can use Claude with
+a single connector to close that leak for you automatically. My name is Sean and for the past 5 years I've
+been an AI and automation engineer at multiple Fortune 500 and industry-leading companies. Let me show you
+exactly how this works. We're going to run through a scenario here. So, let's say that you are running this
+Google Ad here to sell your paperclips and you run it and it goes to this guy and he sees it, he's all these
+are the best paperclips I've ever seen, I want to get them. And he's going to come over here and
+congratulations, you just closed your deal. Now this guy is nice and happy. Let's say 6 months later now, the
+ad goes over here and this guy sees it again. He still has his whole bundle of paperclips and he's I already
+have these, I don't need them. I'm sad now, why am I getting this ad? So, what could be happening is that all
+that right there is money, right? You're spending money to run that ad to show it to someone who has already
+seen it. When instead you could be showing it to one of these guys over here who haven't seen it, who could
+also become over here and become happy Where is he? Happy buying customers. All right, so I just want to show
+you what the cost of not doing an automation like this would be. And the way we can see this is if you're
+running a Google ad every month, let's say you're spending $2,000 a month on Google ads. And if 20% of those
+are being shown to the people that I have already bought from you, that is potentially $4,800 per year of just
+ads being wasted, right? It's being sent to people who have already bought from you, not targeting the people
+who have not bought from you. And that's just the cost of the ads. That's not even including the potential
+cost of new customers buying and purchasing your product. So, what could we do to handle this problem now?
+Anthropic created something called Model Context Protocol, which is used by AI to connect to different things.
+And if you scroll down to this diagram here, you can see how it works, where you have all of these different
+AI assistants, including Claude over here, to connect to an MCP, which is just a protocol, and through there
+it connects to all these different sources. Google Drive, Git, Slack, tons of different things here that
+they'll be able to connect to. And basically in Claude, what this looks like is Connectors in Directory. And
+you can see just how many there are. It seems like unlimited at this point. Almost anything you can think of
+is on here. But if you look up Google Ads, for example, you can see that's not on here, right? They don't have
+Google Ads. Even if I just search ads, you're still not going to find it. There's not a built-in connector
+through Claude. But what you will notice is that if you scroll down a bit, there is one here called Zapier.
+And Zapier is pretty awesome. It's actually another platform here that connects to over 9,000 different apps.
+And this was made before AI was even a thing really, this Zapier tool. And it just allows easier connection to
+multiple different apps. But now with AI, it basically acts as an MCP. So you can see again all these other
+tools here >> [snorts] >> including Claude that's connected to the MCP and that connects to everything else.
+So in this video, there's three chapters that I want to show you in order to implement an AI solution that
+connects to Google Ads. And the first one is using the Zapier Google Ads MCP. So like I mentioned, Zapier
+connects to over 9,000 tools and it's not built into Claude for Google Ads, right? But Zapier is built into
+Claude. So what we can do is connect Claude to Zapier and then Zapier to Google Ads. And in Zapier, the Google
+Ads MCP looks like this. It has a bunch of different tools that you can use. So you can see them here. A lot
+of them is for audience management. You can add contacts to customer lists, create reports, setting campaign
+statuses, finding campaigns, etc. There's a ton of different tools you could do here that will help you manage
+your Google Ads all through AI. So this is what we're going to use in order to do these automations. All
+right, so I log into Zapier here at mcp.zapier.com and from here you can create a new MCP server. What we're
+going to do is we're going to choose Claude as our AI agent or assistant that we're going to use to connect to
+Zapier. Now that we understand what the Zapier Google Ads MCP is all about, let's go to chapter two, which is
+going to be connecting Claude to Zapier. So the easiest way that I found to set this up is to go into Claude
+here, look at the connectors, browse them all, and search up Zapier. And then you can click connect. And this
+will log you into the mcp.zapier.com. It'll tell you to copy this prompt here. Press continue. Yep, make sure
+that it's your right account. We do allow here. And then I'll have you open Claude back up to finish the
+connection here. Perfect. All right, now that that's set up, we can go ahead and paste in that prompt that it
+told us and press enter. It'll ask us to use the tool for Zapier, which we will always allow. And then it's
+going to try to check in Zapier what we actually have access to. So it says that there's nothing enabled. We
+will allow it to provision in MCP. And we're going to pause right here cuz it actually found an old connection
+that I had for Google Ads. But I'll show you exactly how you can do this. So, if you go into Zapier, you
+should see your Claude MCP server set up now. And let's refresh it here. Okay, it reset up Google Ads for me.
+But what you would do is do add tool here. And you search for Google Ads. And you can see how there's a ton of
+different options here. But Google Ads is here. And we're just going to do all of the tools here. So, we'll
+click connect. And you would add your account here. I'm going to use this one I already had. I'm going to do
+add 11 tools. Perfect. So, we're going to go back to Claude here. And what we're going to do is we're going to
+say, "List all of the actions that I have available to me through the Zapier MCP for Google Ads." Let's go
+ahead and run that and see what it does. But it actually found multiple different actions here through the
+Zapier search here. It's going to list enabled actions. And yeah, all of these correspond to the tools that we
+enabled on Zapier. So, in order to connect now to Google Ads, we need to go into Google Ads platform, and
+you'll have to go into tools and click on the data manager. And the reason for this is to authorize Zapier as
+a connected product to manage your Google Ads. So, I already have it here, but what you would do is just click
+connect product, and then you would search for Zapier. And just click on this one right here. Once you go
+through that process, you should see it here as connected. Then we want to set up our exclusion list. So,
+we'll go into audience manager here, and you can see there's one that I was testing with before, but what
+we'll do is do create new list here. We'll say a customer list. We're going to skip this and set up later.
+Check this off, continue, and we're going to call this campaign one exclusions. And we'll change this to one
+like that, and we'll save and continue. Awesome. So, we should have just created a new customer list. Give
+that Okay, yeah, perfect, right here. So, we got the new list here, and this is what we're going to use to
+exclude from campaign one. So, now let's actually add this as an exclusion list for campaign one. So, we'll go
+to our campaigns, and we'll select our campaign number one here. We'll go to the settings here, and if we
+scroll down, we should see this your data exclusion. So, we'll do enable data exclusions, and we will select
+campaign one exclusions. Perfect. So, we'll save that. Now, adding someone to that list to be excluded from
+the campaign is super easy. I actually created a skill to do this for you automatically. The link to that is
+in the description below. It's completely free to download, and once you have that installed here, all you got
+to do is do {slash} gads at the list, and click enter, and it should ask us a few questions. Now, it's asking
+us for the email address and the Google Ads customer list. So, we're going to paste in the email address and
+the list name, and it should go ahead and complete the task. Cool, so it's found the exact list, and it's
+found its ID. So, what it's going to do now is add the email. Claude has finished. It says to added that email
+to the campaign one. And it does say there is usually a delay here, 24 to 48 hours for it to show up. And I
+have found that to be the case in Google Ads. If we go to that list, we'll see that it still says zero uploads
+here. But if we go back to the other list I have, I actually tested this out beforehand, and you can see here
+that it does say one upload through the data manager API. So, it does work, it just takes a little bit of time
+to actually reflect in the dashboard. And that brings us to the last chapter here, chapter three. And that is
+automating the process for your business. And this is necessary because as great as it is to have AI add a
+customer to the exclusion list after they purchase, again, this is still a manual process through Claude. We
+have to run the skill and input some information. We want this to be totally automatic for us. And if you're
+like most people, you're probably saving all your customers in some kind of CRM like this. So, this is
+Airtable, but you might be using something like HubSpot or GoHighLevel or monday.com or any other CRM that's
+out there. But typically when you have your customers like this, there's a status column. And when they're
+completed, you change them over to closed one. And this is the point where we want to take that action and
+trigger an automation through Claude that will just run our skill, and it will add them to the exclusion list.
+So, to handle this, what we're going to do is go back into Claude, and we're going to go over to the code
+section here and use something called routines. And routines are great cuz it does exactly what I just
+mentioned. It will run an automation with AI using Claude, and it will do it automatically for us without
+having to type anything because you can put it on a schedule, or you can put it on a trigger, which in this
+case we want it to be the change in status on the CRM. So, in order to do this, let's create a new routine and
+we're going to choose remote because we don't want to keep our laptop open for this every time we want it to
+run. We want it to be remote. And we'll name this customer exclusions. For the instructions, we're going to
+copy the exact instructions that I had for the skill. Again, the link is in description. You can download
+completely for free. And we'll paste that exactly in the instructions here. And for the trigger, we're going
+to choose API. And the connectors, this is important cuz this is going to tell it what it will be able to
+connect to. And we just want to use Zapier. So, we're going to get rid of everything else that's not Zapier.
+Once that's done, we click create here and it'll give you this API token, which is super important. You don't
+want to share this with anyone. This is going to be This is what is going to allow you to connect the Claude
+routine from whatever trigger you choose. In Airtable, typically how I would handle this is I would create an
+automation here that would trigger when a record is updated and the status is closed one. It would then
+trigger off a webhook or an API request or a code node that is in here. But those are actually reserved for a
+paid plan. I'm just using a free plan. So, instead, I created a Zapier automation that connects to your
+Airtable and again filters if the status is closed one and then it will trigger Claude. Now, it would be easy
+just to hook up straight to Google Ads in here, but I'm trying to emulate if you were to go through another
+platform wherever your CRM is and you're triggering automation from there. Now, what you would do is follow
+this documentation. It's pretty straightforward. But all this information is from Claude. And if you go in
+here, you'll see that this is how you copy the API trigger and then it gave you that API code that I told you
+about earlier when you created this. And that's where this is going to come in handy right there. So, now what
+happens with this automation is that let's say I update Where is it? If I update a lead here and we're going
+to put Noah Williams. We're going to turn to No, it's a status. We got to scroll over here. All right. Noah
+Williams we're going to say we closed one. Awesome. So what that should do is trigger off a Zapier automation
+flow. Again, that would be built into your whatever your CRM is ideally, which would connect to your Claude
+routine. So we can see that the Zap triggered off and if we head into Claude, we should be able to refresh
+this. And we'll see that is actually running our routine now. And it has the email noah.williams. So it's
+going through the process saying it has both the information for the list that it's trying to add it to and
+the email. So it's connecting to Zapier actually for both of these through the Google Ads SMTP and it's adding
+them to the campaign. The routine just completed and successfully added the email to the campaign. So that's
+the full build. A quick 15-minute process and Claude is now connected to your Google account and monitoring
+your Google Ads so that anytime [music] a new customer comes into your system, you're not wasting thousands of
+dollars on retargeting them. But here's the thing I actually want you to take away from this. It's not the
+actual demo, but [music] it's the principle that's involved. This is just a single process in your business
+where you're already saving thousands of dollars and potentially hundreds of hours of monitoring. Now think
+about all the other scenarios in your business where you could be adding in Claude or AI to do the work for
+you. Businesses that are finding these gaps [music] and filling them this year using AI are the ones that are
+going to get ahead in the new era. Now I encourage you to go ahead and try to build this for yourself, but if
+you want someone who's actually done it and not just talked about it, then I have a link in my description.
+You can book a completely free AI strategy call and we'll look at your exact business, your exact workflows,
+and your exact tools to determine where you can be finding these opportunities for yourself. And if you're not
+there yet and you want to just keep learning, then go ahead and check out this next video.

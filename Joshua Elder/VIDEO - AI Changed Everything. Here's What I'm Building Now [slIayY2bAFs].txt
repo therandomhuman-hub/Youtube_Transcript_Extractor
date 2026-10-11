@@ -1,0 +1,183 @@
+Title: AI Changed Everything. Here's What I'm Building Now.
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: slIayY2bAFs
+URL: https://www.youtube.com/watch?v=slIayY2bAFs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:46:29+00:00
+
+Kind: captions Language: en All righty, so over the last few months, I've been building some really cool
+utilities using and leveraging AI, which I believe that's exactly where society is going. That's where the
+money is at, especially right now. And the reason why I'm so convinced on this, and obviously AI is not just a
+trend, is because I've been in the make money online online opportunity niche for the last 12 years. And I
+realized over the last 6 months to a year that it's really halted. It's not only become more competitive, but
+reach is much more difficult on social media. It's so much more difficult to actually gain traction and scale
+a business in the make money online niche. And I found that most of my social media accounts were either
+getting just completely shut down or constantly getting flagged. And so I knew I needed to shift gears, and I
+needed to diversify. And I realized that my business isn't social media. It's not Instagram, it's not
+Facebook, it's not YouTube. At any point in time, those platforms can be taken away in the blink of an eye.
+And it took me 12 years to realize this. I wish I was building assets that could be sold for millions of
+dollars 12 years ago. But I'm fortunate enough to still learn this lesson in a point in time where we can now
+build these assets in a matter of hours, days, and weeks. And do it with no more than just you and AI. So I
+built a few utility based apps over the course of the last few months. And I want to show those to you and
+some proof that this actually works. And then I'm going to walk you through exactly how you can get started
+for yourself regardless of your current experience when it comes to coding, when it comes to starting and
+scaling an actual business. So, let's go ahead and go to my computer screen here. And many of these I'm still
+in the process of building. So, the first one is the Utah Wedding Finder, which we are pretty much getting
+really close to actually finishing this up and launching it. But essentially, what you're going to notice with
+all these different pieces of utility that we have here is it's not another course. It's not another training
+series. It's actual real app- applicable utility that people can get results with instantly. So, people that
+want to be able to find their perfect Utah wedding venue. Of course, I'm from Utah, and so I figured what sort
+of problems can I solve locally? And weddings are really hot in Utah year-round. So, what better than to build
+an app uh that helps people find venues faster in their specific budget, whether it's indoor, outdoor, guest
+count, and location. So, this was all built using prompts from Chat GPT and a web building app that I'm going
+to show you here at the end of this video. But this whole finder idea came initially from friend of mine and
+myself. We were just sitting out back in his backyard, having a few drinks after round of golf, and we kind of
+had talked about this on and off over the course of the last few years. We're like, how cool would it be to be
+able to find an app or build an app out there where people can get access to Utah tee times all in one place
+because locally that did not exist until I built this. You had to go to separate golf course websites and
+separate booking pages to find a tee time in a specific area at a specific time on a specific date. And this
+solves all of that for you. So it aggregates all of the different golf courses and tee times all in one place.
+So again, you're not having to go to one golf course and check a tee time and then go to another golf course
+website and check a tee time, so on and so forth. So I can say something like can you find me a two-some
+tomorrow morning? And what it's going to do is it's going to go out there and find a two-some in a 25-mi
+radius on Wednesday, July 29th in the morning 11:00 to 8:00 a.m. for two players. Check it out. So you can see
+all the courses with the specific tee times. You can go ahead and book whatever tee time that we'd like. So it
+aggregates all of the different tee times all in one place. And the way that we monetize is people can
+actually search use the search feature, the feature that we just used. I believe it's like five or eight times
+for free. And then after that, if they want to go ahead and continue to use it, they just pay six a month. So
+at this point in time, we've got 32 paid users and 175 total users and we launched this like a month and a
+half ago and we've done very minimal marketing. You can see we've just simply launched on TikTok. That's it.
+And I created a few videos here. You can see. And I just send people to the app here and they can go ahead and
+use it and then register and um they're off to the races using it, booking their tee times much, much faster.
+Another cool thing is the fact that because this is a web-based application, they can also download it to
+their their phone on their home screen >> [sighs and gasps] >> is it ranks in Google. So, if people type in,
+for example Utah golf tee times it's going to rank in Google. Ranks number two right here. People also type in
+Utah tee times. So, what I'm doing here is I'm building I'm sorry, Utah tee time finder. So, the idea here,
+you can see it's ranked number one right here is we are building applications utility that could be sold for
+millions of dollars. So, I could duplicate this for Arizona, which I've actually done right here. So, I'm
+working on building this out and launching it to the public. And then eventually it could be sort of a a
+nationwide thing where when you got thousands of people paying six bucks a month, you can go on to sell these
+for or sell this as a whole entire sort of conglomerate of different uh tee time finders for tens of millions
+of dollars, which is the goal. So, instead of being like a social media influencer, which I did for over a
+decade, 12 years now, that's not sellable because you are the brand and the brand and how much you make is
+reliant 100% on you. Whereas, when you start building utility out there you start ranking for that utility in
+Google, you start doing social media posts, you start getting members, that's something that can be can be
+sold versus just a standalone brand. Now, it's not to say that, you know, self-made brands and brands that
+represent you showing your face can't be sold, but it's much easier to do that when you have something of real
+utility where you're not just promoting or selling another course. That's exactly where the money is going.
+People want utility. They could just type into Google or Chat GPT, you know, a question and get their answer
+like that. What people really want, just like this school group you're going through, is they want real
+utility. They want me actually showing you exactly what I'm doing to build all of this stuff. So, a lot of
+other cool things I'm working on, too, local lead gen sites. So, this is Salt Lake Epoxy Floors. So, uh let's
+say somebody's looking to get their garage floor done, they'll go into Google and type in Salt Lake Epoxy
+Floor Specialist, for example, and that's where we rank an article here on this website here, and then people
+can get quotes, and then we sell those leads on to actual contractors in the flooring space, in the epoxy
+flooring industry. We've got one also for tile right here. We've also got affiliate niche sites. You can see
+this one's called Ben Elect, which helps people find the best online business for them. And then throughout
+the site, there's articles that then link to different affiliate offers, and there's a full funnel that people
+go through when they complete this quiz right here. They get various emails depending on their answer, and
+they get connected with a business opportunity that's legit. And then when they buy the different pieces of
+utility like a funnel builder, email service, auto responder, uh web builder, etc. They go through my
+affiliate link and I get paid a commission off of that. So, we've got affiliate sites, we've got local SEO
+sites, we've got utility-based uh websites and applications like the Utah Tea Time Finder and the wedding
+venue finder, so on and so forth. So, what we're going to do in this video is I'm going to walk you through
+exactly what to do to figure out what type of utility you should be building right now based off of your
+current experience and your current knowledge. So, what we're going to do is we're going to jump over to Chat
+GPT and we're going to start building a brand new utility app right in front of your eyes, a brand new digital
+asset. And so, the first question we need to answer is these five points right here. So, I'm going to give you
+this prompt. This prompt will be available below this video, so you can follow this exact same process. So,
+the better that you can answer this prompt inside of Chat GPT, the better answers you're going to get from the
+AI, and you're going to build something that's actually going to last, that you're going to enjoy building for
+the next 3 to 5 years. That's the the idea. So, what you want to do is answer these questions in as much
+detail as possible. So, here it goes. The prompt is, "You are a digital product strategist. I want to build a
+digital asset, template, course, tool, or resource that solves a real problem. Help me by asking me five
+questions about my skills, audience, and interests. Two, based on my answers, suggest three specific painful
+problems I could solve. Three, for each problem, provide who has the problem, specific audience, where they
+talk about it online, what bad solutions currently exist, a simple MVP, multiple viable product, I could build
+in under 7 days, and help me validate demand by suggesting three search queries to check Google Trends. Five,
+write a pre-sell landing page outline I could use to test interest. Be specific, no generic advice, push back
+if my ideas are too broad. So, what you want to do first is enter that prompt into ChatGPT. Once you do that,
+it's going to have you answer each point in as much detail as possible. All five questions, just spend the
+next 20 to 30 minutes brainstorming and filling this out. I spent about almost an hour with my brother this
+morning just brainstorming to answer these questions the best that I could. And it would be good actually if
+you had a family member help you out with this because they could point out a lot of things that maybe you're
+good at that you don't even realize yourself. And so, here's how I answered each of these questions. One, the
+question was, "Which audience do you most want to serve?" I answered that with people that have real-world
+problems finding tee times, finding wedding venues, seeing if a product or service is worth buying, people
+that want to make money online with social media. And two, "What transformation do you have real, measurable
+experience delivering?" I answered that with creating marketing assets for products or {slash} services that
+generate leads and sales for myself and other companies. And three was what types of products do you actually
+want to build? And I answered that with AI tools, SaaS, and uh dashboards. Four is what recurring problem
+would you be excited to solve for the next three to five years? I answered that with helping people solve
+problems that don't require me to create a physical product or trade my time for money. Example, my Utah tea
+time finder, wedding venue finder, and anything where I'm the middleman ideally. I'm not a big fan of having
+to spend time, energy, and effort just trading time for money. I like being in the middle, just connecting
+people that have a problem with a solution that already exists or solution that's very easy to deliver without
+me having to be there. And you can see it says, "Your answers actually reveal something much more valuable
+than I want to build AI. You don't enjoy building software for software's sake. You enjoy reducing friction
+between buyers and sellers." Every successful idea you've gotten excited about has the same pattern. And it
+lists all the examples of what I've created up to this point. You're essentially building decision engines,
+not marketplaces. That's an important distinction. I would actually push back on the make money online niche.
+It's crowded, trust is low, customer acquisition is expensive, and support tends to be much higher because
+everyone expects coaching. The help me make a better buying decision niche is dramatically more defensible.
+And then it gives me three different opportunities that I can dive into. First one is AI buying advisor, which
+I thought was really, really cool, because the dashboard, what it does, is if people are doing research on a
+specific product, instead of giving a bunch of unbiased reviews in one resource like Amazon or just YouTube,
+it will aggregate all of the reviews on that product from multiple sources and then give it a grading. And I
+think that's really useful for people nowadays because there are so many influencers just trying to peddle
+whatever they can to make a quick buck. And so this provides a lot of authenticity. So I liked it this idea
+the most. There was a few other ideas or opportunities. AI opportunity finder and then three was the decision
+dashboard. So what I'm going to do is I'm going to actually give you guys this prompt below. I'm going to
+share this whole entire thread. I'm going to be building upon this too as well. And so what I decided to do
+was go with opportunity number one. And the way that we build that out is number one I poked holes in it. I
+was like, would people pay for this? How would I monetize? So you want to think thoroughly about whatever
+opportunities they give you. Just think deeply about them. Poke holes in them. Play devil's advocate. And
+that's sort of what I did right here. So if we scroll down I put opportunity number one is definitely my
+favorite. The question I have is do you think that people would genuinely pay $90 per month for a tool like
+that? And I'm sure what I could also do is integrate affiliate links on the inside that go to the actual
+recommended product. We could probably make money that way too as well if the $19 a month route wasn't the
+best to monetize. So then it gave me its opinion on exactly what would be best. And And what's really good
+with AI when you question it it will find reasons as to why you're right or it will push back and say here's
+the many reasons why you should move forward with this. So don't be afraid to push back. Play devil's
+advocate. Ask as many questions as you can. And so, right here it pushes back and says, "There's a much bigger
+opportunity. I think you're accidentally describing something broader than a buying advisor. What you're
+really wanting to build is an AI research assistant for important decisions. Instead of should I buy HubSpot
+becomes research this decision for me. Which CRM should I use? Which golf launch monitor is actually worth
+buying? Which AI video tool is best? Which contractor should I hire? So on so forth. So it's a decision
+engine." I actually wouldn't monetize it with subscriptions first. Goes on to give reasons as to why. So,
+after just reading through this, I'm like, "You know what? This I'm going to move forward with this." Plus
+there's very minimal startup costs to go ahead and build something like this, you know, using the web-based
+builder that I use, which is lovable. I'll show you that in just a second. You can get started I think for
+like 99 bucks. You can pretty much build this out for about that amount, maybe at most $200 to test it out.
+So, I'm just going to skip down here and get to actually creating this utility. Said, "Okay, great." And you
+create a mock-up image of what the landing page would look like. Which is paste any product or service, get a
+60-second AI buying report and power. Report powered by Reddit, YouTube reviews, pricing data, and real
+customer feedback. We're essentially saying, "Hey, let's go ahead and build this app. Go ahead and give me
+what the website would look like with this text essentially on the website." And it generated this for me,
+which I'm going to go ahead I'm going to save if I haven't already. And now I'm going to type in Can you go
+ahead and give me a prompt for lovable that's easy to copy and paste. And I'll go ahead and include this
+mockup image you gave me to accompany it. All right. So now it's going to give me a lovable prompt. So all I'm
+going to do now is wait until this loads up, which it did right here. We're going to go ahead and copy. We're
+going to jump over to >> [sighs] >> lovable.dev. I'll include a link for this below if you want to use this to
+build your utility apps. Um this is what I've used to build all of the sites and utility that I showed you at
+the beginning of this. So we're just going to click the plus button right here. I'm going to click on attach
+file and we're going to go to downloads. I click on chat GPT image right here. We're going to go ahead and
+paste the prompt and we're going to go ahead and submit. So here's what I want you to do while this is
+building this out. It's going to take a minute here. Your homework is to follow the prompt below. Okay, copy
+and paste that prompt into chat GPT, answer the five questions in as much detail as you can and then start
+building out your utility. Just build out the first prompt that I just did just recently a few minutes ago.
+Build out an image of what the actual UI is going to look like. Okay? All you got to do is just simply follow
+all the prompts I've got below. And follow the nuances of what I covered within this specific video. And
+you'll be off to the races building an app, building a piece of utility, building an affiliate site, building
+a local lead gen system like what I've done. And these are utilities and apps that could be sold for millions
+of dollars. That is my goal over the course of the next few months in the next few years. You're going to see
+all of these grow right before your eyes and you're going to follow me every step of the way. So, in the next
+video, we're going to build off of what we did in this video, which we've got essentially the website built. I
+just entered the prompt for that. And we're just going to start building this out. And I'm going to show you
+how to use Chat GPT and Lovable to build all of this out. And you'll watch it right in front of your eyes. And
+you can model exactly what I'm doing for your app. And I can't wait to see what you build inside of the group.
+There's going to be also another thread below. I would like to know what your idea is if if you're willing to
+share it, what you're building out based off of what you learned in this video. And I can't wait to see you in
+the next one. Follow the steps below. We'll talk to you soon.

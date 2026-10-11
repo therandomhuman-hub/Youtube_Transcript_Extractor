@@ -1,0 +1,190 @@
+Title: Why You Need to Automate Your Invoices (And How I Do It)
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: bDGQFURxLdE
+URL: https://www.youtube.com/watch?v=bDGQFURxLdE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:16:03+00:00
+
+Kind: captions Language: en Welcome guys. Hope you're doing good. I'm going to today show you a autogenerative
+proposal system. Basically, we're going to test invoices. So, autogenerate invoicing for anybody, right? Very
+customized. I'm going to show you how to do this. If we come to my screen right here, if we come to my screen
+right here, you'll see we're going to use Panda Doc right here. And essentially what we're going to do is that
+you see this C CRM right here. Basically, when you switch this to complete, when you switch this to complete,
+it's going to autogenerate an invoice like this. So, this is pretty good for agencies, consultants, or any
+business who just has a bunch of clients that they're working with. Um, hold on, let me fix my camera here.
+Any business who has a lot of clients that they're working with, basically, you know, they can tick one box
+and auto center, auto sender, invoice or any type of document like this. So, let me get into it. I'm going to
+This is what we're going to be using. And let me go to Air Table. You can really use anything. It doesn't have
+to be Air Table, but I mean, for the purpose of this, I'm going to use Air Table. And okay, let's move the
+camera a little bit down. Okay, right here. So, I have some sample data right here. So, Nova Fisher, I have
+some simple data right here. So, imagine, you know, you're tracking all your clients and the due dates and
+everything. You see this? This is what we got right here. Now, how we're going to start this autogenerative
+invoicing proposal. Basically, we're going to use make. I come in here, click air table. We're going to watch
+records because we want we want to watch when apologies. I'mma move this around a little bit. We want to watch
+when this is ticked to complete and that's when the um proposal will be sent or the invoice will be sent. So
+find my autogenerate invoices table one and the trigger field has to be a created time. So that's why air
+table has this created time slot. I mean doesn't really do much. We want to Oh my god. On the status, right?
+When the status is complete, we want this to trigger. And we'll do it a limit of one cuz I mean that's all
+we're going to need. Crap. Let me go back to it. Oh, by the way, mine was already connected, but if yours
+isn't, click add. Come right here. Click Air Table Oath. Name it. Then once you click save, it'll it'll
+basically sign in for you. Um here, let me see. It'll basically do something like this where you can pick the
+spreadsheet that you're going to use and everything like that. So yeah, that's pretty simple. Let's scroll
+down here. Uh we don't have to do this, but I'll do it anyways. Then I have some here. It will look something
+like this. Status equals complete. Is it complete or completed? Complete. Yep. Now, we don't have to do this,
+but we're going to get variables for it. So, you can change it and uh make it however you want. Right? So, if
+I basically open a bunch of these, and most of y'all may have a more complex spreadsheet. So, setting multiple
+variables would be better in your case. And say I wanted to get the Let's go to the proposal first. So, let's
+find a good proposal to use or invoice. We're doing invoices. Let's find a good invoice to use. Client
+proposal. No, I we could use that, but let's find another one uh template. Come here. Invoice. I guess I can
+just use You can basically use this. Let's just use the actual template. This could actually be done on Google
+Docs for people who don't want to uh use Panda Doc as well. Just saying. Okay. Yeah, that works too. So now
+we're on here and we'll pick a template. Does the template does not matter, but we want certain information to
+be filled out. Let me actually This one seems like I've already used it before. I want a brand new fresh
+template. So invoice. Oh, invoice. Uh let's use this right here, actually. Boom. Okay. First name, last name.
+So, basically, I believe this is all the data that we're going to need. So, let's see. Let's let's put some
+sample data. Uh Mason's Barber Shop, for example. Let's do marketing agency because this mostly what these
+would be for an agency. Um, you know, say you put your address here. This would always of course stay the
+same. We wouldn't really need to have values for this. 9999 Edison Boulevard or Edison Road. Just do that.
+Then say you put your phone number here. 999999. Oh, right. Boom. That information looks good. Let's kind of
+keep this condensed. Bill two. Then this is where you need to have information like this. Invoice number,
+payment terms. I mean, if you want an invoice number, we can randomly generate a number to be filled here. So,
+let's come back here. Okay. Now, we're going to set variables for all of this right here. Right? So, how we do
+that? We're going to run this once. Okay. Like I said, status complete. Look, everything I have. Crap. I did
+not save that. I guess I did. Save. We're going to try to run this real quick. Now we're going to try to flick
+one of these up. Come back. Run it again. Boom. You see that? Acme co just like this. So it's working. And
+basically I mean you just make your spreadsheet like this. Um you make this column if you're not using Air
+Table you just make it like one of these columns right where you can choose. Pretty simple. Now that we got
+everything, we're going to connect it. So, as you see, we have the client name, we have uh we're going to need
+the email, we're going to need the service, we're going to need the stat um well, no, you don't need the
+status. We're going to need the amount, the due date. We can use um the invoice number. We'll generate an
+invoice number, the address, then the state, postal code, and the client phone number. We're going to set
+variables for this really quick. Let me do that. Email So the invoice number we're going to let it generate a
+number generate random number one through let's put 20,000 Yeah, we'll just let this generate and that'll be
+the invoice number, address, state, postal code, client, and that'll be it. Let's save that. Now we have all
+of our variables, whatever variables you really want to do. Um, so now we can send it off to Panda. And in
+Panda do, we're going to go back and create everything. But it's going to be the create a document. Create a
+document because we're going to create this from scratch using the proposal that um, we're going to grab from
+here. So let's go back here. We see we're going to name this uh automated template. So, you know, invoice
+automated template just so y'all can know that here you put, you know, the you put your company logo of
+course. So, sender name, we don't have to make a variable for this. And these white these um highlighted
+places are basically where you make variables. So actually let me not put my name. Let's put Mason Mason Mason
+Gray. Right. So Mason Gay sending the invoice. And right here whatever pay we're going leave that same. We can
+do we have this over here. Payment terms. We don't have anything like that. So, of course, if you wanted to
+put this, you just leave this. You go here, or you go here and make a tab, and you know, you do that. Pretty
+simple. So, we're going to put that out. We do have a due date, so we're going to leave that. Yeah, we're
+going to leave this here. We're going to leave We do have a state. do sender state uh client state and we can
+honestly I guess we can do it like that that's fine but I think usually the uh the state is after for sure I
+mean oh my gosh okay I'm kind of struggling Let's do this. Then let's do client address here. Then we're going
+to make this the client state. Okay. I did not want to do that. Uh, I got client state is a thing, right? CL
+state. Let's remove this. Then put Oh, goodness gracious, I'm going crazy. Client client address. I thought
+this had a variable for some reason. Am I wrong? We're going to put a little comma right there, comma, space.
+But this is not showing us a variable. Let's see what we did wrong here. Okay. Yes. I think it's because I did
+the back one first. So, let's space client client address. No. Oh my gosh. There we go. Client address there.
+Boom. Put that there. That looks good. Client phone. Name. We're going to leave this all the same. Actually,
+we could put our signature here. So, [Music] um, I guess you could do the [Music] signature. Do I have I don't
+know if I have it connected. Uh signature required. We're honestly not going to do the signature for now.
+Sender signature. I kind of want to see if I can get it though. Signature there. It's a client sign to the
+sender. Oh crap. X that out. We may just leave that part out. Um I think I have to connect it to one of those
+signature platforms and I don't really want to do that. So I'm going just leave it like this. Well, it look
+more professional. I I'll figure out how to do it. But let's do this. We'll pick this today. I guess um and
+this can actually just be the current day. We could do that instead. That may actually be better. So if I take
+this out and do this current current day, right? Do it like this. Then we'll put the signature back. I'm going
+to figure this out for y'all. I'm definitely going to figure this out for y'all. Where is it? Not there. Is it
+design? No. Um Oh, here. No. Let's see for the I actually don't know where that um that signature part is. Oh,
+here we go. Boom. Oh, wow. Boom. We're going to figure this part out. Give it a sec. The invoice reflects
+hours worked by, you know, you could either put your name or put your company or whatever you want to do. For
+this example, we'll just put by Mason's marketing agency. This invoice reflects the hours worked by Mason's
+marketing agency for client company, which actually we'll leave it like that. under. Okay. Going to take this
+out. We're going to take this out. We're going to leave it right there. Period. Okay. This looks decently
+good. Like I said, you would change this um change it to anything then. Yeah. Looks good to me. Looks good to
+you. or the signature part. Okay, signature part. I feel like I have to connect it to that one platform. I
+can't remember what that's called. If I field ID, that's not it. That's not it. Um, yeah. Where? Okay. Maybe I
+can't figure it out. It's okay. I'll just do this again right here. Boom. We'll just do that right there.
+Doesn't look too pretty. Put a logo right there. I guess I could do that. Put the Say you want to put the logo
+right back here. Oh, no. No. No. It doesn't go in it. Unless I have to take it out of it. Whoa. Okay. I think
+I'm messing up with the template too much. I should have just left it. I don't got to be that um I guess
+persistent in trying to mess this up, but I guess I could just do this. So, that would look pretty good if
+this was your logo current day. We're going to leave it like that. We're going to use this template. Remember
+this. Um all of these, we have all of the variables here, I believe, besides current day. So if we come back
+here, I'm going to make a current day right here. So this is going to be current day. And this right here
+actually is going to come over here. It's going to be invoice. Invoice invoice number. Hopefully you can see
+that. Invoice number. Let me move this to the side. Got to make sure I can see everything there. Okay, looking
+good. Current day. I could do format current day or could just use the AI. No. Okay, maybe not. Can I now? No.
+Okay, it's fine. This just now we'll put format [Music] and forgot how [Music] And I want to say month, date,
+or year. Uh, hold on. Got to unlink that. Let's run this. Okay. No. Okay. Let's make sure this comes to this
+node. Is it going to run? No. Oh, because have to from now on all. We're going to choose all. Boom. Right
+there. Okay, we see that it gives it the variables. I really wish this one. Let me use the AI part, but it's
+not because it's quicker. I forgot what that current day was, but we'll just do now. We'll just do now over
+here. I got to keep that centered right here. Maybe if I zoom out for you. Okay, that did not work. It's fine.
+I'll do that. Work from a little further so y'all can see. Okay, so this what we're going to do right here. We
+got to find our template. So, see if I can see it. Our template is called invoice automated template. Um
+invoice automated template right there. Call it document name is going to be well uh this is not the that's
+not what we need. We need to come back here. Mason's Marketing Agency. That's what we're going to name it.
+Client name. We're going to get that from this node. Client name. Sender email. I'm just going to put mine so
+I can show you that it works. Client address. Add address. Client company. Uh what's the client company here?
+Client name is a client company. Client name. Client first name. We're going to leave that blank because I
+don't think that's here. Yeah, we're going to leave. We'll leave that blank. Going to leave that blank. CL
+phone number. Excuse me. Then just go down. Skip that. Now when you come down here, this is the product
+section. So if I show you this, this is basically this part and paid in USD. Make sure y'all can see it. This
+USB, in case y'all didn't see it, this is everything. You just plug and play. Plug and play. Plug and play.
+Discount. We'll give a 10% discount. What about that? Show you how it works. Pricing section. Add a rows.
+Okay. The quantity is one. We're a service based business. So the price is going to be the price. We have it
+here. Amount price is going to be amount. And the name, which is the name of the service, it's going to be
+here. That looks good to me. I believe invoice due date. Do we have a due date? I don't know if we made a
+Well, let's save that. Do we have a due date here? We do. Come back here. Scroll here. Put the due date. We
+took out the invoice terms and send address. So push number current day. I think we're looking good. I don't
+think we're missing anything. You know, you can CC people if you wanted to. Global tax percentage. We're not
+going to take anything from there. Description. You could add a description, I guess, if you wanted to. I
+think this has to have the same as this. So, 10 10. Okay, that is everything. Now, let's run it. Hoping y'all
+can see that. Now, let's run it and see what we get. So, I'm going to run it on demand one time. Let's come
+here. We're going to choose this one. Sam Victus Sam. Going to run it. Okay, we have error. Invalid email
+address and parameter client email. So we must not be getting something. Client email. Client email right
+here. So what are we getting for this email? Oh. Um. So we're not getting anything here because that's a fake
+email I'm using actually. So, send your email. Say it's from We're going to use one of my other ones. Uh,
+hello. No, no, no. Which one is it? Uh, udo media media.com. Then this one's going to be here. Okay, now we're
+gonna try that again. It may not run because Oh crap. Now this should run right here. Boom. Boom. So if I come
+my email, you should see you should see some automated template over here. here. I believe it's this email.
+Let's come here. Look at my emails. If not, I may have to check what email that sent to uh what's the name of
+it? Invoice. Invoice automated. Let's go back and check. should have sent to this email. Send her [Music]
+email. I'm hoping it didn't leave it in a thread. That would suck the most. So, if I search my emails, may
+have to go from a different email that I don't use. That's not it. Okay. So, we must have an error somewhere.
+Is this [Music] saved? Pretty sure this is being saved. So, let's come back over here. Huh? This is ours.
+March 9th, 2025. So, it did. Oh, no. No, no. This cannot be it, can it? This is not it because ours was blue,
+right? I think ours was blue. Let's Let's run through the scenario again. Honestly, I don't know what happened
+here, but we will run through it again. Let me use the email that I know that works. Yeah, we'll use that
+email right there. So, the sender email come right. Okay. Now let's do another one. Victis RAM. This RAM.
+Copy. Okay. Did I get an email on my phone? I didn't. Oh, refresh. I may have something ticked off that I need
+to check. Let's see. Yeah, let's check the come back here and let's check uh everything. Uh can y'all see
+this? No. Okay. No, I keep doing that. Um, send a document. Yeah. So, it's Oh, it's cuz I'm not sending the
+document. Okay. Message. We'll put uh invoice for um client name subject line or sorry we have completed the
+project that you've given us. sending invoice. Okay, my bad. So, if I run it, nothing should pop up, right?
+Yep. Nothing should pop up because we already did this. So, when I change this to complete, it should pop up
+again. Boom. Wait for that. Wait for that. Boom. Let's make sure that I saved it. I believe I saved it, but
+invoice for client name. Send a document. Yes. Now, let's check here again. Refresh. Um, all emails. Ah, there
+we go. Let's see. I believe I got the email on my phone. Yep, got the email on my phone right here. As you can
+see, took a little bit. should look something like this right here. 305. It's 306 right now. So, you open the
+document. It looks like this on your phone. Hopefully, y'all can see that. And boom. So, here the discount
+minus 223. I have a little typo about how the time comes out, which I just have to do the formatting. So, the
+time will go out good. But basically, this is what it would look like. As you see, some of these little things
+if I um come back over here. Oh, no, no, no. Sorry. So, this is the one from my Gmail. If I come over here to
+the actual template we were working with, which I believe was this. This was not the template. Okay, let's go
+to templates. Definitely this template. So this is our template as you see. So there's a little typos. Fix
+that. Format the current day. Fix uh maybe the period here. No, it's good. But yeah, that's the gist of it. I
+know I had a couple typos that, you know, if I was actually making this for someone again, I would fix. I
+would, you know, put uh this is I wouldn't leave this gap too big. This looks good. I gave a 10% discount. So
+this negative -23 for the discount on quantity marketing. I didn't put any tax on there. Let's go back to the
+Let's go back here. Make sure you can see it as well. Everything looks good. 10% tax, 10% right here, which I
+don't believe I needed to put anything here. Um, so basically that that's how it works. What I would fix is
+this right here. I would make it just say 10%. I'd make this just say 10%. Then, um, I'd probably make this
+say 10%, then have another Well, yeah, I'd make this say 10%. Then I'd have maybe minus 10%, then I'd have the
+how much it took off, then I'd have this. So, there's a couple typos, but you can kind of see how it works.
+Hopefully y'all can uh you know either use this for your own business or start selling it to people because
+this is pretty handy. You know when someone comes here boom click compete click complete then it just
+automatically works. So basically this I was using this on demand but if I get out of it and started um just
+taking these off it would just keep sending to my phone and I'd keep getting an email about it. So, that's how
+you make a That's how you autogenerate invoices. Hopefully, like I said, you can start selling it for people.
+You can start putting in your own business. Hope y'all take it. I'll actually put the I'll export this and put
+it in the video some or I'll put it somewhere where y'all can get it. Hopefully, you know, it's a good thing
+for y'all. But other than that, y'all have a good one. I'll be back with more videos and take care.

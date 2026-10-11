@@ -1,0 +1,375 @@
+Title: How to Use Claude Code to Run Your Entire Business (Full Guide)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: wKJaPO03R2c
+URL: https://www.youtube.com/watch?v=wKJaPO03R2c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:04:11+00:00
+
+Kind: captions Language: en The average business owner is losing an hour [music] and a half per day or up to
+three entire weeks per year due to unproductive tasks. These are tasks that machines could be doing in second,
+[music] and it's not just wasting their time, but they're actively losing to competitors that have figured
+these things out months ago. With AI tools like Claude that are out now, there's no reason you should be
+spending any time on tasks that are not growing your business. But it doesn't stop there because Claude has
+the ability to not just automate away minor tasks, but take on entire sectors of your business that used to be
+[music] reserved for whole teams. Most people are just hyping up new features and not actually able to show
+the real value of AI in the real world. On the other hand, I've been helping companies for the past 5 years to
+implement AI and automations to save hundreds of hours and thousands of dollars. And the crazy part is you
+don't even need to be technical. For example, my business partner John works in sales, and with having no
+prior technical knowledge, he was able to implement Claude code and save his entire team over 20 hours per
+week in automating way these tasks. [music] So in this video, I'm going to show you how you can actually set
+up Claude code in your business to take advantage of this [music] crazy opportunity right now. At the end,
+we'll go over some real example usages, and I'll give you a Claude skill that you can use to both identify and
+implement these opportunities for yourself. If you're new to the channel, my name is Sean, and I can't wait to
+show you what's in store. So like I mentioned, there's so many manual tasks in a business that are just taking
+up so much time, and they're just small repetitive tasks that really aren't bringing value to the business
+that just need to get done. Now it's not just the wasted time that it takes to do these tasks that's damaging
+the business. It's the cost of context switching where now you're going back and forth between all these
+different platforms instead of being able to just focus on one thing. So that's another form of inefficiency.
+Then there's the actual opportunity cost, and it's the time that you're spending on these admin tasks you
+could be doing much more effective tasks, things that are higher value like going and getting customers or
+delivering for them rather than doing administration. And this is where Claude code is positioned so well to
+help out. Because it's gotten to the point where it can not just do these admin inefficient tasks that you're
+spending your time on, but it can connect to so many different things like Figma, Notion, Slack, your
+databases, all these different areas where it can effectively replace entire teams at this point. So it sounds
+a lot better to be able to just run one command and have it kick off a whole workflow than it is to build out
+a whole design on your own or write content on your own, or even taking the time to manage a team that does
+these things. So to understand how we can gather these benefits from Claude code, we need to understand what
+Claude code is and how it works. I think the perfect place to start is by comparing it to other tools that
+you're probably familiar with. So I mapped out over here a chart of autonomy versus ease to set up. Autonomy
+being how it's allowed to do all these different things on its own, and ease to set up be just how easy it is
+to get set up and ready to go and do actual work for you. If you've never heard of n8n or Zapier, they're
+basically workflow orchestration tools that allow you to use different nodes that connect to different
+sources. So maybe your Google Drive or your Notion or your Slack or any number of other connectors. Now this
+is a great tool for performing actions cuz there's so much you could do with it with building out custom
+workflows. But you have to set up all these workflows manually, which means you have to set it up, you have to
+test it, you have to deal with code at certain points. So this is extremely high autonomy cuz it could do all
+these things on its own, but it's much harder to set up than some of these other options. If you were to think
+of traditional code and scripts, that would be even harder to set up, so even further to the left than n8n or
+Zapier. But again, that might even be higher autonomy. ChatGPT on the other hand is super easy to set up. You
+just go onto the website and there's a chatbot for you that's very instinctive to talk to. But the level of
+autonomy is super low. There's not really much you can do with it. You can't connect it to other sources. You
+can't have it go generate reports for you based on actual data. And you can't have it go and send emails for
+you either. So again, that sits in the bottom right corner of super low autonomy, but also really easy to set
+up. Now we get to the fun part, and this is cuz you don't need to choose one versus the other. You can have
+the best of both worlds. And that's with Claude code, of course. Claude code has the benefit of being highly
+technical and working with scripts and code, and it even has connectors so you can go out and reach out to
+real data sources. But at the same time, it's super simple to use. It's just a UI interface. Now there's a few
+different types of UI interfaces that we'll get into in the next portion. And there's also a couple of
+different principles that you really need to know to take the full advantage of Claude, but once you know
+those principles, then it's easy to apply that to so many different situations, and it really does become easy
+to set up. A lot of them is a one-time setup, and now you have it to use forever. So it's really just one
+assistant that you can use to connect to all of your systems fully autonomously. Think of all the different
+sectors in your business that this could be useful for. I listed out a few of them here and what Claude
+actually has the ability to go and do to effectively perform the functions of each of those pillars. So for
+design and creative, you can connect it with a Figma connector, and now it can go onto Figma and create
+designs. It also has full access of your browser, so if you're coding something, it can literally take
+screenshots of your browser and see it just like how you do to make adjustments. If you ever have a question
+about how something in your business works or maybe some notes you took on in a meeting, there's connectors to
+Google Drive and to Notion, so you can go and talk to all those different areas and gather all the information
+you need. Same works the other way around where if you want to store more information, it can go and write new
+notes. Now connecting to data is very powerful with Claude because it can pull from those data sources,
+combine it into some kind of dashboard for you to read, or even just take actions on the result of that data
+straight up. Communication is ripe for automation because there's so much manual process that goes into
+gathering context from different sources, putting it all together, drafting a message, and then determining
+how you want to send that out, maybe through Slack or through Gmail or scheduling a calendar meeting. And then
+one of the last ones I have here is coding and development, obviously what Claude code was initially created
+for. And this is because it has access to your file system. It can fully understand your entire code base with
+a 1 million token context window for Opus. It can understand your coding standards, how you like to test. It
+has terminal access so it can go and run commands. Anything that you can run for yourself, Claude can run for
+you. And it can even connect to GitHub to push your code, see what's in your repos. And there's even ways to
+run actions autonomously through Claude code in GitHub. All right, real quick guys, if you want to be able to
+identify these opportunities in your business that are perfect for AI automation, then I built a Claude skill
+for you that helps you get through that process. It's not just identifying the opportunities, but it'll help
+you to prioritize them to see which one should be tackled first. Then it will create a personalized roadmap
+for you to understand how to tackle these and even give you a step-by-step game plan to get the first one
+checked off. So if you want to check this out completely for free, the link is in the description. Now there's
+a few different ways that you can use Claude code ranging from the web to directly in the terminal. And
+there's pros and cons to using each of them, but for the most part, the further you get towards the terminal
+side, the more powerful that the tool becomes. Now the web is great because if you think about the chart that
+we had earlier, it is the lowest in terms of ease of setup. You just go onto the website and you have a chat
+interface. So there's no setup. You can have conversations in there. You can even connect it to your GitHub if
+you wanted to code straight into your repositories. But not having access to your direct files or your
+terminal so you can run commands definitely makes it take a step back compared to some of the other options.
+This is what it actually looks like, so pretty clean, but again, very limited. You could choose your GitHub
+repositories here. You can even make different environments. And one of the coolest things I think is the
+scheduled section because this is running in the cloud. So you don't need to have your computer open for it to
+run this on a schedule. I'm actually going to cover this in another video in the future. Now the desktop
+version is slightly more powerful, and it's a pretty similar interface, but the difference is that this is
+running directly on your computer. So it also has projects, but this time it can remember context better
+because of a local claw.markdown file that we'll be talking about later. So having access to your files is a
+huge plus, and it has the ability to use connectors now, which means that it can reach out to all the
+different systems that you set up Claude with. But thinking back to the web version and the scheduled tasks
+there, this also has scheduled tasks, but again, your computer needs to be running for that to work. It
+doesn't just work in the cloud on a schedule. Here's what the desktop version looks like. Again, you can see
+all the projects here. There's environments as well. But now you also have a customize section that you can
+add in connectors. So in this instance, it can connect to my GitHub, my Gmail, my Google Calendar, all these
+different ones that I set up, and there's a whole library of different connectors that you can set it up with.
+So that means it can access data from all these sources. And I did mention this earlier, but having skills is
+pretty awesome because we'll get into this later, but it allows you to create entire workflows that Claude
+knows how to perform different actions. And you can set these up to use your connectors or different scripts
+that it can run. So having access to this is a huge plus. Now terminal's going to be the most powerful option.
+That's because it still has your full file system access, but now you can use the CLI tools. So again,
+anything you can do through the terminal, it can also do, which is great because a lot of things don't have
+connectors, but you can still reach out to them through a CLI tool. And you can set up sub agents so you can
+split up the tasks that need to be performed into different agents and even hooks so that if, let's say you
+run a skill and it wants to perform a specific action like read from a file or write to a file, now you can
+specify an action that you want it to do before or after. So that's a lot of different abilities, right? But I
+want to make it as simple as possible for you to understand. And that's why I've broken it down into a
+five-layer system. And each one builds upon the other, and the better that they are at the base, the more
+powerful they become further up. And when you combine all of them together, this is when you can really take
+advantage of Claude Code and automate entire workflows, actions, or even whole sections of your business. So,
+the foundation of all of this is the model that you use. And at the moment, there's three different models
+that you can choose from to perform your different tasks. The first one is Haiku, and think of this for very
+fast operations, because it's the fastest, the smallest, and the cheapest one. So, for things that are very
+repetitive and high volume, this is when you would use Haiku, but not for things that you need to actually put
+a lot of focus and effort into. So, speed matters more than depth here. Sonnet, on the other hand, is kind of
+the default one that I tend to use for most of my operations. It's a really nice balance of intelligence and
+speed, so it's not thinking too long, but it's also not giving poor outputs. It's also important to note that
+the price goes along with these as well. So, Haiku is the cheapest, Sonnet is the middle, and the last one
+here, Opus, is going to be the most expensive. And Opus is really the most capable model that there is. It's
+extremely good at reasoning, and deep thinking, and coming up with very thoughtful answers, and reports, and
+replies. But, it takes a lot of tokens to do this, and a lot of time as well. If you're using Claude Code
+through the web or the desktop app, you can change the model over here. Now, if you're in the terminal, you
+can go ahead and do {slash} model, and that allows you to switch between them. So, again, you can see Sonnet,
+Opus, and Haiku. Now, besides just changing the type of model that you're using, there are some other ways
+that you can get better outputs from the AI, and one of those is extended thinking. So, this is internal
+reasoning that is invisible to the user, but it does usually provide better outputs as the final response. So,
+it takes a bit more tokens, because now it's thinking harder and thinking over the results, but again, the
+output is typically better. If you're on the normal desktop app for regular Claude, then usually you could see
+extended thinking as a toggle over here. But, Claude Code takes this to another level and gets a little bit
+more granular, where you can choose the specific effort level that the model is giving. There's actually a
+{slash} command, which is {slash} effort, that allows you to toggle between the different levels of effort.
+So, what that looks like in the desktop version is an effort below the model section here, so you could choose
+low, medium, or high. In the terminal, you could type {slash} effort, and that allows you to choose between
+low, medium, high, max, and auto. So, you have some more options here. There's also an ultra think mode, if
+you're using that uses the maximum reasoning depth possible. So, this is the most thinking that you can
+actually use in your responses. All you have to do is type in ultra think here, and you should see this
+rainbow text pop up, and then you can just do your normal prompt here, which then it will use the maximum
+thinking. Now, context is providing AI with information so that it knows how to respond properly, and this can
+be done in multiple different ways. Probably the most basic way is to give it a system prompt, which is just a
+block of text that explains to the AI who it is, what it's trying to accomplish, and any information that it
+might need in order to do that. This takes a generic response and turns it into something that's actually
+purpose-built. Think about saying, "Write me a poem about squirrels." versus "You are a world-renowned
+squirrel expert. You know everything there is about squirrels. Go ahead and write me a poem now. Here's some
+background about some of the best squirrel research studies that have ever been performed, and some of the
+poems from the best poets that have ever lived." Obviously, you're going to get two different responses based
+on those two prompts. Now, Claude has a concept called projects, and this is basically self-contained files
+and knowledge for it to respond with. So, it'll know the conversation history, it'll know any information
+about the files you add into it, and it can have some persistent context that it knows every time you go into
+that project. A lot of times, this is an entire codebase, if you're a developer, or if you're doing some kind
+of business task, maybe you're trying to respond about a client, you can throw in all the documents that
+you've worked with the client in the past, maybe all the invoices you've had with them, all the project
+scopes, all the conversations. And now, all that knowledge is there for it to use in a response. So, in the
+desktop app, each of these is considered a new project, and they're all different folders on your laptop. In
+Claude Code, that would just be whatever directory you're in when you go ahead and open up Claude Code. Now,
+when I mentioned it's able to read through all the context within the files, that's using something called
+RAG, which is retrieval augmented generation. Rather than trying to cram everything within those documents
+into a single context window, you might hit the limit pretty quick there. So, what RAG does is it puts it into
+a bunch of It's called a vector, which is just a number, and it finds the relationship between text, so that
+it can pull the exact information it needs from those files without shoving it all into the context window.
+Now, a really important concept here with projects is the claude.md file. At the scope of a project, this is a
+markdown file that gives context for every single interaction with that project. So, if you're working on a
+coding project, maybe you want to make a claude.md file that has all the information about your coding
+standards, the way you like to test, or what kind of architecture you're using in your application. If you're
+a designer, then maybe you have a claude.md file that says all of your brand guidelines, all of your colors
+that you use, the typography that you use, anything about the overall style of your designs. One more example
+is if you're a writer, maybe you add some examples of your writings in there, so that it knows for every
+single conversation what your writing style is like. If we hop back over to Claude, the way that you create
+one initially is by doing {slash} init. And this will analyze the entire folder and create a claude.markdown
+file based on what it's reading from your files in that are already existing in that folder. So, here it's
+creating the Claude markdown file now, and it just finished. So, what I could do is go ahead and let's print
+that out, and we can see, yeah, it just analyzed all the files I have in that folder, and it's creating a
+comprehensive guideline that could be used for understanding how this repo or this folder works. A cool cheat
+code you could use is that if you do pound here, that'll let you make changes to that file. So, I could say,
+"Make sure to explicitly say to always create tests for any code that's in this project." Now, it wants to add
+in a testing section to my claude.markdown file. Now, one of the other really cool things that you can provide
+a user-scope claude.markdown file, and you could see the path that exists over here. It persists across all of
+your projects. So, some things that I would have tell it is a little bit about you, maybe the company you're
+working for, or about your team in general. Another little trick you can use here is {slash} memory, and this
+allows Claude to create a memory.markdown file, so that it can keep track of everything you've talked about in
+the past. So, we can go ahead and copy that here, and let's paste it here, and see what that does. You can see
+if we have auto memory turned off, then there's no folder for that, but if we turn it on, then there's an auto
+memory folder, which If we open that, we can add in our memory.markdown file right here. The last command I'm
+going to show you is the {slash} context command, and this shows you everything that's loaded into the model's
+context or memory, so that you know exactly how many tokens each of them are taking, and how many tokens you
+have left for a conversation. If we go ahead and type {slash} context, we can see here that, if I scroll up a
+little bit, this is my current context usage. So, not that much right now. It's broken down by system, tools,
+agents, memory, skills, and all of this information. The more tools and skills and prompts you give Claude, it
+becomes more bloated. So, you can see this one here is using a lot of memory in the context, and you know, you
+could see a couple of examples here, and the responses become worse as you add more context. And this is
+called context bloat. So, really focus on not filling it up too much, and only with information that it needs
+to do the request that you're asking for. When it comes to using tools, this is what really brings Claude to
+the next level, because without them, it's really just an isolated environment. There's not really a
+difference between that and ChatGPT, besides the model that it's using. But, when you add in tools, now Claude
+can actually do it things. So, maybe it can go and send a Slack message, or can go and read an email. But,
+it's not just actual connectors reaching out and doing things, it's even working within your own file system.
+So, reading a file or writing to a file, all of those are considered tool calls. Now, it doesn't stop there
+with just individual tool calls, because Anthropic developed a protocol called Model Context Protocol, and
+what this does is expose a ton of different tools from a data source to the AI, so that it knows how to use
+it. So, if you think about Notion, there's all the individual tools like creating a page, writing to a page,
+editing a page, deleting a page, you can think of a ton more, but what it does when you use the MCP for it is
+that Notion says, "Here are all the different things you can do to a Notion page." And the AI then knows how
+to use all those, instead of thinking of individual tools. It's basically taking all these different sources
+and making them AI compatible. Now, if you're using Claude Code in the desktop, they actually make it really
+easy to add these MCP servers through the customize section. If you go to here and go to connectors, all of
+these are considered MCP servers. And if you want to add more, you just browse the connectors. You could find
+ones that already exist, and all you have to do is press the plus sign, and it will help you connect to them.
+Then, in your actual conversations, you could do more options and connectors, and you can enable different
+ones, so that the chat knows that it can use tools from all those different MCP servers. Now, it's a little
+bit different when you're in the terminal, and to access your MCPs from here, you just do {slash} MCP, and
+that'll list all the different ones you currently have access to. But, you can build in new ones as well. To
+add them, there's some documentation here on the Claude Code website, where you can do claude mcp add, and you
+can add different transports. So, the Notion one, you could see it's HTTP endpoint, but if you go to maybe
+this version of it, Asana, it's transport SSE. Or if you go to let's see, Airtable, this one is standard in
+standard out. So, there's multiple different transports, but the documentation is pretty good at showing you
+how to add them. It's also cool to note that the computer use is also a built-in MCP. So, you can see that one
+down here. And this allows Claude Code to run things on your actual computer. Now, one of the biggest benefits
+to using Claude Code in the terminal is that it has access to your command line. And this is how real
+engineers in the world use Claude Code. When they write their code, a lot of times they want to run tests. So,
+they can either create a skill or tell Claude, "Run test for me." and it'll be able to run the commands that
+they need to run tests. If we go back to the example of the context command, you can see that MCP tools take
+up a good amount of context. So, another benefit to using the CLIs is that you can use some of this stuff
+through a command line tool and it doesn't take up your context with information about the MCP. Not only that,
+but sometimes the command lines allow you to do things that you're not able to do through MCP. So, for
+example, with this Google Workspace CLI, you can access all your different Google Drives, Gmail, Calendar,
+Sheets, Docs, etc. All within a single CLI tool. And some of these things aren't possible to do just through
+MCP or you need multiple different MCP servers to connect to all of them. So, when you add the CLI, Claude
+Code is able to just run these CLI Google Workspace commands right in your terminal and do so much more with
+less context. So, skills are pretty popular right now and for good reason. They're just a single markdown file
+that helps Claude Code know how to do something. So, a lot of times this is how to complete a certain task or
+do an entire workflow on its own. Before we get into what makes up a skill, we can talk about how skills are
+actually used. And there's two different ways that this occurs. The first one is that Claude Code can
+determine that it wants to use a skill on its own. If we look up here, that would be asking Claude Code, "Use
+the deploy to staging skill." and it will know to trigger that. Or we might just ask Claude, "Can you deploy
+my code to staging?" and it will know to use the skill. The other method is directly invoking it. If you're
+doing a lint check, then you can just type {slash} lint check and it will trigger the skill directly. Now
+again, like I mentioned, skills are just a markdown file typically in a folder that's skill name and then
+{slash} skill.md. And this is what Claude reads to actually get the instructions on how to perform the task
+and it does this before it actually acts. And when we look at the actual makeup of a skill file, it's pretty
+simple. This is one for a YouTube transcript and you see there's really two sections here. There is metadata
+at top, which is between these dashed lines, and then there's everything below. Up here, it's really just
+consisting of a name, which is the name of the skill, and a description of what the skill does so that Claude
+knows how to deploy it. Sometimes there's additional information like allowed tools, which is saying that this
+skill only has the ability to call these specific Everything down here is how the tool actually works. So,
+it's explaining how to use the YouTube transcript tool through extraction, going through every individual step
+and all the sub-steps underneath that. Instead of writing these skills all manually on your own or telling
+Claude to create a skill to do something, I find it much more effective if you engineer these skills
+purposely. One of the ways I do this is I walk through an entire workflow to get an output that I desire. And
+then from there, I tell Claude to convert this into a skill. But now Claude has a much more official way
+through a skill creator. The skill creator is actually just a skill itself. It was created by Anthropic to
+help people create other skills. I've added it here and you can see the code for it, but it contains other
+things that the skill uses such as scripts, has references, a viewer, and even sub-agents. What makes the
+skill creator so effective is that it asks you questions about what you want the skill to be about. Then it
+combines all that together into a skill markdown file that it then tests the task that you want to complete
+with the skill and the task you want to complete without the skill. And it compares the results. The idea is
+that the task should be completed correctly with the skill more than without the skill. If it's not, then you
+can go ahead and continue to refine the skill until it does. Here's an example of an evaluation report from
+the skill creator and you could see it does a task with the skill and without the skill and it shows what the
+difference is. It then breaks down for each task how effective it is, like how many it passes. So, for this
+example, it passes five out of five with the skill, but only four out of five without the skill. And breaks it
+down even further over here. So, if you want the most effective skills possible, then definitely use the skill
+creator. Now, I also want to briefly mention what hooks are because it can be a very powerful tool within
+Claude Code. Hooks are pretty much just code snippets that you want to run after specific scenarios. So, if
+you want to run it before a tool is called by an LLM, you can use a pre-tool hook. If you want to do it after
+a tool call, then you can use a post-tool use hook. Not only that, but you can specify the exact tool. So, if
+it wants to write to a file, then after every time it writes to a file, maybe you want to run a lint check to
+make sure your code is still functioning properly. Or maybe after you run a bash command, you want it to run a
+debug script so that you can make sure again that your code is functioning properly. This is where it starts
+to get fun because we're at the top of the pyramid now and this is where Claude actually has the ability to
+spawn up multiple agents to do its tasks for it. These are agents that are running in parallel and completing
+your tasks all without you having to intervene at all. And there's two ways that Claude is able to do this.
+The first one is with sub-agents. The way that this works is that Claude acts as the orchestrator and it spins
+up multiple different agents to complete tasks for it. So, maybe we have a first one that's a research agent.
+We have another one that is a coding agent, another one that's a testing agent. So, it's handling multiple
+different components of the coding life cycle. Each one completes its very narrow task and they do it in
+parallel so that it takes less time overall. When they're all finished with their results, they're compiled
+and synthesized and given back to the orchestrator, which is your Claude Code terminal session. This is
+actually how the skill creator uses agents. You could see there's an agents folder and there's an analyzer, a
+comparator, and a grader, each of them defining a very narrow role that Claude Code will be initializing for
+those agents. Now, the other option is agent teams and this operates a little bit differently than sub-agents.
+The way that this one works is that again you have Claude as your orchestrator, but this time it takes the
+task that you want to complete and creates a shared task list. From the shared task list, different agents are
+spun up. So, maybe you have a planner, a coder, a reviewer, and a deployer. And each one of them again has a
+very narrow defined role, maybe can access different tools, but what they do is that they take tasks from that
+shared task list that have to do with what they're good at doing. They don't just complete their task and then
+synthesize the results back up to the orchestrator, but they actually communicate with each other. So, if the
+planner sees something that it wants to change, they might just give it straight to the coder and then the
+coder can have it go review and then it can go deploy it and if the deployment fails, maybe it goes back to
+the coder and says, "Okay, we need to make this change to our code for it to deploy successfully." So, this
+can be a lot more powerful, but it's also important to note that it does take more context. If you want to
+enable agent teams for yourself, you can just add in this feature right here into your settings.json like so.
+All right, now that we've gone over all five layers of the pyramid, how can we use them together? And that is
+where plugins come into play because it allows you to bundle all of those different things into one package.
+So, you can add in your skills, you can add in hooks, different MCP servers, and even different configs for
+agents. And once that's done, your Claude Code project now has access to all the skills within your plugin,
+all the agents, and this is what really becomes powerful when you're trying to automate entire portions of
+your business. For example, you might have a plugin. But what good is the plugin if you can't share it with
+other people? Maybe you want to give something like that to your marketing team. And that's really where
+marketplaces come into play. And there actually are some official marketplaces out there. We'll go into using
+them later, but Anthropic actually has an official Claude plugin marketplace and it uses all these different
+skills here from the plugins. The other way is to create your own marketplace. So, this is if you have custom
+skills and plugins, like maybe deploying your code, onboarding your customer, checking your security, all
+these different options that maybe are private to the way that you like to do work and you can add it to a Git
+repository that you can share within your team. And in my opinion, this is what really makes Claude Code so
+powerful. It's when you bundle all of these things together and now you can share it with your team. It
+becomes a powerful tool that is scalable. So, let's take a look at some actual examples. Now, I created a
+Claude Code skill that you can download for yourself. The link is in the description. And what this does is it
+allows you to figure out where you should be implementing Claude Code for yourself. The first step that it
+takes is within interview. So, it'll ask you a couple questions. Now, the first around what is the foundation
+of your business, then it finds all the pain points within your business, what you're currently doing to
+tackle those, and then where you want to get to your goals. Then it will analyze all these different
+opportunities and will rate them to see which one is the most important that you should be implementing first.
+And you would do that with the scores that it creates for each of them. Then it compiles them all together
+into a super easy to read dashboard that's downloaded onto computer and opened up into your browser. So, let's
+go ahead and try this for ourselves. So, once you download the skill, you want to add it to a very specific
+directory. And where this is going to be is your user profile. When you go in there, you should find a {dot}
+Claude folder. Within the {dot} Claude folder, make a new folder called skills and then another one within
+there called CC-Discovery. And finally within there, you'll drag in your skill.dat markdown file. If you've
+done this right, you should be able to do /skills in Claude Code and you can see CC-Discovery as the first one
+that's listed. So, if we want to actually use it, what we would do is do /cc-discovery and that should kick
+off the whole process. All right, so I answered all the questions that it asked me about my current business
+foundation, what are the pain points that I'm dealing with, and the manual work I'm doing, where am I
+currently trying to automate, and what are my goals for the future. And then it went ahead and created an
+actual report for me and opened it up in the browser. So, let's go check out what that looks like. So, here's
+the report that it created for me. It has all the information about my team and some of the tools that we use
+and it identified six different opportunities. It also mapped out those opportunities with scores attached.
+It's actually scoring it based on the impact, the feasibility, and the speed it would take to implement this.
+And for me, it looks like an Upwork proposal automation is the number one priority thing that I should be
+making, followed up by a lead generation outreach machine and content creation. But, it doesn't just stop
+there because it creates an implementation road map for me broken up into three different stages. So, the
+first 1 to 2 weeks should be shipping this as fast as possible with these priority items. Then we can move on
+to these automations that would systematize the delivery and then finally make it fully autonomous in the end
+with these final three automations. It also tells me exactly which MCP servers I should be connecting. So,
+these are the tools that I use for my business and then gives me instructions on how to create that first high
+priority skill so I can start getting the benefits from it as soon as possible. Again, link is in the
+description if you want to download and use this skill for yourself. All right, now let's look at one of the
+default skills that's given by Anthropic and that's the front end design skill. It's just one plugin that you
+can install from their marketplace that creates a production grade user interface that you can use for
+dashboards, for your applications, anything like that. I went on to the Anthropic GitHub and you can see the
+front end design skill listed right here. So, here is how we add it. So, first things first in Claude Code,
+we're going to do /marketplace and you should be able to see all the different marketplaces that you have
+installed. If you don't have this Claude plugin, the official one, then you're going to want to do add
+marketplace and then you paste in this right here and press enter. After you do that, in this discovery
+section, you should see the front end design plugin and if you click on that, you should go ahead and install
+it and then make sure it is enabled here. After that, close out Claude Code and then reopen it. You should be
+able to do /front end design and it will pop up. So again, there's two different ways that we can invoke this.
+We can do /front end design or we can go ahead and have Claude invoke it by itself by just asking to create a
+dashboard. So, I'm going to run this and let's see what it creates. You can see right off the bat that it
+identified to use the front end design skill. So, we just finished up creating the music dashboard that we
+requested and look at this, it looks super awesome. So, this would be for a music streaming platform and you
+can see all the different items for the recently played albums and tracks, your top tracks over here, what's
+popping this week, up next, top artists, and a whole dashboard here. But, I mean, the coolest part is just
+this player over here where it's like a spinning record disc and it has the sound waves going on here. So, oh
+wow, you can even pause it. That's really cool. So, that should give you an idea of the kind of things you can
+do with the front end design skill. Hopefully at this point, you have a good idea of how you can implement
+Claude Code into your business. [music] Now, I've helped dozens of teams to add in automation and AI into
+their workflows to save them both time and make more money. And from experience, I know that sometimes the
+hardest part is [music] just knowing where to get started. Maybe you understand the potential opportunities
+from this technology, but you haven't been able to see any of the benefits yet. So, that's where I'd love to
+help you out. I offer [music] a completely free AI strategy call where we can go over some of the workflows
+that are in your business, >> [music] >> discover where your friction points are, what pain points you might
+be dealing with, and come up with a real implementation plan for how you can go about tackling these. Now,
+this system has worked for tons of other teams, so I just want to share it with you guys as well. Check out
+the link in the description if you want to book that call.

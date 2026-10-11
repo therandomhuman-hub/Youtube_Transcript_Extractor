@@ -1,0 +1,156 @@
+Title: Create Unlimited Shorts With Consistent Characters (One Click, Completely Free)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: NiZLcmRz11Y
+URL: https://www.youtube.com/watch?v=NiZLcmRz11Y
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:41:06+00:00
+
+Kind: captions Language: en Everyone thinks you need Runway or Pika to bulk create AI videos. Wrong. I just
+found a completely free automation stack that generates more videos in one click than most creators post in a
+month and with zero character inconsistency. Watch this. >> On a sunny morning, Milo, Luna, and Button plan
+something fun together. A bright [music] kite idea fills their minds as they dream big together. They gather.
+3 weeks ago, I was spending 6 hours making this AI short. Today, I generate 10 videos with perfect character
+consistency in under 20 minutes. The difference, four free automation tools and one workflow I'm about to walk
+you through step by step. And in step three, you will see the magic happens. Welcome to AI Prer and let's get
+started. Step one, generate your story and image prompts. All right, this step is for creating your story and
+turning it into perfect image prompts for consistent character scenes. And I'm going to show you how to do
+this in under 3 minutes using chat GPT. First, open chat GPT and click on explore GPTs. Then search for story
+generator and select it. This is a specially designed GPT that creates engaging stories perfect for short form
+content. Now, simply ask it with this exact prompt. You will get all prompts pack in the description. Within
+seconds, this story GPT will write you a complete story with all the drama and emotion you need along with
+perfect character consistency. Now, here's the crucial part. We need to turn these scene descriptions into
+image generation prompts for Google Whisk. So, in the same chat GBT conversation, paste this exact prompt.
+This step is critical because it creates perfectly formatted image prompts that will keep your characters
+looking identical across all scenes. Watch as Chad GBT creates detailed image prompts for each scene of your
+story. Copy all of these image prompts because in step two, you're about to see how we generate consistent
+character images in bulk using a free automation tool. Step two, set up autoisk and generate consistent
+scenes. This is where we create all our story images with perfect character consistency using an automation
+tool that most creators don't know about. Open Google and search for exactly this. Autoisk Automator for Whisk
+AI. This is a free Chrome extension that lets you batch generate images instead of doing them one by one. Once
+you find it in the Chrome web store, click add to Chrome. Now, click on the Autoisk extension icon in your
+browser. First thing, change the language if you need to by clicking the language dropown and selecting what
+works for you. I'll choose English. Next, you'll see two versions available. And for this tutorial, we're
+using the second version. So, click on that. Now, you'll see the main interface where we'll paste our prompts
+in just a second. But here's the secret to keeping perfect character consistency. We need to create our main
+characters first and use them as reference images for all the scenes. So, go back to chat GBT in the same
+conversation and paste this prompt. This prompt will describe main characters in the story like appearance,
+colors, and format each one in text to image prompt. Next, hit enter and chat GBT will give you character
+prompts. Now open Google Whisk in a new tab. Copy the first character prompt from chat GPT and paste it into
+Whisk. Then hit generate. Your first character image appears. And this is going to be your consistency anchor.
+Now click the small left arrow icon in Whisk to save this to your workspace. Then drag that character image
+into the subject box on the left sidebar. Uncheck it for now. We'll enable it in a moment. Now repeat this for
+your second character. Copy the second character prompt from chat GPT. Paste it into Whisk. Generate the
+image. Then click the plus icon in the subject section and drag the second character into the second subject
+box. Now let's set up our style reference to make sure every image has the same visual style. So go back to
+chat GPT and ask it give me a style reference prompt for this story based on the animation style in the
+consistency bible. In a moment you will get your style reference of your story. So, copy that style prompt,
+paste it into Whisk, and generate that style image. Once it's done, scroll down the left sidebar in Whisk, and
+drag the style image into the style box. Now, make sure the style checkbox and both subject checkboxes are now
+enabled. This is critical for consistency. Perfect. Now, we're ready to generate all our scene images with
+perfect character consistency. Go back to autoisk extension and paste all your scene image prompts that chat
+gpt created earlier into the text box. Hit the start button and autoisk will ask if you want to create a new
+whisk project or continue with an open one. Choose run on this project because we want to use the character
+and style references we just set up. Now watch the magic happen and starts generating images one by one
+completely hands-free. And here's the best part. Every single image will have your exact characters with the
+same faces, same outfits, and same style because we locked in those references. Autoisk will work through all
+your prompts and download every image automatically to your computer in a numbered folder. No clicking, no
+saving manually, just pure automation. This might take 10 to 15 minutes depending on how many scenes you have.
+So, grab a coffee while it works. And speaking of what comes next, in step three, we're going to take these
+consistent images and turn them into actual videos using a secret automation trick that nobody's talking
+about. Step three, set up auto meta.ai and generate consistent videos. This step is where we will set up the
+tools that will transform our consistent images into animated videos in bulk with just one click. This is
+where the real automation power comes in. So head over to Meta and open an account on it. Meta is completely
+free. To access it, you'll need to log in using your Facebook or Instagram account. Once you're logged in,
+just keep this tab open because we're going to connect it with our automation tool in just a second. Now, here
+comes the game changer. Open a new tab in Google and search for exactly this auto meta automation for Meta AI.
+Make sure you type the full name because it's a new extension and won't show up easily in a regular web
+search. Once you find it in the Chrome Web Store, click add to Chrome and then pin it to your toolbar so you
+can access it easily. Now, here's where it gets exciting. Click on the Auto Meta Extension icon and you'll see
+a button that says go to Meta AI. Click that button and it will automatically connect the extension to your
+Meta AI account. You'll know it's working when you see both the Meta AI interface and the AutoMeta control
+panel on the same screen. Now, here's the brilliant part of our workflow. Instead of just using text prompts,
+which would give us inconsistent characters, we're going to upload all those consistent images we just created
+with AutoISK. And then AutoMeta will use those images to generate videos, which means every video will
+[snorts] have the exact same characters and style. But before we upload the images, we need one more thing.
+Video prompts that describe the motion and action for each scene. for creating the animation prompts that tell
+Meta AI how to bring our images to life with movement and action. Go back to chat GPT in the same conversation
+where we created our story and image prompts. Now paste this exact prompt. As I said, you will find all
+prompts in the description. These prompts are perfect because they describe motion without changing the
+characters or setting, which means Meta AI will animate our existing images instead of creating new random
+characters. Copy all of these video animation prompts. And now we're ready for the most exciting part, bulk
+video generation with perfect consistency. This is where everything comes together in the most amazing way. So
+go to the folder auto whisk, downloaded all your scene images, and make sure they're numbered in order from
+scene one, scene two, all the way to your final scene. Now go back to your Auto Meta extension where it's
+connected to Meta AI. You'll see two important sections. One says image list and the other says prompt box.
+Here's the workflow. First, click on image list and you'll see an option to upload images. Click that and
+select all your scene images from the folder, making sure they upload in the correct order. Auto will list
+them all in sequence. Now, here's the magic. Go to the prompt box section and paste all those video animation
+prompts that ChatGpt just created for you. Every single one of them. Make sure the prompts are in the same
+order as your images. So, scene one prompt matches scene one image. Scene two prompt matches scene two image
+and so on. Before you hit start, click on the settings icon in the corner because there's one important option
+you need to turn on. You'll see a toggle for auto download. And I highly recommend turning this on because it
+will automatically save each video as it's created so you don't have to download them manually one by one.
+Now, here comes the most exciting part. Click the start button and watch what happens. Auto Meta will take the
+first image, combine it with the first animation prompt, send it to Meta AI to generate a video, download it
+automatically, then move to the second image and second prompt, and repeat this process for every single scene
+you created. You don't have to click anything. You don't have to monitor it. You just let it run. And because
+we're using our consistent character images from Whisk, every video will have the exact same characters with
+the same faces, same outfits, and same style throughout the entire story. No random character changes, no
+inconsistencies, just perfect continuity from start to finish. Depending on how many scenes you have, this
+might take 15 to 20 minutes. So, this is the perfect time to move on to step four, where we're going to create
+the professional voice over that brings the whole story to life. Step four, create professional AI voiceover
+with 11 Labs. And we're going to use 11 Labs because it has the most natural sounding AI voices available for
+free. But before that, we need a short narration script for our story. So, go back to ChatGBT and paste this
+prompt. When you hit enter, chat GBT will ask you to paste your story with the consistency bible and scene one
+to scene 10 or 12 prompts. So come back to your story you just generated with the GPT story generator at the
+very beginning and paste the entire thing here including the consistency bible and all scene descriptions.
+Then hit generate. In a few seconds, chat GPT will generate you a short narration script for every scene. And
+that's your whole narration script story, perfectly timed and formatted. Now, head over to 11labs.io and sign
+up for a free account if you don't have one already. The free plan gives you 10,000 characters per month,
+which is more than enough for several videos. Once you're logged in, you'll see the texttospech interface on
+the left side of the homepage. Paste your entire narration script that you just generated into the text box.
+Here's where 11 Labs really shines. Click on the voice dropown menu and you'll see dozens of ultra realistic
+voices to choose from. I recommend trying voices like Adam for a confident narrator tone or Bella for a warmer
+storytelling feel. You can even click the play button next to each voice to preview how your story will sound.
+Once you find a voice you love, make sure the settings are on default. Then click generate. 11 Labs will
+process your entire story and within seconds you'll have studio quality narration that sounds completely
+human. Click the download button to save your audio file. And now you have professional voice over ready to
+go. At this point, your bulk videos should be finished generating and downloaded. So, let's head to step five
+where we're going to assemble everything into a final polished video using Cap Cut's free editor. Step five,
+assemble your video with Cap Cut. Lastly, it's time of putting everything together. And we're going to do this
+inside Caput's free desktop editor. So, open Cap Cut on your computer and create a new project. Now, import
+all the video clips that Autoa downloaded for you and also import the voice over audio file you just created
+with 11 Labs. Here's how to assemble this quickly. First, drag your voiceover audio onto the timeline at the
+bottom. This is your foundation because everything else will sync to this voice. Then listen to your voice
+over and as you hear each part of the story, drag the corresponding video clip onto the timeline above the
+audio and position it to match. Keep doing this for each scene, matching the visuals to the narration. And
+don't worry, this goes faster than you think because your videos are already numbered in order from auto meta.
+Once all your clips are on the timeline, it's time to add captions. And Cap Cut makes this super easy. Go to
+text at the top, then click auto captions, and Cap Cut will automatically generate subtitles synced to your
+voice over. Choose a caption style that's bold and easy to read. I like the ones with a colorful background or
+outline. Click apply, and boom, professional animated captions appear on your entire video. Now, let's add
+some smooth transitions to make it flow better. Go to transitions in the top menu, and I recommend using
+simple ones like dissolve or fade between each clip. Or if you want something more dynamic, try flip or slide.
+Just drag your chosen transition between each clip on the timeline. Finally, let's add some background music
+to boost engagement. Click audio, then sounds, and search for upbeat or cinematic music, depending on your
+story's mood. Drag it onto the timeline below your voice over. And here's the key. Lower the music volume to
+around 20% so it doesn't overpower your narration. And that's it. Your video is complete. Click export in the
+top right. Choose 1,080p quality and let Cap Cut render your final video. >> On a sunny morning, Milo, Luna,
+and Button plan something fun together. A bright kite idea [music] fills their minds as they dream big
+together. They gather supplies carefully, [music] ready to start building their kite. The kite droops sadly,
+[music] and everyone pauses to think again. Sticky tape causes giggles, [music] turning trouble into silly
+fun. The kite feels too heavy, and they realize help matters. Working together, they fix the [music] kite with
+care and smiles. The kite lifts briefly, wobbling as they try once more. One [music] strong run sends the kite
+soaring high above them. In just a few minutes, you'll have a professional AI generated short with perfect
+character consistency from start to finish that's ready to upload to YouTube, Tik Tok, or Instagram. Perfect.
+That's the complete workflow. And the best part is you can repeat it every single day to create unlimited
+content [music] with perfect character consistency. With this automation system, you can easily post 20 to 30
+shorts per day [music] across all your platforms. Schedule them in advance and watch your channels grow on
+autopilot. This is exactly how all successful channels [music] are doing it. They're not spending hours
+editing. They're using automation to post more content than anyone else. And now the secret is keeping perfect
+character consistency, which we just solved. So here's my challenge for you. Create your first automated video
+today using this exact [music] method. If this tutorial helped you, smash that like button and subscribe to AI
+Prreneur because I'm dropping more automation tutorials [music] like this every single week. Let's build
+something amazing together. Thanks for watching and I'll see you in the next one.

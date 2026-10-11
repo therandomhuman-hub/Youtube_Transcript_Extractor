@@ -1,0 +1,225 @@
+Title: How I Run My Entire Content Marketing Team with Claude (EASY Lead Generation)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: e2vncJO2Hgw
+URL: https://www.youtube.com/watch?v=e2vncJO2Hgw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:01:48+00:00
+
+Kind: captions Language: en Hey everyone, my name is Shawn. I'm an AI enablement engineer at a multi-billion
+dollar media company and I've grown my personal automation agency to thousands of dollars per month and today
+I'm going to show you how to build this agentic OS system using AI for social media content marketing. Now
+this one is specifically for LinkedIn because if you're trying to sell to other businesses and there's no
+better place than going on LinkedIn to reach people who are in business. So before we go into how to build
+this, let's talk about some results and the methodologies that were used to build this. This is built on a
+strategy called copy and alter and you can see after I started using this strategy my personal LinkedIn jumped
+up in impressions and it's been steadily increasing ever since and this kind of results in two different
+outcomes. You have one more inbound clients. It's actually led to thousands of actually tens of thousands of
+dollars of inbound clients for myself and I've booked a multiple sales call from in inbound clients due to
+social media. Now the other outcome of this is sponsorships. I've gotten reached out to by sponsors, which is
+another way to create income for yourself through content marketing. Now what does copy and alter actually
+look like in practice? Before I start using it, these were what my posts were looking like. It was hard to
+tell what was going on. What's actually getting to the point here. This one I just copied a meme here and put
+AI on it. And for this one I actually thought the content of this was pretty good, but again I didn't use the
+copy and alter strategy and hence you can see the results here like only five likes. Multiple of these are
+just you know four likes, eight likes and very low impressions. So what is copy and alter in practice then? So
+here's an actual example. Dan Martell posted this AI post about tools that you can use in 2025 vs. 2026. He
+gave a couple of ones here, couple of ones here, red and green and then a pretty good hook here, right? If
+you're still using the same tools from last year, you're already behind. So, what I did is I copied the format
+of this and the general hook. Right? I said, "If you're still using the same tools from 2025, you're already
+behind." And I gave some new ones. And I gave my personal opinions on tools that were getting old versus new
+ones. And you know, I just changed it up a little bit, again keeping red and green. And this is my best
+performing post so far. It's actually led to inbound leads that I've gone on sales calls with. And you can see
+the likes are way up, the impressions are way up, and that led to a lot of the spike. Now, it's not just
+copying, right? You're injecting your own opinion, and it's important to know that this is the way that
+content strategy and content marketing is running these days. After I posted this, there were tons of other
+AI, you know, pages and profiles that posted very similar types of posts. You can see this one here. Uh this
+is just one. There there were a ton of other ones. It's all just copying the format, altering a little bit,
+putting your own, you know, your own flair to it. So, how are we going to do this with AI in the Agentyc OS?
+There's a few things we want to look at, right? There's the topic, which is, you know, what is it about? This
+one is about AI tools in 2025 versus 2026. There's the hook, which is the top here, right? Which again, I
+copied that as well from Dan Martell. There is the call to action. And you know, for this one you can see I
+just said follow for more, but you know, some people would give links to other things. And then lastly, there
+is the visual, and that's like what we're actually showing in the post here. And that's like the picture
+that's going on with the two columns. So, to do this with AI, we're going to use Claude. Um you probably could
+have guessed. Claude is awesome. I can't recommend Claude enough, and everyone's talking about it these days,
+but for good reason. What we want to do is we want to find other profiles that are similar in the niche as us,
+and we want to be able to find all these things so we can create our own angle on it. Now, the problem is
+Claude does not connect directly to LinkedIn. If we click on this link here, this will bring us to connectors.
+And if I click on browse connectors, you can see there is no LinkedIn connector here. So, what are we going to
+do, right? We need to be able to read posts from other profiles to figure which ones are the best performing
+so we can copy and alter. Now, if we can't use LinkedIn, how are we going to do this? Well, there's this site
+called Appify, and what they do is they create scrapers. This is how you can get information from other sites,
+and it's like a third party called Appify, and each time you run it, it costs a little bit of money. Now,
+Appify has their own scraper for profile posts on LinkedIn. This is through something called an MCP. If you
+haven't heard of this, it's basically a protocol of how AI can talk to other systems. If you think about
+Claude connectors, all of these here, it's all just MCP. That's what it is. MCP servers that AI connect to do
+something. So, in this case, we're going to use this Appify one to scrape profiles through LinkedIn. And you
+know, if we look at the input here, you can give in profile usernames or URLs, and you get back a profile
+posts. So, we're going to analyze those. Now, what we're going to do is not just do it directly through
+Claude, which you can do, but we're going to build an entire operating system around it, give it a really
+great user interface, really analyze it and understand using multiple different types of agents exactly what's
+going on. So, let's go dive into it. So, before we get started, the first thing you're going to want to do is
+find other creators on LinkedIn that are making content similar to what you want to be doing to attract the
+clients that you want to be attracting. So, I think anywhere from the 10 to 15 range is probably good to get
+an idea or a really good idea of what are the outlier posts and what you can make for yourself. Uh I have 16
+here, a little over, but you know, it's fine. And basically, what you would do manually is you would go on to
+this and you'd go on their LinkedIn and we just check out what other posts for let's say their last 10 posts.
+This is 12 hours ago, 18 hours ago, and you can see the number of likes and impressions. And we just want to
+find which ones are outliers. You know, these are all pretty good. 200 comments, 200 comments. If we just go
+along here a little bit, we'll see if there's any outliers that are getting way more. This one actually has a
+ton of likes. Let's go on to here. Maybe it'll give us some more details. Uh yeah, this one has 1,000 likes,
+800. This one has a ton, 2,200. Keep scrolling a little bit. 1,200. 2,000, right? And so, you could see
+obviously there's like some that are performing way better than others. This one's only 800. So, it's pretty
+clear that, you know, this one 2190. And where was it? This one as well, 2,200. These are obviously some
+outlier posts here. So, what you would do is you would do that for everybody and collect those and figure out,
+you know, those are the ones that you want to be copying and altering for yourself. Now, that can take hours,
+right? Not just to research and find what you want to do, but then to make the content yourself and then how
+to alter it yourself and then post it. Ignore these. These are just like times of basically like when they
+actually post cuz then commenting on them to get engagement on your profile is pretty important. I started
+tracking it down, never finished it. But basically, what we want to do is use Claude to automate this. That's
+what we're building the Agentic OS to do. So, I'd say go ahead, mark down this number for you, how many you
+want to do, and we're going to come back and use that a little bit later. The next thing you're going to want
+to do is create an Apify account and go on to that scraper. So, this one, you can see the name of it here, API
+Maestro LinkedIn profile post. This is the one we're going to use. So, make an account, go on to here. The
+great thing is you have $5 of free credits, so it'll be completely free to run for, you know, a while
+actually, because if you look at the pricing, it's $5 per 1,000 results. So, technically, you could get 1,000
+post or Yeah, is it post look up? I think it's post look ups for free, totally for free, which is awesome. So,
+you can If you just want to see what it looks like, you can run it manually here. And you can see I put in a
+the profile URL here, put in the page number, and I said I want to 10, and I ran it a couple times already.
+Here's the output, and it actually pulls out different uh LinkedIn posts. So, this one was from Dan Rosenthal
+here. And this is the URL. There's the text from it. This is the LinkedIn post URL. So, it's talking about
+this GTM motions, and has this visual here, and has stats, which is super important, cuz this is how we're
+going to tell what the outliers actually are. Then it has a link to the media, which is important, so we can
+analyze what's in that image. And it just gives us that for multiple different posts. So, this is exactly the
+data that we're going to use within our Agentyc OS to give us some ideas of what to create. All right, now
+that we have our account, let's get an API key here. And this is how we're actually going to connect to it.
+So, I think you could do it up here. You click API. No, that's not it. You go to settings, uh API and
+integrations. There it is. And you'll see this key right here. Just go ahead and copy that. We're going to use
+it a little bit later, but don't give this to anyone. This is, you know, anyone who has this can connect to
+your account. So, don't give that to anybody. But, just keep it to the side and we'll use it in a second. Now,
+let's hop over to Claude, and you're going to need the desktop app here because this connector uses an
+extension as an MCP as opposed to, you know, just being a regular MCP connector. Um what you're going to do is
+go on to this plus sign, you're going to connectors and manage connectors. Then, you can search here for
+Apify. Boom. Then, you can go ahead and configure it. Well, actually, I think you'll need to install it and
+then you can configure it and enable it. So, when you go into configure, this is where you paste in that API
+token I was talking about before. You just paste it right into here, and you just keep this the same. This is
+there by default. And you can save it. So, that should enable the extension for you. If you go back to chat
+here, you should then see connectors, and we scroll down, Apify. I just make sure that is turned on. So, that
+will allow you to connect to Apify, and we could just confirm this. Um if I type in here, check that you can
+access this Apify actor. And then, I'm going to paste in that actor name from before, the API maestro LinkedIn
+profile posts. And it should be able to, you know, pull it up. It's going to ask. Oop. I don't know why it
+errored out here. Yeah, wants to fetch the act. That sounds about right. So, we're going to allow this. And if
+it's set up properly, yeah, there we go. So, it says it's accessible, and it's going to describe what it does.
+But, that means that you set it up properly, and now we can set it up to use our post scraper. Let's actually
+do a test run. So, I put in, you know, I filled it out on this input form here. You can go to JSON, and let's
+just copy this whole thing. Go back over to Claude, and let's say, run that actor with this input. We'll just
+paste in that that JSON that we copied. So, now it's going to use that as the input, and it's going to just
+get the last, you know, one post from page one of this user. And it's calling the actor. If we switch back
+over, we should actually see it running, right? Uh runs 21. It just ran one result. And my price just went up.
+Should go up a little bit by like a cent or something. And if we go back to Claude, yeah, there we go. It
+found it. It's uh found exactly what the post was, when it was, yeah, the engagement from it with the media.
+So, yeah, this is awesome. This is exactly what we need to see in order to tell what are the outlier posts.
+So, the first thing you're going to do is create a Claude project. You can see on the left here. Go to
+projects. And there's a whole list of projects. We're going to go into here. And basically what a project is a
+self-contained set of knowledge, right? Everything that you add into here can be used in multiple different
+chats as context. So, a lot of times you just add in, you know, files and, you know, different instructions.
+And it's super useful in that way. In our case, we're going to want to run this, you know, multiple times,
+right? We're probably going to want to run it every week. Uh from the same profiles. So, what I did is I
+created a project called LinkedIn research. You go to instructions here. And we have this whole list of
+LinkedIn profiles, the 16 that I had before. And now every time you go into the project we start a prompt,
+it's going to be referencing those. Now, I did the heavy lifting for you. I actually created a skill that's
+going to make this whole Agentic OS system in Claude chat for you, which is super nice. You don't need Claude
+code. It's just straight in the chat for you. And all you got to do is use a single skill. So, you do {slash}
+LinkedIn research. And we're just going to run that. Now, it's going to use a good amount of tokens. It's a
+pretty heavy prompt that it's using. But uh it's going to run the actor for all those profiles, gather the
+information, and build the OS for us. Now, if you want this completely for free, I'm going to put a link to it
+in the description below. You can go ahead and download it, and you just need to upload it into Cloud, and
+you'll be able to use it exactly the same way I am right now. So, we can see the first thing it's doing is
+calling the actors, and it's going to run it for every single profile. See, one by one it's going through,
+gathering the progress. And if we actually hop back into Apify, yeah, we could see them running right now. So,
+it's pulling out the last Basically, the last 10 posts from each of these accounts, and it's going to analyze
+them. All right, so that [clears throat] was still running, and I actually ran it beforehand to test it out,
+which is probably why I ran out of usage. But, anyways, basically, you just click on the on the output here,
+and it creates this whole HTML dashboard directly in the chat for you, which is super nice. But, if you want,
+you could also open it in Google Chrome. Let me pull that over here. And now I have a full dashboard in a web
+browser for yourself. Now, you'll see there's five different agents here, all under the Agentic OS
+Orchestrator, and each one has done a different task. So, first, let's take a look at this researcher. Now,
+this is the one that actually went through, found all the different profiles, and analyzed their outlier
+score. And what this is, the outlier score is, you know, their top post reactions divided by the average of
+the remaining. So, it's basically just saying, compared to their other posts, how well did one individual post
+do? So, it ranked their best posts by outlier score, and then overall amount of reactions that they received.
+So, you can see these two different winners here. Uh this just some like statistics about it. Um and then it
+actually goes through each individual one. It like ranked saying, this is like the top one, the 8X score was
+uh this one, everyone's AI agents, here's here's how to spot the fake ones. And then, you know, top overall
+one, the highest raw reactions was if I got laid off from a company that cited AI. That That was the hook. So,
+it goes through each one, has the hook that was involved, what the CTA was, uh basically an analysis of what
+the immediate attached was, and why it worked. It also links back to the post if you want to check it out.
+This one's actually funny, I took a look at it before. Um here's how to spot the fake ones, and it's just like
+croissants. Crazy what it actually works sometimes. But yeah, so it found that one and put them in order based
+on their outlier scores, and did it for all them. So, that was the researcher. Next, the analyst will actually
+take that and find like what are the best three that you should reference this week. So, it found these three.
+It's saying, you know, that top one that we just took a look at since it has the best outlier score, that
+would be the best one to reference. It is saying what your unique angle could be. Cuz you don't want to copy
+it exactly. Remember, it is copy and alter. So, you have to have your own unique spin on it. So, it's saying,
+go one layer deeper, you know, five signs that AI systems your team just adopted aren't actually saving time.
+Like a contrarian view, how you can improve on it, what your hook would be, what your call to action is, and
+like what a image would be. One thing Cloud is not great at is image generation, so I'll show you how to
+handle this in a bit. Um so, that's one. Two, you could see here's another one, um optimal GitHub repo
+structure for 20-person team. It's saying our angle should be for non-technical people, non-coding. So, how we
+organize our AI system for a lean five-person team where nobody writes code. If we take a look at the
+original, here it is. And that's what the post actually looks like. And then, just one more here. This one
+actually looks like it combined two of them to take like a middle lane for our perspective. So, cool. That's
+what the analyst does. The scheduler is actually taking a look at when it was posted to figure out when was
+the best dates. So, it looks like Tuesday was the best date. I'm saying Tuesday and Wednesday were the best.
+And you could see, yeah, it actually made a little schedule for us here. And this one, I did it beforehand and
+it didn't It looks like it didn't capture the hours. Since then, I fixed the skill for when you run it, it
+should capture the actual time, but it'll tell you what times you should be posting it. The editor now is an
+actual view of what this would look like on LinkedIn. This is really important, actually. This is super
+important because the hook here is what you're going to see before this more. You click more, it shows the
+rest of the post, show less, and it just show the top again. So, you want your hook to be very strong because
+that's all that is shown above the expansion, and the whole goal of this is to get somebody to want to read
+the rest of it. So, it shows it like that, and it's going to tell you all right here what the image prompt is.
+Again, Claude is not great at it, so we're going to handle this separately. And it shows that for the top
+three posts that it wants you to do. So, you can just analyze it through here and see what it would look like.
+Next up is the designer, and that's the last one. And this one is just copying the image prompt, and it's
+saying you can do you know, this one image model, which there is a way to connect to Claude, but it's really
+not great outputs. The next level of this would be doing it in something like Claude code, and that's
+something I may do in a future video if people are interested in. And you can handle a lot more complex things
+like running actions within this this dashboard here, having it generate images, put it back into the
+dashboard, do a lot more complex work, rather than just having this dashboard with all this information here.
+But what I do now is I copy this prompt and I go into another tool and I create the image. So we can actually
+do that real quick. I'll show you what it looks like. Let's take a look at I don't know, maybe this folder
+structure one. Let's copy that prompt and I'm going to go into a tool that I like to use for image generation
+that's called Google Flow. I created a new project here in Google Flow and it's cool you can use different
+Nano Banana models for images and you can do video as well Google Veo. But we're going to do image. We're
+going to say Nano Banana 2. We're going to make four different versions of them and we're going to put it in
+3:4 dimensions. And again, I paste I copied that prompt from the Agentic dashboard and we're going to paste
+that into here. Let's run it and we'll take a look at what it actually generates. So this is going to be our
+variation of the actual reference post based on our unique angle. So this is the reference post again talking
+about their own company OS. And it's showing like a folder structure here for Cloud Code. And yeah, look at
+that. It's actually pretty solid. Um it's talking about their own like our own system like a structure that
+we're using for it. Pretty good output, right? So basically we would use this in our post and in the designer
+here we would find that post. Yeah, I think it's this one here and we would just be able to copy this and
+adjust it. Now it's important to know this isn't going to get you 100% of the way there, right? AI is still
+not perfect. It still takes some human taste and recognition of exactly what will work versus what won't work.
+There's ways to get it better and get it close 90% of the way there, but it's still not 100%. So take that
+with a grain of salt. This will get you to the point where you can now copy this, adjust it a little bit, copy
+the image that's being generated based on the prompt. Again, you may want to make a couple adjustments. And
+then you can go to LinkedIn and you can actually schedule your posts, right? If you want to go here, you can
+start a post. You'll be able to paste this in, paste that here. You'll be able to paste in the image you just
+created. Let's see if we can just copy and paste it in. All right, so I actually just downloaded it and we're
+going to drag that into here. Yeah, there we go. So, you can add into here and then once you know your
+schedule, we'll go to the scheduler. Again, the time should be working for your skill. We're going to say
+let's schedule that for Tuesday at, I don't know, 9:15, right? Next and schedule. Boom. There you go. Now it's
+one of our scheduled posts. So, you can do that in advance and I recommend doing this every week because then
+you could see week to week what are the outliers, which will change over time. So, this will keep you on top
+of it. So, hopefully you found some value out of using this Agentic OS. I think it's pretty neat. I'm
+definitely going to continue using it and continue to grow my LinkedIn profile, collect inbound leads,
+potential sponsorship deals, and just building my personal brand around AI overall. Now, if you are interested
+in implementing something like this or other AI solutions for your business and you don't know where to start
+or let's say you just want somebody who's done it before to be able to help you out, you can click the link in
+my description to book a free AI strategy call. We'll go over how you can implement AI in your business right
+now to start seeing the benefits. Otherwise, you can continue watching the content, some other videos here,
+and learn some more about using AI.

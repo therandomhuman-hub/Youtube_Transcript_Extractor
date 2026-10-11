@@ -1,0 +1,102 @@
+Title: I Tested This New AI Workflow… It Makes Videos Faster!
+Channel: AIpreneur
+Type: VIDEO
+Video ID: NOoFmTsBFYs
+URL: https://www.youtube.com/watch?v=NOoFmTsBFYs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:33:33+00:00
+
+Kind: captions Language: en You're looking at a Hollywood-style action [music] film, rain-soaked streets, a
+car chase through a tunnel, a rooftop explosion, a soldier sprinting through smoke. And I need you to
+understand something. Before we go any further, none of this came from a film studio. There was no director,
+no camera crew, no expensive software, and no editing team. This entire cinematic video was built by an
+automated [music] AI workflow from the story to the final cut. And it took less than an hour. But here's what
+really matters. This system doesn't just make one video. It's a bulk automation, meaning once it's [music]
+running, you can produce unlimited cinematic stories on demand, completely free. >> [music] >> The same
+workflow, different story every single time. Welcome to AI preneur and stay with me because by the end of this
+video, you're going to have this exact automation set up and ready to run on your own computer. We're going
+through six steps today and I promise you, step three is something most creators have never seen before. This
+whole thing clicks the moment. Don't skip ahead and let's start by the first step. Step one, write your
+Hollywood story with ChatGPT. Everything in this automation starts with words. A strong story is the engine
+and ChatGPT is going to write the whole thing for us in about 30 seconds. So, open ChatGPT or any text-based
+AI you like, Claude and Gemini both work fine. And grab the prompt pack from the description right now because
+we're about to use the first prompt. Paste it in ChatGPT and hit send. In seconds, you have a full
+Hollywood-caliber story, protagonist, antagonist, twists, climax, the whole thing. Now, paste the second
+prompt. That describe the images scenes of the story. Those 20 scene descriptions are your production
+blueprints. Keep this tab open. We'll be pasting from it in every step that follows. Now, run this character
+prompt once for your protagonist, once for your antagonist. You now have your story, your scenes, and your
+character blueprints, everything the automation needs to run. In the next step, I'm going to show you how to
+turn those text descriptions into stunning, consistent character visuals using a model most creators haven't
+even heard of yet. It's the secret to keeping your characters looking identical across every single scene and
+it changes everything. Step two, build characters in Google Flow with Nano Banana 2. Open your browser and
+search for Flow by Google. Click the first result, then hit create with Flow and open a new project. Now, this
+is the important part for the image model. Select Nano Banana 2. It's their newest model and the quality
+difference is immediately obvious. This is what produces those photorealistic, film-quality character sheets.
+So, go back to ChatGPT, copy the full model sheet description for your protagonist. Let's call him Kale. Copy
+every word of it. Head back to Google Flow, paste it in, set your resolution to landscape, set outputs to
+three variations so you can pick the best one, and hit generate. What comes back is a full character sheet,
+front view, side profile, action pose, five expressions. And this sheet is everything. It's what keeps Kale
+looking exactly the same across all 20 scenes. Without it, the automation would generate a different-looking
+character every time. Do the same for your antagonist. Download both images and name them clearly Kale
+character sheet and antagonist character sheet because the next step is automation and clean file names
+matter. And speaking of the automation, step three is where this whole workflow becomes something most
+creators have genuinely never seen. I'm going to show you how to generate all 20 of your scenes automatically
+with a single click while you sit back and watch. That's next. Step three, auto-generate all 20 scenes with
+Auto VAE. This is the core of the bulk automation. So, open the Chrome Web Store and search for Auto VAE on
+Google Flow. Find the extension, add it to Chrome, and pin it to your toolbar. Click it, it'll ask you to
+navigate to Google Flow, so go there now. In the extension panel, select image to image. This is the mode that
+feeds your character reference sheets into every scene so every image the AI generates will feature your exact
+characters consistent every time. Upload Kale first, then your antagonist. Now, under max input images per
+prompt, set it to two. That tells the tool both characters should appear in every scene. Now, here's where the
+automation magic happens. Go back to ChatGPT, copy all 20 scene descriptions from scene one straight through
+to scene 20, and paste them into the extension's prompt box. Watch what happens. The tool reads each scene
+description as a separate prompt and queues them all up automatically. 20 scenes, 20 prompts, all lined up,
+ready to fire. Set outputs per prompt to one. One image per scene is all we need. And before you hit run, do
+one thing first. Open Chrome settings and find the option that says ask where to save each file before
+downloading. Toggle it off. If you skip this, Chrome will interrupt every single download with a save dialogue
+and completely break the automation. One small step that saves a massive headache. Now, go back to Google
+Flow, open the control tab in the extension, and hit run. That's it. The automation is running. It's
+generating all your Hollywood action scenes one by one while you do absolutely nothing. This is what bulk
+cinematic story automation looks like. One setup, unlimited scenes, you just watch it work. And the results,
+rain-slicked streets, rooftop confrontations, explosions, car chases, they're stunning. Consistent characters,
+cinematic lighting, exactly the Hollywood energy we wanted. That's the one-click bulk automation all 20 scenes
+generated hands-free. But right now, these are still images. In next step, I'm going to show you how to
+breathe life into them with cinematic camera motion, slow dollies, hyper zooms, orbit shots, and how the
+automation assigns the right camera movement to each scene automatically. Don't stop now. Step four, animate
+every scene with Meta AI automation. Open metaai.com. Now, go back to the Chrome Web Store and search for Auto
+Meta, automation for Meta AI Chrome Web Store. Add it in the Chrome extension. When it's installed, open it.
+And from the panel of the extension, select add images and upload all scenes we just created with the VO
+automation tool. This is the mode that takes a still image and animates it into a video clip with a specific
+camera movement. Here's how we assign cinematic camera motion to every scene automatically. Go back to ChatGPT
+and paste this prompt. You'll get back a number list. Scene one, handheld shake. Scene two, slow dolly in.
+Scene three, slow dolly out. Every scene matched to a camera movement that fits its mood. Copy scenes one
+through 20, go back into the Meta AI automation extension, paste those camera prompts into the prompt box. The
+extension pairs each image with its matching camera prompt automatically. Scene one gets its handheld shake.
+Scene four gets its handheld shake. Every scene gets exactly the right motion. Go to the control tab and click
+start. Again, you're not doing anything. All 10 cinematic action clips generated and downloaded automatically.
+Story, characters, scenes, animation, all automated end to end. And there's one more thing I haven't mentioned
+yet. There's a single setting in the voiceover step that completely changes how the narrator sounds for an
+action story. I'll show you exactly what to type in the next step. Step five, generate a cinematic voiceover
+with Google AI Studio. All right. Now, go back to ChatGPT and copy the full story text from step one, the
+complete story, not the scene descriptions. Open Google AI Studio, find the text-to-speech tool, and select
+single speaker audio. Browse the voice list and pick something with weight and authority, a deep, confident
+narrator voice that fits a Hollywood thriller. Paste your story into the input box. Now, here is the setting
+that changes everything, the style instructions field. In that field, type this instruction. This is what I
+mentioned earlier, the setting that turns a flat text read into a cinematic narrator performance. Click run.
+In a few seconds, your voiceover is ready. Download the audio file. We're on the final step. Step six,
+assemble everything together in CapCut. Now, it's time to edit our story video. So, open CapCut and create a
+new project. Import your voiceover and place it on the audio track. Import all 20 video clips and drag them
+onto the timeline in order scene one through scene 20. Now, trim each clip so the action matches the
+narration. When the narrator describes the car chase, your chase scene is on screen. When he talks about the
+rooftop confrontation, that clip is playing. Keep the pacing tight. Add a chill action soundtrack underneath
+at around -18 decibels so it supports the mood without overpowering the narration. Use clean cut transitions
+between clips for action content. Hard cuts usually hit harder than fancy wipes. And drop bold animated
+captions on the key action lines. Lastly, export your video and that's it. You are done. You just built a
+complete Hollywood-style AI action short, fully automated from story to final cut with six steps and fully
+automated workflow and unlimited cinematic stories on demand and for free. The first time you run the
+workflow, it might take an hour. [music] The second time, half that. And once you're comfortable with it, you
+can batch multiple stories [music] in a single session. If this helped you, hit like button right now. It
+genuinely helps this channel keep putting out free workflows. Subscribe so you don't miss the next automation
+[music] I'm building. It's even more powerful than this one. And drop a comment below. What kind of AI story
+do you want to make first? See you in [music] the next one. Keep building.

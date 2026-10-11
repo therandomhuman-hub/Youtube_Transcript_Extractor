@@ -1,0 +1,141 @@
+Title: How Claude Runs Your Small Business (So You Don't Have To)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: MECDIA_SFpY
+URL: https://www.youtube.com/watch?v=MECDIA_SFpY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:01:14+00:00
+
+Kind: captions Language: en If you've been waiting for AI to be worth it, then this is the moment. As an AI
+engineer, I see the same fundamental problems repeating with all my clients, whether that's a large enterprise
+or a smaller business. And the commonality is that all of the businesses are struggling with operational drag,
+doing tasks that are tedious and need to be done, but don't actually move the needle in the business. So, as
+an example, think about planning payroll, chasing invoices, preparing sales briefs, and even operational tasks
+like preparing client deliverables, or onboarding new clients. Now, in the past, what I've been doing is
+working with Claude because it's so good at creating connectors for all the systems you use. Think about like
+Gmail, QuickBooks, calendar, HubSpot, all of these different systems, connecting them to Claude, and then
+creating bespoke skills that do these workflows for all these niche tasks by connecting to the different
+systems and running the workflows. But now, things are easier than ever, and you can use Claude out of the box
+to do these tasks for you. And that's because Anthropic just dropped 31 skills and 12 different connectors in
+a new plugin that's called Claude for small business. So, in this video, I'm going to explain exactly what
+this plugin is, how to set it up, and how you can actually use it for your business to get those advantages.
+This video is going to be broken into three different chapters to get you fully set up and using this plugin.
+But before we jump into these, let's talk about what Claude for small business really is. So, the core thing
+to understand is that this is a plugin, and a plugin within Claude, an AI, and specifically within Claude,
+basically is just a wrapper around a few different things. So, some examples of them are skills, connectors,
+commands, and agents. And a plugin just bundle these all together so that they can work with each other well,
+and then all you have to do is just plug into it, and now you can use all of the things that it provides. Now,
+the two specific plugin components that this Claude for small business is plugin is leveraging are the skills
+and the connectors. If you haven't heard of skills, this is basically just a file. It is a file that has a
+name that you're going to call the skill and a description of what the skill actually does so that AI knows
+when to call it. And think about skills basically the equivalent of an SOP or a single workflow to complete a
+single task. So, maybe that's how to respond to a specific type of message. Maybe it is connecting to a
+certain system and listing out what's available. Or, you know, in terms of things more technical, it could be
+how to write a specific chunk of code. Now, on the other hand, connectors are using under the hood what's
+called model context protocol, which is a standardized language that AI uses to talk to different outside
+systems. So, before this MCP, each AI had to make very unique calls to each provider outside, like Slack or
+Google Drive. But, after this, now there's a unified protocol that the AI can talk to that understands how all
+of these unique systems work so that AI can just talk to that and not have to worry about all the unique
+calls. How this relates to this situation is that the Claude plugin for small business has all these
+connectors already set up using MCP so that the AI knows how to talk to them out of the box. Now, this page
+right here is super viable for using this. I recommend you go check it out and follow along. It's
+claude.com/solutions/smallbusiness. And basically explains exactly what's involved with this plugin. Just so
+you understand a little bit more about how this looks in practice, here's four different use cases that are on
+this website. So, here this one is actually planning out payroll by looking at QuickBooks and PayPal. And you
+can see those connectors right here. And it created this spreadsheet here that goes over the accounts, the
+balance, with the dates and some notes about it. and that's just cash position and there's two other tabs here
+as well with more information. If you go to this month end close one, you could see it connected to
+QuickBooks, PayPal, Google Drive and it created this entire report going over profit and loss narratives and
+reconciliation. So, this one is for March 2026 and here's a summary profit and loss, some flagged items,
+notes, all the super useful information that you'd have to be going through these systems yourself to dig up.
+Morning briefs is a nice one to get every single Monday morning so the beginning of the week that will go over
+exactly what's been going on in your QuickBooks, in your calendar, in your Slack and just give you that
+information as a Slack message. And lastly, we have this example of growth here which is trying to understand
+based on your previous revenue, what's a promo that you can do to address that. And this is connecting to
+Canva here so it was able to create this really cool design, set up this entire email and give you the copy as
+well. And the steps are pretty simple to set it up. I'll just go through them very quickly here but it's going
+to be connecting your tools to all those different systems, installing the plugin, choosing what task you want
+to actually run and then running the processes and seeing them completed step-by-step. So, we'll go through
+all this together. So, chapter one is going to be installing the plugin. Now, let's go ahead and do that. So,
+first you're going to hop over into Claude and the most important thing off the bat to know is that you need
+to be using Claude co-work over here. That's because you can only use plugins in Claude co-work. You can use
+skills in the normal chat but to be able to install and use these pre-built plugins, it needs to be in
+co-work. So, head over to co-work and then you'll see this plus sign here. Click that and you'll see plugins
+here. Go to manage plugins. And that should bring you to this page here. Now, you'll see a bunch of plugins
+here if you have any existing ones. If not, then click this plus sign and browse plugins. And this is what's
+called a marketplace, and Anthropic has their own marketplaces, and that's just a collection of plugins that
+you can use. So, within here, they have one now that's called small business. Click on that, and this shows
+exactly the entire list of skills, and we'll dive into this a little bit later. And these are all the
+different workflows that you can be running with this plugin, as well as the different connectors that you're
+going to need to set up if you want to use them. So, once you're here, click install. And it really is that
+easy to get set up with it. So, you should be able to do manage over here, and that'll bring us to the
+customize section on this specific plugin. Just make sure this is toggled on so that you can actually use
+everything that's involved with it. That brings us to chapter two, which is actually connecting all your
+systems to Claude. Now that the plugin is set up, we want to actually set up the connectors. So, just above
+that, you'll see connectors. Click on that. And in here, you're going to want to set up all of the different
+ones that are used by that plugin. For the sake of this example, I'm going to set up a few example ones, a few
+simple ones. Probably Gmail, calendar, drive, uh DocuSign maybe, Slack, maybe Stripe or Canva. We'll see. Let
+me go ahead and show you how to set these up. So, in the connectors, once you have an idea of the ones that
+you want to set up, you could see I already have a few of them here, those Google Suite ones that I was
+mentioning. What we have to do is click this plus sign here and browse connectors. And this will bring up the
+entire list of all the different connectors. And then you can just search for the one that you want. I see
+Slack is already here, but if I just type in Slack, there it is. And just click connect. That'll open it up in
+the browser and start the whole authentication process. So, I will allow that. Open back up in Claude. And you
+should see a successful connection to the tool that you used. I'm going to connect to DocuSign as one more
+example here. Let's go to DocuSign. Click on that and do connect. It'll open it up. Put in my password. And
+[snorts] just allow the access. And it'll go back to Claude again and finish that connection. So, once you do
+that for all the different systems that you're using, we're going to now go to chapter three, which is running
+these skills. So, there's two different ways that we can actually run these skills now. The first way is just
+doing {slash} and you'll see all the different skills that you have installed. But, if we do {slash} say
+Monday brief, you can see here it's exactly the one that we just set up with the description here. So, we
+could just go like this and run it or provide some more details. The other cool thing is that you can run
+these skills just by describing a task that you want to do in the chat. And that's because of the description
+that's set up that Claude knows when to call each of the skills. So, for example, let's go ahead and say,
+"Help me set up a weekly Monday morning brief that explains all the messages that I've gotten in Slack, the
+emails I've gotten in Gmail, any new documents in Google Drive, new events in Google Calendar, or even new uh
+documents from DocuSign, or payments in Stripe." Cool. So, that should, if we run that, trigger off the new
+Monday brief skill that we set up through the plugin. So, we can see real-time here that it's loading the
+tools and the skill. It's talking about Slack, Gmail, all the all the different ones that we mentioned. And
+it's just checking right now that the connections are set up. Also cool on the top right here, you can see the
+progress of exactly what's going on. So, it's just on step one right now, which is pulling the Slack messages.
+And over here the context, right? It says the connector that it's using and the skills that it's referencing.
+It just finished and you can see all the information that it was able to pull. So, this one is cash. It's
+talking about from QuickBooks and Stripe what the balances are. I removed all the sensitive information. Sales
+that have been made. I don't have HubSpot connected, but it would show the moves within your sales or your CRM
+pipelines. Any new files that were recently changed. Planning the week ahead. I guess I don't have Google
+Calendar skipped, but you'd be able to see that here. There's any Slack messages, new envelopes that were
+signed in DocuSign. And it's pretty cool. It goes down to the three things that I need to do today. And what
+you could do within Co-work, which is pretty neat, is say, "Turn this into a weekly scheduled task for
+Monday." And that should use the scheduled task feature that is available within Co-work. That's That's just
+finished and if you go up here to the settings and go to scheduled, you can see the Monday brief here now
+running every Monday at 8:00 a.m. All right, let's try out one more. I want to see what this growth one
+actually looks like. So, I'm going to copy this. I have to make a couple changes based on the systems that I
+use and I recommend you're probably going to have to do the same thing cuz you might not be using every single
+system that's being referenced in the examples. So, I just set up Canva and connected it. Same system that or
+the same method that we used before and to connect. I haven't even used Canva before. so we'll see what
+actually happens here, but I'm not using HubSpot, so we're going to remove that segment. And then for revenue
+month from last year, I'm going to say in Stripe, because I'm using Stripe. And I'll say from the last year.
+And let's see what actually happens. I'll explicitly say to use the run campaign skill, so it knows that's the
+right one it should run, but it can also pick it up on its own and determine which skill to use. All right, so
+it just finished, and it actually went through the steps here, which is pretty cool. It went through my
+systems and asked me some clarifying questions wherever was needed. I'll show you like around here. Asked me
+questions. They brought up some example email sequences, and then ended up deciding that this will be an
+email-only campaign without Canva. And it gave me an actual sequence for sending the emails and like a
+schedule. So, give me some copy here. Pretty cool. So, now you can get a whole email campaign based on your
+offer, and based on what month we're struggling. Now you can improve upon that with the new outbound strategy.
+My opinion, it's cool that it's just able to connect to these different systems and actually back up the
+decisions that are made and what it's doing with real data. Also want to show you real quick on the Claude
+website here. There is a full list of all the skills within that plugin in all the different sections. So,
+there's money and finance, sales and marketing, business intelligence, hiring and setup, or customers and
+operations also. So, it shows all the different skills, exactly what they do, and what connectors they go to.
+So, this will give you a little bit more color on exactly how to use it. Now, there's also this other one
+here, which is more of tutorial-based setups, and it shows you for multiple different types of workflows
+exactly the kind of prompt that you can use. So, this one's getting a pulse on your business. You can open it
+directly in Co-work. Or you can copy the prompt and use it, and it'll show you step-by-step how to use it and
+run the skill. And it does that for multiple different ones. This is actually the run campaign one that we
+just did. Uh here's another one for closing the month out. And there's a whole bunch of different use cases
+you can see to the right here. Now, you should be able to go ahead and use this new plugin directly for your
+business and set it up super easy, just a few clicks to start seeing the benefits. If you're interested in
+learning more about how you can use AI to improve business, [music] then go ahead, check out some of my other
+videos linked here, or you can follow my newsletter in the description.

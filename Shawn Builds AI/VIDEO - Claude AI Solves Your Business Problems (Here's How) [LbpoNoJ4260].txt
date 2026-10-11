@@ -1,0 +1,206 @@
+Title: Claude AI Solves Your Business Problems (Here's How)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: LbpoNoJ4260
+URL: https://www.youtube.com/watch?v=LbpoNoJ4260
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:02:58+00:00
+
+Kind: captions Language: en 73% of businesses are spending at least 50k a year on AI, but 80% of these new AI
+projects are failing. On the flip side, the businesses that are successful at adding AI are seeing a
+productivity boost of at least 40%. That's a huge gap. So, what is actually separating the winners from the
+losers in the AI race? Claude is an insanely powerful AI system, but if you don't know how to discover
+problems, implement solution, and drive adoption, then no amount of GPUs can help to improve your business.
+So, in this video, I'm going to show you how you can [music] actually start seeing the benefits of AI using
+Claude. Just like how I helped this event services company automate their project onboarding [music] from a
+40-minute process to under 60 seconds and open capacity for another $10,000 per month. Or how my business
+partner John was able to use Claude to save his entire sales team 20 hours per week. And if you're new to the
+channel, my name is Shawn. For the past 5 years, I've been helping companies save hundreds of hours and
+thousands of dollars through AI and process automation. So, the million-dollar question that everyone wants to
+know is how can small businesses actually win with AI and specifically using Claude? The crazy part is that
+it's really not as hard as you would think. So, in this video, I'm going to show you how you can get from the
+start of this process to becoming fully AI native using Claude. So, one of the biggest problems I see with
+small businesses is that you're spending a ton of time that you don't actually have to work on things that
+don't really scale. And you feel that with your capacity. You feel a lot of pressure. But what if you could
+free up that capacity by implementing AI and automations to take on the tasks that they can handle that you
+don't have to do. These are like very tedious tasks such as follow-ups, reporting, scheduling, data entry,
+things that aren't actually moving the business forward, but that you're wasting a ton of time on. What if an
+extra 15 hours a week could be freed up by automating things like that? So, an extra 15 hours a week, could
+you land one more client with that amount of time? Could you go through the acquisition of a client and
+delivery of a client in the additional time that you're getting? If you can, let's say that the client is
+giving you $2,000 per month and you get one extra client per month, that's an additional $24,000 in revenue
+per year. That's huge, right? But what if the client is a $10,000 client? Now, that's an additional $120,000
+per year just by taking away some of the things that you don't even enjoy doing and letting AI and Claude
+handle them. Here's a real example of a company that I recently worked with, Redmax Events, and they are an
+event services company. So, they set up different corporate events for all different kinds of niches, you
+know, think sports, tech, a ton of other ones as well. Now, they showed me their project onboarding process
+and it was taking them 7 hours per month. So, what happened is that I added in AI automation for them and it
+reduced that time to 7 minutes per month. Huge difference there. Now, they can add one more client per month
+with that freed-up capacity cuz it's not just the time it took to onboard clients, but it was all the context
+switching that was taking place that allowed them to not focus on fully delivering. So, with that additional
+$10,000 per month client, that's an additional $120,000 per year. These aren't small numbers, these actually
+move the needle. So, the way I see it is that there's three steps to becoming fully AI native and we'll go
+through each of them in this video. The first one is the discovery phase. You need to be able to figure out
+what are your current workflows? Where are you losing hours and exactly where will AI drive the fastest return
+for your business? If you aren't able to discover these things about your business, then building AI
+automations, there's no point to it. After discovery, there's implementation. And this is actually building
+and deploying the automations, knowing how to use the AI tools like Claude, and making sure that they're
+tested and fully integrated into your existing system, ready to go from day one to start reaping the benefits
+of And finally, it's adoption. And this is super important and often overlooked because if you go in, you
+discover all these problems, you build out AI automations, but no one is actually using them, you don't
+actually see the benefits, right? So, what you need to do is train your team, refine the systems, tweak based
+on how they're actually using it, make sure that the gains are actually getting compounded, not just being
+created and fading off. So, let's start with discovery. And this is important because before you build
+anything, you need to know what the objective is. So, the goal of this is to know exactly where you are, where
+do you want to go? What's the ideal outcome? What's currently stopping you? What pain points and frictions are
+in the way? How do we get there? What's our vehicle? Typically, this is some kind of AI or automation. And
+then we want to know how are we measuring success? So, this is, you know, maybe time saved, money saved, or
+money earned. And this is how we calculate the ROI of these automations. In order to find all the information
+about your business, what needs to happen is a series of interviews. And this isn't just you know, from the
+founder. This is understanding from the top-down stakeholders, what are the problems that they're dealing
+with, as well as from the bottom-up end users, the employees at the companies, what they're dealing with. So,
+there's different questions that you would ask for each. For example, with the stakeholders, you can ask them
+to walk you through your team structure, who's reporting to who, so you can get kind of a lay of the land, and
+understand overall what the business looks like. Then you want to understand what are the main goals or KPIs
+that the team is responsible for, maybe in in a quarter or a year or a given period of time. One of my
+favorite questions to ask is that if you had a magic wand then you can make one problem solved overnight, what
+would that be? So, this is really understanding from a direction and high-level where the company is at and
+where they want to go and what's stopping them. Then when you're speaking with the actual employees and the
+end users, this is how you get a real granular bottom-up approach. So, you can ask questions like walk me
+through a typical day or week in your role, trying to understand the nitty-gritty of what's going on. Then
+walk me through the exact steps you take to complete a specific common task so you can understand within
+individual workflows where are the bottlenecks. And lastly, if you had an assistant, what kind of tasks would
+you give them immediately? Because these are typically things that they don't want to be doing and aren't
+actually helping grow the business, but they need to get done and they're just wasting a ton of time on. And
+what you'll find out is that every single workflow has a breaking point or a point of friction. So, if we're
+talking about project onboarding again, let's say it looks like this, right? There's multiple different
+processes in this workflow and you'll find that through these conversations, typically there's some kind of
+bottleneck where if that was alleviated or fixed, then everything else will move faster. If we look at another
+one like project reporting, typically you'll find that that one again will also have a bottleneck. While
+there's bottlenecks within workflows, sometimes entire workflows can be bottlenecks of the business and you'll
+see that happen as well and it's important to be able to identify when these occur. Now, understanding the
+bottlenecks is one thing, but you don't want to just go ahead and build everything that you find off the bat,
+right? That's going to take too much time and you might [snorts] build something that's super detailed and
+intricate to solve a very small, narrow problem. But what we want to do is turn those bottlenecks into an
+organized, prioritized list of problems. And these are prioritized by some of your top KPIs, maybe how much
+time you're spending per week or or how much money it's costing you per year. And once it's prioritized, then
+you know which problems you should actually tackle first. Now, I want to give you guys a Claude skill that you
+can use to figure this out for yourself and then turn these bottlenecks and problems into actual solutions
+that you can implement. So, let's go try out this Claude skill that I created. So, what we want to do is
+create an AI opportunity matrix and stick with me here because it's super powerful what it comes out with as
+the output. And there's a skill here, again, link will be below, but it's super simple to actually use this.
+All you have to do is go into a chat and type {slash} AI opportunity matrix and press enter. Now, at this
+point it's going to ask you a ton of questions about your business so that it has context of the things that
+you're working on and the kind of problems that you're dealing with. So, you can see I already did it here. It
+started asking me questions. I slowly answered the questions. And the cool part about this is the output at
+the end. It's this opportunity matrix. And the way that this works is by mapping impact on the bottom versus
+effort over here. And effort is how hard it is to implement the solutions and impact is how impactful this
+will be on your business. So, once that's done, it's able to separate into four different quadrants. There's
+nice-to-haves, which are high effort, low impact. These are things that we generally want to avoid. Then
+there's deprioritize, which are low effort but low impact. Again, not our highest priority. But the things we
+really want to focus on are these quick wins. These things that are going to be maybe a little bit lower
+effort but high impact or the things that are higher effort but also high impact. We want to stay in this high
+impact side of the chart. So, you can see here that there is different solutions that came up based on the
+conversation and the problems that I discussed with Claude about slide deck generators for my videos is
+something that would save me a ton of time and help me land new clients potentially. YouTube packaging,
+LinkedIn cold outreach, all of the main problems of my business or like client acquisition for example.
+Whatever you're dealing with in your business, this would help you identify those and plot them here. You
+could see it shows even the impact and effort level. And that way you have a clear direction of where you want
+to go. But it doesn't just stop with that because then turns that into a road map. And this is how you
+understand what are your quick wins, what should you start with, and slowly move through that to come up with
+some of the bigger swings, right? It kind of rates it based on the amount of effort and the impact. So, it's
+not just going 1 2 3 4 5 6, it's going 1 2 4 6 and then 3 7 5. It's more thoughtful about the actual order
+that you should do these. Again, if you want this AI opportunity matrix skill, go ahead, click the link in the
+description and it'll bring you to this page where you can download it for free. So, just like in the skill
+that I showed, we want to turn these problems into solutions and build out a road map of how we're going to go
+and implement them step-by-step to get the highest impact and reward on your investments. Now, let's talk
+about the actual implementation and how you can turn work like this, which is from the event services company,
+a very manual process where they received an invoice, they would copy all the fields which introduces risk
+into like seven different systems that they were using and turn that into an automated system where now it's
+updated automatically and multiple different branches fire in parallel and take under a minute to complete.
+And this is the kind of outcome that we're looking for where it's a high impact area and it turns a extremely
+manual process into one that's automated and gives a huge return in time and money gained. So, it's important
+to know that there's two kinds of AI solutions that you can be building. There's ones that will enable, and
+this is building out an AI platform to run your business on, and there's ones that will scope, and this is
+solving a very specific problem, one workflow at a time, one solution at a time. So, enabling will look like
+building out this AI platform. This is building layers of context or tools that the AI can use, and it's not
+solving a specific problem, but it will set up the whole system that the scope solutions will then be able to
+use, and it'll make it easier for you down the line. And this is really how you transform your business from
+not having any AI to becoming fully AI native. And then scope solutions look like exactly what we just looked
+at. This is a very narrow workflow to solve a specific problem that a team is doing and trying to cut out that
+time to see the ROI. Now, another thing to note is there's two different ways that solutions can actually be
+run. The first way is by a human using an AI assistant, and this is, you know, your typical chatbot that you
+see, but maybe more empowered having context or skills or tools that now when you chat with the AI, it can go
+and kick off an entire automated workflow. The other way to do this is with agents, and this is more of a
+modern trend with AI and the direction things are going. And this is where you have AI be able to actually do
+these things on its own. Maybe it can detect when a change happens in one system and fire off this automation
+that impacts another system, or maybe you just have it running on a schedule to check things on a certain
+cadence so that it's able to automate workflows in that way. So, what does this actually look like when we're
+using Claude? In Claude, there's multiple different systems or platform layer things that can help us build
+out scope solutions. The first one is skills, and these are reusable instructions that Claude is given to
+become kind of a domain expert. It understands a very specific workflow, you tone, the tools that you use, and
+it's basically like a standard operating procedure or an SOP for a specific workflow. Now again, you can build
+out individual skills that will solve narrow problems, and you can also build out a platform layer of skills
+so that any agent or assistant can plug into it. Next is connectors or tools, and this is how Claude natively
+reacts and talks to different systems in your business. So maybe that's Google Drive, Gmail, Notion, or
+anything else you're using. And again, you can build very specific tools for a certain assistant or agent, or
+you can build out a platform layer that any of them can plug into. Then there's projects, and this is
+persistent context and workspaces that Claude can have to understand things about your business, your history,
+your files, and instructions, and keeping them always loaded. And lastly, we're going to talk about agents.
+This is autonomous Claude workflows that run multi-step systems on their own without having a human in the
+loop and giving the power to AI to handle these things on its own. Now again, we could take a look at what
+this looks like in Claude when it comes to the two different options of assistants and agents. So with the
+assistants, there's multiple different options. You have the web assistant, the desktop, and the terminal. And
+I'll show you all of them real quick. Real quick, here is the desktop assistant. This is at claude.ai. And
+yeah, it's basically the same thing that I just mentioned where you have skills that you can add, connectors
+you can add, give it context, but you also have assistants for Claude code in the web. You have even a new one
+called Claude design. So these are the web assistants where you have a chatbot and you can have it perform
+different actions for you. Now you also have the desktop assistant, and this is a pretty similar setup, but uh
+a slight difference is that now you also have Claude code work. And with Claude code work, you can work with
+files that are actually on your computer, something that you can do on the web. And lastly, the most powerful
+of the assistants is Cloud Code, which lives in your terminal. And this is most powerful because it has access
+to your computer, but also files, your command line, everything that you can do through code, you can now do
+with an AI assistant. Now, just like we talked about with the assistants, there's also agents. And through
+Cloud, there's two different ways that you can run agents. In one, there are managed agents. These are
+persistent agents that it can be scoped to a project or team and can be triggered through code. Now, there's
+also routines, which are fairly new. And these can be scheduled or triggered based, and they run on their own
+in the cloud. So, managed agents are on the website version on platform.cloud.com. And you can see here,
+managed agents, they're fairly new. And here, you can have a list of different agents. And to get started with
+it, you can, you know, have Cloud help you build one or use an existing one. But the biggest thing is that you
+now have an agent that's running on its own, performing these actions using different connectors, to where
+you're not driving every single action through a chat box, and you're having AI handle it on its own. Now, the
+other option that I mentioned is Cloud Routines. And this is on the desktop app right now, but there's two
+different types of routines that you can do. Well, actually, there's a few different types. There's local and
+remote, right? So, you can have the agent running on your machine versus having it in the cloud. I typically
+recommend having it in the cloud if you don't need to access anything on your actual computer. And then,
+within here, there's two different types of triggers you can do. There's a schedule, which is happening on a
+basis of hourly, daily, weekly, however often you want it to run. Or you can have it run from a trigger. So,
+you can have it an API request that, when something occurs, you have it fire off this request that will
+trigger the agent to do other things. And similar to before with the manage agents, you have different
+connectors that allow it to talk to different systems that you have. In my opinion, the agents here are going
+to be the biggest impact going forward on the capabilities of Cloud. All right, so lastly, let's talk about
+adoption. And this is getting teams to actually see the benefits of AI. After you've gone through, discovered
+the problems, and implemented solutions. So, how do we do this? Well, first part is through education. And
+this is just showing First of all, what are the results? What are the impacts of having AI in your business?
+How much time are you actually saving? How much extra money are you making or saving as well? Results speak,
+right? People will listen if the results are good enough. Second is showing examples in your actual workflow.
+So, let's say someone has a four-step workflow here, and you say, "This is exactly where you would add it into
+your system. You'd add it into step three here. It would handle the whole thing on its own and give you those
+results that I showed earlier." And lastly, it's going to be simplifying things, making it extremely easy to
+understand with diagrams, showing with MCP that it's super simple, right? It's just an AI that's using MCP,
+reaching out to a couple different nodes that act as tools. One of the other high-impact ways of implementing
+AI and getting it adopted is by finding an AI champion within each team. So, this is someone that could take
+it on, understand what are the different ways that you can be using AI in your specific workflows on their
+team. Because the reality is that if you're going to be implementing this into different parts of a business,
+then you probably don't know the intricacies of those individual workflows. And that's why if you get someone
+who works on that team, understands exactly what they do on a day-to-day basis, and they see the benefit of
+AI, then they can really show everyone else on their team, "Hey, this solves this very specific problem for
+us. It saved me a ton of time. Let me show you and walk you through step by step how you can use it for
+yourself. So, hopefully you found this video useful and you understand the exact three-step roadmap and
+strategy that you can use to discover [music] problems in your business, implement the solutions with Claude,
+and then actually get them adopted by the people who are working in your company. If you're serious about
+becoming AI native and implementing these automations and solutions into your business, [music] then I
+actually offer a completely free AI strategy call where we'll understand what problems you're dealing with and
+what solutions you could be adding to solve them. The link is in the description if you want to check that out
+and book.

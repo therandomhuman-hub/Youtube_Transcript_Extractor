@@ -1,0 +1,185 @@
+Title: I Let Claude AI Run My Life for 100 Days, Here's What Happened
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: oxgQfzkZYjs
+URL: https://www.youtube.com/watch?v=oxgQfzkZYjs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:57:56+00:00
+
+Kind: captions Language: en Just 100 days ago, I knew almost [music] nothing about AI and now I'm on track to
+make over $200,000 this year using AI alone. And the only thing that changed is that I decided to go all in. I
+know a lot of people are hyping up AI right now and if you're anything like me, you probably don't know where
+to start. [music] So, in this video, I'm going to walk you through every single step of my 100-day journey so
+you could follow along if you'd like. And of course, we need to start all the way back at day zero where the
+goal was to land my first client. If you're watching this video, you're probably feeling the same things that
+I felt at day zero, which is that everyone is hyping up AI but personally, I haven't gotten anything out of
+it, which is kind of strange cuz you hear about all of these AI companies that are valued at billions of
+dollars and you see all these people on YouTube who are starting AI agencies and making thousands as well. So,
+I made my goal to figure out exactly what was going on here. Honestly, if you want to know the truth, I was
+working in IT at a finance company at this time and even though I had this technical background, I wasn't
+getting any of the crazy results that people who were using AI were getting. The first step I took was trying
+to start one of these AI agencies and to land my first client. And it's funny because even though at the time
+I didn't know much about AI, I still branded myself as an AI agency and the solutions that I created were all
+traditional automation. So, I built my solutions using a platform called N8N and although you can add in AI
+agents into your workflows here, I didn't use any of those AI nodes. The other problem that I was facing now
+is that I didn't know how to get clients. So, what I decided to do is for a few days, I just reached out to as
+many warm connections as I could until finally one friend who's running an event services company said that
+they needed some help with some of their operations. The specific project that they needed help for was
+project onboarding. So, this is when they bring in a new client and now they need to set them up in all of
+their different systems. The N8N workflow that I created here takes an input that comes from their monday.com
+board and it adds it to all their different systems including one called Company Cam, makes a Dropbox folder,
+adds events on their Google calendar, adds in a couple sheets on their Google Sheet, creates and sends an
+email, and then also adds to this one other system that they have. So, pretty standard automation, but it's
+all using n8n in these different nodes, none of which are actually using AI. To land this client, I had to
+write up a proposal of the work that I wanted to do. And this is where I started using AI a little bit in just
+very basic functionality. And I started using Claude for this, and you'll see this as a common theme
+throughout this entire 100-day journey, but I'm super glad I decided to use this tool because I was able to
+progress my skill set along with the features of Claude that I was using. I blocked out all the actual names
+in this proposal here, but you can see what I actually generated. I used Claude to make this HTML file that's
+a proposal, and from this I go through exactly what we want to do. So, doing a discovery phase,
+implementation, and a partnership, talking about the manual onboarding process for their projects, what the
+automated version looks like, and how much time it's going to save them. So, the biggest thing I found is
+being able to sell the results and not just what I'm creating. Because if they believe that now it's only
+going to take 2 minutes to do this process, they can think now I can add an additional client per month and
+make an additional let's say $10,000 per month. So, I brought them through that, I brought them through the
+road map, and at the very end I proposed them paying me $2,000 per month, which makes a lot of sense if they
+can add in one extra client. One of the really awesome things I figured out about Claude during this also is
+that you can go ahead and publish this as an artifact. And when you publish it as an artifact, it gives you a
+link that you can send directly to somebody. So, I was able to present this live to the client, but also give
+them a live link so they can go back and review. The other way I ended up using AI for this initial build out
+is again just with Claude chat, but I was able to copy the code from my n8n nodes and paste it into the Claude
+chat, ask it to help me solve something, and it would give me a new JSON file back. And then from here, I can
+just copy it from the Claude chat, go back to N8N, paste it in, and it gives me the nodes straight up in N8N.
+So, it really helped with debugging different scenarios or problems that I was facing. And this was a great
+start. I was able to start an AI agency, and within the first 30 days land my first client, bill $2,000 per
+month, and make an initial solution. And it really goes to prove that you don't need to know anything about AI
+to get started. And if you do have a bit of a technical background already, that's even one leg up. Now that
+we've landed our first client and are making $2,000 per month, that brings us to day 30, where the objective
+is charging more for the service. Day 30 is where I saw the real value of AI starting to unfold. And it's also
+where I was able to land my second client. This one also through a warm connection. And this one was for
+$3,000 per month. And the reason I was able to charge more for this is because I was tying it directly to them
+making money. This was an event location this time, and they needed to create a list of leads that they can be
+cold calling to bring in new customers. So, it's really a lead generation solution. In order to build out the
+solution for them, there were four main questions that I had to answer. First is who are they targeting? I'm
+talking about the demographic here, understanding what kind of companies they work for, what industry they
+were in, what size company they were working for. All of this was figured out through discussions with the
+client. Second was how do we actually find them? Once we have an understanding of who we're looking for, we
+need to actually find the contacts and build out an initial list, so that we know what the best prospects are,
+and we know what the worst prospects are. AI is really good at doing this because you can just pass all the
+information about the client, exactly what we're trying to do, and it can come up with a tier using criteria
+that you provide. And lastly, now we need to figure out how to get their phone numbers. This is so that they
+can actually do the cold calling now that we have this list. The feature of Claude that helped me out with
+this the most was the connectors. This is website that I found called Apify which allows you to actually
+scrape leads from LinkedIn using criteria that we figured out in question one. And you can see here this one
+allows you to find these prospects by just typing in the different criteria. Then we can run it and we get
+some results back. The great part about this is that you can connect it directly to Claude. So that you can
+just talk to Claude normally and it could format the request to send to Apify to kick off that run and then
+return all of those prospects back to you. So we could start doing this with a small number just to check that
+the prospects look good and then bump this up to hundreds and thousands of people. Once all of it is finished
+and it's returned back to Claude, that's where we can use Claude again to rank and tier the people. So we add
+in our criteria of how we want to rank them basically just talking about what our objective is. And then
+Claude will spit out a number of what tier that they fall into and then rank the prospects as well starting
+out 1 2 3 all the way to the end. So that's how we build out our initial list to hand over to the client. But
+we still need to enrich the people to get their phone numbers so that they can actually do the cold calling.
+Again, we can use Apify for this and that's because there's a specific actor for finding phone numbers. And
+this one is great because now that we've scraped all these people from LinkedIn, we have their LinkedIn
+profiles. And the input for this one is the LinkedIn URL. So all we have to do is tell Claude to use this
+actor, tell it to pass in those LinkedIn URLs. And once we do that, it will return the phone numbers that it
+can find. So that's how I figured out how to build out an initial list for the client's criteria, get their
+phone numbers, and then hand them back to the client. This process brought us from day 30 all the way to day
+60 and makes us an additional $3,000 per month. But at day 60, the new objective is how can we scale the
+delivery? Scaling the delivery here is how I was able to get to these $2,000 and $3,000 per month projects to
+one that was $2,000, but only took me a week. And while both those previous two solutions are super helpful to
+the client, it's hard to deliver because there's a lot of unique work. So it takes a long time doing discovery
+with client, figuring out exactly what they want, and then translating it into something that I can actually
+build. But utilizing some of the other features within Claude, specifically using skills and projects on top
+of connectors, we're able to make the solutions more generic so that we can create one solution and hand it
+off to multiple different people. Now the way that I was able to find this client was through a platform
+called Upwork. If you haven't heard of Upwork, I think it's a great place to start, especially in the
+beginning when you don't know how to do cold outreach, and you don't have a lot of warm connections. And the
+reason I think Upwork is so great for beginners is because there's people that are there who know that they
+have a problem, they know what solution that they want, but they just need somebody to do it. So all your job
+is to convince them that you are the person that can solve their problem. In this specific scenario, the
+client that I found was an online coach. And they have this whole list of retainer clients that they're
+serving every single month. In order to serve them, they create these very tailored client slide decks and
+worksheets for them to fill out while they're presenting. So again, the solution here is that there's a lot of
+different clients that they need to serve, but we want something that is very generic that they can use for
+every single client. On the sales side of things, in order to charge this premium pricing for your service,
+you need to again relate it back to their objectives. So if we say it takes 20 hours per week for them to
+create slides, then one additional client per month could equate to another $10,000 per month, which they can
+can land because they're saving all that time from slide deck creation. So, when I say I'm going to charge
+$2,000 to do this, it's a no-brainer from their side. And the key takeaway here is to sell the pain, not your
+commodity solution. So, let's brainstorm how to actually create a solution for the client using Claude. I
+created a skill that tells me exactly how I can build out the solution, and I'm going to walk through that
+right now. But, if you want to download it completely for free, the link is in the description below. This
+skill is an AI architect, and the way that we run it is that we go into Claude and we type /sw AI architect.
+Now, once we run it, it will render this form where it's going to ask us a few questions that we can fill out.
+First, we describe what the problem is or the task that we're trying to complete that's painful for the
+client. Then, we decide exactly how it should be triggered, what tools, files, and systems that we need to be
+able to pull data from, what should be produced at the very end, if we need a human to approve or not, and any
+additional context that we can provide. So, what we end up needing here is a solution that will generate these
+client slide decks and worksheets. It should be tailored to the client, but we also want it to use all of the
+information about the coaching service. So, there's a couple different systems that we need to connect to.
+We're going to connect to Google Drive to pull in all the information about the coaching service, but we also
+want to connect to Gamma, which is going to generate the slide decks. At the very end, the skill will generate
+this report for you, and it goes through your answers to the questions that you asked. But, more importantly,
+it gives you this entire flow talking about what the solution would look like and how it flows through the
+execution here. And then, the actual building blocks and components that you're going to need to build out the
+solution in Claude. So, it's pretty awesome. Claude tells you exactly how to build out a solution using
+itself. So, what the end solution looks like is a skill here that I can run to kick off this presentation, and
+I run it within a project that has all of the context about the client. And the great part about these skills
+is that you don't have to just use it for this one client that you have. If you find the same patterns
+occurring for all these different clients, or let's say you sign other online coaches, you can use the same
+skill over and over again. So, that's how we make the solution more scalable, and we can charge a lot more
+money for a lot less work. This brings us all the way from day 60 to day 90. Now, we're able to make $2,000
+for a week's worth of work, and for the objective is to cash out big time. This was the biggest jump for me
+because with everything that I've learned with Claude so far and a couple of extra things that I'll get to in
+this section, I was able to land a new full-time AI position as an engineer, where now I'm going team to team
+and helping them figure out how they can use AI to improve their workflows. If we take the combined income
+from the clients I have in the agency, plus this new full-time position, it brings me to over $200,000 per
+year in income earned from AI. So, the big unlock that helped me out here was learning about Claude code.
+Specifically, learning how to build these skills and plugins that I can use within Claude code, and also
+learning about routines that I can trigger off these workflows automatically. If you remember from the
+beginning, I was working in IT at a finance company, and that's where I decided to start using some of the AI
+that I was learning on the side within my full-time position. If you don't know what a plugin is in Claude, it
+allows you to combine skills with connectors and other things like agents and commands as well. And if you put
+multiple plugins together, you can create a marketplace that anyone can connect to and use those plugins that
+you created. Knowing this information, I was able to create marketplaces for different teams, each of them
+containing plugins for different areas that that team is working on. So, my team specifically was working on
+cloud infrastructure, and I was able to create a plugin to help with cloud infrastructure tasks, one to help
+with reporting tasks, and continue to scale that out. But, we hop into Claude code, I'll show you exactly how
+you can add in these marketplaces and plugins. So, first in the customize section, you'll see that there is a
+plugins area here with a plus sign. You just click plus here, you can do browse plugins. And if you hop over
+to the personal section, there's a plus sign over at the end. And from here, you can add a marketplace. We're
+going to add it from a repository, and here we can paste in a GitHub URL. You can see an example plugin here
+that I have within GitHub. It's defined by a JSON file, and then again referencing different skills that you
+created. What's great about this is that you can now explain how you can scale up using Claude Code and skills
+into something that works across an enterprise, which will help you land one of these full-time AI positions.
+The other part of this is using routines. Again, within Claude Code, you can go to the routine section here,
+and you can create a new routine either running locally on your computer or remote in the cloud. Why these are
+great is because you can run them on a schedule, and again connect to all these different connectors. Or you
+can trigger them from another process via an API. So, if somebody updates a ticket on your project management
+system, that can fire off a request to trigger this routine. This was great because I was able to create daily
+reports that would take new updates about the cloud, check our existing cloud infrastructure, and see if there
+was anything that would be affected. And then Claude would tell us exactly what we need to do next in order to
+fix those problems. The way I was able to leverage this knowledge was by building myself a brand around AI. It
+started with just posting a couple things on LinkedIn and talking to some warm connections who are working in
+the tech field just about how they're using AI, how I'm using AI, and what the direction of the field is
+going. Doing all of that together opened up more opportunities than I could have imagined. So much so that a
+position was able to open up in a company for the specific AI engineering role, and they were able to think of
+me off the bat because we had had previous conversations, and I had built this brand around AI. The biggest
+lesson here is to share everything that you're learning about AI. Talk to people about it, post about it
+online. All of it helps you out with reaching your ultimate goal, which is making more money and building your
+skill set in the AI space. And now I get to use AI every single day working across different teams within the
+company to figure out how we can use AI to improve their workflows using all the different things I showed you
+today within Claude. And that brings us to where we're currently at, which is day 100. And the primary goal
+for me right now is documenting the journey. I want to show you all how I got exactly from where I started,
+which was knowing nothing about AI to now building an entire brand and making a full-time income using AI. And
+the only way you're able to do this is if you're able to build solutions that are helping other people. I know
+this looks like a long journey, but it happened so quickly. In just a little over 3 months, my life is
+completely different now than it was back then. And if you're just a beginner, I recommend just getting
+started. If my journey shows you anything, it goes to prove that the compounding effects are real when you
+stick with one thing for long enough. So again, if you want to learn how you can continue to use AI for
+yourself to help other people and make money online, >> [music] >> then subscribe to me on YouTube, follow me
+on LinkedIn, and you can watch more videos on how to use AI right here.

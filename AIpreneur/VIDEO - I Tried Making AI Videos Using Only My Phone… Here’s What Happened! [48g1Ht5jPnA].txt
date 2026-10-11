@@ -1,0 +1,103 @@
+Title: I Tried Making AI Videos Using Only My Phone… Here’s What Happened!
+Channel: AIpreneur
+Type: VIDEO
+Video ID: 48g1Ht5jPnA
+URL: https://www.youtube.com/watch?v=48g1Ht5jPnA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:37:44+00:00
+
+Kind: captions Language: en What if I told you that you can create hundreds of cinematic AI story videos
+directly from your phone in just one click and completely free? Yes, you heard that right. I'm talking about
+your mobile device, not your computer. This isn't some desktop only tool that leaves mobile users behind. This
+is pure mobile automation. And today I'm showing you exactly how to set it up on your phone and start creating
+unlimited AI videos in bulk right now with a mobile compatible automation system that [music] generates entire
+story with perfect character consistency, professional voiceovers, [music] and cinematic visuals all from your
+phone. And the best part, with no coding, no complicated setup, and yes, it's free. Ready? Let's unlock the AI
+automation [music] mobile together. First, let me introduce you to the automation tool that makes all of this
+possible. Autoisk. It is a Chrome extension that automates [music] Google Whisk to generate [snorts] hundreds
+of AI images in bulk with just one click. Instead of manually creating images one by one, you paste an entire
+list of prompts and Autoisk generates everything automatically, downloads all the images for you, and does it
+all without you lifting a finger. It's the secret weapon behind [music] massive AI content creation. But
+here's the big question. Can you actually use AutoISK on mobile? Because let's be honest, most Chrome
+extensions simply don't work on phones. And that's exactly the problem everyone [music] keeps running into.
+So, is there a way to make this powerful automation work on your mobile device? The answer is yes. And I'm
+about [music] to show you step by step. Step one, the mobile automation. Now, listen carefully because this is
+where most people get it wrong. First, open your Google Play Store right now. Search for Qua Browser by Quan
+Networks and install it. This is a 100% legitimate browser available directly in the Play Store that natively
+supports Chrome extensions without any hacks or risky downloads. Once installed, open it. Tap the three dots
+in the bottom right corner. Tap on extensions, then tap install extensions. And in the search bar that
+appears, type AutoISK. You'll immediately see the AutoISK extension show up. Tap install and okay. And within
+just a few seconds, AutoISK is successfully installed on your mobile device with zero risk and zero
+complications. Now that you have the tool, the next question is, how do you actually create story videos with
+it? What prompts do you use? and how do you make sure your characters look the same in every scene? That's
+exactly what we're covering next. Step two, generate your story prompts. Before we can generate images in
+bulk, we need the story prompts. And this is where ChatGBT becomes your creative partner. So, [clears throat]
+open Chat GBT on your mobile device and paste this exact prompt that describe your story style. Then, hit send
+and ChatGBT will write your complete cinematic story in seconds. Now, here's where the magic happens. Ask Chat
+GBT this follow-up prompt that will generate list of image prompts and hit generate. Chat GBT will instantly
+give you a perfect list of scene by scene image prompts formatted exactly how AutoISK needs them. Now, you
+have your prompts ready, but how do you turn these into actual images on your phone? And more importantly, how
+do you make the automation run smoothly without any technical issues? Let me walk you through it step by step.
+Step three, run the automation on mobile. Now it's time to watch the magic happen. Copy all those prompts Chat
+GPT just gave you. Then open Queter browser and navigate to Google Whisk. And here's a critical step. You
+absolutely must log into your Google account on Whisk first because if you're not logged in, AutoWISK will not
+work at all. Once you're logged in, tap the three dots in the bottom right corner. Tap on extensions and tap
+on autoisk to launch it. Select second classic version and you'll see a text box. Now paste your entire prompt
+list in there. Not one prompt at a time, but the whole thing. Then scroll down, tap start. And when you see
+two options, always choose run on this project on mobile devices. And the moment you tap it, the automation
+springs to life. You'll see AutoISK start generating images one after another completely automatically without
+you clicking anything. Now, this part is extremely important. So listen carefully. Do not close the autois
+extension. Do not minimize it. Do not switch to another app because the second you do the automation stops. So
+just keep the extension open and visible on your screen and let it work. Within a few minutes you will see
+every single scene image generated automatically. And even better autoisk downloads every image directly to
+your mobile device without any manual saving. And then you'll see the message all done, which means every
+image has been created and saved successfully. But there's one problem you'll immediately notice. The
+characters don't look consistent across different scenes, and that ruins the storytelling flow. So, how do we
+fix character consistency on mobile? That's what we will fix next. Step four, fix character consistency.
+Character consistency is everything for story videos. Because if your main character looks different in every
+scene, viewers disconnect from the story. So here's how we solve this on your phone. Go back to your Chat GPT
+conversation and ask this in a few moments and chat GPT will create separate detailed prompts for character 1
+and character 2. Copy the character 1 prompt. Go back to Google Whisk in Qua browser and open a new project.
+Paste that character prompt and hit send. And within seconds, your first character image is generated.
+Download it. Then clear that prompt from whisk. Now copy the character 2 prompt from chat GPT. Paste it into
+whisk. Hit send again and your second character image appears. Download this one too. And now you have both
+character reference images saved on your phone. Here's where the consistency magic happens in Google Whisk.
+Tap add images. In the subject section, upload the character one image. Then tap the plus icon and upload the
+character 2 image. and make sure the check mark is enabled on both images so Whisk knows to use them. Now tap
+the three dots in the bottom right corner. Tap extensions. Launch AutoISK again. Select classic version. Paste
+your scene prompts into the text box one more time. Scroll down. Tap start. Select run on this project. And
+this time every single image is generated with perfect character consistency because Whisk is using your
+reference images. Don't close the fine extension. Just wait. And when you see all done, minimize the extension
+and check your downloads. And you'll see every character looks identical across all scenes. Until here, your
+scenes is ready. But a silent video isn't a story. So, how do we add a professional voice over without leaving
+our phone? Keep watching and you will see. Step five, add professional voice over on mobile. Let's give your
+story a cinematic voice using Google's free AI. Open Chrome on your phone and search for Google AI Studio. Tap
+on the link that says Google AI Studio. Scroll down until you see the section text to speech and tap on it.
+Now, here's an important mobile step. Tap the three dots in the top right corner and enable desktop site
+because this ensures all features load properly on your phone. Select single speaker audio. And now, choose
+the voice that matches your story's mood. Take a moment here because this voice will carry your entire
+narrative. So, play a few samples until you find the perfect one. Paste your complete story script into the
+text box. Tap run and within seconds, Google generates your AI voiceover. Tap play to listen to it. >> The
+valley lanterns go dark all at once. >> And if you are happy with the quality and emotion, tap download and
+the audio file saves directly to your phone. You have now images and voice over. So, what is the final step?
+How do you put it all together into a finished video right on your mobile device? Let's finish this. Step six,
+edit your video on mobile. You've got everything you need sitting in your phone storage, all your scene images
+downloaded, and a professional voice over ready to go. So, go ahead and open your favorite mobile video
+editor. I'm using Edits, the Instagram editing app, and import all the scene images one by one into your
+timeline. Then import the voice over audio file. And now line everything up so each image appears exactly when
+that part of the story is being narrated. You want the visuals and voice to sync perfectly. Add smooth
+transitions between scenes, but keep them subtle. A simple fade or dissolve works great. You don't want flashy
+transitions distracting from the story. And if you want to enhance the cinematic feel, add filters. And don't
+forget to add animations to your images by selecting the first one. Next, go to effects and select zoom. Then
+go to second image and select zoom out and apply this for all images. And lastly, add captions. So go to
+captions, click all audio, add style, and choose any one that matches your video. And that's it. Your video's
+ready. Check for any issues. Adjust if needed. And once you're satisfied, tap export and your phone will
+render the final video. >> The valley lanterns go dark all at once. Mirror stops listening as the forest falls
+silent. A wooden knock echoes from the old shrine. Congratulations. You just created a complete cinematic AI
+story video using nothing but your mobile device and free tools with no single dollar spent. No single minute
+at a computer, just pure mobile automation. This entire workflow is 100% mobile, 100% free, and 100%
+automated. Your phone is now a complete AI video production studio. But if you want a full desktop automation,
+check out this video where I show you how to make V3 run on autoflow. And if this tutorial helped you unlock
+mobile AI automation, smash that like button right now. Subscribe to Arpreneur because we are dropping more AI
+tutorials every single week. Thanks for watching and see you next tutorials.

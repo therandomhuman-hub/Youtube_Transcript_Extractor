@@ -1,0 +1,104 @@
+Title: FASTEST Way to Become a Data Analyst and ACTUALLY Land a Job
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Li7birdirMM
+URL: https://www.youtube.com/watch?v=Li7birdirMM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:54:11+00:00
+
+Kind: captions Language: en Look, the data analyst job market has gotten some backlash recently, but it's not
+as bad as people think. And the data analyst job is still one of the best entry points into tech, no degree
+required, solid starting salary, and a clear path up to senior analyst, data scientist, engineer, management,
+whatever you want to do. And no, AI is not replacing analysts. It's taking [music] over the boring parts, the
+cleaning, the formatting, and making good analysts faster and more [music] valuable. And so, companies are
+collecting more data than at any point in history, and data is the new gold. Literally. So, in this video,
+I'll show you the fastest realistic path from zero, from scratch, to hired in 2026. Let's go. So, first, what
+do you actually need to learn? Not my personal opinion, that doesn't matter at all. Let's look at the real
+data. This is datanerd.tech, which fits [music] the title of this video, datanerd. And basically, what they've
+done is they've analyzed millions of job listings with data analysis, and it now shows which skills employers
+actually look for on the job market. And so, if we filter for the data analyst job specifically, you'll see
+the same skills at the top every time. It's going to be SQL, the language for working with databases, the the
+language everybody basically has to learn. It's also called structured query language, or that's what it's
+actually called, but everybody just says SQL nowadays. And this is a non-negotiable. I mean, you must you must
+learn SQL. It's kind of life or death, literally. Then, there's Excel, the classic language or language tool,
+whatever you want to call it. You probably know some of it already, and it's still everywhere because most
+people in a company are not that technical. And so, Excel is easy and lets anybody hop in and work together
+and check it out. So, it's still used a lot in companies. And then, there's Python, a programming language,
+powerful, super versatile, simple to use. [music] And then, the visualizations tools like Power BI and
+Tableau, which you can just choose one if you want to. It doesn't really matter which one you choose. Both are
+strong. I don't want to get into this like huge battle between Power BI and Tableau. One is Microsoft, one is
+Salesforce. It's kind of like McDonald's or Burger King, personal preference, although McDonald's is clearly
+better, right? Now, where do you learn these skills? Well, I recommend a DataCamp, and I've been using and
+featuring them for over 3 years on the channel, and I partnered with them for this exact video because when
+the goal is speed, how you learn it actually matters. And so, watching tutorial videos feels productive, but
+it's slow, although stay for this one because you forget most of it. We've all been there. I mean, I forget
+things I watch the same day, honestly. And DataCamp works differently. Every lesson is interactive with a
+short explanation, and then you write the code yourself, type type type, right in the browser. So, you can get
+that feedback immediately from DataCamp on your mistakes and learn step-by-step. And that feedback loop is one
+of the reasons why 19 million people use DataCamp. That's a lot of people, and it's the fastest way that I
+know to make one of these skills actually stick, and that's what matters. If you forget it like 1 month after
+you start a job, not going to work. For SQL, take their Associate Data Analyst in SQL track, and it's only 39
+hours, but it will give you a very strong foundation, and you can start this as a brand new beginner and
+follow a structured path from your first SQL query to being job ready, so you never have to wonder what to
+learn next. And you can finish it in a few weeks, and at the end, it leads directly into DataCamp's official
+certification that is recognized within the industry, and it's not going to be one of those like
+multiple-choice quizzes. It's not going to be one of those. It's a timed real exam plus a proper practical
+exam designed to test whether you can actually do the work, not just remember it. So, you graduate with a
+credential that holds some actual weight with a recruiter when they look at your resume. And so, then for
+visualization, their Data Analyst in Power BI track is what I recommend this time. This one was actually
+created together with Microsoft, and it's built to get you ready for the official PL-300 cert by Microsoft as
+well. I featured that many times on the channel, and it's like a two-in-one package. Now, it's going to take
+you around 50 hours, that's what they say at taking you from your first chart all the way to advanced topics
+like DAX and data modeling with lots of projects along the way. And the projects are my personal favorite
+thing about it because building a portfolio after you learn is a very bad idea, and I've made this mistake.
+The smart learners actually build their portfolio while they're learning, just like you do in this course, so
+you already have a portfolio when you complete it. And so when you finish this track, you also get a 50% off
+the official Microsoft exam that you take as a standalone cert, which is a very nice bonus. So if the goal is
+fast, the play is to stack them, and I would start with SQL first to get you kind of employable, and then
+Power BI to make you actually stand out as a candidate. So it's going to take you about 90 hours in total for
+all of this. That's just a few weeks of focused work to basically walk into interviews with the two top skills
+that 80% of data analyst job postings ask for, plus two credentials to prove that you have the skills, so you
+both have the skills and a way to prove it. Both tracks are linked at the top of the description. Go check it
+out. Okay, now you have learned the skills, but learning is obviously not enough. So once you know the basics,
+start in doing even more projects. And don't worry, finding data is actually super easy. There's a free
+website called Kaggle with thousands of data sets from football to movies to video games, whatever you can
+think about. I also really enjoy the official government websites like data.gov with free data about anything
+that's real, basically like real life stuff, like jobs, housing, traffic, crime. And if you want to impress
+people, I recommend also collecting your own data. Depends on the project, of course. But here's the recipe,
+okay? Pick a topic that you love, like video games. Yeah, that's me. Ask simple questions like which game sold
+the most and why, and then answer it with SQL and turn that into a dashboard or something. That's a very
+high-level simple project, and because you picked something fun, you'll learn very quickly, you'll have fun,
+and you'll have a cool project to talk about in that job interview. Now, next we're going to focus on showing
+your work because here's the truth, right? If you've never had a job, your projects are your experience. So,
+keep it simple. Two or three good projects are a very good start. 10 messy ones are worse than two really
+great projects and a recruiter, they're very busy. They're not going to look at 10 projects anyway. So, if the
+first two ones that they look at are bad, you're kind of screwed. Now, for each project, I want you to answer
+three questions. What was the research question or kind of like purpose? What did you do and what did you find
+in your project? Now, a simple Q&A here is where do you upload your projects? To a portfolio. And there are
+two simple options, either GitHub, which is free and I recommend it. It's a classic site where people in tech
+share their work. Everybody knows it, recruiters know it, everybody knows. But if GitHub looks a little bit
+too complicated for you or you just don't want to do that, no problem. [music] Use data science portfolio.io
+and it's made exactly for this. Not sponsored or anything, but you can build a nice portfolio in about 5
+minutes for free. No coding and again, I mean it's free. Then what you do is you put your LinkedIn or your
+resume and boom, when a recruiter takes a look at you, they don't see no experience. They see proof of the
+skills and that you can do the job through projects and that is your experience now. Now, the fun last step is
+actually getting the job, getting hired and this is where most people lose months. They send the same resume
+to 500 companies and hear nothing back and that really sucks. I totally get it. It's a horrible place to be.
+Don't do that. Use AI instead. Now, AI is not going to fix all of your problems, of course, but there are new
+AI tools coming out every single week and sure you can try them, but honestly, something like ChatGPT or
+Claude or Gemini, that's all you really need because what you can do is you can actually paste in your resume
+for free and a real job posting that you found, for example, from Google, and ask the AI to look at you like
+the company would. Basically, asking the AI to be a recruiter. And the AI can tell you what makes me a strong
+candidate, what makes me a weak candidate, and what's missing from my application. And this is very valuable
+because now you're not guessing anymore. You basically have a pro hiring manager to teach you everything that
+you need to have to land a job completely for free. So, you can see exactly what's holding you back, and you
+can fix it one step at a time. Basically, like solving a little bottleneck and letting it go further, solving
+another bottleneck, etc. And my favorite is actually to let it play the interviewer. So, you can tell it to
+basically act like a hiring manager and ask me a couple of data analyst interview questions, which is
+basically like getting free interview training as much as you want, even at 3:00 a.m. in the morning. And so,
+AI can be incredibly helpful if you use it in the job search process, and you don't need a lot of fancy
+software tools or expensive stuff. You can literally do it for free and just use it in the simplest way
+possible. That's usually going to be the most efficient. And there's one thing that I heard a long time ago
+that's always stuck with me, and that's the quote or the saying, "You're only one job offer away from being a
+data analyst." So, stop watching videos about it and go get it.

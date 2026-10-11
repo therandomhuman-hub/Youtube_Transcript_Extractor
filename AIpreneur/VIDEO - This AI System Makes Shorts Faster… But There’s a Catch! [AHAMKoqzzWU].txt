@@ -1,0 +1,105 @@
+Title: This AI System Makes Shorts Faster… But There’s a Catch!
+Channel: AIpreneur
+Type: VIDEO
+Video ID: AHAMKoqzzWU
+URL: https://www.youtube.com/watch?v=AHAMKoqzzWU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:35:46+00:00
+
+Kind: captions Language: en Stop. If you are still creating AI shorts one by one, you're building content the
+slow way. Most creators spend [music] 4 to 6 hours making a single AI short, fixing faces, correcting outfits,
+redoing broken animations. That is not scalable. What if you could generate 10 fully animated AI shorts with
+locked characters, perfect consistency, and zero manual editing in under 20 minutes? No paid tools, [music] no
+subscriptions, no complicated setups. Just one free automation stack almost [music] nobody is using. And in
+step three, I'll show you the exact trick that makes your character stay identical in [music] every single
+scene with no face swaps. By the end of this video, you won't just understand the workflow. You'll have an
+automated AI short ready to upload in one click. Welcome to AI preneur, and let's get started with our
+workflow step by step. Step one, generate your story and image prompts. Before we touch any video tool, we
+need a story, and we need it to be locked, consistent, and that is exactly what we are going to build right
+now. So, open Chat GPT and paste this exact prompt that describes the whole story and hit enter. In seconds,
+you'll have a complete story with a consistency Bible and 12 detailed scene prompts. This is your foundation.
+Save all of it because you're going to use it throughout every step of this workflow. Now, while you're still
+in the same Chat GPT conversation, do not close it. Paste this second prompt right after that converts our
+story to image prompts perfectly formatted and ready to use. Copy all of them because in step two, you're
+going to see how we generate all those images automatically with perfect character consistency using a tool
+most creators have never heard of. Step two, set up Auto Whisk and generate your scene images. Now that we
+have all our image prompts, it's time to generate the actual scenes in bulk, hands-free, and with perfect
+consistency. And we're are to do it with a free Chrome extension called Auto Whisk. So, go to Google and
+search for exactly this: Auto Whisk Automator for Whisk AI. Find it in the Chrome Web Store, click Add to
+Chrome, and once it is installed, click the extension icon. You'll see two versions available for this
+tutorial. Select the second version. Before we run the automation, there's one important thing we need to do
+first. And this is the secret to making every image match. We need to lock in our characters as reference
+images inside Google Whisk. So, go back to ChatGPT, same conversation, and paste this prompt that fixes the
+character consistency of our story. Now, open Google Whisk in a new tab, copy character one's prompt, paste it
+in, and hit Generate. Once your character image appears, click the small left arrow to save it to your
+workspace, then drag it into the subject box on the left side bar. Leave the checkbox unchecked for now. Next,
+do the same for character two. Copy the prompt, paste it into Whisk, generate the image, and drag it into the
+second subject box. After that, go back to ChatGPT and ask, "Give me a style reference prompt for this story
+based on the consistency Bible." Copy it, paste it into Whisk, generate it, and drag the result into the style
+box at the bottom of the side bar. Now, and this is critical, make sure both subject checkboxes and the style
+checkbox are all turned on. These three references are what lock your character consistency across every
+single scene. Good. Now, go back to your Auto Whisk extension. Paste all the scene image prompts from ChatGPT
+into the text box and hit Start. Auto Whisk will ask you whether to open a new project or run on the current
+one. Choose Run on this project, so it uses the character and style references you just set up. Then just
+watch it go. Auto Whisk will automatically generate every scene image one by one and download them all to a
+numbered folder on your computer. Same faces, same outfits, same style, every single frame. Zero clicking.
+This takes about 10 to 15 minutes depending on how many scenes you have. So, grab a coffee because when you
+come back, those images are going to be ready and waiting. Now, in the next step, we're going to take those
+images and turn them into actual animated videos all in bulk with just one click. Step three, set up Auto Meta
+AI and generate videos in bulk. All right, this is the step I promised you. This is where all those consistent
+scene images are transformed into actual animated short clips completely automatically and it's 100% free.
+First, head over to Meta AI and log in using your Facebook or Instagram account. Just keep that tab open for a
+moment. Now, go to Google and search for Auto Meta Automation from Meta AI. Find it in the Chrome Web Store,
+install it and pin it to your toolbar. Then, click the extension icon and hit go to Meta AI. It will connect
+automatically to your open Meta AI tab. You'll see both the Meta AI interface and the Auto Meta control panel
+on the same screen. Before we start uploading images, we need one more thing, animation prompts. These tell
+Meta AI exactly how to move each scene. So, go back to Chat GPT, same conversation and paste this. You'll get
+short, clean prompts like camera tilts down as Milo brushes sand. These describe motion without changing
+anything about the characters, which means Meta AI will animate our existing images, not invent new ones. Copy
+all the animation prompts. Now, go to the Auto Meta extension. In the image list section, click add images and
+select all your scene images from the Auto Wiz folder in order from scene one to the last scene. Auto Meta
+will list them all in sequence. Next, go to the prompt box and paste all your animation prompts making sure
+scene one lines up with scene one image, scene two with scene two and so on. Now, before you hit start, go to
+settings and turn on auto download. This will save every video automatically as it's created with no manual
+downloading needed. Now, hit start and watch it run. Autometa takes the first image, sends it to Meta AI with
+the matching animation prompt, generates the first short, downloads it, then moves to the next one. It repeats
+that process for every single scene completely hands-free. Every short will have the exact same characters,
+same faces, same outfits, because we built that consistency in step two, and we're carrying it forward all the
+way here. This takes about 15 to 20 minutes. Now, while it is running, it's time to move on to the next step
+and record our voice over. Step four, create your AI voice over with ElevenLabs. Now, it's time to give our
+video a voice, and we're going to use ElevenLabs for this, because it has the most natural-sounding AI voices
+out there, and the free plan is more than enough. But before that, we need a narration script for our story.
+So, go back to ChatGPT one last time and paste this prompt. When ChatGPT asks, paste your full story and the
+consistency Bible, plus all 12 scene descriptions, and hit enter. In a few seconds, you will have a complete
+narration script perfectly timed scene by scene. Then ask it to remove the timestamps, the scene titles, the
+scene numbers, and the mods. Now, go to elevenlabs.io, sign up for a free account if you don't have one. Once
+you're logged in, paste your entire narration script into the text-to-speech box. Next, click the voice
+drop-down and explore the options. I recommend trying Adam for a confident narrator feel, or Bella for
+something warmer and more storytelling. Preview a few and pick what feels right for your video. After you've
+chosen your voice, keep the settings on default and click generate. ElevenLabs will process your full script
+and produce studio-quality narration in seconds. Hit download and you've got your voiceover ready. By now,
+your Automata shorts from step three should be done, too. So, in the next step, we're going to bring
+everything together. Step five, assemble your final video in CapCut. We're at the final step, and this is
+where everything comes together. So, open CapCut on your desktop, create a new project, and import two things:
+all the video clips from Automata and the voiceover audio from Eleven Labs. Here's how to assemble it quickly.
+First, drag your voiceover onto the timeline. This is your anchor. Everything else synchronizes to it. Now,
+listen to the narration. As you hear each part of the story, drag the matching video clip onto the timeline
+above the audio and position it to line up. Your clips are already numbered in order from Automata, so this
+goes faster than you think. Once all your clips are on the timeline, go to text at the top and click auto
+captions. CapCut will automatically generate subtitles sync to your voiceover. Pick a bold, easy-to-read
+style. I like ones with a black background or outline, and click apply. Done. Next, add some transitions to
+make it flow. Go to transitions in the top menu and use simple ones like mix or black fade between each clip.
+After that, add your background music. Go to audio, then sounds, and search for upbeat or cinematic tracks,
+depending on your story's mood. Drag it onto the timeline and lower the volume to around 20% so it supports
+the narration without overpowering it. And that's it. Click export in the top right. Choose 1080p and let
+CapCut render your finished video. In a few minutes, you'll have a polished AI short with perfect character
+consistency, ready to upload to YouTube, TikTok, or Instagram. >> Milo reveals an arrow, >> [music] >> and
+Luna quickly sketches the discovery. The star fades away, worrying Milo while Luna thinks hard. Wind steals
+the map, and Milo >> Now, here's your challenge. Don't just watch this. Use it. Open Chat GPT right now. Paste
+that first prompt and build your first video today. [music] You already have everything you need. And if you
+want more automation stacks like this, check out this video where I explain how to turn Grok into an
+automation for bulk videos. If this helped you, smash that like button and subscribe to AI Premier. I drop
+automation tutorials like this [music] every single week. And drop a comment below. What kind of AI short are
+you going to make first? >> [music] >> I read every single one. Thanks for watching and I'll see you in the
+next tutorial.

@@ -1,0 +1,78 @@
+Title: Create Viral inspirational finance Videos with Free AI Tools
+Channel: AIpreneur
+Type: VIDEO
+Video ID: zNKLF884rWg
+URL: https://www.youtube.com/watch?v=zNKLF884rWg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:41:40+00:00
+
+Kind: captions Language: en Picture this. Daily uploads, 20-minute finance videos, professional animations,
+and a character people recognize instantly. Sounds expensive, [music] right? What if I told you that you could
+build this entire system using nothing but free AI tools? Today, I'm showing you exactly how to create high
+RPM finance content from scratch. No team, [music] no budget, just you and AI. Here's what most people miss
+about successful finance channels. It's not the advice that makes them stand out. It's identity. That's the
+difference between scattered uploads and a real [music] brand. I've worked behind the scenes with channels
+that have millions of subscribers, and I'm going to show you the same system they use, but simplified for
+complete beginners. By the end of this tutorial, you'll have the exact workflow to repeat this system daily.
+And here's the best part. Everything we're using is easy and free. Let's get started this workflow step by
+step. Step one, pick your lane. Most beginners try to cover everything. Investing, budgeting, crypto, taxes.
+That's a mistake. The channels that grow fastest pick one specific angle and go deep. So, choose your focus.
+Wealth psychology, market breakdowns, money habits, or investing strategies. Just pick one. Step two, create
+your character profile. This is where your visual identity begins. You need a character that will appear in
+every video and thumbnail. For that, we will use ChatGPT. So, head to ChatGPT and use this prompt. This prompt
+will describe the main character for all your video, and hit generate. ChatGPT will generate a character
+description in few seconds. Copy that description and open Grok. Go to the left side bar and hit the imagine
+tab. A box will open. Choose image generation and hit paste your character description there and hit generate.
+You'll get many options. If you scroll down, you will get more. Pick the one that feels right for your brand.
+This becomes your base character. Save it. We'll use this exact character throughout every video. Step three,
+find your first video idea. Here's the trick. Don't reinvent the wheel. Look at what's already working. Find a
+successful finance channel in your niche. As an example, I've chosen this channel called Nick Invest. This
+channel started over 5 month ago and it's exploding right now. So, copy their last 10 to 15 video titles into
+a list and head to chat GPT with this prompt. This prompt will brainstorm new original ideas based on a
+successful channel and hit generate. In few moments, chat GPT will generate you original ideas. So, pick the
+one that excites you most. That's your first video. Step four, write your script using Claude. This is where
+Claude shines. It handles long-form content better than chat GPT. So, open Claude and paste this prompt.
+Insert your video title where it says your video topic. Hit enter and wait. Claude will generate your full
+script. Step five, turn your script into image prompts. Now, we need visuals to match every part of your
+script. So, copy this prompt into chat GPT. This prompt will generate your scene prompts based on your script
+with mood, style, and visual elements and hit generate. Chat GPT will give you a numbered list of image
+prompts. Save these, then create motion prompts to animate these images. For that, we will use this prompt.
+This prompt will describe the animation corner for each image like camera movement, rotation, and speed.
+Perfect. Now, we have both image prompts and motion instructions. It's time for creating our visuals. Step
+six, generate all your visuals. All right, Now we're going to generate all the visuals with Grok AI. So open
+Grok and click imagine in the left sidebar. Make sure you're in image mode first, then upload the same base
+character you saved in step two as a reference. So Grok keeps the face, outfit, and style consistent. The base
+character will appear automatically. So click in top right of the image where it says edit image, then take
+scene one from your prompts list, paste it into the prompt box, then hit generate, look at the results, and
+pick the cleanest one. And if something is off, don't rewrite everything. Just tweak one thing only. Like make
+the background simpler, or make the character looking at the chart, then generate again and save the final
+image. And once scene one is done, you repeat the exact same process for scene two, scene three, scene four
+until you've generated and downloaded every single scene image. Now it's time to turn them into motion clips.
+So go back inside Grok, imagine, upload the first image created, paste the matching motion instruction for
+this image from step five, and hit generate. A short clip around five seconds is ready. Download it and repeat
+for every scene until you have a full folder with your images and their animated versions. All consistent,
+clean, and ready to drop into CapCut for the final edit. But before that, we need to add a voiceover to to our
+finance script. Let's move on. Step seven, create your voiceover. Head over to 11 Labs. Pick a voice that
+sounds professional, but friendly. Something like Luke or Daniel. Paste your script into the text box and hit
+generate. Listen to the first 30 seconds. >> to this. It's 3 days before payday. >> Does it sound natural? If
+not, adjust the stability and clarity sliders. More stability equals calmer tone. More clarity equals sharper
+pronunciation. Generate the full voiceover and download it as an MP3 file. Now it's time for the last step,
+assembling everything together. Step eight, edit everything together in CapCut. Open CapCut free version,
+create a new project, and import your voiceover first. This becomes your timeline backbone. Then import all
+your video clips and drag them onto the timeline above the voiceover. Align each video clip with what the
+voiceover is discussing. If the narrator mentions compound interest, show the visual about compound interest.
+Add captions. Click text auto captions. CapCut will transcribe everything automatically. Style your captions.
+Use a bold readable font, Montserrat or Poppins. Make keywords stand out in yellow or white. Keep captions at
+the bottom third of the screen. Lastly, preview your video. Does it flow? Are visuals matching the voiceover?
+If sounds good, export it in high resolution. And that's it. Your first video is ready to publish. Picture
+this. It's 3 days before payday and you're staring at your bank account, $27. You've got groceries to buy, gas
+to put in your car, and that sinking feeling in your stomach that you've been here before, many times before.
+Last month, you promised yourself things would be different. You even got a raise 6 months ago, but somehow
+you're still living paycheck to paycheck and you have no idea where all the money went. If this sounds
+familiar, you now have a complete finance video system using only free AI tools. So, pick your topic, follow
+these steps, and upload our first video >> [music] >> today. Then do it again tomorrow and the day after,
+because that's how you build a channel that compounds [music] one consistent upload at a time. If you found
+this helpful, hit the like button. Subscribe to AIPreneur for more AI money tutorials [music] and drop a
+comment telling me what kind of finance video are you going to create first. Thanks for watching, and see you
+next video.

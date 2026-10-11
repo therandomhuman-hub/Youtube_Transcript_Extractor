@@ -1,0 +1,92 @@
+Title: I Asked Claude To Make Me $30,000/Month On YouTube
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: -Mh-moQddzw
+URL: https://www.youtube.com/watch?v=-Mh-moQddzw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:59:06+00:00
+
+Kind: captions Language: en So, I just came across this channel here on YouTube and saw that they're making
+$31,000 per month. When I checked them out even further, I saw that they only started YouTube 1 month ago. And
+that video has over 600,000 views. But, it gets even crazier than that, because I found another channel that
+looks super similar. And this one was making $24,000 per month. And again, they only started 1 month ago. At
+this point, I thought it was just a crazy coincidence. But again, I found another channel. This one is making
+a bit less. It's $4,500 per month. But, what stood out to me with this channel is that they started only 12
+days ago. With their top video having almost 800,000 views. So, what's going on here? How is it in just a
+couple of days that these channels can be pumping out hundreds of thousands of views and making tens of
+thousands of dollars, while I've been grinding on YouTube for a few months now and still have only 500
+subscribers. Well, the similarity that I noticed is that they're all faceless YouTube channels. What I mean by
+this is that it's a channel where you can create content and build an audience without ever actually appearing
+on camera. Now, I've tried every AI side hustle under the sun. Talking about voice agents, chatbots, and even
+Cloud skills. The thing is, none of those have gotten me the returns that these channels are making. So, in
+this video, I'm going to show you exactly how you can make these faceless YouTube videos using Cloud. So, the
+question I started to ask myself is, how can we make these videos with AI? And it really comes down to
+breaking it into multiple different components and seeing how AI can be used for each of them. The first
+component is the script. And with the script, I noticed that all of the videos are 5 to 10 minutes long if we
+look at the timestamp here. And they're all weird questions that you would ask. Like, what was life like for
+ancient cats? What happens inside your brain the moment you die? What actually happens at a crow's funeral?
+This is something we can generate pretty easily using Cloud. And we could do that by giving it a bunch of
+examples with the transcripts and have it create something new. Or the method that I'm going to use is take an
+existing video and turn it into one of these faceless YouTube videos. The next thing I noticed was the voice
+and all the voices for those channels were the same. They were all monotone. They were all males and they were
+all American. So, it's possible to generate this with a voice agent tool with something like 11 Labs. They
+have different options here. So, you can see James and in English. So, totally possible to do this with AI. I
+heard YouTube is cracking down a little bit on videos that use 11 Labs or generated voice. So, if you needed
+to, you could record it yourself or try to get someone who fits this category to record it for you. Or again,
+if you're going to use the method that I'm using in this video, you can take a video that already exists, one
+that has these three criteria, and then convert that into a faceless YouTube video. And lastly was the images.
+All of them are using this cartoonish-like stick figure imagery that looks like it was just drawn and even the
+text, really. So, the one I'm going to be creating in this video is what do animals think of humans? We're
+going to recreate this video with AI that has almost 800,000 views on YouTube in just 12 days. The way we're
+going to go about this in this video is by taking an existing video, the one that did well, we're going to
+pull out the audio from that. We're going to turn that into a transcript. From the transcript, we'll create
+the images that we need for our faceless video. And then we'll put the faceless video images together with the
+audio to create our own faceless video. If you're making a new video from scratch, you would do that by taking
+all of the existing video references, extract all the transcripts from them, create a new transcript for your
+new video, use that to make images and make audio. This would be 11 Labs and this would be an image model. And
+then put it together to create a faceless video. So, the first step we want to do is go to the video that we
+want to make a faceless video of. And I'm going to copy that URL. And we're going to put it in a YouTube
+downloader. And the reason we're going to do this is that we can get the video file on our desktop. And we can
+pull out the audio. So, just paste it in here and then click download, and you should see it start download
+onto your computer. Next, you'll want to open up Claude Code on the desktop app. And make sure you're within
+the folder that you downloaded to. So, I downloaded it to a folder called Claude. And now that I'm in this
+folder, I'm going to run a skill. And this skill is really just going to kick off the entire process for us. I
+did all the heavy lifting, so you just need to run it. But if you want this skill completely for free, the
+link is in my description below. So, now that we're in the folder, we're just going to run {slash} SW YouTube
+Creator and click enter. It's still running right now, but you can see that it took the file that we
+downloaded, it extracted the audio, and it turned it into a transcription. You could see the output of some of
+that transcription right here. Where it has the timestamps and then the text that goes with it. Just pulling
+it up in the actual file here, we can see the transcript if I open it. It goes line by line and has the actual
+time that goes to the sentence that it was said. Also, just want to note that to generate we're going to use
+this site called Replicate. And Replicate is pretty awesome. It just hosts a ton of different AI models that
+you can use. It does text generation, video generation, and even image generation as well. And the specific
+model that we're going to use is this Black Forest Labs Flux 1.1 Pro. It makes pretty good images, not super
+expensive. It's 4 cents per output image. And if we look at the ratios, we could actually do a 16 by 9 ratio,
+which is perfect for YouTube. Now, to use this for ourselves, we're going to want to copy this MCP config.
+Here's the actual URL for it. And you would just copy this. And in your session before you start the skill,
+you just paste this in and it will ask you to put your token. To get your token, all you have to do is go back
+to replicate. You click on your user account here, go to API tokens, and you can generate a new one here and
+just copy it. Once you paste that in, you just go back to here and say set me up with this and click enter. We
+can see that's trying to add the MCP config. We're going to allow that. And here's where you'd put in the
+actual API token. And once that's done, that would allow you to actually generate the images. So, back over to
+our session running the faceless YouTube video, I added this option here. So, you can do different time
+intervals. You could do the whole video if we want. I'm going to make the first 30 seconds so we can see as a
+test run how it goes. So, let's choose 30 seconds here. Look back in our folder, it actually created a prompts
+file. So, each timestamp has a prompt with it that's going to be sent over to replicate to generate the image.
+Great, we see that's working amazing. It's sending the images over to replicate now all at the same time and
+it's going to pull them back down when it's finished. I also want to mention that the skill extracted just the
+audio file from the video that we wanted to create. That way we can put it back in for our video. We can keep
+watching here and the images that are downloaded go into this folder. And we can see all of them right here.
+So, if we check out the first one, there it is. So, pretty good actually. All right, so now it looks like
+we're on the last step and it wants to combine all the images together with the audio and create our video.
+So, we will allow that. And in just a few seconds, we should have a completed video. Awesome. So, let's take a
+look at the actual video here. >> Have you ever looked into an animal's eyes and wondered what they think of
+you? Not what they feel, not whether they like you, but what they actually think you are. To a dog, are you
+family? To a cat, are you staff? To a bird, are you a strange featherless giant? And to a wild animal, are you
+a threat, a curiosity, or something so confusing that it does not fit into any category at all? The truth is,
+animals do not see humans the way we see ourselves. We think of ourselves as people with names, jobs, phones,
+>> All right, pretty good, right? That's a legit faceless video. So, all we do next is say, "Run it for the
+full video." Click enter, and that will do it for the entire over 6 minutes of the video. Now, if you enjoyed
+the video and you want to learn more about how you can use AI to make money online, then don't forget to
+subscribe or check out one of these other videos that I have here.

@@ -1,0 +1,279 @@
+Title: This Business Owner Replaced His 6-Figure Software Job with AI
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: hIVU_CKE6_c
+URL: https://www.youtube.com/watch?v=hIVU_CKE6_c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T16:04:45+00:00
+
+Kind: captions Language: en I started at Door Dash as a let's say like a mid-level engineer. So, I made the
+call after a certain point to just burn the boats and quit. >> This guy quit his job with a web app that he
+built using AI. How is this possible? It comes down to just two tools, Open AI and Discord. >> They're also
+able to prototype things that they would never be able to prototype just a few years ago and do it in an
+afternoon or maybe just an hour or a few minutes. In this video, we'll go over the wild story of how Ben was
+able to quit his job using AI to moderate online communities and how you can do the same. All right, what's
+up, Ben? Good to see you. >> Hey, Sean. Thanks for having me. Excited to be here. >> Yeah, man. Awesome. So,
+let's dive right into it. You were a engineer at Door Dash for a while. I think it was around 5 years. And you
+ended up quitting and moving to Thailand and starting to do indie hacking on your own. I'm just curious. So,
+what made you take that leap and decide that it was time to go for that big move? >> Yeah, it's interesting
+because I don't think it was one specific incident or even a couple specific incidents, but it was a long
+process of leading up to this moment where I decided it was right to quit and do my own thing. So, some brief
+context there. I started at Door Dash as a let's say like a mid-level engineer. I quickly got a promo to
+senior within, let's say, 6 months or something like that. And I was quite happy with the responsibilities I
+had at that time. Right? So I was building a lot of code from scratch. I had a lot of autonomy. I didn't have
+a lot of meetings. And then I eventually got a promotion to staff a couple years later. And then my
+responsibilities did a it took a turn in a certain direction. And that basically turned me into a project
+manager as well as somebody who needed to be in planning meetings all day and mentor other engineers on the
+team and still produce high quality code and do a bunch of different things that was draining my energy.
+eventually. So, I made the call after a certain point to just burn the boats and quit. When I did that, I
+thought to myself, all right, what I was just doing was obviously not making me happy, but what would and what
+have I not done in my life yet that I would regret not doing? And almost instantly, I got to this answer of
+starting a business because it'd been something I had I had had a knack for when I was a kid. I was like
+flipping web hosting accounts, but I made these like half-hearted attempts at trying something. And I had
+never really had time to myself to actually focus on doing a business 100% because I was always in school or
+had a job. And so it occurred to me that right now is a great time because I don't have those sort of
+responsibilities. And that's really what got me into it. >> Totally, man. I think a lot of people have that
+feeling where they're like, "This isn't really what I want to be doing with my life." moving away from the
+things that you actually love doing which is building coding and end up doing a lot more things that you don't
+really want to be doing like just managing and going to meetings and things like that and it's just scary
+making that leap. >> Yeah. Right. >> Yeah. So a lot of people I think glorify this leaving going on your own
+starting your own thing but I'm just curious about what is the reality of actually doing solo founding and
+indie hacking in moving to Thailand and doing this that people aren't really talking about. Yeah, obviously
+doing something like that is a huge step in a different direction in life. You have to think about a lot of
+things from visas to what are you going to do with all your stuff. I personally chose to sell everything and
+make that simple. But some things were a little bit more difficult to get rid of than others. I had some audio
+equipment that I really liked, but I obviously wasn't going to use it for the next couple years, so I decided
+it was better to sell. I think I'll answer this from a perspective of maybe what what some of the downsides
+were of doing that kind of move. So obviously a lot of people know the positives, right? The positives are
+there's a lower cost of living over in Thailand. The people are super nice. You'll meet lots of people
+starting businesses that you can learn from. Those are the big positives, right? The negatives I would say,
+and this first one is probably obvious, but if you're coming from the US and you're going to Thailand, that is
+a massive distance barrier that you have to contend with. So it is a 24-hour flight minimum if you don't hit
+any delays at all. And if you do, it's more like 30 to 36 hours. And so that creates distance from friends,
+maybe some family members that you have that are getting older that you'd like to see more often. So that
+creates some stress there. And then once you get there, there is a pretty significant language barrier. Now,
+it's not going to cause problems in I would say like everyday life. You can point at the different food items
+you want if you go out to a market and nobody's going to hold that against you. Thailand's very used to having
+foreigners and stuff like that. But if you want to form deeper relationships with locals, make local friends,
+have a romantic relationship, start a business, or do anything like that, you really have to know Thai. And
+this is something you can learn, but it's not the easiest language in the world. It's completely tonal. It's a
+completely different character set. And if you're trying to run a business at the same time you're doing this,
+I would say one of them is going to fall by the wayside because running a business is already quite all
+consuming. and and so that's a challenge related to that. I think there are some cultural differences when you
+actually go to start a business as I was pointing to a few seconds ago. One of those is that although people
+are super super friendly and watch out for each other, there's a negative to that where you'll find that
+locals are sometimes so friendly that they will agree to stuff that they know that they can't finish and
+they'll just they'll say, "Yeah, I can get that done. I'll have it done by tomorrow." And then tomorrow comes
+around and you're like, "So, how about that thing?" And then they're like, "Oh, yeah. I couldn't do it. Why
+did you tell me?" So, there's there's this, I'll call it like saving face that happens. And so, it's something
+you have to get used to and work around if you're trying to do business in Thailand. But overall, I would say
+very positive experience. It was a place I went to meet other early stage entrepreneurs and figure out what I
+was doing with business before I could think of moving back to the US where the cost of living is a lot
+higher. So, I had a great time there. >> Yeah, just an awesome life experience regardless of the business
+aspect of it. Just a really cool experience to add into your repertoire. One good thing that out of it is that
+you were able to try a bunch of different things to get one working for yourself. One of those being Watchdog,
+which came out of one of your personal problems that you were dealing with, hackers ending up taking down a
+community that you had. So, just curious, what are the different things you tried? How did you end up coming
+on to Watchdog? And when did that turn from this is something I'm experiencing with my own problems to this is
+something I actually help other people with? >> Yeah, makes sense. So, I'll start with Watchdog and then I'll
+tell you about some of the other ideas I had that didn't work out. Watchdog for me just makes sense because I
+have a background in community management. What Watchdog is, it's basically a anti-scam tool for high-risk
+online communities. So think prop trading, crypto gaming, these sorts of communities where they get lots of
+financial scams and people impersonating administrators and all sorts of bad stuff. So I used to run game
+servers when I was a kid and I've been involved in hosting and servers and gaming and all that kind of stuff
+for a very long time. And so I personally ran into this problem when I was moderating one of my own
+communities. I would go to sleep, I would wake up with a bunch of spam messages to manually clean up. And at a
+certain point that just gets to be too much where you can't as a single person deal with that without some
+kind of automation. But it took me a while to actually turn this into a business mainly because these AI
+models that are now so popular were not really out yet. And you could try to do some moderation with banned
+word lists. If you just put a bunch of commonly used bad words in a list and try to match against those, you
+can catch some things. But there are contextual clues in the message that you cannot catch doing that. And so
+that leads to a bunch of false positives or false negatives. So I really had to wait until the technology
+caught up with this idea I had to automate moderation. And as soon as that happened, I realized instantly that
+I could apply this to create a real product that people not just in gaming but in other industries could use
+to solve this problem. And as soon as I got a customer that was outside of gaming, I thought, "All right, I
+was right about that." It seems like there are people that, you know, are in these finance communities and
+other high-risisk communities that see a need for this as well. >> Yeah, for sure. This channel is all about
+AI because everyone knows how powerful it is, but people are trying to find ways that you can build things
+that are actually useful, different ways that you can help people, help yourself, and like actually make money
+from it. And that's something that you were able to do. So, what is it about these AI models that really puts
+it over the top rather than just like you mentioned doing those automods and keywords? What is it that this AI
+enables you to do differently that you weren't able to do before? >> Absolutely. So, there's a bunch of
+different ways scammers will try to take advantage of users, and I'm not going to reveal all of those so as to
+not give new potential scammers the tools to scam more people. But a really common one that you might see is
+Unicode character replacement. So if you have the word hello and you have hello in a band word list for
+example, that's easily going to get caught. But if you have the same word hello but spelled out using emojis,
+like an emoji h and emoji e and so on, you're not really going to be able to catch that. And it's not even
+just that one example. You could write hello in like cursive unicode characters. And there's a bunch of
+variations of different accents and letters you could do to where you'd have to have a band word list of like
+10,000 combinations for each word. So obviously that doesn't scale. But what an AI model can do is analyze the
+context of the message and see all right this is hello written in cursive. Does this violate the rule that the
+community manager has set even though it's written in a different character set? So, it's able to do that sort
+of analysis of the message on a deeper level and that's really what allows it to be successful. >> That's
+awesome. That's a really cool use case for using AI and some of just the powerful ways that you can leverage
+its context to make decisions. And one question I have about that is how do you make sure that it's not overly
+protective? if the owners of these communities are typing rules just by writing full sentences. So, how do you
+make sure that only prevents scammers and not just normal community members? >> Yeah, it's a great question.
+This is actually something that caused me a lot of pain when I first launched the product because the first
+version of the product, you could just log into a a dashboard and you could put in whatever you wanted as a
+sentence and I didn't give the community managers any kind of input in terms of how to write it or what to
+write. And it was somewhat surprising to me at the time in hindsight, again, obvious, but people that run
+communities don't often know the type of rules that they want to have. They just want the product to work,
+which is the case with a lot of products. They want the spam to be blocked. They don't want to have to think
+about it. So, after I actually lost a couple customers over that, I decided to add in these presets. So, now
+you can have presets that you could select. And one of them might be if you have a crypto community, there's a
+crypto preset with rules about certain things that communities of that type want to block, which are different
+than the rules that a gaming community might have and different than the rules that a prop training community
+might have and so on. So using that preset up front has prevented a lot of problems because usually people
+will just go with the preset that is recommended to them and they don't need to make too many changes. And
+those are presets that I've extensively tested with some of my best customers. So I know that they're working
+to a high degree of accuracy and now they can still feel free to customize it. So I've had some people change
+a couple of the presets or remove a couple of them if they don't need some of the rules, but it at least gives
+them a starting point and that prevents most of this issue. >> Yeah, I like it. Just that iterative approach
+of starting with something that had some issues and then adjusting it over time based on your customers
+feedback and now you're at where you are now and you got a lot of customers and it's working well. So, that's
+that's super awesome. I'm curious, where do you see the direction of this AI content moderation and community
+moderation going in the future? Do you think you'll be able to have a fully autonomous community moderator
+that will work 24/7 for you, or do you think there's always a need to have a human in the loop at some point
+in the process? The way I see Watchdog is it is a it is a help to moderators that are already there. I really
+built it for the solo community owner that simply doesn't have time to manually scan every single message, not
+necessarily for big companies that have unlimited compliance and moderation budgets. And for people that are
+running a community solo or with a small team, there's a lot of tasks you have to think about and you don't
+have the budget to delegate those tasks to other people. So some of those might include moderation, running
+events, talking to users, analyzing what's going on in the community to figure out what posts to create next
+to get engagement, all these different things. And I think where Watchdog can come in is automating some of
+the most repetitive of those tasks. So the moderation piece, automatically answering repetitive questions and
+learning from the replies that the moderator gives if it doesn't know the answer and taking care of really
+just the worst of the tasks you have to deal with as a community manager so that your time is freed up to do
+more important things. More important things being the talking to the users part being thinking creatively how
+to make the community better. I think that's really what humans are quite good at. And the, as I said, the
+worst of those tasks, the moderation, just the absolute drudgery can be automated away. >> For sure. Yeah. And
+I think a lot of people, including me, find AI to be amazing at doing this, which is probably why it works so
+well for Watchdog, where you're able to take and automate away those really tedious, repetitive friction
+points that aren't really moving you in the direction you want to go. which is something that you need to do
+working in the business as opposed to being able to work on the business and determine new direction,
+strategy, growth, and learn a little bit more about like you said your customers. So, expanding a little bit
+outside of Watchdog now and just AI space in general, u you're pretty integrated into the indie hack
+community, right? When you were in Thailand, you were part of IndieHacker community there. You started up
+Hackey York in New York and we're going to talk about that a little bit too. I got some questions for you, but
+where do you see AI coming in to change one, how indie hackers are building their products, and two, what kind
+of products they're going to be building? Now, >> I think there's a sort of a two-part answer there. The first
+part of that is I think it's already changed how indie hackers are building products. What I see and what I
+observe and what I do myself to some extent is use AI to prototype much faster than I would have been able to
+prior. And this is even more extreme of an effect for people that don't know how to code. So I know some
+non-technical founders that are somewhat dependent on AI, maybe to their detriment, but they're also able to
+prototype things that they would never be able to prototype just a few years ago and do it in an afternoon or
+maybe just an hour or a few minutes instead of having to spend a week and hiring a developer for $3,000 a day
+or whatever they're paying. and it's just saving a lot of time in that prototyping phase. Now, I think that
+there's a double-edged sword to that, which is if you depend on the models too much to generate all your code,
+you may not understand what was just generated. So I think it's a competitive advantage to know how to code
+and really understand on a low level what's happening because let's say you have a you have an outage and the
+internet's down or whatever not the internet necessarily but let's say like the cloud code API is down or the
+cloud API >> did have a big AI outage the other week so >> they did yes there's outages everywhere but to not
+have to depend on another tool so much to maintain the reliability of your system because really you own it
+and you need to be able to to reason about it yourself without outsourcing your thinking too much. >> But yes,
+sense mainly as a a very useful prototyping tool is how I I've seen this used recently. >> Have you seen it
+open the doors to allow a lot more of these non-technical founders who may have great ideas, may not have that
+technical expertise or the money like you mentioned to hire a developer. Do you find that it's opened the
+doors for a lot of those kinds of people to be able to start this journey? >> Absolutely. Yeah. There, like I
+was mentioning, the non-technical people are really finding a lot of value out of this because they can
+quickly prototype something or even if they want to recruit a technical co-founder or hire a team, they at
+least can now have something to show them and they can say, "Hey, I put in at least some effort to create this
+first version of it myself." And that's a better cell than just saying, "Hey, do you want to build my idea?"
+So that's already providing some value there for sure. >> Awesome. Awesome. Are there any AI powered apps that
+you're currently building and are in the works now or that you're thinking about building in the future? Oh,
+I'm always thinking about 25 different ideas, but the what I'm trying to focus on right now is Watchdog simply
+because I'm seeing that gain customers each month and people are giving me good feedback and they're telling
+me they like it and it's saving them a lot of time. So, I want to make sure I'm focused on that as it
+continues to grow. But, there's plenty of industries that I think could be disrupted by AI or are already
+being disrupted. I've seen a bunch of apps to automate away lawyers and at least various tasks lawyers are
+doing. I'm personally into aviation and I think that there's opportunity there to use AI models to have better
+radio communication or to have better understanding of radio communication and so these are areas I'm thinking
+about but realistically I'm focused on the community moderation piece of this at the moment. >> So I want to
+ask a little bit about hack York as well which is the indie hack community that you started that meets on
+Fridays in New York City. That's actually how I met you as well joining this community. It's super awesome.
+What gap did you notice existed that you were trying to fill by creating Haki York in New York and where did
+you get the inspiration? >> Yeah, so the inspiration really came from a group called Hackam Vit when I was
+over in Thailand and Hacky York's actually a member of a network of groups worldwide of these sort of indie
+maker meetups that meet once a week. We get together, we we do some intros of who we are, what we're working
+on that day, and then we eat some lunch together, then we demo, and then we go out for beers if there's time.
+So, the reason I started to do this is because even before I left for Thailand, I I recognize that there might
+be a gap in specifically indie maker sort of meetups in New York City. There are actually quite a few people
+here that are working on their own projects, but most of the meetups are centered towards office workers and
+people that just want some social hour to go to after they finish their day job to talk about technology. Not
+really people that are building stuff from scratch. So, this is a meetup that's centered on the true makers
+that are building projects from zero. And many of us are doing that full-time. You don't have to, but a lot of
+us are. and those that aren't are still building really cool projects in their free time and this is a forum
+to actually build those projects and get feedback and work directly with other founders that are in a similar
+position. So that's why I started it and I'm glad you're finding value. >> No, for sure. I found the same
+exact thing looking for different communities in the city and not really seeing much. And since joining, I've
+learned a lot, met some really cool people, building some awesome products. And as always, we're going to grab
+a beer after this for sure. But yeah, so I just wanted to close off with just two more final questions for
+you. So first off, think about the engineer that's currently sitting in a corporate job. Maybe they don't like
+what they're doing or they have aspirations to build their own thing someday. you've been there and you've
+gotten over that to the other side. So, what do you think people need to hear to finally take that leap to go
+do it on their own? And then maybe a more realistic question is what kind of runway do you think they need to
+be able to do that? >> Yeah. So, I I'll answer the runway part of that first. I think runway really depends on
+a few things. Number one, how what's your risk tolerance? Are you the type of person that's willing to drop
+everything and sell everything and move to another country as I did to see if you can make the business thing
+work? Or do you want to maintain the lifestyle you have and stay where you are? Because depending on where you
+are, it could be a much higher price tag to pay to fund yourself on a new business venture for a long period
+of time. So, you have to ask yourself what type of person you are, where you want to be. But I would say at
+least save around a year's worth of expenses no matter where you are. I think that is a smart thing to do
+simply because even if you find the best business idea in the world, you may spend a few years trying to get
+that to make any money at all or maybe not any money at all. You can make your first few dollars in the first
+few months, but to really see some traction, it takes time in my experience. And so if you only have a month
+of money saved and then you can't magically land a $10,000 a month customer in the first month, then you've
+got to get another job or move back to where you started or something like that. And I saw that happen a lot
+over in Southeast Asia. People would come over without doing too much planning and then realize, oh wait, none
+of my business ideas are working. I need to go back and make some more money so that I can come back again.
+And so to save yourself the the stress of constantly moving back and forth across the world or worried about
+being able to make ends meet, it's better to just do some financial planning up front for most people. There
+are exceptions, of course. People quit, have nothing lined up, and no money saved, and then make something
+work. But I think you have a much higher chance of making things work if you if you give yourself a little bit
+of buffer there. >> I think that really is going to help a lot of people understanding, okay, the position of
+where they need to be. But for those people that are on the fence about it, maybe they've done the
+calculations on what runway they need, what are those final words and encouragement that you know helped you
+get over that fence to go take the jump, do it on your own, and maybe what they need to hear to kind of get
+over that fear. >> Yeah. So to get over the fear, it's a good question. I think what I would say is you have
+it starting a business is really hard. So, first of all, you have to know that you want to do it because if
+you only half want to do it, you know, you're going to get stuck at a certain point. You're not going to feel
+like doing marketing certain days. You're not going to feel like talking to users or writing code or doing
+whatever it is related to the business. So, unless you have a personal desire to do this, I would say don't.
+But if you do, just practice what I would like to call regret minimization. So, that's something I heard from
+Jeff Bezos a long time ago. But essentially, if you have a decision you're thinking about and you would regret
+not doing it, you should probably just do it. So, at a certain point, it's useful to stop thinking so much. As
+long as you have your money in place and you know it's something you want to do, just go do it. That's what I
+did. I put in my two weeks notice and then I went right to work after that. So, if I can do it, you can do it.
+>> Yeah. >> Love that, man. Love that, man. Yeah. Definitely the message that people need to hear. So last
+question, a personal question, but where do you see yourself in the next three years? What's next for you? Is
+it continuing Watchdog? What are you looking for in business and in life? Where do you see yourself? >> Yeah.
+So, where I'm at right now is I'm back in New York City trying to grow Watchdog. And I'm going to keep doing
+that until I hit certain goals I have for myself. Now, I think anyone would be super happy with a massive
+exit, like a trillion dollar exit. you'd have to be a fool to turn that kind of thing down. But that's not the
+goal. The goal is to continue building useful products that help people. And so that's why I'm working at
+Watchdog. Um, I get a lot of personal satisfaction from hearing people say that the tool is saving them tons
+of time. They no longer have to scan the member list for all these scammers and they have time to do other
+stuff. So, I like seeing people's lives and businesses and things like that improved by the stuff that I work
+on. So, I'm going to continue with that and really not worry about too much else. I do have goals I want to
+hit, like I said, and I've already hit some of them. First customer, first 10 customers, 100 a month, 500 a
+month, 1,000 a month, 5,000, 10,000, but these are different milestones, and I'm being intentional to not grow
+too quickly. I'm not going to hit all these in one month. I have hit some of these already, but I'm really
+growing sustainably and taking my time to get things right versus raising a bunch of VC funding and burning
+through that and in a month and then freaking out and just trying to do growth at all costs. That's not what
+I'm about. So, >> awesome, Ben. Thank you, man. You're awesome. The products that you've that you've been
+building, the communities that you built, definitely helping a lot of people. So, appreciate you. And just
+lastly, where can people find more about you, about the products you build, and about the communities that
+you're building? >> Absolutely. So, I'm working on a few projects right now. One of them, as I've been talking
+about, is Watchdog. You can go to watchdog.ch. And if you have a community that's struggling with content
+moderation issues, I'd love to help you out. If you want to host your files, download page.io. And if you're
+an India maker in New York City, visit hacka york.com. H A C K A York.com and you can join us and hack with us
+once a week. Finally, I've got a Twitter. Twitter is ben_makes stuff. Give me a follow, subscribe, all that
+good stuff. And thank you very much for having me, Sean. Appreciate it. >> Yeah, link links to all that will
+be in description. And yeah, let's go grab a beer. >> Sounds good. Thank you to Ben for coming on the channel
+and sharing what he's building. My favorite part is that he found something that people wanted to do before AI
+in content moderation and found a way that AI can do this so much better and easier. And I think there's
+something to learn there of finding these opportunities that you can arbitrage with the new abilities that AI
+has to offer. Along those lines, if you want to start learning how you could build with AI yourself, I just
+made a video that I will link right here on how to create animated websites using Cloud Code and Nano Banana.

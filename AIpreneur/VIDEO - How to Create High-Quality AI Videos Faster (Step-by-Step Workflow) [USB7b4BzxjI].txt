@@ -1,0 +1,100 @@
+Title: How to Create High-Quality AI Videos Faster (Step-by-Step Workflow)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: USB7b4BzxjI
+URL: https://www.youtube.com/watch?v=USB7b4BzxjI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:36:27+00:00
+
+Kind: captions Language: en Look at this video. In 2041, the city watches everything, especially the man who
+built it. Elias Vaughn returns to the system carrying guilt coded into every line. Maricade sees his face
+again and duty collides with buried loyalty. Cinematic lighting, dramatic characters, a story that feels like
+it cost thousands [music] to produce. Now, here is the truth. This entire story was made with zero budget,
+zero paid tools, and in less than [music] 20 minutes using a free automation stack that most creators have
+never even heard of. And by the end of this video, you'll be able to do the exact same thing in bulk. Welcome
+back to AIpreneur, where we turn free AI tools into a real income. Today, I am walking you through a viral
+workflow that generates Hollywood-style AI videos in bulk for free and with consistent characters [music]
+across every scene on autopilot. I have spent weeks testing automation stacks, but this one is the best free
+pipeline I have found. And it works even if you have never made a video before. It's a step-by-step,
+beginner-friendly guide that show you how to create a completely free cinematic story with a full set of
+consistent characters from start to finish. Step one, create your story and scene prompts with ChatGPT. This
+is where we build the creative foundation, a dramatic, cinematic story with locked characters and detailed
+scenes, all done in under 10 minutes. So, open ChatGPT and start a fresh conversation with this prompt that
+describe the structure and the style of your story. In just a few moment, ChatGPT will give you a complete
+cinematic story with all the character style and structure you need. Next, in the same conversation, paste
+this second prompt that convert your story into a detailed scenes prompts. Copy all these prompts, you will
+need them in the next step. Step two, generate consistent scenes with Auto Whisk. In this step, we will create
+every images with perfect consistency. Same faces, same costumes, and same cinematic style across all frames.
+Now, open Google and search Auto Whisk automation for Whisk AI. Install it from the Chrome Web Store and pin
+it to your toolbar. Then, click the Auto Whisk extension icon and select version two. But, before we run the
+bulk generation, we need to create two character reference images first. This is the secret to consistency.
+So, go back to Chat GPT and paste this prompt that keep the consistency between characters in your story.
+Next, open Google Whisk in a new tab. Paste your character one prompt and hit generate. This image becomes
+your visual anchor. Click the left arrow icon to save it and then drag it into the subject box in the left
+sidebar. Repeat the same thing for character two. Generate, save, and drag into the second subject box. Now,
+lock the visual style. Go back to Chat GPT and paste this prompt that fix the style of your story. Paste that
+style prompt into Whisk, generate the image, drag it into the style box, and don't forget to enable the style
+checkbox and both subject checkboxes. Now, go to Auto Whisk. Paste all your scene image prompts from step one.
+Click start and choose run on this project to apply your character and style references. In a few moment, Auto
+Whisk will generate every scene image automatically and download them all to a numbered folder on your
+computer. This takes between 10 [music] to 15 minutes. In the next step, we are turning these images into
+cinematic videos and this is where the real magic happens. Step three, bulk video automation with Grok AI
+automation. This step changes everything. We are using the Grok AI automation extension to convert every
+single one of those consistent scene images into animated video clips completely automatically using the frame
+to video engine. Here's why frame to video is the right mode for our workflow. Instead of generating
+characters from scratch with text prompts, which risks inconsistency, we're feeding in our consistent whisk
+images and telling Grok exactly how to animate them. Same faces, same costumes, perfect continuity. So, let us
+set it up. Firstly, open Google and search AutoGrok Automation for Grok AI. Install it from the Chrome Web
+Store and pin it to your toolbar. Next, open Grok AI at grok.x.ai and log in with your X account. Now, click
+the Grok Automation extension icon and Grok AI will now work side-by-side on your screen. This is your
+automation magic weapon. Look at the panel of the extension and you will see four generation modes: text to
+video, frame to video, image to video, and image to image. Select frame to video. This is the mode that takes
+our scene images and animates them with cinematic motion. Now, before we run anything, configure two important
+settings. The concurrent prompts, leave this at default. It handles the automation sequencing. And the prompt
+delay, set this to 10 to 15 seconds. This is the gap between each prompt in bulk generation. Do not rush it.
+This small delay prevents errors and failed generations during the batch run. I recommend 15 seconds for clean
+results every time. Now, before we upload anything, we need cinematic animation prompts, one per scene. So, go
+back to ChatGPT and paste this prompt that describe the animation of story scenes. In a few moment, you will
+get tight and powerful prompts like, "Camera slowly pushes in as the detective steps into the rain-soaked
+alley." Or, "Character turns, eyes locked forward, wind moving through the coat." Now, go to your AutoGrok
+download folder. Your scene images are already numbered in order. Scene one through your final scene. In the
+Grok automation panel, you will see an image upload area at the top of the frame to video section. Drag your
+scene images in order. Scene one first all the way through to your final scene. The extension will list them
+in sequence. Now, paste all your animation prompts from Chat GPT into the prompt box in the exact same order
+as the images. Scene one prompt matches scene one image. Scene two prompt matches scene two image. Every
+prompt lines up with its scene. Now, it is time to set up the extension before we run like this. Aspect ratio
+set to 16:9 for YouTube or 9:16 for shorts, depending on your target platform. Output videos set to one video
+per prompt. Duration set to 6 seconds per clip. Auto download enabled. Download quality set to 720p minimum.
+Now, hit run and watch what happens. The Grok automation extension takes scene one image, pairs it with scene
+one animation prompt, sends it to Grok AI, generates the video, downloads it automatically, then moves
+straight to scene two. It repeats this for every single scene without you touching anything. You can track the
+progress right in the extension panel. It shows how many clips are done and how many are left. And because
+we're animating our whisk reference images, not generating new characters from text, every single video will
+have the exact same characters. Same faces, same costumes, same cinematic world. Scene one through scene 12,
+perfect continuity. This takes between 15 to 20 minutes. Now, you are done with the hardest part. Let us move
+to the next step. Step four, create your cinematic voiceover. As your videos are generating in the background,
+let us give this story a voice that matches its cinematic quality. First, we need a narration script. So, go
+back to Chat GPT and paste this prompt. And when Chat GPT asks for the story, paste your full story and
+cinematic Bible from step one. In seconds, you will have a perfectly timed narration script. Now head to
+elevenlabs.io and sign up for a free account. The free plan gives you 10,000 characters per month, more than
+enough for several videos. Paste your narration script into the text-to-speech interface. Open the voice drop
+down. For a Hollywood dramatic tone, I recommend Adam for deep, confident delivery, or true crime for a
+cinematic thriller feel. Preview each one, pick your favorite, hit generate, then download the audio file. You
+will use it in the next step. Step five, assemble everything in CapCut. Perfect. Now our Grock videos are
+downloaded and your voiceover is ready. It's time to put all together in CapCut's free desktop editor. So,
+open it, create a new project, and import all your scene videos and your audio file. Start by dragging your
+voiceover onto the timeline. This is your foundation. Everything synchronizes to the narration. Then, drag
+each video clip above the audio to match its scene. Your clips are already numbered from the Grock animation,
+so this goes fast. Once all clips are on the timeline, add transitions between each clip. Go to transitions in
+the top menu and choose something cinematic, dissolve, or gradual fade work. Great for a Hollywood feel. Then,
+add auto captions. Go to text, click auto captions, and CapCut generates synced subtitles instantly. Pick a
+bold caption style, dark background, or outline works perfectly for cinematic content. Finally, add background
+music. Click audio, then sounds, search for cinematic or dramatic orchestral tracks. Drop the music volume to
+around 20% so it supports the narration without overpowering it. Lastly, click export, choose 1080p, and let
+CapCut render. A few minutes later, your cinematic AI story is done and ready to upload. That is it. You just
+created a cinematic story in bulk with just five easy steps and a clean workflow which enabled you to save a
+lot of time. Now, here is your challenge. Create your first AI story today and let me know in the comments if
+it worked for you. And if this helped you, smash that like button and subscribe to AI preneur. I drop new free
+automation workflows like this every single week. Let us build something amazing together and see you next
+time.

@@ -1,0 +1,113 @@
+Title: AI Engineer Explains: ONE CHANGE Makes Claude Code 5x Cheaper (In 5min) | GLM 5.2 vs Claude Opus 4.8
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: MnyBlkaof2o
+URL: https://www.youtube.com/watch?v=MnyBlkaof2o
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:56:39+00:00
+
+Kind: captions Language: en If you're anything like me, then you're probably obsessed with Claude Code right
+now and using it every single day to build new things. But what you may not know is that you're probably
+spending five times more than you need to on token costs alone. That's because a brand new model just dropped
+called GLM 5.2 and it performs just as well as Anthropic's best model Opus, but at a fifth of the price. This
+video, I'm going to show you exactly how you can set this up for yourself and put it directly into Claude Code
+so you can get all of these price benefits without changing the way that you actually work. This whole thing
+only takes 5 minutes, so it might just be the best ROI activity that you do all year. Real quick, if you don't
+know who I am, my name is Shawn and I'm an AI engineer. And I've been building automation and AI workflows for
+billion-dollar and Fortune 500 companies for the last 5 years. Let's get started. The company that just
+released these GLM models is called Z.ai and it's actually a Chinese company, but these models are pretty
+insane. If you scroll down to the large language models here, we'll see all the GLM models here to the left.
+And the newest one is GLM 5.2. Now, what makes these models pretty crazy is that they compare super well to
+the other Anthropic models, as well as other ones from like Gemini and OpenAI. And you can see here the
+comparison of GLM 5.2 to Opus 4.8. It's super close. I mean, you can see the percentage, right? 74.4 on this
+benchmark versus 75 and a few other ones as well. So, the difference is pretty negligible at best. And it
+really does depend on the benchmark, so we'll get into exactly when you should use it first when you shouldn't
+use it in a bit. But I just want to show you up front here how similar it is. We can see some other benchmarks
+as well. And what we really care about is this GLM 5.2 to Opus 4.8 comparison. Before we get any deeper into
+the performance, I just want to show real quick some of the pricing because obviously if the cost of GLM
+wasn't less than Opus, then we wouldn't really care about this to begin with. I did my own analysis of GLM
+versus Opus and I think it's important to note that there's three different types of differences when it comes
+to token pricing. Obviously, you have input tokens, which is the amount of tokens you're sending when you're
+sending in a prompt. And then you have output tokens, which is the amount of tokens that the model is
+responding with. Both of these things you get charged for, but you also have a third type here in the middle,
+and that's called cached input. Don't know what a cache is, that means that you send in a prompt one time and
+it gets cached so that instead of being charged every single time you send in that exact same prompt, the AI
+model reme- members it and it doesn't charge you any extra. It actually only charges you this cache price,
+which is a lot less expensive than a normal input. So real quick, let's do a comparison here for the inputs,
+GLM is going to cost you $1.40 per million tokens, while Opus 4.8 is going to cost you $5. So Opus is 3.6
+times more expensive. When that input is cached, however, GLM is going to charge you $0.26 per million tokens,
+while Opus is going to charge you $0.50. So again, Opus is more expensive, this time just under two times more
+expensive. And lastly, this is where the biggest difference comes, and that is the output tokens. So when the
+model is sending a response back to you, GLM is going to cost you $4.40, while Opus is $25. So 5.7 times more
+expensive to run Opus. And this is pretty significant, right? If you're using AI all day and you're sending in
+prompts, you're using it for coding or doing these long-running tasks, this is going to add up over time. And
+you look up at the end of the month and your AI bill is through the roof. Even when we're not looking at
+individual token pricing, we're just comparing the base plans, we can see that Claude has $17 per month as
+their cheapest paid plan, with the max plan going from $100 a month, I think it goes up to like $500 per
+month. And of course, this is cheaper per year, like the pro plan is $200 if you pay all up front for a year.
+But this is just a baseline that we can use to compare it to GLM. Now on the GLM side of things, the cheapest
+plan is $12.60 per month or $150 per year. So that's already 25% cheaper than the $200 pro plan. And then they
+have more levels as well with their pro and max plan. And I think one of the cooler things too is that you can
+pay monthly for a 10% discount, quarterly for 20%, or yearly for 30%. So, a lot of different pricing options.
+Just increases the flexibility overall. Now, let's take a look again at my analysis and check out the
+performance differences. And I already showed you a couple of the bar charts to begin with that compared the
+Opus 4.8 model with GLM 5.2. But, this has all of them here directly from the documentation. And it's split up
+into three different sections. There's the code writing benchmarks, agentic and tool use benchmarks, and then
+general reasoning. And we can go through one by one and do a comparison here, but if you generally look
+overall, you can see that Opus is slightly better, but not by a significant amount. There's certain benchmarks
+that does do a lot better with. Like this one you can see is 20 points higher. This one is 11 points higher.
+But, there's also some that are very, very insignificant. Like this one is 0.8. Right. So, what this goes to
+show us is that they're very comparable, but there's certain situations that you actually might want to use
+Opus instead of the GLM one. So, what are those actual situations? When you want to use GLM 5.2, this is for
+very contained single run tasks that you're going to do at volume. So, think about very repetitive work. When
+the tool calls are very simple and you're using very simple MCPs and doing the same ones over and over again,
+again, you'd probably want to go for GLM. The same goes for drafting up content and doing first passes, like
+brainstorming, and just doing high volume things overall. And again, the reason that you want to use GLM for
+this as opposed to Opus is because the output is very similar, but at a fraction of the price. On the other
+hand, there's times when that price is justified because the output is much better. So, those scenarios is
+when you do a long-running multi-step agent workflows, you're going to do something from scratch and create an
+entire code base or system with multiple files. Again, a long-running task. If it's something that is very
+high stakes and you're going to be showing it directly to a client, you probably want a better thinking model
+like Opus to work on that. And if there's chains of tools instead of very simple MCP calls, where one tool is
+calling another tool, again, you'd probably want to use Opus. One of the other things about GLM is that they
+have their own coding assistant. You can see there's a terminal tool and an IDE tool. So, both of these are
+very similar to Claude Code. But, what's really important to remember is that Claude Code and this coding
+assistant are just harnesses for using AI. What I mean by that is it's like having a different code editor,
+right? You may prefer Cursor or Windsurf or VS Code or Anti-Gravity. They're all different flavors of the same
+thing. But, inside you're still writing code. So, when we're talking about these coding assistants or
+harnesses, they can use different models. And while they're built to use one specific type of model, like
+Claude Code is built to use the Anthropic models of Opus, Haiku, and Sonnet, there's ways that you can change
+it to use other models. And that's exactly what I'm going to show you now. How we can start using these GLM
+models within the existing Claude Code harness, cuz for me personally, Claude Code is my favorite coding
+assistant to use. And I don't really want to change that, to be honest. Us engineers are kind of stubborn
+sometimes. To get started with this, the first thing you want to do is create an account with Z AI. Once you
+do that, you should be able to go to the console. So, if you go to the coding plan here, we can see that
+there's a way to add API keys. So, put in your information to create a plan, like add in billing, and then go
+to the API keys, and you can do add API key. We're going to do that. We're going to call this demo for now and
+just create it. Make sure you copy this and store it away for later, cuz we're going to need it. What you want
+to do is go into a terminal now and paste this command. And Z has this built-in helper for you that gets this
+set up. So, once it loads this, you'll go down to the API key, say update API key, and then this is where you
+paste in the one that you had. So, go ahead and paste that in. It's going to validate that it's actually
+successful. And now you can choose to configure Claude code. And then we click apply configuration. And cool.
+So, it says that the GLM configuration was successfully loaded. So, let's exit out of this. Let's do clear.
+And we can actually confirm this by opening up and I'm going to use Anti-Gravity for this. But, you open up
+your Claude/settings. json. I'm going to blur out the off token on my end, but you can see here that it added
+in this new base URL. And this one is going to be pointing at z.ai. So, what it's doing now is it's sending
+all the requests to z.ai with your off token. There's just a few other variables that we're going to want to
+add here so that it is pointing to the right models. Uh so, we'll do a comma here, go down, and paste these
+in. So, with this we're telling Anthropic to point the Haiku model at GLM 4.7. And we're going to point the
+Sonnet and Opus models at GLM 5.2. And this right here is saying to use a 1 million token context window,
+which actually matches what Opus does. If you did this all correctly, we should now be using these GLM models
+within Claude code. So, to confirm that, go back to your terminal and we're going to start a new session by
+typing Claude. Off the bat, we can see that it's using GLM 5.2. But, if we do {slash} status, we'll see again
+that it's using the model. It says Opus here because that's what we set it as in the settings. But, we
+converted Opus to be GLM 5.2, which it shows right here. Just to test this out to show that it's actually
+working now, we could say, "What day is it?" And it'll go through. It'll send it now to GLM 5.2 on z.ai side,
+and it gives us this response back. So, now your Claude code is fully hooked up using a fifth of the token
+price for getting very similar outputs. Now that you have Claude code up and running, you might be interested
+in learning how you can connect it to other data sources. So, I have a video right here you can check out and
+it shows how you can connect CloudCode to Google Ads, as well as how to use some of the newer features like
+routines. So, you can trigger these workflows automatically or on a schedule without you even having to touch
+the chat at all. Thanks for watching and make sure to subscribe if you want to continue seeing real AI use
+cases and how you can get actual results using these new AI tools.

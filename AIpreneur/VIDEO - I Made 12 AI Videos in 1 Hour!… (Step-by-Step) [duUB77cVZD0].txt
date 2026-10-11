@@ -1,0 +1,135 @@
+Title: I Made 12 AI Videos in 1 Hour!… (Step-by-Step)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: duUB77cVZD0
+URL: https://www.youtube.com/watch?v=duUB77cVZD0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:39:38+00:00
+
+Kind: captions Language: en If you have ever tried making 3D stories, you know the pain. Your character
+changes every scene. The style doesn't match and everything takes forever. That was me until I built a
+completely free workflow that generates full 3D story videos in bulk with consistent characters, even if you
+have never animated anything in your life. And the best part is that it only took me an hour of work. 3 weeks
+ago, I was ready to spend 40 hours for a single video. Yesterday, I generated a 12 scene cinematic story
+before my coffee finished. In this video, I'll give you the exact workflow step by step from start to finish.
+So, watch carefully and attentively how this step-by-step workflow run, especially the third step where the
+magic happens. Welcome to AI prneur and let's get started by the step one. Step one, craft your 3D story
+blueprint with chat GPT. This first step is all about engineering a story framework that guarantees perfect 3D
+character consistency across every frame. We are using Chat GPT to build what I call a story DNA, a blueprint
+so detailed that your characters will look identical from scene one through the final frame. So, open chat GPT
+and head straight to the main chat interface and paste this custom prompt I've developed specifically for 3D
+Pixar style content. Hit send and watch chat GPT construct your complete story framework. This isn't just a
+story. It's a technical blueprint designed for visual consistency. Now, here's where it gets interesting. We
+need to transform these scene descriptions into precise image generation commands that Whisk can execute. So,
+in the same chat thread, drop this follow-up prompt. You will find all prompts in the pinned comment. Chat CBT
+will now convert your story framework into productionready image prompts. Copy all 12 of these. You're going
+to need them in about 60 seconds when we fire up the automation engine. But before we move to image
+generation, let me tell you why the next step is going to blow your mind. We're about to generate all 12
+images with identical characters using a tool that most creators don't even know exists. Step two, batch
+generate perfect 3D characters with Autoisk. This is where we mass- prodduce your story images while
+maintaining pixel perfect character consistency. We're using a Chrome automation tool that operates like
+having a personal production assistant who never gets tired. So, open Google and search for this exact phrase,
+AutoWISK Automator for Whisk AI. You're looking for a free Chrome extension that turns the manual Whisk
+workflow into an automated free production line. Once you spot it in the Chrome web store, add it to your
+browser. Then click the auto whisk extension icon that now appears in your toolbar language options at the
+top. Select your preference. Below that, the interface shows two different versions. And for this 3D workflow,
+we want the second version. Click on it to activate that mode. Now, here is the technique that makes or breaks
+character consistency. We need to create master reference images for each character first, then lock them into
+the generation system. These references become the anchor that keeps every scene visually coherent. So jump
+back to same chat GPT conversation and enter this new prompt. This prompt will describe all characters
+reference in your story. Hit start and Chat GPT generates two clean character reference prompts. Copy the
+first one and open Google Whisk in a fresh browser tab. Paste that first character prompt into Whisk's main
+input field and click generate. Your first character materializes in 3D glory. This is your consistency.
+Anchor the reference image that will keep this character looking identical across all 12 scenes. Click the
+arrow icon in whisk to save this image to your workspace. Then drag the character image into the subject box
+in the left sidebar. Uncheck the box for now. We will activate it in a moment. Repeat the exact process for
+character 2. Paste the second prompt into Whisk. Generate it. Save it to workspace. Then click the plus icon
+in the subject section to add a second slot and drag character 2 into that second subject box. Now we lock in
+the visual style. Return to chat GPT and ask. This is how we will create the style reference of our story.
+Then hit generate and copy chat GPT style prompt. Paste it into Whisk and generate that style image when it is
+ready and drag it down into the style box in Whisk's left sidebar. Here is the critical step. Check all three
+boxes, style and both subject boxes. This tells Whisk to inject your locked characters and style into every
+single image it generates next. Miss this step and you'll get random characters in every scene. Now we are
+ready to unleash the automation. So head back to your Autoisk extension and paste all 12 image prompts that
+chat GPT created earlier into the main text field. Click start. Autoisk asks if you want a new project or to
+use the currently open one. Choose run on this project. This is crucial because it means every generated image
+will use your locked character and style references. Watch what happens next. AutoWIS takes control of Whisk,
+automatically inputting each prompt, clicking generate, waiting for the result, downloading the image, then
+moving to the next scene. Zero clicking from you. Your characters stay identical because they are being
+generated from the same reference images every time. The whole batch downloads automatically to a numbered
+folder on your computer. Expect this to run for about 12 to 18 minutes depending on Whisk's processing speed.
+Use this time wisely. Maybe grab a snack, check your email, or keep watching because you need to know what is
+coming in step three where static images transform into cinematic motion. We are about to animate these 3D
+frames using a tool that just changed the entire game for independent creators. Step three, bring your scenes
+to life with Grock animation. This is the transformation moment where frozen 3D renders become living,
+breathing cinematic sequences. We are using Gro's imagetovideo engine and the results are genuinely stunning.
+So, navigate to Grock on the X platform and sign into your account. Grock's video generation technology reads
+your images and adds natural motion, camera movement, and atmospheric animation that looks professionally
+produced. But first, we need motion blueprints, short instructions that tell Grock exactly how to animate each
+scene. These aren't story descriptions, they're cinematography commands. So, back in your same chat GPT
+conversation and paste this prompt that will describe the animation directive of our story. Then, hit
+generate. In a second, Chat GPT delivers 12 compact animation commands. Each one engineered to work with Gro's
+processing system. These prompts focus purely on motion and camera work without trying to change the actual
+content of your images. Copy all 12 animation directives. Now, navigate to the folder where autoisk saved your
+scene images and verify their sequence correctly. Scene 1, scene two, all the way to scene 12. Now, here's
+your workflow for each video. Upload scene one image to Grock's imagetovideo interface. Paste the scene one
+animation directive into the prompt field, then generate. Grock process the image and returns a smooth video
+clip with your 3D character in motion. Camera movement applied and those atmospheric touches that make it feel
+alive. Download scene one video once it's complete. Then move to scene two. Upload image paste directive.
+Generate download. Continue this workflow through all 12 scenes. Yes, this is a one by one process, but here's
+why it's worth every minute. Grock's animation quality is unmatched in the free tools category. And because
+you're feeding it your consistent character images from Whisk, every video clip maintains perfect visual
+continuity. Your character doesn't morph or shift between scenes. They stay locked. Lastly, create a dedicated
+folder on your desktop and save each completed video with its scene number. Keep them organized in sequence
+because assembly is coming fast. Now, it's time to prepare the next step where we add the emotional layer that
+turns good animation into compelling storytelling. Step four, generate studio quality narration with 11 Labs.
+In this step, we will add the emotional voice that ties your visuals together and gives your story its
+heartbeat. And for that, 11 Labs delivers voice quality that's indistinguishable from human narration. And the
+free tier is generous. But before we generate audio, we need a narration script calibrated for 3D animation
+timing. So head back to Chat GPT and input this prompt. That will generate the narration script for our story.
+Hit start and in a few moments, chatgbt generates a clean timed narration script with mood indicators. So,
+open 11labs.io and create a free account if you haven't already. The free plan offers 10,000 characters
+monthly, plenty for multiple story projects. Once inside, you'll see the texttospech workspace. Paste your
+complete narration script into the main text field. Next comes the voice selection, and this matters more than
+you might think. Click the voice dropown to browse the library. For storytelling, I lean toward voices with
+warmth and natural variation. Adam delivers confident, clear narration, while Bella brings a softer, more
+intimate storytelling quality. Click the preview button next to voices to hear them speak your script. When
+you have found the perfect voice for your story, verify the settings are standard and then hit generate. 11
+Labs processes your script and within moments you have broadcast quality narration that sounds human. >> Milo
+Bright Leaf runs happily as Luna Pebbleton reads, "Beginning a gentle, hopeful day." >> Download your audio
+file. By now, your animated clips from Gro should be wrapped up and ready. Time to move to final step where we
+assemble all the pieces into a finished production. Step five, edit and export your final video in Cap Cut.
+The final step is assembly and combining your animated clips, voice over, music, and captions into a polished
+3D story ready for upload. Caput's free desktop editor handles this perfectly. So, launch Caput and start a
+new project. Import all your Grock generated video clips and the 11 Labs voiceover file into your media
+library. Here is the assembly sequence. Drag your voiceover audio to the timeline first. This becomes your
+master track that everything else synchronizes to. Second, play through the audio and when you hear the
+narration for scene one, drag the scene one video clip onto the video track above, positioning it to match.
+Continue scene by scene, matching each video to its corresponding narration. Since your files are numbered,
+this flows quickly. Once all clips are placed, add captions. Click text in the top menu and then select auto
+captions. Cap Cut analyzes your voice over and generates perfectly synced subtitles automatically. Choose a
+caption preset. I prefer styles with bold text and contrasting backgrounds for maximum readability. Hit apply
+and your entire video now has professional captions. Next, smooth out the scene transitions. Click transitions
+in the menu. For 3D animated content, subtle transitions work best. Dissolve and fade maintain the cinematic
+flow without being distracting. If you want something with more energy, cross blur or wipe can work for
+specific moments. Drag your chosen transition between each clip on the timeline. Time for background music.
+Click audio, then sounds, and search for music that matches your stories. Emotional tone, uplifting,
+adventurous, gentle, whatever fits. Drag your selected track to the audio timeline below your narration.
+Critical adjustment. Reduce the music volume to 12 to 18% so it supports the narration without competing with
+it. Your video is now complete. Click export in the upper right corner. Select 1,80p resolution for quality
+and let Cap Cut render the final file. In a few minutes, you'll have a professional 3D Pixar style animated
+story complete with consistent characters, smooth animation, quality voice over, captions, and music. Upload
+ready for YouTube, Tik Tok, Instagram, wherever your audience lives. >> Milo runs happily as Luna reads,
+beginning a gentle, hopeful day. The compass spins. Milo wonders while Luna leans in. Curious and calm.
+Together, Milo and Luna choose a goal. Standing with quiet determination. They step into the woods cautiously,
+excitement mixing with careful breaths. Milo decides quickly. Luna hesitates, trusting him hopefully. Lost and
+quiet, they sit discouraged, learning patience in the stillness. Luna thinks creatively, and Milo listens,
+hope returning gently. They walk on together calmly, trusting the compass and each other with determination.
+>> And that is it. Five steps, three free tools, zero animation skills, and you just unlocked a workflow that
+most people still think requires a studio budget. But the real power here is consistency. This isn't make one
+video. This is build a system. Do this daily and you can easily publish 8 12 Pixar style stories every week.
+Push them to multiple platforms and grow faster than creators who spend days on a single animation. Now, I
+want you to do one thing. Make your first story today. Pick a simple plot, generate your scenes, and post it.
+And if you need a full automated workflow, check out this video where you don't need to monitor anything from
+start to finish. Don't forget to hit like, subscribe to the channel, and see you next tutorial.
