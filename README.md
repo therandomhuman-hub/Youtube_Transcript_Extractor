@@ -4,7 +4,7 @@ Scheduled, resumable transcript collection for every channel listed in [`channel
 
 ## Features
 
-- Automatically scheduled every six hours by GitHub Actions.
+- Automatically scheduled four times per day by GitHub Actions (00:17, 06:17, 12:17 and 18:17 UTC).
 - Tracks old and new uploads per configured channel, including Shorts.
 - Deduplicates videos, uses YouTube manual captions first and original-language automatic captions as a fallback.
 - Resumes incomplete work from each channel's `transcript_manifest.json` and skips transcripts already saved.
@@ -53,13 +53,14 @@ Optional settings: `USE_WHISPER_FALLBACK=true` enables local faster-whisper fall
 
 ## How completion works
 
-A channel is not labeled complete if enumeration failed, a transcript is missing, or an item is unresolved due to unavailable captions or an extraction failure. Failed work remains in its manifest so a later run can retry it. Large channel histories can take several scheduled cycles, because GitHub Actions has a finite run-time limit. The tool cannot guarantee access to private/deleted/restricted videos or availability of captions; it does not bypass access controls.
+A channel is not labeled complete if enumeration failed, a transcript file is missing/corrupt, or an item is unresolved after an extraction failure or authentication challenge. An item with no parseable caption tracks can be recorded explicitly as `NO_CAPTIONS`; that terminal outcome remains in the manifest and audit, does not count as a saved transcript, and does not by itself block channel completion. Failed work remains in its manifest so a later run can retry it. Large channel histories can take several scheduled cycles because GitHub Actions has a finite run-time limit. The tool cannot guarantee access to private/deleted/restricted videos or the availability of captions; it does not bypass access controls.
 
 ## State files
 
 - `channels.txt`: channel URLs you control.
 - `channel_state.json`: latest status for each normalized URL.
-- `last_run_report.json`: summary of the most recent run.
+- `last_run_report.json`: machine-readable summary of the most recent run.
+- `last_run_report.md`: human-readable summary with per-channel counts and errors, also shown in the GitHub Actions step summary.
 - `<channel>/transcript_manifest.json`: durable per-video processing state.
 - `<channel>/transcript_audit.csv`: per-video audit.
 - `<channel>/collection_summary.txt`: human-readable totals and scan results.
@@ -111,7 +112,7 @@ Every scheduled archive run now refreshes deterministic ZIP snapshots for comple
 
 ## Long-run safety and completion policy
 
-The scheduled archive attempts a bounded number of new transcripts per channel (default: 6 per run), so a large channel cannot monopolize a run. Adjust the workflow-dispatch input `max_items_per_channel`; `0` means unlimited and is intended only for controlled runs.
+The scheduled archive attempts a bounded number of transcript items per channel (default: 12 per run), so a large channel cannot monopolize a run. Adjust the workflow-dispatch input `max_items_per_channel`; `0` means unlimited and is intended only for controlled runs.
 
 Run reports are checkpointed after each channel. Channel state, transcript manifests, audit CSV, and collection summaries are checkpointed after each attempted item. A finalization step records the collection-step outcome and preserves partial checkpoints on timeout or failure. Run reports and channel state are also uploaded as a GitHub Actions artifact for 14 days.
 
