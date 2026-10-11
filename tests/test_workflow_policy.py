@@ -26,11 +26,12 @@ def test_archive_workflow_reports_failures_and_publishes_zips():
     assert "git push --force" not in workflow
 
 
-def test_report_only_or_workflow_only_edits_do_not_trigger_full_collector():
+def test_archive_collection_is_schedule_or_manual_only():
     workflow = (ROOT / ".github" / "workflows" / "transcript-archive.yml").read_text(encoding="utf-8")
-    push_paths = workflow.split("  schedule:", 1)[0]
+    triggers = workflow.split("permissions:", 1)[0]
 
-    assert '"multi_channel_runner.py"' in push_paths
-    assert '"youtube_channel_transcripts.py"' in push_paths
-    assert '".github/workflows/transcript-archive.yml"' not in push_paths
-    assert '"scripts/finalize_run_report.py"' not in push_paths
+    # Source changes should run the fast validation workflow, not start a costly
+    # full-channel collection that competes with the scheduled backfill.
+    assert "\n  push:" not in triggers
+    assert "  schedule:" in triggers
+    assert "  workflow_dispatch:" in triggers
