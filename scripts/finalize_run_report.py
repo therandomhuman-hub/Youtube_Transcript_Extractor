@@ -84,14 +84,14 @@ def render_markdown_report(report: dict[str, Any]) -> str:
             f"| {channel_label} | {cell(item.get('status') or 'UNKNOWN')} | "
             f"{saved} / {known} | {int(item.get('no_caption_items', 0) or 0)} | "
             f"{int(item.get('unresolved_items', 0) or 0)} | "
-            f"{int(item.get('attempted_this_run', 0) or 0)} | \`{folder}\` |"
+            f"{int(item.get('attempted_this_run', 0) or 0)} | `{folder}` |"
         )
     lines.extend([
         "",
         "## Interpretation",
         "",
-        "Run completion and channel backfill completion are different. A channel marked \`IN_PROGRESS\` still has unresolved items even if the scheduled run itself succeeded.",
-        "An explicit \`NO_CAPTIONS\` outcome is auditable and may satisfy the channel completion rule, but it is not counted as a saved transcript.",
+        "Run completion and channel backfill completion are different. A channel marked `IN_PROGRESS` still has unresolved items even if the scheduled run itself succeeded.",
+        "An explicit `NO_CAPTIONS` outcome is auditable and may satisfy the channel completion rule, but it is not counted as a saved transcript.",
         "",
     ])
     return "\n".join(lines)
@@ -196,6 +196,9 @@ def main() -> int:
     elif args.status == "cancelled":
         report["run_status"] = "CANCELLED_PARTIAL" if merged_results or checkpoints else "CANCELLED"
         report["failure_reason"] = "The workflow was cancelled. Any committed/checkpointed results are reported; uncommitted runner files may not have been published."
+    elif args.status == "skipped":
+        report["run_status"] = "PARTIAL_FAILURE" if merged_results or checkpoints else "SKIPPED_BEFORE_COLLECTION"
+        report["failure_reason"] = "The collection step was skipped, so no new transcript requests were made in this run."
     elif merged_results or checkpoints:
         report["run_status"] = "PARTIAL_AUTH_BLOCKED" if auth_blocked else "PARTIAL_FAILURE"
         report["failure_reason"] = "The transcript collection step failed or timed out; saved files, manifests, channel state, and available partial checkpoints were preserved."
