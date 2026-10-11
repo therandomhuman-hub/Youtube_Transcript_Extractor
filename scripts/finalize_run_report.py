@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -25,6 +26,75 @@ def write_json_atomic(path: Path, payload: Any) -> None:
     temp = path.with_suffix(path.suffix + ".tmp")
     temp.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     temp.replace(path)
+
+
+def render_markdown_report(report: dict[str, Any]) -> str:
+    """Render a human-readable per-run summary alongside the machine-readable JSON."""
+    def cell(value: Any) -> str:
+        return str(value if value is not None else "").replace("|", "\\|").replace("\n", " ").replace("\r", " ")
+
+    started = report.get("run_started_at") or report.get("run_at") or "Unknown"
+    finished = report.get("finished_at") or report.get("finalized_at") or "Unknown"
+    rows = report.get("results", [])
+    if not isinstance(rows, list):
+        rows = []
+    lines = [
+        "# YouTube Transcript Archive — Run Report",
+        "",
+        f"- **Run ID:** {cell(report.get('run_id') or 'local/manual')}",
+        f"- **Run status:** {cell(report.get('run_status') or 'UNKNOWN')}",
+        f"- **Workflow step outcome:** {cell(report.get('workflow_step_outcome') or 'UNKNOWN')}",
+        f"- **Started (UTC):** {cell(started)}",
+        f"- **Finished/finalized (UTC):** {cell(finished)}",
+        "",
+        "## Run totals",
+        "",
+        "| Metric | Value |",
+        "|---|---:|",
+        f"| Configured channels | {int(report.get('configured_channels', 0) or 0)} |",
+        f"| Channels checked/reported | {int(report.get('processed_channels', 0) or 0)} |",
+        f"| Completed channels | {int(report.get('completed_channels', 0) or 0)} |",
+        f"| In-progress channels | {int(report.get('in_progress_channels', 0) or 0)} |",
+        f"| Channels with errors | {int(report.get('error_channels', 0) or 0)} |",
+        f"| Authentication-blocked channels | {int(report.get('auth_blocked_channels', 0) or 0)} |",
+        f"| Channels not reached in this run | {int(report.get('remaining_channels', 0) or 0)} |",
+        f"| Transcript attempts in this run | {int(report.get('attempted_transcripts_this_run', 0) or 0)} |",
+        f"| Transcripts saved in this run | {int(report.get('saved_transcripts_this_run', 0) or 0)} |",
+        f"| No-caption outcomes recorded in this run snapshot | {int(report.get('no_caption_items', 0) or 0)} |",
+    ]
+    if report.get("failure_reason"):
+        lines.extend(["", f"> **Run note:** {cell(report['failure_reason'])}"])
+    lines.extend([
+        "",
+        "## Per-channel results",
+        "",
+        "| Channel | Status | Saved / known | No captions | Unresolved | Attempted | Folder |",
+        "|---|---|---:|---:|---:|---:|---|",
+    ])
+    for item in rows:
+        if not isinstance(item, dict):
+            continue
+        name = cell(item.get("channel_name") or item.get("channel_url") or "Unknown channel")
+        url = str(item.get("channel_url") or "").strip()
+        channel_label = f"[{name}]({url})" if url.startswith("https://www.youtube.com/") else name
+        folder = cell(item.get("folder") or "")
+        saved = int(item.get("saved_total", 0) or 0)
+        known = int(item.get("known_items", 0) or 0)
+        lines.append(
+            f"| {channel_label} | {cell(item.get('status') or 'UNKNOWN')} | "
+            f"{saved} / {known} | {int(item.get('no_caption_items', 0) or 0)} | "
+            f"{int(item.get('unresolved_items', 0) or 0)} | "
+            f"{int(item.get('attempted_this_run', 0) or 0)} | \`{folder}\` |"
+        )
+    lines.extend([
+        "",
+        "## Interpretation",
+        "",
+        "Run completion and channel backfill completion are different. A channel marked \`IN_PROGRESS\` still has unresolved items even if the scheduled run itself succeeded.",
+        "An explicit \`NO_CAPTIONS\` outcome is auditable and may satisfy the channel completion rule, but it is not counted as a saved transcript.",
+        "",
+    ])
+    return "\n".join(lines)
 
 
 def main() -> int:
@@ -65,6 +135,9 @@ def main() -> int:
             "known_items": int(record.get("known_items", 0) or 0),
             "unresolved_items": int(record.get("unresolved_items", 0) or 0),
             "no_caption_items": int(record.get("no_caption_items", 0) or 0),
+            "video_count": int(record.get("video_count", 0) or 0),
+            "short_count": int(record.get("short_count", 0) or 0),
+            "auth_required_count": int(record.get("auth_required_count", 0) or 0),
             "last_checked_at": checked,
         })
         saved_checkpoint_total += int(record.get("saved_this_run", 0) or 0)
@@ -95,6 +168,7 @@ def main() -> int:
         if str(item.get("channel_url") or "").strip().casefold() not in result_urls
     ]
     merged_results = results + checkpoint_only
+    report["results"] = merged_results
     report["processed_channels"] = len({
         str(item.get("channel_url") or "").strip().casefold()
         for item in merged_results if str(item.get("channel_url") or "").strip()
@@ -106,6 +180,7 @@ def main() -> int:
     report["auth_blocked_channels"] = auth_blocked
     configured = int(report.get("configured_channels", report["processed_channels"]) or report["processed_channels"])
     report["remaining_channels"] = max(0, configured - report["processed_channels"])
+    report["attempted_transcripts_this_run"] = sum(int(item.get("attempted_this_run", 0) or 0) for item in merged_results)
     report["saved_transcripts_this_run"] = sum(int(item.get("saved_this_run", 0) or 0) for item in merged_results)
     report["no_caption_items"] = sum(int(item.get("no_caption_items", 0) or 0) for item in merged_results)
     if args.status == "success":
@@ -128,6 +203,12 @@ def main() -> int:
         report["run_status"] = "FAILED"
         report["failure_reason"] = "The transcript collection step did not complete and produced no channel checkpoints."
     write_json_atomic(report_path, report)
+    markdown = render_markdown_report(report)
+    (root / "last_run_report.md").write_text(markdown, encoding="utf-8")
+    step_summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if step_summary_path:
+        with Path(step_summary_path).open("a", encoding="utf-8") as summary_file:
+            summary_file.write(markdown + "\n")
     print(json.dumps({
         "run_status": report["run_status"],
         "workflow_step_outcome": args.status,
