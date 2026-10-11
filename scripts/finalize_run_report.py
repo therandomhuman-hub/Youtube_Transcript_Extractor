@@ -190,6 +190,14 @@ def main() -> int:
                 f"Collection process exited successfully, but {report['error_channels']} channel(s) had errors "
                 f"and {auth_blocked} channel(s) had authentication challenges."
             )
+        elif report["in_progress_channels"] or report["remaining_channels"]:
+            report["run_status"] = "RUN_SUCCEEDED_BACKFILL_INCOMPLETE"
+            report["failure_reason"] = (
+                "The collection step exited successfully, but the full backfill is not complete: "
+                f"{report['in_progress_channels']} channel(s) remain in progress and "
+                f"{report['remaining_channels']} configured channel(s) were not reached. "
+                "Checkpointed work will resume in a later scheduled run."
+            )
         else:
             report["run_status"] = "COMPLETED"
             report["failure_reason"] = None
