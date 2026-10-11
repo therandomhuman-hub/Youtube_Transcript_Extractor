@@ -70,7 +70,10 @@ def main() -> int:
         saved_checkpoint_total += int(record.get("saved_this_run", 0) or 0)
 
     report["workflow_step_outcome"] = args.status
-    report["finalized_at"] = utc_now()
+    finalized_at = utc_now()
+    report["finalized_at"] = finalized_at
+    report["updated_at"] = finalized_at
+    report["finished_at"] = finalized_at
     report["partial_channel_checkpoints"] = sorted(checkpoints, key=lambda item: item.get("channel_url", ""))
     report["checkpoint_channel_count"] = len(checkpoints)
     report["checkpoint_saved_this_run_total"] = saved_checkpoint_total
@@ -78,18 +81,49 @@ def main() -> int:
     if not isinstance(results, list):
         results = []
         report["results"] = results
-    report["processed_channels"] = len(results)
-    report["completed_channels"] = sum(isinstance(item, dict) and item.get("status") == "COMPLETED" for item in results)
-    report["in_progress_channels"] = sum(isinstance(item, dict) and item.get("status") == "IN_PROGRESS" for item in results)
-    report["error_channels"] = sum(isinstance(item, dict) and item.get("status") in {"ERROR", "SCAN_FAILED"} for item in results)
-    configured = int(report.get("configured_channels", len(results)) or len(results))
-    report["remaining_channels"] = max(0, configured - len(results))
+    results = [item for item in results if isinstance(item, dict)]
+
+    # Merge live checkpoints for a channel whose processing was interrupted before
+    # process_channel could append its final result. Existing final results win,
+    # preventing duplicate counts when a channel completed normally.
+    result_urls = {
+        str(item.get("channel_url") or "").strip().casefold()
+        for item in results if str(item.get("channel_url") or "").strip()
+    }
+    checkpoint_only = [
+        item for item in checkpoints
+        if str(item.get("channel_url") or "").strip().casefold() not in result_urls
+    ]
+    merged_results = results + checkpoint_only
+    report["processed_channels"] = len({
+        str(item.get("channel_url") or "").strip().casefold()
+        for item in merged_results if str(item.get("channel_url") or "").strip()
+    })
+    report["completed_channels"] = sum(item.get("status") == "COMPLETED" for item in merged_results)
+    report["in_progress_channels"] = sum(item.get("status") == "IN_PROGRESS" for item in merged_results)
+    report["error_channels"] = sum(item.get("status") in {"ERROR", "SCAN_FAILED"} for item in merged_results)
+    auth_blocked = sum(int(item.get("auth_required_count", 0) or 0) > 0 for item in merged_results)
+    report["auth_blocked_channels"] = auth_blocked
+    configured = int(report.get("configured_channels", report["processed_channels"]) or report["processed_channels"])
+    report["remaining_channels"] = max(0, configured - report["processed_channels"])
+    report["saved_transcripts_this_run"] = sum(int(item.get("saved_this_run", 0) or 0) for item in merged_results)
+    report["no_caption_items"] = sum(int(item.get("no_caption_items", 0) or 0) for item in merged_results)
     if args.status == "success":
-        report["run_status"] = "COMPLETED"
-        report["failure_reason"] = None
-    elif results or checkpoints:
-        report["run_status"] = "PARTIAL_FAILURE"
-        report["failure_reason"] = "The transcript collection step failed or timed out; saved files, manifests, channel state, and partial checkpoints were preserved."
+        if report["error_channels"] or auth_blocked:
+            report["run_status"] = "COMPLETED_WITH_ERRORS" if not auth_blocked else "COMPLETED_WITH_AUTH_BLOCKS"
+            report["failure_reason"] = (
+                f"Collection process exited successfully, but {report['error_channels']} channel(s) had errors "
+                f"and {auth_blocked} channel(s) had authentication challenges."
+            )
+        else:
+            report["run_status"] = "COMPLETED"
+            report["failure_reason"] = None
+    elif args.status == "cancelled":
+        report["run_status"] = "CANCELLED_PARTIAL" if merged_results or checkpoints else "CANCELLED"
+        report["failure_reason"] = "The workflow was cancelled. Any committed/checkpointed results are reported; uncommitted runner files may not have been published."
+    elif merged_results or checkpoints:
+        report["run_status"] = "PARTIAL_AUTH_BLOCKED" if auth_blocked else "PARTIAL_FAILURE"
+        report["failure_reason"] = "The transcript collection step failed or timed out; saved files, manifests, channel state, and available partial checkpoints were preserved."
     else:
         report["run_status"] = "FAILED"
         report["failure_reason"] = "The transcript collection step did not complete and produced no channel checkpoints."
@@ -99,8 +133,10 @@ def main() -> int:
         "workflow_step_outcome": args.status,
         "processed_channels": report["processed_channels"],
         "checkpoint_channel_count": report["checkpoint_channel_count"],
-        "partial_saved_transcripts": saved_checkpoint_total,
+        "saved_transcripts_this_run": report["saved_transcripts_this_run"],
         "remaining_channels": report["remaining_channels"],
+        "error_channels": report["error_channels"],
+        "auth_blocked_channels": report["auth_blocked_channels"],
     }, ensure_ascii=False), flush=True)
     return 0
 
