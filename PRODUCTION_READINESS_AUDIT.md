@@ -94,8 +94,8 @@ The repository currently contains four completed channel ZIPs:
 ## Live tests and CI
 
 - [Isolated Isaacverse live test](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/37965713278) passed for nine regular videos in that session. This validates one channel/session, not all channels or future runs.
-- [Latest successful validation before the current audit changes](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/38135200029) passed at commit `719609875ab4119e8aebc2162e90d4e61edc0d0b`.
-- Additional workflow policy and report tests were added during this audit; their new CI result must pass before the latest changes are considered fully verified.
+- [Latest validation after the audit changes](https://github.com/therandomhuman-hub/Youtube_Transcript_Extractor/actions/runs/38135712779) passed at commit `3cf40da9170cefbee41d44b9c2af3214b2e2ba88`; compilation succeeded and **26 tests passed**.
+- The current workflow policy, report-finalization changes, and refreshed audit document are covered by this passing CI run.
 
 ## Remaining risks / next checks
 
