@@ -1,0 +1,116 @@
+Title: Stop Creating Videos! Claude Code Just Changed YouTube Forever
+Channel: AIpreneur
+Type: VIDEO
+Video ID: oOw5cnNZVMs
+URL: https://www.youtube.com/watch?v=oOw5cnNZVMs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:12:15+00:00
+
+Kind: captions Language: en This video was made in under 2 >> [music] >> hours. In 1950, British mathematician
+Alan Turing asked a question that would change [music] everything. Can machines think? In 1956, a small group
+of scientists gathered at Dartmouth College and coined a new term. No editing, no designer, no experience. I
+just built that with one tool and one conversation. [music] While most people spend 10 hours making one video,
+this was built automatically with AI. And here is the part nobody is talking about yet. There is a tool right
+[music] now that can create entire YouTube videos for you. Animations, voiceover, [music] editing, everything.
+And if you are still doing it manually, you are already falling behind. Let me explain it in the simplest way
+possible, [music] like a step-by-step guide. >> [snorts] >> Step one, download and set up Claude Code. Now,
+before we start anything, I need you to do two quick installs. I know that sounds technical, it is not. I am
+going to walk you through every single click. And by the end of this step, Claude will be ready to build your
+first video. Let us go. The first thing we need is Claude Desktop. This is the AI brain behind everything
+you're about to build. So, open your browser and go to claude.ai/download. You will see a download button,
+click it. A file will land in your downloads folder. Double click that file. Keep clicking next, then install,
+then finish. Now, open Claude Desktop and log in with your account and leave it open. Quick thing before we
+move on, Claude Desktop is free, but the tool that actually builds your video, Claude Code, needs the pro plan
+for $20 a month. And what you're about to build with it worth more than that. Okay, let us keep going. Next,
+we need something called node.js. Don't let the name scare you. You are never going to open it or touch it. It
+just needs to exist on your computer so Claude Code can run. Think of it as the engine under the hood. Go to
+nodejs.org. You will see a big green button. It says get node.js. Click it. A file downloads. Open it. Next,
+next, next until install and finish. node.js now on your computer and you never have to think about it again.
+All right, now is where things start to get interesting. It is time for the main tool, Claude Code. This is
+what does the actual work, not you, Claude. You just talk and Claude builds. That feeling right there, that is
+real. Remember it. You will see the Claude Code interface load up with a chat box at the bottom. That chat box
+is your new editing suite. Before you hit submit on anything, look at the permission settings below the chat
+box. You will see options like ask permission, accept edits, and plan mode. Switch it to accept edits. This
+lets Claude work without stopping to ask you every step. Then, click select folder and create a new project
+folder to attach to the Claude Code chat. This folder on your desktop, this is where your finished video will
+be saved when you hit render. Everything lives here. Setup is done, all two tools installed, Claude Desktop
+and node.js. Now, the real thing begins because in the next step, we give Claude its video superpower. Once
+you see what it can do, you are not going to believe it only took this long to get here. Step two, install the
+Remotion skill. Here is where we give Claude its video superpower. Most people completely miss this part. Stay
+with me because what you are about to see next changes everything. In the Claude Code chat, ask Claude to
+install the Remotion skills. So, type this command in chat and hit enter. You will see Claude Code downloading
+and installing it automatically. It takes about 30 seconds. When Claude Code finishes installing the Remotion
+skill, the skill is loaded. This is where most people get confused. They think skill means something
+technical. It doesn't. A skill is just a set of instructions Claude remembers, like giving it a job
+description. Specifically, Remotion's own team wrote these instructions. So, Claude now knows exactly how to
+build videos the right way. Now, it already knows where your project is. It already [snorts] knows where the
+Remotion skill is. You do not have to do anything else to connect them. Now, pay attention because what you
+are about to see next is the part that completely changes everything. Until now, we have just been setting
+things up, nothing crazy yet. But this next step is where Claude stops being a tool and starts doing the work
+for you. Once you see this in action, you will understand why most people are still stuck. Step three,
+generate your first motion graphic. Now, this is where everything changes. You are going to describe your
+video in plain language and Claude is going to build it. For this example, we're making a video about the
+history of AI. This is a perfect niche with high demand and retention. Quick tip before you hit submit, start
+simple. Claude builds better when you focus on one clear concept first, then add details in follow-up prompts.
+If the first render looks off, just tell Claude what to fix. That is the workflow. Now, go into Claude Code
+chat and type this prompt that describe the assets of your video. Then hit enter and just watch. Claude writes
+the code, builds the project, and creates the animation all in one shot. When Claude finishes, tell it this,
+"Open Remotion Studio so I can preview the video." A browser tab opens automatically at localhost:3000. Press
+space to play and your video is right there, playing in real time. You just created a professional animated
+video without touching a single design tool. No Premiere, no After Effects, just one prompt and Claude Code
+that knows how to build. Now, here is the part nobody talks about and this is what separates good creators
+from great ones. You do not stop at the first render. You look at the preview and you give Claude one
+correction at a time. Tell it, "The text on scene two appears too early, delay it by half a second." Claude
+fixes just that scene. Keep the conversation going in the same session. Each prompt builds on the last. That
+iterative loop is where the magic actually lives. But here is the catch. This video would fail on YouTube
+because it has no voice, no story, no connection. That is exactly what we are fixing in the next step. Step
+four, add a sensed AI voiceover. Right now, your video looks good, but it feels empty. And empty videos don't
+keep attention. So, let us fix that. Go back to Claude Code chat. Paste your script and type this prompt. Now,
+put your script below and hit submit. Next, Claude Code will ask you to share your Eleven Labs API key. So,
+let me show you exactly how to get it because this is the one step that trips people up. Open a new browser
+tab. Go to elevenlabs.io and create a free account if you do not have one already. The free plan gives you
+enough credits to test this right now. Once you are logged in, look at the bottom left corner. Click on your
+developers. You will see a section called API key. There, you will see create key. Click it. A long string of
+letters and numbers will appear. That is your key. Click the copy button next to it. Share it to the Claude
+Code chat and just watch. In a few moments, Claude Code will preview your video again, but this time with a
+voiceover. Technology and history, artificial intelligence had finally entered everyday life. Today, Claude
+connects, generates the voice, and synchronizes everything automatically. No timeline, no keyframes, no audio
+editing. Just press play and you'll see it. Every word perfectly aligned with every visual. Let that sink in.
+What normally takes an editor over an hour, it just happened in seconds. Your video doesn't feel empty
+anymore, it feels real. Now, let us move to the next part and this is where your video goes from good to
+something people actually finish watching. Step five, enhance your video. Right now, your first video has
+animation and voice, but it still looks AI generated and low quality. So, back in Claude Code, type this
+enhanced prompt that improve and enhance the quality of your video. Now, hit enter and let Claude Code do the
+work like a pro editor. No manual importing, no layer sorting, and no asset management. When it finish, play
+it back and see the difference. Now, it feels like something you would actually watch until the end. That is
+it. But here's the thing, right now, this video looks good and it feels professional, but it is still not
+yours. There is no identity, no recognition. That is the difference between a video and a brand. So, in the
+next step, we fix that. Step six, branding. Now, it is time for branding. This is where your video becomes
+yours. Right now, it works, but it doesn't stand out yet. So, go back to Claude Code chat and paste this
+prompt that describes your brand assets. Now, hit submit and watch. Claude updates everything automatically.
+Colors, fonts, logo, all done in one shot. No manual design, no adjustments, no back and forth. Now, go and
+click render, then click render video. Claude runs the render command automatically. Your video exports, saves
+directly to the out folder inside your project. That is it. You just built a cinematic branded video from
+zero, without a designer, without an editor, without spending a dollar. Now, pause for a second because this
+is where most people stop. They build one video and they think they're done. But this is not about one video.
+This is about a system and once you understand this next step, everything changes. Step seven, scaling. Here
+is where this gets exciting. Your first video will take a couple of hours. Your second will take half that. By
+your fifth video, you have an automated workflow and a systems scale. This is where most creators stop
+thinking small and start thinking like a business owner. Because once the workflow is dialed in, you are not
+limited to one channel. You can run a fitness history channel, a science facts channel, a psychology in 60
+seconds channel, each one using the exact same Claude code and promotion system. Different niche, different
+scripts, and same production pipeline. And here is what that actually looks like in practice. I have created a
+new session, changed the topic to history of space exploration, updated the color accent to blue, and had a
+second complete video rendered in under 40 minutes. Same system, different niche, one person, and multiple
+channels, all running on AI. This is what YouTube automation actually looks like when it is built the right
+way. Not shortcuts, but a real scalable system. However, [music] here is the part I want you to really hear.
+Six months from now, this workflow is going to be everywhere. The creators [snorts] who started now, they will
+have the views, [music] the subscribers, and the income. The ones who waited, they will be watching those
+creators and wishing they would start it sooner. You already know which one you want to be. If you got value
+from this video, hit subscribe right now. Because this channel AIpreneur exists for one reason, to help people
+like you learn how to earn with AI. Every week, real tutorials, real tools, real income strategies. [music]
+Not theory, not hype, just actual step-by-step systems you can use today. And if you're ready to take this
+further, to build a complete faceless channel from niche selection to monetization, click the video on screen
+right now. That is where we go deeper. [music] Your first video starts now. Thanks for watching, and I will
+see you in the next tutorial. [music]

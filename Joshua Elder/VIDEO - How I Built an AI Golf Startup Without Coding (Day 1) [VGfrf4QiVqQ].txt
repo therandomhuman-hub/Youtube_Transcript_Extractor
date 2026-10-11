@@ -1,0 +1,124 @@
+Title: How I Built an AI Golf Startup Without Coding (Day 1)
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: VGfrf4QiVqQ
+URL: https://www.youtube.com/watch?v=VGfrf4QiVqQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:21:57+00:00
+
+Kind: captions Language: en Welcome to episode one, my friends. The purpose of this series really is to
+inspire you to go for your dreams, to show you that you could build your own digital asset, and build a
+business around it that pays you what you're worth using and leveraging the power of AI. So, today we're going
+to be showcasing an app that I started roughly about 60 days ago. And this app started, believe it or not, in
+my friend's backyard after a game of golf. We were just sitting there talking about how difficult it was to
+book tee times in the state of Utah. We're talking about golf tee times here. And every time you would go to
+book a tee time, you would have to go to multiple courses, you'd have to figure out the times that were
+available, and it was never aggregated all in one place. So, I figured I should be the first to do this.
+There's not a lot of people doing this. And so, I went to chat GPT, I created a mock-up image of what I wanted
+the website to look like, and then that's how this whole app started. And we ended up launching like a few
+short days after this the inception of this idea. So, I want to show you how simple it is to really start and
+build whatever it is that you want. And my goal in each and every one of these episodes is to get you to
+actually go and do it yourself. Whatever idea you have in your head, go out there and do it. So, let's go
+ahead and jump to the computer screen. I'm actually going to show you the app. I'm going to show you the
+website. I'm going to show you the functionality of it. I'm going to show you kind of the ins and outs of how
+it was built, how I started marketing it, so you can go out there and kind of jump-start your passion, your
+business, or maybe an app that you want to go ahead and start. So, let's go ahead and let's jump to the screen
+right here. So, this is a Utah tee time finder. So, all people need to do is either search for a course right
+here or they can use the AI search feature. For example, if I said something like "Could you give me the best
+availability this weekend?" It's going to look for available tee times this weekend here in the state of Utah.
+You can see the search filter right here, 25 mile radius for this weekend, Saturday, August 1st, any tee time,
+two players, 18 holes, and I can go ahead and change this to my liking as well. And you can see all the tee
+times that it reveals right here. You might be wondering "Josh, this isn't available out there for the state
+of Utah?" It is for some other states, and I did do some background research, obviously. I went and looked at
+the other apps that were available for Utah. They either had bad marketing or all the courses weren't
+aggregated in the database. They just maybe had a few courses. So, I saw gaps in that, and I'm like, there's
+some real opportunity for this. And so, that's kind of how it began. And then, I just simply took a mock-up of
+what I kind of wanted the website to look like based off of other websites that I've seen. Like, if I go to
+for example, I go to GolfNow right here. It's sort of the same except with GolfNow, if I want to search for
+tee times in Utah, they only have like one or two courses, that's it. So, that eliminates that competition.
+GolfNow is popular in states like like Arizona, for example, which that's kind of the next state that I'm
+going to be moving towards building an app around this as well. I want this to be a nationwide thing to where
+I can then take this app or these various apps that represent different states and aggregation of tee times at
+different states and sell this for, you know, multi-million um dollar business. That's kind of what the goal
+is, 10, 20 million dollars or more. So, it's not just about helping people book tee times faster, it's
+actually about also giving them notifications of canceled tee times at specific courses that they may be
+interested in, that may be always booked up. So, if something becomes available on the date that they would
+like to play golf, and they see a cancellation pop up on their their screen on their mobile phone, then they
+can go ahead and take that spot. There's really nothing out there where that exists. So, it's not just another
+tee time finder, but it's also the added benefit of getting notifications of canceled tee times at their
+favorite courses, which you can do under the alerts section. And I can go through and I can you know, show you
+all of the different capabilities and features and benefits, but you're not interested in the Utah tee time
+finder, you're interested in in building an app that has real utility. And one of the things that you need to
+recognize is it's not just about one feature. It's about those features within your your app or whatever
+business you're building that separates you completely from anybody else. And you can use use chat GPT to your
+advantage. When you have an idea, type it into AI, and then poke holes in it. That's what I do with all my
+ideas. Okay, can you give me some examples of other companies that have launched, for example, a clothing
+brand that's been successful? As a matter of fact, I was talking with my mom on the phone about 30 minutes
+before I started uh you know, this this video, and we were talking about different clothing brands and
+clothing lines and how certain brands had become successful. And one to use as an as an example here is let me
+just jump up here and share the screen with you again. She was telling me about this clothing brand by uh
+Daryl-Ann Denner, I believe that's how you pronounce her name. This brand known as Noods and how it became
+popular and how this brand spent years building trust before selling anything. And so, what this individual
+would do is she would spend every single day showcasing her daily life, the outfits that she was wearing, uh
+her parenting style, her routines, her honest opinions on certain subjects. So, years before she actually
+launched this brand, she was just focused on giving people value, showcasing her life. She was leading with
+just value, not with selling something. So, Gary V has always said this. He said it the longer that you can
+hold on to the ask, in other words, the longer that you can wait to sell something and the more value you
+give, the more money you're going to make in the long term. So, if you spend just 3 to 4 years just giving,
+giving, giving, giving without asking, then that's all going to come back to you tenfold eventually when you
+do decide to sell something to your audience. And by then, it's really easy to get feedback from that audience
+you built as well. So, that's obviously later on, but what we're trying to kind of the message I'm trying to
+convey here is to compare the business idea with other successful businesses in your specific niche. And
+whether it's a clothing brand, whether it's a a tee time app, like the Utah tee time finder, I compared it
+with Golf Now. If you're thinking about starting a clothing brand, compare it with Daryl and Danner's brand
+Noods. And here's a specific uh problem that she solved. Instead of trying to create another fashion brand,
+she asked, "Why is it so hard to find the perfect t-shirt?" So, everything centered around basics, t-shirts,
+tanks, bodysuits, neutral colors, flattering fit, premium fabrics. She kept it super simple. And so, she
+recognized a problem that people have, finding a perfect t-shirt. She created that, and then would would ask
+her community questions based off of her ideas, the prototypes that she had built, and she got feedback on
+colors, on how it would fit, everything in between, and then launched a successful brand and business clothing
+line from that. And so, she became the brand. She didn't use UGC creators, either. She didn't just run meta
+ads. She showcased her life daily, integrated her brand and her clothing line inside of her daily life, and
+that's how she became wildly successful. So, always compare your idea with something else that's been
+successful out there. And that's what I did with the Utah tee time finder, and that's what I continue continue
+to do. Now, just to show you some analytics, it's been roughly 2 months, and I kind of launched this as a case
+study. I haven't been doing a lot of promoting with it, but eventually, there's a lot of things that I could
+do with this specific app, too, as well. I could sell golf clubs, I could do affiliate promotions, I can
+partner with uh golf courses. There's so many different things that I can do. But you can see right here in
+the dashboard, we've got 175 free users, we've got 31 premium subscribers, and we're making like 187 bucks a
+month. Nothing to call home about, but it just goes to show you that the demand is there. And the way that I
+marketed this was through search engines and through TikTok. You can see right here. So, it's been just a a
+couple short months. I've only put up a few videos, not a whole lot. What is this? 1 2 3 4 5 6 12 18 24 25
+videos. Nothing crazy if my math's correct. So, not a whole lot of marketing. I just wanted to get proof of
+concept. So, I built it, spent like 100 bucks building it, uh testing it, ran social media posts directly to
+it. And because it's local-centric, the conversions are much higher, which means people that see it to people
+that click and buy, it's a very high conversion rate because it's so laser-targeted around golf and golf in
+Utah. And then I mentioned that I started ranking in Google, as well. So, you can see that automatically, just
+by creating the site, getting social media traffic to it, and optimizing it the way that ChatGPT told me how,
+it pretty much did all the work for me. I just Every step of the way, I would tell it, "Here's the problem I'm
+dealing with. What do I need to do as a result of this?" And I just followed every single step. So, you can
+see right here that like the last 24 hours, I've gotten six clicks from Google search engine. You can see I'm
+ranked for tee time finder Utah golf tee times. I'm ranked number one for tee time finder Utah, and number two
+for tee time today, and ranked number two for Utah tee times. So, I'm getting views from TikTok, traffic from
+TikTok. I'm getting traffic from Google as well. And again, I can launch other versions of this, which I've
+already done, the Arizona tee time finder. So, I've started building this out to as well. And this is all with
+AI, guys. Like, I want to just show you the power of AI. And you can use apps like website builders like
+lovable, where you just take the prompts from ChatGPT, plug it into lovable, and you can build this whole
+thing out. So, if you want to see my day-to-day and what I do, the prompts that I use, literally see me build
+all this stuff live, I did put a link below in the description, or there might be a link above this video.
+Regardless, you can go ahead and check that out. But, um if you have any questions, let me know below in the
+comments. I want to help you. I want to inspire you. I'm somebody with zero coding skills. I did come into
+this with some social media marketing skills, which you can learn uh very, very easily. What's so cool is you
+can start a TikTok account today and start generating thousands of views tomorrow. For For example, let me
+just show you this real quickly. This is what's so powerful is my first social media post was this one that I
+pinned right here. My first post got 31,000 views. And that resulted You can see that right here. That
+resulted in sign-ups instantly to my app. So, on day one of marketing your app, your website, your clothing
+brand, whatever it is, you can start generating leads and sales. That's what's so powerful about with AI in
+2026 and beyond. So, I hope this video inspired you. Give me a thumbs up if it did. Subscribe to the channel
+to see other case studies and what I'm working on, the problems that I deal with on a daily basis when it
+comes to building these apps, when it comes to it getting really up and running and making sales. You're able
+to see through these different episodes the successes that I have, the roadblocks that I run into, the
+failures that I have, everything in between. I don't just want to show you what's successful. I want to show
+you everything. If you like that idea and insight, go ahead and subscribe to the channel. I can't wait to see
+you in the next one.

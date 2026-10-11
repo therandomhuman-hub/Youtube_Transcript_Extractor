@@ -1,0 +1,78 @@
+Title: CLAUDE DESIGN JUST CHANGED DESIGN FOREVER!
+Channel: AIpreneur
+Type: VIDEO
+Video ID: uHe8P6mrWRQ
+URL: https://www.youtube.com/watch?v=uHe8P6mrWRQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:11:42+00:00
+
+Kind: captions Language: en Anthropic just dropped a brand new tool called Claude design. And I spent the last
+few hours testing [music] it so you don't have to. Pitch decks, landing pages, mobile [music] app interfaces,
+Instagram carousels, all from a single line of text. [music] In this video, I am going to show you exactly
+what it can do live right now and whether it is actually worth [music] your time as a beginner. Welcome to AI
+preneur where we test the latest AI tools and show you how to actually use them to make a real business
+online. If you're new here, subscribe and let us get straight into it. So, what is [music] Claude design?
+Anthropic launched it a few days ago. It is a brand new AI tool [music] that lives inside Claude. You go to
+claude.ai/design and you can build professional visual work >> [music] >> just by describing what you want.
+Professional visuals built in seconds from idea to finish design, all powered by one prompt. It is powered by
+Claude Opus 4.7, their [music] most advanced vision model, and it's available right now. All right, let me
+show you what this thing can actually do. Okay, let us first try to design a pitch deck with this design tool.
+If you don't know what a pitch deck is, simple. It is a short presentation, usually 5 to 10 slides, that
+businesses use to explain what they do and convince someone, an investor, a client, [snorts] partner to work
+with them. Everyone needs one. And on Fiverr, a decent pitch deck sells for $70 to $250. On Upwork, designers
+charge $99 to $299 per hour just to build one. So, let us see if Claude design can do it in under 2 minutes
+from one single sentence. So, open claude.ai/design. All right, once you're inside Claude design, create a new
+project. I'm choosing a pitch deck. Now, look at the bottom left corner. That chat box is where everything
+happens. Just drop in this prompt right there. Copy it from the description if you want to try it yourself.
+Hit send and watch what happens. Okay, look at that. Six slides, professional layout, colors are on point, the
+typography is clean. This looks like something a real designer spent hours on and I'm not even done. Watch
+this, I can click on tweaks and just type, "Make the headline bigger and change the accent color to violet."
+Done. Just like that. Watch this. The headline updates, the color shifts instantly with no menus, no settings,
+just type and it changes in real time. I can also draw directly on any element and ask Claude to change it. I
+can comment on specific sections. I can edit text inline. This is a full design interface from one sentence.
+And when I'm done, I click share, PDF, PPTX, send to Canva, or export as standalone HTML. All options are
+right there. Now, real talk. Freelancers on Fiverr charge $60 to $260 for a pitch deck like this. You just
+made it in under 2 minutes. Perfect. Let's now try something different. Mobile app interface. This one blew my
+mind the most. So, this time I'm creating a new project again. I'll call it mobile app. Then, just like
+before, I go to bottom left chat box and drop in this prompt that describe the whole design. Hit send and
+watch this. It builds the entire interface step by step, sets up the iOS frame, builds the dashboard, adds the
+charts, bottom nav, color scheme, icons. It creates a task list and executes them one by one like a real
+designer working live in front of you. Look at this. This is not a rough sketch. This is a high-fidelity
+mobile interface. You can even interact with it. Now, here is the crazy part. If you actually want to build
+this into a real app, you click share and then hand off to Claude code. Claude packages the entire design and
+passes it to Claude code to write the actual code. Design to working app without leaving Claude. That is
+insane. Now, let us moving to the most knowing design. A landing page design. And I am showing you this one
+because it is the most practical for making money as a beginner. So, this time I'll create a new project
+again. I'll call it landing page. Then, just like before, I go to the chat box and type my prompt and hit
+send. That is it. Now, look at the result. Hero section with headline, services laid out cleanly, testimonial
+section, a clear call to action button at the bottom. This is a real landing page. Not a template, not a
+generic layout, Claude read the brief and designed something specific. Now, I click share and I choose
+standalone HTML. That gives me a working web file. The client can hand directly to a developer or host on any
+platform. Clients on Upwork pay $200 to $500 for a landing page like this. You just built it in 3 minutes.
+This right here is the money opportunity inside Claude design that nobody else is talking about yet. All
+right. Let us try a social media design now. This time, I go to the side deck, create a new project, and then
+in the chat box, I drop this prompt that describe an Instagram carousel and hit send. Look at this. Six
+slides, bold headlines, clean layout. Each slide has one clear message. The contrast is perfect for Instagram.
+This is the kind of content that gets saved and shared. Now, here is where it gets even better. If you go to
+the design system section, you can set up your brand once. Your colors, your fonts, your logo, your target
+audience, everything. And from that point on, every single design Claude creates will automatically match your
+brand. Pitch decks, landing pages, carousels, all consistent without you doing anything. That is a
+game-changer for anyone running a business or managing a client's brand. [music] All right, here is my honest
+take. The quality genuinely surprised me. [music] I was not expecting this from a single prompt. The layouts,
+the colors, [music] the typography, Claude actually has taste now, like real designer taste. That is new.
+[music] The speed is what really got me. Every single design under 3 minutes. [music] Designers get paid
+thousands for exactly this. Claude just did it while I was talking. And the way you refine [music] it, no
+menus, no clicking through settings, you just say, "Make the headline bigger." Done. "Change the color." Done.
+>> [music] >> Feels like talking to a designer who actually listens. Look, this used to cost years of learning
+and thousands [music] in software. Claude design just handed that to anyone with a good prompt and 20 bucks. I
+am not going to tell you it is perfect, [music] but I will tell you this. The people who start now before
+everyone else figures it out [music] are the ones who win. And that window is open right now. So, here's what
+I need you to do. Not tomorrow, [music] right now. Go to claude.ai/design. Pick one of the four demos I showed
+you. Build it. Just one. It takes 3 minutes. [music] That is your first step. If this video helped you, smash
+that like button. One second from you helps [music] us reach more beginners who need to see this. Subscribe to
+AI preneur. I test every new AI tool the day it drops so you never miss an opportunity like [music] this one.
+Drop a comment below. Which demo surprised you the most? The pitch deck, the app UI, the landing [music] page,
+or the carousel? I read every single one. And if you want to go deeper into Claude tools, go watch my Claude
+code video. I built an entire faceless video in 2 hours with it. It is right up here. See you there. Thanks
+for watching and [music] see you next tutorial.

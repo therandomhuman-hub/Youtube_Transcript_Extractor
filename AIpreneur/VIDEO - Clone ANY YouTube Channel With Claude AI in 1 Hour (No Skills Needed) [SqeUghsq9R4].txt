@@ -1,0 +1,121 @@
+Title: Clone ANY YouTube Channel With Claude AI in 1 Hour (No Skills Needed)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: SqeUghsq9R4
+URL: https://www.youtube.com/watch?v=SqeUghsq9R4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:10:23+00:00
+
+Kind: captions Language: en What if I told you you could clone the exact formula of any viral YouTube channel
+in less than 1 hour without showing your face, without editing skills, and without a single expensive tool? I
+know it sounds crazy, but after this video, you are going to wish someone told you this sooner. Because right
+now, there is a group of beginners quietly using one AI tool to clone channels that are pulling in millions of
+views a month. And today, I'm going to hand you the exact step-by-step workflow they use. Stick with me until
+the end because the last step is where the real magic happens. Let's be real for a second. Most people who try
+starting a faceless YouTube channel quit within 30 days. And it is not because they are lazy. It is because
+nobody ever showed them the actual system. They sit there staring at a blank screen trying to come up with
+ideas, writing scripts that sound boring, creating thumbnails that nobody clicks, and posting videos that get
+12 views from their own mom. But here is the truth nobody wants to say. Starting from zero is the hardest path
+you can take. Because you are guessing at everything. The hook, the script, the visuals, the thumbnail. And
+guessing doesn't pay the bills. However, the smartest creators online, they don't guess. They model what is
+already working. That is exactly what we are about to do with AI doing 95% of the heavy lifting. So here is
+the plan. I am going to break this entire workflow down into just five simple steps. Follow them in order, and
+by the end of this video, you'll have everything you need to launch your first faceless channel. Let's get
+into it. Step one, ideation. Every viral channel starts with one thing, a winning idea. Not a random idea, a
+proven idea that is already working on YouTube right now. So in this first step, we are going to let Claude AI
+generate those ideas for us. But not just any ideas, ideas modeled after channels that are already crushing
+it. And here is how to do it. Head over to Claude and create a free account. You don't need the paid plan to
+start. The free version gives you more than enough. No downloads, no complicated setup. Everything runs right
+inside your browser. Now comes the most important part of this entire system. Once you're signed in, open a
+new chat and paste this master prompt. This is the engine of the whole workflow, and hit send. In a few
+moments, Claude asks you which channel you want to model. Pick any faceless channel that is performing well in
+a niche you actually enjoy. Stickman finance videos, 3D explainer animations, Bible stories, AI-powered
+animation channels, anything. Copy the channel URL from YouTube and paste it to Claude. Next, Claude asks for
+video transcripts. This is the step most people skip, and it is the one that separates amateurs from pros. Go
+back to the channel. Click popular videos. Open one of the top performers. Scroll under the description and
+click show transcript. Copy the full transcript. Paste it into Claude. Do this for two or three more videos,
+and hit send. Now Claude has the full DNA of that channel. The hooks, the pacing, the storytelling,
+everything. Claude then hands you 10 fresh video ideas, all in the same style as the channel you modeled. Pick
+the one that excites you the most, and that's step one done. You have your golden idea. But an idea alone is
+worthless without a script that keeps people watching. That is exactly where step two comes in. Step two,
+script writing. A great idea will get people to click, but the script is what keeps them glued to the screen.
+And this is where most faceless channels fall apart. They have decent ideas, but boring scripts. No hook, no
+curiosity, no retention loops. Lucky for us, Claude already has everything it needs to write a winning script.
+It studied the channel. It learned the pattern. It knows what works. So, once you pick your idea in step one,
+send it back to Claude. In a few moments, Claude drafts a full video script in under 60 seconds matching the
+exact tone, pacing, and flow of the channel you modeled. It nails the hook, includes retention loops every 30
+seconds, builds curiosity throughout, and ends with a clear call to action. You just got a script that would
+cost $300 from a freelancer. Read it one more time. Make tiny edits if you want to add your own voice. Then,
+copy the final version into a fresh Google Doc and save it. And that's it. Your script is done. That's step
+two. However, a script sitting in a Google Doc isn't a video. You need visuals. Not just any visuals. You need
+cinematic AI-generated visuals that make your channel look like a million-dollar production. That's the next
+step. And this is where things get really fun. Step three, create visuals. This step makes people stop
+scrolling. Strong visuals are the difference between a channel that grows fast and a channel that dies at 40
+subscribers. Here's how we handle it. Back in Claude, the system will ask you to generate image prompts that
+match the reference channel's style. It will then ask you to drop a screenshot of some videos of the channel.
+These are just screenshots of the kind of images or scenes the channel you modeled actually uses. Go back to
+that channel, open a few of their videos, take five to 10 screenshots that capture the visual style, the
+characters, the backgrounds, the colors, the overall vibe. Upload all those screenshots to Claude and type
+images attached. Here's a pro tip. Do not copy their style exactly. Add your own twist. Go more 3D, more
+cinematic, more pixel art, whatever feels fresh. That way, your channel stands out instead of looking like a
+copy. Claude studies the screenshots and reverse engineers the visual style. Then, it generates around 20
+detailed image prompts, one for every scene in your script. Now, open Google Flow, the tool we are going to
+use for every single visual in this video. It is free to start, runs in your browser, and it gives you access
+to the two most powerful AI models on the market right now. Nano Banana 2 for images, VO3 for video
+animations. Let's start with the images. Create a new project in Google Flow. Switch the model to Nano Banana
+2. Grab your first image prompt from Claude and paste it in. Before you hit generate, do this one little
+trick. Upload a reference image first, something that shows your main character or the core visual style you
+want to lock in. This keeps every single image consistent across your whole video. Same character, same face,
+same colors, same world. Now hit generate. Within seconds, Nano Banana 2 creates a stunning image that matches
+your prompt and your reference. Download it. Repeat for every prompt Claude gave you. By the end, you will
+have every visual your script needs. Let's move now to the animations. Go back to Claude and ask for video
+prompts based on the image prompts. Claude takes every image prompt and converts it into a cinematic video
+animation prompt. So, every still image now has a matching motion prompt. Back in Google Flow, switch the
+model to VO3. Upload the image you just generated as your base. Paste the matching video prompt. Hit generate.
+VO3 brings that still image to life. Camera movement, character motion, atmosphere, depth. It looks like
+something out of a high-budget animation studio. Do this for every scene. You will have a full cinematic video
+library. No cameras, no animators, no editors. Just Google Flow doing the heavy lifting. That's step three.
+Your visuals are locked in, but moving pictures with no voice is just a silent movie, and nobody watches
+silent movies anymore. So, in step four, we give your channel a voice that sounds so human, viewers will swear
+it's you. Step four, generate voiceover. A voice is what gives your channel its personality. It's what makes
+viewers connect. It's what turns a random video into a brand. And the best part? You don't have to record a
+single word yourself. Head over to 11 Labs. It's the best AI voice tool on the internet right now. The free
+plan gives you more than enough to get started. Create a free account. Once you are in, click on the
+text-to-speech option on your dashboard. Now, grab the script you saved in step two. Copy the entire thing.
+Paste it into the 11 Labs text box. Next, pick your voice. 11 Labs gives you dozens of built-in voices. Male,
+female, young, deep, calm, energetic. Pick one that matches the vibe of your channel. Here's a pro tip. If you
+modeled a fast, energetic channel, pick a confident young voice. If you modeled a storytelling or documentary
+channel, pick a deeper, slower voice. The voice you choose sets the entire mood of your video. So, don't rush
+this choice. Once you've picked your voice, press generate. In about 30 seconds, 11 Labs delivers a voice over
+that sounds like a real human. No robotic tone, no weird pauses, just clean, professional audio. Download the
+MP3 file. Save it in the same folder as your script and your visuals. Now, you have everything you need.
+Script, images, animations, voice over, all generated with AI. All ready to become a full video. Now, it's
+time to assembling everything together into a finished video your audience will actually watch. Stay with me.
+Step five, assembling everything together. This is the final step. The best part of the whole process. Open
+CapCut. It's free. It works on desktop and mobile, and it's built for beginners. If you've never edited a
+video before, don't stress. I'll walk you through the exact flow. Start with your voice over. Drag the MP3
+file from 11 Labs into the CapCut timeline. This is your foundation. Every visual you add from now on follows
+the voice over. Next, add your visuals. Drag every image and every animation you created in Google Flow into
+the media panel. Then drop them onto the timeline one by one in the order your script follows. Match every
+visual to the exact moment the voiceover mentions it. If the voice says, "Let me show you something crazy."
+you cut to the crazy visual right there. Keep your cuts fast, a new visual every 3 to 5 seconds. This is what
+keeps viewers glued to the screen. Long static shots kill retention. Fast cuts save it. Now add captions.
+CapCut has a built-in auto caption feature. Click it, let it scan your voiceover, and in seconds you get full
+subtitles. Style them bold, clean, and easy to read. Highlight the power words in a different color words,
+like money, AI, free, fast, secret. This alone can double your retention. Then layer the sound design. Add a
+soft background music track, lo-fi, tech, or cinematic works great. Keep the volume low, around 15 to 20% so
+it doesn't fight the voiceover. Sprinkle in sound effects on transitions. Wooshes, clicks, ding sounds, small
+details that make your video feel professional. Finally, add light transitions. Fade, mix, swipe, quick
+glitch, but don't overdo it. One transition every 10 to 15 seconds is plenty. When everything looks clean, hit
+export. Choose 1080p 30 frames per second. And just like that, you're done. Picture this. You've just gotten
+the news you've been waiting months for. Your boss calls you in, tells you you're doing a great job, and hands
+you a raise. Maybe it's $5,000 more a year. Maybe it's $10,000. Either way, you walk out of that office
+feeling like you've finally turned a corner. Fast forward 3 months. You check your bank account and somehow
+somehow >> You just built a full faceless YouTube video. Script by Claude, visuals by Google Flow, voice by 11
+Labs, edit by CapCut. 100% AI-powered, 0% on camera, and ready to upload. That's the system. That's the entire
+playbook. Now it's your move. Smash that subscribe button right now. Because on this channel, I drop one AI
+money-making system every single week. Miss one and you miss a real opportunity. And if you are serious about
+building your first AI income stream, click the next video on your screen. That is where I show you the
+trending faceless niches right now to pick one of them and start right now. Thanks for watching and see you in
+next tutorial.

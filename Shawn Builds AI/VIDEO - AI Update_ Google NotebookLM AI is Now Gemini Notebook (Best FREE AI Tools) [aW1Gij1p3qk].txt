@@ -1,0 +1,108 @@
+Title: AI Update: Google NotebookLM AI is Now Gemini Notebook (Best FREE AI Tools)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: aW1Gij1p3qk
+URL: https://www.youtube.com/watch?v=aW1Gij1p3qk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:24:15+00:00
+
+Kind: captions Language: en Notebook LM has been one of the most popular AI tools released to date, but Google
+just completely changed the way that it will work. As an AI engineer, I've been recommending Notebook LM to
+[music] everyone, but with this major announcement, Notebook LM is no longer. Instead, we have what's called
+Gemini notebook. Now, there's two shifts in the way that this [music] tool will work, but they're rolling it
+out in a way that makes these changes almost invisible. So, in this video, I'll not only expose these [music]
+two changes, but let you know how you should actually be using the tool differently. the very end, I'll update
+you as to exactly when this change will take effect for you. Before we dive in, let's get an understanding of
+what the timeline has looked like so far. Starting in May 2023, Notebook LM was first launched under an alias
+that was internally called Project Tailwind. And the goal here was simple. It was to help people be able to
+learn better using AI. As it got closer to the launch date, this ended up evolving and becoming what we know
+today as Notebook LM in late of 2023. It actually stayed like this for a while until very recently in July of
+2026, when the name changed to Gemini notebook. And this isn't just a name change or a rebranding. It'll
+actually be completely shifting the way that Notebook LM functions. With the two immediate points of focus
+being upgrading how it works and changing how it integrates with all the existing systems. So, what are the
+two changes that I mentioned in the intro that's happening to Gemini notebook? The first one is behind the
+scenes, but it will actually make a huge difference in how Notebook LM functions, and that is allowing it to
+use a cloud computer. Let's first take a look at what a normal Notebook LM workflow looks like before the
+changes with the cloud computer. So, currently as it's set up without the cloud computer, you might ask it a
+question like, "What caused the increase in revenue this month?" And within your notebook, you would add
+something like a large data set that was exported from your database in the form of maybe a CSV file. Now,
+after you ask the question with the uploaded CSV, it's going to run all of that through Google's AI model,
+which is Gemini. And from here, it's going to load all of that information into its context. And once it's
+loaded into the context, it can actually start to think about how it should respond. This will read through
+the context of the system prompt that you provided with the user prompt, which is the question you just asked,
+as well as that large amount of data that you provided. And this is also where you need to be careful because
+this is the main place where hallucinations happen. When there's too much context loaded into the model, the
+AI can sometimes come up with answers that aren't actually accurate. So, once it goes through all of this and
+it thinks about it, it will respond in the form of maybe a document or some kind of text response with the
+answer to the question that you provided. Now, let's transition to what that would look like using Gemini
+notebook with a cloud computer. It starts off in a very similar way. You ask your system prompt, which is what
+caused the increase in revenue this month, and you upload your data set in the form of a CSV, which then runs
+through Google's AI model, Gemini. The model will still think about what to do, but now it has more options
+that it can call upon. In this cloud environment, Google is loading it with a bunch of different tools,
+including ways that it can execute code and scripts. So, once the model realizes it can use a script, it's
+going to choose to execute that tool. Now, the script can run very specific commands on that data set since it
+knows the structure of the data and pull out the exact insights that are needed for Gemini to give an accurate
+response. Once it gets that response, it's going to send it back to the Gemini model, who will then think
+about it, analyze it, and then put it in the document. And this process tends to be a lot more accurate.
+Because instead of depending on the Gemini model to think about all the context and come up with an answer on
+its own, it starts using tools to not be overwhelmed with the pure amount of data and only extract the
+information that's needed to give the best response possible. And that brings us to the second change that's
+happening with this Gemini notebook update. And this is a big one cuz this will change the way that you use
+notebooks. And that is ecosystem integration. I'm talking about integrating into all of Google's other AI
+tools, as well as some non-AI tools at the moment. Now, there's four main tools that I'm talking about here.
+This includes three that are currently integrated, as well as one that they're planning on integrating that
+will honestly be the biggest change and most impactful one. Now, the four that I'm talking about are Gemini
+Chat, Gemini Gems, Workspace Studio, and Google AI Search. And we'll run through each of them. I want to start
+off here by showing you a notebook that I created for a fake client called Cedar and Stone Home Goods. If I go
+into that notebook, we'll see that there's a bunch of different files that I added. Some call transcripts, a
+client profile, a contract services agreement, and then a bunch of different deliverables. If you haven't used
+Gemini Chat, this is very similar to ChatGPT or the Claude Chat interface. It's basically just your standard
+AI chatbot assistant. The cool thing is that you can link it to a notebook can get responses not only from
+your normal web searches or from the model, but also from the context that you explicitly uploaded in your
+notebook. The way that you do that is that in your chat here, you click the plus sign. Then you scroll to the
+more upload section, and you choose notebooks. You should be able to see all the notebooks that you've created
+in the past. So, I'm going to add this one from a fake client that I created called Cedar and Stone Home
+Goods. And I'll click add. Now, you can see that it's linked in the chat, and I can ask it any questions that
+I want about this client. Now that we checked out Gemini Chat, let's take a look at Gemini Gems. Gems are
+accessed in the same interface as the normal Gemini Chat. On the sidebar here, you'll see a gem section that
+you can just click on here. And the purpose of these is to add in prompts that you want to use over and over
+again. So, let's scroll down here, and we can see a gem that I actually created called Sales Expert. If I go
+into that, we can see the name of the gem that I made, and some instructions. So, this would be a Sales Expert
+gem that could get all the information about a client, and pull out exactly what I'd need about being able to
+close them and give me a brief on that. But, you'll see down here that knowledge is linked. So, if I click the
+plus sign, again, there's Notebook LM, and you can see all the notebooks that I've done before. So, I can link
+it to a specific client, add it, which it's already added, and now it'll be able to do this task for all of
+the contacts and the files that I added within that Seder and Stone client notebook. Next, we're going to
+check out Workspace Studio by Google. Workspace Studio is a really cool tool in the Google Workspace that
+allows you to automate multiple different kinds of flows. We can see just on the home page there's a bunch of
+different ones like notifying about urgent emails, which triggers when an email comes in and then sends you a
+chat message, daily summaries that activate on a schedule and then again send you a chat message. But, the
+thing I want to point out is that this integrates with different Google AI tools like Gemini, as you can see
+in the notify urgent email one. Let's go ahead and create a new flow. So, we'll click on this plus sign here,
+and now we can choose a trigger. So, we'll just say on a schedule for now. The part I want to show you is how
+this integrates with Google's Gemini notebooks. So, that's in the actions where you can choose a step. And you
+can see right here there is a way to ask Notebook LM. And then within here there's a drop-down where we can
+choose that client notebook that we were talking about beforehand. And then we can give it up any kind of
+prompt that we want. It's also possible to ask a gem. So, if we select ask a gem, we can choose one of the
+gems that we created. So, let's just say a learning coach gem. And if we linked a Notebook LM to this gem like
+we showed in the previous example, that's another way that we would be talking with our notebook through
+Workspace Studio. Last on the list here is Google AI Search. This is also the one that isn't fully implemented
+yet, but I think we'll have the biggest impact. If you head to your normal Google search bar, there's an AI
+mode over here. Click on that and you end up in what looks like an AI chat. Now, what I'm suspecting is that
+it's going to be very similar to the normal Gemini chat interface, where you can click on a plus sign and then
+add in a notebook here. But right now, that's not a feature. But like I said, I'm expecting that this is
+something that they're going to add in the future, and it's one of the main reasons that they're creating this
+Gemini notebook, so that it can integrate with their other things in the ecosystem, like normal Google search.
+Now, when are these changes actually going to impact you as a notebook LM user? The answer is that it depends.
+Let's take a look at a chart of the different Google AI plans that are available. So, currently as it sits,
+the only plan that can actually use this new Gemini notebook is the Google AI Ultra plan, as well as anything
+that's on a Google workspace. If you're on an individual account, and you're anything less than Ultra, then
+it's currently not implemented. So, if you're on Google AI Pro, then it's said that this is coming soon. If
+you're on anything less than that, like Google AI Plus, or you're on a free plan, then they actually haven't
+made any announcements as to when Gemini notebook will be implemented for those plans, or if it will be
+implemented at all. So, we're just going to have to wait and see for those. I will be sure to update you with
+those dates on my channel as soon as we find them out. So, make sure to subscribe if you [music] want to see
+when Gemini notebook will be available to you. In the meantime, if you want to learn how to integrate notebook
+LM, so you can create notebook LM assets from within your Cloud chats, >> [music] >> then go ahead and check
+out this video right here.

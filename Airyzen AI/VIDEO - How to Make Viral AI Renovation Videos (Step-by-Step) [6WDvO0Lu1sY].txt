@@ -1,0 +1,75 @@
+Title: How to Make Viral AI Renovation Videos (Step-by-Step)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: 6WDvO0Lu1sY
+URL: https://www.youtube.com/watch?v=6WDvO0Lu1sY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:36:18+00:00
+
+Kind: captions Language: en In this tutorial, I'll show you exactly how I created this engaging AI renovation
+transformation video in just a few minutes. These types of AI transformation videos are going extremely viral
+right now, and many creators are getting millions of views and thousands of followers from this niche. Just
+look at this Instagram page. It has uploaded only 22 videos and has already gained 12,000 plus followers. And
+that's not even the most impressive part. Many of its videos have reached hundreds of thousands and even
+millions of views. This clearly shows how much potential this type of content has. But before we jump into the
+tutorial, I have one request. Watch this video until the end. I've explained everything step-by-step from
+generating the AI video to editing it in a way that makes it much more engaging and satisfying to watch. So,
+without wasting any more time, let's jump straight into the tutorial. First, take a look at the master prompt
+I created for making these AI renovation videos. I'm giving it to you completely free, and you'll find the
+download link in the description. But don't skip the video. Even one small mistake during the generation
+process can ruin the entire video. So, make sure to follow every step carefully. Now, copy the master prompt,
+open ChatGPT, paste it, and press enter. It will generate 10 AI renovation video ideas for you. Simply choose
+the one you like. For this tutorial, I'm going with idea number 10. Just type 10 and press enter. ChatGPT will
+generate five scenes, and each scene will include an image prompt and a video prompt. Before generating the
+images, we'll need a consistent character for the video. That's why I created this character turnaround sheet.
+You'll find it right below the master prompt. You can edit this sheet to create your own unique character. Let
+me show you how I customized mine. To do that, open ChatGPT and click the plus icon. Then click add photos and
+upload the character turnaround sheet. Once it's uploaded, you can customize the character however you like.
+For example, I'm changing the outfit to a charcoal T-shirt plus black baggy jeans and the hair color to ice
+white. After that, simply press enter and within a few moments, ChatGPT will generate your new customized
+character turnaround sheet. Now that our character turnaround sheet is ready, let's start generating the
+images. Copy the image prompt from scene one, then open Flow AI. First, upload your character turnaround
+sheet. Once it's uploaded, click add to prompt. Now, paste the copied image prompt into the prompt box. Before
+generating the image, make sure to use these exact settings. Now, press enter and wait for the image to
+generate. Once it is ready, go back to ChatGPT and copy the image prompt from scene two. Then, return to Flow
+AI. This time, you don't need to use the character turnaround sheet. Instead, upload the scene one image you
+just generated and click add to prompt. Now, paste the scene two image prompt. Press enter and generate the
+next image. Once the scene two image is ready, go back to ChatGPT and copy the image prompt from scene three.
+Then, in Flow AI, click add to prompt on the scene two image, paste the prompt, and press enter. Repeat the
+same process for the remaining scenes. For scene four, copy the image prompt, click add to prompt on the scene
+three image, paste the prompt, and press enter. Do the same for scene five. Copy the image prompt, click add
+to prompt on the scene four image, paste the prompt, and press enter. Now that all five images are ready, it's
+time to generate the videos. Before generating the videos, make sure to remember this sequence. The first
+video should be 4 seconds, the second, third, and fourth videos should each be 8 seconds, and the final fifth
+video should be 4 seconds. Following this timing will make your renovation video flow much more smoothly and
+feel more engaging. Go back to ChatGPT and copy the video prompt from scene one. Then, in Flow AI, click add
+to prompt on the scene one image and paste the video prompt. Before generating the video, make sure to use
+these exact settings. Keep the duration of the first video at 4 seconds. Now, press enter to generate the
+video. Now, go back to Chat GPT and copy the video prompt from scene two. Then, in Flow AI, click add to
+prompt on the second image. Paste the prompt. Set the duration to 8 seconds and press enter to generate the
+video. Now, generate the third and fourth videos the same way. Just use their corresponding video prompts.
+Now, generate the fifth video the same way. Copy the video prompt from Chat GPT. Click add to prompt on the
+fifth image in Flow AI. Paste the prompt and keep the duration at 4 seconds. Now, all five videos are ready.
+This is where the video generation process ends. Next, I'll show you how to edit them to make the final video
+much more engaging. Now, open your preferred editing software and import all the videos we've generated. Now,
+take a look at the first video clip and check for any mistakes or awkward parts. For example, in this clip,
+the beginning doesn't look right. Our character steps onto the water and then the frame suddenly changes. Find
+where the clip starts looking normal. Split it there and delete the unwanted part. Do the same with the rest
+of the video clips, trimming out any mistakes or bad-looking sections. Once you've trimmed all the unwanted
+parts from every video clip, it's time to make the transitions look much smoother by adding motion blur.
+Select the first clip, then scroll through the toolbar at the bottom until you find motion blur and tap on it.
+Now, for the blur, blend, direction, and time values, you can use the exact settings I'm using or adjust them
+to whatever looks best for your video. Once you're done, tap okay and within a few seconds, the motion blur
+will be applied. Repeat the same process for all the remaining clips. Once you've applied motion blur to all
+the clips, it's time to make the video look even better. Now, tap adjust and make a few basic adjustments like
+brightness, contrast, saturation, sharpen, and any other settings you want. You can simply copy the values I'm
+using or adjust them to whatever looks best to you. Now, let's add a simple zoom in effect. Add a keyframe at
+the start and end of the first clip, then do the same for the second clip. Next, go to the end keyframe of the
+first clip and slightly zoom in. Then, go to the start keyframe of the second clip and apply the same zoom
+level. This creates a smooth transition between the two clips while keeping the zoom consistent. Repeat the
+same process for all the remaining clips. You can also add a text at the beginning of the video to make it
+more engaging. Now, simply export the video using the best quality settings, and here's our final result. If
+you found this tutorial helpful, make sure to subscribe to the channel. I'll keep bringing you more AI
+tutorials like this. If you have any questions or get stuck at any step, just leave a comment below, and I'll
+be happy to help. Thanks for watching, and I'll see you in the next one.

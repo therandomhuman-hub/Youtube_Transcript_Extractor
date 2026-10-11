@@ -1,0 +1,211 @@
+Title: How To Make Faceless GTA Videos With AI (STEP BY STEP)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: tIoD_klATps
+URL: https://www.youtube.com/watch?v=tIoD_klATps
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T07:01:21+00:00
+
+Kind: captions Language: en Look, I don't want to stress you, but GTA 6 is coming in November, and I'll show
+you exactly how to make faceless GTA 6 videos with AI before it's too late, and how to monetize those videos.
+Now, we only have a month before the countdown begins, and this might be the last GTA game of our lifetimes at
+this rate, and it's the biggest game launch ever. There are already new channels going viral with it, like
+this one or this channel, or even this new channel. So, let's start. Let's first get one thing straight. We're
+not going to make shorts. We're going to make long-form videos because shorts are kind of a waste of time.
+Yes, I said it. And in gaming, they're kind of a double waste of time because if you think about the RPM from
+the shorts, you need to get so many views to make it work, and it's also just hard to build a sustainable
+channel on shorts. You'd need so many views to make it work. And also, think about who's watching, right? I
+mean, the shorts feed people are going to be like half scrolling on their way to work on their commute, and
+the person who sits down and watches a 15-minute video start to finish has a much higher intent. They're
+watching for a reason. And so, advertisers actually pay a lot more money to reach them as well, which means
+higher RPMs for you. And now, with shorts, you also can't really promote anything. I mean, you can't even put
+a link there, and shorts viewers barely convert into long-form anyway, so they don't really grow your channel
+in a meaningful way at all. And long-form is the opposite. You have more mid-roll ads throughout your video
+and a strong audience. Now, what's going to happen after GTA 6 launches? Is my channel going to die? Is it
+going to explode? What's going to happen? No. GTA 5 came out in 2013. Yes, it's been that long. It's
+absolutely crazy. And channels are still making a full-time living off it today. So, what we do is we use the
+hype to grow fast now in the launch period, and then once GTA 6 is already here, you want to pivot into
+covering the game GTA itself. All right, so what do you actually make videos about? Well, you use a strategy
+that I like to call niche mixing. Now, niche mixing is very simple. You take a format that already works and
+went viral in one niche over here. And then you bring it over to here, you bring it out there, and you mix it
+into another niche over here. And in our case, that's GTA 6. What you don't do is you don't copy. That's not
+what this is. You model what already works, and you bring it over with your own little twist to it into this
+new niche. Now, how could it be so simple? Well, the format is already kind of proven over here. Somebody's
+tested it, somebody's made sure it works, and there's no reason to like spray and pray. So, here's how you
+actually do it, and you take something from here to here, is you go find a video format that is blowing up in
+another niche. Doesn't have to be gaming, doesn't even have to be related. And that's the whole point of niche
+mixing. It could be a true crime video, a history video, or a GTA 4 video, a GTA 5 video that's proven to
+work. And then you ask yourself one question. Well, you can actually ask AI that, but you ask yourself one
+question. What is the GTA 6 version of this video? It's going to give you a couple of examples, like the real
+story behind X from a documentary channel. You might take that, and you might make the real story behind the
+GTA 6 delay. And that's a video that I guarantee would perform quite well. And so, another one might be a
+trailer breakdown video from GTA 5 or from Call of Duty, and that could become everything we missed in the GTA
+6 trailer. Or something like 10 things hidden in the GTA 6 map. Same format, but for GTA 6. And that, my
+friends, is niche mixing broken down very simply. You're running a playlist already proven, you're just mixing
+it up. Now, one warning is don't use the example that I showed you because if everybody uses the same format,
+it's not going to work. You have to go out and do the work and actually find your own. This is the one step
+where you have to be creative. Everything after this, I mean, you can just copy me step by step. So, here's
+how you find and test video ideas. And so, what we're going to do is we're going to use AI. So, open up
+something called Claude. It's completely free, and it's what I use for this whole workflow. Now, I personally
+use ChatGPT and other AI for lots of other things, but for ideas and writing, Claude is kind of like the best
+one right now. And so, here's what we do, okay? Step by step. You want to find a channel that's already going
+viral with a format that you like. You open up their most popular videos, and then you simply head over there,
+you screenshot that video so the titles and the view counts are visible in your screenshot of that video. And
+then you take that screenshot, and you simply drag it into Claude, you upload it, and then you add a simple
+prompt. Something like "These titles went viral. Break down the format and the psychology behind them. Then
+apply that exact format to GTA 6 and give me 30 video ideas." That's going to give you a whole bunch of ideas,
+proven ideas and concepts. And by the way, if you do want my checklist and my prompts, sign up for my free
+training in the description where I do give you all these resources. Now, you have to do some work again, and
+that is to filter these ideas because the AI is going to throw everything at you. Some of it or most of it is
+going to be pretty bad, and that's the game. You want to validate everything and see if it actually does the
+job that it's supposed to do. And you want to go on YouTube, and you want to see did this video actually go
+viral? Is it a real video, or is the AI just hallucinating? And so, if you can just go through this list, and
+you can find one good idea that you choose out of, let's say, 30 ideas, that's all you need. You only need
+one. All right, so let's start writing our script step-by-step. But, before we write, there's one more thing.
+We need research. This is the difference between going viral, getting everything you want, and getting
+completely stuck at like 50 views. I've been there. I can tell you this is the secret. So, listen up.
+Everybody's generating scripts with AI now, which means that YouTube and your audience is drowning in videos
+that all sound the exact same. And the algorithm actually scans your script, your entire video, and analyzes
+it the second you upload. And if your video says what thousands of other GTA videos already said, there's no
+reason for the algorithm to choose you. So, to get views, you have to be saying something that feels new. Your
+video doesn't have to be new or like everything in the video, but a part of it has to at least feel new or be
+expressed in a new way. So, once you picked your idea, we're going to open up Claude again, and we're going to
+start researching. Something like "Research this topic for me and find 10 interesting lesser known facts that
+most people haven't heard about. And for each of these facts, tell me exactly where it comes from. Now, for
+GTA content, your main sources of interesting things are going to be Rockstar and their posts and their
+trailers and also something like Take-Two's earning calls which are public and absolutely stuffed with detail.
+Basically like the owner of the GTA franchise. We also have developer interviews, gaming journalists, and
+other newspapers and other channels. Double-check your sources so that Claude gives you something that
+actually is legit because if you can't find it in a source, you should probably not include it in your video
+either because it probably the AI hallucinating and giving you a lot of fake stuff. All right, so let's
+generate our final script. Now, this used to be the most painful part in making a video. It kind of still is.
+Sitting down and writing thousands of words. What AI can do is it can lift a ton of that burden away from you.
+You don't need to hire a writer. You don't need to be a writer. You don't even need to write. But it's not the
+magic that everybody says it is, okay? We have to, you know, get down to a normal level and, you know, look at
+it realistically. You still need to understand scriptwriting and how a good script works because you're going
+to do the manual edits yourself. It also depends on the content, right? I actually write my own scripts for
+this channel that you're watching now because it's my views and my opinions, so it's quite hard to outsource
+it. But on another channel or something that you might start like a gaming in GT6, AI is extremely powerful
+because the trick is you don't just say like write me a GTA 6 script, do it now. Go. You have to include every
+little detail. Your title, your research, a style reference guide for your channel. And if you have a new
+channel, just use a transcript of another video that you like. If you want to take that style to your channel
+and get the same kind of style and format. But also a big warning, just like humans, just like myself, Claude
+is going to ramble unless you tell it to be concise. So then, once you've told it that, you polish it by hand.
+You read it yourself. You go through the script. You find a few mistakes. And if you don't like something,
+change it. Cut anything that sounds robotic or slop, and rewrite some parts, usually the intro. It's going to
+take like 30 minutes to an hour, and it's going to be worth it every day of the week. All right, so let's
+generate our final video for YouTube. And to do that, we're going to need something called content. Wow.
+Visuals. Something on the screen. And we're going to do this very differently than all the AI slop channels.
+We're going to use a mix of three things. First up is going to be GTA V gameplay. So, GTA V is a published
+game that you're allowed to record content from as long as you own the game. But you can buy that for like $5
+to $10. And that's ideal because the footage is actually yours and you grab exactly the footage that you need
+for your script. The value, again, is what you're saying in the script. It's just a footage to keep the eyes
+busy looking at something. And then the next part of footage that we can use is going to be AI visuals. And
+then source three is going to be other stock footage. And here's what you need to be careful, okay? You can't
+use like GTA characters or unreleased stuff or like logos or art. That is going to be copyrighted and we avoid
+that to keep your channel safe. But if you take these three things, if you take gameplay, if you take some AI
+stuff and some stock footage, you basically have the perfect whole video, a perfect mix with all the content
+that you need. All right, so now let's speed this up a little bit. It's time to generate our voice. Now, since
+you're not on camera, you're going to need a voice, somebody reading your script. And it's actually pretty
+simple. It used to be very expensive and long, but today you have three different options. You can record it
+yourself, very easy. You can hire somebody, or use AI, which most faceless creators do nowadays. Now, that's
+totally fine, but you have to be a little bit careful. You want to avoid using the generic voices that
+everybody is using if you decide to go with AI voices, because a lot of these are getting flagged because of
+all the AI slop using the same voices. AI voices are legit. They are allowed, and they're incredibly cheap to
+use. We're talking like cents and a few seconds to turn your whole script into an audio, but you have to be
+careful that you don't get mislabeled and, you know, thrown into the mix of all the bad channels. And
+honestly, if you can record it yourself, I recommend you do so. Doesn't have to be perfect, and your voice is
+the one thing in this entire system that nobody can copy, I mean, ethically at least. It's your voice in a
+niche getting flooded with AI, and so a real human is going to stand out. People remember your voice, even if
+you have an accent, even if you're not perfect, completely fine. So am I. It doesn't matter. But, you can also
+use something like Eleven Labs to clone your own voice if you don't want to record it every time, but still
+make it a little bit more real, because it's your own voice that you can use inside the software, which is, I
+guess, more real. All right, so now let's move on to video editing. And this is the part where people get
+usually stuck on. They have an idea, they know how to write it, but they give up along the way thinking that
+editing, that's going to be too much. So look, how do you edit? When I used to do my own edits, I used Adobe
+Premiere for a couple of years, but today any free software works. They're a lot better and you don't need an
+expensive program, especially when you start. You can even use something like Canva, but now for beginners I
+recommend CapCut. Not a sponsor, not affiliated, just because it's simple and the free version does everything
+that we need. So here's how you edit. You drop the voiceover on your timeline in your editing software and
+then starts the fun. You simply just place your visuals and your images along the voiceover to match what is
+being said. So if you have a footage that matches a little part here, you drag that over there and that's it.
+Of course, very simplified, but I'll give you a few quick tips. You want to cut a little bit faster in the
+first 30 seconds and the intro. That's where you really want to hook the viewer and switch between your three
+types of visuals, so it never sits on one thing for too long. You want to use some footage, then a graphic and
+then maybe an animation or something else. And that rhythm is what makes it feel a more professional. Now how
+often you need to change depends on the niche and in some niches like my own or in finance, it can be quite
+slow because the audience is used to that. Even so, in finance if you have like 10 different effects and sound
+things and explain just things going on and weird stuff happening on the screen, people are actually going to
+leave because they don't want that. It sounds, you know, looks unprofessional. So it's going to do more harm
+than good. But gaming is usually very fast-paced. Now here's my shocking take on editing. I don't actually
+recommend you do the editing. I think it's fine if you're doing very simple stuff, but it as soon as you go
+over to more advanced videos where the production matters, it's a skill and it takes time to develop. So, try
+it for your first few videos so that you understand the basics, but after that I do recommend that as soon as
+you're starting and you're generating some views, hire somebody. It's probably going to boost your quality a
+lot because it's actually done by a professional and it's going to save you a ton of time. On a faceless
+channel, you appearing in every step is also what's going to slow down the whole thing. And that's literally
+how the bigger channels go from one video a week to three or even six videos per week. And remember, time has
+a price, too. You could be doing more scripts, finding more ideas, better research, more better monetization
+in that same time. Now, you can hire editors on Fiverr, Upwork, Discord, and other editing communities. And
+usually in the communities you'll get better deals because there are no platform fees, etc. But that also
+takes more time to find someone on these platforms, so it's kind of a trade-off. All right, so how do you
+monetize your channel? But first of all, let's talk about packaging, your thumbnail. And this is where a lot
+of people lose because they spent all this time making a video, the script, the good idea, but then it gets to
+a thumbnail and they're just not really able to make it work because they think about what looks good. But
+we're not looks-maxing the thumbnails. It's all psychology. What makes somebody click? And luckily, that's
+more of a science than an art. So, for the design portion, I recommend using a mix of AI and design tools.
+With the right prompts, AI can actually generate most of your thumbnails, but we still want to customize it a
+little bit manually, add some text, etc. And so, what I use is actually Canva, which I bring all my thumbnails
+into and it's super quick and you can use it for free. I'm going to show you some examples of thumbnails in
+the GTA niche in a second. But for the text, just same principle, model what's proven and the thumbnails that
+perform tend to create curiosity in the viewers' minds, opening a gap that they want to close. And the viewer
+has to click to find out more. So when it comes to thumbnails, I do have a few pointers that I recommend and
+keep it like five words max on the text or it's going to be very hard to read. Keep in mind that most people
+nowadays, they use a phone or a laptop and your thumbnails are actually really small on YouTube compared to
+what they look when you design them. So again, understand why it works and then now here are some examples and
+proof because I know I sound crazy. So right here you can see Fragix, if that's how you pronounce it, and they
+have a ton of these good examples. And as you can see, the views that they're getting is pretty good for a
+channel like this and it's just in the same kind of like GTA niche. And for some reason, I mean, it works. You
+can see clearly like they're getting views, they started a channel, they're using the opportunity of GTA 6 to
+take their channel to the next level. And same thing with Dandy Andy Plays or however you say that, which is
+also a channel that's been using this opportunity that's kind of blowing up right now. Whether you're a new
+channel or you're an existing channel, you can still take advantage of this opportunity because when a trend
+is hot and you're able to take that opportunity, you can really grow your channel. And then we also have
+Mystery GTA who's been able to essentially do the same thing, monetize this opportunity, get a lot of views
+and take the opportunity of GTA 6 and the other GTA games, which again people have been doing for GTA 2, 3, 4,
+and 5, and now we're just doing the same thing for GTA 6, which is literally the biggest gaming launch in
+history. And if you're still not convinced about the scope and how big this thing actually is, take a look at
+Rockstar Games, the creator of GTA, and their trailers on YouTube. Because if you look at these, you'll see
+how many views they have, and how big this thing actually is. We're talking about like multiple countries of
+people just going and looking at this trailer alone. It's a huge release and we're taking an opportunity of
+this trend. So now, let's talk money for a second, because if we wanted attention, we would have gone on
+reality TV, not a faceless channel, right? So everybody thinks about the YouTube Partner Program, which are
+ads on your videos, and that's a really good thing. It can absolutely print in this niche, especially with all
+the hype. But start thinking about true RPMs as well. I made this concept up myself, but true RPM is
+everything you make per thousand views. And this niche is loaded with more than just the partner program.
+There are affiliate offers you can drop in your description from day number one, for example, and you don't
+need to sell your own products. You can make your videos, add a few links, and start becoming an affiliate.
+And later, once you grow, you start adding more layers and income streams. All right, so now I want to do like
+a Q&A section and cover some of the questions that you probably already have about this niche. So first up is
+going to be what happens after the GTA game launches? I mean, is the niche going to die? Is your channel over?
+No, of course not. We use the launch to grow, kind of like a rocket up into space. You got to get that first
+energy, and then you're already up there. So you can just monetize it, right? You can get those initial subs
+and then we pivot into regular GTA content. GTA V came out in 2013 and channels still live off it. Now, the
+next question is, can I monetize a channel like this? Absolutely. It's not going to be an AI slop channel.
+We're just using a little bit of AI in the process to improve. We're still adding a lot of human touch and
+what we're making is researched, original, valuable content. And that's exactly where you want to be. And so,
+Lucas, what about copyright, right? Again, you're allowed to film yourself playing GTA V, but stay away from
+any unauthorized footage. That way your channel is totally safe and again, that's where you want to be. And
+last thing, I'm not going to sell you a dream. If you try this on your first, you know, attempt, it's probably
+not going to be a huge success and get like a lot of views right away. I failed on my channels. I've done
+different niches, everything from gaming to celebrity videos to career coaching. And channels fail. It's a
+business, or everybody would have these channels. But with this opportunity, I would like to say that the deck
+is genuinely stacked in your favor because YouTube is now pushing small creators harder than ever thanks to
+their new algorithm. I talk about that in another video on the channel. And GTA VI is the biggest hype wave
+gaming has ever seen. Ever. And everything that you learn today is proven across niche after niche. And so,
+these skills will help you in whatever niche you try later on. It's some of the most valuable skills in our
+digital era. For now, there's only one step left and that's to get started. The biggest mistake I've seen
+after talking to lots of people is waiting around too long. You can sit around and do nothing, which obviously
+leads to nothing, or you can start today and give yourself a chance. So, good luck, my faceless friend. See
+you later.

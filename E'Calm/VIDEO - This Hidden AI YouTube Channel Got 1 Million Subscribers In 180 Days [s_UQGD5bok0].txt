@@ -1,0 +1,103 @@
+Title: This Hidden AI YouTube Channel Got 1 Million Subscribers In 180 Days
+Channel: E'Calm
+Type: VIDEO
+Video ID: s_UQGD5bok0
+URL: https://www.youtube.com/watch?v=s_UQGD5bok0
+Language: en-US
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-11T06:30:42+00:00
+
+Kind: captions Language: en-US I just found a hidden YouTube niche that is quietly blowing up. It got over 1
+million subscribers and close to 23 million views in just 180 days. This isn't luck. Here's another channel
+with close to 900,000 subscribers and over 21 million views. And look here, they started just 8 months ago.
+I'm breaking down the exact niche, the AI tools to replicate this, and how you can copy this strategy before
+it gets saturated. This niche looks professional, but it is deceptively simple. You might think you need a
+teaching degree or a studio to do this, but you don't. Just look at these earnings. This isn't a year's worth
+of revenue. This is just from the last 28 days. Here is the reality check. These aren't high production videos
+that you can't make. It's just a static image, a sticky AI avatar with a simple podcast setup and captions.
+That's it. Some channels use one character, others use two to create a dialogue. But the formula is identical.
+Static image plus captions equals millions of views. But here is the magic trick that makes this work. Listen
+closely. Hello everyone and welcome back to Mr. English Channel, where learning English is easy and fun. I'm
+Emily. Hello Emily. Hello everyone. It's great to be here. It sounds natural, right? Like you're listening to
+the radio. It doesn't sound like AI, but it is. Everything you see in here is AI. The script, the voice over,
+the background image, all generated with AI. I spent days digging to find out how they achieved this quality
+without spending a dime. And I found one specific tool built exactly for this podcast style. It generates the
+script and the voice over in any length you want. The best part, you can start for free. And one final secret
+before I show you how to do this. Length matters. Look at this. Average video length 25 minutes. This one 13
+minutes. In this niche, longer videos don't just work. They dominate. First, we need a clean slate. Go to your
+YouTube homepage, click your profile, hit switch account, hit view all channels, and select create a new
+channel. Give it a clear, simple name, and create the channel. Now, let's handle the branding in Canva. Here,
+search for YouTube banner. Use this pro tip. Pick a template with clear center borders. This guarantees your
+text won't get cut off on mobile phones, which is where most of your views will come from. I'm adding some big
+bold text and dropping in my AI avatar. [Music] And done. For the logo, I'll just reuse that same avatar for
+consistency. Upload those. And for the description, keep it short, but make sure it includes your main
+keywords. Now, the most important part, optimization. We need to tell the YouTube algorithm exactly who this
+content is for. Go to YouTube Studio. Hit on settings, then channel. You need specific searchable keywords
+here. Don't guess. Go to a free tool called rapid tags. Type in one popular keyword, something like learn
+English, and hit enter. This pulls the exact trending tags people are searching for right now. Copy them and
+paste them directly into your keyword section. Finally, go to advanced settings and select not made for kids.
+Then, under feature eligibility, verify your phone number. You must do this to unlock custom thumbnails and
+also tell YouTube you're not a robot. Now hit save and your foundation is built. I used to make a massive
+mistake that killed my channel's growth for months. I would spend 3 weeks writing, filming, and editing what I
+thought was the perfect video. I would upload it, sit back waiting for the views to explode, and get 50 views.
+It was heartbreaking. Then out of frustration, I threw together a simple video in about an hour based on a
+topic I saw trending. I woke up the next day and it had 10,000 views. That is when I realized the golden rule
+of YouTube. You cannot edit your way out of a bad video idea. The idea is 80% of the success. If the topic is
+bad, the best editing in the world won't save it. But if the topic is viral, even a simple video will fly. So,
+how do you guarantee your idea is a winner before you even start? You don't guess. you steal well not the
+content but the demand. Here is the exact strategy. Go to the channels we just found. Click on their videos
+tab. Then sort by popular. We are looking for outliers. If a channel averages 5,000 views per video, but one
+specific video has 500,000 views, that is a gold mine. That proves the topic went viral, not just the creator.
+Like this example, you can see their videos were averaging 20,000 views. and suddenly these videos blew to
+300,000 views in just one month. Find three of these high-performing topics and you'll have first three viral
+topics which are likely to perform. Now for the heavy lifting, the script and voiceover. Usually this requires
+two different subscriptions and hours of copy pasting. But I found a loophole tool called 'Wondercraft AI".
+It's built for podcasts which means it handles the dialogue, the pacing, and the voices all in one shot. And
+yes, you can start for free. The link will be in the description. Once you sign up, head to the studio. You
+can click here to write your own script here, but we don't want to waste time typing a script from scratch.
+Here's the strategy. We are going to use a master prompt I wrote for you. You'll find it in the description.
+Just grab it and go back to Watercraft. We are going to use the prompt feature. So, let's paste it here. Now,
+enter your channel name. Paste your video title here and set your duration. I'm setting mine to 2 minutes, but
+make sure you create longer videos. All right, hit generate and watch this. It builds the entire conversation
+and assigns different voices to the host and the guest. Now, here's the trick for the free plan. It won't let
+you generate the entire audio at once. Most people get stuck here and pay. We won't. Simply generate the
+segments one by one by hitting the play button and toggle on this. It takes about 10 seconds per block,
+meaning it adds maybe 1 minute to your workflow, but saves you $50 a month if you're broke. Listen to this
+quality. Hello everyone and welcome to Easy Way English. I'm John. And I'm Olivia. Hello. Today we have a very
+important topic for beginners. Yes, we will learn how to introduce yourself in English. That breath, the
+pause, that is what keeps retention high. Once you have all your audio generated, hit download. And we are
+ready to build the visuals. Now, for the visuals, we are not using stock footage. We are using Google AI
+Studio. I've put a specific prompt in the description. Go grab that first. Head over to Google AI Studio and
+click on chat with model. On the right hand tab, click on Nano Banana and make sure you have Nano Banana
+Gemini 2.5 flash image selected. But if you're already on the pro plan, you can use that. Paste the prompt you
+copied and enter your channel name right there. [Music] Let's set the aspect ratio to 16x9. But wait, don't
+hit enter yet. This is where 90% of creators get lazy. If you just copy paste this and run it, you are going
+to get the exact same images as everyone else watching this video. And YouTube hates duplicate content of
+late. So I want you to be a director and read through the prompt. Tweak the style, change the lighting, in
+fact, make it yours. Once you've made those changes to match your unique brand, then you hit enter. In
+seconds, you have original assets ready for your video. All right, import your voice over and the AI image
+into your editor. Drop the voice over on the audio track. Throw the image on top and stretch it to match the
+length. Simple. But here's the signature move you see on every viral channel in this niche. That soundwave
+effect bouncing to the audio. Let me show you the fastest way to create one. Go to this website and hit new
+video. We're going to remove the background later. So, we need a plain backdrop to make our lives easier. Grab
+a green screen background. Something like this works perfectly. Click media, hit upload, and bring in that
+green background. Now, go to the elements tab and you'll see tons of options. Just pick the style that matches
+your vibe. Next, upload your voice over and you should get something like this. Hit export. Wait a few seconds
+and save it to your device. Now import that into your main editor and layer it on top of your image. Before we
+remove the background, let's crop out that watermark real quick. Now we can remove the background. Adjust the
+positioning however you want. Center it, move it to the side, whatever feels right. Next, add captions and
+edit it to make it easy to follow. [Music] Finally, add a background track from the YouTube audio library and
+export. Done. You just built a professional look video that looks like it cost hundreds of dollars to produce,
+but it didn't. Hello everyone and welcome to Easy Way English. I'm John. And I'm Olivia. Hello. Today we have
+a very important topic for beginners. Yes, we will learn how to introduce yourself in English. It's the first
+step in any conversation. Exactly. Now, we need a thumbnail that actually gets clicked. And we're not going to
+spend hours doing that. So, just grab the secret prompt I've linked below and head back into Google AI Studio.
+Paste it in and type the exact text you want on your thumbnail. Usually, a shorter, punchier version of your
+title works best. Also, make sure you set the aspect ratio to 16.9. Else you'll get a square image. Important,
+just like before, don't just hit generate. Scan through that prompt and tweak a few details. Change the
+colors, the mood, or the setting so you get something unique that stands out in the feed. Next, import it to
+Canva to make sure you have the right thumbnail size. For the description and SEO strategy, I didn't want to
+make this video an hour long, so I have a separate detailed tutorial you can watch right after this. It breaks
+down exactly how to pull searchable keywords so YouTube knows exactly who to push your content to. If this
+system helped you see the potential here, hit that like button and subscribe so you don't miss the next
+strategy. I'll see you in the next

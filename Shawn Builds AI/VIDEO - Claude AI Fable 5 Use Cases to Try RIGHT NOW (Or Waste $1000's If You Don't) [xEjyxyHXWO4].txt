@@ -1,0 +1,311 @@
+Title: Claude AI Fable 5 Use Cases to Try RIGHT NOW (Or Waste $1000's If You Don't)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: xEjyxyHXWO4
+URL: https://www.youtube.com/watch?v=xEjyxyHXWO4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:26:59+00:00
+
+Kind: captions Language: en Anthropic just re-released their most powerful model to date in Claude Fable 5 and
+a lot of people are hyping up how powerful it is. So, I want to give you some actual use cases that you can
+use to put this power into practice. As an engineer who's worked at a Fortune 500 company and is currently an
+AI engineer at a multi-billion dollar media company, I want to give you some insight into what these large
+corporations are thinking about these long-running models for these long-running tasks. So, models just like
+Claude Fable 5. So, in the video, I'm going to give you a detailed breakdown of what Claude Fable is. I'll
+tell you, you know, some of the best use cases and ways that you can preserve pricing and costs that associate
+with it. And then I'll give you the actual use cases that you can do it for yourself. If you're not up to date
+with it, then this is the backstory on Claude Fable 5 and what happened with the whole banning around this
+model as well as you'll see over here Claude Mythos, which is another Anthropic model that's actually a bit
+more powerful than Claude Fable. But, basically, the US government temporarily banned this model because of
+some security concerns. They were saying that there was people were using it to crack software bugs and it was
+a security breach, a cybersecurity breach. So, they temporarily took these models down from from being able to
+use it in any of the Claude websites. And recently, a couple days ago, they actually re-released them so that
+they're available now. So, again, that's Claude Fable, which is more powerful than Claude Opus, but not as
+powerful as Mythos. So, it's kind of in between there, but these are still the strongest models that Anthropic
+has released. So, now that they're re-released, we want to talk about how we can use them for ourselves, for
+our business, for our teams, and get the best output. So, I put together this document here and we'll briefly
+go through some of the information you might want to know about it when you're comparing it to other models.
+>> [snorts] >> So, first of all, you're probably familiar with Claude Haiku. This is the lightest weight
+model. And the what we want to talk about the most here and take a look at is this input and output token cost
+here. So, this is the cost for when you're sending a prompt in, the cost for when you're taking a response
+back from the model. And then we also want to look at the context window, and this is how many tokens or, you
+know, around words that you can fit into an AI conversation that you're having. So, the lighter weight model
+here is only 200,000 tokens, and it's $1 for an input and $5 for an output. So, pretty cheap on this front. I
+do want to bring up my anecdotal evidence and my experiences with using these models, and I'll say that Claude
+Haiku, while it is the cheapest one and it has the smallest context window, it is definitely the fastest one,
+which is awesome, but at the same time the output isn't as good as some of the other models. We'll take a look
+at those ones here. And by far the one that I use the most is Claude Sonnet. I think it's a really good
+in-between model, and it is a little bit more expensive on the price side. So, instead of $1 and $5, we now
+have $3 input and $15 output. And the context window is actually much larger. We get a million token context
+window now. So, this is great for everyday use. Claude Opus is or was the most expensive one and the most
+powerful one before these new models came out. So, that one is $5 for input, $25 for output, and still a $1
+million or 1 million token context window. Lastly, we'll go to Claude Fable here, and we could [clears throat]
+see that it is $10 for input, $5 for output, and again, a 1 million token context window. So, this one is the
+most powerful one uh the lighter weight of the Mythos class. And this is going to be used mostly for
+long-running tasks. So, think about working on an entire code base all at once, checking bugs, doing code
+reviews, actually implementing the code yourself. That's what Claude Fable is really going to be for. If we
+take a look at the overall overview here, I put it in a chart, just makes it a little bit easier to to compare
+them. Again, we could see that Fable, the most expensive one, double the price of Opus, which is kind of
+crazy. Same with output for input and output here. And then we're going to talk a little bit in this video for
+preserving prices, but there is different kinds of prices for batching and for caching. And we can see the
+context comparison right here as well. So, a lot to kind of dig into there with the pricing, but good to get
+up front that understanding. If we take a look at, you know, what our goal is with these models, we want to be
+able to maximize our quality while minimizing the cost. And typically what's happening with these models, with
+all the previous ones and even the new ones, if you use them the standard way, as the quality of your output
+goes up, the cost goes up at the same rate. So, that's like going up from Haiku to Sonnet to Opus and then to
+Fable, the cost is going up at the same rate every single time you go to a better model. What we want to do is
+be able to increase this this quality, get it as high as possible, while making the cost go up as low as
+possible. So, it's always going to the cost is always going to go up as we're increasing the quality, but we
+want to get this discrepancy right here to be you know, not as uh as as small as possible. Rather than keeping
+it straight or even having it go up, we want to have it decrease so that it's the returns are higher in
+quality than it is in cost. That's the goal. So, with this background, let's dive a little bit into some of
+the ways that we can actually use Claude Fable. Uh there's four ways that we can use Claude Fable at the
+moment. The first one is within the chat. And this is I'm actually including with here um chat and co-work.
+But basically, in the desktop app or on the web, you can see that there is a Fable model selection right here.
+So, it's saying that it's the most capable model and draws usage much faster. But this was just re-released
+and this wasn't here even about a week ago. So, the second way that we can do it is within Claude Code. And
+you can see I have the terminal pulled up here. I did {slash} model and it actually says that Fable is
+disabled right now. So, this might not be available within the terminal, but we can get around this by using
+the Claude Code harness within the desktop app. The same desktop app that is being used for the chat. So,
+within here, again, you could see I selected Fable 5 down here. And yeah, that's selected. So, this is kind of
+a work-around that we can use Claude Fable within Claude Code. >> [snorts] >> Uh the next way is managed
+agents and this is actually going to be one of the more important ones that we touch on. Uh and we'll we'll
+get touch on it a little bit later as well. >> [snorts] >> But basically, in the Claude console, you can go to
+an agent section here. You can create agents and then you can assign a model. So, this one I gave it Claude
+Fable 5 and this is going to allow us to run workloads fully in the cloud uh completely managed by Anthropic's
+infrastructure. Which is going to be very helpful for these long-running tasks that we may not want on our
+computer. And the last way is through the Claude or the Anthropic API to interact with Claude. So this is like
+directly calling message APIs on your own and getting response. So you can see there's a way here where you
+know through code I think this is yeah this is through Python. You can use the Anthropic client. You can put
+in your model and your tokens, give it a message and get a response back. And the model here is where we would
+change it to be a fable model. So this is Claude Opus but down here I show you can do Claude fable here or
+even mythos. So that is the last way that we can use Claude fable. Now let's talk a little bit about the cost
+controls cuz as I mentioned and as you saw Claude fable is the most expensive model that's out there. And we
+want to be able to again we want to increase the quality by using these better models while increasing the
+cost as minimally as possible. So what are some tangible ways that we can actually decrease the cost? Well
+first of all it's compacting the context. If you think about the context window I have it pulled up here it's
+broken up into multiple different areas each one containing a number of tokens. So the messages here you can
+see it's the highest amount. Then there's the skills your skill at MD files all of those sit in your context
+which clogs up that context. And then you have your system prompts your MCP tools your custom agents and it
+continues to go. So the more you have in your context window this is all being passed to Anthropic and to
+Claude and will use those input token costs that I brought up earlier. These where are they at? Yeah these
+input costs. So we want to minimize that as much as possible. So, what we can do is run a command called
+{slash} compact, and it will actually compact the conversation down to the most important information instead
+of just clogging it up with all that message context. Uh and you can even specify specifically what you want
+to keep within it while you run this {slash} compact command, but even just doing it yourself here on its own,
+you can see it went from 27.8k tokens for messages all the way down to 10.7k. So, we saved about What is that?
+17,000 tokens just by running compact. So, if you think about the long run of using Claude Fable, this is
+going to save a ton uh cuz that's going to add up and compile over time. >> [clears throat] >> So, instead of
+having to run this manually every time, something we can do in our Claude settings, you can see the file here
+is in your user profile, you go to {slash} Claude, and then your settings.json, you can edit the environment
+variables. You can uh with this one here that is Claude code auto compact window. And this is at What is this?
+I think this is at a million right now. Yeah, this is a million. So, this is just saying that once it hits a
+million tokens in the context window, then you can go ahead and compact it. So, honestly, I'd recommend
+decreasing this maybe 100,000. Once it hits 100,000 in the context window, compact it down so that you're not
+spending as much. The second way that we can save on cost here is with prompt caching. So, with prompt
+caching, uh here's the cost doing it this way. Or actually, first I'll describe what caching is. Caching is
+you send a response or an input one time, and Claude will remember that response. Or Anthropic will remember
+it for you for all of your future requests. So, the next time you send the same exact request, and it needs to
+be the exact same one, it will remember that you sent it beforehand, and it will use that at a cheaper price
+than if you were to send it completely fresh every time. So, this is great if you're doing things uh multiple
+times in a row, and you don't want to count it every time. So, with Fable, the input, you know, normally it's
+$10 per million tokens, but with cash, you write it, and it's a little bit more, 12.50, but every time you
+read it now with these cash hits and refresh, then it is only 1 million tokens uh $1 per million tokens. So,
+much cheaper. It's a little bit more expensive up front, but once you're reading it after the fact, it's much,
+much cheaper. So, it makes sense if you're doing something over and over again. And you can see there's
+different prices depending on how long you want to cash it for. If you're doing it for 5 minutes, it's only
+12.50 versus doing it an hour, then it's going to be $20. So, definitely something that's worth considering
+for some situations. And the way that you actually implement this, and this is through the API here, you can
+see you just add in this cash control on one of the messages that you're making, and the type ephemeral, and
+that will implement the uh that will implement the prompt cash. So, some situations that you want to use
+prompt caching is with system prompts. Uh so, you know, like this, for example. You are an AI assistant tasked
+with analyzing literary works. Your goal is to do whatever this thing is. Those are things that you're
+constantly sending every single time with the AI, so it's perfect for prompting. Same with tool definitions
+where you're explaining how to use tools or what they are, and then reference documentation of how to do a
+certain process, for example. Those are all things that you'd want to cash. Lastly, we're going to talk about
+batching. And batching actually uh this is one of the cheaper ways of doing things. But, the situation here is
+that it needs to be something that is uh you're not required to have an immediate response cuz it takes a
+little bit longer. But, with batching for Claude Fable 5, the input is only $5 per million tokens, and the
+output is $25. So, that's literally 50% of what the base uh input and output are. Uh you can see here what
+that looks like in Claude console. There's a whole batches section here, and you just submit this batch, and
+then you get all the outputs here that just run on their own. And then when they're finished, you can go call
+that batch back and get the responses. And this is what it actually looks like through the API. You do this
+batches.create command. You give it the request with your uh model, your messages, and you just send in that
+batch. So, again, you'd want to use this when it's a large amount of data. So, you're doing this multiple
+times. You can see up here, you know, that I have 3,000 requests up here. This one's 588, but mostly batches
+of 3,000 I'm doing. The immediate response is not required. So, you don't need to get it back right away. This
+is something that you can just submit, let it run, and get the response later. And then this needs to be the
+same, not some, process that's done multiple times. So, for this one, I was like sending it to with
+information about people to get um to get a summary about them. So, it's the same prompt that I'm doing in the
+same process that I'm doing for every single person. So, it's a perfect situation to batch. If it's all unique
+things that are going on, that's probably not something that we want to batch. So, those are some of the best
+ways to control cost here. And now I'll talk about some of the best practices to use when you're using Claude
+Fable. So, first off, you're going to want to use {slash} goal and give it a success criteria. What {slash}
+goal does is that it will run your AI prompt and it will continue running it until it reaches your success
+criteria. So, you can see the example says {slash} goal, all tests in test {slash} off pass and the lint step
+is clean. So, this is for coding. And this way it'll continue to run, continue to run tests on your code until
+it reaches the success criteria where the step is clean. So, for a long-running LLM model like Claude Fable,
+this is the way that you get it to run long and then finish when the correct criteria is met. Next up is using
+sub-agents properly. And sub-agents will allow you to break up your primary task into multiple different
+sub-agents or agents that are running underneath the main agent. Each of them is going to do a different task,
+give a result, and then send it back to the main agent. So, it is using more tokens cuz it's doing things in
+parallel, but it is going to get a response faster. So, that's the main benefit of it. So, this example shows
+using sub-agents research the authentication, database, and API modules in parallel using separate sub-agents.
+So, instead of going in series and doing each of them one in a row, which is going to take forever, especially
+with a high-thinking model like Fable, now it can do these things that don't need to be done in sequence in
+parallel, compile the results, and give it to the main agent. This has honestly been one of the main unlocks
+for time savings with um not just Fable, but all of the models that I use. And the last one, we touched on
+this briefly, but that is managed agents. So, these are perfect and custom built for long-running tasks and
+asynchronous work. So, you can set these up in the Claude console. There's a whole agent section here, and
+they have a quick start as well. So, you can just chat with Claude to create these, or you can use some of the
+pre-built pre-built templates. And we'll touch on this again a little bit later with the use cases. So,
+speaking of the use cases, we're going to do three different ones here just to give you a wide example range
+of what this looks like. So, the first one is going to be checking for bugs within a code base, and this is
+going to be using Claude code. Second one is going to be analyzing documents to pull out insights. This is
+going to be using We're actually going to use Cohort for this. Uh because sub agents are only in Cohort and
+code. And lastly, we're going to do web research, and we're going to run that through a managed agent. Now,
+again, I'm showing you here Claude code, Claude Cohort managed agents to give you a variety and understanding
+of how it works, how the model works within all the different platforms, but I think that the best way to do
+this is to try to run everything through a managed agent because, again, this is a long-running task. It
+should be an autonomous agent that's running something and not waiting on your computer. But, again, I'll show
+you all of these as an example. So, let's jump into the first one. I got Claude code pulled up here, and I'm
+in the folder for a web app that I was actually building and working on called Gourmand. And I'll show you the
+website here, uh one of my brilliant ideas uh to build a web app that will generate recipes for you using AI.
+Um this was like before vibe coding. I was trying to get into using AI. Uh don't think anyone's ever going to
+pay for something like this, but uh it was good experience to get to learn how to develop web apps, deploy
+them, build, etc. Um pretty cool, honestly, how it works. Basically, we're going to use Claude Fable, which I
+have enabled right here, to check for bugs that's in this code. So, within the folder here, I'm going to paste
+in this prompt here saying to use {slash} goal, review the whole code base, produce severity-ranked bug and
+code quality report using parallel sub-agents to review different areas simultaneously, find uh for each of
+the findings, give me what the issue is, where it lives, what's the severity, and a recommended fix. Stop when
+all the files are reviewed and the report is created. And this is just saying to not make changes, but only
+diagnose the problems. Again, in production for uh for enterprises, the goal is to get to the point where AI
+is able to do these long-running tasks, to bug fix, come up with actual solutions, like this is doing, but
+also to implement it and create pull requests so that the developers can go and approve them. But for this
+situation, let's go identify the bugs first. So, I'll run this and we're going to let this go. Again, it's
+going to use goal to keep running until we hit this success criteria. And it's allowed to read. And it's going
+to finish when it hits the yeah, success criteria and use multiple sub-agents to check out all the files. So,
+I'm going to let this run and I'll get back to you when it's complete. This is still running, but I just
+wanted to let you know that I'm going to provide all of the prompts that I'm using for this demo here, uh all
+of these for all three use cases, uh completely for free. Link to that is in the description below. That way
+you can copy and paste if you want. Claude just finished up and it's definitely important to note that this
+does take a while when you're using Fable 5. It's It's the fastest model. Again, it's a long-running task
+model, but go gives uh uh very high-quality outputs. So, this probably took around 30 minutes. I was able to
+heat up dinner, eat it, made myself a drink, uh and finally finished up here. And it actually took a lot of
+tokens as well. But pretty cool that I was able to analyze my entire codebase. Uh this isn't a huge codebase,
+but it's also not small. Uh you know, relatively medium-sized um Laravel application if you're familiar with
+that. Uses PHP and React and JavaScript on the front end. And it came up with this report here on any
+vulnerabilities that I have or bugs within my code. Uh so, pretty sweet. This is the first time I'm taking a
+look at it. So, it has this executive summary, goes over the critical uh criticality and the severity of each
+one. Looks like I have two that are critical and a ton that are medium and low. >> [snorts] >> And then it
+breaks them down. Uh breaks down each of them. So, I have a couple that is uh these are just this just stops
+the code and prints it out. So, that's pretty critical there. Um talking about my Docker image. Uh pretty
+sweet. It goes through every single one. And I think this is the cool part here is that it actually created a
+pull request for me, which adds in this file. Uh but the next step would really be to allow this to go ahead
+and fix those vulnerabilities and then create a pull request that has all those fixes in it. So, that's really
+the power of Fable 5. Again, just kind of set it, let it run in the background, do the work for you, let you
+review, and then be able to implement the changes. The next use case we're going to touch on is doing document
+analysis with Fable and multiple subagents. So, in this case I uploaded the 10-K document for Microsoft. If
+you don't know what this is, which I didn't know before making this video, a 10K form is an audited report
+that's done by the US Security and Exchange Commissions for all publicly traded companies. So, Microsoft's is
+actually huge. This is the page right here on sec.gov. It is a little over 100 pages long. Yeah, 101 pages
+here going over all this information about their security. Um yeah, all this business information here. So,
+you can imagine that your company that you might be working with might have a file like this or multiple other
+kinds of documents and files that you need to be able to work with and analyze. So, setting off Fable 5 within
+Claude is a good way to go through all of it, set a goal, run parallel sub-agents to analyze it and come up
+with the report at the end. So, put that in here. I'm going to paste this prompt here, which is using a goal
+to analyze this filing. It's going to use four parallel sub-agents that are running at the same time to find
+financial risks. It's going to find the revenue streams. It will take a look at the anything related to legal,
+so regulation, litigation, contingencies. And then it's going to be everything that's forward-looking
+statements for the outlook in the future. And then the success criteria is going to be that it returns a
+structured summary with the direct quotes, page numbers, basically sourcing where it found it, and synthesized
+into an a single executive brief. So, let's go ahead and run this. I just tried to run this and saw that
+Claude Cowork actually doesn't allow for the goal command here. So, uh we're going to remove that and just say
+that this is the goal here. Um that's good to know going going forward here. Um but we'll try this and we'll
+see what it comes up with. Cowork just wrapped up and I think Cowork is actually the best at displaying the
+sub-agents that are running. Uh we could see here I expanded the agents and you can see each one basically
+what they're doing here. Uh, this one's analyzing. So, it ran three steps. Nine steps, 15 steps, 19 steps. And
+I thought it showed actually what each one is doing here. Yeah, I think all of these below is basically what
+the agent was doing. Um, but regardless, so it ran these four different agents. 46 total steps would have
+taken forever if it wasn't in parallel, but we got them running at once. And in the end here, it came up with
+this executive brief. >> [clears throat] >> So, there's the executive summary that we asked for, the financial
+risks it pulled Let's see the second section, the revenue analysis, going through each segments. Nice. And the
+legal regulatory concerns or points that are brought up. And then lastly, the forward-looking outlook
+statements. Awesome. So, you can imagine what this would look like with even more documents than this. Having
+something that can analyze these, again, if this is a managed agent, you'd have it analyzing it on repeat
+automatically, just running in Anthropic infrastructure. Making sure you're going through using sub-agents and
+pulling out the insights from here. You could just send it to, you know, maybe the executive team or draft an
+email or save it to a Google Drive, etc. You can You can imagine what else you could do from here. And the
+last use case, we're going to use the Anthropic managed agents for web research. And in order to use this,
+we're going to go into platform.cloud.com and this is the Claude console. Within here, you can manage all of
+the API keys that you have, so you can use the Claude API or the API to actually trigger these managed agents.
+You can create the managed agents here. Uh which will This is the part where we're really going to go into
+here. But you can also manage the batching. Uh let's see. Yeah, right there. Batches here. Um Yeah, and
+there's a lot you could do basically programmatically with Claude through this console. But the part that
+we're concerned about here is creating a managed agent. And there's a quick start section here. It will let
+you build out based on different templates that already exist. So we're going to go into here, create a blank
+agent. And we're going to paste in this JSON that I have right here. Uh okay. Let's use this template. And now
+we can edit it. Let's go to JSON, paste this in. All right, I fixed the formatting. But we can see here that
+it is a competitive intelligent agent. I think I already created one, so I'm just going to call this number
+two. There we go. Uh the model right here is very specified using Claude Fable. And here is the actual system
+prompt. So we're going to say you're an expert competitive intelligence analyst. Your job is to research AI
+workflow automation competitors uh thoroughly. It's going to produce a structured comparison report. And it's
+going to compare against N8N. It's going to use Zapier, Make, Workato, Tray, and Microsoft Power Automate. Uh
+so it's going to use those, and it's going to do it with in parallel sub agents. So one per competitor doing
+this research, doing the company overview, funding, its core capabilities compared to N8N. Uh it's going to do
+enterprise customers, weaknesses, etc., and give a summary at the end. Um the cool part about managed agents
+is that you can get an output at the end as long as you specify to create that output in this path right here.
+So that's the uh mnt, so like mount session outputs, and then anything in that folder will be an output. So,
+we're creating this competitive brief.markdown file. We're going to always set our services no when data is
+unavailable. And that's pretty much it, create the brief. Uh then we're going to give it a couple different
+tools here. You can provide it with MCP servers, which is nice, but we're just going to give it straight-up
+tools. We're going to Yeah, it's within this tool set. And it's going to have the ability to The most
+important one here is web search and web fetch. And bash is to actually create that file at the end. It's
+important to do permission policy, always allow so that it doesn't have to ask you every single time to run a
+command. So, awesome. Let's go ahead and we're going to go with this. And now we need to configure the
+environment. So, this is where the agent's actually going to be running. And you can provide different
+configurations for what it's allowed to access from a network perspective. So, if you want to lock it down
+only to certain websites, you can do that if you want. Or you can leave it completely open and unrestricted to
+access any website. And that's actually what we're going to do here. Um we don't really care too much for this
+purpose. So, it's going to use the environment that we already set up. Um or actually, I'll create a new one
+for this. So, create a new environment. And again, we can limit the hosts here, but we're just going to say
+unrestricted. Cool, so I created the environment. And now it's creating the agent, and we could start the
+session. Now we can give it a test run. So, we'll do test run here. I'm going to say Honestly, all we should
+have to do is say run. And you know, we could do it here. I'm actually going to go into the sessions here. Uh
+and this is where you manage all the sessions that's communicating with the agent. So, we can create a
+session. We could say demo. We're going to use the right agent, right number two here, give the environment
+that we want. Uh this is the one that we just created. We're not going to have any any credentials. And you
+can provide it with a resource that is a GitHub repository. So, this is what's awesome if you want to do
+something like editing code or running tests within your code, things like we did in the first use case. This
+is how you could do that within a Claude managed agent. But, in this situation, we're not doing that. So,
+we're going to create the session. And in here, we can just click run and send. So, we're doing this manually
+right now, but there's actually Claude managed agents API. And if we wanted to, we can interact with the agent
+through an API call. So, we can see here in Python, this is how you would actually create an agent, pretty
+much doing exactly what we just did, where you're setting it up with a model, a name, system prompt, and with
+specific tools. And then, you can create an environment and give it a session. So, the session takes the
+agent, it takes the environment, puts them together, creates a session that you can then chat within. Uh so,
+that's what this is doing here. So, pretty much exactly what we did manually in the Claude console. The
+managed agent just finished, and it says the report is completed and saved to the location that we specified.
+Uh managed agents are pretty cool that you can see the exact breakdown of basically how long things took, when
+it happened here, and the transcript that's happening at the time. There's also a debug feature that goes
+through even more in depth. Um but yeah, pretty cool. Um the output that I'm mentioning here is actually saved
+this spot right here that says one output. And there is the brief, uh which we can actually download if we
+want. Let's do that. Let me open it up. Got an anti-gravity here. And we can use this tool right here to take
+a preview at what this markdown file looks like. So, cool. And it then versus the other workflow automation
+competitors, we have the executive summary that goes through Oop. Let's go back over here. There we go. So, it
+goes through um each one of these, comparing them, setting the baseline of N 8 N, going through each of the
+profiles here. Nice. Got all five. And then doing a comparison matrix. Nice, comparing all the different
+metrics. Specifically the ones that we asked for. And then it's going to give us some strategic takeaways,
+some gaps, and sources. Awesome. So, you can imagine how useful this would be if you're doing a lot of
+research. And again, setting this as a managed agent could allow it to work on its own on a long-running
+research report without you having to do it on your computer and waiting for Claude to finish up. That should
+give you a pretty good overview of everything Claude Fable 5 related, some use cases to go along with it, and
+then some best practices to get the best outputs possible, along with how to conserve cost and price with this
+expensive and powerful model. Now, if cost is top of mind for you, which it should be because AI is getting
+more and more expensive, then you could also look at using another model. Uh GLM 5.2 is brand new and it
+compares just as well with Opus from Anthropic and across multiple different output metrics. And the really
+cool part about GLM is that you can use it directly within Claude Code so that you're getting the same outputs
+at 1/5 of the price and continue to work within your normal workflows and not change anything at all. So, if
+you want to see how to use GLM 5.2 within Claude Code and set that up properly, then go ahead check out this
+video.

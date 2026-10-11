@@ -1,0 +1,314 @@
+Title: Copy These 3 FREE Claude AI Employees (No Code Agent Skills)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: EFEhnczNJ0s
+URL: https://www.youtube.com/watch?v=EFEhnczNJ0s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:25:44+00:00
+
+Kind: captions Language: en This is the first time in history that a company of just two employees was able to
+reach a valuation of $1 billion. And they did it by designing their company around AI instead of just using it
+like another tool. Then how is it possible that less than 1% of companies in the world are actually taking AI
+seriously? Isn't it funny how the most powerful money-making tool of our lifetime has come out and barely
+anybody knows how to use it the right way. It's like how Amazon and Google were the first companies to design
+their business model around the internet when it first came out to become the giants that they are today. But
+the difference is that right now it's easier than ever to start using AI to transform the way that you work.
+As an AI engineer myself who's worked with everyone from Fortune 500 companies to single-person coaching
+businesses, [music] I've seen all the different ways that people do work. And I'm going to be real with you.
+Most teams are not working as efficiently as they can be. So in this video, I'm going to cut straight to the
+point and show you the three AI employees that I think have the most potential to help companies who are
+starting from zero with AI. Now this isn't just theory. This comes directly from my experience as an AI
+engineer automating workflows and implementing AI solutions for the past 5 years to save companies hundreds
+and thousands of dollars. I've even used these exact models to help teams that I partnered with go from zero
+AI and automation experience to now bringing in an additional five figures of revenue per month in a matter of
+weeks. With Redmax for example, just 3 months ago they were onboarding all of their new projects manually. And
+now with that additional 20 hours per month, they've used it to land and deliver for a brand new customer. So
+yeah, I'll show you the top three AI employees that you can use for yourself for free this week. But first,
+let's see how you can tell if an AI employee is right for you. The first step we need to do to identify if we
+should be using an AI employee is to map the three pillars of business. And this is something that I've found
+to be useful for every single business or company or even team that I've worked with. Now, there's typically
+three different areas of business. You have lead generation, which is how you go and bring people from the top
+of the funnel, which means that they don't really know about you, down to the middle of the funnel, and then
+eventually down to the bottom of the funnel. And from the bottom of the funnel, that's where you're able to
+bring them into the second pillar, which is sales. This is the process of taking in a lead, telling them about
+your company, and then eventually landing a deal, and then bringing them into your system. Once you sell them,
+you now have to deliver on either your product or your service that you're offering. And there's a lot of
+different operations that go into delivery. But, it's important to note that they're all all the employees
+that we'd be building are going to fall into one of these three pillars. So, for the exercise, you're going to
+have to start drawing a table. And you can map each pillar here on the left, lead generation, sales, and
+delivery. Now, for each of these, we're going to identify roles for each of them. Now, this could be a role,
+this could be a single person, or it could be an entire team. Or if it's just you, maybe it's just, you know,
+different roles that you are doing or different hats that you're putting on. But, we're going to call them
+roles. So, for lead generation, there's multiple different roles that are being done. There's marketing. Maybe
+you're doing SEO as well, search engine optimization. And maybe you're also an SDR. As in that you're going
+and finding the prospects to bring in. We're going to start just on top here with lead generation. And
+underneath each of those roles that we've identified, and of course you can make this more than three, you're
+going to talk about or identify and write out each of the workflows that are associated with that role. Each
+of the workflows should be in the form of an action. So, it's something that you're actively doing. So, let's
+take a look at marketing. We're doing content creation, we're doing campaign setups, and we're doing
+newsletter sendings. For SEO, we're doing things like keyword research, backlink checking, content
+optimization, and the role is for SDR is copywriting, list building, sending emails. So, these are all
+tangible workflows that you're doing. If you think about an actual employee, typically they would fall into
+one of these, right? So, you have an employee over here, and maybe they're just in charge of content creation,
+or maybe they do content creation and campaign setup and newsletter sending if they're on your marketing team.
+This is what we'll be creating with AI. The next thing that we need to do is to identify which of these
+workflows are the current bottleneck in our business, meaning that if this thing could be done faster, we'd be
+able to grow even more. One of the companies I worked with was the sales team at Maxwell Social, which is
+actually a really cool event venue in New York City. They hosted some really cool events that have Reese
+Witherspoon there. They've had Brian Johnson, even Matt Damon, and host cool events for different things like
+Fashion Week in New York City. We determined that that list building to them was the bottleneck. If they were
+able to build a list with more people in it, then they'd be able to reach out to them because they had the
+capacity to reach out and do a lot of cold calling, but building the actual lists was their limitation. So,
+now that we've identified that as the bottleneck, we're going to go to the next step of building an AI
+employee. Our goal was to identify as many prospects as possible that are highly qualified that we can use to
+build a list for them to reach out to. So, our goal was to build a TAM list. And if you don't know what TAM
+is, it comes from the sales world or go-to-market world, and it means total addressable market. There's a
+diagram up here that shows the TAM, which is the total market for your product. But then there's also other
+ones underneath like the SAM, which is how many you can realistically capture. And then you have the SOM,
+which is the amount that you can actually acquire. If we work through the TAM here, the first step is to
+actually acquire leads. This is actual people, their names, their email addresses, what company they work for,
+their phone numbers in this situation. Then we're able to split them into tiers, where tier one is the best
+prospects to reach out to, tier two not as good, and tier three is the worst. And then some of them we might
+drop off entirely if they don't really fit into the market that we're targeting. After we get the tiers, we
+can split them into segments. So maybe we'll say, "This is the segment for people working in tech." Or this is
+the segment for people working in finance. And this allows us to do better targeting of campaigns. And then
+lastly, we want to figure out some level of personalization, so that when you call them or when you send them
+a message, you can actually say something that sounds like a human instead of just a generic message that
+you're blasting out to a ton of people. So that is the process that we were able to build an AI employee
+around. Once the workflow and the process is identified, you then need to translate it into something that AI
+can actually understand. It's like speaking another language, right? How you work in your business is one
+language, but how AI understands what to do is another language. So we need to bridge that gap. And I'll show
+you exactly how we can do that for the AI employees. The best way I found is to build a standard operating
+procedure, or an SOP. So this is the process that we just identified or the workflow, and then going through
+exactly what's the name of the process, who are the people involved? What's the purpose? Definitions of what's
+going on within that process. And then going through literally step-by-step 1 2 3 4 of how to actually perform
+that workflow. It's like you were training another person, right? It's very similar. Once we have that, we can
+turn it into what's called a skill. And a skill works not just for Claude, but it works for a lot of different
+AIs at this point. And the way a skill is structured is that there is what's called metadata up top. Basically
+just the name of the skill, which would be the name of the SOP, a description of what it does, and then all
+those steps and overview and description that we talked about here. All of that goes in the free-form context
+down below. So now we have a single workflow that's in a format that an AI can use. But how do we go about
+building the rest of the employee? Well, to do that we need to also understand what is the marketplace
+framework that's used by Claude. If we look here, we could tie it back to our business definitions. We have
+the overall pillars, lead gen, sales, delivery. We have the roles that go to them. So that would be like an
+SDR, marketing, anything like that. And then we have the actual workflows. So this situation is list building.
+We can map them directly one-to-one with AI. So with AI, you have a marketplace, which is just a collection of
+plugins, which contains multiple different skills. So for marketplace, you would have a lead generation
+marketplace. And within that, you'd have your AI employee that is a plugin. So that plugin in this situation
+would be an SDR. Then within the SDR plugin, we'd have multiple different skills. One of them being the one
+that we identify here, which is the list building. And if you want to continue giving your AI employee more
+and more skills or more and more workflows that they're responsible for, you would just take this and keep
+building out more skills. And then you could take that with the plugins, build out more and more plugins
+within the marketplace. And now all of a sudden you have a lead gen marketplace. So we could say like lead gen
+that handles SDR. Let's say you also have marketing. And then this could be list building. You could do
+copywriting. If I could spell. And then you could do sending emails. You get the point. And this is how you
+expand your abilities for your AI employees. Let's go ahead and build our first AI employee, which is going to
+be for lead generation. So in order to do this, it's available completely for free. The link is in the
+description. Just go ahead and download the plugin. Once you download that, you'll have a zip file that you
+just do the plus sign here. When you're in Claude, so you go to plugins, and you do manage plugins. From here
+you can do add, you can upload a plugin. And then all you'll do is that you'll drop in that zip file that you
+downloaded. Click upload, and you'll see here that this will load. This is your lead gen pipeline employee,
+and it has all these different skills that map to workflows. And yeah, we can click on them to see what's
+involved with them. This one is personalizing about people. It's also collecting a total adjustable market
+like we defined earlier. We have the tier, which is going to be tearing the people. We have segmenting them.
+So, a lot of things that it's doing here, but this is like one employee that has the ability to do all these
+different workflows. So, let's go back to our chat, and it's important to note that there's one other thing
+you're going to need to run this. And that is a connector. If you look at uh connectors here, manage your
+connectors, you can do add and browse, and the one you're going to need is called Apify. I have it set up
+already, but if you haven't heard of Apify, it's a platform here that allows you to scrape from multiple
+sources. So, this includes information about people. So, if you go to their console here, all you'll need to
+do is log in, create an account. You have $5 for free, which you can actually do a lot with. You can scrape a
+lot of leads. And all you really need to do to get this set up is go to settings, go to API and integrations,
+and you'll need to copy what this is right here, this API token. So, go ahead and copy that, and you can go
+back to Claude, and when you're configuring this, you just drop in your API token right here. And that'll be
+all. So, let's go back here, and now that we have it installed, let's give it a little refresh, and we can
+click this plus sign here, go to the lead gen pipeline, and I actually created this skill here within it that
+will bring you down the whole pipeline of building up the TAM. It's going to segment it, pull in the leads,
+tier them, and personalize it. So, let's run this list build. We'll click that, and we'll do start. So, it
+just created a form here that we need to fill out. And this is to identify what our TAM will be. So, the
+campaign, let's call it SEO agencies. We'll target different SEO agencies. Say the industry target or
+vertical, again, SEO agencies. The geographic, we're going to do US only. Company size, let's do let's do
+mid-size for 51 to 200. Buyer persona. Uh let's say we're selling lead generation to them. So, we'll target uh
+let's say founder, owner, CEO, also sales leaders, marketing leaders. And we don't need to exclude anything
+here. So, we'll continue. And now that the TAM is set and it's identified based on our filters, we're going to
+go ahead and segment them. So, let's say yes, you can segment them. It's going to run that skill now. You can
+see here that it used the lead gen pipeline segment skill here. And we'll see here that it's going to segment
+based on the title, which I think makes most sense for this situation. This looks good and let's proceed. And
+cool, it saved the segments. And it says next stage you want to source leads from Apify. Uh let's do it for
+one segment. And for now, just grab 100 leads. So, we'll just do this as a sample size to see if the kind of
+leads it's returning is what we're actually looking for. Let's start by targeting the founders, owners, and
+CEOs. Oh yeah, and make sure that Apify is actually enabled here. I didn't have it enabled, so we'll turn that
+on. We will stop this, give it a refresh. And let's try it one more time. Cool, so it found the tool and now
+it's going to look for the right scraper from Apify. So, we'll allow that. And now it wants to run the real
+scraping here. We could see it's for 100 leads. And the seniority that's looking for. So, let's do it. If we
+hop into Apify, we can see that the actor actually finished here and it grabbed 100 results. We can see that
+the output returns first name, last name, their email, LinkedIn URLs, and a bunch of other information about
+them. Back in Claude here, we can see that it pulled in the leads from Appify in this leads table. So, pretty
+cool. It shows all 100 of them. Nice. And gives all their information here. Great. So, let me close this. And
+now that we have our contacts, so the next stage is tearing. So, yeah, let's run the Again, can't spell. the
+tearing. And that should use our tearing skill here. Again, if we go to plugins, lead gen pipeline, there's
+the tier skill. So, basically another workflow. It's going to go through and add another column into that file
+that I just showed. We just finished tearing them and I had it merge it back into our data file. So, if we go
+to the leads.csv, we could see now their score and what tier they are. So, pretty sweet. We know our highest
+priority ones that we want to be reaching out to. So, now it's talking about doing personalization here.
+Writing personalized cold email openers. Let's do that for tier A. Run personalize for the tier A and add to
+the files. Cool. And we'll see what kind of output it does because it's using all the information we gathered
+about the prospect and it's going to use that to come up with a good personalized email. I just finished up
+and check out some of these messages. They're actually really good and super personalized. So, for this one
+here, it's saying congrats on the Forbes 30 under 30 nod. So, yeah, I mean, if if you saw that, like, and
+someone is recognizing an accomplishment that you had, definitely more likely to respond. As this building the
+media company into Forbes recognize, well, staying lean is impressive. This one is saying 150k plus projects
+completed and 3x Inc. 5000 honoree. That's serious scale. Um so just again, acknowledging some of their
+accomplishments. This one is saying, "Hosting the Personal Injury Mastermind podcast along with running
+rankings.io tells me you're deep in the legal SEO niche." So again, talking about some personalized
+information here. Uh again, all all this is gotten from the scrapers, which is pretty sweet. So then it says
+specific numbers that they're able to scale ARR to. And this one says, "As your agency's been running since
+1974, over 50 years in business is remarkable." So you can see how personalized these can get and why these
+would give a lot better responses than a generic "Hey, quick question for you" type of email. Again, if you
+want to download this AI employee completely for free, link is in the description below. Go ahead and check it
+out. Let's move on to our second AI employee here, which is for the second business pillar, which is sales. So
+sales is super important in order to convert the leads that you've brought in from lead generation into a
+buying customer. And there's multiple different roles that are identified here. There's account executives,
+which do account research, writing contracts, onboarding clients, and then some additional ones as well.
+There's sales, which write scripts, do scheduling, qualifying leads. These are the ones actually on the calls
+closing the deals. And then you have the sale operations, which is handling a lot of the back end. So like CRM
+management, pipeline reports, renewal tracking, all of that. Another company that I recently helped out with a
+sales automation employee is Red Max Events. And what they do is they put on really cool corporate events for
+different companies. So they've had events for companies like Dunkin' Donuts. They've done it for Wonder, for
+Wilson, the basketball company, and even the reigning NBA champions from the Knicks, Jalen Brunson and Josh
+Hart, their podcast that they host. When we took a look at their overall business processes, we found that
+there's one part here that was taking more time. And that was the onboarding client. So let's underline and
+bold this as the target workflow that we want to optimize for. Here's a better look at the actual process, and
+just as a reference to the amount of time it took, this was taking 5 hours a week to onboard clients. And this
+is because he was taking a long time per client that were getting multiple clients or project proposals
+through the door, and all of them they needed to onboard. And after the automation, it takes under 60 seconds
+to do it for all of them because it does automatically. So, the new project here, once it comes in, they need
+to put it through all their different systems, so they create and track it in monday.com through project
+management, they create some items in Google Sheets, they make a Dropbox folder for files, they take care of
+invoicing in QuickBooks, and they use a program called called CompanyCam to track the progress of the event.
+And this actually shouldn't be here. Let me get rid of that. But all of this would take forever, right? This
+was all copy and paste. So, they would get information in, they'd have to copy and paste the name and all the
+information every single time to every platform. And if they did a typo, now there's misinformation that's
+around that they need to go back and redo. And this would actually happen pretty frequently. Uh not only that,
+but it was taking time away from the employees to go out land more deals and actually deliver on their
+clients. This is stuff that was kind of like wasting time, right? Things that aren't moving the needle forward
+in the business. Basically, the opportunity cost of having to do this as opposed to other actions was huge.
+So, this is something that we really wanted to knock out for them. Now that you've seen what this looks like
+for Redmax here, go ahead and identify what areas of your sales process are your bottlenecks. And come back
+here when you're done, and what we'll do is we'll hop into a different AI employee that I found that can
+handle a lot of the different situations that you might be dealing with. So, let's go on to that link here.
+And it's actually a repository within GitHub called Sales Obly, and they have their own marketplace here. If
+you remember the marketplace structure that we talked about, that takes a ton of different skills, which are
+the workflows. So, how do we go about adding someone else's marketplace or AI employee to our Claude? Well,
+all we have to do is copy this name right here after the github.com. Once you're back in Claude here, you can
+click this plus sign again. Let's go to plugins, manage plugins, and we'll do add add marketplace. And now you
+can choose add from a repository. We will paste in the name that we did here, select use, and sync. So, pretty
+cool that you can add other people's plugins here. And they have a marketing and a sales one. We're
+specifically looking at the sales one. So, we'll click the plus sign here. And cool. We can see that it's
+added now. So, you can click continue on this. Let's go back one level and look at the actual plugin again,
+right here. >> [snorts] >> And we can see all the different skills that are connected to it, as well as some
+connectors if you want to access outside information. But those aren't required. So, we have the skills here,
+and we're going to take a look at two of them here. We're going to look at the prospect research, and we're
+going to look at the cold call scripts. Let's go back to the Claude chat. Let's give it a refresh here. And
+we'll do plus sign. Let's do plugins. This one was sales skills. And let's start with the prospect research.
+So, we'll click enter. So, it's going to load a form here, and we could do prospect research for an individual
+person or for a company. Let's do a company for our situation here. So, I don't know. Let's do um what is it?
+Gary V's company, VaynerMedia. Let's do VaynerMedia. No LinkedIn URL. >> [snorts] >> And what's this research
+for? We're going to say we're going to be prepping for a call. So, let's say we got them on a call and we just
+want to be prepared for it. Um nothing else that they need to know. Let's continue. It built this report here,
+a knowledge capsule, that has everything we need to know for Vayner Media as if we're going on a call with
+them. So, there's some quick facts here uh talking about their offices, their size, all this stuff, uh company
+focus, what they're focusing on right now, which is important to bring up on a call. So, you could say that
+they're mid-transitioning, pushing hard to merge media and creative into one system. So, pretty cool when you
+can gather this insider information and bring it up in a call. It shows that you've actually done research
+instead of just like this is a process that you do for everybody. Then it gives public information, which is
+again good to know to bring up, so you can ask about how the Leaders Summit went. Uh some contacts that you'll
+probably be talking to or maybe talking to or may want to bring up as decision-makers. Gives you a couple
+conversation starters based on all of that information. So, yeah, again like I mentioned the London Summit
+here. Uh some pain points you might be dealing with as you go through the conversation and just some
+confidence how it will go. So, now that we've done some research on this, let's run the next one here, which
+is going to be in cold outbound script. So, we'll go to the plugin, the AI employee, and tell the employee to
+create some cold call scripts for us. We'll say that the company is selling selling lead generation through
+cold email. And the outcome we um let's just say book 20 calls for them. Proof points, let's say I did this
+for my own company, Automates. And the goal of this of the cold call is to book a 20 to 30 minute meeting to
+dive a little bit deeper. So, let's say continue. We just wrapped it up and we got the whole cold call script
+right here. So, it's saying an opening, "Hey, this is Shawn. Did I catch you at a bad time?" Wait for a
+response. Say, "The reason I'm calling is that we help their type of company fill their calendar with sales
+calls using cold email without them having to touch prospecting themselves." We have a specific value prop
+prop proposition here. Words are hard. Saying, "We run done-for-you cold email lead gen. We handle this, list
+building, copy, sending email inbox management, all the above." Uh do some qualification here. How to close it
+and how to handle objections, which I think is really important because if you're not prepared for objections,
+then it's easy to crumble under the pressure of the moment. So, just so you know exactly what to say if you
+get an objection like, "I'm busy right now. Send me an email. We already have a solution." etc. And that
+brings us to the final business pillar here that which is delivery, where we'll be building out our last AI
+employee. So, within delivery, we have a couple different roles that we've identified. There's operations,
+which will handle writing standard operating procedures, vendor management, creating deliverables for clients.
+You have finance, which can be invoicing clients, uh doing payroll for your own employees, and preparing for
+tax. And then you have customer success, which is handling kickoff calls, customer service, and check-in
+calls, not checking calls. Let's Let's edit that real quick. But, uh this is actually something that I helped
+with another company. Uh this one was a coaching company, Shauna Moran Coaching. She does one-on-one business
+coaching to help them with all their leadership and executive skills. And she's worked with a lot of cool
+companies like Webflow, HelloFresh, Shell, and even KPMG. The part of the delivery process that we identified
+as a struggle for her was this deliverable creation. So, let's mark that as our bottleneck. And the reason
+this was a bottleneck is because for every single retainer client that they have, they're creating these
+individualized uh PowerPoint presentations to give to their leadership teams. So, it's understanding every
+unique piece of their business, customizing the presentation to meet who they're talking to, right? The exact
+people, the exact problems that they're dealing with, and even putting the presentation in their style, right?
+So, it's doing all that plus mixing in her own coaching principles into that. This is a process that would
+take up to a week to do all manually. Uh so, obviously, an AI employee here can do this a lot quicker and a
+lot more efficiently. So, by the end of it, we implemented a few different solutions that got that time from a
+week to under an hour, where they're able to build out these deliverables that are fully customized and check
+in with her to confirm that everything's good before having a final result that's polished. Exactly like we
+talked about, I built out some Claude workflows, some skills that we gave to this AI employee. And there's a
+few different ones here. There's a project assistant, which was actually super useful, and I built out this
+Drive Resource Mapper that would look through their Google Drive at all the different frameworks and
+worksheets and determine which ones are relevant to the client. Then there's a session plan outline that would
+give out the whole plan of what's going on with that individual session. And this needed to be approved by the
+coaching team before the presentation was actually built. Then there's this training build template. So, this
+was a little bit higher level than the actual session plan. And then lastly, as part of this process, there's
+the client presentation builder, which would actually go through, take everything that was found within the
+session plan, and the training template and the drive resource mapper and create the actual PowerPoint
+presentation from within Claude that was personalized to the company's designs. And then this other one here,
+this project assistant, I added a little bit later on here. And this is actually really useful and I found
+this to be a good pattern to use. You just plop this into your chat at any point and it tells you where within
+this process you are and what the next step would be to get to the end result. Go ahead now, identify what
+your bottleneck workflow is and what kind of AI employee you want to actually be building and then we'll go on
+to the next step of actually building it out. Cool thing about these marketplace plugin employees within
+Claude is that some of them are actually built in by Anthropic, which is the company that owns Claude, into
+the platform itself. So the one that we're going to use is called Claude for small business and I have a whole
+other video on specifically how to use this. You can check it out right here, but we're going to go into some
+of it uh in this video as well. So if you go to this plus sign here, you go to plugins and you can do browse
+plugins. Anthropic right here is the marketplace name and we can just search up small business. They have a
+ton of them, but we're going to use this small business one and let's install it and then we'll check it out.
+Cool. >> [snorts] >> So there's a ton of different skills within this ranging across all of the sectors or the
+pillars that I brought up today, but there are some marketing like this Canva creator. There is some finance
+ones like this cash flow snapshot. This is the one we're actually going to use. There's CRM maintenance, uh
+planning payroll, giving you briefs every week. Super cool and it has connectors to a bunch of different
+platforms that you might be using for your business. So things like QuickBooks, DocuSign, Slack, Gmail, etc.
+Uh right, go back here and let's go ahead and we'll run one of these skills. So, we'll go to the plugins,
+we'll say small business, and I want to do the cash flow snapshot. So, this would be one of the workflows
+that's done by the finance role in the delivery pillar. So, let's go ahead and run this. It's asking us a
+couple questions here. We're going to say to pull from Stripe, and we're going to put in some manual
+information here. We'll just say 3K per month on the first of the past two months, and nothing specific to
+watch out for. So, let's run that. All right, now we have to list actual uh expenses as well. So, I'll just
+say I'll list the specific bills here. And now it's just going to ask for them. So, let's just say, I don't
+know, apollo.io. Let's just say that's $99 per month. We'll say Instantly. So, this is for lead generation.
+It's allows you to find emails and contacts. This allows you to run cold emails. So, for this one we'll also
+say $99 per month. And let's just say Calendly. I think that's like $19 per month or something like that. So,
+let's just say that for now. That cash flow snapshot just finished up here and it's predicting the next 30,
+60, and 90 days out. Uh so, pretty cool. It connects to the Stripe here. It shows the inflow that's occurring,
+but also the outflows from the subscriptions. Again, if you connected this to multiple sources, like your bank
+account and QuickBooks and Stripe and PayPal, it would show all of it uh as well as like manually inputting
+information, upload CSVs, things like that. But yeah, it shows what the predicted net income is for all those
+time periods. So, this is just one skill that this AI employee can do, and you saw that whole list uh from the
+Claude small business plugin that you can use to do all different kinds of workflow. Now, you have three AI
+employees that you can use for yourself within Claude AI to handle the three main pillars of your business
+[music] in lead generation, sales, and delivery. And while being able to use these free employees is super
+useful, especially when you're first getting started, [music] it's a lot more powerful once you're able to
+develop these on your own. And I'm talking about custom plugins and marketplaces that fit exactly your
+business needs [music] based on the pillars of your business, the roles that are within those pillars, and the
+workflows that are happening >> [music] >> for each of those roles. The next step that really brings you to
+the next level and opens up hours more of time savings is when you're able to convert these two completely
+autonomous AI agents. Now, if you want to learn how to do this with just one command using Claude, then check
+out this video here where I go through a new launcher agent skill that does all of it for you.

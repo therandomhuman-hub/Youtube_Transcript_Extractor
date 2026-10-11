@@ -1,0 +1,184 @@
+Title: I asked Claude Code to make me as much money as possible
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: OIzXPF1pUJk
+URL: https://www.youtube.com/watch?v=OIzXPF1pUJk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:27:37+00:00
+
+Kind: captions Language: en Most people are just using Claude Code as a coding assistant because after all,
+that's what it was designed for. But, it's actually so much more powerful because with these three upgrades, I
+was able to turn it into a supercharged assistant that is primed to make me more money. And as a result, I was
+able to double my income last month. So, in this video, I'm going to show you the 1% of Claude Code that
+actually makes you money. And the last one is going to supercharge everything else to make it go even faster.
+The first upgrade is going to be about buying back your time. McKinsey actually did a study that showed that
+there's an average of 1.8 hours per day that each person is completely wasting on looking up data, doing
+repeatable tasks, things that aren't actually their job that moves a business forward. And if you take that
+for a full week, that's 9 hours a week of just completely wasted time. Let's just say you're paying that
+person $50 an hour, that would equate to $450 per week that's being completely wasted. And that's just per
+person. Think about every single person that exists on your team or in your company. And that's not even
+mentioning the opportunity cost of what they could be doing with that time instead of these repetitive tasks.
+So, you have their actual hourly rate that's being wasted as well as the opportunity cost of what they could
+be doing. Now, imagine if each person was using Claude Code as an AI assistant to eliminate that time,
+allowing them to focus on what actually matters. The problem with Claude Code out of the box is that it is a
+fresh, blank slate every single time you open up a new chat. It doesn't have any context, doesn't have any
+memory, doesn't know how to do anything that you actually need it to do. And you're pretty much starting from
+zero every time. So, it's like you're getting a new employee that's super talented, but doesn't actually know
+how to do the work that your business needs. And you have to train them on this every single time you start a
+new chat. And the trick for this is using a plugin within Claude Code. And if you don't know what a plugin is,
+it is a combination of different features within Claude Code. So, think about skills and think about
+connectors, and you can even do agents as well. Now, if you don't know what skills are, skills are repeatable
+workflows. And think of it sort of like an SOP, or a standard operating procedure of a specific workflow that
+you need to do. And the connectors tell Claude exactly how to interact with all of your external data, and all
+your different platforms, and SaaS products that you actually use. So, instead of just bringing on a
+completely fresh employee every time, it's like bringing on an employee who already has the instruction manual
+of how your company operates. What I recommend is creating a plugin that contains a number of skills and
+connectors that have to do with your business. I created a free plugin that you can download in the
+description below that has five different tasks for common skills that need to be done. The first two are
+going to help you come up with ideas that you can monetize, and actually give you a step-by-step plan on how
+to do it. So, let's hop into Claude Code, and I could actually show you how to use this. You download the
+plugin from the link in the description, all you have to do is go to Claude Code, and find the plus sign down
+here, and go to plugins, and add plugin. In this personal section, you'll see that there is a plus sign all
+the way over here. So, if you click on that, you can upload a plugin, and then just drag in that zip file.
+Click upload, and you'll see pretty quickly it will be added here for you to use. Under the code section and
+local uploads, you'll see the sidekick plugin that we just uploaded. So, if you go into here, we'll see that
+there's five skills involved, including the first two that I mentioned before, the idea validator, and the GTM
+planner. As well as three others for converting meetings into actionable next steps, generating proposals for
+your business, and creating a weekly report that you can use for productivity purposes. Let's actually run
+some of these to try them out. So, first off, I'm going to use the idea validator. So, back in the plugin
+section, the sidekick, we'll click on idea validator and run that. So, it's going to ask us three questions.
+What is the idea? Who is it for? And how does it make money? So, let's say I want to run cold outbound email
+campaigns for non-SaaS companies. And it'll make money by them paying me for every lead that I bring them. The
+idea validator has a devil's advocate who's going to go very deep into some problems that you could have with
+the idea, coming up with ways that you can improve it to have a fully fleshed-out idea. It's really
+questioning you on the idea, so it makes you think about what's needed and why you're doing what you're doing.
+It asked me two questions here. So, we'll say non-SaaS companies are struggling with this because they don't
+have the same funding that SaaS companies do, and they're mostly relying on referrals. And for the second one,
+it's asking if I've talked to any non-SaaS business owners about this. Yes, I've actually worked with one
+before, and they needed more leads and think that cold outbound email could be a good idea to fix it. And
+let's run that. All right, so it's really pushing back on this idea, which is a good thing, right? We want
+someone that we can bounce ideas off of to really get to the root of what's good, what's bad, instead of
+Claude just being a yes-man and telling you, "Oh, everything you're saying is a great idea. Go for it." And
+then you spend hours or weeks or months building something just to get no one to actually pay for it. So,
+we're going to say it is a small to medium-sized business that hosts events. They paid me for just the
+list-building activities, but they have someone internally who's running their outbound email campaigns. All
+right, so now it's pushing back on the actual business model of pay per lead. So, we're going to say they
+actually paid me a monthly retainer fee just to do the list-building activities that were agreed upon to begin
+with. I just had that the idea to go with pay per lead for the future cuz I feel like it's lower risk for the
+person I'd be working with. So, it asked me a couple more questions. I'm going to fill this out and get to the
+end result and show you what it says. I just finished this lengthy conversation with Claude Code where I went
+through five rounds of investigation to really understand if this is a good option for me to go into, which is
+good cuz I don't want to go into something and then find out months down the line that it's not a good idea.
+So, [snorts] it ended up saying this is a conditional offer. It's worth pursuing, but make just be careful
+about it. And it's saying that the There's a couple of risks here that it's unproven in this industry.
+Guarantees [snorts] are are dangerous if I don't get results. And then I never actually chose a specific
+niche. So, it's giving me a couple next steps here just to pilot it, make sure that it works for the niche,
+and then dig into what's actually working by tracking everything. We're going to tie this right into the next
+skill here, which is the GTM Planner, which is going to give us a strategy to actually go to market with this
+idea. Claude gave us a six-section go-to-market plan going through what the ideal customer persona should be
+for this. Then it's going to tell us exactly what our positioning is going to be, what our messaging is going
+to be, how to handle different objections. Gives us a strategy of what channels we should be doing outreach
+for. So, it's saying cold outbound, LinkedIn outbound, and then using referrals and partnerships. Next, it's
+the first 30 days and what that sequence will look like to launch this. And then it goes into the milestones
+that we want to be hitting within the first 90 days. And lastly, finishes with our top three risks. Time isn't
+the only thing that's being wasted here. And this next upgrade is going to tackle another problem that's
+silently bleeding money. Have you ever noticed that the longer you're working with Claude in a single session
+that it starts giving you worse and worse results? That isn't just a coincidence. It's actually a very
+well-researched issue within AI responses. You see, the longer you're working with an LLM, the more
+information it keeps getting fed, and it needs to store all of that within a context window. And the problem
+becomes when the context window is so full that the problem that you're actually trying to get to starts to
+become lost. Especially as you start doing things that reach out to maybe a web search or another data source,
+and you realize it's not actually what you wanted, and now all of that is within your context. This is the
+phenomenon that's called context poisoning. This is when all of this irrelevant information gets into the
+context window, and it muddies the output. Google DeepMind actually did an analysis of this and found that the
+average drop in result of the LLMs was 39% when the context was poisoned. It's like if you were watching
+TikToks all day, filling up your brains with all this random information, and then immediately after you had
+to go hop on a call with your team and do a presentation for your boss. Your brain is going to have to sift
+through all that random information just to find something that's relevant to the conversation, which is much
+less effective than if you were to stay completely focused on the subject from the start. It's not just humans
+that act like this. AI does the same thing with context poisoning. Obviously, we don't want Claude to be doing
+this when we're asking it questions about things that are directly related to our business and helping us turn
+more profit. Luckily, there are some ways to get around this. I'm going to show you exactly how in Claude code
+you can leverage the context and compact commands to empty out that random junk in your context to give you
+very clear and concise results, to get you the answers that you're looking for. I had this conversation here
+that I was using to scrape companies that I want to target for my business. And Claude is great at doing this
+because it can go into the web, search up companies, give you the results, and then you can use that to find
+people at that company, and then do some outreach to them. So, Claude is great at doing that. It does take a
+lot of context to be doing these search, especially if you're searching through multiple different companies.
+Web searches are scraping the entire HTML of the page, so it ends up using a ton of context. So, you can see
+how long this conversation is. When we go down and check the context, we can use a command called {slash}
+context. And if you run that in Claude Code, it'll show you the actual breakdown exactly of what's being used
+in your context. So, you can see here, it's a 200,000 token context window. I've already used 102,000 of that,
+so 51%. And you can see the breakdown here. We have the messages, the skills, the system prompt, but the
+highest one right here is the messages. And that's actually where the issue comes, because earlier in the
+conversation, I was targeting all of these companies, but the problem is that I wanted to exclude SaaS
+companies, but I forgot to say that. I think if we search up SaaS here, if we search up SaaS here, we can see
+initially I was saying to do SaaS and non-SaaS companies, but I actually don't want to do SaaS at all. So,
+that's going to be an issue, right? Because that's all flooding the context right now and poisons the results.
+So, how do we one decrease the amount of information that's in the context window, so we get much clearer
+responses and it's not as muddy, but two remove the information that's irrelevant to what we want, the things
+that are outside and could be poisoning the context. So, in this situation, that would be things that are
+related to SaaS. So, what I'll do for this is do {slash} compact, which is a built-in Claude command. And then
+you can see here that it actually says adding an optional custom summarization instruction that we could tell
+Claude how to compact the conversation. So, we'll say leave out any information about scraping for SaaS
+companies. We don't want any of these. So, we'll run that and it will go through the actual context. It'll go
+through the messages and it will take out the things that relate to the what we said here in the message, pull
+out all that SaaS information, and then compact the conversation down in size to the most important amount so
+we have lower tokens in the window. You can see that the compact just finished and it finished the
+conversation. It said it saved 53, almost 54,000 tokens. So, I ran context again. I think it was a little bit
+of a delay because it showed to go up for a second. But, after that, when I ran it, it actually went down to
+54,000 tokens from that initial 102,000 that we had. And we could see the biggest thing was that the messages
+decreased by a ton. So, while up here the messages were 50,000 tokens by themselves, taking up a quarter of
+the context window, down here the messages got compacted to 2.3k. So, a lot less messages in there to begin
+with, while also taking out the things that related to SaaS that we actually didn't want to account for
+anymore that was causing context poisoning. This is something that directly impacts the bottom line. If Claude
+is giving me the wrong people, then I'm going to reach out to the wrong people who don't need my service and
+in turn I'm not going to be able to make any sales based off of that. So, you can see very quickly how having
+poisoned context can negatively impact how efficiently you're able to work and how your business is able to
+perform. Even with streamlined workflows and honest answers, there's still one hard cap on how much you're
+able to make and that is you. Think about what happens every time you're trying to do something by having a
+conversation with Claude. You ask Claude a question, it responds, you have to review the response, and then
+you get back to it with any adjustments or next steps. This is all a a sequence going message by message and
+there's one throughput that goes through all this, and that is that you are deeply involved in the process.
+So, it's not even a Claude or an AI limitation problem, it's a workflow problem of you with using Claude. Now,
+imagine instead of you going back and forth with Claude, you had a whole team of agents doing this process for
+you on repeat for different parts of the task that you're trying to accomplish. Anthropic's own engineering
+team actually tested this by running multiple parallel sub-agents to complete a task versus a single agent
+that was doing the same task. What's crazy is that the multi-agent systems outperform the single agent, which
+was running Anthropic's best model in Opus, by the way, by 90.2% on their internal research evaluations.
+That's not a small number, and as the task becomes longer and more complex, that 90% equates to even longer
+time. And then think about running this for all the different workflows that are using AI within your business
+right now. Let's talk about how sub-agents actually work. Each sub-agent is like its own Claude instance. It
+has its own clean context, and it works on one part of the problem simultaneously with all the other
+sub-agents. It then compiles the results with the other sub-agents and gives it to an orchestrator agent
+that's telling it exactly what to do and what are the different tasks that break up the main task that you
+want. That handles doing things a lot faster by handing off to sub-agents. But, how do we get Claude to go
+through this entire task completely on its own? And that's where we use a command called {slash} goal. And
+with {slash} goal, you give Claude a specific finish line and a condition that it needs to meet in order to
+say that the goal is finished. And Claude will work on a loop turn after turn until that's complete. And then
+at the very end, there's a small Haiku model that checks to make sure that the condition is met in order to
+finish the task. So, you just set it, you walk away, Claude is running with sub-agents to complete your goal
+for you, and you come back when it is finished. Within Claude Code, we're going to run this prompt here, which
+is using {slash} goal. There we go. To find prospects for me from private equity acquired non-SaaS service
+companies for our cold outbound email lead generation offer that we discovered earlier. So, it's going to find
+the companies, their acquisition date, their websites, a summary of what they do. And we're explicitly saying
+to use parallel sub-agents to search for them across different verticals. So, we're saying healthcare,
+facilities, logistics, etc. So, let's [snorts] run this. And we'll let Claude work. Claude just finished, and
+you can see here that it shows a goal that was set. And then it ran four parallel agents for me to do this
+research for each vertical. And we could actually see the threads for each of them, which is pretty cool here.
+But in the end, it ended up giving me a list of exactly what I needed. It gave me 12 of the companies. I set
+10 here cuz I said Well, I said at least 10 here. But you could set this to more, right? But this gives me a
+starting point to go after for my service. So, it gave me multiple different ones here with their website, a
+summary, who acquired them, and when they were acquired. So, yeah, this is this is perfect. Imagine running
+this for hundreds or thousands of companies to get leads for your business completely on autopilot while you
+can walk away and do other things. Now that we've gone through all three upgrades, you should be able to one,
+run your workflows completely on repeat without having to type in your instructions every time. Two, make sure
+that you're only getting the best responses out of Claude Code instead of dealing with context poisoning. And
+three is getting out of your own way and letting Claude Code handle these tasks on its own until it's able to
+complete the task without you even having to be there. All three of these compound together, and that is the
+1% of Claude Code that most people aren't using that can make you money right now. One of One of we talked
+about today is using plugins. And while building your own plugins is great for custom workflows, Claude
+actually released one out of the box that covers some of the most common tasks within small businesses, like
+accounting, marketing, productivity, and more. If you want to learn how to use the Claude for small business
+plugin, then go ahead and watch this video here.

@@ -1,0 +1,125 @@
+Title: How to Start a Faceless YouTube Channel With AI Step by Step
+Channel: AIpreneur
+Type: VIDEO
+Video ID: jpq6rNjZXN0
+URL: https://www.youtube.com/watch?v=jpq6rNjZXN0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:13:20+00:00
+
+Kind: captions Language: en Three channels, three completely different niches, one thing in common, no face,
+no camera, no recording studio. Every single video is faceless. Roman gladiators training without a single
+crunch, an astronaut floating in silence and then [music] realizing the darkness below them is breathing, a
+manager telling you are irreplaceable and keeping you in the same role for 3 years. Those opening lines got
+millions of people to stop scrolling. >> [music] >> And in this video, I'm going to show you how to build and
+blow up the exact same channels [music] from zero using a step-by-step workflow. But before we get into the
+tools, I need to show you the one step most beginners [music] completely skip. It is the reason some channels
+blow up in 30 days and others post 50 videos and go nowhere. Stay with me because this changes everything.
+Welcome to AI For Nerds. This is the channel [clears throat] where beginners learn to build real content
+systems with AI. And today, we're building the most powerful one, a faceless YouTube channel that keeps
+blowing up even if you are beginner. Look at the three niches I just showed you. Fitness history, scary space,
+workplace psychology. Those are not random picks. They are proven and wide open right now. And by the end of
+this video, you'll know exactly how to build inside any one of them. Here is what we are covering today. Step
+one, find winning video ideas using the channels that are already blowing up. Step two, turn those ideas into
+a full script using Claude AI. Step three, generate a professional voiceover without a microphone. Step four,
+build cinematic visuals using AI tools. And lastly, step five, edit and export everything together. Done. Let
+us build it. Step one, find your winning video idea. All right, let us start by step one where most beginners
+rush past. They just ask ChatGPT for ideas and run with whatever it gives them. That is not how you get it
+viral. The fastest way to find a winning idea is to find one that is already working. Then, make it better
+with your unique approach. Let me teach you pro tactics used by big creators for this step. Tactic one, find
+the outliers, the spike method. Go to YouTube, search your niche. For example, ancient warrior fitnesses or
+scary space documentary. Now, look at the channels in the results. You are not looking for the biggest
+channels. You are looking for the outliers. An outlier is a video that got 10x more views than the channel's
+average. That is a signal that YouTube pushed it. People clicked and people watched. That topic has proven
+demand. Write it down. That is your starting point. Tactic two, VidIQ and TubeBuddy for trend data. Now, if
+you want to go deeper, use VidIQ or TubeBuddy to ground the winning ideas. Both have free versions, both show
+you exactly which keywords are growing right now. In VidIQ, go to the trending section. Filter by your niche
+fitness, space, self-improvement. Look for videos with high views but low competition score. That gap is your
+opportunity. Tactic three, use ChatGPT to brainstorm angles. Now, you have a topic that is proven, but you
+need to make it better, more specific, and more emotional. And this is where ChatGPT comes in. Paste this
+prompt. ChatGPT will generate 10 ideas in under 30 seconds. Now, compare those ideas against what you found in
+the outlier research. Pick the one that matches both. It's emotionally strong and it already has proven
+demand. That is your video. Tactic four, validate with NotebookLM. One more tactic before you move to
+scripting. Use Google NotebookLM to validate your topic. Go to notebooklm.google.com, upload three to five
+YouTube articles about your chosen topic, then ask it, "What questions do people most want answered about this
+topic?" NotebookLM will pull from the actual content and give you the real gaps, the questions that have not
+been answered well yet. Those gaps become your script's structure. Now, let us write the script. And this next
+part, pay close attention because this is where most channels sound fake, robotic, and boring. We are going to
+avoid that completely. Step two, write the script with Claude AI. I want to be very direct with you here. Do
+not use ChatGPT for your script. Use Claude. Claude writes with more nuance, better narrative flow, and it
+sounds more human. Because your viewer is going to spend 8 to 12 minutes with this voice. It needs to feel
+real. And here's the two tricks method I use for that. First, pass the full script draft. Second, pass
+voiceover optimization. For the first one, paste this prompt into Claude. That let Claude generate a full
+clean script based on your chosen topic and hit enter. In under 60 seconds, Claude will generate a full draft.
+Read it. Make sure the hook is strong and the story flows. Then second pass, the voiceover optimization. And
+for that, paste this prompt immediately after in the same Claude conversation. That will enhance your script
+to be like a human speaking. That is the difference between an AI video that feels real and one that sounds
+like a robot reading Wikipedia. Now, you have your script. Time to give it a real voice. Step three, generate
+your voiceover. And you have three great options here. I will show you all three and tell you which one to use
+for each type of video. Option [snorts] one, Eleven Labs, best for cinematic and emotional content. Eleven
+Labs is your best choice for the three niches we are working with today, fitness history, scary space,
+workplace psychology. All of them need an emotional cinematic voice. And Eleven Labs delivered that. So, go to
+elevenlabs.io, create a free account in the voice library, search for a calm American male voice. Look for
+voices tagged as documentary or narrative. Once you've chosen your voice, go to settings, set stability to 50,
+set similarity boost to 75. That combination gives you the most natural delivery. Paste your clean voiceover
+script. Hit generate and download the MP3. Done. Under 3 minutes. Option two, Google text-to-speech, best for
+fast batch production. If you are producing multiple vids per week and want a faster workflow, Google
+text-to-speech is excellent. It integrates directly with other Google tools. For long-form content, the male
+WaveNet D voice works best for documentary style. Option three, MiniMax, best for expressive emotional
+delivery. For the scary space niche specifically, MiniMax is worth testing. Its voices carry more emotional
+range than most AI tools. And for content that depends on tension and fear, that matters. So, go to
+minimax.com, create a free account, paste your script, and choose a deep, calm male voice. Generate and
+download. Now, moving to the part that makes these videos look cinematic. Let us go. Step four, build
+cinematic visuals, the full AI pipeline. This step makes your channel look like it had a production budget.
+Moreover, it costs you nothing. Here is the full pipeline we're going to build. ChatGPT generates your visual
+prompts. Google Gemini with a Nano Nano model creates your images. Google Flow with VO3 turns those images
+into cinematic video clips. Then CapCut ties everything together. Let's start by the first one, generate your
+visual prompts in ChatGPT. All right, now you have your script from step two. Next, you need to turn it into
+visual instructions. So, go to ChatGPT and paste this prompt. That helps us generate all prompts needed and
+hit enter. In few moments, ChatGPT will generate your first five image prompts and five video prompts. Keep
+this chat open. You will come back and type next to get the next batch. Keep going until you have prompts for
+the entire script. Now, let's creating our visuals from these prompts. Create images with Nano Banana in
+Google Gemini. Now, open Google Gemini at gemini.google.com. In the model selector, choose create an image.
+Paste your first image prompt. Make sure to add this at the end of every prompt, 16x9 ratio, cinematic
+quality. Generate the image. If you don't love it, adjust one word and regenerate. Once you are happy, do the
+same for all remaining image prompts in the same chat. Important rule, generate all images in the same Gemini
+conversation. This keeps the visual environment consistent, same lighting, same style, and same world.
+Download all your images when done. Now, it's time animate these images in the next step. Animate images into
+video with Google Flow plus VO3. So, go to flow.google.com. Create a new project. Upload all your downloaded
+Nano Banana images at once. Select the first image. Choose Google VO3 as your video model. Make sure the ratio
+is set to 16x9. Now, paste the matching video prompt ChatGPT generated for this image. Click generate. VO3
+will animate your still image into a cinematic moving video clip. Do this for all your images using the
+matching video prompts. Pro tip, if a clip does not match your vision, adjust the prompt slightly. Add or
+remove one detail. Regenerate. Do not start over from scratch. Now, you have your voiceover, your script, and
+your video clips. Time to put it all together. Step five, edit in CapCut to make it professional. This is
+where everything comes together. And I'm going to give you the exact editing structure to use. Firstly, open
+CapCut desktop. Create a new project. Then, import your voiceover MP3 from Eleven Labs first. Next, drop it on
+the audio track. Let it play through once and listen. And lastly, import all your VO3 video clips and lay them
+out on the timeline in the order your script follows. Now go to text, then auto captions. Select your
+voiceover file and click generate. CapCut will transcribe the entire voiceover automatically. Now style your
+captions to match the channel brand. Choose your font and make the text large enough to read on mobile. That
+is where most people will watch. For keywords, the emotional trigger words, make them high contrast. Those
+words should pop. They keep attention on screen. Now, the most important rule in editing for retention,
+something must change on screen every 3 to 5 seconds. That doesn't mean fast cuts. It means visual variety. A
+zoom in, a text pop up, a sound effect, a new clip, a call out arrow, anything that resets the viewer's
+attention. Watch the three channels we showed at the start. Count the seconds between visual changes. You will
+see exactly what I mean. Then, add free background music from YouTube library or CapCut's built-in library.
+Search cinematic, documentary, or dark atmospheric. Set the music volume to minus 18 decibels and add some
+sound effects, clicks, whooshes, tension builds at minus 12. That balance keeps the voice clear and the music
+supportive. Lastly, when you are ready to export, use these settings. Resolution, 1080p. Frame rate, 30 frames
+per second. Bit rate, recommended. Format, MP4. And that's it. Your video's ready. Your manager [snorts] calls
+you irreplaceable. That is exactly the problem. [music] You smile, you say thank you, and something in your
+chest tightens, just slightly, just enough. You have heard that word before and you know what it really means.
+[music] It means do not go anywhere. It means we need you here. It means you belong [music] to this place. And
+here is the thing nobody tells you. That compliment was not an accident. Now, before I wrap up, let me remind
+you of something. The three niches I showed you at the start, they are not random examples. They are your road
+map. These are real numbers from real [music] channels using the exact same workflow I just showed you. The
+fitness channel opened with a Roman gladiator hook. [music] The space channel used fear and curiosity in every
+title. The psychology channel targeted a frustration >> [music] >> every office worker feels. Hook with
+emotion and back it with facts. [music] That is the formula. That is the full system and you can start today.
+Pick one of the three [music] niches. Pick one idea, then make one video. The system starts the moment you
+start. If this [music] helped you, subscribe because next week I am breaking down the most trending faceless
+niches for 2026. The free prompt pack we used today in this video is in the description. [music] Download it.
+It will save you hours. And if you want to see exactly how to automate all this workflow, [music] watch this
+next video where I teach you how to make these videos in bulk in under 1 hour. See you there. Thanks for
+watching.

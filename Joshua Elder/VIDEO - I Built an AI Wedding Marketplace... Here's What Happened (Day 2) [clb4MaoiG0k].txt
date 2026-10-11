@@ -1,0 +1,118 @@
+Title: I Built an AI Wedding Marketplace... Here's What Happened (Day 2)
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: clb4MaoiG0k
+URL: https://www.youtube.com/watch?v=clb4MaoiG0k
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:21:19+00:00
+
+Kind: captions Language: en All right. I want to welcome you to episode two as you watch me build a successful
+AI company from scratch. This is going to be a SaaS company. We're going to have a portfolio of different
+marketplaces that people like yourself can go ahead and copy and deploy, whether it's affiliate sites, whether
+it's local SEO, uh wedding venue finder, golf tee time app, you name it. We're actually in the trenches right
+now. We're testing these different websites and apps and utility in multiple niches, and you're seeing the
+results. You're seeing what I'm building actually working. And if you want to watch this in complete detail,
+you want to watch all the programming, coding, prompts, everything in between, there's a link below that you
+can check out. Nonetheless, subscribe to the channel if you want to check out not only this episode, but
+future episodes uh that I release as I release them, and don't forget to take the bell icon. So, without
+further ado, we're going to dive right into this episode. We're going to be talking about what I've been
+working on just for today, what I've been optimizing on, and you can use, you know, what I'm doing in your own
+business. This might give you tons of ideas for an app maybe that you want to build or a startup that you want
+to go ahead and start. So, I'm going to go ahead and share the screen right here. So, what we've been working
+on today is the Utah wedding venue finder. And essentially, really quickly, the way that it works is you pick
+a location. For example, we can pick Draper. We can, you know, pick a certain guest count. Uh we can pick
+indoor, outdoor. And we can pick a a specific budget. Okay, I'm just going to do any here and any budget. And
+then when we click on search, you can see that two venues matched uh your filters. And so, the idea with this
+specific uh app here is to help obviously connect couples with venues. And what we do is we're the middle men.
+We generate the leads and then sell those leads to the venues. So, that's the idea of this specific app within
+our portfolio. And again, just so you guys know, think of Shopify. Shopify has proven their I guess you could
+say they're done-for-you store to be proven to convert for people that want to sell clothes, for people that
+want to sell accessories, tools, physical products, you name it. Shopify has been proven over and over and
+over again. So, this is the same exact thing except we're optimizing local sites for lead gen. Like I said,
+affiliate sites. Uh apps that have utility that help aggregate information. And again, you're watching me
+build this over the shoulder just to get, you know, to give you clarity on that. So, let's go ahead and let's
+show you exactly what I've been working on. So, we've been working on this for the past, kind of like on and
+off, for the past about a month. And we've got to a point where we got over 80, almost actually 100 venues now
+to this point. And we've had to do a lot of things manually, but the goal here is to automate as much as
+possible. I'm going to say that one more time. The goal is to automate and work on our business instead of in
+our business. So, right now uh my brother actually that works for me, he is doing a lot of the legwork, adding
+a lot of the photos and the details for each of these venues manually. And we want to get to a point where we
+can automate everything. So, that's an example of something that we need to work on automating, using and
+leveraging um AI. So, one thing that we have automated up to this point that I've been iterating all day is
+SEO and creating articles. So, we want the AI to create human-written articles, optimize those articles based
+off of what people are typing into Google so we can rank as high as possible. And this is what we've built and
+I'm going to show you this just live over the shoulder. We're actually going to create an article in 3 minutes
+or less with AI. It's going to be super, super cool. So, check this out. So, I'm going to go back into the
+back end here in the admin and we're going to click on SEO opportunities, okay? And we're going to scroll down
+here and you can see that it's rated by priority. So, we're just going to select a random one here. We're
+going to select Utah [snorts] wedding planning guide. We're going to click on that. We're going to queue for
+generation. And look, it looks like our router's blocked. Planning guide, let's see. Requires an article
+generator that is not yet implemented. So, as I make iterations, what you're going to realize is some things
+break, right? You guys are seeing this live over the shoulder right now. Let's go ahead and try another one.
+I'm going to try wedding venues in Salt Lake City if we haven't built that already. And I think that we've
+actually built that one. So, let's go ahead and continue on here. If we go with We've already built all these
+ones right here where it says generated. So, let's go ahead and let's try another one if we can find one. All
+these say that they're covered, which means they've already been generated. So, let's see if we can run a
+discovery here. And let's do database seed and and related searches and let's see if we can find other
+keywords for us. So, what it's doing right now is it's going out there and it's finding basically kind of
+getting an idea of what people are typing into Google and generating keywords based off of that. Keywords are
+just search phrases that people type into Google. Uh we want to optimize for search phrases that get a lot of
+searches into Google. Now, there is a plugin that I will be installing that I've installed into one of my
+other projects, which is going to be this project right here. Let me go ahead and just go to the back end
+here. And what's really cool about this is if I go to keyword opportunities, this is fully integrated with a
+keyword research tool and I can create articles directly from this. So, just in case we run into an issue here
+with the Utah Wedding Finder, I'll go ahead and and show you that. Um but let's see. This keyword says tables
+and chairs included wedding venues Utah. Interesting. Here's another one. Uh best time of year to get married
+in Utah. I like this one. Let's go ahead and click on it and see if we can actually generate an article from
+here. And it looks like it won't let me queue for generation, which is hilarious because I literally created a
+few articles this morning. So, again, you guys are seeing issues as they arise and this is stuff that I cover
+inside of my actual group where I show you how to troubleshoot this kind of stuff. And it's much easier than
+you think. I just use uh lovable.dev, which is an app that I use to build out my projects. Look something like
+this. Okay, and I use ChatGPT. And I just take the prompts from ChatGPT, plug them into Lovable, and just
+iterate from there. It's actually very, very simple to do. So, let's go ahead and see if I can try one more.
+If not, I can just show you one that I created this morning and we can create another one in one of the other
+apps that I'm working on. Um let's go ahead and let me just check this one. Okay, it looks like it says let's
+see Q for generation. Uh yeah, that's not it's not cute cuz I got to I got to click on this button. Anyways,
+if we go to generation Q, let's see. This one says it's ready. Okay, so we can go ahead and work on this one
+right here. So, I'm going to click on start and we'll see if this works cuz I did make some other changes uh
+to to this earlier today. So, we'll create an article in here. If it works, great. If not, I'll show you
+inside of my affiliate site that I'm working on too as well. But while that's generating cuz it does take some
+time, we'll go ahead and refresh here in just a second. I want to show you some data here. So, this is the
+performance in the last 7 days for the Utah Wedding Finder in terms of it ranking in Google and this is a
+very, very new site. So again, you're seeing this mature you know, as you're seeing this case study series
+these different episodes. So, total clicks here last 7 days, you can see that I'm I've been ranking for
+position four. So, top 10 in Google, position four for wedding venue venues under $10,000. So, that's pretty
+cool. Um there was also another one which was Louland Falls pricing, The Grove, Louland Falls, and McCune
+Mansion wedding cost, The Garden Place at Heritage So, we're already ranking on the first page for a lot of
+these different search phrases. And again, the goal is to capture leads, people looking for venues, couples
+looking for venues, and to connect them with the venue and just sell the lead to the venue. Okay, that's the
+whole idea here. So, we're already getting traction. We're already getting impressions. We got 566 in the last
+um 7 days. Average position is roughly 44. So, let's see if this actually worked. It looks like I I believe it
+did. So, we can go over here to I believe we can click on open. And we can actually go to Let me just go back
+here. We can go to collections. I think it's going to be right here. And check it out. Historic wedding venues
+Utah. So, what we can do is we can actually click on edit. And you could see right here we've got an intro.
+We've got a buyer guide, planning tips. It's already generated for us. And that's exactly how we're generating
+all these pages. This is all generated with AI. And it's just going to get better and better over time. And we
+could probably break this up a little bit, make it easier to read. There's a lot of changes that we're going
+to be making as we build this. You guys will will see a lot of these changes that we're making. But I hope
+this inspires you. I hope it motivates you. Uh, let's jump over here to VenElect, and let's actually create If
+we click on, for [snorts] example, companies you can start from home. We can just click on create article
+right here. And then click on generate article draft. And you can see generation queued. You can leave this
+page and you can come back to it later. So, it does take some time to do the research, to generate the
+article, but once it's done, I mean, you get a huge list right here. Like, here's all the content we've
+already got. 100% generated with AI. So, here's an example right here. This is an AI image. This is all AI
+right here. And again, it needs some improvement. And as we add more of a human element to this, we'll be able
+to modify all of these articles with one click, so it sounds more like a human. But they're, you know, all in
+all, it's still a pretty decent article. Okay. So like, choosing the right online business involves a blend of
+careful research, strategic planning, and understanding of market forces by assessing financial implications,
+aligning with personal interest, and keeping a keen eye. So like a keen eye. Like it's not as human as it
+could be, but still, for now, it's good enough. We're not focused on perfection, we're focused on progress. So
+just understand that as you're building your app. So, with that being said, I hope you enjoyed this inside
+look of what it looks like to actually build a SaaS company, build a a real business from the ground up. And
+as we iterate and refine all of this, and we have case studies, various case studies of us generating leads,
+getting results, we can then take those frameworks, pass them on to you, so you don't have to go through all
+of the weeks, months of iterations like what we're doing here. You could just plug and play and rank a local
+lead lead gen site in a matter of a few weeks and start getting results as quickly as possible. So that's the
+goal here. If you want to learn more about building these out with me, click the link uh below or above this
+video, depending on what you're watching this on, and I can't wait to see you guys in episode three.

@@ -1,0 +1,211 @@
+Title: Top 5 AI Tools for Business and Freelancing for Beginners (Productivity Hack)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 9Q2XMUZoHow
+URL: https://www.youtube.com/watch?v=9Q2XMUZoHow
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:23:38+00:00
+
+Kind: captions Language: en I've worked with dozens of different businesses, freelancers, and teams over the
+last 5 years as an AI engineer. [music] And to be honest, they are some of the busiest people that I know.
+It's like a 24/7 grind all the time. >> [music] >> Now, I've also seen the flip side of it. Those who are able
+to leverage AI to do more work for more people with less time and less effort. [music] There's a ton of
+different AI tools coming out all the time, so it can feel kind of overwhelming and intimidating to know which
+ones [music] are the best. But, I've found that the most successful people that I've worked with always seem
+to be coming back to these same five tools that just work the best. So, in this video, I'm going to walk you
+through each one of those tools, tell you what they are, show you how to use them step-by-step, and give you
+real practical examples of how teams are using them. And definitely stay for the last one because when you
+stack it with the last four, that's how one team that I worked with was able to turn a week-long process into
+one that takes under an hour. Tool number five on the list is Notebook LM by Google. And if you haven't heard
+of it, it's a really cool, and in my opinion, super underutilized tool. The way that it works is that you give
+it a number of different inputs in the form of websites, documents, even YouTube videos, and then it's able to
+synthesize outputs in also different kinds of formats. So, there's audio overviews. Uh these are actually
+really cool. It's like a one-on-one podcast talking about the content of the topics and the information that
+you provided. It can create mind maps, it can create reports, it can create slide decks. You can just chat
+with it. Uh but, it could also do flashcards and quizzes. And the reason it does this is because this is
+mainly a tool for students for studying. So, they upload all their notes, and then they're able to use this
+notebook to chat with and create materials to study with. But, there's a different way that I've seen teams
+use it that is, honestly, a huge unlock. And that is with sales teams to talk with their clients and accounts
+that they're working with. Now, as a freelancer, you're going to be working with clients as well. Being able
+to communicate with them is probably the most important thing that you can do because that's how you can close
+more projects in the future or get good referrals. So, when you're able to upload all the information you have
+with them to a single notebook and then use that to chat and come up with the game plan for every
+conversation, that is the huge unlock with Notebook LM. So, let me draw up for you exactly how that works. I
+drew up a very sophisticated diagram here, as you can see, that shows you over here, obviously with the super
+cool glasses, and the client over here. Obviously, as you're doing your project, you're going to have to
+communicate with this person, talk about deliverables, scope, and plan out your project, as well. And usually,
+you're talking about multiple different documents that you have. You have all of your maybe your call
+transcripts that give context as to what went on or your notes from calls, as well. You have the actual
+contracts that you've written up and you agreed to for work. And maybe you have your actual client
+deliverables here. That's supposed to be a D. Your client deliverables here that you are discussing. Now,
+usually, you have to go back through all your notes, walk through the contract, look through all your
+deliverables, and then you're able to have an effective conversation with the client. And this could take a
+long time, right? If you have a lot going on, maybe you do 60 minutes of prep work just to prepare a proper
+conversation with the client. Now, what if you can take all of this, create a Notebook LM, and just chat with
+that? Have it create new documents for you or do analysis for you, as well? You could even have it come up
+with reports to give to your client, which would be even more time savings than just the 60 minutes. And all
+that might just take 60 seconds to do. So, now you're having more effective conversations with your client by
+having this notebook that has all the context that you need from it. I uploaded a bunch of documents into the
+notebook here that I created for the client Cedar and Stone Homegoods. And the documents that I uploaded are
+three different call transcripts, a profile about the client, the contract that we initially signed, and then
+some deliverables as well. And first off, after I uploaded the documents, I was able to ask it, based on the
+documents, what are some opportunities for some follow-up projects? It's pretty cool. It gave me multiple
+different opportunities here that I can now use to upsell. So, that's one way that you can use it, but I love
+the features over here to create slide decks, videos, and my favorite is this audio overview. So, I created
+this one overview, and this is a quick brief. It's only 90 seconds long about everything that happened in
+here, so that before you hop on a call, you can very quickly listen to this and understand exactly what's
+going on with them. So, you have the context you need to have a good conversation and hopefully land this next
+project. So, we can even listen to this for a little bit. >> This is the brief on the Cedar and Stone
+Homegoods redesign project. We're talking about the digital transformation of an Asheville-based maker,
+evolving their look from a DIY 8% mobile conversion rate, all while elevating their 2020 canvas aesthetic on
+the meal, or in this case, their gorgeous ceramics photography. At what point does a cool new feature cross
+the line into becoming an absolute launch-killing distraction? >> If you have one of these set up for every
+single client, you'll know exactly what's the latest going on with each one of them before you go on a call
+with them. And this works great for potential clients as well. Number four on the list is the perfect tool for
+anyone doing creative work, and that is Google Flow. It allows you to create insanely high-quality videos and
+images using the latest Google AI models. We can scroll through here for a minute just to see the kind of
+things that you're able to make. They're really pushing videos here. You can see over here they have an agent
+that's able to build videos. There's also start and end frame to make them. But I'm going to talk mostly about
+the image creation because that's what I've used the most and that's what I've seen teams use the most to get
+the most benefit. You can use Google Flow for a host of different things, but the way I've seen it used the
+most is for content creation. If you think about what's involved for a LinkedIn post, you have a main image.
+And you know, this could be a view, but it can also be infographics because infographics are pretty big these
+days. Well, with Google Flow you can generate this entire infographic with a single text prompt. It's pretty
+amazing. But then you can think about other things as well. Maybe you have YouTube videos and thumbnails that
+you want to create for people. Not only can you just use a prompt to create this YouTube thumbnail. So, we'll
+give it a prompt here. But you can even give it reference images of other thumbnails that you liked as well.
+So, you can find ones that were performing well for other people and then use it for delivering for your
+client or even for yourself to advertise for your own services. And then you could also add in additional
+images like, let's say an image of you, your face here. That can be used to change this reference image along
+with the prompt to create this brand new thumbnail here that will get the best performance. Here's a really
+cool example of a LinkedIn post that I was able to make. Just a tip, you can use AI, especially the last one
+I'll be talking about, number one on this list, to create a prompt here that you're going to put in to create
+the image. So, that's just kind of a cheat code. But what you can do is put in a prompt, you then can choose
+what model you want to do. So, this is where you can choose different image models, but there's also video
+ones, too. In this case, we're going to do images. You choose the ratio that you want to make. And you can
+choose the number that you want to do. So, if you want to make four images, you would choose * 4 over here.
+Then, when you submit, it'll create four different images, and you can see I did that a couple different times
+here. And I just chose the best one, clicked hard on it, and now it's in my favorites. So, it created this
+whole LinkedIn infographic that I used in one of my LinkedIn posts, with just a single prompt. Here's another
+example that I actually did for YouTube to make a YouTube thumbnail for one of my videos. Now, I found that
+one of my friend Sandy actually made a video about Claude and using it to create content. And I wanted to make
+a similar video. So, when you take that thumbnail, you're able to then put it in here, make adjustments by
+prompting, and you can put in other images. So, I was putting this in for a bit, trying to see what that would
+look like, and you could see it even added those images in over here for the agents. Added [snorts] myself
+from one of my other thumbnails, told it to put it into this into this thumbnail. And then, kept iterating
+until I found one that I liked up at the top here. Uh so, I created this in another Google Flow project, and
+then I put that into here. It came up with what I liked for this. So, pretty cool the things you can make when
+you get creative. Tool number three on the list is called Appify. And Appify allows you to connect to a ton of
+different data sources through a method called web scraping. In my opinion, the best scrapers to use on here,
+and the whole reason you want to use this in the first place, is for you to find leads. That's going to be the
+biggest thing for freelancers. For example here, there is a Google Maps Scraper. If you're looking for leads
+in a certain area, so I'm in the New York City area, I can use the Google Map scraper to find, let's say,
+restaurants in the New York City area or even specifically in the Brooklyn area that I can then pitch my
+services to. Other popular ones are Upwork job scraper. So, if you want to get a whole list of all the Upwork
+jobs for your specific niche, you can grab a list of those jobs, and then you can have AI auto generate your
+proposals that you'll send out to them. And probably the best one that I'm going to recommend is one that
+scrapes some kind of data source like LinkedIn or Apollo. And the reason these are so amazing is because it
+has all people data with their names, the companies that they work for, and what kind of jobs they work for.
+So, if you're specifically trying to target people that work at, let's say, marketing agencies, this will let
+you get that granular. So, you can get the marketing agency, and then you can enrich them to find their phone
+numbers or their email addresses for you to reach out to. So, just an example of how this works, typically,
+all this data is living on some kind of website, right? This can be a website like LinkedIn or Upwork, and all
+their data is stored in some kind of database that you don't have access to. It's all on their website. So, to
+get that data, you use Apify over here, which is able to go, scrape data from there, and then provide it to
+you who's using an AI service to do this. Then, once you have the list of leads, you can then go find their
+email, or you could find their phone number using a similar Apify service. So, taking the leads, running it to
+Apify, using another website that has this kind of stuff, and then it gives you all of that. And then, you
+could even use AI to come up with a job proposal or some kind of email message that's personalized and send it
+out to whoever the prospect is. This is the exact strategy that I used for a team that I was working with
+called Maxwell Social and they're an event location company in New York City that put on really cool events.
+But they need to go out and call a ton of people and they were looking specifically for companies that have
+people with events titles that are in New York or maybe the company is located in New York. Just as an example
+of how this works in practice for a situation like that I created a skill in Claude that lets you do this all
+in one command. If you want this then go ahead use the link in the description below to download it totally
+for free. But once you run that it walks you through this process of finding all the people for your service.
+So it puts in this form here that you answer and I give the answers here. I had it proceed after it knew who
+I'm reaching out to it found 100 leads just off the bat to do some testing used the lead scraper and once it
+found the leads I ran it through tearing so we can know who's the best of this bunch in tier A, B and C.
+Obviously we're going to want to reach out to tier A first. After all of that it adds it to the data file and
+then it creates a personalized message that we can reach out to them for. So here's an example of what the CSV
+looks like with all the leads here. You can see that they're tiered. We have the company name, the domains, we
+have their email addresses which then we can now reach out to. We can do a cold email to open them up and say,
+"Hey, this is what I do. I saw that you're in this industry. If you're interested in my service then reply."
+But not only that it actually comes up with the personalized message. We look at the next step here. Just ran
+it for a couple of them. It says, "Hey Jake, congrats on the Forbes 30 under 30. Building the media company
+while staying lean is exactly kind of growth that gets harder to sustain with more head count. So, this next
+one is for Sam here. It says 150K plus projects completed and 3X Inc. 5000 honoree at serious scale. So,
+complimenting them on something niche that usually people wouldn't know about [clears throat] just by looking
+up their profiles. This one is even bringing up Chris's personal injury mastermind podcast. You can see how
+personalized this get and why you would actually have a better chance of landing clients if you were to use a
+process like this. Tool number two on the list is Zapier. And the reason this one ranks so high is because it
+extends how powerful you can be with your AI. I actually did some work with an online coach and she was
+creating these long client deliverables, these presentation decks that would take a week long to create. But
+using AI with Zapier, we're able to connect to Google Slides and create these decks in under an hour, which is
+insane compared to the week-long processes it took beforehand. What makes Zapier so awesome is that they've
+been around for a while, even before AI, and they were building out these connections to a ton of different
+platforms. You can see they actually have over 9,000 apps here. But once AI came out, they created
+integrations for AI to [snorts] talk to all of those things. We can see here doesn't matter what AI you're
+using, you plug into Zapier and now you can access all of these plus 9,000 more. And if we scroll down a
+little bit, we could find these are just some examples of the things that you're able to connect to. So, you
+have your AI tool right here and typically built in there's some kinds of AI connectors. Maybe you have access
+to your Google Drive and you have access to I don't know, let's say your email and you have access to wherever
+your call transcripts are. That's supposed to be a phone, by the way. I know it's super bad. But yeah, so So
+have access to all these things natively through your AI, which makes you be able to work more effectively.
+But there's certain things that you work in that there aren't built-in connectors for. Let's say that you
+typically need to update a Google Sheet that you have. This isn't a built-in connector for things like Claude,
+which is a problem, right? How are you going to do this? If you Zapier, then how that works is that you plug
+into Zapier, and Zapier has connections. This doesn't work. Zapier has connections to Google Sheets. So now
+you have this link, and you can work more effectively. Just to drive home the point here, I want to show you
+that if I go into Claude, and I click this plus sign, go to connectors, and I try to add a new connector, and
+I'm looking up Google Sheets, you see that doesn't exist. Google Sheets, Sheets. There's just Google Drive
+here, which doesn't allow you to actually update a sheet itself. But with Zapier, they have an entire Google
+Sheets connector that allows you to create columns in the spreadsheet, create rows, create new tabs, copy a
+sheet, do a ton more things. Yeah, you can even load more actions. A ton of things that you can't do typically
+straight from Claude. I have this sheet here that tracks all the time I spent on different projects for
+different clients with the hours I worked, the amount that it's billed, etc. Now, this last one here is
+highlighted because I added this through AI. Let me show you how I did that using the Zapier connector. So in
+Claude, after I added the Zapier connector, I told it to add a new highlighted row at the bottom for the
+latest design I did for my client. So if you're doing all your design work in this chat, then you can tell it
+to add that to your list. You could also have it connect to Stripe or PayPal or whatever payment processor you
+use, so that it's able to get the bill that was actually used with the amount and add it to your sheet as
+well. So, if we look at the actual tool calls, we can see that it's using Zapier to add a row. It is going to
+format it. Oh, yeah, format row. It stopped there for a second, so I just asked it why and then it continued
+and it actually added. So, directly in your chat, you're able to work with your sheets, do your payment
+tracking, and connect it to other systems like Stripe or email or whatever you're using to track your time, so
+that it's added automatically for you. Number one on the list, you probably already guessed it, is Claude. And
+it's the perfect AI to use to orchestrate any kind of workflow that we have as a freelancer, as a small
+business, or even as a small team. We already used it for some of the other things that we did as well. That
+same online coach that I was talking about was using Claude to orchestrate the presentation delivery workflow.
+And there's even another team I was working with whose sole purpose is to source out different coupon codes
+from multiple different websites so that they can give it to their customers as content. For them, we were
+able to use a feature in Claude that cut that time from 2 hours down to under 2 minutes. Let me draw out
+exactly how Claude can benefit you. With Claude, there's already some features we talked about. For one, it
+can reach out to external data sources, let's say your email, for example, so you can chat with it, read your
+emails, send emails, and multiple other kinds of data sources as well. They also have a concept called
+projects. And it's kind of similar to Notebook LM, except it can't generate audio. But, it allows you to put
+all your contacts and all your files in there, so that you're able to chat with it and even create
+deliverables from it as well. Another feature that we showed off is skills, so like {slash} skill or whatever
+you want to do. This is what I showed off with the lead generation with Appify where you just ran one command
+and it kicked off an entire workflow that used other things like connector. But, the last feature that I want
+to show you here is called parallel sub-agents. And the way that this works is that it's able to spin up
+multiple different AI agents to work on multiple tasks at the same exact time so you're not wasting time
+waiting for one to finish after another, but it's doing it all at once. I created a project in Claude that I'm
+calling coupons and in the instructions I give it a whole list of different retail sites that I want to be
+able to scrape coupons from. So, what I'm going to do is run a command saying to run parallel sub-agents one
+for each site to scrape the homepage of the website and extract all coupon codes. Give me a report at the end.
+>> [snorts] >> So, I'll run that. I also want to note that you can turn this into a skill if you wanted. And
+if you were to do that, you could just do something like / coupon hunt. And then when you press enter on that,
+it would run the same workflow if you save that as a skill. We can already see that Claude is spinning up
+multiple different agents at the same time. There's nine different agents here that's going to scrape
+simultaneously so we don't have to wait for it checking one site then going to the next one. It's going to do
+them all at once. So, I'm going to go ahead and approve all of these and I will get back to you with the
+results. All right, it just wrapped up and that literally took, I don't know, maybe a minute, maybe 2 minutes.
+Uh but it scraped all 20 websites and it found different codes on each one and it's giving me, you know, what
+percent off they are, too. So, just think about all the different tedious workflows where you're doing
+multiple things at once and you can just run parallel sub-agents to do it for you. Now that you know the five
+best AI tools to use as a freelancer, the next step is to get away from you manually running these tools
+[music] to having an autonomous agent do it for you without you even having to think about it. So, if you want
+to learn how to do that in just a single command in Claude to set up your first AI agent, go ahead and watch
+this video here.

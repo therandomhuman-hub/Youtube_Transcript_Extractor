@@ -1,0 +1,39 @@
+Title: How to Make a Talking AI Avatar: Easy Tutorial for Beginners
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: pBtAhgynLt4
+URL: https://www.youtube.com/watch?v=pBtAhgynLt4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:56:39+00:00
+
+Kind: captions Language: en in this video you will learn how to create a talking Avatar completely for free
+and without using any paid websites or linit this project is very simple and easy and the result is very
+acceptable don't forget that it is a free alternative to all paid websites that provide this service and you
+can use this method on your computer or mobile phone with the same steps the first thing we will need is a
+picture of the person who will talk it is preferable that the person's image be of the upper half of the body
+like this picture for example the face must be clear and facing the camera and the photo so the program can
+recognize the face Parts the image aspect ratio is what determines the final video if the image is square the
+final video will be square for shorts and reals you will use a vertically cropped image the second thing we
+will need is the voiceover the speech the person in the picture will say you have many choices to create voice
+over you can record the audio yourself on your mobile phone or computer and use it or you can use any website
+that converts text into a voice over after you have prepared the image in the voiceover file then we are ready
+to start open your Google Chrome browser and make sure that you are logged in with Gmail after that open the
+Google collab project link found in the video description it will appear to you like this run step one this
+window will appear to you click run anyway the step will start working this step will take approximately 2
+minutes after the step is finished a small check mark will appear next to the step then step two in step two
+we will upload the image run step two a choose files button will appear click it and upload the image file
+after uploading is done a preview of the image will appear then step three here we will upload the voice over
+file run step three the choose files button will appear click it and upload the audio voiceover file after the
+upload is complete a small check mark will appear next to the step in a preview of the audio file too it is
+preferable that you use an audio file of no more than 10 minutes if the audio file is too long problems may
+occur the audio file must be very clear without any noise or music it's just a human clear speech voice then
+step four in this step we will make the final video run step four it will start working this step takes time
+depending on the length of the audio file but in any case the video creation process is very fast after the
+step is finished a preview of the final video will appear and this is the result in this video you will learn
+how to create a talking Avatar completely for free and without using any paid we sites or limits to download
+the final video click these three dots and choose download and save the video to your device if you want to
+change the picture or the voice over run step two and step three directly then run step four I mean you don't
+need to do the first step again as long as you haven't disconnected from Google collab after you finish you
+must disconnect from Google collab from the top menu click runtime then disconnect and delete runtime then
+click yes if the video was useful to you subscribe to my channel for more related videos thanks for watching

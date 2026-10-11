@@ -1,0 +1,136 @@
+Title: I Watched Nick Saraev's 4-Hour Claude Code Course So You Don't Have To
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: udW4tAxNpJI
+URL: https://www.youtube.com/watch?v=udW4tAxNpJI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:40:53+00:00
+
+Kind: captions Language: en Hello, guys. I'm summarizing a video, a 4-hour course video, Cloud Code from Nick
+Surive. Basically, if you want to go watch that video, go do that. It will get a lot of knowledge about how to
+use Cloud Code. But before you do that, watch this video so you don't waste 4 hours of your time. But
+basically, like I said, Nick Surive, he dropped a 4-hour course. Um basically covering everything over Cloud
+Code, how to use it, how to be professional at it, and you [music] know, things of that nature. >> [clears
+throat] >> First, he does start out a little introduction on himself, starts by saying that he's made $4
+million a year off of Cloud and AI, and he teaches people how to do it. >> Cloud Code every day to manage a
+business that does over $4 million a year in profit. >> So, things of that nature. Saying that basically
+anybody can use it. Now, for those who of you who don't know, Cloud Code is an AI that runs on your actual
+computer. It can read your files, edit them, create new ones, and run different programs. That's what actually
+uh makes [clears throat] it different from like just a regular chatbot, that it is actually, you know, on your
+computer and running through your files, and MD files, and things of that nature. So, to set this up, and you
+know, this is all from his video. Basically, he's going to teach you to set it up, and he's going to set it up
+for you. Basically, you're either going to need a Cloud Code plan for $17 a month, or you can run one install,
+type Cloud. Basically, to set this up, you're going to need a Cloud Pro plan, which is $17 a month. Or there's
+another plan, I forgot, Enterprise or whatever, that's $100. Or no, there's another plan than the Enterprise.
+One of those is $100. So, before you, you know, go on this course, just understand your you're going to have
+to at least drop $17 so you can start implementing the things he teaches. >> [clears throat] >> Now, in this
+video, he shows you two ways to >> every day to manage a business that does which you don't know what the
+terminal is, it looks something like [music] this, which is black, which is basically the black screen with
+the text, you know, and then the graphical interface, which is like the website version, the software version.
+Um with the buttons and very easy to use. So, the terminal now is more powerful than, you know, the interface
+version, but the interface face version is easier to start obviously, you know, there's buttons everywhere and
+it's just easy to navigate. But, in this video, he covers two coding apps called IDEs. Basically, VS Code,
+which I use VS Code for building apps on Cloud and things of that nature. VS Code is free to use, you just
+connect Cloud to it. Um made by Microsoft. Then, Antigravity, which is a very new software, um built
+specifically for AI coding. He uses Antigravity from the rest of the course, most of the course. So,
+understand that you're going to have to be able to download Antigravity so he can teach you some of the things
+[music] of that nature. >> [clears throat] >> As well, proceeding, he builds a website live for you. He takes
+a bunch of screenshots of a site he likes. He feeds it Claude and then Claude basically builds a copy. >>
+[music] >> Claude then screenshots its own work and compares it to the original. The original site that they
+got it from, right? Basically, fixes the differences between them. Then, in the video, he runs two of these at
+the same time in separate windows, if that makes sense. [music] Claude.md is a file that basically loads at
+the start of every Claude session automatically. So, when you go to your terminal, terminal right here, when
+you go go your terminal and put Claude, that's when the Claude MD file is going to start. Um he compares that
+>> [music] >> it is steer it like Claude is basically like for example, it's like steering a ship and [music]
+a small wrong angle at the start can become a very massive problem over a long distance of time if that makes
+sense. So understand how to really use Claude code when you're going through the course and understand that,
+you know, it's not going to be easy ride, but if you're following along, you can go through that. >> [clears
+throat and cough] >> But if you get the file right the first time, if you get it right the first time, you
+know, you'll be good for the longevity. >> [clears throat] >> Now, there's three ways to design websites with
+Claude code, which is what he teaches again. One of them is give it a screenshot of something you like. Two,
+[music] you can just talk into a voice recorder basically and describe what you want, you know, in the Claude
+code or in the terminal or interface. Then the third version is you can just copy pre-built components from
+other designed websites. Um basically screenshot those websites and put it in. That's probably the easiest way
+to do it. Now, >> [clears throat] >> his biggest point on the whole course was basically like you can verify
+Claude's work. And you have to verify Claude's work. That don't just give it a task and move on. Really don't
+give it a simple task and move on and act like it should know everything that you have in your mind. Build it
+in a way for it to check itself. Um [music] for design, that's a screenshot loop, right? Just send put it give
+it a screenshot. For code, that's automated test. So make sure you're always testing it. Without this, you're
+probably wasting a lot of time and you're not getting the outputs that you really are going to want. The dot
+Claude folder in in Claude and you put the slash to dot There's a dot Claude folder that is basically a hidden
+flow folder inside your project with advanced settings that most people don't know exist. And he kind of goes
+through that deeper, of course. Excuse me. Inside of it, you can basically store roles, skills, agents, memory
+files, basically your entire advanced settings for Claude. >> [music] >> There's also a global version that
+applies to every project on your computer. >> [clears throat] >> He then moves on and shows a full app that he
+builds. [music] Um a proposal tool just like if you ever heard of PandaDoc or um just something that is you're
+able to make proposals and uh templates of that nature. But, he builds an app like PandaDoc with login and
+basically you can create AI-generated proposals, e-signatures, and Stripe payments. You know, just documental
+You can automate documental processes. He [clears throat] built it in about 20 minutes with Claude code and
+that's how he did He did it He literally built it while he was cooking salmon. So, it was you know, it's
+Claude code really understanding some of these things will really help you in the long run while you can do
+other things while doing it even on your phone. Then, >> [clears throat and cough] >> context management, uh
+we're going to move on. He talks about context management and how to avoid wasting your money in your time on
+it. He runs a command basically that shows everything that's eating your tokens before you even type, which
+that's going to be a very important part of the video. I'm going to say that again. He runs a command that
+shows everything that will be eating your tokens before you even type. The default Claude log code tools burn
+about 17,000 tokens just sitting there on its own. His advice in the video is to keep your Claude MD short, be
+specific with the prompts, and use cheaper AI models for simple tasks. So, don't go and use the most advanced
+and the newest models. Everybody wants to use the newest models. Don't go use the newest models for, you know,
+non-complex tasks. Use, you know, you know, the early versions of Sonic or something like that. >> [clears
+throat] >> Now, he does jump into MCPs. MCPs, um, and they basically let MCPs, if you don't know what MCPs
+are, they let Claude connect to outside tools like Gmail, ClickUp, Chrome, things of that nature. Uh, just
+connecting outside uh, softwares [music] to it. He shows that Claude He shows Claude controlling a live
+browser. Um, basically like RPA, if you know what that is. But, he shows Claude controlling a live browser,
+reading emails, and creating tasks in ClickUp. But, the MCPs are expensive. So, understand MCPs are expensive.
+Um, on the tokens, on the Claude tokens. So, he uses them to test ideas fast and then replaces them with the
+actual skills from the Claude files that he, uh, um, changes in the settings, [music] if that makes sense.
+Now, skills, Claude skills are reusable checklists, basically. [music] Claude skills are reusable checklists.
+Once you write it write it down, it's hard for Claude to, you know, veer from that. So, whenever you need a
+job done, Claude will go to the skills first, extract that, then you know, start uh, outputting your code
+based on those skills. >> [clears throat] >> Now, he Now, he has skills Nick Surive. He has a bunch of skills
+for scraping leads, writing proposals, managing emails, and things like that. So, he starts demo scraping
+1,000 dentists in He's scraping 1,000 dentists leading in about 87 seconds. It's actually insane. Um but these
+skills are tiny on tokens. So, since you know, when he did that, he obviously had his settings right in the
+skills. And things of that nature. Skills are tiny on tokens. Some are under like 60 60 60 tokens, [music]
+basically. So, MCPs can cost about 20K. Basically, 2,000 tokens just to load up. Now, I'm going to kind of
+break down what a skill is and things of that nature. What a cloud skill is. Cloud skill has two parts. It's a
+markdown file with the step-by-step instructions, right? Um it's a scripts folder with the actual program.
+Cloud basically follows the checklist, runs the scripts, then fixes any errors and updates um that it believes
+it should from those skills. So, it doesn't break the same way twice if you have those skills really noted
+down. In the video, he builds a new skill live as well. So, he'll show you how to go through that. He feeds
+the skills through a spreadsheet of leads. It then generates a custom website for each one in about 30
+seconds, basically. With 10 agents running at once, that's 10,000 websites >> [music] >> in roughly about 8
+hours that he was he would have ran it. So, that's it. He does go over sub agents as well. Sub agents will let
+you run multiple clouds at the same time, right? Now, understand running multiple clouds like it's going to
+run up your tokens as well. But, it's basically instead of doing 10 tasks one by one in one cloud session, you
+know, you spin up 10 agents, 10 cloud sessions, and do them um all at once basically. In this video, he does
+demo classifying 1,000 emails using 10 agents in parallel. So, at the same time, >> [music] >> he's
+classifying 1,000 emails while using 10 agents. Boom. He then covers three useful sub agents everyone should
+have, right? So, he believes everyone should have a research agent, a code reviewer, and a QA tester
+basically. Now, he verges over to agent teams. Um and that is kind of one level higher. So, So, basically for
+agent team, a team-led agent that manages a whole group of independent cloud instances, right? So, basically,
+they can talk to each other. And in the video, he then builds three different websites simultaneously, picks
+the best one, and keeps reiterating it. He also then runs agent teams on open source source code base to find
+security bugs and things of that nature because, of course, cybersecurity. [music] Um and he spent $80 in
+about 15 minutes. It was pretty pretty quick. Now, his warning is that these are powerful but expensive,
+[music] you know, these these um agent teams that will basically let you manage a bunch of cloud agents with
+one agent. Um they there are obviously going to be expensive cuz you're running a bunch of instances. [music]
+And he said that they're about maybe even sever- seven times the normal talking cost. So, if that is, you
+know, too costly for you, then you may have to reconsider on that part. Now, the Git work trees, and that's
+what we're diving into now. Git work trees, they basically let you multiply agent works on different parts of
+the same project without interfering with the other with each other. In the video, he adds new pages to a
+website about contract services and, you know, all those things on a website. And then basically builds them
+all at the same time by three separate agents. But but they're obviously in separate folders as well. Um then
+everything merges back in together. He'll If you really want to understand that, he'll you know, watch the
+video and he can go deeper deeper in that for you. Now, finally, he does dive into something called Modal,
+right? Modal is a software and basically it's a service that lets you put your cloud skills on the internet as
+a live URL. >> [snorts] >> He in the video, he starts to deploy his lead scraping skills, you know, cloud
+skills, as a web page. And on that web page, you fill out a form, click submit, then it gets you a CSV of
+leads. He's been on He's only been on the $5 trial for months, and so he said still has to run out. So, Modal
+is pretty cheap, right? Like he can run a bunch of cloud agents using Modal, and it's still not run out. >>
+[snorts] >> And basically, that is kind of the gist of the 4-hour course, and those are the touch points that
+he touches on. So, if you want to watch that video from what I've kind of described to you, >> [music] >> then
+go ahead. I believe if you are looking to be more advanced in cloud coding, you want to put that on a resume,
+or you want to use that for a business, this is probably the best course that you can go to to really get that
+skill set and knowledge. >> [music] >> But, other than that, see you on the next one. Hopefully, you enjoyed.

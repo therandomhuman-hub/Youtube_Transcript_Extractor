@@ -1,0 +1,50 @@
+Title: I Watched Iman Gadzhi's Claude Video So You Don't Waste 26 Minutes
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: JTX03Ba6gPU
+URL: https://www.youtube.com/watch?v=JTX03Ba6gPU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:39:18+00:00
+
+Kind: captions Language: en Here is Iman Gadzhi's video on Claude. I'm going to summarize it. Basically, the
+whole video he gives 10 tips from beginner to advanced. I picked five that are actually matter and that are
+important and here they are. Okay, the first tip he gave which it sounds pretty small, but it really isn't.
+Whatever email you sign up with to Claude, you're going to be stuck with permanently. Claude does not let you
+change it and he's seen people use their work email, then leave the company and lose access to months of
+memory and history forever. Use a personal email and you'll be good. Now we're skipping all the way to the
+fourth tip. The fourth tip is skills. A skill is different from memory. It's a fixed set of instructions for
+one specific repeatable job. Like for example, your weekly reports or turning meeting notes into action items.
+Um, you build it once then it runs same way every single time. You can even download other people's pre-built
+skills instead of just making your own. >> where tip four comes in, using skills. A skill is different from a
+memory. Memory is Claude learning about you over time. A skill is a fixed set of instructions for one specific
+job that you're going to build once and it runs the same way every single time. Look, I'm all about efficiency
+because doing monotonous work doesn't benefit anyone. If you're building a business sitting >> Now this next
+tip goes against what everyone says. Avoid projects. Iman actually hates them, but because a project has its
+own separate memory, it's completely cut off from everything else in Claude. So if you spent months building
+up context in normal chats and then go work inside a project, it's like Claude never met you and basically
+forgets everything of the previous history. >> And that's tip number five, which is avoid projects.
+Personally, I hate them. And for me, it really comes down to something we talked about earlier. You see, over
+time, the more you work with Claude, the better it gets. But at the same time, you also build up a serious
+amount of chats. And at some point, it gets a little difficult to keep track of what you're doing. So when I
+first started using Claude, I was like, okay, cool. >> Now the ninth tip is Claude code. He says that Cloud
+Code, you know, the name scares people off for no reason, but you describe what you want in plain English in
+Cloud Code, and it writes and tests [clears throat] the software. His chief product officer, who isn't a
+developer at all, built himself a custom marathon training app from scratch. Didn't write a single line of
+code, just text it in Cloud Code in the prompts. >> is tip number nine, using Cloud Code. Now, I know that the
+name puts people off, and I get it. You hear a code, and you assume it's a developer thing that's got nothing
+to do with you. And I can tell you it's not. You describe what you want in plain English, and then it goes and
+writes the software behind it, and then tests it. It can even fix things when something breaks. Setting it up
+really isn't that complicated. You just download Cloud Desktop, and if you're already using Cloud Work >> Now,
+the last tip I have for his videos is Cloud Design, where Cloud Design basically has mock-ups, landing pages,
+full website layouts. He says his own design team tested it and vouches for it, which he trusts more than his
+own opinion, since their jobs are the ones that actually do that on a daily basis. >> thing with your
+designer. And that is tip number 10, use Cloud Design. Now, this is actually one of the more recent additions.
+I've played around with it a bit myself, and the people on my design team tell me it's pretty good. And look,
+if they say that, especially technically cuz their jobs could be on the line. >> As someone who uses Cloud
+Code and Cloud on a daily basis, my take is truly avoid the project. That tip is one that most people do get
+wrong, and something that you should like understand. And he is right to call it out. Um, the email tip sounds
+obvious until it happens to you, right? Then, the Cloud Code, if you are someone who's trying to get into
+developing, Prompts is worth the money. But other than that, the video gives a bunch of tips for Cloud Code
+that I think if you are looking to get into, this will be a gem that you'll actually remember, and will
+actually help you with using Cloud and completing any projects that you have.

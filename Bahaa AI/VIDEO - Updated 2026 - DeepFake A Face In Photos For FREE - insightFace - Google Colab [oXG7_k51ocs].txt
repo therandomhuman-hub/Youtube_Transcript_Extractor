@@ -1,0 +1,34 @@
+Title: Updated 2026 - DeepFake A Face In Photos For FREE - insightFace - Google Colab
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: oXG7_k51ocs
+URL: https://www.youtube.com/watch?v=oXG7_k51ocs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:57:09+00:00
+
+Kind: captions Language: en in this video I will show you how to replace a specific face in a photo even if
+the picture has more than one face you will be able to set which face you want to replace the method works on
+the computer and mobile phone with the same steps let's start open the Google Chrome browser and make sure
+that you are logged in with Gmail then you open the link to the Google collab project in the video description
+it will appear do you like this run step one this window will appear for you click run anyway the step will
+start working step May first take approximately 3 minutes if this window appears click cancel after the step
+is finished a small check mark will appear next to the step next run step two then run step three now we have
+install the program and are ready to use it as long as you haven't disconnected from Google collab you don't
+run these three steps again after that step four in this step we will upload an image of the face that we want
+to use the face must be clear and facing the camera run step four a choose files button will appear click it
+and upload the face image after uploading is complete a preview of the uploaded image will appear then step
+five in this step we will upload the target image the image of the face we want to replace the target image
+may have one face or many faces the faces must be clear in the photo and facing the camera run step five a
+choose files button will appear click it and upload the target image after up loading is complete a preview of
+the image will appear then step six in this step the program will analyze the target image this means that it
+will recognize the faces in the Target image run step six when it is done this result will appear to you the
+program recognized the faces in the Target image as you can see every face has a number and the numbers start
+from zero the face number number is what we will use in the next step then step seven in this step we will set
+the target face to be replaced and do the swapping process here we will write the target face number let's set
+it to for example then run step seven when it is finished the result will appear to you like this then step
+eight in this step we will download the final image run step eight eight a window to save the image on your
+device will appear if you want to use another face or Target image run the step and upload the new image what
+is meant here is that you do not need run any PF the first three steps as long as you are connected to Google
+collab after you finish don't forget to disconnect Google collab from above choose runtime disconnect and
+delete runtime yes

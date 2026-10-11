@@ -1,0 +1,121 @@
+Title: How to Make VIRAL Stick Figure Animation for Faceless YouTube Channels (Free Method)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: yg--TZ7prE8
+URL: https://www.youtube.com/watch?v=yg--TZ7prE8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:58:37+00:00
+
+Kind: captions Language: en Look, YouTube is competitive, but there's one ultimate niche that consistently
+works for new channels, and that is stick figure animations. Now, look at these videos and see for yourself.
+Some of them are doing full-time incomes, according to YouTube, and the crazy thing is how simple these are to
+create. Plus, you can copy this over to any niche you want, like finance, motivation, stories, and more. And
+so, I'm going to break down exactly how to generate these for free, step by step. First step is writing a
+script, or generating. You don't need to write. You can use AI, such as ChatGPT or Claude, and I personally,
+at the moment, prefer Claude. That's always changing, but it's free, and it's a really good option. I made
+this script you're seeing here on the screen with AI for our stick figure video example. And here's how I made
+the script, step by step. I didn't start from scratch. I didn't try to be, you know, a genius myself, which
+I'm not. I just found this other video that already performed and already got views, and went absolutely
+viral. It's a proven concept, and I took that title, and I threw it into AI, and generated ideas based on this
+viral video. Now, then I picked one idea I really enjoyed, which is how did ancient humans stay warm in
+winter? Very interesting, and that's going to be our video. So, back to our script, and we literally made this
+in a few minutes. And all it takes is some carefully crafted prompts, because you need to be very precise with
+your instructions and tell the AI exactly what to do, else you're going to get a slop script that will ruin
+your video. But now, let's be realistic, okay? AI is good, but it's not magic, and it will require some human
+editing, which means you have to, you know, actually do some work. You have to read through it, you cut the
+boring parts, you cut the AI slop, and you make it sound like a real human. Because often the AI is going to
+hallucinate, it's going to ramble, it's going to, you know, do all that bad stuff. And so, the manual editing
+is the difference between a good script and a script that can go viral and a script that actually totally
+flops. It's going to take you a couple of minutes, maybe 20 minutes, 30 minutes, 40 minutes, but it's going to
+be worth it. Don't skip it. And now, that's pretty much it. A script that would have taken you hours and your
+wallet, if you were paying somebody, is now done in minutes. Now, the next step is that we need a voiceover.
+So, let's head over to our voiceover stuff. And a voiceover is basically just us needing a voice reading the
+script. And so, for that, we have two different options. Well, actually, three technically. You could pay
+somebody to do the voiceover, but that would be very expensive and take a lot of time. So, really, we have two
+free options. We can use something called ElevenLabs, which is basically an AI voice software, but a big
+warning here, some channels with AI voices have been demonetized. That's a totally valid concern, which a lot
+of people have, but I want to just emphasize that YouTube is not cracking down on AI voices, it's cracking
+down on AI slop, which I've also gone through the guidelines and this is exactly what I can see. Now, many
+slop channels have been using the same AI voices and these channels are very, kind of like, flagged by the
+algorithm. It's very unfortunate that some good channels have been caught in the crossfire, but YouTube was
+never intending to target those good channels. It was simply trying to target all the AI slop. So, what I
+recommend, and the solution to this, of course, is to upload your own voice to ElevenLabs and then create an
+AI from that. So, that voice, which you create using your own human voice into the AI, is completely unique to
+you. And you can generate as many voiceovers as you want to and all you do is upload it once, like a 10-15
+second voice sample, and then it can generate it forever with your own voice. But, personally, I like to use
+my own voice and just record it myself, especially if you're starting out. That's what I recommend if you're
+up to it. It only takes a few minutes, but it's free, easy, and even if you have an accent, that's fine. It
+makes you stand out a bit more and be more authentic and sets you apart because again, people remember you and
+your voice. The microphone can be anything. It doesn't have to be professional. I've been doing this with like
+$30 mics. You can do it with something like $500 mic, anything in between. And today, you really don't need
+anything expensive because AI can help you improve audio quality a lot. You can use a tool that I like called
+Adobe Podcast AI to essentially clean up your audio for free. And so now we have the two most important assets
+ready. We have our script and we have our voice over. We can now move on to starting to create the stick
+figures and our final faceless video. So I'm going to keep it extremely simple because it is and a full
+disclaimer, today with AI you could generate this, but it's expensive. It requires a lot of credits. And so in
+this free tutorial, I'm going to show you a free way to create stick figures animations yourself. It's not
+going to look like a Disney movie, let's just make that clear. But we are making little stick figures that can
+move just enough to keep your eyes on the screen. That's all. And if we look at the reference video, that
+video got a ton of views, right? And look how simple this video actually is. I mean, it's basically just
+images put together with a voice over and some little effects like here and there. So we're going to do the
+exact same thing. We're going to generate these images. We're going to put them together and throw them on the
+voice over. Let's start by opening up ChatGPT. Feel free to follow along if you want to. If you don't want to,
+you can just watch it and enjoy. And later down below, I will leave a link to my free training where I include
+a lot more resources if you want to. You don't need a paid subscription to follow along and you can use the
+free plan, although I would recommend you to use the like $20 plan because it's a lot faster and you can do a
+lot more things, but that's pretty much all I would recommend that you use. All we do is we give it our script
+to the AI and then we say something like this prompt. >> [music] >> I want to create images from this script
+and put them into a video. Can you segment the script so I know what images to generate? And then the AI will
+generate a list of all the images that we want to create from our script, basically separating your script
+into different assets. So that when you say something in the script in the voiceover, let's say you talk about
+a dinosaur, it shows a dinosaur on the screen. And in the next sentence you talk about a monkey and then you
+show a monkey on the screen. I don't know. And now we simply tell ChatGPT to generate these images one by one.
+It's a little bit unfortunate you have to ask it to do one by one. There are other softwares and other tools
+and things you can use to essentially do it faster and do it more than just one at a time. But for our simple
+tutorial, we ask it to create our stickman images for our simple stickman video. It's going to create the
+images, the visuals, the scenes for us and basically have our entire video ready image by image. Now you have
+You're going to have to spend a few minutes on this and then you will have the scenes generated for you
+matched to the script and what is being said. And here are some images as an example that I generated with GPT
+and it only took me a few minutes. And just like that, we have all the visuals that we need for our video. So
+now let's put everything together and create our final product. I'm going to show you step by step what to do.
+And again, tiny mistakes here could stop your video from getting views. So let's make sure we get the last
+piece of the puzzle correct or the puzzle is not going to be solved. So we'll need an editing software to put
+these things together and I use Premiere myself when I was editing for myself. Many people use DaVinci
+Resolve, other editing programs, but skip all that. The easiest way to start in 2026 as a beginner is free,
+and that is CapCut. CapCut is a video editing program. I'm not sponsored, but you can use either online CapCut
+or download it to your computer. So, it's very accessible, and they have lots of AI and new features. And it's
+so simple to use. Their free plan has all the features that we need, and so that's what I recommend. But if
+you want to use another software, go ahead. I just think it's one of the best options for beginners because of
+how simple, free, and pretty good it is. So, now really quick, what we do is we just import all of our assets
+that we generated using GPT, and we also take our voiceover, and that's pretty much it. So, now we have our
+scenes, aka the images. We import everything, and then we drop the voiceover on our timeline really simply,
+and then we lay the scenes on top to match the script and what is being said. And we try to put that together
+with when we say each thing, which takes a little bit manual work, but it's nothing complicated. And boom, we
+have the first version of our video ready. But we have a few more steps to actually get views and to make it
+better. So, let's start by adding some text. It's a tiny thing. We're just going to add a few words, but it
+makes a big difference, okay? So, you put the important keywords up as the voice says them, which makes it a
+little bit more engaging. You can see the difference, right? The same scene, but the one with text feels more
+alive, especially for these like stickman videos when they're very simple and there's not that much happening.
+It gives the viewer and their eyes something to follow, and it makes your message hit a little bit harder. So,
+you can easily add this in CapCut in just a few minutes. Now, the next thing that we need to do is going to be
+to add a music, background music. A simple stickman video could sometimes do it without music, but oftentimes
+you will need some music or it's going to be a little bit empty. Good music is going to set the mood. You can
+take some intense music when you want, you can have some fun music. So, you drop a song on the timeline and
+then this is the part that people get wrong. You turn the volume down, okay? Turn it way down. The music is
+supposed to be quiet under the voice. It's not supposed to be fighting with the voice for attention. The voice
+is the number one priority and then we have the little music down below who's just enjoying the peacefulness,
+just being there, creating some background music. It's not the focus. And then [music] we're just about ready.
+You go through the whole thing one final time. You clean it up, make sure everything's good. You cut some dead
+space, you cut things that don't look good. You make sure all the awkward pauses, they're gone. You make sure
+the pacing is good. Adjust the timing, check that there's no, you know, empty spaces which people often miss
+and adjust the timing so that all scenes are at the right time. And that's pretty much it. And let's look at
+the final product we made. Now, obviously we only made like 5 seconds of a video. That's it and it's very,
+very basic, but it took us only a few minutes, pretty much free. We made it ourselves from scratch with the
+idea, the script, the voice, the visuals, the final video. All of it in a fraction of the time that you would
+expect to take to make something like this. And so, if we look at one frame from the original video, it
+actually looks pretty similar. It's not that far off, right? And that simple, very simple stick man format
+actually went viral and we just spent a few minutes to create something very similar. So, hopefully that could
+do well, too. Now, what's the best niche for starting a stick man figure channel? And it's a very good
+question, right? To monetize properly and I'll show you that in this video which is top-rated. You guys will
+really like it where I show you the best niches to start now with AI right now, faceless YouTube.

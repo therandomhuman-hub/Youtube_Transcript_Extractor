@@ -1,0 +1,262 @@
+Title: Build Your 24/7 Claude AI Employee in SECONDS (New Agent Skill for Claude Code)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: g9x56aEQR1E
+URL: https://www.youtube.com/watch?v=g9x56aEQR1E
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:26:22+00:00
+
+Kind: captions Language: en as an AI engineer at a multi-billion dollar media company. And one of the things
+we're mostly focused on right now is how to build AI agents the right way. And if you're ever getting
+frustrated with using AI, it's probably because it's not giving the responses that you want or not letting you
+access the information that you want. And both of those problems are solved with modern AI using things like
+skills and MCP connectors. But the same bottleneck still occurs here and that is that it relies on you to run
+the workflows. Uh what if you want a report going out every single Monday morning or let's say you onboard a
+new client and you want it to be added to all of your new systems automatically. Those require autonomous AI
+agents to run instead of you being at your keyboard and running the workflows every single time. and Claude
+and Ananthropic have a feature called Claude managed agents that's been out for a while to that let you do
+exactly this now. They just released a brand new skill called launch your agent that allows you to do this in
+seconds using the claude code interface. So in this video I'm going to show you exactly what that is, how to
+use these manage agents, and then we'll actually go through a demo using the launcher agent skill to create
+one on our own. Like I mentioned, the core technology that we're talking about here is using claude managed
+agents. And this allows you to run autonomous workflows in a secure way that's managed by you and managed by
+anthropics infrastructure and a way that is scalable. [snorts] It allows you to run an agent that has all
+these different tools that can do different actions. Uh but before we go into actually building them, let's
+talk a little bit about what they are and how they actually work. So I think it's important to understand the
+difference between an AI assistant and an AI agent. [snorts] Uh you're probably used to using AI assistants.
+So these are things like chat bots, right? If you're using claude chat or even the cloud terminal, uh chat
+GPT, anything like that, that's an AI assistant. So what these do is that they support your human decision
+because you're speaking directly with them. They provide insights for users to act on. that is like the
+decision making aspect of it. They tell you what to do and it adapts to the user input dynamically as you're
+speaking with it. So, this is great. Again, it still runs into the problems that we spoke about a little bit
+earlier where now it's relying on you to manually go in, type on your keyboard, and get a response or have it
+perform an action. So, they have their place. They're useful to use in certain scenarios. But this isn't what
+we want to use for other scenarios. Things like running autonomous workflows to create reports, uh, onboard
+clients automatically like we spoke about in the intro, those are needed for AI agents. So AI agents are fully
+autonomous. They operate independently. So they're just out there on their own. After you've given it sets of
+instructions, it's able to perform a specific action and it does it in a very structured task format. You're
+aiming for a very specific type of output and you could provide those instructions to it. So again, what we're
+trying to focus on here is how to set up these AI agents. So what are the features of these cloud managed
+agents? There's a few different ones. For one, they're production grade. So they are sandbox authenticated so
+that they know that it's just you accessing it. It's in a secure environment. So it won't go and ruin other
+things on your computer, right? Like cloud co-work, you might be able to uh type something in and it will go
+like it could delete files, right? This is sandboxed to just you. There are longunning sessions that can run
+for hours. If you have something like the Claude Fable model going, it can run for hours. You can coordinate
+multiple different agents that can do different things. and you trust the government the governance of it. So
+giving the agents access to actual systems through like tools and MCP connectors. But again, it's not your
+laptop computer. So it's still sandboxed in that way. So those are the main benefits of cloud manage agents.
+And what we want from it is a few of those, right? We want it to be autonomous. It should be able to run on
+its own. We want it to be long running so it could do these long tasks if needed. maybe like a long research
+report or something else. We want it to be always on. If it's something running on our computer, then as soon
+as we close our computer or turn it off, the agent's not going to be running anymore. So, we want this to be
+always on running in anthropics infrastructure. And we want them to be able to work in teams. So, maybe you
+have a researcher agent, you have a writer agent, you have a reporter agent, all of them are working together
+to accomplish a task. So let's now talk about the different components of the claw managed agents that make up
+a single agent. So in the middle there's a harness which is the anthropic claude harness and this uses
+different aspects uh or different components or features of the manage agents and the first one we're going to
+talk about is the actual orchestration which is uh running the actual agent and creating the agent. So here is
+how you do this through code. I have some code snippets for all of them just to show how it's created if you
+wanted to use Python for example. This is all in the anthropic uh manage agent documentation. So you would go
+ahead and create an agent. You can see that you give it a name, a model, you give it a system prompt and then
+you can give it some tools which we'll touch on a little bit later. But besides those, you can also create an
+agent directly in the user interface and you can describe it in YAML configuration here. Oh, that's a huge
+pen. Um, that's good enough for now. Let's see. Oh, that's a little better. So, you can create it in like a
+YAML config here or you can switch this to JSON. Um, just different text formatting or there's even templates
+over here that you can run uh pre-built agents, right? Like this one's a support one that connects to your
+Slack and notion. This one is just notion uh bunch of other systems. So it's nice that they have some
+templates out of the box that you can use. So that's creating the agent do the orchestration. But now let's
+talk about how we can get the agent to actually do things. And that's where it comes to tools. And you might
+have heard of tools before or MCP. We'll touch on both of those. But tool is like a single action that it can
+perform. MCPS are made of multiple different tools. So a tool is a single action and these are all the out of
+the box ones that are available through anthropic. So these ones are like reading, writing resources, running
+commands within the shell container, the sandboxed environment that this is running. And then this is all like
+yeah having to edit and files and things like that. But these two are going to be really important here which
+are web fetch and web search. So if you're ever doing any research outside of the actual agent itself, it's
+going to use these tools. [clears throat] Uh and this is like how you would give the agent a tool. So within
+this tools parameter here, you just provide basically you make a tool set and then you give it the config of
+the actual tools that you want. So you can see this one is web fetch and it's actually disabled right now
+because enabled is false. So you can just turn that to to true. >> [clears throat] >> Now, what about MCPs? If
+you don't know what MCP is, it is model context protocol, and it's just the standard way that LLMs are able to
+talk to outside applications. So, if you wanted to send a Slack message, uh, read files within your Google
+Drive or be able to read and write code to your GitHub repository. All of those have unique APIs, ways that
+your applications have historically been able to interact with code uh to do these to work with these
+programs. But now you have this standard called MCP and the LLM just talks to the MCP and the MCP handles all
+of the custom API interactions. So to get your agent to use MCP, we provide a new parameter called MCP
+servers. you know, it goes right with the tools here and this is just the configuration for the MCP. Uh so you
+can see that this one is GitHub and it just hits this endpoint. So pretty straightforward. Uh if you've also
+heard of skills, uh you can add those as well. And if you don't know what skills are, it's basically just a
+set of instructions. I like to think of it like an SOP or standard operating procedure on how to do a very
+specific type of workflow. So you write it out once like you're training a person. This is how you train an
+AI. You write it out once every detail of the step. That way the AI knows how to go through it and complete
+the action for you. And typically this is in a markdown format. So like a it's called let's see if I can get
+this here. skill.md. It's usually in a file called skill.md. So um what you could do is create a skill here.
+So here we're calling skills.create. We're giving it a file that we called example skill and it created it
+gives you an ID for the skill that created on the anthropic side. Then when you're actually creating the
+agent, you provide this skills section here and you can give it, you know, there's some built-in anthropic
+ones like this one has had to use Excel, but then there's also custom ones which you give the skill ID that we
+got when we created it beforehand. And now that agent has the ability to use that skill. So cool. Now we have
+our manage agents that are orchestrated and can use tools and interact with the outside environment. >>
+[snorts] >> But how do we actually create that environment for them? That is where this sandbox environment
+comes in. So to create an environment, it's pretty simple. Again, you can do this in the user interface or
+through code here. Like this is Python and you say environment create. You give it a config and a networking
+type. And I think it's important to understand both of these. So the config here actually doesn't show here,
+but if you think about config, um you can run it either locally or in the cloud. And with the manage agents,
+you're always going to want this to be in the cloud. What are the benefits of doing each of these? Local is
+that it's running on your computer. So that's if you were creating these agents and just keeping them on your
+computer to run. This is actually what Claude Code uses. They manage agents for you to complete different
+coding tasks. Like if you ever use sub aents or agent teams, it's all running on your computer to interact
+with code. It's great because it uses all the files on your computer and you know it could do anything on your
+computer that you can do. But the problem with that is again if you close your laptop or if you turn off your
+laptop then they can't run uh and it's restricted to just your computer as opposed to if you're running them
+in the cloud. And this is usually in this situation it's running on anthropics infrastructure which means it
+can run 247. It's running all the time and it may not have access to all the files that you can give it which
+you know that in some cases that may hurt you because you want to access them. In other cases you don't want
+it to potentially ruin these things that you have on your computer. So it's in a sandbox environment that's
+isolated and it only has access to the things that you provide it with. So that's the main access uh main
+benefits of using it in the cloud. Now I'll talk about this networking type. And you see it says unrestricted
+here. If we go over here, there's unrestricted and limited. Unrestricted means it can access any website on
+the internet. So most of the time that's probably what you're going to provide it with. Limited means that you
+just set exactly which endpoints or which URLs and websites that it can access. If you don't want it to be
+able to reach out to anything and we only want to provide it with specific spec specific guard rails, that's
+when you would use limited. Um, it's also important to note that you can give it different package managers.
+So, if you're using code a lot and you want it to run different packages, like this one, for example, allows
+you to work with videos. So if you you know enable this uh apt package here then you can have it install and
+use ffmp fmpg to work on videos. So now that we have our sandbox out of the way, let's talk about managing an
+actual session. So a session is just a conversation with an agent, but it requires a few different things. So
+when we create it, we're going to provide it with an agent which we created down here and we're going to
+provide it with an environment which we created over here. So now that we have an agent and an environment
+that gives us the ability to chat and send messages with the agent. And that's really it. Those are the
+components of a clawed manage agent. So pretty simple. And at this point, let's talk about the actual launcher
+agent skill. I'll open that up over here and you can see it's a GitHub repository that was created by
+Anthropic and it's just a claude skill. So you run it within Cloud Code. This is how you set it up and we'll
+go through this after the way that you do it is there's actually a few different folders here. Uh there's the
+actual cloud skills folder which has the launcher agent skill. like I mentioned earlier uses the skill.md file
+and this is how it knows what to do. And then there's also a wrap-up skill which basically is just when the
+launcher agent is complete and you've actually successfully deployed your agent, it just runs this wrap-up
+skill to finish some things up. It's also cool that there is a UI folder here. So, it creates an HTML folder
+or HTML dashboard that you'll be able to see that manages the status of your agents real time. And that's
+really the basics of this. We'll go ahead and actually get to it. I think it's also important to show you real
+quick what the Claw console dashboard looks like. Uh, you're able to manage your budget in here. Uh, load it
+up, do prompt caching, but the part that we care about the most is managed agents over here. in this agent
+section and you can see I was already messing with this and created an agent but within here there's the
+sessions like I mentioned you this is where you actually chat with with the agent there's the environments
+that we spoke about and yeah each of the agents have things like tools that are set up yeah you can see mcp
+and tools and I gave it a bunch of them here so that's the basics of Now, let's actually go ahead hop into
+Claude Code and we'll actually start running this skill and create our own agent. I have Claude Code pulled up
+here. Let's start building our agent using this launcher agent skill. So, the first thing we're going to want
+to do is hop into that GitHub repository here. We're just going to copy the URL and we're going to tell it to
+set it up, which means it's going to run these commands. I'll bring that into Cloud Code. I created a new
+folder called launcher agent for this demo here. And I'll say set up this skill and drop in that URL. So all
+it's doing for the setup here is cloning this git repository locally. And because it has that do that
+claude/skill folder with the skill.md file that will give us access to actually run the skill. So we get it's
+doing exactly what we said here. It's going to clone the skill. We will allow that. And now we can see that it
+is successfully set up in our repo uh the launcher agent repo here. So let's go back here and we're going to
+say run the slash launch if I could spell launch your agent skill. And it should know exactly how to do this.
+It's probably going to go well, it will go into that folder that we just cloned and it's going to run the
+local file or the local skill that is there. All right, so it just started it and it's saying welcome and it
+wants us to pick what we want to do for this agent. So it's giving a couple options here like a data analyst.
+Uh this one you give it a CSV and it comes back with charts. This one will take an alert and investigate it.
+And this one is a compliance scan. So it runs on a schedule, sweeps whatever you point it at, and creates its
+report. So let's actually let's go ahead and create the the research or recurring digest compliance scan. It's
+going to ask us a few questions now. It's going to say, what are we actually scanning and what would a good
+version look like? So, just as an example, it gave us a weekly scan of your codebase, nightly synchro summary
+of the data source, digest of the competitor or industry activity. Um, let's have it scan my codebase and tell
+me a report of any potential bugs. do research and determine if there is a new feature that I should implement
+in the report as well. So, we'll have it scan through a codebase that I have and just like I mentioned, it's
+going to determine if there's any potential bugs and it will create a report that says how to fix them and any
+new features that we should be implementing. Uh, and that I'm guessing that's going to use a web search and
+the scanning my codebase is going to use a GitHub connection. It's asking some multiple choice questions now.
+So, we're going to have it scan everything. And what new feature should it implement? Let's say, yeah, do
+competitor research. How often should this run? We're going to have it do it weekly. And now I'm going to give
+it an actual codebase that I have to scan through. Uh, I have this web app here that I created called
+Gourmand. It's just creates recipes using AI. Um, pretty simple. It It was just while I was learning how to
+use AI within applications. It's kind of cool, but you know, me thinking people would actually pay for
+something like this. Um, you know, we'll just have it do the the code repo that I use to make this. So, let's
+copy that repo. We'll go back over to Claude here and we'll tell it to do this one. It just created a plan to
+actually implement this agent now. So it has the agent and instructions here. So a weekly codebase health
+report and opportunity scanner for the codebase that we just mentioned. Check for security bugs, tech debt,
+etc. Uh don't write the code itself. It's going to be running in a cloud environment with unrestricted
+networking. So that will allow it to access our GitHub repo and then be able to do the web research that it
+needs. no extra packages are required. It's going to use a GitHub connector. Um, or it might actually be able
+to reach out to the GitHub repo directly since it's not public or since it is public and not private. We'll
+we'll see what it wants to do. Give us a markdown report at the end with issues that are found, recommended
+features, and it says nothing invented. Every claim traceable to a file or cited source. So, make sure it
+cites its sources. It will run on a weekly cron job or basically just a schedule. Uh, which it's actually
+asking for which day to run. So, yeah, we'll go with this Monday at 8 a.m. And then it's going to run some
+evaluations to make sure that it's working correctly. So, case one is this week's actual scan. And the cool
+thing is that it actually shows versions as well. So this is for like version zero. Version one it's going to
+be a Slack or email delivery of the digest. So version zero is just drafting it up. These would actually be
+sending it out. And then V2 is actually creating a pull request with the features instead of just writing a
+recommendation. So pretty cool that it gives future versions as well. So let's just answer this question and
+say Monday 8 a.m. Oh, it's asking for the time zone too. I'm in Eastern time, so New York. And let's see what
+it does. It just wrapped up creating our launch plan. It ran for a few minutes here. And before we dive into
+this dashboard, which I'll show you in a second, it is asking for one thing that's important to note and is
+required for this to run. And that is your anthropic API key so that it's able to access your cloud console,
+the managed agent dashboard. So it just wants to create uh in this file here aenv and you just got to paste in
+here uh what your anthropic API key is. So to get this what we'll do is we hop into this console here. We go
+to API keys and again this is just at platform.claw.com. We will create a key. We're going to call it uh let's
+just call it code scanner demo. We will click add. And I'm going to blur this out so you guys can't see it.
+But I'll copy my key here. We're going to go back into here and we're just going to paste it in like that. So
+I'll click save. Let me close that out. And now we can see the actual dashboard that I created. We can see
+that it is creating an agent called the Gourmand Health Scanner, which is the name of our uh our website or
+our code repo that we want it to scan. It's going to use the cloud opus model. It's going to run out Monday at
+8:00 a.m. Eastern time. And here's some information about the deployment. So, this is the actual trigger that
+it's going to run. The worker here is our actual agent. You can see the environment is the cloud with
+unrestricted networking, no packages. It's going to clone the repo and it's going to write the outputs to this
+digest file. The tools here, it's going to have access to bash, web search, and web fetch. None of the other
+ones. It's going to have GitHub access to a public repo. And it's not going to have skills or memory for this.
+And then lastly over here we have the deliverable which is the digest.md. It's going to max try it three times
+in a row. Only read it. Don't actually write code. And the outcome here is the digest. The issues uh feature a
+recommended feature. Uh make sure it's supported and the repo is untouched so not making changes. Awesome. And
+this dashboard is going to update as we continue to deploy and test the agent as it goes from version zero to
+version one and we run different sessions to test it out and do our case study evaluations. So you can see a
+run log here of the sessions. This hasn't been created yet. So there's no runs and the evaluations here. We
+have case zero. This wasn't run yet either. And then there's also the plan of the different versions like we
+mentioned. So V1 could deliver it to Slack or email. Also creating a memory store. V2 would be able to create
+a pull request with those changes and lock in networking. So awesome. This looks like a good plan to me. We'll
+keep this open to the side here and have it update. So we'll say just added the API key. Run the agent. And
+we'll do that and let's see how it creates the agent. All right, quick check in here of how it's going. It
+created the environment that we needed here. Created the agent and it started a session run. So if we go into
+the actual claude console now, we can see the new agent that it created the gourmand health scanner. Oh, let's
+go into here. We can see the tools that we gave it permissions to use. We can see the sessions that it
+started. So, it created this session that's currently running. Let's open that up down here again, the
+sessions, and we can see it. Uh, the manage agents are cool because it provides a transcript of everything
+that's going on. So, that's the agent discussion, tool usage, etc. Um, and also debug mode that you can go
+into more in depth. Uh, so, so pretty sweet that you can get that granular with these sessions. But yeah, go
+back to the agent. There's the deployments which hasn't been created yet, but this will be how it's running
+every Monday at 8 a.m. And there's also an observability dashboard over here. Uh, and yeah, if we want to see
+the actual environment, it's over here, the health scanner environment. We can see unrestricted networking, no
+packages. Um, so created everything we need and now it's just running the agent and we'll see the response
+that it gives. The agent just finished. We can see here that it is giving us a recap of basically what
+happened. So it created the digest. It was five different criteria that it had to evaluate on. So creating the
+digest uh that the issues are tagged that there's one feature, no unsupported claims, and the repo is
+untouched. Uh it wants to go to the next step which is actually scheduling it. uh which we'll set that off.
+But yeah, we can search. We can look back at the session here and see that the agent completed. We could see
+the session right here. And I loaded the session and it's cool. It has the output that it created right here,
+which is that digest file. We could download that and look at it if we want, but it has a little preview over
+here where it goes through. Actually, yeah, let's download it and look at it. So, I downloaded it. It'll open
+it in anti-gravity. We can click this and see what it actually looks like. So, there's the digest report
+talking about the repository, a few different security concerns that came up. One of the opportunities for a
+feature, which is a shop ingredients using Instacart. Uh, pretty cool. It's actually something I was looking
+into back then when I was working on this project. And yeah, there's the actual sources down here. summary
+table. Awesome. So, yeah, pretty much exactly what we asked for. Security concerns, new features, etc. All
+right, so let's go back into Claude. We'll allow it to create that schedule. And in the meantime, let's check
+out the report from here. And here's the actual report again. And now we can see that the deployment was
+created. So, every Monday 8 a.m., we can real quick just hop back into here and take a look at the
+deployments. Yeah, there we go. The weekly health uh the weekly health scanner. This is just saying Monday at
+8 a.m. time zone New York. Cool. Uh and if we go to the agents, we can see it right here with the deployments.
+There it is. Awesome. [snorts] So, back to that report. We see that the this is the same, right? The work is
+still the same. The deliverables are the same, but now it has a session log where it says the first session
+ran. It hit all the criteria satisfied. We can click on the actual session. Oh, I guess it doesn't work right
+now, but this has a link to the session, the evaluations. So, it ran and it was verified. It worked. And now
+we can go to additional versions if we want. And that's the main thing I wanted to show you. It's how to set
+up this agent just through this new skill. And as it continues to test th here, you can have it deploy, you
+know, create v1 and it will go through this process yet again. Create v2 to work on all the new features
+within each version. And if you keep looking at that dashboard, it will update it with all the new session
+runs and all the new features of that agent. Now you know how to create these autonomous agents that can run
+full workflows completely on their own in an isolated cloud environment and you know how to upgrade them from
+version to version and keep track of it in a dashboard using the single launcher agent skill. So pretty cool.
+Now, if you're looking how else you can use these managed agents and especially in this a cloud environment
+where you can leave it as a longunning task, then check out this video I made right here on how to set up
+Claude Fable 5 with managed agents to do very similar types of report tasks for code or for web searches as

@@ -1,0 +1,43 @@
+Title: How to Make Viral AI Stickman Videos (Step-by-Step)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: JqEgO5LBDNQ
+URL: https://www.youtube.com/watch?v=JqEgO5LBDNQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:35:43+00:00
+
+Kind: captions Language: en This channel has gained 13 million subscribers just by creating these simple
+stickman videos. Almost every upload gets hundreds of thousands or even millions of views. This video has over
+254 million views. This one has 144 million and this one has 141 million. These stickman videos are trending
+everywhere right now. Now take a look at this video that I created in just a few minutes using a single AI
+tool. >> One morning, the sun suddenly disappeared and people thought the world was ending. In the year 536, a
+mysterious dust cloud blocked sunlight for months. Crops failed, temperatures dropped. Even today, scientists
+are still debating exactly what caused this great >> In this video, I'll show you exactly how to create
+stickman videos like this completely free. So, without wasting any time, let's get started. First, you'll need
+the master prompt to create these stickman videos. You'll find the master prompt link in the description.
+Simply copy it and head over to chat GPT. Paste the prompt into chat GPT and press enter. Chat GPT will show
+you 10 different stickman video categories. For this tutorial, I'm choosing category number six, history. Just
+type six and press enter. Next, chat GPT will generate 10 unique history video ideas. Choose the one you like.
+For this tutorial, I'm selecting idea number two. Simply type two and press enter. Now chat GPT will ask for
+the video duration. I'm choosing 20 seconds. So, simply type 20 seconds and press enter. Next, chat GPT will
+generate a viral title, which you can use for your video if you want. After that, you'll get the voiceover
+script. Below that, you'll see two scenes. And each scene includes an image prompt and a video prompt. First,
+copy the scene one image prompt and go to Google Flow AI. Before generating the image, we'll need a character.
+You'll find this stickman character sheet at the very bottom of the master prompt. Import the character sheet
+into Flow AI. Click add to prompt. Paste the scene one image prompt. Select these image generation settings
+and press enter. Once the first image is ready, go back to Chat GPT and copy the scene two image prompt. Go
+back to Flow AI. Add the first image to the prompt. Paste the scene two image prompt and press enter. Now both
+images are ready. Next, copy the scene one video prompt and go to Flow AI. Add the first image to the prompt.
+Paste the scene one video prompt. Select these recommended settings, keep the duration at 10 seconds and press
+enter. Now do the same for scene two. Add the second image to the prompt. Paste the scene two video prompt and
+press enter. After a short wait, both videos will be ready. Simply download them. After downloading the
+videos, it's time to generate the voiceover. For this, I'm using 11 Labs. Go to the voices section, then click
+on narration. You'll find plenty of voices to choose from. For this tutorial, I'm using this one. Simply click
+use voice. Now go back to Chat GPT, copy the voiceover script, paste it here, and click generate. In just a
+few seconds, your voiceover will be ready. Simply download it. After a little editing, here's the final
+result. >> A 9-year-old became a king and everyone underestimated him. Most adults thought they could control
+him, but he surprised the entire kingdom. He learned fast, made bold decisions, and proved that age doesn't
+always decide greatness. >> And that's it for this tutorial. If you found this video helpful, don't forget to
+like the video and subscribe to the channel for more AI tutorials like this. Thanks for watching and I'll see
+you in the next video.

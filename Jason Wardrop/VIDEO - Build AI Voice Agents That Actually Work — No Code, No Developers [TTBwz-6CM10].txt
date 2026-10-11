@@ -1,0 +1,180 @@
+Title: Build AI Voice Agents That Actually Work — No Code, No Developers
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: TTBwz-6CM10
+URL: https://www.youtube.com/watch?v=TTBwz-6CM10
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-11T05:57:05+00:00
+
+Kind: captions Language: en AI voice agents are not the future. They're already replacing secretaries and
+receptionists all across the country. And honestly, most people are over complicating them with code that they
+just don't need. So, in this video, I'm going to show you exactly how to build an AI voice agent from scratch,
+even if you have no prior experience, no coding experience, you don't have some large upfront investment to go
+through and pay a coder to go through and build. And the cool thing about this is you can have it working the
+same day. Now, I'm going to show you everything step by step in this video, but if you want more additional
+resources of my full framework of how to go through and create AI voice agents, chat agents, all these
+different types of AI agents 100% for free. All I ask is just smash the like button, drop a comment down
+below, and I'll hook you up with it 100% for free. No hidden upsells, no pay walls, nothing like that. And for
+those of you who are brand new here to the channel, my name is Jason Wardrop and I've sold over $30 million
+worth of AI and marketing automation software online. And so that's why I don't need to go through and sell
+you a course like all of the other online gurus are trying to do. All right, so now that you've smashed the
+like button, dropped a comment down below, let me show you how to do this step by step, even if you're a total
+beginner and you've never done anything with AI, AI voice agents or anything like that before. Okay, so let me
+just jump onto my computer so I can show you guys how to set this up step by step. So this is an AI automation
+software that I use to run my entire business. And you can see over here on the side we've got the AI agents.
+So that's the first thing that we're going to do is click on right here. And the cool thing about this is
+we're going to create an AI voice agent from scratch step by step in this video. you'll have a working AI
+voice agent by the end of this video, but you can also create conversational AI chat bots. So, be able to go
+back and forth on a web chat widget on somebody's website. And you can even create AI conversational bots for
+your Instagram DMs and your Facebook messages, which is super cool, but we'll cover that in another video. But
+if you like this software and you want to go play around and try it out, I actually have an extended 30-day
+free trial down below in the description. um which normally it's a 14-day free trial, so you get a couple
+extra weeks to go through and play with this. So, what we're going to do here is we're going to go through and
+create our first voice AI agent. And I'm going to just zoom in here a little bit so that you guys can see
+this. And there are pre-built ones that you can go through and build, but we're going to do in this video, I
+want to show you just how easy this is to go through and set up. I'm just going to go and I'm going to create
+a custom agent right here, completely from scratch. Okay. Now, I might just move my head right here just so
+you guys can see this a little bit better. Uh, but we're just going to give the agent a name. So, we're just
+going to say demo agent. And then the business name, we're just going to say Acme Inc.. All right. Obviously,
+you're going to change that to whatever your agent name is because you could have one be like the the Well,
+actually, we just might put this right here, demo AI voice agent, because you could have a voice agent, you
+could have a chat agent. I honestly like to have different agents for different things in my business. So, if
+it's going to be like an Instagram DM agent or if it's going to be, hey, this is the live website chat agent,
+support agent, Facebook messaging agent. So, I like to go through and have different ones because they're all
+trained for different reasons. Some people, some of these agents, they're working with current customers and
+some of them are trying to go through and get more customers in the door. All right, so now we got here, we
+can choose the language and then you could choose, there's a bunch of different voices we can go through and
+select. Okay. And for this video, I'm just going to leave it as Jessica. You can listen to the demo right
+here. You can set the time zone. So, it's all set up with um where where you're located. Uh you can also
+choose the LLM model. So, this one is the one that's recommended, but you can see you can even go through with
+chat GPT version 5. And they're always updating this. So, if you're like, ah, it doesn't have the latest
+version, it does, and they're always going through and making updates with this. Okay. And then right here,
+you just have what the agent's initial message is. So if somebody calls in and this is the AI voice agent, you
+can say like, hey, you've reached, you know, whatever your business is. So this one we were saying it was Acme
+Inc., right? How can I help you? And you can obviously go through customize that. And this is something also
+very cool is you can come in here and you can have these pre-built things. So like contact, if you want to
+have the contact's first name. So you can say, "Hey, contact first name." This is obviously only works if
+they've already gone through a form, right? But this is kind of something that you could do. So, hey, you
+know, Jason, my name's Jason. Hey, Jason, you receive um you've reached Acme Inc., how can I help you today?
+Right now, guys, as you I hope you're seeing how simple this is because this is just a very simple
+step-by-step wizard. So, we're just going to click on next right here. And then we're going to say, hey, what
+are the agents goals? What do we want it to actually accomplish? Okay, so we could say, "Hey, we want them to
+grab their name, their email, and their address." You might be thinking, "Well, why don't have their the phone
+number here?" Well, these AI voice agents, they're already pulling in the phone number that they're calling in
+from. So, they're automatically able to go through and update that, which makes things super easy. Now, you
+can switch to advanced mode and you can say, "Hey, I'm going to give this a specific prompt." And what I
+typically do, because you might be thinking, "Well, Jason, that's like really technical. I don't know how to
+do that. I don't know how to train it with prompts. You can just go to chat GPT and just say, "Hey, I am
+making an AI voice agent for my dental practice or whatever type of business it is." Or if you're running a
+software agency and you're trying to resell this service, which that is the ideal thing for the software is
+basically be able to go through and sell these AI voice agents, conversational agents, all these different AI
+agents to these small businesses. And so you just go into chat GPT and say, "Hey, I'm working with a
+chiropractor, a plumber, a dentist, whatever it is, and we need to be able to feel these calls of people
+calling in to schedule an appointment." And so then just say, I write a prompt to train my AI voice agent on
+how it should behave and how it should handle. The end goal is to go through and book appointments. And then
+chat GPT is just going to go through and write everything out for you. And then you literally just copy it and
+paste it right in here. Okay. And so this is obviously the advanced mode. Um we're just going to switch back
+to the basic mode for this video. And I'm just going to remove my face real quick for a second. And so you
+have all these different options where um obviously you can go through and get some more custom AI voice
+setups and all that stuff where you transition it to a live human. But we're not going to get all that
+advanced stuff here in this video. You can find all that stuff in my free course and all the details um if you
+just smash like button, drop a comment down below. All right. So now we're just going to go through and hit
+next. And then from here we can just go and test this out. So let's test this out really quick to see how this
+works. All right, I've got the call coming in right here. I'm put on speaker. Hey Jason, you have reached ACME
+Inc. How can I help you today? Jason? Yeah, I'm looking to get some help with my toilet that's leaking. Got it
+Jason. I'll make sure a team member reaches out to assist you with the leaking toilet. Let me first grab some
+details to ensure we can follow up properly. Can I start with your full name, please? Yeah, it's Jason
+Wardrop. Thanks, Jason. That's Jason Wardrop. J A S O N W A R D R O P, right? Yes, it is. Perfect. Now, could
+you share your email address so we can contact you? Yeah, it's JW1088Gmail.com. Got it. So that's
+JW1088Gm.com. Correct. Correct. Great. Thanks. Lastly, could you provide your address so we know where to
+assist with the issue? Yeah, it's 123 Main Street in Dallas, Texas. Thanks, Jason. Just to confirm, that's 123
+Main Street, Dallas, Texas. Right. Correct. Perfect. A team member will reach out to you shortly to assist
+with your leaking toilet. Thanks for reaching out, Jason, and have a great day. Awesome. Thank you. Okay, how
+cool was that? Now, guys, that was a simple setup. And obviously, we could go through and get a little bit
+more customized, but now let's jump back on the computer because we are not done yet. I want to show you guys
+how you guys can actually set this up on a website for a client where this AI voice agent if somebody's
+visiting their website. So this was this example I used was a plumber. I was looking to go through and get my
+toilet fixed. But it could be like I'm looking for a teeth cleaning or I'm looking for a personal trainer,
+whatever it might be. We can actually put this AI voice agent on their website. So, you guys have probably
+seen the little website chat widgets on websites where you can go through, type in a message, and it responds
+and all that stuff. Well, what if you could actually call into the website right from or call into the
+business right from the website and it's the AI voice agent that we just created that you're able to have a
+conversation with and learn more about the business, book an appointment or anything like that. Guys, check
+this out. So, what we're going to do now, we've gone through, let me just make sure that I have finished up.
+I'm just gonna save right there. We're all good to go. We have created our demo AI voice agent. Right. So now
+what we're going to do is we're going to come over here to sites and we are going to go up here to chat widget
+and we are going to create a new chat widget. And I hope as you're going through this and seeing how I'm
+setting this up, you're thinking, man, that actually is so easy. I totally could do this and I could totally
+sell this to small local business owners for a$100, $200, $300 per month. I know a lot of people that are
+selling this exact service just like this for $299 per month. So, if you think about that, you get 10 clients.
+That's $3,000 per month. And the thing about this software is not only does it make it so easy to set up, but
+you see right here, this is my own logo. You can go and white label this software. So connect your own logo,
+connect your own domain, and then also connect your own payment processor so that you could keep and collect
+100% of the payments that are coming into the business. So if you're charging $299 per month, you get to keep
+$299 per month. You're not doing any commission splits with this software. And this software, it's already
+pre-built, pre-coded for you. It's very simple to white label. Just throw in your own logo, attach your own
+domain, connect your own payment processor, and you can literally have your own AI software business set up
+and running in less than 24 hours. So, that is the cool thing about that. And like I said, I've got an
+extended 30-day free trial to the software down below in the description. or if you want my full step-by-step
+course plus a 30-day extended trial, just smash the like button, drop a comment down below, and I'll hook you
+up with all of those freebies and bonuses. Okay, so now let's get into this. We're going to create this AI
+voice chat widget for a website. So, I'm just going to click on new and I'm going to come down here and click
+on this voice AI. And we can you can see all the different web chat widgets we can create. one for an
+all-in-one chat, SMS, email, Facebook, live chat, Instagram chat, WhatsApp. So, you have all these different
+solutions, which we'll cover in different videos, but this one we're going for specifically voice AI. All
+right. So, now we come over here and we let me just move my head so you guys can see this. So, you can see
+this little chat bubble. Now, a lot of times the um website site chat widget of like typing is down in the
+bottom right hand corner. So maybe I want to go through and I want to say, "Hey, let's keep this, but I want
+to go and change the position of this message." So I or this little widget. So I'm going to put it up in the
+top right hand corner. So see, we're going to put up right here. Then we have the little chat widget. If
+someone doesn't want to like call in, they have both options ready available for them. So we can go through
+and customize this. You can change what your avatar looks like. You can customize what the actual like message
+right here says. And then you can see all these different options of what you can go through and tweak and
+customize for this AI chat widget voice agent. All right. So now what I'm going to do is I'm just going to
+click on save right here. Okay. So chat widget is saved. Let's go like this. And then I'm just going to click
+on get code. Okay. Now for those you guys are looking at this and like well Jason I thought you said we don't
+know have to know how to code. You don't have to know how to code. If you can copy and paste, you can make
+this happen. And I'll also show you another way where you don't even have to copy and paste this code. So,
+what I'm just going to do is I'm going to go and I'm going to copy this code. And this is what we would put on
+their website. And you might be thinking, well, Jason, what if I don't have access to their website or what if
+the business doesn't have a website? Well, let me show you how to solve that problem right now. right here.
+What we'll do is we're going to come over here to websites. And you can actually just create a brand new
+website from thousands of different templates. And I'm also working with the team here. They wanted me to help
+them with their AI website builder where you can literally just copy and paste a URL of another website and
+say, "Hey, I like the design of this website. I want you to build me one just like that." Which once again,
+I'll cover in another video and I cover that inside of my free course. So, let's just say, obviously, you can
+see there's all these different templates you can go through and choose from. Doesn't really matter which one
+we choose. So, let's just choose this top one right here. We're going to say choose template. It's going to go
+through, create the template, and we're going to put this little AI voice chat widget on the website by simply
+copying and pasting it into the website. Okay. So, now what we do, you can see this already pre-built,
+professionally designed, looks really nice. This looks like it's for like a um little kids care or maybe a
+preschool or something like that. Like I said, there's all these different templates for all these different
+styles of websites. Now, in order to get this onto the website, all we have to do is come up here and we want
+to click on I always forget which one it is up here. The tracking code right here. So, we're just going to
+paste this right here in this header tracking code. We're going to click save and then we're going to hit
+publish and we're going to be able to see this. Actually, we're just going to hit preview because I don't want
+a connected domain right now. U we're going to hit preview. All right. So, this pulled up and you can see
+right here, this is the little chat wedges. So, if we hover over this, it kind of like lights up a little bit
+and we go click on this. We can call the business right there. And that is it. That was how easy it is to go
+through and add this. And if you don't want to go through and add code, you can also go in this website we
+just created and you can click on what is the settings right here and you scroll down and you have the chat
+widget and you have all these different options of what you can add. So this is like one I've added before.
+This is another demo and this one is the one we just did the chat widget number three. Move my head again. We
+just click save. And then that is the another way if you don't want to do the copy and paste, if like code
+just is like really confusing and scares you, you can also do that method as well. Anyway guys, I hope this
+was helpful for you to see how easy it is now to build these AI voice agents. How you don't need any prior
+technical skills, no previous experience with this, and you can go set these up for these small local
+businesses where you can charge $200, $300, $400 per month for these businesses. Now, I kind of like to bundle
+it with some other services so that I can charge a little bit more, the three, four, $500 range. And that's
+what I cover inside of my free course. And like I said, guys, there's no hidden payw wall. There's no upsells
+or anything like that. And I also have an extended 30-day free trial to the software that I just showed you
+that you can white label for your own business, connect your own logo, connect your own domain, your own
+payment processor, so that all of those payments that you're collecting are just going straight into your bank
+account. And for just $297 per month, you can have unlimited clients that you bring on. So literally, if you
+think about that, if you were charging $299 per month, you brought on 10 clients, you're making three grand.
+Your expenses for the whole software, all the automations is just $297 a month. If you had a 100 clients or
+even a,000 clients, you're still just $297 per month because that is unlimited accounts. And so that is why I
+love this software. So, if you like this video, go ahead, smash the like button, drop a comment down below,
+consider sharing it with a friend who might also be interested in this video or who might want to go through
+and do this business with you. And with that said, I'll see you in the free course in the members area.

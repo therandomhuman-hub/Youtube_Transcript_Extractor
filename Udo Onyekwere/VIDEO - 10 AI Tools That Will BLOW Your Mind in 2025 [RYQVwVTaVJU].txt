@@ -1,0 +1,129 @@
+Title: 10 AI Tools That Will BLOW Your Mind in 2025
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: RYQVwVTaVJU
+URL: https://www.youtube.com/watch?v=RYQVwVTaVJU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:42:31+00:00
+
+Kind: captions Language: en going to give you the top 10 newest AI tools that you can start using. Either you
+can start servicing this to clients, you can use it for yourself, build a product or software. Basically,
+we're going to figure out how you can monetize on it. And here I have a couple use cases that you can use. And
+I'm going to kind of, you know, break that down. So, give you some ideas on how to use this. So, first we have
+Apple. This one's by Google Labs. It was created back in or it was announced back in July of 2025. And you can
+basically automate workflows like resume scores, contract analysis, and basic daily stock and crypto signal
+bots. I'm not in the crypto space as of yet, but this might be, you know, useful to some of you who are in
+that space. Um, some of the money angles that I have here is that you can start selling apps on marketplaces,
+bundle up and build a SAS as well. Sell it for $10 to $49 a month and or you can build niche tools for small,
+you know, businesses. So there's a couple angles you can play with that if you go see that that is called
+Apple by Google Labs two. The second one we have Assan AI. This is an in browser AI no code tool. And
+basically you could design, train and test models with a web browser uh without using code. This was actually
+released back in early 2025. And the use case for this is that you can train custom ML models. Right? So, some
+examples of this, which I'm not in this space at all, but is product defect classifiers. Um, sentiment
+analysis for reviews, too. And I'll kind of put an example right here. I'll put an example right here about
+what those kind of are. Um, but basically some of the use cases are you can train custom ML models, right? Um,
+some money angles that you could possibly play here that I have is freelancers can sell custom ML models on
+demand and you know sell it to ecommerce shops, researchers or content creators. And I'll kind of maybe kind
+of see if I can show an example of how that would look. So now we have base 44 which this one is the one I
+use. Base 44 is kind of like lovable lovable.dev or uh bolt bolt aai. So things of that nature is
+conversational AI chatbots that can create, you know, web and mobile apps or websites even. I actually use B
+44 and I recommend it. Fully recommend it. Um, this one's very new. It was acquired by Wix in 2025. And some
+of the use cases is that you can build MVP apps, right? You can build almost any app. I use B4 and I highly
+recommend it. booking systems, digital journals, small learning apps. I'm building two apps right now and I'll
+come out with those one day and kind of show you a little bit about what those look like. And some of the
+money angles you can play here is that you can charge 500 to 3K honestly. Um, building it just depends on how
+you want to build a app here, right? Like I said, this is like if you've ever used level.dev or bolt.ai, it's
+just like some of those, which in my opinion, it's it's better. In my opinion, it's better. So that's what
+that is. Now we have the autogen studio and this is a no code tool for building and debugging multi like
+multi- aent AI uh models right so or multi- ai workflow and systems I'll say that instead this was released in
+2024 and the use case is that you can basically create multiple multi- aent teams right for example a
+researcher a writer and an editor and maybe even funnel that into a content content creator, right? Um, this
+can help you generate blogs, reports or marketing copy. So, some of the money angles that I have here is that
+you can actually sell automated content production pipelines to businesses, right? And charge 1 to 3k a month.
+So basically you can you know set up months worth of content that they could you know produce and either help
+them help them do that or pitch it to them and you know they can I guess use your platform to you know use
+that generated content system and you know host it for themselves. So those are two different ways and that
+was four five we have clawed artifacts right the anthropic of course this is a no code AI app builder feature
+to create interactive apps workflows games and etc right this was actually added back in 2025 the use case I
+have here is that you can build interactive budgeting tools quizzes or gamified learning apps so things of
+that nature and one of the money angles and money plays that I have is that you monetize this by embedding
+into online courses or communities or newsletters. This one I've never used Cloud Artifacts, but this is a
+game changer. I I think uh there's a good amount of use cases that this could be where you can generate money
+from. There's a lot of courses out there uh content creators that sell courses that you can implement and
+embed these into their you know course and start charging monthly and you can you know manage and uh you know
+do day do daily do a couple fixes up for them you know with after you embedded that. So six we have synthflow
+AI this is no code platform to build and deploy voice and conversational agents. So, I mean, y'all have
+already probably tested a couple of them. You've tested Vappy.ai. You probably tested retail, things of that
+nature. So, this is just something like that. It's probably if it was funded or if it was this is 2025, so
+this one's newer. Of course, you can go test that out. You may find a better and more, let's say, efficient,
+you know, AI model for these. If you're doing voice models, this may be better than Papy, maybe retail. I'm
+not sure about that. I actually like retail. I know there's other ones that you'll have. I just prefer retail
+because I'm really good at configuring and setting that up and connecting it with makeup.com app here. So, I
+don't know if I gave you the use case, but some of the use cases just using these as, you know, AI callers,
+call centers, you know, pick up phones when someone's uh or you can go to gym owners and basically use it for
+that. Gym owner, salons, barber shops. I mean these are infinite use cases of course which y'all probably
+already heard of or you're already doing currently now. Then we have climb climb right this is no code AI for
+clin for clinical predictive models. I don't usually get too deep into this but this was released as a proof
+of concept tool and it targets doctors and health researchers with ML expertise. So this one is a little bit
+more technical. One of the use cases is predict disease risk, patient outcomes or treatment effectiveness,
+right? So that's a very niche that's a very niche uh software that you'd use uh depending if you're like in
+that researching space and you like data and analytics. Um one of the money angles that I have here is
+consultants can license predictive tools to clinics, universities or research labs and grant funded projects
+possible. Right? So you can get funded projects to do this. Um not my space but this can be very profitable. I
+mean I I believe school schools move so slow that you know a tool like this if you know how to use and you
+know how to implement it into their system. They would definitely pay you a monthly fee or you know a one time
+for every you know for the whole build. So this is very possible especially if you understand and you can
+speak towards the benefit of that tool or of the tool that you're building on climb eight we have LLM 4 fast
+right this enables non-technical users to build and deploy apps via prompts and plus function as a service
+right right so this was actually launched in 2025 it helps nontechnical users leverage many models which I
+guess AI is just getting to the space where you know workflows are kind of I don't want to say they're
+becoming obsolete but it's easier to you can start creating workflows with AI prompting or things of that
+nature it's easier to create workflows you don't have to be technical moving nodes right and this is what that
+kind of does some of the use cases is that it deploys AI microervices or AI microservices I want to say like
+like PDF summarizers or you know marketing copy generators is it's basically textbased and helping you uh
+aggregate words in the specific way you need for whatever outcome that is whether that's marketing or whether
+that's research so that's what this does some money angles that I have here is that you can sell SAS
+microservices so very small need you can sell that it's very small so for example $29 a month unlimited scans
+or API based tools right very you can microervices right like helping departments in this very specific thing
+which a very low I would say very a low service that you would pitch but it would still you know help them
+save time or so help them really save time in the long run so that's one we have Lumio AI this is a multimodel
+AI workspace to use compare to use and compare multiple LLMs in one interface with smart switching excuse This
+was actually launched in 2025 to help non-technical users leverage many models as well. Excuse me. The use
+case is writers, coders, and support teams can compare models to get the best result. And this is actually a
+game changer, especially if you're, you know, over here flipping and using a lot of models. You can definitely
+see the benefits and compare which ones to use, uh, depending on the use case, of course, always. um a money
+angle that you can play with. Agencies can pack can package this and use this as a smart AI assistant and
+offer subscriptions for businesses or sell extensions or tools, right? So basically, you know, uh say you have
+like extensions of multiple AI models and you describe which one's best for what reason, right? You can kind
+of go into there depending on how you do it. Um couple plays you can do with that of course. So you can upsell
+in the back end. You can make that free then upsell in the back end and provide something more uh you can
+provide something more userfriendly that you can uh grow. I I don't I don't I don't know. I'd have to really
+dive more in to understand that aspect of that. But Lumio AI go test it out at least and maybe you can see and
+you can find some use cases that you can start selling this to businesses. Of course, the last is 10, which is
+Figma's AI app builder, which I mean Figma is already I mean, this is just honorable mention. Um, you you
+know, Figma is already one of the best uh tools for just visual designing and things of that nature. So, this
+tool is just turns visual designs into working apps with AI assistants. Just basically helps you use Figma if
+you're not that technical within Figma. Um, this was recently actually made public, but some of the use cases
+that designers can instantly convert mock-ups into production ready apps. And there's actually a couple
+softwares that I've used and there's actually a couple softwares that I use that, you know, you can create a
+mockup then immediately turn that into a app without without actually having to understand it technically.
+This is kind of one of those, but Figma um but Figma is a better platform to do it on just because they have
+they have endless possibilities of how you want to design, right? Design different apps, uh websites, and
+things of that nature. Some of the money angles I have here that you can play is that you can upsell clients
+from $500 designonly projects to 5K plus design plus build packages. So, it's kind of pack. It's kind of like
+uh compiling a package and selling it for 5K, right? And you using Figma's AI builder to do that. So, those
+are some of the I guess those are 10 those are 10 of the AI apps that are current which I believe have started
+this winter of 2025. Some of summer to winter of 2025. So, these are very new. I don't I believe nobody's
+really using these tools. So, if you can go in and go look at some of those tools and see how you can what you
+can do to, you know, monetize some of these tools before it's really made mainstream or you can be the first
+person to talk about create a video about these tools using them, you know, tutorials and you can start even
+monetizing from that. So, all of those are good place. Um, please go check all of them out. Like I said, my
+favorite on here is Base 44. I'm just confident with B4. I know how to connect it. I know the APIs. I know how
+to use web hooks on there. So, I'm very comfortable with the backend. I'm not that deep of a developer, but if
+I needed to be base 44, I would definitely do it for base 44 and create tutorials for it. So, that's another
+way with all of these tools. You can monetize by creating tutorials. So, that's even one, you know, gem in
+itself. But other than that, I gave you the tools hopefully help hopefully one of those tools will come in
+handy for y'all and you can start servicing them. Let me know if y'all have ever used any of these tools and
+you know your opinion on all of these. But other than that, have a good one and hopefully I'll catch you on
+the next one.

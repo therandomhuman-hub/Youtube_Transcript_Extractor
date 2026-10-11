@@ -1,16 +1,16 @@
 Channel name: E'Calm
 Channel URL: https://www.youtube.com/@emmiescalm
-Last updated UTC: 2026-10-10T22:26:09+00:00
+Last updated UTC: 2026-10-11T06:32:24+00:00
 Discovered in current scan: 32
 Manifest total: 32
-Transcripts saved: 18
+Transcripts saved: 24
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 18
+Resolved items (saved transcript or explicit no-caption outcome): 24
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 14
+Still discovered/pending: 8
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

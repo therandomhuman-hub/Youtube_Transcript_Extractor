@@ -1,0 +1,34 @@
+Title: How To Make ASMR Food AI Videos (Step-by-Step)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: AbtfhvB5lR4
+URL: https://www.youtube.com/watch?v=AbtfhvB5lR4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:33:38+00:00
+
+Kind: captions Language: en First, watch this video. Then, I'll show you the step-by-step process to make
+videos like this 100% free. >> [snorts] >> AI ASMR food eating videos are going viral across social media.
+Just look at this Instagram page. It has gained 22,000 plus followers with only 81 videos, and almost every
+upload gets thousands of views. So, without wasting any more time, let's create an AI ASMR food eating video
+like this. First, open ChatGPT and paste this master prompt. You'll find the prompt link in the description
+below. Now, press enter. ChatGPT will generate 10 food categories for you. For this tutorial, I'm choosing
+category one. So, simply type one and press enter. Next, ChatGPT will generate 10 unique video ideas from that
+category. You can choose whichever one you like. For this tutorial, I'm going with idea number six. So, I'll
+type six and press enter. Now, this is the most important part. ChatGPT will generate three scenes for your
+video. The first scene includes both an image prompt and a video prompt, while the second and third scenes
+include video prompts only. Copy the image prompt from scene one. Then, go to Flow AI. Before generating the
+image, we'll need a character for our video. I had this character sheet generated with ChatGPT. I'll show you
+where to get this character sheet at the end of the video. Upload the character sheet. Once it's uploaded,
+click add to prompt. Then, paste the image prompt. Use these settings for image generation. Then, click
+generate. Once your image is ready, copy the video prompt from scene one. Click the three dots on the
+generated image. Select add to prompt. Paste the video prompt. Use these video generation settings. Set the
+model to Omni Flash and click generate. After the first video is generated, open it and go to the last frame.
+Click save frame. We'll use this save frame to generate the second video. Now copy the video prompt from scene
+two. Add the save frame to the prompt. Paste the video prompt and click generate. Once the second video is
+ready, open it. Go to the last frame and click save frame again. Now copy the video prompt from scene three.
+Add the new saved frame to the prompt. Paste the video prompt and click generate. And that's it. All three
+videos are ready. Now download all three videos. And you'll find the character sheet at the bottom of the
+master prompt. After a little editing, here's the final result. And that's it for this tutorial. If you found
+this tutorial helpful, make sure to subscribe for more videos like this. Don't forget to leave a like and I'll
+see you in the next video.

@@ -1,0 +1,63 @@
+Title: How To Clone Any Singer Voice FREE - Voice Cloning Tutorial
+Channel: Bahaa AI
+Type: VIDEO
+Video ID: ea91BKJzmUc
+URL: https://www.youtube.com/watch?v=ea91BKJzmUc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:54:35+00:00
+
+Kind: captions Language: en in this video you will learn how to clone any singer's voice part one creating the
+data set open your web browser and make sure that you are logged in with your Gmail open the Google collab
+data set maker project Link in the video description click and run step one then click run anyway step one
+will start working in this step we install the basic needs for preparing the data set this step takes
+approximately 2 minutes after completing the first step a small check mark will appear next to the step then
+step two in this step we will upload the songs files of the singer you want to clone his voice it is
+preferable to use at least three songs run step two a choose files button will appear click on it and upload
+the sounds files then step three in this step the program will create a data set file from the uploaded songs
+files it will remove the music and keep only the singer's voice and remove any silence moments then merge all
+files to a single file of data set run step three the step will start working after the third step is
+completed a small check mark will appear next to the step then the step four in this step we will download the
+data set file run step four within seconds a window to save the file on your device will appear after that
+disconnect from Google collab from Top menu click runtime disconnect and delete runtime click yes part two
+training the model open the Google collab project link or VC model training click and run main step this
+window will appear click run anyway after that the step will start working in this step we will do the basic
+installation of our VC this step takes approximately 5 minutes after the step is finished a small check mark
+will appear next to the step then step one in this step we will upload the data set file that we prepared
+previously run step one a choose files button will appear click on it and choose the data set file then step
+two in this step we will specify the name of the model and the program will prepare the data set file that was
+uploaded here I will write the name of the model the model name must be in English and without spaces or
+symbols I will write singer uncore voice do not change the selection leave it rore GPU run step two then step
+three in this step we will train the model here we write the same model name that we specified previously here
+we will specify the number of epics on which the model will be trained the number of epics is what determines
+how much the model is trained on the data set it is preferable to be between 200 and 1,000 here I will train
+the model at 100 for the purpose of tutorial leave saving frequency on 20 after that run step three this step
+takes time depending on the number of epics that have been set here you will notice that training has begun on
+the epics number after the training is finished a small check mark will appear next to the step next is a very
+important step it saves the train model on Google Drive so we can use it later in voice cloning write here the
+name of the model you trained run step four this window will appear for you to link Google collab to Google
+Drive so that you can upload the model files directly to your Google drive from Google collab after linking is
+complete the process of saving the model on Google Drive will begin this will take approximately 4 minutes
+after the backup is complete a small check mark will appear next to the step if you go to your Google Drive
+you will find a new folder named R vcore packages open this folder and wait until a file appears for you with
+the name of the model that was trained go back to Google collab and disconnect part three using the model's
+voice to sing any song open the Google collab project make the model sing any song Run the main step this
+window will appear click run anyway after that the step will start working this step takes approximately 5
+minutes after the step is completed a small check mark will appear next to the step after that loading the
+model from Google Drive here we will write the name of the model here we will paste the model link go back to
+Google Drive right click on the model file choose share then share change General access from restricted to
+anyone with the link then click copy link go back to Google collab and paste the model link after that run the
+step when loading the model is complete a small check mark will appear next to the step after that the first
+step in the process of creating the new song Run the step one a choose files button will appear click on it
+and select the target song that you want the model to sing after the uploading and S an Anis process is
+complete a small check mark will appear next to the step then step two in this step the original singer's
+voice in the Target song will be replaced by the model's voice here type the name of the model that you loaded
+from Google Drive in this part you can adjust the pitch settings if you want to convert The Voice from a mail
+to a male or a female to a female the value will be zero if you want to convert The Voice from a feemale
+female to a male the value is - 12 if you want to convert The Voice from a male to a female the value is 12
+don't change anything here then run the step after completion a check mark will appear next to the step then
+step three in this step we will download the new song Run step three within seconds you will see a window to
+save the new new song on your device I definitely will not be able to play the song due to copyrights on the
+song if you want to apply the process to another song or change the model you do not need to run the main step
+just run the necessary steps to load the model and upload the target song then complete the rest of the steps
+after completion you must disconnect from Google collab thanks for watching and see you in the next video

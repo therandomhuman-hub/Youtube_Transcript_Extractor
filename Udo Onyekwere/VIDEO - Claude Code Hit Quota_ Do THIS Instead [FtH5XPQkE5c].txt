@@ -1,0 +1,38 @@
+Title: Claude Code Hit Quota? Do THIS Instead
+Channel: Udo Onyekwere
+Type: VIDEO
+Video ID: FtH5XPQkE5c
+URL: https://www.youtube.com/watch?v=FtH5XPQkE5c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T06:41:26+00:00
+
+Kind: captions Language: en If you're using Cloud Code, you're probably running to a bunch of limits,
+especially if you're using it all the time like I do on your laptop and on your phone. It's just what I do.
+Either you have the $20 version or the $100, whatever. I'm going to show you an alternative when you reach
+that limit. You're going to switch to a new uh CLI platform that will basically um let you do less performance
+code, of course, but you can still keep working on your projects and wait until your cloud code resets.
+Basically, it's going to be very quick. So, if you're using Cloud Code, if you're using Cloud Code over here,
+as you see here, I'm not the best at drawing. We're going to switch you over to something called Open Code. If
+y'all know what it is, it's not as high performance as Cloud Code, but you can still get a lot of the things
+you want to get done in the meantime, while Claude is, you know, you have to wait till 350 to use it again. So
+basically right here I'm just going to show you how to download this and start using it then you know now
+understand this is definitely going to give you less performance for sure and as you see my drawing sucks but
+this is definitely going to give you less performance so use it as you can and you know you can test it on
+yourself. So basically come over here here it's basically shows you easily how to download it but I'll still
+guide you through the process. So come over here to open code. Open code.ai. Then you're going to click this
+right here. Right. Basically, I have Windows. If or my bad, I have Mac. If you have Windows, of course, you
+can download it and use that as desk desktop or if you like using it through the CLI, you can do that. But
+you're going to come here and you're just going to paste that in. Right. Mine is actually already installed.
+So, it's going to show that. But um once yours installs and finishes, you're going to see a bunch of code and
+everything. Once that's done, you come through and type open code right now. Here we go. You see open code
+here. And basically, I'm going to zoom in. It's going to have its like own type of application. So, it's not
+going to look like the normal CLI that you see. Uh so, you basically ask anything. So, you know, it's just
+like cloud code. So, um, can you help me make a dashboard for influencers, right? And it looks like this. And
+you can come over here if you want and, you know, connect any uh, MCP servers or, you know, you can actually
+connect OpenAI cloud and everything to this as well. Like I said, this is definitely going to do less
+performance than cloud code, but it's going to be free the entire time. You can see like some of this is still
+connected to some of my projects that I have. So use this as an alternative. Keep working on your projects and
+you know while you're waiting for your cloud code limit just play around just play around with this. So other
+than that have a good one. It's going to be a short video. Hope this helped. If you do not know what open code
+is, start using it if your cloud code hits limits.
