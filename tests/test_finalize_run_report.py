@@ -124,3 +124,38 @@ def test_failed_run_without_any_checkpoint_is_reported_failed(tmp_path, monkeypa
     assert report["run_status"] == "FAILED"
     assert report["processed_channels"] == 0
     assert report["remaining_channels"] == 18
+
+def test_successful_run_with_remaining_backfill_is_not_reported_as_fully_complete(tmp_path, monkeypatch):
+    _write_inputs(tmp_path, {
+        "run_started_at": "2026-10-11T00:00:00+00:00",
+        "configured_channels": 2,
+        "results": [
+            {
+                "channel_url": "https://www.youtube.com/@A",
+                "channel_name": "A",
+                "status": "COMPLETED",
+                "saved_this_run": 0,
+                "attempted_this_run": 0,
+                "auth_required_count": 0,
+                "unresolved_items": 0,
+            },
+            {
+                "channel_url": "https://www.youtube.com/@B",
+                "channel_name": "B",
+                "status": "IN_PROGRESS",
+                "saved_this_run": 12,
+                "attempted_this_run": 12,
+                "auth_required_count": 0,
+                "unresolved_items": 40,
+            },
+        ],
+    })
+
+    report = _finalize(tmp_path, monkeypatch, "success")
+
+    assert report["run_status"] == "RUN_SUCCEEDED_BACKFILL_INCOMPLETE"
+    assert report["completed_channels"] == 1
+    assert report["in_progress_channels"] == 1
+    assert report["remaining_channels"] == 0
+    assert "full backfill is not complete" in report["failure_reason"]
+
