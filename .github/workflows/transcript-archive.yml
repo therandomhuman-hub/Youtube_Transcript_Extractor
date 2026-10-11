@@ -18,9 +18,9 @@ on:
         default: "0"
         type: string
       max_items_per_channel:
-        description: "Transcript attempts per channel per run (6 recommended; 0 = unlimited)"
+        description: "Transcript attempts per channel per run (0 = unlimited; default 0)"
         required: false
-        default: "6"
+        default: "0"
         type: string
 
 permissions:
@@ -67,10 +67,10 @@ jobs:
           fi
       - name: Run transcript archive
         id: archive
-        timeout-minutes: 300
+        timeout-minutes: 340
         env:
           MAX_CHANNELS_INPUT: ${{ github.event.inputs.max_channels || '0' }}
-          MAX_ITEMS_PER_CHANNEL_INPUT: ${{ github.event.inputs.max_items_per_channel || '6' }}
+          MAX_ITEMS_PER_CHANNEL_INPUT: ${{ github.event.inputs.max_items_per_channel || '0' }}
           USE_WHISPER_FALLBACK: "false"
           PYTHONUNBUFFERED: "1"
         shell: bash
