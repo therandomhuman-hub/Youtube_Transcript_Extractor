@@ -232,6 +232,7 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             entries=entries, scan_results=scan_results, fatal_scan_errors=fatal_scan_errors,
             manifest=manifest, whisper_mode=use_whisper, rate_limiter=rate_limiter)
         _, saved_checkpoint, unresolved_checkpoint, total_checkpoint = manifest_complete(folder)
+        checkpoint_records = [rec for rec in manifest.values() if isinstance(rec, dict)]
         try:
             folder_label = folder.relative_to(root).as_posix()
         except ValueError:
@@ -241,8 +242,11 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             "status": "IN_PROGRESS", "folder": folder_label,
             "saved_this_run": saved_now, "attempted_this_run": attempted_this_run,
             "saved_total": saved_checkpoint, "known_items": total_checkpoint,
+            "video_count": sum(1 for rec in checkpoint_records if str(rec.get("type", "VIDEO")).upper() != "SHORT"),
+            "short_count": sum(1 for rec in checkpoint_records if str(rec.get("type", "")).upper() == "SHORT"),
+            "auth_required_count": sum(1 for rec in checkpoint_records if rec.get("status") == "AUTH_REQUIRED"),
+            "no_caption_items": sum(1 for rec in checkpoint_records if rec.get("status") == "NO_CAPTIONS"),
             "unresolved_items": unresolved_checkpoint,
-            "no_caption_items": sum(1 for rec in manifest.values() if isinstance(rec, dict) and rec.get("status") == "NO_CAPTIONS"),
             "batch_limit_reached": batch_limit_reached, "scan_errors": fatal_scan_errors,
             "last_checked_at": utc_now()
         })
