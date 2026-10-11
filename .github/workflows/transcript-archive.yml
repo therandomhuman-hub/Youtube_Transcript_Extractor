@@ -2,10 +2,11 @@ name: YouTube Transcript Archive
 
 on:
   push:
+    # Code changes trigger a validation/backfill run; workflow-only edits do not
+    # unexpectedly start a second long-running collector.
     paths:
       - "multi_channel_runner.py"
       - "youtube_channel_transcripts.py"
-      - ".github/workflows/transcript-archive.yml"
       - "scripts/finalize_run_report.py"
   schedule:
     # Four runs per day at 00:17, 06:17, 12:17, and 18:17 UTC.
@@ -18,9 +19,9 @@ on:
         default: "0"
         type: string
       max_items_per_channel:
-        description: "Transcript attempts per channel per run (0 = unlimited; default 0)"
+        description: "Transcript attempts per channel per run (12 default; 0 = unlimited)"
         required: false
-        default: "0"
+        default: "12"
         type: string
 
 permissions:
@@ -28,7 +29,8 @@ permissions:
 
 concurrency:
   group: youtube-transcript-archive
-  cancel-in-progress: true
+  # Never terminate a collecting run just because another scheduled/manual run arrives.
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -57,6 +59,7 @@ jobs:
           YOUTUBE_COOKIES_BASE64: ${{ secrets.YOUTUBE_COOKIES_BASE64 }}
         shell: bash
         run: |
+          set -euo pipefail
           if [ -n "$YOUTUBE_COOKIES_BASE64" ]; then
             printf '%s' "$YOUTUBE_COOKIES_BASE64" | base64 --decode > "$RUNNER_TEMP/youtube-cookies.txt"
             chmod 600 "$RUNNER_TEMP/youtube-cookies.txt"
@@ -70,7 +73,7 @@ jobs:
         timeout-minutes: 340
         env:
           MAX_CHANNELS_INPUT: ${{ github.event.inputs.max_channels || '0' }}
-          MAX_ITEMS_PER_CHANNEL_INPUT: ${{ github.event.inputs.max_items_per_channel || '0' }}
+          MAX_ITEMS_PER_CHANNEL_INPUT: ${{ github.event.inputs.max_items_per_channel || '12' }}
           USE_WHISPER_FALLBACK: "false"
           PYTHONUNBUFFERED: "1"
         shell: bash
@@ -84,14 +87,14 @@ jobs:
             exit 2
           fi
           python multi_channel_runner.py --max-channels "$MAX_CHANNELS_INPUT" --max-items-per-channel "$MAX_ITEMS_PER_CHANNEL_INPUT"
-      - name: Finalize report and package completed channel archives
+      - name: Finalize run report
         if: always()
         env:
           ARCHIVE_STEP_OUTCOME: ${{ steps.archive.outcome }}
-        shell: bash
-        run: |
-          python scripts/finalize_run_report.py --status "$ARCHIVE_STEP_OUTCOME" || true
-          python scripts/package_completed.py --root .
+        run: python scripts/finalize_run_report.py --status "$ARCHIVE_STEP_OUTCOME"
+      - name: Package completed channel archives
+        if: always()
+        run: python scripts/package_completed.py --root .
       - name: Upload run report and channel state
         if: always()
         uses: actions/upload-artifact@v4
@@ -101,6 +104,7 @@ jobs:
             last_run_report.json
             channel_state.json
             **/collection_summary.txt
+            completed/*.zip
           if-no-files-found: warn
           retention-days: 14
       - name: Commit transcript and state changes
