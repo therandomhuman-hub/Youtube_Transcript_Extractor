@@ -7,7 +7,7 @@ on:
     paths:
       - "multi_channel_runner.py"
       - "youtube_channel_transcripts.py"
-      - "scripts/finalize_run_report.py"
+      - "scripts/package_completed.py"
   schedule:
     # Four runs per day at 00:17, 06:17, 12:17, and 18:17 UTC.
     - cron: "17 0,6,12,18 * * *"
@@ -102,6 +102,7 @@ jobs:
           name: transcript-archive-report-${{ github.run_id }}
           path: |
             last_run_report.json
+            last_run_report.md
             channel_state.json
             **/collection_summary.txt
             completed/*.zip
@@ -112,7 +113,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add channels.txt channel_state.json last_run_report.json completed updated
+          git add channels.txt channel_state.json last_run_report.json last_run_report.md completed updated
           if [ -f .youtube_rate_limit_state.json ]; then git add .youtube_rate_limit_state.json; fi
           find . -mindepth 2 -maxdepth 2 -name transcript_manifest.json -printf '%h\n' 2>/dev/null | while read folder; do git add "$folder"; done
           git add -u
