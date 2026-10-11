@@ -1,0 +1,685 @@
+Title: Why Creators Are Getting Trapped In View Jail
+Channel: Deven Seenath
+Type: VIDEO
+Video ID: dJxUf4AsqZk
+URL: https://www.youtube.com/watch?v=dJxUf4AsqZk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:09:30+00:00
+
+Kind: captions Language: en First things first, I want to talk about what's going on with YouTube's algorithm
+right now. Cuz if you guys have noticed, a lot of people have been getting view jailed for different reasons
+than before. Views have been going up and down. Some people have just been getting straight up just like uh
+completely jailed. They go from like 14 million 48 hour to like 700,000 48 hour, which I know sounds like a
+lot to you guys, but that's a really big dip. You know, that's a huge dip. And that was happening to a lot of
+people, especially on uh on X. I saw a lot of people posting about I even posted about it on X briefly. And um
+a lot of people are experiencing the same issue of uh you know a lot of people are getting this view I'll show
+you right here like this was happening no this was not the right post here it is this is happening to a lot of
+people right so basically like you were getting a lot of views and then it would just randomly die down this
+actually even happens to a couple of our channels as well so [laughter] we're going to talk about this first
+right because this is happening still uh it's you know with the YouTube AI and how to fix it then we're going
+to talk about uh you know the new settings and stuff for YouTube and the analytics involved with it because uh
+the 32C rule doesn't apply anymore. I don't know if you guys know this but 32 seconds is not really something
+you need to be hitting anymore. I push it very hard before because that was what the original trust score
+equation was and now it has changed and you don't need to have 32 second videos. Is that good? It's all right.
+It's all right. All right. Anyways, let's get into it. So, first things first, has anyone else experienced a
+weird type of view jail recently where you're going anywhere from anywhere from 11,000 to 33,000 views? Can I
+just get a yes or no in the chat? Yes or no in the chat? If you guys have experienced 11,000 to 33,000. Okay,
+I'm seeing a lot of yeses now. Has anyone experienced a view jail from 30,000 to 100,000 views in the past,
+you know, couple of days or so? Because this has also been happening as well. Okay. Okay. And now, has anyone
+experienced a 1 million 48 hour view jail? Cuz this is also happening to a lot of people as well. A 1 million
+48 hour. You get suck from 39 to 110K. Yeah. And as you guys know, 110K doesn't really make you that much
+money on YouTube, you know, for shorts at least. So, there's different levels of jails as you guys know. And
+there is different solutions for each one. So, I'm going to go over the smallest one, the medium one, and then
+the larger one for breaking out of the million view jail. So, first um let's talk about that random dip that
+was happening for a lot of people. So, the reason why if you guys saw your 48 hour was looking like this and
+then it randomly just dipped here, right? And you guys are seeing this random huge drop. The reason this
+happened was because YouTube's AI has again been going haywire, right? So, basically why this happens is
+because YouTube has been thinking that people have been viewing even though it's not really true. You guys
+know how YouTube's AI is. The AI detection is so bad right now that they'll randomly start like shadowbanning
+channels just because they think they are viewboding the channel, right? A good way to check if your channel
+is actually getting viewbotted, if you go to your analytics, you go to your traffic sources and if you see
+there's a random website that gets like 10% plus your traffic, you're probably getting viewbotted. Now,
+chances are if you're not the one viewbotting yourself, no one's probably viewing you. But YouTube's detection
+software was assuming that people were getting viewbotted because of the increase in views, which is why we
+were seeing a lot of people getting random drops because YouTube was shadowbanning. Now, luckily, there is a
+solution to this problem. If you guys were getting shadowbanned like this, the solution is going to your
+subscription feed. If you guys go into your settings when you're about to upload a video, there is a setting
+called publish to subscribers, you want to check that off. So, here I'll show you guys what that kind of looks
+like. Here, [snorts] I actually posted it on X. So here, let me show you. It's right here. So the setting
+looks just like this. If you go to load, there you go. So you'll see this setting right here. All right. What
+you have to do is you have to go to your settings and then click off publish uh to subscriptions and this will
+basically reset your algo and put you back up to a new uh audience and then it'll basically jump start your
+channel and you could start seeing your 48 hour going up. That is the first solution, right? The second
+solution is potentially doing collaborations. Now, I know a lot of you guys have kind of heard what
+collaborations are, but a lot of you guys aren't really running them because you don't have anyone to collab
+with. We tested this with Ian and we're testing this with Romeo as well right now. If you do a collaboration
+with a channel that is getting you a low 48 hour with a channel that is doing a higher 48 hour, you can easily
+jumpst start your channel. Now, if you guys don't have resources of people to actually do the collabs with,
+then you won't really be able to do it, you know, because you need someone. But, you know, there's a lot of
+people in the server that you guys can connect with, a lot of inner circle guys would happily collab with you
+if you're, you know, in the correct niche and the channel makes sense. Um, but, you know, collabs are a really
+good way to jump start your channel and you can basically increase your trust trust score immediately as long
+as the analytics are good, right? But you have to make sure it's in the same niche, right? If you're making
+dog commentary and then you you collab with some space channel, like it's just not going to work and then
+you'll just cook both channels. So, if they aren't [snorts] the same niche, you will cook your channel. You
+got to be careful of that. All right, that's what I want to talk about first for this uh shadowban/view that's
+been going on with everyone, right, with this dip. All right, now that we talked about this, why did your room
+stuck at that point? I've been so busy with work, bro. Guys, you guys know I'm working like 247. I don't have
+time to build stuff, bro. I I build like one shelf a week because I'm so busy working. Anyways, um let's talk
+about the 11 to 30k view jail u or 33k view jail. This is usually the average. I heard a lot of you guys are
+struggling with this. I think this is the biggest uh view jail that you guys are in for a lot of you. And I
+want to talk about how to break out of this, right? Because before it was aiming for 32 seconds, getting a 33
+second AVD, getting a swipe ratio above 81.1%. This is not really necessary anymore. And you need to hit
+different stats in order to kind of break out of this fugio, right? So remember the reason why I had my
+initial trust score stats of, you know, you want to be aiming for 32 seconds. You want to get like, you know,
+above a 32 second AVD. So like a 33 second ABD, 32 second LOV and then of course you wanted to get the swipe
+ratio of above 81.1%. Right? And then if you guys remember as well in my previous videos, I've talked about
+the point system where like you know a like is one point, uh a comment is two points. Uh watching the video
+all the way through is four points, clicking on the sound is four points, right? You guys know about the
+YouTube point system. So, um, this stat really isn't necessary anymore because YouTube is changing the way
+they pay their creators and changing the way they make money. So, originally, YouTube made money from four
+different income streams, right? They make money from advertisers on Google paying them, right? So, they can
+make money from that. They make money from YouTube Red or YouTube uh subscriptions. They make money from music
+deals on their platform. And then they make their money through transactions, right? like uh any type of
+things like donation, a super chat, um any type of cheer, anything like that. That is how YouTube makes money
+because they get a commission off that. And also, you could argue they make money off movie deals, but I don't
+include it because it doesn't really affect us, right? So, of these really four, you know, that YouTube makes
+money. YouTube of course makes the most money from advertisers on Google paying them, right? So, advertisers
+are spending money on YouTube because they want to get a return on their investment. If I'm a marketer and I'm
+running, let's say, like a a supplement brand and I start making supplement content and I start posting
+advertisements on Google, we're going to get pushed to the YouTube Shorts feed, right? YouTube makes money
+because the advertisers are sending money straight to Google for a placement on the YouTube Shorts feed. Now,
+before [clears throat] advertisers made the most amount of money when you hit these stats, it would see the
+highest amount of conversions, right? Because if you have a really high converting video for a Google
+advertisement, that is how advertisers increase your RPM. For example, the reason why United States RPMs are
+so high is because people in United States have more money and they convert higher on Google ads compared to
+people like for example in India, right? In India, not a lot of people spend money on the internet. So the
+RPMs are a lot lower because advertisers don't get a return on their investment. All right, does that make
+sense so far, guys? before I continue. Are we making sense, guys? All right. Awesome. Awesome. Awesome. Okay.
+So, now that we understand how RPM is calculated, right? The RPM is being calculated differently than it was
+before, right? Because these stats were the main stats you need to hit. Now, advertisers are going through
+emotionbased buying, right? So, the more emotions you can make a a viewer feel, the higher they're going to
+convert on an advertisement, which means your RPM is going to increase. And if your RPM increases, that means
+what? YouTube is making more money off your video as well. If we're making YouTube more money, we're going to
+get pushing the algorithm further because our goal is basically to help YouTube, right? We're YouTube servant.
+If we help YouTube make money, they will give us views, which will make us money as well. It's a it's a
+codependent relationship, right? So now that we know that emotions are being the main driving factor for
+conversions of these advertisements, we need to understand what causes emotions and how do we quantify it. So
+before we quantified emotions by looking at our retention and seeing if they watched the video all the way
+through and then rewatched it and that still is valid, but a new analytic is being shown to increase the
+amount of advertisements or money advertisers make. And that is the comment ratio. Right? So I'm going to put
+CR for comment ratio. If you guys are getting more comments on your videos, you're stuck in any type of
+YouTube jail, increasing your comment ratio guarantees you to almost break out of this. All right? As long as
+your niche is big enough. But comment ratio is the biggest source right now of breaking out of this view jail
+right here. All right? This 11 to 33,000 view jail. All right? Um, and I want to talk about the type of
+emotions you want to make them feel, right? Because I've talked about the three pillars of YouTube. YouTube
+wants to make as much money as possible to keep people on their platform as long as possible. and for people
+to be satisfied, right? Those are the three different metrics that YouTube really wants you to hit. Now, you
+need to understand that if you really want YouTube to hit these metrics, being satisfied does not really mean
+being satisfied, right? When I say satisfied, you guys think of like ASMR or like a good ending, right? But
+that is not true. In satisfied and emotion, satisfied in YouTube's eyes is any type of emotion, right? All
+right. So, if you make them feel angry or happy or you rage bait them or you make people feel sad, doesn't
+matter if they're feeling an emotion, they will convert higher on an advertisement because they're uh their
+buying levels are higher when they feel anything. Right. So, you have to comment bait. Exactly, Max. You have
+to comment bait, right? So, this is what I recommend you guys doing. Now, I'm going to explain how to exactly
+increase your comment ratio, but there's also another stat that you guys need to understand, which is your
+retention. Right? So before you needed to aim for 32 second videos because 32 second videos was the ideal
+number to hit in order to actually make the most amount of money possible. Now I've talked about this in my
+1hour Trustcore course video. I recommend you guys watch it later if you haven't already, but I'm going to go
+over this briefly again if you guys didn't get to that part of the video exactly. Right. So there's two
+different types of retentions that really you could focus on now. Right? So 32 seconds is not really that
+valid anymore. The first one is 24 seconds. So, if you guys are aiming for a 24 second video, you need to make
+sure that your LOV is 34 32 or 24 seconds. So, your AVD needs to be at least 26 seconds. All right? It needs
+to be 2 seconds higher. If you're going to be aiming for a 24se secondond LOV, have your AVD at 26 seconds. If
+you are aiming for a 1 minute video, your LOV can be 1 minute and your AVD needs to be 44 seconds. Right?
+These are the numbers that I am seeing more recently. We had an 170 million view video go viral with a one
+minute LV, a 44 second AVD. We made $12,000 from that video. All right, so I'm telling you guys, these these
+aren't stats I'm just pulling out of thin air. Uh these are analytics that I'm working with on the channels
+that I'm working with right now. And these are the analytics that are getting us the most amount of views.
+These aren't these aren't numbers I'm pulling out of thin air, guys. These are like channels that I'm working
+with. And these are analytics in here. I can actually show you guys the analytic right now. Just give me a
+second. I want to make sure I don't accidentally leak the channel cuz this channel is popping right now. Just
+give me um give me like 30 seconds and I'll pull up the analytics and I'll show you. Yeah, but I mean this
+this video like made nearly $12,000 off a YouTube short by the way as well. Like a YouTube short made, you
+know, made 12 grand. It's the it's the most amount of money I've made from a YouTube short personally. So it's
+a it's a new record for me. Um it's 160 million views. I apologize, guys. 160 million here. Let me pull it up
+real quick. Here we go. Okay, make this big for you guys. Yeah, so this is the analytics uh right here. And
+you know, this video was 1 minute and we had a 44 second uh AVD. This is an older video, but it's getting it
+got pushed back to the algorithm. Uh the the video got pushed back to the algorithm once these stats were hit.
+You guys will actually notice as well if you have old stats that are reaching this criteria, you may get
+repushed to the algorithm. Cuz just because a video is old and it has, you know, these stats doesn't mean it
+can't get pushed again. Cuz it can get pushed against to the algorithm regardless if you know it's old or new.
+As long as your stats are being hit, you will consistently get pushed to the algorithm as long as it's
+relevant. Okay. Anyways, let's go back to this. So yeah, that the main thing I want to talk about is, you
+know, the 24 second or 1 minute AVD. You can still aim for 33 second or 32C AVD and 33 second LOV or vice
+versa. 33 32 second LOV and 33 second AVD. Just remember that it's easier probably to hit this 24 second cuz I
+know a lot of you guys struggle to get that 32 second uh length of video and because you guys struggle to get
+that your video ends up being stretched and then your average view duration decreases. Have you guys
+encountered that problem where you're just trying to get that 32 second video but you can't because you don't
+have enough content to put in the video itself? Right? So this is a solution to that problem that you guys
+were encountering. Right? because now you can upload 24 seconds and if you get a that is higher then you will
+get pushed out but you have to increase your comment ratio which is what I'm going to talk about now and how
+to increase it right so there's lots of ways to increase your comment ratio the main ways is basically making
+them feel emotion but what does that exactly mean right make them feel an emotion right so the first thing you
+can do is you can basically do some type of uh hidden reference because you guys know that doing a CTA in a
+video always decreases retention there's going to be someone who leaves when you do a CTA right unless Unless
+you are making it so it's a very high tension moment in your clip. You guys will notice this with Mr. Beast,
+right? If Mr. Beast is doing some type of promotion where he's talking about Feast Bolts or something like
+that, right? What he does is he has someone behind him about to get hit by a train and then before the person
+gets hit by a train, he says, "Before we get into that, let me talk about feasibles." And then the person in
+the background's like, you know, dealing with some type of challenge while he's talking about his
+advertisement. This is a high value CTA. All right, this is a highv value CTA and you can use this the same
+thing in in short form if there's a high tension clip you're playing. So, I'm going to talk about a couple
+different niches and the clips you can use while you're doing a CTA. All right, so first of all, let's talk
+about ranking. Does anyone here do ranking? I know a lot of people in this in this in this uh server do
+ranking. How many people do ranking here? Lot of people do ranking. You're scared to do ranking, dude. Ranking
+is a great niche to get into, guys. Ranking is a great niche. All right. Well, we're we're talking about
+ranking first. So, with ranking, if you're trying to do any type of CTA, you should do it on the highest
+tension clip or right before the payoff, right? Do you guys remember the two CTA method, right? That is kind
+of valid for this, but it's basically instead of going to be a visual and audio, it's going to be two visual
+CTAs instead. So, what you can do is you can basically in the beginning on the second clip, you put comment
+your favorite, you know, number or comment your favorite clip and you'll just have a ton of people commenting
+their numbers. have it pop very slowly and subtly. Don't scream it in them. Also, what you can do is for the
+actual numbers itself, you can say comment which one's your favorite or comment a laughing emoji if you like
+this as the actual um text itself for the caption. You can also at the very end but the second last payoff,
+right? So, because you have 1 2 3 4 5 6 7 and then you do two and then one, right? Because one's the actual
+payoff. right before one. What you can do is you can do some type of CTA again of like comment which one was
+your favorite and you would get a ton of people just commenting the numbers. And also another thing you can do
+for the six seven in the chats, guys. Another thing you can do is you can um right before the payoff as well,
+you should actually make the best clip the second to last one, right? So if you make the best clip the second
+to last one, you'll get some comments saying like, "Hey, number two is definitely better than number one." You
+know these are basically all the type of CTAs you can do in ranking that's very subtle and still get a lot of
+common ratios right so as the common ratios increase your AVD will increase your uh then your emotions will
+increase and then you will get more RPMs and YouTube will make more money right so doing any type of emotion
+like that will work very well right this falls underneath the rage bait category as well like if you're like
+switching two in one so you make the second uh last clip the best payoff you will get people commenting that,
+right? And it doesn't matter if they're angry again, they're happy, they're sad, it doesn't matter if they're
+feeling an emotion, they're feeling uh a higher buying intense, which increases their RPM or our RPM, which
+increases YouTube's uh profit, right? And if YouTube's profit increases, then we make more money. Capich? All
+right, cool. Now, let's talk about the Roblox niche, right? We talked about ranking. Let's talk about the
+Roblox niche. And then we'll talk about Roblox rants because I know a lot of you guys do rants. and then we'll
+talk about commentary. Okay. Is [clears throat] this recorded? I'm recording right now. Hopefully it doesn't
+really get messed up. All right, let's talk about Roblox. So, for Roblox, it's a little bit different because
+the audience is of course younger. I recommend doing some type of reference. For example, we have a couple
+students in our program who do very special skins that get people to watch the video. For example, they do
+references to pop culture. They do references to, you know, memes and stuff that's going on right now. If you
+guys are doing Roblox, guys, say 67 somewhere in your video, it's going to get pushed. I promise you, you'll
+get people commenting it. Use 67. Uh, if you guys are doing Roblox, you know, doing any type of comment ratio
+where you're trying to increase the amount of people who are watching, if you say some type of reference, you
+will get more people to watch. All right, but say 67 in your video somewhere. I I promise you it helps. Uh, is
+is Sora dead? No, Sora is not dead. I'll talk about Sora later as well. All right. Um, he leaked our sauce,
+guys. Come on. 67 method is is the most widely known method. Let's be real. Um, but the other thing you can do
+to increase your comment ratio is basically uh you can basically just like comment if you want blank or
+comment if you think blank. Do not do the sub to like ratio or sub to comment uh like CTAs. Those get you
+banned by the way. All right. Don't don't do those. A lot of people, especially in the old seal of brain rot
+niche, got banned because they were doing this um CTA, right? So you guys know the CTAs where it's basically a
+split screen, right? So let's say I'm I'm going to try to draw this for you guys with my chicken scratch. All
+right, so let's say you have this right here, right? And in the middle you have like a sub here and then you
+have like a comment here. Have you guys seen these CTAs where it's like sub if you think if you want this
+character to win like team red or team blue comment? You guys have seen this, right? So don't do this. All
+right? because this this can get you banned. Um, this is gotten a lot of people cooked because YouTube sees it
+as exploitation and spam. It's not, you know, it's not, but YouTube's AI is a little gay right now. So, I
+would just be very careful of it. Be very careful of this. Um, yeah. Okay. Anyways, that's just like the main
+uh avoids. What about the giveaways? Don't do giveaways as well. All right. Don't do giveaways as well. If you
+guys do any type of Roblox giveaways or saying uh comment this if you want, you know, blank Roblox, uh it just
+doesn't really work well. What I have seen worked well is comment how much Robux you have. Comment how much
+Robux you have works. All right, but don't do a giveaway. Don't do a giveaway. Just if you ask a question, you
+won't get banned for that. All right. Uh Josh knows. Josh knows, bro. If you guys do like, you know, comment
+how much Robux you have, you will get a lot of people just commenting 0000 and it just increases your comment
+ratio, right? Increases your comment ratio exponentially. Um, no, don't say how much Robux they want. Don't
+say that because that will that will increase the spam and YouTube may think you're doing a giveaway. But if
+you ask how much they have, that is different. Don't say how much you want. There's a very key difference and
+you will get banned if you do the other one, right? No, you won't get banned for numerical spam. That's not
+going to happen. But you will get spammed if YouTube thinks you're trying to do a giveaway. All right.
+Hopefully that makes sense. Now, let's go into the Roblox rants. All right. Um, when you guys are doing Roblox
+rants, a lot of you guys do basically past events that have happened before. Do you guys remember when I show
+Speed tried doing the Jawbreaker challenge? Remember when I show Speed ate the hot chip challenge? Remember
+back in 2025 when Blank did blank win when Right. So, if you guys are doing a Roblox rants, I want you guys to
+use false information, right? Say something that's not real. Uh, it helps a lot. I'm I'm telling you guys,
+right? Doing false information gets people to comment. Uh, because people were like, "That didn't happen or is
+that real or is this true?" And this gets people to basically Exactly. Make up stories. I'm not even joking.
+It's It's a Roblox rants, guys. I know it may seem a little unethical. It's true. If you make up stories, you
+make up rants, stuff like that, it works so well. A lot of fake stories to get people to comment, it doesn't
+matter if the story is true or not. It matters if the comment ratio is high enough. That is our goal. High
+comment ratios, high retentions. We increase those, we will get more views and make more money. All right? So,
+makeup stories, you're trying to trigger emotions, and you can do that through a wide array of things. And
+what I recommend you guys really do is look at your competitors, see what worked for them, and do a similar
+story, but make it your own. For example, if you see a story of I show speed eating the hot chip challenge and
+him having to go to the hospital, replace I show speed with Jinxy, right? And just do the exact same thing.
+I'm telling you guys, it works so well. Replace I replace I show speed with Donald Trump and it'll work.
+Telling you guys, it works so well. Um, so use that to your advantage and basically just make new stories with
+different people. How it feels to spread misinformation. You got a 12 likes on that on that image. It's funny.
+That's funny, bro. Anyways, does that make sense, guys? Does that make sense? [laughter] All right. I hope
+that makes sense, guys. Now, let's talk about the AI. Faults. I'm going to put fault info, guys. Fault info.
+All right. Lastly, let's talk about AI. I I like as as we keep going further and further on this like drawing
+board, you guys can see my handwriting just got worse and worse and worse. All right. Um, let's talk about
+it's getting bigger. Yeah, I know. I know. That's what I always do, guys. You guys notice in all the videos,
+it just gets bigger and bigger and bigger. [laughter] All right, AI. AI has been popping right now. I'm
+actually not going to give you guys a niche because right now, um, we have a lot of students running it. I
+don't want to leak their niche, okay? But um AI has been popping right now. And the best way to do AI uh CTAs
+is make something very emotional that's happening, right? It's the same thing. Uh if you're going to do an AI
+video of someone breaking into a house, make it so the context is a daughter is breaking into their mother's
+house because she was kicked out, you know, or uh a son is trying to break into their parents house cuz he
+snuck out late at night. You know what I mean? If you just make it so a robber is trying to break into a
+person's house, it just doesn't really evoke that much emotion. You know what I mean? So like if you guys are
+going to do some type of AI, make sure the story behind it is an emotional roller coaster. You know, animals,
+I'm not going to talk about animals because a lot of my students are are in that and there's a lot of
+subniches there and I'm not going to leak it. I'm sorry guys. I'm not going to leak my students subniche
+because those niches are are crushing right now. Can you give an example for a commentary niche? Yeah, AI
+commentary. You can do animal ranking commentary. You can do, you know, news commentary. Anything like that
+works, guys. You don't I've had one student, bro. You guys remember when the Jamaica incident was happening,
+right? This is a little unethical. I actually didn't support this, but he did this. You guys remember when
+Jamaica was getting hit by that hurricane? You guys remember that, right? Is the 101 membership paid? Yeah,
+it's my time. Of course it is. So, you guys remember when Jamaica was getting hate by the hurricane, right? So
+what he did, he made a ton of AI uh videos with the basically just like Jamaica hurricane. The videos got so
+many views, news outlets contacted him asking to post the videos and it was AI and he actually got on national
+news for these AI videos uh of the hurricane, right? And he was getting hundreds of millions of views during
+this time period. Uh so I'm telling you guys uh Mr. P got on national news. Yeah. So, yeah, there. Yeah.
+There. Yeah. Yeah. Clark, you know, bro. You know, man. So, yeah. I mean, he got he got on national news uh
+for making an AI AI video. And I'm telling you guys, it's a little unethical, but you know, uh it it works
+regardless. I'm saying what happened to the giveaway. I'm talking about that at the end of at the end of this
+call. Uh because I want to address that. Um because I know a lot of you guys hashtag whatever it takes. Never
+back down. Never what. All right. That's everything I want to talk about for the main analytics. You love that
+hoodie, don't you, bro? Guys, my girlfriend got it for me. It was like 12 bucks from Ross. So, I love it. Of
+course, I love it. Okay, I think that's pretty much all the info I wanted to talk about. Um, you know, lastly,
+before we kind of continue this further, let me zoom back in here so we can see the handwriting. I want to
+talk about where we're moving into 2026 cuz 2026 we're going to have some new updates and YouTube's game is
+changing a lot right now especially with AI. So we're going to talk about this then we'll talk about the
+giveaway and then we're going to open up the floor to Q&As and just you know just general questions. Okay, so
+first things first for 2026 YouTube is moving in the direction of AI. There's a big misconception that AI is
+getting getting banned. I've had a lot of questions of like, isn't YouTube's AI banning AI? Right? So, I've
+heard a lot of people also saying like the AI detection software is getting messed up and they're banning AI
+channels. This is not true. Right? So, there's a big confusion where people think that this AI content is not
+getting pushed when this is the content that's getting pushed the most right now. A lot of AI stories, a lot
+of AI content. YouTube CEO has even said themselves that um they are actually supporting AI and they will
+monetize AI channels. You can straight up uh AI AI content is 100% monetizable. It is 100% monetizable. You
+can straight up make story clips and just straight upload them to YouTube without even editing anything. And
+if your video got a 10, you know, 10 million views, you will get monetized and get in the program. All right?
+They are not cracking down on AI, guys. They are pushing it further. YouTube is not cracking down. They're
+cracking down on on a lot of these Roblox spam content where uh they think you know people you people are
+doing giveaway scams, but YouTube AI is getting pushed so far right now. So if you guys like for example,
+there's a niche that I talked to with one of my students. I'm okay talking about it because he's not running
+it anymore, but it still works very well. It's this it's just like uh this where you show a really interesting
+clip and then you do an AI image of a drawing, right? And it and uh it just it works so well. I don't know if
+you guys know what I'm talking about, but the the the AI industry right now is popping and in 2026, this is
+going to be the method. So, if you don't have sore AI and you aren't getting used to generating these clips,
+start doing it now. All right? Because a lot of my students are getting into this and they're already starting
+to make bank from this. All right? So, get into AI. That is the main thing I want to talk about. And guys,
+remember AI? Are you talking about situation draw? Yes, I'm talking about situation draw, Romeo. That's what
+I'm talking about. Um, so get into this now and learn this now before it's too late. And remember, AI is only
+going to get better. It's not going to get worse. Okay? It's not going to get worse. So if you guys want to
+get into this, tap in now. All right? This is the gold rush. This is the gold rush right now. How do I How do
+you use altered content option or not? Yes, please always say altered content. If you don't, you won't get in
+the program and you will get demonetized because YouTube will think you're scamming. There's there's a there
+is a setting in YouTube that says altered content. Is this made by a real person? Does it show that a person
+is altered doing other actions? Turn it on if you're using AI. If you're using AI, if you're not using AI, you
+don't you don't need to worry about you can say no. But if you're using AI, say yes. All right. It won't
+affect your views. It just lets YouTube know that this is AI content. It will not affect your views. Where is
+it at? It's somewhere in your YouTube settings. Just Just look at it. You'll you'll find it. [snorts] All
+right. But it does this count for AI voiceovers? No, it does not count for AI voiceovers. It only accounts for
+actual AI generated videos. Yes, that setting right there. Thank you, Max. It says altered content. Everyone
+look in the chat where Max sent right there. That is exactly the setting you need to look for regardless. It
+doesn't matter if your um it doesn't [clears throat] matter if your content is or against it. Always check the
+box boxes yes or no regardless of if it's a does it limit reach? It does not limit reach at all. There is zero
+limit on reach. It's just a setting you need to have enabled if you want to keep your monetization. What type
+of CTA can I use for Roblox rants? We already talked about that a little bit earlier. If you just use an
+interesting emotion, people will comment. If it's something interesting or it's like a false story, people
+will comment. If you guys do a straightup CTA, um, like guys, comment if you think this is funny. You will see
+a huge dip in your uh in your your retention. So, don't do that for Roblox rants. Only do it like if it's an
+interesting clip. All right, that's all the news I want to talk about today for um, you know, everything I
+want to talk about for the YouTube news. I hope that was helpful. Before I get into talking about the giveaway
+and stuff, because I've I've had a lot of people asking about it, does that answer, you know, does that
+helpful, guys? All that information that I just dropped for you guys, was that helpful? Was it helpful, guys?
+So, we just talked about a lot of stuff. All right. I'm so happy that it's helpful, guys. I'm very happy to
+see that. How much is inner circle? We'll talk about it in a second. We'll talk about in a second. Okay. Um,
+so I want to talk about the giveaway because a lot of you guys, you know, have been asking about it. Like,
+where's the giveaway at, bro? You said you were doing a giveaway on November, you know, 31st. If you guys
+don't know, I got strep and a viral respiratory infection at the same time. And then my girlfriend also had
+some problems when we had to go to the hospital big time. Like I was in and out of hospital for like three
+weeks when I was trying to run all my stuff. Luckily, we do YouTube automation, so I was bringing in passive
+income on the side regardless. But um there's a a lot of people scamming giveaways. I know, bro. Guys, be
+careful. Oh, hey, you're you're making a joke. Never mind, Max. Be careful. Also, the people who are DMing you
+guys. A lot of you guys have gotten scammed by random people on the Discord pretending to be me. Guys, my name
+is Devin Cenats with no periods and no underscores. Don't get scammed. All right? I don't know how that
+happens, man. But like, I will never DM you. The only time I will ever DM anyone is if I see you're crushing
+it and I'll like I will send you a video, right? Like for example, like I message uh like Mango. I don't know
+if Mango's in this VC right now, but I message Mango and I sent him like a straightup video of like, "Hey,
+Mango, I saw you were crushing it in like the program. I wanted to talk to you to see if you were like maybe
+interested in like the program or something." Right? I will send a video to you, right? So, don't get scammed.
+I will send like a straight up video like that. I know there's a lot of people. Yo, we actually we actually we
+got the scammer's IP address, by the way. Someone IP swapped him and we got his IP address, which is kind of
+funny. Um, anyways, I want to talk about the giveaway real quick. So, we're not doing the exact giveaway like
+we were going to do before. Originally, we were going to do like a a $6,000 free mentorship giveaway. And
+because we got so many apps and we kind of got messed up, I wanted to still do something for you guys, but
+it's not going to be the same thing. So, what we're doing now is we're going to be basically giving $1,000 off
+the mentorship to anyone who applies uh within the next uh you know, day or so before Christmas. So, we're
+basically doing $1,000 off anyone, right? So, anyone who applies, we're doing $1,000 off. And also, for anyone
+who's in inner circle, I'm also giving you guys a credit as well to the program as well for one-on-one. How
+much is it? You can apply and see. It's different for everyone. It's different for everyone. You got to talk
+to my team and we can talk about it. But I'm giving a $1,000 off to anyone who's in the program, right? Anyone
+who applies for the program. If you guys are already in the program, I'll give you guys a straight up credit.
+So, if you want to apply for the program, you'll get a discount already. So, it'll be basically like if you if
+you paid $500 and you are you're an inner you're in inner circle right now, I'll basically give you $1,500 off
+the program in total. So, if the mentorship is $1,000, I get it for free. It just depends. This is why I'm
+asking you guys to apply and then see if it works, you know, cuz if you qualify and it makes sense, then we
+can definitely get in the program and we can get you started. How often do you pay? We do split payments,
+guys. If you guys need to do split payment, of course, we rather you pay in full because it makes you more
+committed. But you can do split payments as well, you know? It just completely depends on what your situation
+is. Cuz at the end of the day, bro, if you are not in a position where the mentorship is a good spot for you,
+then I don't want to to work with you guys, you know, because if it if it doesn't make sense and doesn't make
+sense. If it does make sense, then it does. For example, like Josh had to do two payments, you know, and
+that's okay, right? But I want to make sure that it makes sense for everyone. I'm not here just trying to just
+like, you know, get you in and then like you spend all your money. I want to make sure it makes sense for you
+guys and you guys are in a position where the mentorship makes sense for you, you know? So that's what I want
+to address the giveaway with. Do you guys do PayPal? We take anything, bro. If you want to send gold bars, you
+could take gold bars and got cash for the mentorship. It's okay, Max. Use the free programs, bro. Guys, I have
+a lot of free course and course content and I drop a lot of info on YouTube and I do calls like this for you
+guys. Um, just so I can make sure that you guys have all the info you need to monetize your channel and make
+as much money as you can. You know, a lot of people who are joining, they're already, you know, slightly
+monetized or they've already had channels before. They've had success. Do we accept crypto? Of course we do.
+Yeah. 10 grams of gold, bro. But does anyone have any questions from that? Here, I'll send a little link real
+quick for you guys if you guys want to get into it here. You guys can apply here. When you guys go here, just
+scroll to the bottom and hit apply now. And then just just go. It's like a quick little survey and then you
+know you you do it and my team will reach out within like 30 minutes. I sent it in the link or in the link in
+the chat if you guys want to go there. $67 for a course. Guys, I'm never going to sell a course in my life.
+Never. I will never sell a course in my life, bro. Never. That's that's I don't know why people do that, bro.
+I I can never. Um I don't quite understand the part of the altered content. If you make AI content, say it's
+altered. If you don't make AI content, don't say it's altered. Just make sure that box is checked. It won't
+limit views, but it'll just make sure that um you know you get into the program. Yeah. But anyways, does
+anyone have any other questions by that before we move on to the Q&A? What are the benefits of joining the
+YouTube Multietwork channel? Are you talking about the inner circle or um I we have a lot of people in inner
+circle right here right now. If you guys want to just actually do I should bring some of you guys in here. Can
+you guys raise your hand? All the inner circle guys I can bring you in here and you guys can talk about it
+real quick cuz I know we have a lot of people in inner circle. Like is Tony in here? Cooper's in here. Romeo's
+in here. Ian like Adam like let me get you guys in here real quick. Raise hand is disabled. Show request. Is
+it really allow requests from at everyone? Try now. Let's get Cooper in here. Let's get Ekko in here. >>
+What's up, Cooper? Let's get Adam in here. >> Can you guys just talk about the program real quick to just tell
+people if you liked it or not? >> I mean, um I'll say all the calls that we've had like the whole time in the
+inner circle, they're probably Echo is a guy. What the hell? >> Yeah. [laughter] >> That's funny, bro. I'm
+just saying though the calls that I've had in the inner circle are probably like the best value I've ever had
+ever. Like [snorts] >> are probably the best things about it. >> Yeah, dude. >> Here, Adam Cooper, do you guys
+want to say anything? And also want to get Romeo in here in a second. >> Yeah. Yeah. So, first off, Devin is
+great, right? Like, he's going to help you scale your channel. He's going to know what to do. [laughter] He's
+going to know like he he's going to help you scale your channel first off, which is great. And that could
+already be within like the mentorship. That could be only it. But one of the main benefits and one of the
+things that's been really helpful for me is now we actually have calls. like it it's not like we have kind of
+like our own little community here where we kind of have like a we'll be in the calls together and we'll just
+be talking about like what we're doing, what niches we're in, how we're growing, how we're scaling, how we're
+doing editing and being like with Adam, bro, Adam is killing it, right? Eco's Ekko's killing it. Like we got
+all these people who are killing it. And so just being in that environment, I've never had that before. I've
+never had more than one person actually interested in YouTube, let alone actually making good money off of
+YouTube. So that is infinite value there. Let alone what Devon can say, let alone what Devon can do for you.
+>> I appreciate you, Cooper. You should tell them about the runs, bro. The morning runs. >> Yeah. Yeah. Yeah.
+So, hey, full transparency, right? I'm not going to lie. Haven't been locked in as much recently. I lowkey
+Listen, I did not get all the value I wanted out of the membership because I didn't put the time in. But Devin
+was saying, "Bro, start running every day." So, now I've been running every day. And I actually today hit a
+new kind of not like PR, but I woke up and within 20 minutes I was running. So I'm getting better at my habits
+and everything like that. So yeah, that's it's just been great to be surrounded by everybody. But yeah, >> it
+all starts with discipline, guys. Like it it all starts with discipline. And if your discipline isn't, you
+know, completely dialed in, then you won't be able to be successful in this entire business model because it
+takes it takes uploading daily, right? If you guys aren't uploading daily, that's the first step. if you
+aren't able to even like get on your computer or your phone, make a video every day, you know, it starts in
+the mind. And I want to talk about mindset after we do this kind of thing and then we'll open up to Q&As's.
+But I want to let Adam talk real quick because we already did an interview with Adam. I think everyone saw it.
+But >> one upload a day is nothing. If you're not able to do like five uploads a day, bro, what's the point?
+Because right now I am making like four to five videos every single day. If you aren't able to make at least
+one video in a day, what are you doing, bro? Lock in, man. Literally. >> And Adam, you want to talk about your
+experience with the program a little bit too for everyone in there? We got like a hundred people in here.
+Maybe they would be interested to hear your perspective, >> bro. The whole thing is straight up W. Like you
+can see the video. Deon did a video like two days ago or was it yesterday with me? You can you can check it
+out, guys. I highly recommend it. And the whole experience is big W. >> Let me get Nick in here, too. And then
+I don't I think I can only have five people in here at once. So, uh maybe Cooper and Ekko and Adam leave real
+quick and I can get them in here because I can't. >> Yeah, I can. I can. >> Okay. I appreciate it, guys. Let
+me get Nick in here. >> All right. Let me see. >> How do I How do I leave? >> I can I can disconnect you, I
+think. Here. >> What's up, Nick? >> Hey, what's up? >> We were talking How long have you been in here, Nick? I
+don't know how long you've been in here for. >> Oh, like in the call itself or in the server? >> In the call.
+In the >> Oh, I I I joined at the beginning, so I've been quietly listening. >> Yeah. >> Do you want to talk
+about your experience? I know we had a call yesterday, bro. >> Yeah. Yeah. Um Yeah. Guys, uh this is a great
+place to be. And no matter whether you're in like the general or the inner or the winner circle, um I joined
+in because I wanted to learn more about going viral on YouTube and making content for the sake of
+entertainment. Um I come from a different content creation background where I was selling products and stuff
+but yeah I'm trying to learn how to do um content just for the sake of entertainment and get that AdSense bag
+and built systems around that. Um so I myself have barely posted on YouTube um and gotten success. So I was at
+I started at a beginner level but um you know Devon will work with you no matter what level you're at whether
+you are like already cooking on YouTube or you haven't started at all and you don't know what you're doing. Um
+yeah and I think also um echoing what everyone else is saying um Adam Cooper and all them you know very
+supportive community and um I would say that yeah everyone's doing like you know everyone's doing so well in
+it but yeah like it's um you know it's a great environment to be in and honestly a lot of you guys can eat.
+It's not I know it's like competitive in a way that like you know you're trying to get the most views out of
+whoever and get the most attention but of course like you know everyone can eat and um as long as you put the
+work in um and yeah I think u it's a great environment to be in and so yeah it's it's a it's it's definitely
+um you know I'm still I'm still waiting to see the results and get monetized but um you know I I definitely
+feel good about it and I that I'm I'm well on track to get to that point and I'm learning lots along the way.
+So yeah, guys, w you Devin, >> I I appreciate you, Nick, bro. I appreciate that you talking about it, man. I
+mean, uh, dude, yesterday when we talked, I'm not going to share any details anyone, of course, but dude, like
+I really appreciated to talk with you and um just in general, bro, it's just been a pleasure working with you.
+It's so fun getting on calls with you guys, especially you, Nick. I love getting on calls with you, bro. >>
+Likewise. Likewise. Yeah. >> All right, catch you later, Ben. All right, Josh, do you want to say anything
+real quick and then I'm gonna move on to the Q&A? >> Yeah. Yeah, sure. Can you guys hear me? Yep. >> All
+right. Pretty much all I was going to say, I was in 30KV jail for like two months. And when I joined, after my
+second call with Devon, I learned a lot of sauce. [laughter] And also, just motivation in general in the in
+the inner circle has helped me push harder. I went from one video a day for like two months. I was already
+pretty locked in, not going to lie. But, uh, now I'm double locked. I made 12 videos yesterday. >> Um, I mean,
+I'm gonna make 10 I'm going to make I'm gonna make 10 more videos a day. I already posted three videos
+scheduled ahead [laughter] of time. Like, I'm >> 12 videos is crazy. Yeah. 12 video. I work 10 hours straight
+for you guys. I I work 10 hours straight. I want to do it again. Like >> this is the effort it takes, guys, to
+lock in, guys. He's a machine. Josh is crazy. >> Yeah. I've been responding to a lot of you, trying to help as
+much as you guys as I can because I'm trying to pass it along. But anyway, I went from 30k view jail all the
+way up to I hit 3 million views on a video this week and I got multiple million view videos this week. So, W
+Deon. >> Yeah, I appreciate you, Josh. Thank you very much, man. um lost uh do you want to say anything real
+quick before um >> Yeah, sure. Sure, sure. >> Yeah. Okay, babe. >> Like when I started I started YouTube
+around two years ago and like I just got monetized 3 months back and then in the second month I joined this
+this program and like it's been so great. All thanks to Deon. How much can you tell them how much you made USD
+because you made a lot of money last month? [laughter] >> Yeah, the first month it was like 4K in just 15 days
+something. >> Yeah. And then next month it was 11K. >> 11K USD, guys. >> Yeah. USD. This month I have done
+like around 8.7K. Yeah. >> Yeah. So guys, we have a lot of people crushing it, man. I appreciate you you
+talking real quick and uh I appreciate all you guys man. All you guys in inner circle I'm going to move you
+back to the audience real quick and then I appreciate you talking though. I appreciate you man. >> Okay so
+yeah guys I mean we have a lot of amazing people in this community man. And you know before I even talk about
+anything else like I started this entire YouTube channel you guys have all found me from you know out of a
+place of of almost loneliness. You know, if you guys look at my second video on this channel, um, in the
+description, it literally was just like, I want I need YouTube friends. That's that's that's what it says. You
+know, I started off with ecom. I started talking and like I started out of a place of loneliness because I
+never had um you found me from the money mind. That's funny. Uh, yeah. But I I really made this from a place
+of loneliness, man. is I always had like one friend who really did YouTube and it just being able to start
+this community and being able to add everyone and say, "Hey everyone, upload every day." And we have everyone
+commenting saying or and messaging saying, "Hey, I uploaded today. Uploaded today. Uploaded today." Like I was
+never around people like that, you know? I never had I did this by myself from ground zero, you know? I
+started this by myself. I studied, you know, channels for hours. I I would go to sleep listening to Mr. Beast
+Bro. like I I I did all this by myself before I I started any of this community, you know, and this community
+has not just propelled everyone else in this inner circle, but me forward too, you know, cuz like I know I
+know a lot of stuff about YouTube, but because we have so many people in this community, I learned from them,
+you know, like that like uh thing I talked about collaborations, like inner circle learned that and taught me
+that, you know. Um have I met Mr. Beast? I've had one conversation with them. I asked him one question. It was
+in like a group of hundred people and I was able to ask him one question, but I haven't like really met him.
+He probably doesn't remember me. It was like a, you know, but regardless, man, I mean, we we started this so
+long ago. Look at this. Look at the look at this right here. Yeah, I posted this video January 3rd, 2024. You
+got this, Devon. It's time to succeed. Two years later now. You know, we're in a completely different
+position. Wow, that's crazy. You got on other channels, too. I've posted like, you know, updates and stuff
+like that as well, just for me as well. But yeah, I mean, I I just want to let you guys know like I appreciate
+you guys, man. I appreciate you guys a lot just for for for letting me, you know, be able to have this
+community. Three years ago, I was getting kicked out of my house. Now, I own a you know, my own apartment. Uh,
+you know, I live with my fiance and, you know, we make, you know, we make six figures a month right now. I'm
+able to help, you know, hundreds of students, you know, scale up and I've changed so many people's lives and
+it's thanks to you guys and, you know, everything as well. So, I appreciate you guys. Like, I had to talk with
+Adam and I'm sure you guys have seen the interview, bro. But like, uh, with that interview with Adam, bro,
+like I was driving, uh, the other day to my grandparents, you know, just to go say hi to them and stuff. And
+um when I was driving, I was showing my my fiance the interview with Adam and she was like really happy for us
+and stuff too. And I don't know, it just it it it makes me very happy, man. So, thank you guys. I appreciate
+it. Anyways, I'm going to move on to Q&As's guys. Um but yeah, I mean, if you guys want to join the program
+again, it just you can go to the mentorship and join. But in general, I just I appreciate all you guys, man. I
+appreciate you guys a lot. Thank you very much. Anyways, let's do Q&A, guys. Does anyone want to talk about
+anything else? We're going from a lot of emotions right now. Back to just YouTube sauce. So, let's go back to
+YouTube sauce. How do you get the best AI videos? Um, what do you think about the fitness niche? I think it's
+a little small. I don't think there's a lot of money to be made there. All right, I'm going start reading
+these questions here. Bro, I have a 100K dead channel on YouTube with zero copyright strikes. Its views have
+dropped. If I create a new YouTube channel on the same Gmail on that channel, will the trust score be good or
+bad? It'll be fine. Um, just because a channel's trust score is bad does not mean the Gmail's trust score is
+bad. So, it's okay. Um, you can make as many channels as you want in new Gmails. But guys, what I would
+recommend is I would recommend you guys make new Gmails when you're making these channels. What I do is I have
+a umbrella Gmail where I basically make myself a manager in all these channels and then I make separate Gmails
+where I make these channels. Usually I make them in groups of six, six, so I don't lose all my channels in
+case something gets terminated because I have different LLC's I run so I minimize my risk and um you know if
+one gets banned all of them will get banned but because I run underneath different LLC's. I've had times where
+I've lost like three or four channels in one go you know. So um it will um be a little more difficult if
+you're scaling different LLC's but right now just you know scale with one channel and you can use different
+emails because I'm sure everyone has access to multiple emails. Why is the price different for everyone for
+the mentorship? Because everyone's in different circumstances. You know, some people get paid $3,000 a month
+and maybe they don't want to invest all $3,000 into a mentorship, but they can pay 1,500 this month and 1,500
+next month. You know what I mean? So, that's why I say the price is different for everyone because everyone's
+in a different circumstance, you know? Um, so that that's why the price is different for everyone.
+Spirituality niche, very niche. Um, good money though if you are the biggest competitor cuz you're going to
+get a lot of people in the US, especially if it's motivation like Andrew Tate, David Gogggins, uh, you know,
+Alexi. Those would be really high. Mr. Beast, those are really high, uh, you know, US audiences, which will
+increase your RPM. For shorts, not really. I wouldn't really recommend it. Let me share with you. Holy
+questions. I know. I'm I'm trying, bro. Do I have to use my real face for verifying my channel? If you look
+like a child, don't do it. uh use an ID or if you don't have an ID, use your parents ID. If you could talk
+about yourself from five years in the past, what is one piece of advice you would give him? It's a great
+question, man. Um I would say, let me think. Five years ago, how old was I? I was 14. I would cut out
+distractions a lot sooner. I used to play a lot of video games. Like a lot. I used to play a lot of video
+games, bro. I was a Fortnite goat. I actually got top two in a Cash Cup one time. Like I I I was very very
+good at Fortnite and I put a lot of time into it. And if I put that time into just learning the algorithm, I
+probably would maybe be at like 5 billion views a month right now. But we're at 1.8 billion views this month.
+Still good progress, but I probably would have became financially free a lot sooner. Um but you know what? I
+think it's good that I played Fortnite back then, too, because like it let me be a kid, bro. You know, like
+you know, you can you can enjoy life, too. You know what I'm saying? Do you think the Minecraft niche is still
+good? It's an amazing niche to get into, bro. Minecraft is still a great niche to get into. How you join inner
+circle? Here, I'll I'll send this to you, bro. Do you still use Verloi? If not, what should I use? Usually, I
+just look for competitors. Ver still works. I'm going to share with you. Ver still works. Um, but what you
+could do is just go doom scrolling on shorts. Honestly, dude, I should make should I make a niche tab for you
+guys? I feel like a lot of you guys are always finding niches and maybe you guys can share them. Maybe I'll
+make a niche tab for you guys. Like, so you guys can all just share niches like in the text channel. You know
+what I mean? Like we have like general, Ask Devin, wins, student wins, analytics, mentorship. Like we have
+like a niche tab here so you guys can just share your niches and see what's up. Um, got you Devon. I didn't
+know to answer. I appreciate you, man. Um, what do you think about the survival island niche? Invoking
+different emotions. It's good, but uh for shorts, it's a little bit difficult. Does deleting your channel uh
+affect your draw score of your Gmail. No, it does not. It's not affect your How you doing inner circle? I sent
+the link here. I I'll send it again for you, bro. Uh what if I do a riddles in Roblox rants? I don't think
+that's going to do very well. Seems very niche. And a lot of people in Roblox aren't that smart. So, riddles
+aren't aren't really going to do that well, I don't think. Uh you got to remember like the audience is
+children and a lot of them like don't really they can't even really speak that well let alone like understand
+like basic questions. That's why those story lines work so well for very popular people if you keep the
+English guys when you're doing commentary make sure that your reading level is at a third or fifth grade
+reading level. And let me show you guys a great way to do this here. Let me share my screen you guys real
+quick and let me show you. Wait, I can't share my screen. Are you kidding me? Wait, what? No, never mind. a
+second. So, if you guys go to like your Google and you just go to look up at like reading level uh uh just
+reading level calculator, you'll get like uh grade it should be grade reading level grade reading level
+calculator. Uh you'll see something like this and like you can copy and paste your script into here and it'll
+tell you what reading level you are. Um, so like let's say you're in like uh you're trying to make a script,
+you put it in here, it'll say like third or fifth grade reading level. If it says like above like ninth grade,
+you're you're it's too advanced. Make it dumber, right? And that's no no offense to anyone. It's just you want
+to make sure as much people can understand what you're doing, you know? So like make sure your reading level
+is at a very high or very low level so people can understand it. [snorts] I think the average reading level in
+in America is like fifth grade. So yeah. Here, let me go down. Is it safe to buy a monetized channel?
+Generally, I wouldn't I'm not going to speak on that because it's just like it's it's a risk. It's always
+going to be a risk buying channels. I don't like doing that because I can just I can get a channel monetized
+in like two weeks, you know? So, like I don't really worry about it. Deon is my channel commentary. A channel
+is commentary and it's good example for everyone to review if you don't mind. I'll do channel reviews maybe
+another time. Today I want to do more general Q&A because we have 60 65 questions, bro. That's a lot of
+questions, man. Um, what if you're a high schooler? You can verify an ID. Guys, you need to be 13 years or
+older to get monetized on YouTube. The age limit is 13 or older. If you're under the age of 13, then you need
+a parent's consent. But if you're over the age of 13, you can use a video verification. It's just a lot of you
+guys look like kids and because a lot of you guys look like kids, you will not get uh into the the program
+because you look like a kid even though you're older, right? So that's why I recommend using an ID or a
+parent's ID. And you can use as many IDs as you want, bro. It doesn't matter as long as you just verify that
+you're a real person. Um, is it monetizable if I take AI videos from Tik Tok and I add AI voice to it? Yeah,
+but the creator may find you and then, you know, strike you down. So should be careful of that. Um, for reuse
+content, if you unlist all the videos for an appeal, can you get monetized? No. Uh, because YouTube can see
+all your videos on the back end. So, even if you unlist all your videos and you get a strike or something like
+that, it's actually the worst thing you can do. The best thing you can do if you get a strike or you get an
+appeal is leave the video public and fight the appeal, right? And I'm going to be making a video on appeal
+scripts soon. I just I haven't gotten to it because I've been busy with all the channels that I've been
+running and my of course my students. Um so, you know, I'll make an appeal video for you guys soon if that
+would be helpful. How do you break from distraction? I eliminate it. I eliminate it. Um I'm a bit of an
+extremist when it comes to this stuff. So, you guys don't have to live the life the way I live, but you know,
+like I don't talk to anyone outside of YouTube and my fiance. You know, all my day ones, I didn't switch up on
+them. I just don't talk to them. You know, I don't play video games. I don't watch anything on YouTube that is
+not related to bettering myself. Um, you know, just like I just eliminate it because you should have a why,
+right? I was actually talking to one of my good friends, uh, Preston and I also had this conversation with two
+other students yesterday as well and this kept coming up so I'll mention it now. A man with a very strong why
+can overcome anyhow, right? If you have a reason of why you're doing this, why you're scaling this YouTube
+channel, why are you trying to make money, right? If you have a strong why, you can overcome anyhow. And
+that's why I eliminate anything that does not get me toward my why. For example, my motivation for all of this
+is getting a trillion lifetime views. That's my goal. One trillion lifetime views. I'm at like 27 mill or
+billion right now, right? My goal is one trillion lifetime views. Is me playing Fortnite gonna get me to one
+trillion lifetime views? If I'm making content, yeah. If I'm playing for fun, probably not. So, I'm not going
+to do it, you know? Uh, and I eliminate any relationships in my life or any people, any connections, any
+conversations that does not get me toward that goal, right? And I'm dialed in, right? I I get, dude, I get
+companies coming to me all the time offering me equity deals. I get, you know, $10,000 brand deals. I get
+crypto gambling deals for all the views I get. Because you know when you're getting billions views a month,
+every company wants to work with you, right? And there's a lot of really crappy companies out there who will
+spend money on you because you're getting views, right? And I say no to them because if it's not going to
+better me, I'm already in a good financial position, right? If it's not going to better me in terms of my
+goal, then I will not say yes to it. I will I say no more than yes. Now, if you guys know who Alex Ramosi is,
+he has this quote or this saying he says where ignore the woman in the red dress. If you guys have watched the
+Matrix, there's this part in the Matrix where like uh you there's a woman in the red dress and he basically
+has to keep avoiding her and keep saying no to her, right? And every single time he goes back into it, the
+person becomes more and more attractive, right? This applies to your business as well, right? If you are
+getting opportunities, you're seeing niches, this is called shiny object syndrome. A lot of you guys are
+jumping from Roblox to Roblox rants to trying this trying this to, oh, I'm going to go start a drop shipping
+store. I'm going to start day trading, bro. Stop jumping around and locking on one thing and focus on it. If
+you put your attention toward one thing, you will make a lot more money, right? And when I started focusing
+and eliminating all my distractions, even when I was in school, bro, years ago, when I was in school, like was
+like three years ago now. I like people were around me trying to like goof off and ask questions. Bro, I was
+in a hallway listening to like YouTube podcasts, bro. If I was at the lunch table, I was looking at my
+analytics and I was very like I was a captain of the soccer team, bro, as well, you know, and I I played
+soccer, but at the same time, it's like if someone was talking to me and it wasn't related to benefiting me in
+any way, it sounds bad, but if it's not helping me, then I'm not going to progress, you know? And I'm not
+saying like don't have a relationship with your mom because she's not bettering you. Like have a relationship
+with your family and stuff, bro. But like if it's some random person or like a random friend who's like just
+talking about some random BS, like I just I don't deal with it. You know what I mean? I hope that answered
+your question, bro. I know that was long and in depth, but I've been actually having to answer that question
+for my students a lot. So, I wanted to go in more depth with it. Um, do you think the horror niche is good? I
+think body cam niche is good. Horror niche, not so much. Is it monetizable if I get taken a Okay, you already
+asked that question. Hold on. I've been working for two months my channel history to build a monetization but
+it still says establishing. Any way to fix it? Contact support is what I would say. Please Evan, what if I
+already answered the question as well. All right, I'm going to scroll down actually like pretty far now cuz
+let me see here guys. I already answered the question. You guys are asking me the same question. All right.
+Uh, does uploading a long form video on a short channel help build trust score? It does. Um, slightly, not
+like too much, but if if you are uploading videos just in general, you should guys, you should be uploading on
+every single metric that YouTube wants you to upload on. So like there's community posts, there's long form,
+there's short form, there's live streams. You know, you don't have live streams don't really increase your
+trust score if I'm going to be straight with you, but like you should use community posts. I'm actually I'm
+going to be making a whole video on community posts cuz using community posts are so so important to uh
+maximize your trust score and maximize your monthly audience. I got a lot of my students basically using AI
+community post and it helps them scale so quickly. So use community posts, bro. What about the skull niche? It
+still works. Verlo was not a sponsor by the way. I had an affiliate with them but Verlo was something that I
+still worked with. I still use Verilla. Ver is a great company. I even know the CEO who works there. Like he
+was a great guy. Um, do you apply do you apply the setting for your YouTube channel that shadowbanned and did
+it get it fixed? It did. Yeah, it you guys I'm not going to give you guys information if it doesn't work for
+me. I'm not I'm not just going to tell you to do something if it doesn't work. You know what I'm saying? Czech
+Republic shorts RPMs. I have no idea, bro. It's probably pretty low. [snorts] How do you make the best Roblox
+rants? You have to look at your competitors and make similar rants to them. Makeup stories. You're a great
+guy, Deon. W. I appreciate you, man. Thank you very much for that. All right, guys. I answered a lot of
+questions just now. Um, does anyone have any other questions real quick? I've already answered like all the
+Verlo AI stuff and all the Finding Me stuff. Anyone have any other questions before I I end this real quick
+because I'm going to go talk to some students now. Um, get the inner circle people um to talk again, Devin.
+Get the inner circle people to talk again, Devon. Should I get them to talk again real quick? What else should
+I say real quick? Do inner circle, do you guys want to say anything else before I I end this call? If you guys
+want to raise your hand, I can get you in here real quick. Yeah. Yeah. What What else do you want to say, Eko?
+I think Romeo's in here. Is Romeo still in here, bro? Are you such a goat, Devon? I appreciate you, Josh. I'm
+just trying to help, guys. Thank you, man. I appreciate it. All right, guys. I think that's going to be all
+for today. Okay, I think that's going to be everything. I have a lot of work and stuff to do today. Christmas
+is coming up. I have a lot of stuff to do. But hey, again guys, I hope this call was helpful. If you guys want
+to apply and like, you know, get in the program and get some amazing results like everyone else in the
+community, of course, you can go apply. There's a mentorship category in the Discord like it says right here
+if you guys want to apply. Um, other than that though, guys, I'm going to catch you guys later. All right, I
+hope this was helpful, man. Really hope this is helpful. Uh, when are you gonna upload this call? Probably
+straight after I end this recording. I'm probably gonna go upload it to YouTube. Um, yo, I appreciate you
+guys, man. Thank you for letting me have this community like this, man. You guys are great. Love you guys.
+Seriously, thank you so much. I'm going to go um talk to some students now. And you know, I appreciate you
+guys a lot, man. Hey, by the way, guys, one more thing before you guys head out. Um, we have a public VC, too.
+You guys are always seeing the private VC. A lot of you guys are not in the program. You guys are killing it.
+Like, you guys should be connecting with each other a lot. So, like, join the general VC when you guys are
+trying to like talk. Like, straight after it's like, go join. Like I want to see you guys in there actively
+talking. Right. Right. Because you guys there's so many people who in here who have so much information and I
+like Adam said in our last uh interview, two brands are better than one. Right. Two brands are better than
+one. So if you guys are connecting with each other and being around people, everyone in this server is locked,
+guys. It's not just inner circle. Everyone in here is locked, right? So make sure you guys are are connecting
+with each other, bro. Do collaborations with each other. Learn from each other. grow with each other cuz
+that's why we have a locked in channel, bro. Like, you guys should be in there 24/7 just grinding, you know?
+Um, anyways, that's going to be all. I'm going to go upload this to YouTube, guys. Expect more information
+from me. Of course, I'm going to keep uploading for you guys and keep giving free value for you guys as well.
+I love you guys. I'll see you guys later. All right. Bye, guys. See you guys later. Merry Christmas, by the
+way. Merry Christmas, everyone.

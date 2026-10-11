@@ -1,0 +1,274 @@
+Title: How I Write Faceless YouTube Scripts That Get 100s Of Millions Of Views
+Channel: Tim Danilov Biz
+Type: VIDEO
+Video ID: yxxVj5m-oAA
+URL: https://www.youtube.com/watch?v=yxxVj5m-oAA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T12:39:22+00:00
+
+Kind: captions Language: en In October 2025, my flagship YouTube channel made me $56,000 from 689 million
+views. Around the same time, another channel from my portfolio got 761 million views and made us $70,000. And
+recently, I repeated this process again, scaling this channel from zero to 1 billion views and $88,000 in
+revenue. And all of this was possible because we never script our videos. Instead, we use what I call the
+script bending. But while previously we managed a team of three scriptwriters that was costing us about three
+to $4,000 a month, we recently let them go and replaced them with AI. So, the systems that we used became even
+more accessible, and in today's video I'm going to give you the exact same system, and I'm going to show you
+how we script our videos that, as you can see, get billions of views. But while other similar videos just like
+this one about my faceless YouTube scripts uh give you surface-level scripting techniques like, "Hey ChatGPT,
+uh can you please write me a script about X, Y, and Z?" Or uh they give you a stealing method when you
+basically copy someone else's work and you expect it to go viral. Spoiler, it never actually works like this.
+Or they just give you generic basic-level artist-level uh prompts for Claude or uh even GPT. Spoiler, GPT is
+terrible. You should never cancel your GPT subscription because you should never use that. Uh in this video,
+the script bending video, I'm going to give you the unique script bending method. I'm also going to show you
+the database of 50 plus uh scripting templates we created for our workshop, and I'm going to show you a team
+of AI agents that find ideas, write scripts, and do the manual job on autopilot. So, instead of giving you a
+fish, very often uh root and one, uh I will give you the fishing rod so that you can catch the fish whenever
+you want and find those ideas and script those videos as many times as you want for as many faceless channels
+as you want. And this is exactly what I call the script bending. Now, let me explain you the method because
+most people honestly get that wrong. They think they should write their scripts, but in fact, you should
+actually never do that. Uh others make another mistake thinking that uh you should steal someone else's ideas,
+but it never works out. So, both of those methods don't work. Forget about them. Instead, what you should be
+doing is, remember this formula. Viral YouTube script is always a unique idea and a proven storytelling
+framework. A combination of those two deliver the best results. So, you should always find unique ideas that
+no one has ever covered in your direct competition. Uh and you should use proven storytelling frameworks that
+worked for competitors. So, frameworks are proven, ideas are unique, and the combination of both give you
+unique videos that are almost guaranteed to work. So, this is the only combination that guarantees the success
+of your video. Almost guarantees. There's never uh a 100% guarantee, but this one is as close as it gets to
+the guarantee. So, to give you an idea, here's exactly how it works. Uh these are two videos. One is from
+Agent Floppy, and the other one is from Looney Throne. And the initial video that blew up 9 months ago to 6.1
+million views is every US president death explained in 21 minutes. This video was also script bended from uh I
+think Paint Explainer was the first to do every someone's death, but uh Agent Floppy uh innovated on the
+style. They uh did a way better thumbnail, uh and that's why their video exploded 6.9 uh 6.1 million views.
+But then, Looney Throne actually bent this video and created every British monarch death explained in 21
+minute. And for most of you, the picture is already clear what is script bending, but uh I will still explain
+how the framework works because we're now looking at the title and thumbnail, but there are so many different
+script bends you can do. You can bend the title, and you can bend the thumbnail, you can bend the script, the
+hook. Basically, any part of the YouTube video you can bend, turning it into your unique piece. So, let me
+explain you how it works. The original video blew up, and it was about presidents. And the storytelling
+framework was like this. From like this is the exact script from the video. So, I went ahead, I transcribed
+both of those videos, and these are the frameworks and how they worked every single time because once they
+copied the video, they got 300,000 views on it in 4 months. So, the framework was from eating raw cherries to
+contaminated water at the White House to getting assassinated in broad daylight. This is how every US
+president died and their final words. So, this was the initial hook that made the video explode. And as you
+can see, the structure here is very simple. From X to Y to Z. Uh this is how something, right? And these guys,
+they simply bent it to British monarchs. So, they changed presidents to British monarchs, and the framework
+was exactly the same. So, the hook was structured the exact same way. From this to that to then this, and then
+this is how every English and British monarch died over the last thousand years. As you can see, they actually
+used a shorter version of it, and that's probably one of the reasons why I feel like their hook is way worse
+than the original one. Agent Floppy did a way better job at hooks, but still they made the video explode. So,
+they script bent the format, so the title and thumbnail, and they also script bent the hook and the rest of
+the script. So, in this example, I'm only giving you the hook because it's a very clear example, but actually
+the rest of the script is pretty much like that. Whenever Agent Floppy breaks into um like goes into
+storytelling on using lists or using cold actions, the these guys are doing the exact same thing. And the
+reason why they do it is because it's very simple to copy the structure with AI, which I'm going to show you
+at the uh like in this video. Now, you can continue bending it to multiple examples. So, you can create a
+video every celebrity death explained. You can like this one, by the way, uh also uses what I call the hype
+injection. You can talk about celebrities that are popular right now, and by doing that, you can actually get
+uh to a broader audience. You can increase your TAM, total addressable market, by using that. Uh I'll probably
+create another video on hype injection and how it works. Uh then you can do every dictator's death explained,
+pretty similar topic to the to this one. Every controversial influencer death explained, also kind of a hype
+injection in a way. Every star in a universe uh death explained, this one is bent to uh like space and uh like
+physics and stuff like this. Uh so, you can be creative with those bends, right? Uh and when I personally saw
+this bend because I was uh one of the first to s- to see this video blow up. I I I saw it at like 200k views.
+So, um when I saw it blow up, I immediately did the same thing for uh with one of the Art of YouTube clients.
+So, we bent the video. Um I'm not going to tell you the topic of that uh obviously to protect my client's
+channel, but uh we bent the video to something very creative, very new, something no one has done uh like
+before. And uh we posted the video. It was the second ever upload on the channel, and for the first 16 days,
+it was uh basically sitting at 200 views, which is like almost always when you start a new YouTube channel
+right now, branded one uh with long form, it will almost always get stuck at zero to 200 views for the first 2
+weeks. But then, as you can see, 20 days later, it started uh blowing up out of nowhere, and uh like I'll zoom
+zoom that in for you. Uh Kirill basically sent it in the community as a win because, as you can see the graph,
+the video absolutely exploded after the 20th day. So, uh 50k views in uh in a day back then, and by now the
+video sits at uh a solid 263,000 views. And that was the second ever upload posted bended from one of those
+videos. So, this is how the script bending work. This is how like the type of results you can expect from
+doing that. So, this way, you create unique valuable piece of content while sticking to the framework that
+worked for someone else. That's the key here. You have the framework, you know that it works, you know that
+the audience wants this format, but you give them a new fresh angle that no one has ever done. And that's how
+you get very strong uh faceless videos. Now, another example, uh this format, I'm sure you know this format.
+It's been blowing up like crazy recently, Your Life as Every Rank of Something. In this case, it was mafia. Uh
+people started doing uh like soldiers. People started doing uh history like so like soldiers during World War
+II or Vietnam War or like again they were like I'll show you a bunch of other bands in in a bit. But this guy
+actually did something very very smart. You remember I told you about hype injection. So he did exactly that
+because this guy is currently blowing up everywhere and Epstein Island is on trend. It's like on hype. This
+guy decided like what if I take the format and I bend it to something that is currently hyping like crazy. So
+he did that and as you can see the video from like 11 days old video got half a million views which is again
+crazy result for a channel and a quick story like you can check the channel. It was not successful at all. So
+this was one of the first videos that blew up for them. They first went viral with a similar video and there
+was a complete copy. I'm not recommending you to steal content. Sometimes it works but it's kind of hit or
+miss. But this time went absolutely crazy because they did something new something that no one has ever done
+before. And the good thing is you can do it with the eye and for that I recommend you use Claude AI. Claude is
+probably the best script writing AI right now and you just tell it like look you're an expert you need to
+analyze this video and you need to prepare a script writing SOP breaking down exactly what they use for their
+hooks like how they structure the videos their storytelling patterns their viral triggers and Claude will give
+you an extensive document that will look something like this. So this is the document that we created like the
+it's a bit up because I turned PDF into like a docs file but basically you can see how big those SOPs are and
+this was basically a single prompt with a bunch of videos from Zach King Films and that's the kind of SOP you
+need to create for every single channel of yours. Now the way you use this SOPs is A you're going to learn a
+lot about the storytelling patterns and scripting frameworks in your niche but B you will now turn this SOP
+into something that you use to educate your Claude AI agent that will then create scripts for you. So this is
+something that we did. Now if you do it with a single video because with this prompt you need to attach the
+video transcript of one of your competitors. If you do it with a single video it's going to be good enough but
+what I did is I actually put 500 video transcripts for like of Zach King Films to create legendary version of
+the same SOP. It turned out so good it's like 15 page book. It's almost a book that goes over exactly how Zach
+King Films structures his videos. So this version turned out to be legendary and this is because I gave Claude
+enough data on how those videos are structured. So the more transcripts you can get the better and a good
+thing is we actually did it for you. So again stick with me till the end I'll tell you how you can get all of
+the SOPs for the most popular formats and trends of faceless YouTube automation. Now how do you actually
+create those niche bands those script bands? Excuse me because niche bands is the first piece that you need
+and script band is the second piece that you need. So in order to fully understand script bands you actually
+need niche bands. So go watch this video right after you finish this one you will have a full picture of
+exactly how this thing works but figure out the niche then figure out the scripts and then I'm planning to
+continue this series helping you to figure out the production and YouTube algorithm as well. Now let me
+explain you what that means. So there are those channels right and the Odd Dude Explained is the channel about
+mafia and gangs and as you can see all of his videos are very well structured like the structure is easy to
+see and easy to copy. POV you're the cartel deadliest hitman POV you're this POV you're that and this is all
+about mafia gangs and this kind of stuff so the bad guys. Now Professor POV actually bend this niche towards
+good guys. So he changed bad guys to good good guys and he now creates videos your life as every CIA black ops
+rank and rank of this rank of that. Basically same videos slightly different thumbnail but the structure of
+their scripts is exactly the same. I know because we analyzed that and we came to the conclusion that the
+scripts are almost identical meaning either it's the same dude or they're stealing scripts from each other
+changing a few words here and there. So it's very hard to see from the first look at those channels but when
+you do a deep research which we've done then you can see it very clearly. So these videos are pretty much the
+same again one is slightly bigger and slightly longer it performed better as well but again the structure of
+the script which we care the most about in this video at least is exactly the same. And those videos are also
+the same they changed the cartel deadliest hitman to the FBI informant and created the same exact video
+following the structure that worked. Again this video is about follow the structure that works and come up
+with an original idea that no one has done before. So the script bending in simple words is basically taking a
+proven format from a different niche and rewriting the script following the exact same structure for new
+original ideas. Now I'm going to give you the examples from the database that we created with 50 plus proven
+script formats. Number one is the Professor POV storytelling style. This channel again it's absolutely
+everywhere now it's blowing up and their videos are getting crazy amounts of views especially this one and the
+format obviously people are trying to steal it as much as possible because it works. What's the scripting
+format of this channel? First of all they always use you version of the script. So you drop in they place the
+viewer directly into a specific role error or situation and it sounds like you apply online like everyone else
+there is a form on the CIA website then you like this happened to you this happens to you and they develop a
+story from there. They yeah as I said they develop the story in a chronological sense they walk through the
+full arc each stage darker more complex higher stakes if you get caught they say will deny your existence etc.
+And they also give it a very strong ending so they end the video very strong as well. So this is the
+storytelling framework. Now how do people actually bend it? Well there is a video about dinosaurs and this
+channel was actually way way way older than the POV Explainer POV Professor. So POV Professor was not the
+original one but that's the most common right now but there is a video about dinosaurs with the same exact
+structure there is a video about lost and like sexual history that is structured the exact same way. There is
+a video about mafia structured the same way. So it doesn't really matter what topic your channel covers you
+can always apply the structure that worked for someone else. And this is what I want you to understand and
+learn about this script bending concept. Doesn't matter what blows up you need to be plugged in into the
+basically like the YouTube feed YouTube algorithm you need to understand what works currently for other
+channels and you need to bend it to your niche. So today we're not talking about your niche we're not talking
+about like you like you create a video about mafia or create a video about that. Whatever channel you run you
+can bend this format towards your audience. You can make this format work for your channel and this is exactly
+what I want you to do. So take this script formula apply it to one of the ideas that already worked on your
+channel and you're going to get a viral video that will blow up to hundreds of thousands of views almost
+guaranteed if you have a channel that works if you have a niche that is proven if you have niche bending
+figured out already. Now the other example would be the Paint Explainer style probably the oldest of them all
+the most let's say used one but still there is multiple channels that are doing it. So first of all there is
+no intro in that style they jump straight into the number one and they go over like what like basically either
+psychology tricks or life hacks or different dictators they go one by one explaining each one of them. So your
+script bending formula is actually very simple. Find a storytelling formats three to five you need multiple of
+those that work for indirect competitors adapt them for fresh ideas fresh ideas that you generate in your
+chosen niche. Create unique content with almost guaranteed results. So this is the formula. You find something
+that works for indirect competitors. You're trying to bring new formats to your own niche and you adapt it for
+two ideas that no one has ever done before. This is how you get unique content on YouTube that has all the
+proof it needs for the algorithm to blow your videos up. This is the formula. Now, how do you do it in
+practice? And we got you covered as usual because we created that entire database for you. And if you visited
+our niche bending workshop, we you know how much I love those idea databases because we have the exact same
+database for 500 plus faceless YouTube channels. So, what we did, we actually analyzed all of the videos, all
+of the most popular videos from those channels. We put together a list of 5,000 different videos and their
+scripts and we figured out that all of them followed very clear frameworks and we found 50 plus frameworks
+that we put in this database that are helping those channels blow up. So, the way I now use this database in
+practice is whenever I want to create a video for a channel, I would search for a proven framework for the
+script in this database. So, for example, because we talked about Paint Explainer, like there's Paint
+Explainer style of video. Or let's say I want to see how Simple Paint creates his videos. So, first thing that
+we see is the script formula. So, here's how the they structure their scripts. And you don't need to
+understand it yourself. You like you don't even need to read it because this is just a part of the prompt that
+you will give give to Claude AI so that it writes the script for you, completely for you. Now, there's a TXT
+file with all of the scripts from Simple Paint already. We just put them in the doc because we know that you
+need them. Now, there will be another file. We're now in the process of finishing this database. Obviously,
+we're preparing for the script bending workshop that is coming April 8th and there will be an MD file with the
+complete Claude AI prompt that you will upload in one click and your Claude will learn the skill of writing
+scripts similar to Simple Paint. And Simple Paint is quite unique, but if I show you the Paint Explainer, you
+will also see a bunch of other channels that are doing the exact same style and you will see whether or not
+your channel is there, maybe. Or you will see who else tried to copy the exact same format and how they bent
+it because every single one of them is different because some of them are bending towards MMA, some of them
+are bending towards Professor. It's actually quite a funny one. Paint Explainer, Fictionery, Nexus Files. Some
+of those aren't actually not very clear bands. So, instead of copying titles and thumbnails, they copied the
+script structure, but their thumbnails are completely different. So, you would have never told like guessed
+that these are the exact same videos, but they are the same. And we know that because we analyzed every single
+one of them. And for each channel we analyzed, we give you the TXT files with all of their scripts so you can
+upload them to Claude and you can ask your own questions. You can see whether or not they're actually, you
+know, as interesting as you think they are, right? So, you don't need to watch any of the videos from your
+competitors. And I'm going to give you the exact same prompts as well, the MD prompts, so you can use that as
+a learning material to teach your Claude to write scripts for those channels. So, super excited for that. The
+niche bending workshop is coming April 8th. Right now, below this video, you can find a waitlist. Or if you're
+watching this video late, then you will see the exact link to get your tickets. Do that now because I'm
+expecting more than 300 people to join us live this time and this time I'm actually preparing something
+legendary for all of you. So, you know how much I love to over-deliver. This time we're delivering an extreme
+amount of value for just a fraction of the cost that this thing should cost. Now, what from that process
+should you actually automate? Because I've built some incredible automations that I think you should build,
+too. Now, I have the AI agent to find ideas for me. So, the way it works is there is a database of videos.
+Every single day it scrapes the videos from all of my competitors. It puts them in a spreadsheet and it
+analyzes whether or not those videos could be bent to my niche, to the Art of War channel. And if you can see
+true, then this video will be scripted. If you can see false, then this video is not usable for us. So, for
+example, it then creates this list where it collects all of the ideas that we can bend to our niche, to our
+channel because I taught it exactly how to script bend videos, right? So, it finds the original transcript
+script of the video, so it transcribes the video for me. It finds the viral trigger, why the video works, and
+it also gives me five ideas for each one of those videos. And what I do on a daily basis, I open the
+spreadsheet, I check the ideas, and I think, okay, cool. Do I like those ideas or not? And if I do, then I
+just check box the the ones that I like, those ones. And the next morning, Claude will see that I like those
+ideas and it will start writing those scripts for me. So, this is the level of of automation that I want in my
+business. I want everything to be as streamlined as possible. AI agent searching for ideas, sends them to me
+for approval, then another one writes those scripts. So, every single day at 9:00 a.m., it will open my like
+spreadsheet, it will check for approved ideas, and it will write the scripts for me. And to show you how it
+works, let me actually run it right now and we'll see what is capable of. So, we'll run the scripts. You can
+see I'm clicking run now and Claude will start working on that for me. And what it's going to do, it's going
+to look at all of the ideas that I approved from here. It's going to change their status to scripted and it's
+going to add them all to my Asana. So, I'll open the Asana right now. I'll show you the dashboard. These are
+all of the scripts that we have for approval right now. As you can see, the last one is 10:58 and Claude is
+now working on basically searching for ideas that it liked and adding them here. So, it will create a Google
+folder for me. It will create a Google document. It will put the script that it wrote in that document and it
+will create an Asana card in my dashboard. It will basically make the entire process work seamlessly without
+me doing anything. So, right now we're just waiting for it. As you can see, it works. Okay, cool. As you can
+see, the first video was just delivered and it took probably 2 minutes. Let's actually click around and let's
+see what it did. So, first of all, we have the Google folder. As you can see, 10:59 and it just wrote the the
+script. So, it took this idea. It used our script writing SOPs and it prepared a fresh script and it actually
+looks pretty solid from the first look. It used the you see that I always use in my scripts and also added a
+punch at the end and it used wood intentionally that I always use in my Art of War scripts. So, it followed
+the SOP to the T and it created a very good script. So, this is the level of automation that we now use. This
+is what replaced my 4K a month script writing team. And I'll probably create another video on that automation
+because it's too crazy to fit it in the script bending video, but what I wanted to show you is that almost
+everything that I showed you today can be automated. And as long as you can collect a bunch of data from your
+competitors, as long as you can put it into the right prompts, you can actually make Claude run your faceless
+YouTube channel for you. This is pretty much how I run my Art of War channel right now, the channel that did 4
+billion views, the channel that generated 300 plus thousand dollars in revenue is now run by my AI agents. And
+all I do is approve ideas once a day and then just approve those scripts once I like them. And while I was
+speaking, basically Claude delivered another idea for me. And it even writes a personalized compliment for my
+animators just to keep them a little bit more happy, you know? So, if you want to take the next step, what I
+want to do is invite you to the script bending workshop. At the bottom of my heart, I believe that that's
+going to be the biggest event in faceless industry, the one that will change the way people create their
+YouTube channels, people run their YouTube channels. So, on April 8th, I'm hosting the script bending
+workshop. This is where I'm not just going to tell you how to script bend. Instead, I'm going to give you the
+plug-and-play AI agents that will do it for you. So, you come to the event, you set them up, you set those
+agents up once, and they work for you 24/7 365 for 20 bucks a month Claude subscription. Cancel your GPT,
+start using Claude. Instead of 3.6K a month that was previously the cost of my script writing team. And every
+single day they will deliver 20, 30, actually there's no limit, but 20, 30 ideas is already pretty good. 5 to
+15 new scripts based on your channel analytics and SOPs. It will work like this. You will put a link of your
+channel in the chat. It will analyze everything and it will create SOPs for you and then it will automatically
+build all of the other agents so that you can click one button every morning. You don't even need to click it
+but like you will click once and every single morning it will run automatically collecting all of the ideas,
+writing all of the scripts and all you need to do is to approve the best ones. Last time we did the workshop
+we had over 200 people who showed up live and dozens of them then messaged me afterwards with words of
+appreciation for how much we actually over-delivered. You know how much I love over-delivering and giving even
+more than I promised. This time we're going to deliver even more and instead of focusing on the theory, I'm
+just going to give you the exact ready-made templates, prompts, AI agents and protocols that currently run my
+700k per year YouTube portfolio. So this is how Sap scaled to 20k months in just 90 days. Ron got his silver
+button. Congrats, Ron. Ollie created a video, recreated the video that got 1.3 million views overnight and
+Kirill got 50k views long form. Now we know that the video sits at around 270k. This is the video that got him
+monetized. Second ever upload and he used the script bend. Now because I don't want you to miss on that
+opportunity, if you sign up for it now, you will receive a huge bonus from me. A two-week script bending
+bootcamp where every single day I'm going to be in the same private Telegram group with you where I'm going to
+break down successful YouTube scripts and show you exactly how you can use them in your niche. We're going to
+do a lot of niche breakdowns and script breakdowns as well. You will be able to ask me questions in the chat
+and if you want to learn how I script my videos that get hundreds of millions of views and how you can use AI
+to automate 90% of that process, click the first link that you can see in the description. The website will
+tell you exactly how to sign up to the script bending workshop and join it before we increase the price. Do
+that right now and I'll see you live on the biggest event in faceless YouTube community.

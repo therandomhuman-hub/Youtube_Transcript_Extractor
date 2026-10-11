@@ -1,0 +1,181 @@
+Title: How I Get New Clients Every Week With This AI Chat Widget
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: cVcBafpc8Bg
+URL: https://www.youtube.com/watch?v=cVcBafpc8Bg
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-11T09:57:39+00:00
+
+Kind: captions Language: en Most business owners have a website, but almost none of them know how to turn that
+website into a real client generating machine. There's one simple AI powered chat widget I use. And it helps
+me get new clients every single week without doing any extra work. It runs 24/7. It answers questions. It
+books appointments. It even follows up automatically. This is the exact business model that I personally use
+to profit daily online from home. And it's the same strategy that hundreds of others have followed to start
+earning real recurring income online, even as complete beginners. You don't need marketing experience. You
+don't need to run ads. You don't even need to be good at sales. If you've been stuck, burned out, or just
+tired of side hustles that never lead anywhere, this might be the missing piece you've been looking for. And
+just so we're clear, I don't have a course or high ticket coaching program to sell you. If you like this
+video, share it with a friend and comment down below. Once you've done that, then I'll send you a private link
+to get my full step-by-step course, all of my templates, scripts, and live boot camp 100% for free. And right
+here, this is a simple AI automation software that we're going to be using to set up all of this using AI for
+your website in your business. And what I'm going to do is I'm going to just use one of these pre-built
+templated demo websites that I have. And if you don't have a website and you need to get a website set up for
+your business, you can actually just use the same AI software to create your own professionally designed
+website. We have over a thousand templates right here that you can go and choose from. But we're just going to
+say for this example, we've already got a website. So I'm just going to use this personal injury lawyer right
+here for this example. So I'll pop up a little view of what this looks like. So we can show you how we're
+going to leverage AI to not only book more appointments, but actually help us close more deals as well. So if
+we look at this website, I'm just going to move my head here really quick that I like to do to any website is
+add a little chat widget in the bottom right hand corner here because statistics show that a typical website
+just like this converts less than 1% of people that visit the website into actual leads. And then by adding a
+simple chat widget, it boosts the number of leads and the number of sales conversations that we're having with
+the people that are already visiting our website. So in order to do that, this is very simple to do. If you
+can copy and paste, you can make this happen. We're just going to come over here to chat widget and we'll go
+click create a new chat widget right here. And so for this example, we're just going to go and select this
+live chat right here. And then we can customize. You can see this little chat widget down here in the bottom
+righthand corner. And you can style this chat widget however you want. So if you want to change the color, if
+you want to change what it looks like, whatever it might be. So we're just going to leave it just like this
+just for this simple example. Click on save. And this is the first step that we're going to use to adding AI
+to our website because we're going to click on get code. We're just going to copy this code and it's going to
+say copy this code in the body or the footer section of your website. All right. So now, if we're using the
+websites in this software, which all softwares, all website softwares have this very simple and easy to do to
+copy and paste into the website. We're going to come back over here to the websites, click on this personal
+injury lawyer one right here. Click on settings, and then you can see we've got the header tracking code and
+the body tracking code. So, I'm just going to paste this right in right there. I'm going to scroll down, make
+sure I hit save so that this is all ready to go live on this website. And then once this is saved, I'm going
+to pop up a new preview. And you'll see that this website chat widget was just added right here. So it says,
+"Hi there. Have a question? Text us here." So now we can come in and start a text conversation with this
+business. Now I know what you're thinking is probably like, "Oh man, well, who's going to be responding to
+these text messages? How do we have to hire another person to go and respond to all these text messages? We
+just don't have the time. We don't have the support. We don't have all that." Well, this is where AI comes in
+handy. We're going to be able to set up AI to respond to all of your customer support requests and also be
+able to direct the support requests to automatically book an appointment on our calendar for us. So, the way
+we're going to do that is we're going to come back over here to the simple AI automation software. And then
+we'll come down here to settings. We're going to click on conversation AI. And then over here, you can see
+I've already put it on autopilot. Normally, it's on off by default. We're going to set on autopilot. And then
+we're going to say, "Hey, anyone that reaches out to our business via Instagram, Facebook, SMS, so they text
+our business, or the chat widget, or the live chat like we just set up on this website right here. Then we
+want to be able to train an AI bot to respond to all of the questions that are coming in." And so, we come
+down here for advanced settings. We can give the business a name, whatever your business's name is, right? Or
+and then we can say, hey, how long do we want to wait before responding? We might say, hey, we only want to
+wait 1 minute, so we don't want them have to wait forever. And then the maximum messages a bot can send. We've
+got a few different things that we can go through and select right there. Now, the next thing that we want to
+do is we want to come over here to the bot training because we might be thinking, well, cool. We've got an AI
+bot, but how does the AI bot know how to respond to all of these questions? Well, we just come over here to
+bot training and I'll just move my head here once again just so you guys can see this. And we are going to
+grab the website URL. So, this one right here and we're going to copy it. And obviously, this is just a demo
+website. I don't have everything set up, but you would grab your website and we would just paste it right here
+in this area. And we would click get data. So, now what's happening is this AI bot, it's going to take about
+10 to 20 seconds. It's going to scan the entire website, all the pages, learn about all your business
+services, all your hours of operation, your price points, anything that a a customer would want to ask you,
+and it's going to learn everything about your business. Now, here's the deal. A lot of times, businesses have
+questions that come in. They get asked all the time that might not be on their website for some reason. And
+so, if that's the case, all you have to do is add these frequently asked questions right here. You just type
+in the question you get asked all the time and the answer and you click save right here. Okay. And then once
+you've done that and you feel like the bot is trained up how it should be, we come over here to the bot trial
+and we can just test this out. So I'm just going to reset this right here. So we'll say, "What hours are you
+open?" And now obviously this is just a demo. The bot is going to scan the entire website. It's going to say,
+"Okay, they're Monday through through Friday from 9:00 to 5:00." You can say right here, "Hey there,
+unfortunately the information snippet doesn't match." So basically, it doesn't have all the information on
+that demo website, which is totally fine. So if we do like the answer that it gives us, though, we give it a
+thumbs up. But in this case, it didn't respond with the right answer because obviously it's a demo website.
+So, all we would do is click on this thumbs down and we would train the bot and say, "We are open Monday
+through Friday from 9 to 5:00 p.m." And then we just say, "Trainbot." Okay. And so now we can come over here
+and just say, "What hours are you open?" And we'll see if this is already trained and see what response it
+gives us. So, it says, "We're open Monday to Friday from 9:00 a.m. to 5:00 p.m. What time works best for you
+to book an appointment?" And so, now we can give it a thumbs up because this was the accurate the right
+response. So, just like that is so easy to go through and train this AI bot. So now anyone coming to your
+website, we're not only going to be able to get more leads and capture more data and create more conversations
+with your prospective clients, but we'll also be able to have AI respond immediately to all of these customer
+communications. And then on top of that, we can go through and we can say, hey, we want to configure the
+intent, meaning, what do we want the bot to do? Do we want to direct them to a certain web page or do we want
+to direct them to book an appointment on our calendar? And in this case, we're just going to say, "Hey, we
+want you to book on a calendar." So, this is enabled right here. Okay? And then we come down here and we
+select which calendar we'd want them to book on. Okay? This is obviously once again just a demo calendar, but
+you could set up a calendar for each one of your sales reps or whoever might be taking phone calls. You select
+that, click save, and now the bot is going to guide the conversation. and it'll answer the questions the
+client has, but then guide the conversation to go and set an appointment with all of these prospective
+clients. Okay, so now we've got this AI chatbot to respond to all of the incoming text messages, live chat,
+Instagram DMs, Facebook messages from our website, but now I want to show you how we can add AI voice for all
+the phone calls that are coming in. Now, most websites, it looks like this website doesn't have it, but
+they'll typically have a phone number. So, you can see right here, it's got a phone number down here to be
+able to call into the business. Now, the truth is, statistics show that 62% of incoming calls go unanswered to
+small businesses, which totally makes sense because most small businesses, they don't have the time to sit
+there and answer every single phone call. A massage therapist, a chiropractor, they're back doing the work
+that they're actually paid to do, right? And not all of them have assistants or secretaries to go through and
+make all those calls or answer all the phone calls. So, what we're going to set up is a simple service called
+AI Voice. Okay. So, I'm going to come over here back into the same exact software. I'm going to click on
+settings. I'm going to go over here to this AI agent and I'm going to create an AI agent, which means anytime
+a phone call comes into the business, we're going to be able to have an AI bot that actually sounds very legit
+and realistic, which I'm going to demo for you here in just a second. And this takes just a couple of clicks
+to set up. You don't need to have any tech skills or any marketing experience to go through and make this
+happen. So, all we'll do is come over here and click on create agent. And then we would just give the agent a
+name. So, we'll just say this agent's name is Sally, right? Then you put in your business name. Test business
+for this example. And then the voice. We've got Samantha right here. We could name her Samantha. But we've got
+a variety of different voices, which is super cool. Oh, we've got Sally right here. Look at that. Very cool.
+And so now we're going to come down here and this right now is only for incoming calls, inbound calls, but
+very soon they're going to be releasing outbound calls. So if you need to go through and do appointment
+reminders, like if you're a dentist or go and make outbound calls to go and try to set appointments for your
+sales reps, you'll be able to go through and make that happen. And then this is the agent's initial message.
+And you can customize this to tweak whatever you want them to say. So it says, "Hey, you have um reached, you
+know, whatever the business name is. How can I help you today?" Now, I'm just going to move my head once again
+so you can see this whole process. So over here, we'll say customize the text. You can have the AI agent say
+whatever you want it to say. And so we're going to just click on next right here. And then we'll say what are
+the agents goals? Like when they're answering the phone call, what do we want them to do? And this is just on
+the basic mode where we say, "Okay, we want them to grab the name. We want to grab the email." And also what
+their issue is, like why are they calling in? Do they have back pain and they're calling into like a massage
+therapist or a chiropractor or they've got like a toilet leaking and they're calling to a plumber, whatever it
+might be. And then um you could also switch to advanced mode where you can train the AI bot to give it like a
+background and this is your history and this is how you want like kind of a fun playful vibe of how you want
+to interact with your potential clients. However, for this example, I'm just going to keep it on the basic
+mode, but you can do some really cool advanced things. Now, we'll just click on next and we'll select a phone
+number that's associated with your account. So, for this account, you can see we've got this just 800 number.
+And then we would click save. Now, I'm not going to go through and set this up because I've already got
+another demo account already set up for you guys just to go and show you guys how this works. So, let me just
+pull up my head again. And I'm just going to call this business so you guys can see this in live action. How
+cool this is. This call will be recorded for quality purposes. Hey, you have reached instant electrician
+service. How can I help you today? Yeah. Um, my my lights are out in my attic. Got it. Let's get this sorted
+out for you. Can I start with your name, please? Yeah, it's Jason Wardrop. Just to make sure I've got it
+right. Your name is J A S O N W A R D R O P. Is that correct? Correct. Great. Thanks, Jason. Could you please
+provide your email address so we can follow up with you? Yes. jw1088gmail.com. Just to make sure I've got it
+right, your email address is jw1088 gm ail.com. Is that correct? Yes. Perfect. Thanks. So, your lights are out
+in the attic. Anything else you want to mention about the issue? Nope, that's it. All right, Jason. Our team
+will reach out to you shortly to help fix the lights in your attic. Thanks for calling and have a great day.
+How cool is that, right? So, they not only took down my information and the cool thing is is in that software
+I just showed you, all of the contact information is going to be auto updated in the CRM or the database where
+it stores all the contacts. So, now the system is not only answering the phone call, it's also taking note of
+what the issue is. And it's cool because like it sound like a real person. Obviously, I knew it was AI. You
+probably would know it was AI, but they were able to not only know what issue it was, but also repeat back
+what the issue was, collect all the information. I kind of have a weird last name. Most people don't know how
+to spell it. The AI agent actually knew exactly how to spell it, which obviously I'm not saying they're going
+to get it right 100% of the time, but that was pretty cool. So, if you guys want to go through and add AI to
+your website for your business, all you have to do is go through and leverage some of these simple things I
+showed you how to set up and you see now that you don't need any tech skills to go through and make this
+happen. A lot of this is as simple as copy and paste and just clicking a few buttons to go and put AI into
+your website to respond to all of the maybe customer service type questions that are coming in via text or
+even the phone calls that are coming in. And AI is going to help you save a ton of time and a ton of money. So
+you're not having to hire a real human that might get tired. They might not show up one day. Where AI is going
+to show up every day, every time, respond in a timely manner, and be able to book more appointments on your
+business's calendar for you directly from your website. So once again, if you guys like this video, go ahead,
+smash the like button. If you thought this was cool, some of this AI tech, consider sharing it with a friend
+or a business owner that you might know that might find this valuable. And then once you've done that, go
+ahead, drop a comment down below. And I actually know the founders of this software company, and they hooked
+me up with an extended 30-day free trial to give you where normally, if you go to their main website, it's
+just a 14-day free trial. So, I'm able to give you an extra couple of weeks to go through and get this set up
+for your business, get it all running, get it all started. Plus, like I said, if you just drop a comment down
+below, I'll hook you up with my private link to unlock all my free AI training templates, scripts, so you can
+use those in your business. So, anyway guys, thanks so much for watching. And with that said, I'll see you in
+the next video. A quick shout out to our sponsor, aimessagebots.com. You can now use AI bot automation to
+automatically book more appointments for your business. So, go to aimessagebots.com right now to learn more
+and start your free trial. Real quick, if you want to start your own digital agency and get all of my courses,
+weekly coaching, snapshots, and templates, I'm giving it all away for free. No upsells, no payw walls,
+nothing. All you have to do is go to launchmysoftware.com and sign up for Highlee with my affiliate link and
+you'll get free access to everything that I offer. And although I can't guarantee your success or results,
+this is literally the same course that hundreds of others have gone through to make their first dollar online.
+And inside this program, I'll show you how to get your first clients, how to fulfill for those clients, and
+I'll give you a professionally designed website that all you have to do is swap in and out your logo. You'll
+also get three of my proven salesunnel templates that have helped me grow my own business to thousands of
+clients, paying me every single month. I'll even talk to you weekly on Zoom so you can ask me questions
+directly to help you succeed. So, if you want all this for free, just go to launchmysoftware.com and sign up
+for Highle with my affiliate link and you'll get free access to everything that I offer.

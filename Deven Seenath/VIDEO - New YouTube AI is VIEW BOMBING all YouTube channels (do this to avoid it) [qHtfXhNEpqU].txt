@@ -1,0 +1,124 @@
+Title: New YouTube AI is VIEW BOMBING all YouTube channels (do this to avoid it)
+Channel: Deven Seenath
+Type: VIDEO
+Video ID: qHtfXhNEpqU
+URL: https://www.youtube.com/watch?v=qHtfXhNEpqU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T15:07:27+00:00
+
+Kind: captions Language: en So, I'm sure you've heard of view jailing, where basically YouTube limits the
+amount of reach you get on a video because YouTube deems that it's not trustworthy enough to get pushed out or
+it doesn't keep people on the platform long enough. This is usually known as like the 30,000 view jail or
+maybe the zero view jail or even, you know, 100 or a million view jail. But, this is completely different. I
+have two example channels here that were previously getting millions of views per day that have been dropped
+to just a couple thousand views per hour. You can see the giant drop. I'm sure a couple you guys have seen it
+already. This is what I'm calling a viewbomb. It is so recent with YouTube's like algorithm. I think I'm one
+of the first people to talk about this. Um YouTube is basically viewbombing channels now. And first it came
+with, you know, YouTube was banning channels because they were thinking some channels were not worthy to be in
+the program and then they would just straight up terminate other channels. There was a whole thing about it.
+It was so big Moist Critical made a video on it talking about, you know, YouTube basically just banning a lot
+of creators out of nowhere. I think almost eight million channels have gotten banned and it's still an ongoing
+issue. And now YouTube's AI has a new issue where they're bombing channels like this or like this or even in
+our Discord server where people are just getting absolutely viewbombed like this right here. It just keeps
+happening to creators and I have just noticed this keeps happening over and over again. So, I want to take the
+time today to talk about it and an actual solution on what to do to actually fix it because there's a lot of
+creators suffering from this viewbombing. It is absolutely absurd. But luckily, I do have a solution today for
+you guys to temporarily and hopefully permanently fix this and then also I'm going to drop some sauce about
+why this is happening. So, in order to actually fix a problem, first we have to understand what causes the
+problem in the first place. So, YouTube's new AI that they recently released the past couple of months ago has
+basically been going haywire. You guys have seen it with the banning and everything like that. But the reason
+why this AI is temporarily banning or I guess viewbombing specific channels is because they believe that the
+channels are actually viewing, right? So, basically the AI bot is assuming that the channels that are getting
+millions of views are botting. So, the actual YouTube algorithm viewbombs this entire channel. Now, what's
+awful about this is there's a lot of channels, including my own, that get views, you know, just organically,
+of course, and you will randomly get viewbombed because YouTube's algorithm thinks that you're view botting.
+Now, the reason it thinks that channels are view botting is usually because a increase in substantial views
+over a very short period of time or just a glitch in the actual algorithm itself. There's actually not been a
+specific identification for this. I have noticed this is happening with faceless channels much more than face
+channels, which is going to go into our first solution in a second. But the main cause of this is faceless
+channels that have low trust scores or did something wrong. So, for example, this video here had a very high
+trust score. Sorry, this channel here had a very tr high trust score. And you can see here, you know, we were
+making like $67,000 a month on um this channel. This is actually one of my students channels. And they
+randomly got a strike, right? When they got this strike, they basically instead of appealing the video, they
+actually deleted the video instead. Rule number one, when you delete a video after you get a strike or a
+copyright claim or anything like that, when you delete a video, your trust score decreases because YouTube
+thinks you're hiding something. And guys, you cannot hide a video from YouTube. YouTube owns the platform.
+It's impossible to hide a video from them. So, you guys trying to hide these videos actually end up banning uh
+or sorry, viewbombing your video or your channel, which makes your trust score go down, right? And when your
+TR score was down, of course, you get suppressed. Now, if you get suppressed at this level, it's probably
+because it was actually a serious offense strike and before you appealed it, you took down the video. And this
+basically just makes YouTube lose all, you know, trustworthiness with you and you'll get banned or
+shadowbanned. This is the first cause. The solution, do not take down a video that has been strike, copyright
+claimed, or anything like that. All right? Don't delete the video. You can private the video. Do not delete
+it. You will ruin your trust score. All right? Now, if you want to fix this, what you can do is start
+uploading videos with your face on long form content. So, we've actually tested this and uploading long form
+videos with your face starts rebuilding your trust score slowly. So, if you don't know what trust scores are,
+if you just go to my channel, you'll literally see this 1hour video. It's like 1 hour long. It just explains
+everything with trust scores. But, it kind of goes into depth of everything you need to avoid when you are
+actually dealing with this problem. Now, the other thing you need to understand about fixing this is face
+content is one good solution. Another good solution is actually going to your settings and turning off a
+specific feature called publish to subscriptions feed. So, for example, if you actually went to your channel
+or whatever video you're about to upload, if you scroll down, it's going to be right underneath licensing
+right right here. It'll say publish to subscriptions feed. If you turn this off, what it'll allow it to do is
+it'll publish to nonsubscribers. I've noticed a big issue a lot of these channels that are getting suppressed
+are having is these videos are only getting pushed to people who are subscribed to your channel, right? So, if
+you want to basically negate that, we basically turn off the feature where it shows our video to subscribers
+and it gets a new audience. Now, this is also another way to jump start your channel. The third solution is
+also making sure you keep uploading. A lot of people when they see a dip, they get scared and they stop
+uploading because they think they did something wrong, which is probably true, but don't stop uploading
+because this will actually decrease your trust score further. Consistency builds trust with YouTube and it'll
+also just build um, you know, just more credibility with the algorithm. So, for example, like this channel
+right here, it's getting suppressed pretty hard right now, but I'm pretty sure in a couple days it will pick
+back up. I've had a couple of friends telling me the same thing that like, hey, their channel got suppressed
+and then they uploaded a couple days and within like eight days or so, they were able to get pushed back out.
+Another thing, eight days. This is a very, very important metric for you guys to understand, right? This is
+actually 8 to 12 days is what I've seen from my testing. And keep in mind, this is an ongoing issue. So, like
+these solutions may not exactly help you how you would like, but it can definitely start you in the right
+direction to getting the help you need to push your channel. But this 8 to 12 days, this is called the test
+and rebalance period. I talk about this in so many of my videos. YouTube takes around 8 to 12 days to go
+through a a TB period, a test and rebalance period. What this does is it allows YouTube to gather enough
+information to determine if they should increase or decrease your trust score. So remember, if you already
+watched the 1hour video, you understand what trust scores are are. It's kind of like a credit score, right?
+And as you guys know, every month your credit score either goes up or goes down, right? This is kind of like
+YouTube's updated version of their credit score, but it's for, you know, the YouTube trust score itself. It
+takes 8 to 12 days for your, you know, trust score to update. There's no actual way to see the number your
+trust score is at. When you're making a software that kind of helps you see it, but in general, you don't you
+don't need that. As long as you look all your analytics, you see everything is doing well, then your trust
+score is high. If you're getting suppressed, your trust score is low. All right? So, this is an ongoing issue.
+I just wanted to bring this to a lot of people's attention. If you are suffering from this issue, comment down
+below and actually go and join our Discord and we can talk about this a little bit more because we're helping
+students right now individually, you know, help um break out of this and just people in general in the Discord
+for free. We're just helping them break out of this. So um yeah, I recommend just really try to implement
+everything I said here with the face videos um trying to upload consistently and making sure you turn up that,
+you know, setting with publish to subscription feed. It'll help. Also, the last solution sometimes it's just
+starting new channels, man. I know it sucks, especially when you're making thousands of dollars and you
+randomly just get suppressed. YouTube's AI has been so stupid recently with all the banning and everything and
+it's been very difficult for us as creators to survive because of everything that's happening right now, you
+know, with all the banning. It's scary, bro. Like, if you guys don't know, man, I run 36 channels. Like, I I
+run a buttload of channels and I have all of this underneath different LLC's and, you know, different Gmails.
+Um, and it's very scary for me because if I lose one account, I'm probably going to lose five others. Um, and
+with YouTube's stupid AI banning, like I I make sure, dude, I have a very big team that goes behind me and
+helps me make sure we pass the policy every time. And we've had a couple accounts getting terminated. Luckily,
+these are underneath smaller LLC's, so I didn't actually lose that many channels with the entire process. But
+I've had a couple channels that just, you know, have gotten just completely wrecked because, you know, uh
+we've just gotten terminated, you know, and it it's just it's very unfortunate. It's it's very difficult for
+us because, you know, YouTube's AI has been so so gay recently, but you know, like for example, this channel,
+it got it got terminated and there was nothing we could do about it and there was nothing we can do about it.
+just it's just gone and there was no reason behind it, you know. Um now the best way you can do um I actually
+have a YouTube ref that helps reinstate a lot of my channels. So like I've gotten banned other times and
+gotten reinstated because of him. Um but um you can also contact them on Twitter as well. See what's going on.
+Say, "Hey, am I, you know, my views are getting suppressed or something like that and I believe this is a
+mistake. Can you please take a look at this?" I don't think they're probably going to help me too much, but
+you can definitely contact them and contact and support can also help as well. But um yeah, I mean those are
+the main things you can do. Also, live streaming can help increase your reach as well. If you start live
+streaming temporarily, it could maybe boost your views up. Um but yeah, those are all the solutions I got for
+you guys. I hope this is helpful, man. I mean, I know this like this video may seem a little bit like air, but
+at the same time, this is an ongoing uh problem. You know what I mean? So, there's not too many solutions.
+This is what I've seen have worked for other YouTubers and it's kind of worked for me a little bit, right? It
+hasn't completely revived my channels, but a couple of my channels have gotten picked up just a little bit
+from the algorithm from doing those changes. So, anyways, I hope it's helpful. Um, if you guys have any
+questions, just go ahead and comment it. Um, guys, if this is happening to anyone else, share with them and
+just let them know. And, um, yeah, anyways, that's going to be all. If you guys want a free 10-hour boot camp,
+I have it linked in the description. And also, that's where you can join the Discord as well. I'll catch you
+guys later. I love you guys. Subscribe. All right. Bye.

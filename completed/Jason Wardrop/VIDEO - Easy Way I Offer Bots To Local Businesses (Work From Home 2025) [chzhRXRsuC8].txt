@@ -1,0 +1,134 @@
+Title: Easy Way I Offer Bots To Local Businesses (Work From Home 2025)
+Channel: Jason Wardrop
+Type: VIDEO
+Video ID: chzhRXRsuC8
+URL: https://www.youtube.com/watch?v=chzhRXRsuC8
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-11T10:32:22+00:00
+
+Kind: captions Language: en I want to show you two simple automations that take about 10 minutes to set up and
+once you set them up you can pretty much write your ticket of what you want to charge any small business owner
+and they will continue to pay you on a monthly ongoing basis because of the massive value that you're going to
+create for these businesses and the best part for you I have nothing to sell you I'm going to show you
+everything in this video step by step and if you just smash a like button and share this video with a friend
+that you might want to do this with and then drop a comment down below once you've done that I'll share with
+you a private link to unlock my free step-by-step course plus templates plus scripts plus an extended 30-day
+free trial to the software that I'm about to show you how to set up these simple automations and the cool
+thing is is you don't need any prior marketing experience or Tech skills to set up these simple automations I
+show you here in just a few minutes how you can get everything set up in about 10 minutes it's a one-time
+setup and then the automations will continue to do the work for you on a monthly ongoing basis that way you
+can continue to charge a monthly retainer to make monthly recurring revenue on a pretty semi- passive basis
+okay so now that you've smashed the like button and you shared this video with a friend let me just show you
+guys exactly how to set this up step by step so what we're going to do is come over here to the simple
+automation software and since I told you we're setting up two simple automations we're just going to click on
+this automations tab now as I mentioned this is a two-part automation sequence that takes less than 10 minutes
+to go through through and set all this up but what we're going to do first is set up part two and you'll see
+why here in just a minute so we're just going to go over to create workflow start from scratch and then we'll
+just click got it right here and what we're going to do is add an action and I'll just move my head so you
+guys can see this a little bit better and this one is called the Eliza AI appointment booking bot so we'll
+just click on this and now from here we'll choose what calendar we want the appointments to be booked on for
+this small business owner so this is obviously a demo so we're going to say book a demo right here and then
+the total bot processing duration number of hours we can do whatever we want I'm just going to put in three
+right here and then for this example it's just going to say do you want to book an appointment and one thing
+that's pretty cool is you can actually come over here and you can add a custom value that will automatically
+be updated with every contact that this bot reaches out to so we're just going to say contact and we're just
+going to say their first name so for example it would say like for me it would say Jason do you want want to
+book an appointment and for this we're just going to click on Save right here and you can see it created all
+these different conditions so it's going to go and look at each individual contact and say did it book an
+appointment and if it says yes you can easily go over here and add a tag saying the appointment was booked and
+I'll even just do that really quick just to show you guys you just hit that plus button right there we're just
+going to say tag add contact tag and we'll say demo booked and we just click on add new tag and click save
+action super easy to go through and do and then did the bot time out so what we're going to do if it times out
+is we're just going to go and copy this action right here this AI condition we're going to say copy copy
+action and we're going to copy it right here because now what it's going to do is going to time out for about
+3 hours and then if the person hasn't responded the bot is going to automatically follow up that person send
+out another text just to go through and try to book another appointment and then over here what we can do is
+if the person did not book an appointment but they responded to the initial text then we can notify the sales
+rep or we can notify the business owner and that's what we can go through and set up over here now you might
+be looking at this and being like okay well Jason how do we actually get people responding to these messages
+right here and that's where part one comes in so what we're going to do is we're just going to name this one
+part two and if you're looking at all this pretty easy so far right I've sh shown you exactly what to click
+how to add tags everything from A to Z and we can go through we can hit publish save and so this is ready to
+go now if we come over here to back to workflows we're going to create part one of this whole sequence so
+we'll come over here to create workflow we're going to do start from scratch and then we're going to go over
+here and we're just going to do name this part one and then what we're going to do in this automation is we're
+going to go over here and click this add button and we're going to do send SMS and primarily what we want to
+do is work with small business owners that have a database of phone numbers which that is actually most
+businesses out there that have been in business for any number of years because they're going to have a
+database of past clients of people that they've worked with and we want to go and just basically reactivate
+this database and get them coming back so for this example let's say that we are a dentist and so we're going
+to come over here we're going to say contact first name so it seems a little bit more personal Jason do you
+want free teeth whitening right something like that and then we just go and click save and we're trying to get
+a response to this initial text right here okay and then if they don't respond to this initial text you can
+also go through and say hey we want to wait 4 hours or something like that or whatever the time frame might be
+so we'll say four hours let let's come over here wait 4 hours save ction and you could send another text hey
+just wanted to follow up are you sure you don't want that free teeth whitening right so just go and add
+anothers over here send SMS and you get the whole idea okay so you go through and you type that in I'm not
+going to do that just for the safe sake of time but you could even send another message a day later or
+whatever it might be and now what you do we'll just hit publish on this and save and the trigger for people to
+enter into here we're just going to add all of our contacts with phone numbers into this sequence right here
+and the cool thing is is if you're like wondering well Jason I don't want them to continue to get text if they
+responded you can come over here and click on stop on response and so what that stop on response does is if
+somebody responds obviously after that first text message it won't continue to send them messages and so now
+we come back over to workflow number two and we say okay in order what's going to trigger this over here is
+people replying so we'll say replied customer replied and I'll just move my head again and we're going to add
+a filter and we're going to say they replied to a workflow and we'll say the phase one right there save
+trigger okay so now we just click save right there and the way this is all set up is now we go and we take our
+contacts and this is just a demo account right here but we take all of them right here and we would add them
+to the phase one workflow so okay proceed and then so add them all to phase one part one right here and then
+you add an action click add to automation obviously this is a demo account doesn't have phone numbers or
+anything like that these are all demo fake contacts anyway um so it would add them all in and they would get
+that first text right away that is saying hey hey do you want a free teeth whitening the one that we set up
+just right here and then if they respond to that it's going to automatically send them in to this part two and
+remember it's going to stop on response so it's going to on part one it's not going to continue to send the
+multiple text messages out but it's going to send them into this part two automation where now the AI
+appointment booking bot is going to be going through and auto booking all of these people that respond in a
+positive way on the calendar and it's going to add a tag and then if the bot times out we can go through and
+say hey AI conditioned did a book appointment so it's going REO back through this entire process and right
+here we can add a tag again the same exact tag that we added over here so that it all maintains so we got the
+demo booked and then let me just move my head save action boom just like that and we've all set up so I know
+that was a little bit more in depth of a setup but guys literally those two simple automations you go get a
+business owner that already has an existing database with phone numbers you enroll all their contacts into
+that part one workflow that Automation and then the system is going to do everything for you and typically
+what's going to happen is it's going to book dozens of appointments for that small local business owner and
+typically what happens is it's going to book dozens of appointments for that small local business owner and so
+to get your foot in the door what you can do is say hey in the next 7 days how many appointments would you
+like me to book for you for free and I'm going to go through and set this up and book as many appointments as
+I can for free for your business which is pretty much a no-brainer offer every single small local business
+owner that has an existing database with textable phone numbers is going to want that and then once you set up
+these two simple automations like I showed you in less than 10 minutes for these businesses then just enroll
+all their contacts into that part one the system software the automations are going to automatically book the
+appointments and then once an appointment is booked they're going to be able to close the deal because they
+already have a proven existing offer that they know how to sell so you're not dealing with some newbie
+business owner that's trying to figure out their offer trying to figure out what they sell and how they do it
+and so these two simple automations are basically going to print money for the business owner which in turn is
+going to print money for you and so now what you can do is say hey on on average if I book an appointment for
+you what is the value of that appointment how much are you going to make and if they're like oh it's $300 or
+$500 or whatever the number is and you get let's say 12 appointments and it's $500 that's a $6,000 value and
+so you could go through and charge $2,255 200 just for that first initial appointment booking after the free 7
+days and then you go back to the business owner because you've already created massive value for for them and
+you say hey how would you like me to set this up for all new leads that are coming into your business every
+single new lead and it's all just automatically done on autopilot and they're probably going to be like oh I
+would love that and you're like well here's the deal if you hire me I'm going to be pretty expensive however I
+can set this up with simple software and automations and it's only $500 per month but it'll be able to
+continue to book you appointments just like I've shown you that we already have done for your business and
+because this small business owner has already seen the massive value and because they know that they're going
+to make money because they're booking more appointments the $500 per month is going to be a Nob brainer plus
+it's no additional skin off their back because it's not really any additional work it's just appointments
+automatically being booked by Ai and this is a simple service that you can set up I literally just showed you
+step by step how to go through and set all this up and like I said if you just smash like button and share
+this video with a friend who you'd either like to do this business with or you think that would find this
+business pretty cool and then drop a comment down below once you have liked and shared I will share with you
+my private link to unlock my free step-by-step course show you all the sales scripts show you how to get
+clients for free I'll show you how to fulfill how to set everything up in more detail I'll even give you
+website templates so you can have a professionally designed website template setup for your business the sales
+script plus we'll even have a free live boot camp to help you get this entire business set up in less than 45
+minutes tomorrow morning and we'll even jump on a one-on-one kickoff call to make sure that you understand the
+software and have everything set up the right way so with that said make sure you smash a like button share it
+with a friend drop a comment down below once you've done that and I will share with you the private link and
+with that said thank you so much for watching and I'll see you in the next video a quick shout out to our
+sponsor appointments for your business so go to aimage boss.com right now to learn more and start your free
+trial a quick shout out to our sponsor launchy software.com you can sell custom AI software to small business
+owners who already want to buy and you can keep 100% of the profits go to launchy software.com right now to
+learn more and start your extended 30-day free trial

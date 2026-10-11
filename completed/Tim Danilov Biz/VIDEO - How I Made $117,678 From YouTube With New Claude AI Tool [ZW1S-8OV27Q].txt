@@ -1,0 +1,208 @@
+Title: How I Made $117,678 From YouTube With New Claude AI Tool
+Channel: Tim Danilov Biz
+Type: VIDEO
+Video ID: ZW1S-8OV27Q
+URL: https://www.youtube.com/watch?v=ZW1S-8OV27Q
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T12:24:56+00:00
+
+Kind: captions Language: en Two months ago, I said that Claude is going to completely change the way faceless
+YouTube automation space works. Now, everybody is using it, but Claude by itself is absolutely useless. It
+doesn't have access to YouTube, it doesn't know what goes viral and what not, and it gives you wrong tips. So,
+we've built a custom AI software designed for faceless YouTube that lives inside Claude. So, in this video,
+I'm not showing you Claude prompts like everyone else. I'm not showing you the next level MCP promising that
+it's revolutionary. I'm not using Al Grow or any other tools that you've already seen. What I will show you is
+an entirely new approach to automating faceless YouTube business, my own AI that the world has never seen
+before. This is literally the first video that I'm making on it. The seven-step strategy that will help you
+launch a channel in 30 minutes instead of three days. And if you don't know who I am, my name is Tim. I'm the
+founder of the Art of War channel where we've done 4 billion views and over 300 thousand dollars in revenue.
+I'm a co-founder on channels like Zack Films that recently crossed a million subscribers and almost at a
+billion views and 100K in revenue. And wholesome vending where we've done 1.5 billion views and 150 thousand
+dollars in revenue in the first seven months of running this channel. So, I'm running a portfolio of branded
+channels that does 5 billion views and 700K per year in total. I've done YouTube before with astonishing
+success and I keep doing it now. I'm not just sharing all of the knowledge that I once had. I'm actively
+running all of those channels right now. And the only reason I share all of this knowledge is with the hope
+that one day you'll join the Art of YouTube, scale your channel to 5,000 dollars a month so I can later invest
+in it and help you scale with my team and systems even further. So, today we have an insanely viral faceless
+YouTube nation. I'm going to I'll you how you can replicate this channel in literally 30 minutes of time.
+We're going to talk about Chloe versus history. If you haven't seen this channel, it's absolutely insane
+because it started posting long form a month ago. Their first video generated a million views, 1.9 million
+views then, and 2 days ago they posted a video that sits at 800,000 views. It's absolutely phenomenal, and all
+of their videos are made with AI. As you can see here, this is just an AI influencer that time travels to a
+specific historical event, and they do it in a very cool vlog style, something that the world has never seen
+before. So, this is the blue ocean that any one of you can now enter. And in this video, I'm going to show you
+how to do it, starting with niche bending. Because when most people are going to copy this channel's strategy
+and are literally going to steal those videos and copy the style, I want to do something different, creating a
+new market for myself. So, we're going to niche bend it, and if you don't know what niche is, it's basically a
+combination of format and market. The format in this case is the vlog style, so we're going to keep it, but
+the market can be different. To do that, I'm going to copy this prompt. This is the Claude prompt that I'm
+going to use right away, and we're going to niche bend this channel into whatever it is that that we can find.
+So, as you can see, Claude will now speak with the Art of YouTube program, and it's going to niche bend this
+channel for me. Very simple prompt, nothing complicated. It's not a page of the Google document, and it will
+quickly get back with a couple of niche bend ideas. As you can see here, it already figured out that this is
+the format that we're trying to niche bend. Art of YouTube has direct access to YouTube, meaning it can scan
+through titles, thumbnails, script, the entire video, and its visuals as well. And these are the niche bands
+that we get recommended. The first one is the one that I quite like, the financial history. I time traveled to
+2008. This one can work and will definitely have a very, very high RPM. I I quite like this one. As we can
+see, Art of YouTube is already recommending us the channel that we can replicate and take ideas from. Time
+Time travel to Wall Street. I would combine that with the first, probably, and just do channel finance. I
+explored the deepest part of the ocean. This one is cool. Those videos are getting insane number of views.
+Time travel to ancient Egypt pyramid built. Pretty similar to what Chloe already does. I went inside a human
+body. This could be something very new angle, very fresh, totally untapped market. Time travel to the first
+moon landing. This one is good. Time travel to the Wild West. Time travel to medieval plague town. All right,
+so after a minute of research based on the niche band that Art of YouTube AI recommended me, I've landed on
+this channel that generated almost insane amount of views. Their videos about Victorian London, Russian
+voyage, voyage, the Wild West. All of their videos generated millions of views, and all of them can easily be
+adapted to the style that that we want to use, to the format that we want to use. Which means that we now have
+our niche band locked. Now, we need to talk about ideas, because people don't want to watch new videos on
+YouTube. They want to see old ideas with new wrappers. For car lovers in my audience, you will understand this
+example. We all know that Audi RS Q8 is the exact same car as Lamborghini Urus, and basically they just added
+small touches here and there, wrapping the car in a different wrapper, and that's it. But the idea behind the
+car is the same. The the whole thing is the same. And this is why, for example, this video exploded because
+it's just a new wrapper for the previously viral idea. So they literally took the video that exploded 4 months
+ago and was AI-generated, and they adapted it for the Stickman style. So this is a hard rule for you to
+remember. People don't want new ideas. They want old ideas with new wrappers. And this is how I landed on this
+channel, and I think it's the best channel we can adapt for the new vlogging AI style because we can make our
+character travel to the Victorian London, to Russian Voyage, to the West, to the radioactive nuclear like
+explosion in Chernobyl, or whatever it is. So their videos are already going blowing up, and I'm going to use
+Art of YouTube AI again to adapt all of them to our new channel. So what I'm going to do is I'm going to copy
+this prompt. I'm going to go back to the same session. I'm going to just paste it here, which will instantly
+tell Claude and Art of YouTube AI that this is the niche band that I'm choosing, and this is how you should
+adapt it for the new niche that that we're now just creating. Now you can see how Art of YouTube did a few
+rounds of analysis. It has access to all of your past data, so it knows exactly where you at with your
+faceless YouTube journey. And now yeah, I pulled data from the Chloe versus history channel, and it prepares
+your strategy for bending it into uh the new niche that we just created. Now, here's 15 adapt titles and uh
+basically the reason why this style was chosen. I tried to survive a World War I trench. Insanely viral video.
+I tried to survive the Black Death. I tried to survive Ancient Rome. I tried to survive a Viking raid. I
+really like that. Uh the Titanic, obviously this video was already posted. Napoleon's army. So, there's
+probably like six ideas that I instantly like. I think that the first one that we're going to go with is the
+World War I trench. Or I would also adapt the probably the Russian voyage because that's the second most
+popular video on the channel. Uh so, I think this idea has the most sense. Now, when we have those ideas and
+when you saw that it literally takes 10 seconds, 15 seconds for AI to think, uh to give you actually proven
+ideas because every single idea that AI found was previously executed on YouTube. So, it's not just random
+random ideas that ChatGPT can come up with on a basic prompt. Uh AI did an actual research. It has access to
+YouTube now because of the Art of YouTube program and it gave us ideas that already went viral on YouTube.
+Now, step number four is scripts. So, for scripts, what we need to do is to understand that the old scripting
+model is done, it's dead. Uh YouTube's inauthentic and repetitive content policy officially ended any basic AI
+writing. You can no longer go on ChatGPT and ask it to write a script with a basic prompt. It doesn't work
+anymore. You're going to get yourself banned. If you're still using ChatGPT to write your scripts, it's only a
+matter of time when your channel gets hit. To actually write with AI, you need to A, figure out proper format,
+then and you need a storytelling framework, hooks and rehooks, bit by bit structure of the original script.
+You need 100 plus different templates because you cannot longer script your videos following the exact same
+structure all of the time. You need a deep research and sources, AI slop checker, inauthentic content checker,
+and repetitive content checker. All of those things need to be checked in order for you to actually write your
+scripts with AI. And you cannot do it without a proper direct access to YouTube that Claude and ChatGPT do not
+have. In order for AI to actually write your scripts, it needs to understand data. It needs to have this
+direct access to YouTube. None of them actually have it without an MCP that you can create. So, inside of my
+Claude, you can see that I have the art of YouTube as a connector, which gives Claude direct access to YouTube
+so that I can ask it things about recently viral videos, and I can ask it to write scripts, and it already has
+all of the proven frameworks inside of it. So, what I'm going to do is I'm going to pick one idea, and I'm
+just going to copy and paste the prompt and show you exactly how easy it is to write scripts and create ideas
+once you have that AI. Um now, we've picked the idea. We just ask it to write a script. It will first analyze
+the original videos from the channel because it needs to pull the exact structure and storytelling framework,
+pretty much what I was explaining to you there. So, it will understand all of the hooks that work in initial
+of the like different storytelling frameworks and structures. It will pull in templates for itself, so you
+don't even need to provide it to AI, and it will later check the script for AI slop, inauthentic content, and
+repetitive content so that the risk of you getting hit is close to zero. Now, here we are. This is the script
+that that we get and the target length is going to be 14 minutes, which is very decent. And we'll let it
+finish because I want to run another prompt and I want AI to actually argue with itself and figure out what
+they can do better. Because inside of this Arvid YouTube connector, we actually placed my entire brain, hours
+of private one-on-one coaching conversations that I had with clients. So now AI can actually access all this
+data and it can provide you with feedback on whatever it is that you do based on your faceless YouTube
+journey. So I'm going to ask AI to access this brain and improve the script based on it. As you can see here,
+all of the checks are passed. AI slope is passed, the in authentic content passed and the repetitive content
+passed, but still I want to see if any knowledge in my brain in my AI brain can actually help us improve the
+script and you will see how it speaks with with virtual me. It speaks with it gets access to all of the
+coaching conversations that I had with all of our clients and now it will provide us feedback on the script we
+just written. >> 2,000 years later. >> And as you can see this way AI actually starts roasting the original
+script that it had written and it basically prepares different version of the hook, then it helps me optimize
+the pacing and retention dips, adding the re-hooks according to all of our frameworks and removes the CTA.
+Now, if I want to rewrite it, I can just ask it to rewrite according to all of the feedback that AI provided
+to AI and it will make a revised version of the script that will instantly get better. The entire process
+takes literally 10 minutes from basic ChatGPT prompts or using script writers from Fiverr to writing
+high-quality scripts made with AI that actually passed their inauthentic check, the repetitive content check
+and all other checks and that sound like they were written by a human. This is what's possible with the Art of
+YouTube MCP. Now, in order for us to actually create the video, we would need the character and this is where
+first I'm going to talk to Art of YouTube again. I'm going to ask it to create the Nana Banana prompt because
+we taught our MCP to create those and here we are. Now, we're going to just copy this prompt and I'm going to
+go to Nana Banana to generate the character image. >> One eternity later. >> With that, we're going to have a
+very realistic character that is already riding some kind of a old World War train. It looks mega realistic.
+We can upscale the image to make it even better, but I think that this is already satisfying enough for us to
+proceed with the next step, which is going to be to generate the voiceover. And the recommendation here to
+stay safe from any inauthentic content claims, you should not be using voices that already exist. Instead, you
+should be creating custom voices. So, I'm just going to go ahead and ask Art of YouTube MCP to create the
+prompt for 11 Labs to design the voice from scratch. I'm going to go to voice generation and I'm going to
+create a brand new voice from scratch. So, we're going to do voice design and we're going to paste this prompt
+that we get from rdvewmc p. And uh we'll generate the voice. >> It's It's a strange feeling, isn't it? This
+quiet before everything begins. You can almost feel the city holding its breath. I've seen it before. >> I
+think it's absolutely amazing. >> It's a strange feeling, isn't it? >> This one is a little bit >> It's It's a
+strange feeling, isn't it? This quiet before everything begins. You can almost feel the city holding its
+breath. >> You can see how it's way better than all of the typical ElevenLabs voices and what's like the best
+thing about it is that it's going to be unique. Nobody is going to have the same voice on YouTube even if they
+decide to steal your niche. They won't be able to find it. They would have to generate it and for that they
+would have to have the exact same prompt that AI MCP gave them. So, I'm going to choose the the first voice.
+I'm going to select it then I'm going to give it a name. Let's say test Chloe. And with that we have the voice
+for our characters. We already have the visual, we have the voice. All of it was done in less than 5 minutes.
+Literally just going step-by-step-by-step and in this video I'm sure that you already understand how quickly
+it now becomes to launch and copy the entire faceless channel. Because step number six is we need to generate
+the scenes and this is something that used to take literally hours of time, but right now I'm just going to go
+ahead and ask AI to take the script that it written and then access the R 12 program and figure out what's the
+best way to create visuals for the script. So, it will create an entire storyboard with prompts. So, we simply
+copy and paste those prompts to Nana Banana and generate the scenes for the entire video in one go. Later, you
+can even automate this process and have AI Claude AI reach out to Nana Banana through API and create those
+scenes for you. For now, we're going to do the manual process. We're going to basically do it ourselves. So,
+in this prompt, I asked Claude to fill in this document and we'll see all of the prompts inside of it. I
+really like to work inside Google documents because it allows me to share them with my team and everything.
+So, that's what we're going to do. As you can see, it is already accessing the file and it's about to start
+writing this this prompts for me. >> 1 million zillion jillion dillion cotillion times later. >> All right.
+So, Claude just finished. We now have all of those Nana Banana prompts step-by-step and what we're going to do
+is we're going to copy and paste this prompts into Nana Banana same session as where we have the character and
+we're going to see the quality that we're getting from it. All right. So, it's done. As you can see, at this
+point it becomes a very simple copy and paste process because you have the exact prompts to generate those
+visuals and uh uh Claude already prepared all of them for you. So, you have to just simply copy and paste it.
+Later, it is possible to automate the process. So, you don't even need to do that. At the beginning to dial in
+the prompts, I recommend you still do it manually. Now, the last part of the process is even simpler. There's
+a bunch of videos on YouTube on how to do that. I'm not going to include it into our video. My goal is to show
+you the strategy and the logic behind it, and I'm sure you can figure out the tools on your own because then,
+once you get all of those visuals, you just go on Clean Kai and you just generate another set of prompts for
+Clean Kai to turn every image you have in a video. And by putting this together in CapCut, you get a unique
+vlog-style video in the niche that we just created. So, copy and paste those those prompts like first you send
+this prompt to the Art of YouTube AI inside Claude, so it generates you a set of prompts for Clean Kai. Then
+you copy and paste it there and you get the highest quality videos possible in the shortest period of time
+because you don't even need to script the those prompts to prepare those prompts yourself. Now, step number
+seven is going to be complete automation because once you get access to the Art of YouTube AI, you can
+automate video process for you. Art of YouTube AI will find niches for you on autopilot and bend them every
+single day. It can find ideas and write scripts pretty much like I just showed you in this video. It can write
+storyboards and prompts. Then also reach out to Gemini through API and generate those visuals for you. It can
+set up automatic notifications to your team or your VA so that basically they get notified when another video
+is pending and it can give you my own feedback, feedback of the virtual myself so that you can access my
+knowledge 24/7. Claude routines already allowed you some of that, but with the Art of YouTube AI Claude gets
+direct access to YouTube, thousands of videos that we analyzed, hundreds of niches that we find on the a
+basis, uh our entire database of my knowledge. Think of it as Neo who downloaded the skill of karate.
+Basically, Art of UTube BI is the skill of faceless YouTube that you can install inside of your cloth, giving
+your cloth an unfair advantage compared to all other AIs that exist in the current space. So, you don't need
+hundreds of subscriptions to thumbnail tools, scripting tools, niche research tools. You need just one
+subscription to Art of UTube BI that gives you access to all of the tools that exist in the faceless YouTube
+market. So, with that said, if you want to be in the first 50 people to ever try the new AI that we've built,
+I'm looking for five more people in May to join the Art of UTube program. We're not releasing this AI publicly
+because it's too powerful and gives our clients an insane competitive advantage. So, if you want to get access
+to the Art of UTube BI, you want to work with me and my team one-on-one on launching and scaling your YouTube
+business to $15,000 a month, I have dozens of messages from those who already tried it. So, we have people
+getting gold play buttons, uh blowing their channels up to uh 7 million views over the course of a few days.
+We have people getting monetized, blowing up, making $2.8 thousand a day, blowing up to uh 100,000 views. Uh
+but most importantly, we have testimonials like that. I just want to show you what do people say about the Art
+of UTube BI. Austin, I spent 6 hours today using Art of UTube BI to analyze a niche that I went to before I
+joined the Art of YouTube. Um this niche is saturated, it told me that. Uh it helped me understand the uh the
+formats better, and I created over 20 scripts from the research. Amir, I was up till 3:00 a.m. talking to the
+AI team and honestly couldn't stop. Uh it roasted me in the best way, and I managed to ask it all of those
+silly questions I would normally bombard Tim with. A backup version of Tim is genuinely a game-changer because
+there's no way he can give this level of attention to everybody. It reviewed my thumbnail, gave me feedback on
+what's missing, and got me thinking about branding and style consistency. So, everybody who already got access
+to The Art of YouTube, AI been using it on a daily basis five to 10 times a day because that's the only tool
+you actually need to create your faceless YouTube channel and scale it to $15,000 a month. So, with that, I
+know that we've built something that faceless space have never seen before. So, the first link in the
+description will take you there. Just fill out a quick form to see if that's the right fit for you, if it's
+going to work in your specific case. And if you join, then you'll get onboarded by myself. You'll get access
+to the AI. You'll play around with it, and you'll get an unfair advantage compared to the rest of the market.
+And as I always say, remember that you're just one viral video away from living the life of your dream.

@@ -1,0 +1,217 @@
+Title: Claude Code Is Changing How I Run My Faceless YouTube Channels
+Channel: Tim Danilov Biz
+Type: VIDEO
+Video ID: ZHWOElfYx5o
+URL: https://www.youtube.com/watch?v=ZHWOElfYx5o
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T12:38:03+00:00
+
+Kind: captions Language: en My faceless YouTube portfolio generates 700k per year and I built it the old
+[music] way, but Claude Claude is changing way around it in real time. I built a set of five AI protocols that
+run my entire portfolio on autopilot. They analyze niches, find ideas for my videos, [music] script them,
+manage the pipeline in Asana, and even post those videos across all platforms for me. And if you don't know
+who I am, my name is Tim. I built Art of War to over $300,000 in its first year [music] and currently run a
+portfolio of branded YouTube channels you all watch and recently we let go of our script writing team and I
+don't have channel managers anymore because of the advanced AI protocols I built with Claude Claude. So, let
+me show you how it works starting with niche research. So, for niche research, I built a protocol called AI
+clerk and clerk is a nerd and it does a very deep competitor research, analyzes every single pixel of the
+their channel and it provides me a significant amount of data for me and for other protocols [music] because
+they all work as a team finishing the work one after another. [music] And to show you how it works, let's
+actually just give it a go. So, we'll open [music] a channel. Let's take Balloon as an example. They just
+recently exploded, started [music] posting two months ago, already generated 7.6 million views. A channel that
+is completely made with AI. So, let's try and analyze that with Clerk. So, I'll just run the protocol Clerk
+and I'll paste the link in the channel. As you can see, took me exactly two seconds and what Clerk is going to
+do, it will first ask me if it should analyze long form or short form. Obviously, we want it to analyze long
+form, but after that, it will start cooking. It will take him some time, but essentially it will create an
+amazing SOP [music] for us. So, I'm going to let it cook for a few minutes and come back. A few moments later.
+All right, so Clerk just finished and it analyzed the channel and it put three [music] SOPs for us in the
+spreadsheet. So, let me show you exactly what it prepared for us. Again, you remember how much time it took me
+to launch the protocol and I can run multiple of those protocols simultaneously. So, I can analyze 15 channels
+all at once without even watching their videos because here's what Clerk did. First of all, it analyzed the
+thumbnails and it prepared a description of each thumbnail. Then, it put together a full transcript of [music]
+the video and it's very important because then we'll analyze the scripts and I'll show you the SOPs for
+scripts as well. Analyze the hook type, the exact text of the hook, the hook frameworks, so it basically
+templatized all of their hooks. It also created the structure of their videos and basically gave examples
+[music] for each one of them. Analyze the story telling framework, the re-hooks they were used, [music] their
+retention patterns, the CTAs, and everything else. I don't even need to read this spreadsheet. We will need it
+later [music] for other AI protocols that will then niche bend and script bend for us, but right now it's just
+important that we have this spreadsheet with an enormous amount of data that would took us probably a whole
+[music] day to collect, but Claude did it on autopilot and all I did is launched the the protocol. Now, it
+also created two SOPs. One SOP for people, for humans, and the other one for AIs and these are the exact same
+SOPs just optimized for different reasons. The first one is script writing SOP that goes over exactly how to
+write videos, write scripts for a channel like that. It breaks down the common themes, it breaks down the hook
+playbook. This one is probably my favorite because it gave multiple formulas for the hook with a template,
+with examples, with like use cases, and like basically breakdowns of why it worked and it did it for multiple
+of those formulas and you can read through that. It's actually amazing. So, like all of those templates,
+examples, and reasons to work. It also prepared the structure for the entire video. So, prepared the templates
+[music] for videos like Balloon. And the reason why it's important is because now you don't even need to watch
+their videos. You can just read through SOP quickly, understand how they their scripts work, and quickly
+launch a competitor channel or a channel with a niche bend where [music] you're going to create videos
+following those viral patterns, but you're going to be the first one to do it with a fresh angle. For example,
+looking at Balloon, you can easily bend it towards any other pets and you can have pretty much the same
+success. Besides cats, there are also rabbits, there are also dogs, there are also turtles, there are also any
+other pet [music] and you can run a dedicated channel for that and with the scripting SOP, it would be very
+easy for you to create those videos because instead of guessing or instead of using very basic AI prompts, you
+can now recreate the exact patterns that already worked for another [music] channel. As you can see, it
+basically like it like broke down absolutely everything. It's incredible. Now, it also created a copy of this
+SOP designed for Claude AI because AIs don't read like humans and the SOP that will be very easy to read for
+us is actually quite different from the SOP that is easy to read for AI. And because we're not going to write
+our scripts ourselves, we need an SOP for AI. And all of the protocols that I'm going to show you in this
+video are actually interconnected and they work with each other and exchange information. And this document is
+exactly what Clerk is going to give to the next AI agent that I have on my list. And so, as the result, you
+have an in-depth breakdown of why the channel works, how to replicate their success, >> [music] >> how to
+niche bend and create a new niche for yourself. >> [music] >> You have a list of their most popular videos and
+transcripts, so you can script bend them towards your [music] future niche. If you are a faceless YouTuber,
+this one is for you. I just let go my four cam on script writing team and replaced them completely with AI
+automation. This automation now delivers 30 ready-made scripts for my faceless projects every single morning.
+And if you want to know how I did that, on April 8th, I'm going to give you the exact same strategy that stays
+behind 5 billion views on my channels, >> [music] >> a database with over 50 ready-made script formulas that
+you can use, [music] and three AI agents I use to completely automate my ideation and scripting processes. All
+of it comes with a massive bonus of two weeks inside of the script bending boot camp where you and me are
+going to break down niches, channel strategies, script formulas, and more. So, click the first link in the
+description, sign up for the workshop before we increase the price. [music] And when you have all of that,
+it's time to launch the second protocol called AI Muse because >> [music] >> AI Muse is our ideation agent. It
+understands the difference between your channel and the channel that your competitors are running and that the
+one that you're trying to copy or replicate and it [music] uses advanced script bending techniques to research
+and find ideas with the most viral potential. Now, what it does, [music] it looks at your competitors every
+day at 9:00 a.m. It finds their outliers and prepares five unique ideas. You can change it to 50 if you want.
+Five unique ideas for each outlier and then it delivers those ideas in a spreadsheet for review. Again, >>
+[music] >> we switched from intentionally going to Claude and asking for ideas to Claude automatically
+delivering those ideas every single morning in [music] our spreadsheets. So, let me show you how it works on
+the Art of War example, the channel that generated [music] 4 billion views. So, on the first list, it
+basically just scrapes all of the videos from our competitors and it broke down like who's this video from. It
+gives me the link, the [music] title, also the transcript of the video, and most importantly, it analyzes
+whether or not we can script bend those videos to our channel. So, it understands context, it understands what
+our channel is about, and it understands whether or not we can use it. So, if you can see true, then the video
+will be moved to the second list. The reason it moves it to the second list is because it's where it will
+analyze the viral trigger, meaning why the video worked. And using this viral trigger, it will then find five
+unique ideas. So, it will turn on the deep research and it will go and find those ideas somewhere in the
+internet, on Reddit, Wikipedia, on any other like [music] from any other source, and it will put them in a
+spreadsheet breaking down the story angle, the exact facts and dates, >> [music] >> and it will tell you why
+this video is similar to the one that blew up for a competitor. This way, you use the scripting structure from
+a competitor, but you [music] script bend it to a new idea that you just found. And because all of it is
+happening in real time on autopilot, all I really need to do is to open this spreadsheet on daily basis. I
+would look through ideas quickly. I would then check box the ones that I like the most [music] and the next AI
+agent is going to script them for me. So, this spreadsheet is the only thing that I open on daily basis for 5
+to 10 minutes to approve the best ideas that I like and to let my scripting agent know that it can proceed
+with writing those ideas. So, as the result of this stage and the protocol Muse, every single day I have 5 to
+50. There's no limit. I can have 500 if I want, ideas delivered to the [music] spreadsheet for my approval on
+autopilot and it saves me so much time because when we had script writers previously, it used to take a lot of
+management to A, make sure that they actually deliver the ideas that they [music] promised, then check all of
+those ideas, then give them feedback about those ideas, then make sure that they're not sick, they're not
+they're motivated, they are they understand the direction of the channel, and etc. Managing people is always a
+headache. Managing AIs is way easier because they work 24/7 365 for you for 20 bucks a month. That's [music]
+the difference. And unfortunately for people, most of the AIs can now do a better job at scripting if you
+train them right. And AI Muse is obviously absolutely amazing. The channel been running on its ideas for a
+very long time now. Now, >> [music] >> it prepares everything for our next AI agent. And our next agent is
+called Protocol Poet because Poet is a scripting agent. And it looks for approved ideas in the spreadsheet.
+[music] And using our script writing SOPs, it writes scripts and adds them to our project pipeline on
+autopilot. So basically, Poet looks at this spreadsheet. It understands that [music] those are the ideas that
+I liked. It takes the ideas and using our SOPs, it writes the scripts. And besides just writing scripts, it
+also adds them to our Google Drive in a specific folder. And it also adds them to our project [music] pipeline
+on Asana. And I think that there's no better way to show you how it works than just running it. So as you can
+see, I have the scheduled [music] tasks here. This one runs on autopilot at 9:00 a.m. But right now, because I
+just approved these two scripts, I'm just going to [music] run it manually. So I click there, I click run now,
+and Claude will do everything for me. I don't need to do anything besides just clicking these two buttons. And
+Claude is now going to cook our scripts. And to show you how it works, I'll open our pipeline. [music] As you
+can see, we have those scripts for approval. The last one is 1076. So while I'm explaining you how this agent
+works, we'll just see how it is going to add a card to Asana. So what it currently does is it looks at the
+spreadsheet. It then gets access to our scripting SOPs. It figures out the right [music] template for this
+specific idea because we have more than 15 different templates. And four months for our content, it figures
+out the uh the template and it writes the script. And it just happened. So as you saw, >> [music] >> it added
+the card, it moved it for the approved section, and now we can go and actually confirm that the script was
+written and it is in the [music] exact folder where we need it to be. So as you can see, it created another
+folder in our basically shared drive. It created a Google document as well. And let's read through the script.
+Let's see what it came up with. A French Foreign Legion recruit would intentionally drink his own urine during
+the four-month selection process. That's that's such a viral video. It added you see as I always do in my
+other word scripts. With 40% dropout rate on the Yeah. So the script is actually very very funny and I think
+it has a potential to go to like 10 million [music] views easily. But like the biggest thing is like we didn't
+even check the idea when we when we approved it. But as you can see, it changed the status [music] of the idea
+to scripted and I also actually scripted another one. Let's look at the pipeline. [music] Yeah, it just added
+another script. So right now in real time while I was explaining how this agent works, it just created two
+scripts for us. It happened [music] in literally two minutes. And I now have two scripts for approval. It will
+probably take me another five minutes to fix one [music] or two words. It's still requires me to look at the
+scripts and change a word here and there. But those scripts are 99% [music] closer to what I need than the
+scripts that script writers wrote for me back then. This is why we let go of our team and we actually replaced
+the [music] entire scripting team with the set of AI agents that we're discussing today. So this is the job of
+the poet and this is what it does. >> [music] >> Every single day I have five to 10 scripts. Again, there's no
+limit to that. It could be a hundred if I want to. Delivered to my project pipeline without me lifting [music]
+a finger. It runs on autopilot. It is scheduled. I did the run the test run now manually, but I don't need to
+do it. It runs on autopilot. Now, the other protocol that we built actually optimizes the [music] work of the
+channel manager. And we let go of our channel manager as well because Clipper is our SMM manager right now.
+Its goal is to distribute content across all of our platforms. It posts on YouTube, X, Facebook, Instagram,
+TikTok, Snapchat, [music] and Spotify, literally everywhere I want. And it does it by hand. So as we know, if
+you use some scheduling tools for TikTok or Instagram, it will lower your reach because no other platform
+wants to to have bots posting and scheduling content as they want. But with >> [music] >> Claude protocol, it
+actually does it pretty much simulating what I would do. So it [music] opens the browser, it uploads the
+video, it clicks all of the buttons like a human would do it. So for for platform, it looks like a real person
+is uploading [music] the video. And it does it at different times, and does it with optimizations for
+different platforms with titles [music] and descriptions being optimized with like just clicking different
+buttons and scheduling for different times. And it does it all on autopilot. And yeah, it just posts. And it's
+it's very simple, right? So the way it works from the pipeline [music] is I have another folder called SMM.
+And whenever I move another video, so I have like 49 [music] videos that are ready to post, right? And
+whenever I move the video to the posting today's section, it will then change the assignee to this basically
+to the Clipper who's going to post it. It also now adds the tasks, subtasks to the card. So as you can see, it
+added a bunch of different subtasks and the video is now scheduled >> [music] >> to to be posted on all of
+those platforms. Again, it will take it a few minutes to go and schedule it on all of those. It has different
+SOPs for each platform, so it understands exactly how to post on each and at what time and what specific
+optimizations we need [music] to do. It can cut your videos, it can crop your videos, it can add different
+titles and thumbnails, it can come up with those, it can create those, or even call other agents that will
+create those for you. And it will make sure to check all [music] of those boxes and actually post the video on
+all of the platforms. And all you need to do is to track that is to open [music] the Asana card and see where
+the video was already posted. And whenever it finishes, it also adds the comment basically saying that the
+video was posted everywhere. Right now I'm going to move it back because today we already did it with another
+video. Now, this is a Clipper. And his job is actually very simple because then it automates this manual task
+that used to cost me or my channel managers 20-30 minutes a day, sometimes even more with the amount of
+platforms we post on. But now it runs on autopilot without me lifting a single finger or needing to hire
+channel managers or VAs. >> [music] >> Another very simple way to automate your YouTube channel. Now, the last
+protocol that I'm going to give you is called the Reporter because the Reporter's goal is to keep me posted
+about everything that is going on in my faceless YouTube business. It sends me daily reports about everything
+that I need to know about my channels. First, it sends me the screenshot of my YouTube Studio so I can check
+my real time and estimated earnings from the last few days. It basically breaks down the this data for me, the
+subscribers, the last 14 hours, the revenue. And it also gives me an understanding of the pipeline. So it lets
+me know about how many scripts we have for approval, how many scripts are in progress, how many videos are
+ready to animate. I need to know all of that, and I don't necessarily want to open Asana to do it. So if
+there's anything urgent in the pipeline, my animators need feedback or there's no scripts for them to work on,
+it will let me know that I need to work on those things today. It will also tell me how many scripts we have
+for approval and how many videos were sent to [music] SMM so that I know if we have the videos to post today
+or I need [music] to look what happened and who for my team did not deliver the results that were expected. So
+the Reporter's goal is to send me this feedback every single day about all of the channels where I'm involved
+as a partner. And it saves me so much time on just manually checking every single channel, making sure that
+everything is running smoothly. It just does it for me. And I sometimes even find myself [music] not opening
+YouTube Studio because I have all of the data on Telegram every single morning as a morning report. Now, a
+combination of these five protocols allow me to step back from my daily boring routine and focus on what
+actually matters for the channel owner. New niches and opportunities, they emerge every single day and I want
+to make sure that I have enough time to look into that instead of manually [music] managing boring stuff. Team
+and motivation, I because we let go of so many team members and replace them with AI, I have now way more time
+to actually take care of my top people, the people who are actually running, creatively running >> [music] >>
+uh those businesses, uh scaling and expanding fast, looking at the opportunities, looking at the potential to
+sell some of the channels, or even buy some of the other channels. And all of that was only possible because
+AI now takes a huge part of the job and [music] does it on autopilot. And the best thing is, all of those
+protocols are simple MD files, and the Cloth skills that uh you can drag and drop into your Cloth, and it will
+be ready to use. Meaning, you can just ask it to onboard you, drag and drop the uh Cloth AI file, it will ask
+you a bunch of questions and uh to personalize this workflow for you, but then it will basically build and
+implement the entire protocol for you. So, you can have the exact same protocols in your faceless YouTube
+business in less than 30 minutes after getting those MD files. And all of the work, all of the coding is
+already pre-made for you, >> [music] >> and you only need to drag and drop them. And I'm making all of those
+scripting protocols a part of the Script Bending Workshop I'm hosting on April [music] 8th. This is where I'll
+personally show you the system behind 5 billion views on YouTube, 4 billion on this channel, uh like another
+channel of ours just crossed [music] the billion views, and other channels of mine. I'll show you how to find
+and script short-form and long-form videos that are making thousands of dollars just like those [music] videos
+right here. And I'm going to give you access to the three key protocols, Clerk, Muse, and Poet, that will
+completely automate the ideation and scripting parts of your faceless YouTube business done for you. All of it
+comes with a massive bonus of two weeks inside of our Script Bending Bootcamp, where every single day I will
+break down new prompts, scripting frameworks, niches, and formats. This is how it looks, and uh it's going to
+be insane. Last time [music] we had 200 people who showed up live to the Niche Bending Workshop, but this time
+we're doing something even crazier, and we're going to over-deliver even more than we did last time. And uh
+everyone absolutely loved our Bootcamp, uh and uh this time [music] it's going to be even sicker. And another
+bonus is a database of over 50 ready-to-use script templates that all faceless YouTubers are using right now.
+We've analyzed 500 of the most popular faceless YouTube channels right now, figured out that all of them are
+using 50 key frameworks for their scripts, and we prepared all of the templates. You will drag and drop those
+templates into your Cloth, and it will write scripts for you exactly like those guys are doing it right now.
+And this is exactly what the Script Bending Workshop is. You can join it now clicking the first link in the
+description, embrace the future of faceless YouTube automation, click a few buttons, build your own Jarvis,
+and automate almost the entire workflow. Quick note though, the price will increase on April 1st, and we're
+closing doors on April 8th. So, if you're serious about launching a faceless YouTube channel in 2026 using all
+of the powers of AI, then the first link in the description is waiting for you. Click it, I'll see you inside.
