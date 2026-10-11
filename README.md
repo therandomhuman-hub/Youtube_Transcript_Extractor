@@ -9,10 +9,10 @@ Scheduled, resumable transcript collection for every channel listed in [`channel
 - Deduplicates videos, uses YouTube manual captions first and original-language automatic captions as a fallback.
 - Resumes incomplete work from each channel's `transcript_manifest.json` and skips transcripts already saved.
 - Stores transcripts in a folder named after the channel while a full backfill is in progress.
-- Moves a channel directory to `completed/<Channel Name>/` only when every known video has a valid saved transcript and no channel-scan errors remain.
+- Moves a channel directory to `completed/<Channel Name>/` when every known item has either a valid saved transcript or an explicit terminal `NO_CAPTIONS` outcome and discovery has no fatal errors.
 - Generates or refreshes a deterministic `completed/<Channel Name>.zip` beside each completed channel folder; the ZIP contains the transcript files, manifest, audit CSV, and collection summary.
 - Copies newly found transcripts into `updated/<Channel Name>/`, with a `new_transcripts.json` index.
-- Reports channel/video state in `channel_state.json`, `last_run_report.json`, per-channel audit CSV and `collection_summary.txt`.
+- Reports channel/video state in `channel_state.json`, machine-readable `last_run_report.json`, human-readable `last_run_report.md`, per-channel audit CSV and `collection_summary.txt`.
 - Persists rate-limit cooldown state to reduce repeat requests after HTTP 429 responses.
 
 ## Add channels
@@ -27,6 +27,7 @@ multi_channel_runner.py
 youtube_channel_transcripts.py
 channel_state.json
 last_run_report.json
+last_run_report.md
 completed/<Channel Name>/*transcripts + manifest/audit/summary*
 completed/<Channel Name>.zip (generated ZIP snapshot of the matching channel folder)
 updated/<Channel Name>/*new transcript copies + new_transcripts.json*
@@ -37,7 +38,7 @@ updated/<Channel Name>/*new transcript copies + new_transcripts.json*
 
 ## Schedule
 
-The workflow uses UTC cron `17 */6 * * *` (four runs per day, about six hours apart). GitHub may delay scheduled runs during periods of high load. `workflow_dispatch` supports manual starts and an optional `max_channels` test limit.
+The workflow uses UTC cron `17 0,6,12,18 * * *`: 00:17, 06:17, 12:17 and 18:17 UTC (four runs per day). That is 05:47, 11:47, 17:47 and 23:47 India Standard Time. GitHub may delay scheduled runs during periods of high load. Manual runs support an optional `max_channels` test limit and `max_items_per_channel`; the scheduled default is 12 attempts per channel per run to balance channel coverage against job timeout. Set `max_items_per_channel=0` for an explicitly unlimited manual collection run.
 
 ## Install and run locally
 
@@ -79,6 +80,16 @@ If you have permission to use an authenticated YouTube session, you may configur
 
 Add the secret under **Settings → Secrets and variables → Actions → New repository secret**. Treat cookies as login credentials: do not paste them into chat, source files, logs, or artifacts; use only a session you are authorized to use, and revoke/refresh the session if needed. Cookies may expire or still be challenged by YouTube. If that happens, run from a local or self-hosted machine where you can use your own authorized browser session. This project intentionally does not bypass YouTube access controls.
 
+
+## Automation resilience and execution policy (2026-10-11)
+
+- The collector is scheduled four times per day: 00:17, 06:17, 12:17 and 18:17 UTC.
+- A newer scheduled or manually started run does not cancel an active collection. Only one collector uses the shared concurrency group at a time; GitHub can keep a single pending run.
+- The scheduled default is a 12-item attempt budget per channel. This keeps progress distributed across configured channels instead of allowing a channel with hundreds of pending items to consume the entire runtime. For an intentional full-channel test/backfill, manual dispatch can use `max_items_per_channel=0`; the job still has a finite runtime ceiling.
+- Collection is capped at 340 minutes inside a 350-minute job timeout. The run checkpoint and finalization steps record partial progress and package already-completed channels even when collection fails or times out.
+- The workflow no longer launches a new collection simply because only its YAML or reporting code changed; runner/engine or ZIP packager changes can trigger one.
+- The publish step fetches and rebases against the latest `main`, retries safe pushes, and never force-pushes over newer commits.
+- Run JSON and Markdown reports record channel errors/auth challenges rather than calling a run completely clean solely because the Python process exited successfully.
 
 ## Production readiness status (2026-10-09)
 
