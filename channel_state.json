@@ -14,7 +14,7 @@
       "auth_required_count": 0,
       "unresolved_items": 0,
       "scan_errors": [],
-      "last_checked_at": "2026-10-11T05:52:03+00:00",
+      "last_checked_at": "2026-10-11T09:34:45+00:00",
       "attempted_this_run": 0,
       "batch_limit_reached": false,
       "no_caption_items": 1,
@@ -33,7 +33,7 @@
       "auth_required_count": 0,
       "unresolved_items": 0,
       "scan_errors": [],
-      "last_checked_at": "2026-10-11T05:52:38+00:00",
+      "last_checked_at": "2026-10-11T09:35:15+00:00",
       "no_caption_items": 1,
       "resolved_without_transcript": 1,
       "completion_policy": "SAVED or explicit NO_CAPTIONS terminal outcome",
@@ -47,19 +47,19 @@
       "channel_name": "Jason Wardrop",
       "status": "IN_PROGRESS",
       "folder": "Jason Wardrop",
-      "saved_this_run": 6,
-      "attempted_this_run": 6,
-      "saved_total": 131,
+      "saved_this_run": 1,
+      "attempted_this_run": 1,
+      "saved_total": 132,
       "known_items": 326,
       "video_count": 289,
       "short_count": 37,
       "auth_required_count": 0,
-      "unresolved_items": 195,
+      "unresolved_items": 194,
       "no_caption_items": 0,
       "scan_errors": [],
-      "last_checked_at": "2026-10-11T05:57:38+00:00",
+      "last_checked_at": "2026-10-11T09:36:53+00:00",
       "note": "Checkpoint reconstructed from the committed transcript manifest after the 300-minute workflow timeout.",
-      "batch_limit_reached": true,
+      "batch_limit_reached": false,
       "resolved_without_transcript": 0
     },
     "https://www.youtube.com/@timdanilovhi": {
@@ -350,5 +350,5 @@
       "resolved_without_transcript": 0
     }
   },
-  "updated_at": "2026-10-11T07:07:46+00:00"
+  "updated_at": "2026-10-11T09:36:53+00:00"
 }

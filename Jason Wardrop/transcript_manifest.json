@@ -1970,14 +1970,14 @@
     "title": "Watch Me Build A Voice AI Agent LIVE (No Code)",
     "url": "https://www.youtube.com/watch?v=BTKUSfkK92A",
     "channel": "Jason Wardrop",
-    "status": "DISCOVERED",
-    "source": "",
-    "language": "",
-    "filename": "",
-    "message": "Discovered; waiting for transcript",
+    "status": "SAVED",
+    "source": "YouTube subtitles",
+    "language": "en",
+    "filename": "VIDEO - Watch Me Build A Voice AI Agent LIVE (No Code) [BTKUSfkK92A].txt",
+    "message": "Transcript saved",
     "discovered_at": "2026-10-09T21:14:51+00:00",
     "last_discovered_at": "2026-10-09T21:14:51+00:00",
-    "updated_at": "2026-10-09T21:14:51+00:00"
+    "updated_at": "2026-10-11T09:36:53+00:00"
   },
   "vliIwa_N3oQ": {
     "video_id": "vliIwa_N3oQ",

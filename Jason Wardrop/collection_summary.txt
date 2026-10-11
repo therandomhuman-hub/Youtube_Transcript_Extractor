@@ -1,16 +1,16 @@
 Channel name: Jason Wardrop
 Channel URL: https://www.youtube.com/@JasonWardrop
-Last updated UTC: 2026-10-11T05:57:38+00:00
+Last updated UTC: 2026-10-11T09:36:53+00:00
 Discovered in current scan: 326
 Manifest total: 326
-Transcripts saved: 131
+Transcripts saved: 132
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 131
+Resolved items (saved transcript or explicit no-caption outcome): 132
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 195
+Still discovered/pending: 194
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 
