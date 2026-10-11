@@ -332,12 +332,17 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             filename = str(manifest[video_id].get("filename", ""))
             if filename and (channel_folder / filename).is_file():
                 shutil.copy2(channel_folder / filename, updated_channel_folder / filename)
-    no_caption_count = sum(1 for rec in manifest.values() if isinstance(rec, dict) and rec.get("status") == "NO_CAPTIONS")
+    manifest_records = [rec for rec in manifest.values() if isinstance(rec, dict)]
+    no_caption_count = sum(1 for rec in manifest_records if rec.get("status") == "NO_CAPTIONS")
+    # Inventory totals must reflect the durable manifest, not only the subset
+    # returned by the most recent channel-tab scan or selected for this run.
+    video_count = sum(1 for rec in manifest_records if str(rec.get("type", "VIDEO")).upper() != "SHORT")
+    short_count = sum(1 for rec in manifest_records if str(rec.get("type", "")).upper() == "SHORT")
     result = {"channel_url": channel_url, "channel_name": name or folder.name, "status": status,
               "saved_this_run": saved_now, "attempted_this_run": attempted_this_run,
               "batch_limit_reached": batch_limit_reached, "saved_total": saved_total, "known_items": total,
-              "video_count": sum(1 for item in entries if str(item.get("kind", "VIDEO")).upper() != "SHORT"),
-              "short_count": sum(1 for item in entries if str(item.get("kind", "")).upper() == "SHORT"),
+              "video_count": video_count,
+              "short_count": short_count,
               "auth_required_count": sum(1 for item in manifest.values() if item.get("status") == "AUTH_REQUIRED"),
               "no_caption_items": no_caption_count, "resolved_without_transcript": no_caption_count,
               "unresolved_items": unresolved, "scan_errors": fatal_scan_errors,
