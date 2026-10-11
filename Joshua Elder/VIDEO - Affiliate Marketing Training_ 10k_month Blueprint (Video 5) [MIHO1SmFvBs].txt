@@ -1,0 +1,166 @@
+Title: Affiliate Marketing Training: 10k/month Blueprint (Video 5)
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: MIHO1SmFvBs
+URL: https://www.youtube.com/watch?v=MIHO1SmFvBs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:09:11+00:00
+
+Kind: captions Language: en All right, welcome to day five of this over the shoulder case study series where
+I'm showing you exactly what I'm doing to take a new income stream from zero to it making 10,000 and even
+50,000 dollars per month or more. This is version two of the previous case study that I did before and we're
+doing this bigger and better leveraging the power of AI. So what we're going to be doing within this video and
+by the way, if you're brand new to the series, make sure that you click the link below, start from day one of
+this playlist and you can go ahead and catch up with us to day five. You can take this at your own pace as
+well. I'll show you lots of results within that first video of the results I've been able to create and I
+literally take you from absolute zero and we each day what it does is it builds off of the previous day to the
+point where you are going to become an absolute independent entrepreneur online and an expert when it comes to
+promoting other people's digital products. So without further ado, what we're going to do today is we're going
+to finish connecting our affiliate wrapper and then we're finally going to start promoting this thing. So
+let's go ahead, let's go to the computer screen here. I want to make sure that I am showing the entire screen
+cuz we had some issues before. So what I'm going to do is I'm going to just make this a little bit smaller so
+we can go ahead and I should have done this before started recording but nonetheless, you guys are seeing this
+live and pretty much uncut, okay? So there we go. We should be good right there. You should be able to see the
+whole screen now. So let's go ahead and let's let's dive in and get started. I'm just going to fix this just a
+little bit. There we go. All right, so what you want to make sure that you are logged into is your Next Level
+Vision Marketing account. So if you have not signed up for a Next Level Vision Marketing account, do that by
+clicking the link below and you're getting access to the same tools that I use that ultimately allowed me to
+hit over 1.1 million dollars in my business in the last year. So what we want to do here is we want to first
+go to step two. Now let's go ahead and just start from from scratch. I'm here in one of our members, Brad's
+account here. And when you first log in, you should see something like a dashboard here or you should see like
+an AI text box, okay? Regardless, what we want to do is we want to go down here and we want to go to sites. So
+you're going to go ahead, you're going to click on sites. Once you click on sites, we're going to click on AI
+Side Hustle Finder. Once we do that, what we want to do is we want to we want to go to discover your side
+hustle right here. And then we want to go ahead and click on edit. Okay? Then what we want to do is we want to
+click on tracking code right here. Now what we're going to do is there's going to be a tracking code below
+this video. It's going to look something like this. Okay? And all you need to do is go ahead and copy the
+tracking code jump back over here and go ahead and paste it. Okay? What this tracking code is going to do is
+it's going to only allow people that are in tier one countries for the most part, tier one, tier two. Which is
+where the best quality of traffic comes from. So a lot of third world countries uh we're not going to allow
+them into this quiz because more often than not they're lower income countries. Not saying that everybody has
+low income but the large part of the population does. And the reason why we want to limit this is because when
+we generate a lead that lead costs us money. Every time we send out an email, that is costing us money and we
+want only good quality leads that we're sending emails out to. So you can see right here, the the countries
+are limited to the United States, Canada, United Kingdom, Australia, New Zealand, Ireland and Singapore. So if
+it's not any of these countries then it will not allow these other countries to go through this process and
+actually turn into a lead. So one other thing that we want to do is we want to go ahead and change out my link
+right here with your not available page link. So if somebody comes to this page and they start to fill out the
+form or they go to the form page where they complete the survey in other words it will automatically redirect
+them to this not available page here. And we'll show you exactly how this works live in action after we're
+done here. So I'm just going to go ahead and I'm going to save this for now and then you want to go ahead and
+save in the top right hand corner and then you can just go ahead and publish. I always tend to do both. Then
+what you want to do is click on the back arrow right here and then we're going to go down to the not available
+in your country page and we're going to go ahead and we're going to copy this URL right here. Then we're going
+to go back to discover your side hustle. We're going to click on edit once again. And then we're going to go
+ahead and click on tracking code and we're going to go ahead and replace my URL to the not available page with
+yours. Just like that. Keep the quotations here and then just click on save. Then click on save again and
+click on publish. So now we're going to click on back. Now whenever somebody's not qualified it will
+automatically redirect them from the survey page here to not available in your country right here. Okay? So
+now that that's intact one more thing we want to do is we want to click on the processing page right here.
+Then we want to click on edit. Then what we want to do is below you're going to see another line of script,
+okay? It's going to look something like this. What you're going to do is you're going to go ahead and copy
+this. You're going to jump over if of course I'm on a different page but you'll just simply copy below and
+jump over to your uh processing results page and then you'll click on tracking code once again. You'll go to
+footer now and then you'll just go ahead and paste. So we're going to click on footer, paste and you could see
+your results page is going to go right here. So what we're just going to do for now once again is we're going
+to save. We're going to save publish. Then we're going to jump back over, click on back and we're going to go
+to the results page. We're going to copy the URL right here. Go back to the processing page. Click on edit.
+Click on tracking code, go to footer. I want to replace my URL to the results page with yours. Just like that.
+We'll click on save save once again and then we're going to click on publish. All right. Now what we're going
+to do is click on back. And then I'm going to keep this window open and I want to create a new window and
+click on automation. So you can hold down, I believe it's control click or command click if you're on a Mac.
+And what we want to do here is we want to edit our automations now. So we're going to click on the AI Side
+Hustle Quiz Processor and we're going to go to email one version two right here. I've already tested these
+emails by the way. So when you see these other emails that are not activated it's because I've been testing
+multiple subject lines, multiple emails and this is the email that converts the best as far as open rates and
+click through rates which we will talk about later on throughout the series. And this flow will automatically
+tag your members too as well. So when somebody fills out the survey, the AI Side Hustle Finder survey it will
+automatically tag them >> [clears throat] >> showing that this is a lead that was generated through the AI
+Side Hustle Quiz. Okay? We're going to click on email one here >> [clears throat] >> and then we want to click
+on the from name and the from email. So you're going to enter your name right here. So in this case, I'm just
+going to type Brad's name here. And then from the from email I would recommend not using a Gmail email
+address. You want this to be your actual uh email address attached to your domain. So, something like Brad and
+then whatever his domain name is. Brad@sidehustlehub.ai. Okay? So, we're going to use that. Whatever your
+domain name is, use that. And just use your first name. That's what I like to do. Or you could do support or
+your first name. Okay? Once you do that, you'll see the subject right here. That's already inputted for you.
+And then if you scroll down here, you're going to see this is a link right here. What we want to do is
+highlight that and we want to click on add link. We're going to replace this link with your link, which it
+looks like Brad is actually already done that. So, he's already gone over here to his results page. So, you're
+going to go to your results page and you're going to copy it and you're going to paste it right here. And once
+again, Brad has already done that. You can just click on save and you can click on save action. Okay? And you
+can even save above right here. We're going to do that for the rest of the emails as well. So, I'm just going
+to copy his email here once again and we're going to go to email two that's activated right here. And we're
+going to go ahead, I'm sorry. We're going to paste right here. We're going to put Brad Clements right here.
+You put your name. We're going to click on save action. We're going to just do that for the rest of the emails
+so at least we have that out of the way. Okay? Brad and save action. Email four Brad and his email here. Save
+actions. And then we are good to go there. We've got four total emails for now at least. So, what we're going
+to do now is we're going to go back to email two, right? Cuz we already edited email one and we're going to
+make sure that we go to the bottom and you can see where it says top recommendation. We want to click on add
+link. Go ahead and highlight that whole line there. Add link. And you could see that he's already got his URL
+right here. Let me just go ahead and go to a different page. See where this is this is going. Okay? So, what
+he's going to want to do which we'll go ahead and do for him is we want to go to our super affiliate funnel
+affiliate link. So, if we go to the home page of super affiliate funnel, which we'll go ahead and do that
+right now. And by the way, this is kind of cool. We're number two on the leaderboard. We're going to go ahead
+and scroll down. And actually one of our members is number one right now, Ricky Dixon. We're going to go ahead
+and copy the affiliate promo link here and we're going to jump back over to that email. We're just going to
+simply paste it right here. We're going to replace the source. And by the way, you can use ROI panel to do
+this as well if you want to use that for better tracking. But we're going to put just email. We'll do we can
+name this survey email two. Just like that. Then we'll go ahead and click on save and save action. Okay? Then
+we'll go down to email three and where it says confirm your request. And by the way, we want to make sure we
+change the names of these two as well. So, let's go ahead and do that now. Um, let's go back to email two. You
+can see this says my name. You replace my name with your name. We've got email one and Okay. We don't need to
+worry about this one. Okay? So, email one, email two, email three. Let's go back here. Cool. Looks like
+everything is saved in terms of our name or your name replaced with my name. Let's click on add link,
+highlight, and then once again, we're going to go over to super affiliate funnel. Go ahead and copy. Jump back
+over here. Go ahead and paste and replace this with survey email three. Click on save. Click on save. And what
+Brad's going to need to do is I'll ensure that he does this before of course, the next video. I'm showing this
+for just you know, case study purposes. But he's going to replace simply his affiliate link with mine, right?
+So, if we go down here and click on here's the breakdown on email four, we're going to click on the add link
+button. And once again, we're going to do the same thing. And we'll do survey email four. So, all Brad needs
+to do is replace my affiliate number with his. Okay? And of course, you'll be going over and just copying the
+whole entire link here and pasting it. Okay? So, this is the the flow that we're following now. Now that
+everything's pretty much set up, it's traffic like from MLGS to our affiliate wrapper to the super affiliate
+funnel. So, we are uniquely separating ourselves from everybody else. Okay? So, we'll go ahead and save this
+and then save action and then save. And we'll go back to workflows. All right. So, the next thing that we want
+to do is we want to go from automation back down to sites. Then we want to click on the AI side hustle finder.
+We want to go to our results page. Then you want to copy the results page URL right here. And then go over to
+surveys and go to builder. Click on the AI side hustle finder quiz. And then go to settings. And then go ahead
+and replace my redirect URL with yours right here. Okay? Then you'll go ahead and you'll save. I've already
+done that for Brad, but just showing you exactly how to do this. And then you're going to go ahead and click
+on back here. All right. So, there's just one more thing that we need to go ahead and complete and this will
+tie everything together and we'll be ready to launch in the next video. What you want to do is you want to go
+to settings. Okay? When you go to settings, what we want to do is we want to go to we want to go ahead and set
+up an email service. So, we're going to click on email services right here. Now, what we want to do here is we
+want to create a dedicated domain that our emails will be sent from. This is like I had mentioned,
+Brad@hisdomain.com, whatever his domain is. We want to use a paid domain and not a free domain or else we're
+going to have difficulties and our emails are going to end up in spam. So, what we want to do is we want to
+click on create dedicated domain. And then what we're going to do here is we are going to go ahead and enter
+your newly purchased domain right here. So, in Brad's case, let me go back over to Brad's account and let's go
+to sites. Of course, you'll do the same thing. His was sidehustlehub.ai. So, you're going to take your domain
+name. You're going to go ahead and paste it here. And we're going to click on add and verify. Okay? It says
+almost there. Connect your domain subdomain. Which I believe we I think we already have, but we're going to go
+ahead and connect this to the email service now. It says setting up your domain and finalizing step. It says
+your domain is already authorized. Now, it's going to give us the the records that need to be added. So, we're
+going to click on add records and hopefully it does this for us automatically, especially if you purchased
+your domain through the Next Level Marketing platform. And you can see it says apply and verify your
+sidehustlehub.ai domain. So, what we're going to do is we're going to click on auto configure DNS. Click on
+continue. We just want to verify that, um, that didn't work the way that it was supposed to. Now, what it's
+asking us to do is to apply and verify the AI domain. So, what we're going to do here now is we're going to go
+ahead and scroll down and we're going to click on verify domain. >> [clears throat] >> Go ahead and just give
+this just a moment while it verifies everything here. And you can see that it says active and it says SSL
+pending. Now, what we want to do is we want to go ahead and verify the domain to get the current status. So,
+we'll click on verify now and this can take some time. And you can see right here that everything is now
+verified. So, what we're going to do is click on verify domain and it should now show that everything is in
+fact complete. So, it says active and it says SSL issued and we are now good to go. So, now when we go back to
+email services, you can see that everything is now connected and everything is complete. So, all you need to
+do is go back and go to sites and then click on your AI Side Hustle Finder funnel and then click on visit
+funnel URL and I would recommend doing this in an incognito window. But, at this stage when you fill
+everything out, you'll see that you'll receive an email, that first email follow-up and you'll receive all the
+future email follow-ups showing that this process is in fact working as a test. One last thing that I want to
+mention is when you go to your automation and you go to your AI Side Hustle Quiz Processor right here and we
+click on each of these emails you want to make sure that do- the domain of the from email is the domain of the
+funnel that you just set up. And again, you can use like I said support@yourdomain.com uh your first name
+whatever you choose to use. So, that is it for this video. What we're going to do finally in the next video is
+we're going to send out our first MLGS email with our brand new affiliate wrapper link. Thank you so much for
+watching this video, completing all the steps. Congratulations, we're finally ready for launch.

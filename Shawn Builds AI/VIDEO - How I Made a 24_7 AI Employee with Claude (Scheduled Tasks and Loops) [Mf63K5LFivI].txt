@@ -1,0 +1,120 @@
+Title: How I Made a 24/7 AI Employee with Claude (Scheduled Tasks and Loops)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: Mf63K5LFivI
+URL: https://www.youtube.com/watch?v=Mf63K5LFivI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:20:12+00:00
+
+Kind: captions Language: en If you're still manually chatting with all of your AIs, then you are seriously
+missing out because Claude now can be a 24/7 AI agent for [music] you. Meaning that it can complete tasks
+literally while you're sleeping. That means Claude could be sending you and your team messages during the
+morning, monitoring tasks during the day, and then creating an executive report to give you by the night. So,
+in this video, I'm going to show you how you can take advantage of this new technology because honestly, most
+people don't even know it exists. [music] We're going to go over two different methods that you can do this.
+One that is shorter-lived and more technical in loops, and another one that you don't have to be technical at
+all. You can do it literally right in your Claude desktop app, and that one is scheduled tasks. So, open up
+your terminal, open up your Claude desktop, and follow along so we can get started. The Claude code comes
+packaged with this /loop command that will basically run a task that you have decided on on a certain
+interval. So, why this is awesome is because while you're doing other things, Claude can literally be running
+on the background performing actions for you. So, really frees up your bandwidth and allows you to get more
+done in the same amount of time. So, how it works is that the /loop command runs on an interval. So, this one
+says 5 minutes. The minimum is 1 minute, and it can run for a maximum of 3 days. Now, when you run /loop and
+give it an interval, then you just tell it a task to complete. So, this one says, "Check if the deployment
+finished and tell me what happened." So, it's great for when you example, you you know, pushed code, it's
+going to be deployed, and you want to see when it's eventually going to be done. So, that's just one use case
+here. Another one is uh a one-time reminder is great, right? "Remind me at 3:00 p.m. to push the release
+branch. In 45 minutes, check another Check whether the integration tests have passed. So, um it's awesome for
+these kind of short one-off tasks that are happening later on or a short period of time where you're going to
+have a repeated task where it's checking something. So, this runs in within your Claude code session. So,
+that's important to remember because um it's not like it's running on a separate server somewhere, somewhere
+that's scheduled. It's going to be within your Claude code terminal. So, as long as that's open, that's when
+this will be running. So, what we're going to do is we're going to run an actual example in the terminal now.
+I created an example Slack workspace here that could kind of simulate, you know, if you're communicating over
+Slack for work. And I have this one channel that I named competitor research. And the idea here is that I
+would or people would, including [clears throat] me, send different um companies in here that I want to do
+competitive research for. So, that's the idea. You can either do it on an existing channel or design a whole
+channel around this idea of Claude loops and scheduled tasks. So, if we go back over to Claude, what we want
+to do is try to monitor this so that as people send messages, we are getting a competitor analysis in real
+time. So, again, let's type loop. And then we'll give it an interval and a prompt. I'm going to do it all with
+in the prompt. So, hey Claude, can you run a uh competitor analysis on companies every 1 minute? It's going to
+be coming from my Slack channel that's called competitor research. And when you get the channels or when you
+get the companies, determine if they are um if they are companies that should be researched, and if they are,
+then look up a couple of information points about their brand and their product, and then just print it in the
+chat here for me to review. Let's run that. And we [snorts] should see pretty shortly that it starts to create
+a cron job. It's called a cron job, which basically means any kind of job or task that's running on a time
+interval schedule. So, that's how it's kind of working in the background. So, it's incubating here and should
+come pretty quickly with a new job. All right, so it just parsed my prompt here, and it turned it into a
+1-minute interval. Awesome. And it does a cron create. Again, that's a cron job with this ID that's called a
+competitor research, and it is checking that Slack channel for company names, and then it's going to do some
+brand research. Awesome. So, it's [snorts] going to run within the next minute, and it should see that, you
+know, first of all, we haven't actually sent any new messages. So, um what we have to do is give it access,
+right? We do yes and don't ask again. So, that the entire time while this loop is running, it will always have
+permissions to check Slack. So, uh this is actually Okay, this is seeing my first message that I sent. So,
+it's doing the first round of competitive research. It's trying to use a web search tool to look up the uh the
+different companies. And it found some results. Look at that. So, now, if I type in another um if I send a
+message about other companies, let's see what it actually does. So, in the Slack channel, I'm typing Let me
+bring that over here. Let's say, take a look and analyze Claude versus ChatGPT. We head back over here. We
+should see that the next time this runs, again every 1 minute, it should pick that up. So, it picked up here.
+It's found Claude versus ChatGPT. It's doing web searches both on Anthropic Claude and on OpenAI ChatGPT. Both
+in relevant time periods in 2026. And now it's going to give us the competitor research about Claude, which is
+running by Anthropic, and ChatGPT by OpenAI. Awesome. So, you can kind of see the potential here and how
+useful it is to have this automatically checking things in the background for you. So, I also want to note
+that um you know, if you want to end the job, now you could say "Hey Claude, can you uh delete the cron job I
+have for competitive research?" And it should be able to stop that job for you. There we go. Cron delete
+canceled. Cool. So, one other thing that's uh important to show is that you can do loops on command. So, if we
+say "Hey Claude, can you turn this competitive research web search into a command for me? Call it /research."
+Awesome. So, that will run and if we take a look, oh, okay. We will proceed. Yes. Uh if we look here, you can
+see that you run a loop on an interval and you can give it a command and this will just be an input on the
+command. So, what we're going to do is save that as a command, and then we'll show how to actually run that as
+a command. All right, so we just added {slash} research. You can see right there, read Slack channel called
+competitive research, get the most recent message. It's basically what it wrote right here. So, if we wanted
+to run a command on a loop, all we do is {slash} loop. We'd say 1 minute, do {slash} research. Go like that.
+And same thing as before, it'll create a cron job of that task running {slash} research for the channel. And
+it's going to run every minute. So, that's just another way that you can run the loops. In my opinion,
+scheduled tasks are what take this to the next level. For one thing, you don't need to be technical to run
+them. This is in Cloud Co-worker here, and there's a side panel here called scheduled, and you click on that,
+and you can just add new tasks right here. The other part is that these run longer term. So, if you look at
+the frequency, you can see hourly, daily, weekdays, weekly. So, you can have it run on long-term schedules as
+long as your computer is awake, and it will complete whatever tasks you want it to do. So, you don't have to
+be technical, and it runs more consistently. Now, let's create one and see what it does. So, I like this daily
+briefing idea. So, we're going to do daily briefing. And I'm going to say, let's do my Okay, this is calendar
+and inbox. Let's just do my inbox. So, description, we're going to say, summarize my inbox from the last 24
+hours. And the prompt, we're going to say, take a look at my Gmail, find the emails from the past 24 hours,
+and summarize it into a really short morning brief with the date on the top. It should be concise and only
+about 2 minutes long to read. And then for the sake of this video, I'm also going to say make sure also to
+make them generic and if there are any names of people in it to don't include the names of the people.
+Awesome. And frequency, let's say this can run every day, right? Or maybe only on weekdays at 9:00 a.m. Sounds
+good. Actually, you know what? 8:30 so that I can get ahead of the day. More options, we could save it to a
+folder. Uh did I say summarize into really short brief. I'll say save it to the folder that you're running in.
+So we'll select folder Claude. Uh I'll do always allow. And let's give it the Sonnet model. All right, so we
+can go ahead and save that task and there it is, daily briefing, summarize the inbox from the last 24 hours.
+So we can wait for this to run, right? Weekdays at 8:31 or we can go ahead and run it now. So that's what I'm
+going to do for the sake of this video. So we'll go ahead and run it. It's running the task. And we could
+actually see the status of it here. So there's the scheduled tasks and this is the daily briefing. Cool.
+There's the progress. And uh I'll get back to you when it's complete. So the morning brief task just finished
+and we could see in the Claude folder it just saved that uh that file with the date in it. So let's take a
+look in here at the actual file. See the morning brief. Click on it here. And it says Tuesday, March 10th. Let
+me move over my guy here. And inbox summary last 24 hours, Microsoft invoice, um you you a compliance tax
+thing. It's that time of the year. Um different newsletters. I like that it separated it into different
+sections, too. Um job listings. See, communicate uh community notifications and promotional events. Awesome.
+So, super cool. Um it literally put it in a really digestible format that I can now get every single day. And
+you think about this for other tasks, right? There was one that says a calendar, so it can read your calendar.
+Um and you know, maybe summarize events that you have that day. And you know, you could even send out
+messages, right? If you have an update, you know, team updates that are being sent, you might want to create a
+briefing about all everything that went on and summarize that and send it to somebody. So, so much potential
+here and you don't need to be technical to do it. And in my opinion, this is really going to unlock a lot of
+possibilities with Claude and AI agents in general. So, to bring it all together, you know, I have two
+different tools that you can use to run a Claude 24/7 as an AI assistant. The first one being Loops, that's
+kind of like your in-session co-pilot to handle things while you're, you know, busy working on other tasks.
+While at the same time, you have scheduled tasks, which is more of a set it and forget it. The big shift
+really comes down to this. Stop using AI reactively and only going to when you have a problem and be proactive
+with it by setting up schedules and workflows that can run 24/7 for you to take on tasks while you don't even
+need to think about it. Now, if you're actually serious about implementing Claude and AI into your business,
+then you can go ahead and click the link in the description where we can have a one-on-one AI strategy call
+where we'll go over the exact reasons and situations that will help you get the most out of AI for your
+situation. If if good to work together, then that's great. If not, then you still walk away with a customized
+AI roadmap that you can put into action as soon as possible. Now that you can schedule tasks with Claude, you
+probably want to know how to get the most out of your abilities by using skills, skills 2.0, and plugins. So,
+if you want to learn more about that, I have a video that I will link right here.

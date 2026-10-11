@@ -1,0 +1,115 @@
+Title: Claude Code + NotebookLM = CHEAT CODE (Custom Infographic Styles)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 4OHXZB81W0M
+URL: https://www.youtube.com/watch?v=4OHXZB81W0M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:22:47+00:00
+
+Kind: captions Language: en Notebook LM just released a new feature that lets you generate infographics in
+different design styles. So, in this video, I'm going to show you how you can combine that new feature in
+Notebook LM with Claude Code to automate entire processes for your business. If you stick around to the end,
+I'll show you how you can run that entire workflow all through a single command using AI. If you don't know
+who I am, my name is Shawn, and for years I've been helping Fortune 500 companies to save thousands of hours
+using process automation and AI. So, if you have not used Notebook LM yet, then you are really missing out on
+some of the awesome AI capabilities that is out there. In my opinion, this is one of the best tools that
+Google has created, and I'll show you why in a second because I love using it for learning. But, in this
+video, I really want to show you some of the other business use cases that you can use to get the most out of
+it with some of the new features that it has just released yesterday, actually. So, let's go in here, and to
+start off, you can create a new notebook. And this is where you add all of your sources that you want to
+interact with. And on the right here, you can generate all these different things. So, we'll take a look at
+that after we add our sources. The sources section is super cool because you can not only just upload files,
+write in text, but you can also add websites and YouTube videos. So, for an example here, let's do a YouTube
+video, and we're going to do it on Perplexity versus Claude Code. Let's Let's share that. Copy that link, and
+paste it in over here. So, that's one source, and we're actually going to add another source as well. And this
+is going to be the actual, let's see, Perplexity computer. We're going to take the introduction post. Copy
+that, and let's throw it in as another source. Cool. So, it added a title here for Perplexity computer. And
+now you can see we can generate all these different types of interactive resources with it. Uh podcast is
+actually one of my favorite because where is it? Audio overview. Because you can actually interact with it and
+call into the podcast and they'll basically discuss all of the topics that are mentioned in your sources. But
+in this video I want to cover the infographic cuz they just created a new feature which is visual style. So,
+this is huge because you can make these infographics in any style that you want. So, if you are in marketing,
+then this is kind of a dream come true. You can generate infographics and posters for your product and you
+just upload sources about it and choose whatever style you actually want. So, let's for this example do clay
+and let's put it Yeah, we'll keep it landscape for now and we will click generate and it should kick off a
+process here where it's generating the infographic. So, I will come back to you guys once that's generated and
+we will check it out. So, we can see that it actually just finished generating. So, let's pull that up and see
+what it looks like. Again, we did this with the clay theme and we chose Perplexity computer. So, look at this.
+It actually describes Perplexity computer and uses that theme that we mentioned, the style, and goes through
+all the different parts of what was in the video and on the website. So, you can kind of see how this is super
+useful for businesses, especially if you are in marketing and you want to create an infographic to send out to
+people. But I also wanted to tackle this from other perspectives. So, if you are, let's say, generating
+reports and you need to create a report to send out to executives, for example, this is an awesome way to do
+it because if we look at again at the inter graphic section professional is one style or theme. So, what we're
+going to do is connect it with Claude code. And if you haven't used Claude before, it's honestly very very
+powerful and the way that AI is going because it's not only a chatbot anymore. It is really an entire AI
+operating system. You can build entire workflows to automate different processes with the AI and it is amazing
+for just acting as an AI assistant that you can use to do any task that you really have. And the reason is
+because it can connect to a ton of different sources including notebook LM. So, let's dive into how we can
+actually hook up Claude code with notebook LM to generate these executive reports. So, I opened anti-gravity
+here, but don't worry, we don't need to use it. It's actually just to view some files and to run Claude code
+in the terminal. So, on the left here, I have three different files, different CSV files that I have saved to
+my computer. There's a customer feedback, a sales report, and web traffic. Let's take a look at those in the
+browser actually just to see what they look like. So, here's the web traffic one. This is basically for the
+entire year of 2025 what was the different web traffic that you have. There is a sales report that goes over
+the same timeline but includes includes revenue. And there's a customer feedback one where it says all the
+different feedback that's gathered across product categories, gives some top complaints, and all of these are
+metrics that you know, you might be gathering as a business and you want to put together for to understand
+your you know, maybe monthly, yearly, quarterly um analytics. So, again, we have those pulled up over here.
+And what What to do is connect it to Notebook LM through Claude. And the way we're going to do that is through
+this package here that is the Notebook LM MCP. If you have in your MCP, it's what allows Claude to basically
+reach out and connect to all these different services. So, to get this set up, all you have to do is run one
+of these commands. So, since this is um well, first you would run this to actually install the tool. And then
+you would run this to add it to Claude. So, I already did this. Um what we can do is run this next command. We
+can run NLM login. So, let's do that. NLM login. It should open up a browser. You can see over here. Pop this
+open. It's going to sign me in and load all of my notebooks. Awesome. So, it says it's connected. Great. Let's
+check out the next step. And the next step should be to add it to Claude code again. So, we could do NLM setup
+add Claude code. Note that this is actually in the terminal and not in Claude code yet. This is setting it up
+for Claude code to use. So, all right. Here it is. It's all set up. And let's run Claude and see if it
+actually works. So, I'll type in Claude. That'll open Claude code. Actually, I have voice enabled, so let's
+enable the voice here. Uh one more time, enable it. Allow. And I'll speak into it and ask, "List all of the
+Oh, here we go. List all of the different notebooks that I have in Notebook LM." So, that's a new feature of
+Claude. If you want to learn a little bit more on how to use that, I'll link a video above. But in the
+meantime, let's grab all of these notebooks and you can see it's going to ask to run the tool. Let's go ahead
+and do that. And cool. So, it actually lists all the different notebooks that I have saved in Notebook LM
+right here. Cool. So, the connection is working. That's great. So, what we're going to want to do is to
+actually add these in a new notebook. So, let's do create a new notebook in Notebook LM. I want it to be about
+daily reporting for my company and add in as sources the three CSV files that are currently contained in this
+in this folder. All right, let's run that. And it should be able to create a new uh notebook and add those all
+in. So, it's going to ask create a notebook. Let's run that. It says success. Daily reporting company
+overview. Did it add that in? There it is. Daily reporting company overview. Awesome. It's going to add the
+sources. 1 2 3 and we hop back over, we can see all the sources. Awesome. So, now let's double-check that
+Claude is able to see the new notebook that we just created. So, we'll go here and we'll say pull the latest
+notebook from Notebook LM and tell me what it is. Let's run that. And it should pull up this new daily
+reporting uh notebook here. And what we're going to do after that is generate an infographic that is styled
+professionally. So, let's run through this first. And [snorts] this is really useful because once it's
+generated, you can kind of do whatever you want with it, send it to other people through email if you hook up
+Cloud Code with your email. It really opens up a whole world of possibilities of using it within your agentic
+workflow. So, we see here that it created or it found the daily report that we just created. And now let's
+actually generate the infographic. Generate an infographic from this notebook. Make sure that it looks
+professional and it is portrait. Cool. So, we'll run that. Again, it should ask us to run the MCP tools just
+like that. And if it goes right, it says in progress, we should see it generating, yep, over here on this
+side. So, I'm going to let that run and I will get back to you when that is finished. It just generated that
+infographic that we requested. And what we'll do now is Okay, it's asking for the status of it. It shows us
+that it is successful. So, we're going to download it locally here and open it up. Download that generated
+infographic to my computer and open it up for me. So, we'll actually be able to see and take a look at what it
+looks like with the professional style. Download. We should see the PNG pop up. All right. And there it is.
+Awesome. So, it created the report with all the numbers that we talked about and some graphs. So, the revenue
+here, conversion rate, page views. Awesome. So, you can really think about this as, you know, something where
+you have reports that you are creating every week on your computer, and you can just use Claude Code to hook
+it up to Notebook LM, generate an infographic for you on maybe a daily or probably more like a weekly or
+quarterly basis. And then you know Claude Code to connect to your email and send this out to or any
+stakeholders that would care about this. So, very, very powerful as a combination of tools. After you go
+through the setup, if you want to skip all of the different commands I'm running in Claude and just use the
+built-in command that I created, you can go ahead and click the link in the description. That'll allow you to
+run LL NLM infographic as a command. You can type the style you want. So, I'll say professional. And it will
+bring you through one step at a time of actually running Notebook LM, uploading the files in your directory,
+and creating an infographic. Now, if you're serious about figuring out how you can use AI and automation to
+unlock new growth in your business, then you can [music] go ahead and click the link in the description to
+book a completely free AI strategy call, where we'll hop on one-on-one to discuss what's going on in your
+business and how we can add in these tools to take it to the next level. From there, we could see if it's a
+good fit to be working together, but if not, then it is a completely free roadmap for you to determine what
+you want to do next with implementing AI. Now, if you've come this far, you might want to see how you can use
+multi-agent systems to 10x your productivity using Claude. So, if you're interested in that, go ahead and
+click the link right here, and it'll take you to that video.

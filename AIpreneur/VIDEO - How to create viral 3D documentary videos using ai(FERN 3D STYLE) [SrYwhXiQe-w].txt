@@ -1,0 +1,96 @@
+Title: How to create viral 3D documentary  videos using ai(FERN 3D STYLE)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: SrYwhXiQe-w
+URL: https://www.youtube.com/watch?v=SrYwhXiQe-w
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T17:58:20+00:00
+
+Kind: captions Language: en 4 million.2 subscribers, 100 videos, estimated $50,000 per month. If you've been
+scrolling YouTube lately, you've definitely seen these videos taking over your feed. Hyperrealistic 3D
+documentaries that look like they cost $100,000 to produce. But I'm going to reverse engineer the entire Fern
+formula and show you how to build a channel like that pulls millions of views, even if you're starting from
+zero today. Whether you're a complete beginner or you've been stuck at 100 subscribers for months, this method
+works. By the end of this video, you'll have a step-by-step road map to create cinematic 3D documentaries
+using free AI tools that are completely free. No filming, no expensive software, just results. This isn't
+theory. This is the playbook that's working right now in 2026. Here's what we're covering. First, how to find
+viral topics that the algorithm is already rewarding. Second, the AI workflow that turns one idea into a
+12minute cinematic 3D documentary in under three hours. And third, the cap cut editing secrets that make
+viewers binge your entire channel. Let's start. Step one, find viral topics. The algorithm rewards. The
+biggest mistake new creators make, they pick topics they find interesting instead of topics the algorithm
+already knows people will watch. Here's how we will do it differently to get viral topics. First, open Fern's
+channel. Then, go to the videos tab and sort by most popular and copy the first 20 video titles. Next, paste
+those titles into chatbt and use this exact prompt. Analyze these 20 video titles. Identify common themes,
+emotional triggers, and narrative structures. Then, generate 10 original video ideas that follow the same
+proven patterns, but with fresh angles. In 30 seconds, you'll have 10 video ideas that are statistically
+proven to perform. But here's the key. Don't just copy. Add a twist. If Fern covered the kid who hacked the
+Pentagon, you cover the teenager who outsmarted NASA's security. Same emotional hook, different story. Use
+Google Trends to verify your topic is still getting search volume. Avoid topics that are too niche. If fewer
+than 10 channels have covered it, the audience might not exist yet. Pause and pick your first topic. Right
+now, let's move to the next step. Step two, write a script that hooks and holds. Here's where most creators
+fail at. Your script isn't just information. It's a psychological weapon designed to hijack attention. Fern
+scripts follow a seven beat structure that I call the retention arc. Beat one, the hook. Start with the most
+shocking part of the story. No intro, no fluff. Drop the viewer into the chaos in the first 10 seconds. Beat
+two, the tease. Immediately follow with a mystery or question that demands an answer. Beat three, the stakes.
+Make it clear why this story matters. What was at risk? What could have gone wrong? Beat four, the journey.
+Walk through the story chronologically, but with micro cliffhers every 90 seconds. Every time you answer one
+question, plant a new one. Beat five, the twist. Around the 8-minute mark reveals something unexpected. This
+is what separates good videos from viral ones. Beat six, the resolution. Tie the story together with a
+philosophical or emotional punch. Beat seven, end by referencing your hook. It creates narrative closure and
+makes the video feel complete. Now, here's the shortcut. Use this catchy prompt. Write a 12inute documentary
+script in the style of Fern's The Kid Who Hacked the Pentagon. Topic: Your topic. Use short sentences,
+cinematic language, and cliffhers every 90 seconds. Include visual descriptions. Chat GBT will give you a full
+script in the style of Fern. Let's move now to step three. Create cinematic 3D visuals with Grock AI. This is
+where the magic happens. Fern's visuals look like Pixar documentaries, but here's the secret. You can create
+similar quality with Grock AI, and it's completely free. Here's the exact workflow. First, break your script
+into scenes. Every 3 to 5 seconds of narration needs one visual. Ask Chad GBT to convert your script into
+image prompts. Use this. Convert this script into detailed image prompts and animation prompts for a 3D
+animation featuring a highly stylized 3D render of a featureless human figure with no facial features. Each
+scene should be formatted as follows. Now, here's where Grock becomes your secret weapon. Open Grock AI and
+paste your first image prompt and then hit generate. The quality is insane. Now generate all your base images
+first before moving to animation. Once you have your static images, you can use Grock's image to video feature
+to bring them to life. Upload your image to Grock. Then add the animation prompt of scene one. Slow camera.
+Move forward toward the main prison building passing over razor wire and under search lights. Light fog in the
+air. Small camera shake for realism. End on a still shot of the dark central building with a documentary feel.
+Each clip generates in about 60 to 90 seconds. While one is processing, ceue up the next. The motion is
+smooth, cinematic, and perfect for documentary style content. By the time you finish this step, you'll have
+100 plus video clips ready to edit, all created with one free AI tool. This is how you compete with channels
+that have massive budgets. Keep your animation prompts simple. Complex movements can look janky. Subtle motion
+is more professional. Don't generate everything at once. Test five clips first to make sure your prompts are
+working before scaling up. Open Gro right now. Generate your first five clips and feel that power. Step four,
+edit like a pro in Cap Cut. The retention hacks editing is where good videos become unstoppable. And the best
+part, you don't need Premiere Pro or Final Cut. Cap Cut is free, intuitive, and has every tool you need to
+match Fern's editing style. Here's the formula. Create a new project in Cap Cut. Import all your Grock
+generated video clips and your voice over. Drag your voice over to the timeline first. Everything else syncs
+to the voice. Now start adding your video clips above the audio track, matching each visual to the
+corresponding narration. Here's the fern secret. Cut every 3 to 5 seconds. Never let a single shot sit longer
+than that. Every time a sentence ends, change the scene. Every time there's a dramatic pause, add a zoom or
+transition. Even a 2% zoom creates subconscious engagement that keeps viewers glued. Add glitch transitions or
+fade to black for dramatic moments. Select all your clips. Go to adjustments. Lower saturation by 15 to 20%.
+Boost contrast by 10%. Add a slight teal and orange grade using the temperature and tint sliders. Instantly,
+your video looks like it cost $10,000. That's the power of color. Then add sound effects. Cut has a massive
+free sound effect library. Search for ambient sounds, data blips, keyboard typing, whooshes, and dramatic
+stingers. Layer three to five sound effects per scene. Add background ambience throughout subtle wind, distant
+city noise, or electronic hum. Then punctuate key moments with sharp SF effects like glitches, camera
+shutters, or impact sounds. Only add text for shocking facts or key numbers. Use Cap Cut's bold text
+templates. Make text appear with a quick fade or pop animation. Search Cap Cuts library for chill tech or
+lowfi ambient tracks. Add one to your timeline and lower the volume. The music should be felt, not heard. When
+you're done, export at 1,080p, 60 frames per second, and set bit rate to high. This ensures YouTube doesn't
+compress your video to death. >> Midnight steel silence in a prison in the middle of nowhere. A prisoner who
+should never have seen the sky again. His name was Matteo. One night, a contractor truck parked exactly 5
+minutes longer than usual. Same logo, different driver. But here's the thing. It was as if the system itself
+had quietly decided to let him go. All still approved. Two men hard hats walked straight to Matteo. He walked
+between them like a man being moved inside the system he'd never Let's recap. Step one, reverse engineer viral
+topics using chat GPT and proven channels. Step two, write a script using the seven beat retention arc. Step
+three, generate cinematic 3D visuals and animations with Grock AI for free. Step four, edit with pattern
+interrupts in Cap Cut using color grading, sound layering, and motion every 3 seconds. If you do this, you'll
+have a 12minute Fernstyle documentary ready to upload in 3 hours or less. But here's the truth most people
+won't tell you. Your first video won't go viral. Your third might. Your eighth probably will. The algorithm
+rewards consistency, not perfection. So, here's your next step. Open Chat GPT right now. Pick your first
+topic, generate your script, then fire up Grock, and start creating visuals. Don't overthink it. The only way
+to lose is to never start. If you want the full prompt library, the exact chat GBT workflows I use, I've
+linked everything below. It's completely free. And if you're serious about building a faceless channel that
+actually makes money, subscribe and turn on notifications. I drop a new AI automation strategy every single
+week. Thanks for watching. Now stop consuming and start creating. Your channel is waiting. I'll see you in the
+next one.

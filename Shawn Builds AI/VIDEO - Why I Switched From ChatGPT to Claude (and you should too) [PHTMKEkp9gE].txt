@@ -1,0 +1,250 @@
+Title: Why I Switched From ChatGPT to Claude (and you should too)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: PHTMKEkp9gE
+URL: https://www.youtube.com/watch?v=PHTMKEkp9gE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:19:36+00:00
+
+Kind: captions Language: en If you're still just using chatpt in 2026, you're literally wasting hundreds of
+hours. I was actually in the same boat not too long ago and probably just using chat GPT a little bit longer
+than I'd like to admit. But once I switched over to using Claude, I think I legit 10x my output just because
+of all the new things I could do with Claude that I couldn't do with Chat GPT. And I actually found out the
+same thing with one of the companies I'm working with where they are one of the biggest finance companies in
+the US right now and they were pretty much all on Chat GPT. And once we did this deep dive, found out that
+switching to ChachiPT basically took about 50% of the processes that they're doing manually and was able to
+completely automate all that. So in this video, I'm going to show you the exact framework that I used for
+myself and for the company that I'm working with in order to make that decision for themselves to decide
+either to go with ChachiPT and to go with Claude. So there's six main points that I want to go over in this
+guide to help you make this decision. Starting off with the criteria. If we're going to be judging Chachi BT
+versus Claude, we need to know what we're judging them on. So, this will be an overview of the criteria that
+we're going to use to make that decision. Then, we'll go ahead put them head-to-head and that way we could see
+for each category which one comes out on top and kind of score them and rank them. Then, I prepared a couple
+real world examples. You could see different people that would be using these and what their jobs are and see,
+you know, what would be best for their type of task that they're doing for their job. Number four, we'll get
+into the voice framework. And this is going to be a step-by-step decision tree that you can do to help decide
+which one you should end up using. And we'll top it off with the three mistakes that are pretty common to do
+that trip people up that you should try to avoid when making this decision. And lastly, if you stick to the
+very end, there's a quick 60-second migration guide. If you decide you want to go with Claude over chat GPT,
+there's some built-in ways to do that with Claude. So, I'll show you exactly how to do that step by step. So,
+diving right into the criteria. The first thing they'll be taking a look at is the writing and voice of each
+model, and you kind of know exactly what I'm talking about with this when you're chatting with different chats
+and it sounds like it's AI responding. You're like, you know, I wouldn't actually use this. How can I use this
+for my job if it doesn't even sound like me? So, we'll talk about the different ways that you can mitigate
+this on both platforms with chat GPT and with cloud. When it comes to chat GPT, usually it's pretty
+professional and decent out of the box, but it tends to really sound like AI. Uh, you know exactly what I'm
+talking about with this. When, you know, there's tons of emojis, a bunch of fancy words like synergies, and,
+uh, you know, it uses those long M dashes, that's a pretty clear giveaway that it is an AI that's, you know,
+responding. Claud, on the other hand, sounds a lot more like a human out of the box, which is kind of what you
+want from an AI. It's really good at handling creative tasks and just kind of matching the tone of voice that
+you are providing with. Now, one thing you can do to nudge the AIS in the right direction when you're getting
+a response back is to use prompting correctly. And if you don't know what prompting is, it's basically the
+instructions that you give an AI in order to get a response back. Now, this is things like the tone of voice
+to use. You know, a little bit of information about who the AI is. You could say that it's like a it's an
+expert researcher. um it tells it about the task that it's trying to accomplish. So these are all different
+things that you include in the system prompt that will help guide the output. Now with chat GPT, if you want
+to take this to the next level, you can implement something called fine-tuning. Finetuning is an extra layer
+of training that you put on top of the already existing model. And what this training looks like is a set of
+data that has a bunch of inputs of what you would normally give the AI and a bunch of outputs of what you are
+expecting and would like to get back. One of the other methods I like to use is called anti-prompting where
+instead of just shoving everything into a system prompt about, you know, the things that you want it to sound
+like, you can give it a list of things that you don't want it to sound like. You know, that's the anti part.
+and you tell the AI to use this as a guidelines of what not to sound like before you give any responses back
+to me. So, despite the fine-tuning abilities of Chat GPT, I'm going to have to give Claw the one up here when
+it comes to the responses just because out of the box, it's so much better at sounding like a human, giving
+creative responses for writing tasks, and just matching your tone of voice overall. Then we'll get into the
+context which is pretty much how the AI knows what's going on around you, the task that it wants to complete
+and get has some background information about you and what you're trying to do basically. And this is handled
+differently between different platforms. The context is sort of like your memory. It's how much you can
+actually remember within the conversations. And that's where context window comes into play. This is the total
+amount of text that the model can see at once. So think about your messages, the replies that it gives you
+back, any of the uploaded documents that you give. It's just it's working memory. Now, when the context window
+is too small, the AI tends to forget about things that you may have talked on earlier on in the conversation.
+So, the larger the context window, usually the better it is. Now, you may be wondering, how do we actually
+measure context, right? Is it the number of words? Is it the number of sentences? Well, actually, it's
+neither. It is called something called tokens. And tokens isn't exactly equivalent to a word, but it's how AI
+likes to break up text in order to make associations. So a general rule of thumb is that one token is about
+3/4 of a word. If we take a look at an example of, you know, hello world, one token is for hello, one is for
+the comma, one is for world, and the last one is an exclamation point. When we go to compare chat GPT and
+claude, the differences are actually quite extreme. So, if you look at the GPT5, that offers a 400,000 token
+context window. So, this is pretty large. It's enough to handle most professional documents that you're going
+to be working with. But on the other hand, if you're using Opus 4.6, this has a 1 million token context
+window. And this is super awesome for things like clawed code cuz that much context can fit pretty much an
+entire codebase in it. Or if you're using it for writing, it can fit like a whole legal document that you're
+working with. And that's just the context window. And Claude has a lot of other cool ways that you can use to
+control the context. Projects is probably my favorite example because you can add in a bunch of documents that
+you want for a related topic and then you could start up a new task that will automatically out of the box
+have that information about those documents. And the one of the best parts is that you can share with other
+people so that if you have let's say your whole marketing team on a single project, they can all get
+information about you know let's say your brand guidelines. So going back to the scorecard, it's pretty clear
+here that Claude has the leg up yet again with that 1 million token context window and the fact that it has
+projects that will persist context across sessions. So next we're going to talk about the ecosystem and this
+is everything around the actual chatbot of either chatpt or claude. Think about how you will integrate with
+other systems when you use these chat bots. The overall ecosystem is super important because it's not just
+about the actual chat, but it's what each type of model can do overall in its entire ecosystem. What are the
+different integrations? What are the different abilities that are possible once you use either Chad GPT or
+claude? Chacht has a marketplace and it's actually pretty cool and it's simple to use. All you do is you go on
+there and people can make different custom GPTs which connect to different uh you know endpoints and you add
+the different GPTs to use for yourself. Plus OpenAI has deals with Microsoft. So if you're using Copilot at
+all it's going to be using the GPT models in the back end. So you can talk to your Outlook, you can talk to
+your Excel sheets, your PowerPoints, anything in the Microsoft suite. Claude on the other hand has connectors
+which make it pretty easy to connect to different sources. let's say Slack, Notion, uh Google's Drive,
+anything like that. But not only are they out of the box pretty easy to use, but it's super customizable. So,
+you can add your own custom connectors just with a code block. Now, just a little bit of background on how
+these connectors work. They use what's called MCP or model context protocol which exposes a bunch of API
+endpoints from the source that you want to get to and puts it in a format that AI basically knows about all
+the different endpoints and how it can interact with that tool. But it doesn't just stop there for Claude
+because you can now package those together those different connectors into plugins. The plugins have those
+connectors plus small files of text which are called skills that give it direction on how to use those
+connectors. Then with the plugins, you add them to a marketplace which allows them to be sharable to other
+people. So you can make very customized marketplace plugins and skills that other people can use. Hopping back
+to the scorecard here, I'm going to have to give Claude another point because of how customized you can go.
+While ChachiBT is pretty simple to just add a marketplace item, having that flexibility is one of my favorite
+parts of Claude to be honest. Multimodal is just a fancy way of saying different formats, right? So this is
+both input and output using things like text, images, voice, video, all different kinds of media. And again,
+this is different depending on which one you decide to go with. And it's not just the input of it, you know,
+hearing your hearing an audio file or seeing an image, but it's how it can respond and if it can draw an image
+for you back or create a file that you can listen to or a video that you can watch. Chat GBT has integrations
+with its image generation models like Dolly that allow it to take images. You can edit them, generate them,
+and it will spit them back out for you and in the format that you're asking for. At the time of this
+recording, OpenAI is planning on adding Sora integration into Chat GPT, meaning that it can generate videos
+for you, not just static images. Now, this is where Claude is actually falling a bit behind because while it
+can generate really nice diagrams and charts and reports for you, it can't quite do images. It can read them,
+but it can't really generate images. So for those reasons, chat GPT is going to get the point for
+multimodality. Reasoning is all about if you can trust the output. It's how the AI thinks and how it gives you
+the answers. And a lot of times AIs like to hallucinate. They just make things up. So this is something that
+of course we want to avoid. The same thing that makes chatbt great at brainstorming is kind of the downfall of
+it in this section. That's because this level of kind of creativity is what hurts it where it'll just make up
+some incorrect facts sometimes. For example, sometimes when I'm asking it coding questions, it'll give me uh
+you know a command that just doesn't even exist when I go to look it up in documentation. Although a redeeming
+factor for GPT here is its deep research where it's an agentic model of running AI that will search through
+the web, find different sources, compile them and giving you give you a response directly using those sources.
+Now, Claude also has this agentic research mode, but out of the box, it is better built for intellectual
+honesty. I think it's baked into the system prompts where it'll answer more of I'm not sure instead of giving
+a completely incorrect answer. It's also important to note that Claude has an extended thinking mode that
+thinks through problems step by step and lists out for you to see. So, it kind of acts like a human where you
+don't just go all in one shot, but you do it step by step. Chat GPT has a thinking mode as well, but it isn't
+as good at visualizing it and allowing you to be able to see what's going on. So, because of this, Claude is
+going to get another point, and you're probably starting to see a common theme here where Claude is getting
+most of the W's here, but let's go on to the last section, which is about agents. And lastly, we're going to
+be talking about AI agents. And you've probably heard of this before, but you may not know exactly what it
+means, but it's super powerful because it allows the different AIs to run processes and tasks all on its own
+without you having to interfere with it. Agents are where it starts to get fun because this is where AI can
+start making decisions and doing things without you having to get involved for every step of the way. So, it
+enables AI to use certain tools like browsing, writing code, reading files, all autonomously. So, Chad GPT
+does have an agent mode, which is great if you want to do research again like the deep research that we talked
+about in the reasoning section is agentic. So, it's able to go online, do research, find websites, perform
+actions like checking your Google calendar as a source, for example. It's great that it's able to handle all
+those actions on its own without you having to interfere. But Claude really bumps this up to the next level
+because they have multi-agent workflows. The first type is sub agents which is very specialized agents that
+are spun up by a main coordinator agent and they run in parallel. So one could do research, one could write a
+draft, one could review and they're all orchestrated by the same agent that will assemble the results at the
+end. Now the next step up from that is agent teams. And instead of just having a single orchestration agent,
+Claude is able to spin up multiple different agents that will work together with each other in parallel. So,
+think about a coding agent talking to a researcher and a writer, for example. Those will all talk to a project
+manager that will be able to synthesize the results, but they're all able to communicate with each other
+during the process rather than having to wait until the orchestrator gets it before responding. So, you
+probably could have guessed it, but because of the multi- aent systems, Claude is going to take the dub for
+the last category. Now, we don't got to tally it up for you to be able to know that Claude takes the win here,
+but when we do tally it, it's five to one, Claude over Chat GPT. So, let's take a look at a couple of examples
+with personas that have real jobs that you might be able to relate to, so that you can kind of see which model
+makes the most sense for their different situations. So, first up, we got Jessica here. She is the head of
+content for a B2B SAS company, and her main job is to ghostrite for her CEO, where voice matching is super
+important. It is everything. Now, off the bat, from our scoring beforehand, we know that Chat GBT is going to
+struggle with this because it is not great at matching the voice of the person who's writing, and it sounds
+very AI. With Claude, you're able to load in with its super long context window a bunch of examples of
+LinkedIn posts that the CEO has made so that it has context as to what he sounds like. Then with its superior
+writing abilities, it's able to create some long- form blog post content that has real opinions and edge to
+it. Something that Chad GPT kept using overly AI words like thought leadership into. All of that combined with
+anti-prompting gives Claude a very strong base as what it shouldn't do so that it is able to make the right
+outputs pretty much exactly what you're looking for and honoring those decisions without having to get
+reminded every time. So for Jessica, Claude is the clear winner for this situation and what she should be
+using to be writing her content. Now Dana over here, she is a freelance designer. So she needs those visuals
+for her job and being able to generate those is the whole game for her situation. With Chat GPT, Dolly isn't
+able to actually create those images just by giving it text prompts. If she needs to make any brand concept
+images, she's able to do that straight in the chat. If she integrates that with OpenAI's Sora model, she's
+then able to create short form videos that can be used as reals for clients. And since it takes images as
+inputs as well, it's able to iterate on the images that it generated and make adjustments to make it exactly
+how Dana wants it to look. So the clear winner for Dana and her freelance designing job is going to be using
+Chat GPT. All right, last up, we're going to be taking a look at Raj, who is a senior engineer. So he lives
+and breathes code. Since Raj is going to be working with so many different internal tools, think about GitHub
+and Jira, he wants to be able to connect to them through claude connectors, and these are a lot more
+customizable than marketplace GPTs are. So, if he's running everything internal to his company, he's able to
+adjust them and fine-tune it a little bit more with Claw than he would be able to with Chat GPT. Plus, since
+he's working with a team of eight, he's able to share the context across projects with them and then create
+custom marketplace plugins that everyone can use. And due to Claude's super large context window, it's able to
+check out the entire codebase that is using the whole mono repo and have agents that are running autonomously
+to create features and check out different bugs and test out the different things that they've implemented.
+And if an error does occur, they have an agent team set up to handle those incidents. So, it's able to pull
+run books, check commits, draft a post-mortem, all super fast, and they don't really need to coordinate this
+manually. So, obviously, Claude code is going to be the best option for Raj and his team here. All right,
+we've run through the criteria that we're using to measure success. We've put Chachi and Claude head-to-head
+and scored them to see what would be best for different scenarios and we gave real world examples of different
+jobs where they might be using different AI models. So, what we're going to go over here is the voice
+framework. And this is something that you could follow step by step so that you can make the decision for
+yourself on what you need for your exact situation. Now, first up, this is going to be the V for visual. And
+you need to ask yourself, do you need to generate images, video, or voice? Because if any of those are true,
+then you're going to immediately go and choose chatp over claw because it is multimodal. Then you need to
+think about the output. Is this something that a real person is going to be reading and judging or is it just
+for you? Because if it is for other people and you care about what it sounds like, then you're going to want
+to choose claw because it sounds much more humanlike. The I is for infrastructure, but you can think about
+interconnection or integrations. Basically, do you need this AI to go and connect to different sources? Do you
+need it to perform actions, write notion files, write emails, read your calendar? These are all things you
+need to think about with the eye here. And if it is the case and you want to create custom tools, then claude
+is going to be the way to do that for you. C is for context. So if you're going to be working with super long
+documents or entire code bases and there's just a lot of text that you need to be referencing, then claude is
+going to be the way to go because of Opus 4.6 1 million token context window compared to GPT5's 400,000 token
+window. Plus, with projects, you can create a single project with some context that you can share with your
+team so everybody can use it. And lastly, the E in voice is to execute. Does this task need autonomous agents?
+Do you need this to run very quickly where agents are running in parallel, each one that's specialized in
+completing a different task and communicating with each other? If you need this to be the case, then Claude is
+going to be able to go with its sub agents and multi- aent teams, while ChachiPT only has its single agent
+system. And now you have the framework that you need to choose the right AI for your situation. And I want to
+make sure that you don't make any mistakes when implementing this because there's a few common mistakes that
+people tend to do. So let's go through them. The first one here is using chat GPT for writing and just
+trusting the output blindly. Chat GPT can sound kind of convincing because it states facts like it's true, but
+in reality the voice is polished, but it's not really reliable. It tends to hallucinate a bit. And I think
+this really stems from it being biased towards doing encouragement. So rather than, you know, being a good
+critic for you and telling you what's true, it'll just encourage you to validate you and continue the
+conversation. So using Claude is going to be better for content that humans are going to be reading, right? If
+you're going to be publishing this for the public and for other people to read with an audience or if you want
+honest feedback on something. Another super common mistake that I see happen very often is re-uploading the
+same files for every single session and this is just very unnecessary. Uh think about if you have a style
+guideline or a document with some context in it. A lot of people will just upload that into every chat session
+that they have. But if you use claw, you're able to set up a project that you can add knowledge files to. So
+all you have to do is start a conversation in there and it will basically spawn a new chat that will just have
+that all that context baked into it already for you. And last but not least is forcing one tool to do
+everything. So many people start with using chat GPT and that's all they're used to and they don't want to
+learn something new even though it could be leaps and bounds better for the things that they need to do. So if
+you're going to be creating like images for example, then you don't need to keep using Claude, right? It's
+okay to go back to JT GPT. It is better at doing those things. But if you wanted to match your brand voice and
+create good, you know, content and writing for you, then you might want to check out Claude, right? Because
+it's better at doing those things or even, you know, connecting and doing integrations with other things. It's
+okay to know which one you want to do for your situation and be able to change back and forth, right? You're
+not married to one. So, congrats. You made it to the end here. If you decided that you do want to switch from
+chat to Claude, this is a super quick 60-second migration guide to take all of the memories that chatt has
+about you and just straight up implant them into chat into Claude so that it knows everything about you. So,
+let's go ahead and do that. I'm over here on Claude.ai and you can click on your profile here and go to
+settings. Then here, you want to click on capabilities and there is a start import button right here. So, this
+is a memory file, but we're going to click start import. And it gives you this prompt. So, you're going to
+want to go ahead copy that prompt. Then, switch over to chat GPT. And before you paste it in, go on your
+profile, go to settings, and go to personalization. To make it have better outputs, you want to make sure that
+both of these settings are turned on for memory. Then, what you could do is paste in that prompt. Go ahead and
+run it, and it should find pretty much everything about you. It's going to export that uh here that you can
+put into Claude. So, we'll give it a second here and we'll see what it's able to return. All right. So, it
+went way back here. It's looking at some, you know, older things when I was looking at coding with Zod schemas
+and some of the stuff I'm working at right now. Um, but we're just going to go ahead copy all that, pop over
+to Claude, paste this in here, and click add to memory. So that's going to basically import Chat GPT's memory
+into cloud so that you can you know it knows everything about you and you can uh you know run this migration.
+So it's going to update its memory here and there it is and it has a little bit information about me and if
+you want to make any edits you can click the edit button and iterate from there. But from here now you can
+just chat with it and it should tell you some things about you. So let's see what Claude has learned about me.
+It's going to look at that memory file, run through it, update it, and yep, it knows I'm a meds fan. Not
+really planning on doing this anymore, but you know, it knows it from Chat GPT's history. Um, and yeah, it's
+running through a bunch of stuff here with my cloud infrastructure career. Awesome. So, if you want to know
+how to do that, this is a super easy way to make that migration happen. So hopefully you found this video to
+be helpful and now you can make the decision for yourself if you want to choose chatbt or to go with claude.
+And now that you know a little bit about claude, you might want to learn how to do things like scheduled task.
+This lets you basically run an AI employee 247. So I actually made a video on this. If you want to learn more
+about it, you can go ahead and click the link right

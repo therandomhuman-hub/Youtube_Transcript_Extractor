@@ -1,0 +1,288 @@
+Title: How to Use Claude Skills and Plugins Like the 1% (COMPLETE GUIDE)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 7JRw2SVgOpQ
+URL: https://www.youtube.com/watch?v=7JRw2SVgOpQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:20:47+00:00
+
+Kind: captions Language: en If you're using Claude, there's a good chance you're not getting anywhere close to
+what it can do for you and your business. And it's not because you're using it wrong, but because most people
+only ever get to level one. When in reality, there's actually three levels to how you can customize and use
+Claude for [music] your situation. And the difference between level one and level three isn't just minor, but
+it's going from, "Oh, this saves me a couple hours of work." to "This completely and fundamentally changes the
+way that I get work done." Today, I'm going to bring you all three in skills, skills 2.0, and plugins. [music]
+And for each of them, we're going to do business tasks, so you can actually see the difference and how the it
+improves between [music] each of the levels. Stay tuned for the plugins at the end, cuz what I'm going to show
+you genuinely shocked me the first time I saw it. So, a quick setup before we dive in. We are going to be
+working in Claude co-work. And this is in between Claude chat and Claude code. So, you don't need to be
+technical, and it was made for business users. And the difference here is that you can use co-work when you
+want Claude to actually go connect [music] to things and do things. So, the question we are going to be
+answering today is how can we get Claude to actually [music] do things for you? You know, all the repetitive
+business tasks that you're doing on a daily [music] basis and that kills time, rather than it just being a
+generic chatbot. Skills, skills 2.0, and plugins are three different answers to that question [music] with
+each one becoming more and more meaningful. And in this video, we're going to show you an example going
+through each of them. we're going to do is go over a competitive analysis report where you are reaching out to
+different competitors, seeing [music] what has changed in the past week, and sending that out to your team.
+So, this is a real business task that has actual revenue that's tied to it. All right, so first up, let's talk
+about what skills are. And what skills basically are is just a really lightweight file that you can give to
+Claude, so that it knows how to perform a a task. It's like a set of instructions, but you can then export it
+and give it to someone else so that they their Claude knows how to use your skill. So, let's look at an
+example of what it's actually composed of to make a skill. You can see in Claude over here, uh there is a
+customize skills section. And then within here, we opened up this brand guidelines skill. And there's one main
+file here, which is a skill.md, which is markdown file. With in that file, there's a few key components. The
+first one being the name. So, the name is just the name of the skill. This one is called brand guidelines. Let
+me uh highlight it so you could read it. Second one is the description, and this uh is just a description of
+what the skill does. And everything below this line here is the actual content of the skill. So, this explains
+what your brand guideline is. So, it's just a very light file that you add into your Claude, and anytime you
+ask about a brand or your brand guidelines, it's going to know to use this skill, and it will know exactly
+what your guideline is. And then you can export this, give it to someone else so that they know how to use
+your brand guideline. So, think about if you are a marketing team, you could give everyone who is a designer
+on your team this skill about what your brand guidelines are, and now they know they can use it with their AI.
+So, let's take a another a look at another example, maybe a little bit more in-depth one. This one again has a
+skill.md file, but there's also other folders. So, this is like a templates one, and it includes a script and
+a viewer. So, you can add other files as well. And within the um content of your skill file, you can reference
+those other folders or those other files. So, if this is like a scripts file, you could tell it, you know, to
+run a brand guideline, make sure that you run the generate uh script, and it will, you know, it can do
+whatever action you write in the script. So, that's just another power that skills have. So, again, like I
+mentioned, one of the biggest parts is that you can share these with other people in a very lightweight
+fashion. There are marketplaces out there like ClawHub that you can basically browse. And, you know, if we
+like this, let's find a good one. Okay, Brave Search. If you like this Brave Search skill, you can go in and
+all you have to do is you can see all the different files here. Again, some scripts, the skill file. You would
+just have to download these, and then import it into your uh your claw or Claude. So, yeah, that's that's an
+example, and we're actually going to go ahead and make a skill now, and it's going to be about competitor
+analysis. All right, so let's go ahead and make our first skill. So, what we have to do is if you open up the
+side panel here, there is a section called customize. Within there, there is another section called skills,
+and you can see all of my existing skills here, but if you want to make a skill, what you all you have to do
+is press this plus sign. You can create with Claude, or we're going to actually put the skill instructions
+right in there. And we have to come up with a name for it. So, like I mentioned before, this is going to be a
+competitive research skill. And then we give it a description. So, let me copy and paste this one that I have
+set over here. It's going to summarize weekly changes, and then check competitors, analyze their updates, and
+prepare competitive digest. And then the actual description of what to do, that we're going to make a very
+very simple one for this research. And we're going to say, let's see if I can print it a little bit nicer. Um
+now, I'll format it here. So, it's just going to be um doing a report, visiting the sites, looking for their
+recent content. Uh it's going to summarize the changes, format it, and keep it natural. So, a neutral. So,
+let's create that skill. And now we have a competitive research skill in my skills section. So, let's go and
+create a new chat. So, let's run a competitor research. So, what I'm going to do is say, Okay, so I'm running
+a local coffee shop, and I want to do a competitor analysis to see what other competitors are doing in my
+market, specifically things about promotions that they're running, different items that they came out with, or
+events that they have. So, some competitors that I have nearby are Starbucks, Blue Bottle, and Duncan. Let's
+run that, and we'll see what it does, and if it actually uses our skill. Of course, so we could see already
+it's using the competitive research skill. It does Reddit, and now it knows what it needs to do exactly. So,
+it's going to search the web for competitors, the exact ones that I mentioned. Uh now it's coming up with the
+report. So, there's the digest talking about new items from Starbucks, their spring menu. Uh Blue Bottle also.
+Oh, here's promotions, right? So, there's food promotions. Um Yeah, and like what things that it means for me.
+Same with Blue Bottle, same with Duncan. So, awesome, it comes away with key takeaways. So, again, if you have
+a team that is performing competitive analysis regularly, you could just create a skill for them, hand it out,
+download it, give it to everybody, and they can upload it into their Claude, and now they can do the exact
+same um competitive analysis that you do, and it will come out in a consistent format because you all have the
+same skill. So, skills are great, right? But, Claude actually just came out with something called Skills 2.0,
+which isn't anything different than the skills we just created, but what it is is a new way that allows you to
+make skills in a much more comprehensive way so that you can get the results that you want. So, how to how do
+Skills 2.0 work? Well, the what main key difference here is that now there is a skill creator. You see uh the
+skill creator over here, and it runs a set of steps consistently. So, first of all, it interviews you. It asks
+about, you know, exactly what you want to do in this skill. So, that it gathers all the steps and the context
+that it needs to create what you are looking for. Then it drafts up a uh example of what the skill could be,
+and you can confirm, yes, this looks good, this is what I want to run. Then it goes ahead and tests it. It
+actually runs the skill, and it does it um it runs the task with the skill, and it runs the task without the
+skill. So, it can see how effective the skill is, which ties into the next step, which is evaluating, which is
+actually creating some numerical um values to compare the results of uh of running your uh prompt with and
+without the skill. And it will see, you know, how many of your test cases passed. How much time did it take?
+So, you can compare all of those things to see how effective your skill is. Then you can provide feedback, and
+once you provide feedback, it can revise the actual skill that I created. And basically, it just repeats this
+over and over, right? Um yeah, something like that. It will you know, continue to create, test, you give it
+feedback, and it revises. So, it goes over and over in a loop, and then eventually, once you finally think
+this is what you want, the last step executes, and it creates the skill. So, let's go ahead, and we're going
+to create the competitive research uh skill, but this time, we're going to do it with the skill creator. As
+you can see, I opened up Claude Co-work here, and we're going to use the skill creator now. So, use the skill
+creator to make a skill that performs competitive research. It should research the competitor activities,
+summarize their weekly changes, and when it's used, it should check those competitors from a list that I
+provide, uh analyze the their updates, provide a digest of the results. So, within that report, I want to see
+um you know, which sites are being visited. I want to see the uh you know, any of their recent posts that they
+created, any product updates, any pricing changes, any events that are going on, then summarize those changes,
+um you know, what changed and why it why it actually changed, why it matters to me. Format the output as a
+weekly digest um with one section per competitor. So, keep the tone very factual, very neutral, and give me a
+few bullet points at the end that I can use per per competitor to compare them. And let's see how it works
+with creating the skill using the skill creator. So, the skill creator is right here, customize skills. You
+can see, it's actually a pre-built skill creator by Anthropic that gives all the instructions on how to create
+skills. So, that's what's going to be running. We go back to here. Use the skill. And it's using the skill
+creator. Awesome. So, it knew exactly what skill to use to create the skill. So, I'm going to let this run for
+a bit and I will get back to you with some of the results. All right, so it just finished up here and it gave
+us a report that we can use to compare the task with and without the skill that we just created from the skill
+creator. It's also important to know you could see the progress up here of the skill creator and it's the
+seven steps that we outlined earlier. Right now, it's waiting for feedback so it can refine the skill. So,
+let's take a look at this report. We'll open it in Google Chrome. And we'll we will see exactly what it's
+telling us. So, again, this is for the competitive research skill. Um pretty cool. It makes this whole report
+for us and it's running through the prompt that it gave. This is Notion, Linear, and Asana. It's comparing.
+It's giving us, uh you know, recent posts, updates, pricing, events, all the stuff we asked for for each um
+competitor. And at the end it gives us some competitive uh summary. So, it gives us formal grades as well. Um
+this one is kind of weird. It says It says that it's zero pass, zero failed of zero. So, I think there's a bug
+there, but looks like all these are checked off, so it passed and we can provide some feedback here if we
+want. Um we can go to the next one also. This is it without the skill. So, we can look one uh one by one. We
+can take a look. And we see one of them actually failed here compared to the other one where all five passed.
+Um >> [snorts] >> Again, this is So, this is for a different competitor analysis, Jasper and Copy. And it
+passed all four here. If we go to the next one without the skill for those two, it looks like it also passed
+all four. So, let's take a look. Um we can go through all of them one by one or there is a benchmark file
+which compares all eval zero, one, and two. So, pass rate, we could see with the skill 100% without the skill
+was 93%. So, pretty close, but it did fail some. And it takes overall more time when you don't or when you
+Yeah, don't use the skill. It's faster with the skill. You can see how much how much faster it is. And same
+with the amount of tokens actually. You could see without the skill it does take It looks like um more more
+tokens, right? This is Yeah, it takes more tokens without the skill. So, overall it seems like the skill is
+better. And then it again breaks it down per eval. Uh we can see the pass rate over here and the time for all
+of them. So, this one passed for both of them, but did take more time with the skill. Interesting. Uh but if
+we look at this one Yeah, this one took much much longer without the skill. So, um super super interesting. We
+can look at the assertions and analysis here. So, awesome. I like what I see. Let's go ahead and submit
+reviews. Okay. Let's go back to Claude. But I tried fixing that bug that we saw earlier with the zero pass
+zero failed, but um it's still showing the same thing. So, not sure what's going on there, but uh overall I do
+like the results from the report that we saw. So, let's go ahead and say Cool, sounds good, man. Thanks for
+making that. Let's go ahead and create the skill. And we will run that. And uh I'll get back to you guys once
+we run through some of these other steps here. Cool, so we just finished up making the skill. We can take a
+look at it over here, the skill.markdown file. And then when we're ready, copy to your skills. I just clicked
+that. So, if we go to customize and skills, we can confirm again that our skill is right here, competitive
+research. So, let's go run it again for our competitor analysis for our coffee shop, and let's see what it
+gives us. Hey Claude, so uh I'm running a local coffee shop right now, and I want I want to keep track of
+what's going on with the nearby competitors. So, I want to know what kind of new menu items they have, any
+pricing changes, any promotions or events. So, please perform a competitive analysis with the competitive
+research skill, and compare it with my nearby competitors, which are Starbucks, Blue Bottle, and Dunkin.
+Sweet. Let's run that. And it should decide that it wants to use the new competitive research skill that we
+just created. So, yep, right there, competitive research. Looks like it's creating a to-do list. Listing
+Starbucks, Blue Bottle, Dunkin. Going to compile all the results into a digest and let us know what's going
+on. So, I'm going to let this run, and I'll get back to you guys with the results. Cool, so the skill just
+finished running, and let's see what it returned. So, it did use the skill. Um used our competitive research
+skill that we created with the skill creator. >> [snorts] >> And now, if we look at the actual digest,
+awesome, it gives the date, the each of the competitors, and breaks it down exactly like we asked for. So, the
+new menu items, uh pricing, key observations, promotions, and it gives actual um dates, too, which is really
+cool. So, Starbucks, Blue Bottle, same thing, some major news. Dunkin, and then, yeah, comparison at the end.
+So, it's kind of an overview of what changed this week. Side by side, and what that means for your shop, and
+listing sources. Um so, super cool. And now, you know, we have the skill, we could share it with other people.
+We're 2/3 of the way done, and if you just stopped here and built skills using the skill creator, then you're
+already be ahead of 99% of the people who are using Claude. But, the next step, which is plugins, is what I
+actually think will make a huge difference for your business. So, let's go and check that out. So, everything
+we've done so far in skills and skills 2.0 are all living in the Claude world. And that's great for some use
+cases, but in a lot of use cases, to make AI useful, we want to reach out to the real world. So, we want to
+talk to Slack, maybe send a message, or create a page in Notion. So, to do those with connectors and bundle
+together so that your team can use it, we need what's called plugins. And the way that it works, and why it's
+so viable, is cuz, like I mentioned, it bundles multiple things together and rolls it up into a single package
+that you can give to other people. So, we went over skills already. That's just one aspect of plugins, but
+there's also commands, which tell it how to trigger a certain workflow. There's prompts, which is you're
+telling it, you know, what it is. And there's connectors, like I showed above, that connect to the outside
+world. So, you can add all of this together, even some other things, like hooks, is one example of something
+else. And that's just a single plugin right here. Now, sharing it with your team. So, with skills, what you
+had to do is you had you had to go and you had to download the skill. Say you had your friend over here. You
+wanted to give him your skill. You had to then send it to your friend from where you downloaded it. Then he
+has to upload your skill onto Claude, he or she, I don't want to discriminate there, into Claude. So, that's
+kind of inefficient, right? That doesn't really work too well in the modern world. Um even with Claude Hub,
+you still have to download and get the skills and re-upload them. But, what uh plugins allow for is a single
+marketplace. So, all you have to do is post your plugin, which is bundled up here, to a marketplace. And what
+that allows is for all the, you know, developers, let's say that's you over here. You're a developer. And all
+the other Claude nerds over here, including myself, this one's me, get to connect to that plugin and use all
+of the things you added to it without having to download it at all. So, this is a huge part of plugins that I
+think is the biggest unlock besides just being able to all of this in one go. So, let's go over plugins now.
+So, I'm in the customize section again, we're back in there, and you can see on the bottom of the sidebar
+there is a plugins area here. And I have a couple of plugins that are already downloaded, but the way you can
+do it is by going here, clicking the plus sign, and then you can upload them yourself. You can create them
+with Claude, or you can browse existing plugins. And when you browse the plugins, there's multiple different
+marketplaces that show up. So, let me shrink myself here a little bit. And you can see, you know, the first
+one is the default one that's from Anthropic. Um but, there's also a personal one as well that you can add
+from GitHub. You can add from a URL or upload it yourself um too. But, what is actually involved in a plugin?
+So, if I expand the one that I have here for productivity that I downloaded from Anthropic, you can see it's
+composed of three different subsections. There's commands, connectors, and skills. And those are all bundled
+together to make a plugin. So, a command is what triggers a workflow just by name. So, we have a start and an
+update here, which both connect to the productivity system. We have skills, which we just went over in parts
+one and two, which basically explains how to use other, you know, commands, connectors through prompts for a
+very specific type of action. So, there's two skills involved. Uh and then there are connectors, which is
+model context protocol, MCP, which tells you how to connect to all the other sources that this plugin might be
+using. So, you can see for this one, for productivity, there's Slack, Notion, Google Calendar, Gmail, and I
+need to set up all the rest if I wanted to use those. So, it's really cool because you can bundle it all
+together so that they can reference each other, interact with each other to get the results that you want. You
+could also add it to a marketplace so that anybody else can download it from anywhere that has access. So,
+what we're going to do is we're actually going to make one for ourself for this competitive research, and I'm
+going to show you how you can upload that to a marketplace so that you can download it or you can make your
+own and share it with other people. So, let's hop right in, and what we're going to do is start by going to
+productivity. Or sorry, we're going to start start by going to create with Claude. And from here, yep, let's
+say I want to make a new plugin. Yeah, let's go. We'll kind of walk through the steps that are involved with
+that. Now, it's asking me a few questions. So, it's saying, "What should this plugin do? What kind of problem
+or workflow does it solve?" I'm actually going to put in some vocal instructions here. So, let's say I wanted
+this to perform a competitive research for me so I can look at all of my competitors sites. I want to analyze
+any of their recent posts. I want to find product updates and any pricing changes or events that are coming
+up. Summarize those to see what changed and why it matters for me. And format it as a weekly digest where it's
+a section per per per competitor. But it also shows me a comparison versus them so I could see what I need to
+change for my business and what I should be doing. So keep it factual, keep it neutral, and you could add a
+couple of different bullet points for each competitor. All right. And use this plugin, let's just say I'm
+going to share it to anybody. So I'll do anybody right there. So we'll let this cook and all right, it's
+already responding. And I'll come back to you after it has worked a bit. Claude finished setting up my plugin
+here and if we go through it asked me a couple more questions so it was able to clarify and give itself a
+direction. And it gave a plan for how it wants to create the plugin. So it said it wanted one skill, two
+different commands. No agents, no hooks, no MCP. And then it went ahead and started building it. And now it
+created the outline of the plugin over here. So it starts with this Claude plugin file with the which is a
+plugin.json. Uh commands, the two commands that I mentioned, the skills here. Um so super cool. And now all we
+have to do is save this plugin. So let's go ahead and save that. Plugin saved. Let's manage. Let's take a
+look. So yeah, competitive intel. You could see it has the commands. One, two skills. Sweet. And let's
+actually try it out. So all right, we're in Cowerk. So let's go ahead and we'll ask What's up, Claude? Uh can
+you actually create a competitive Intel uh report for me using that plugin? I want to uh create a competitor
+analysis since I'm running my own coffee shop, and I want to track all of the competitors that are nearby. I
+want to see what kind of new menu items they have, different promotions that they have, and events, and
+basically just what's going on recently that I should consider for my own business since they are competitors.
+So, some of the nearby competitors to me are Starbucks, Blue Bottle, and Dunkin. Let's see if it ends up
+trying to use the plugin here. So, it's going to run a bit. Running a skill. Yeah, it's pulling from that
+competitive Intel plugin. And it's going to pick the skill that it needs, competitive research. So, now it's
+going. And it's going to run through exactly what we asked. So, I'll uh I'll sync up again when it's complete.
+Just finished up the report using the skills that we gave it in the plugin. And it created a new report with
+the date, the different um the different competitors here. Some things that they're adding, again, new items,
+promotions, events, news. And then gives me a takeaway at the end. So, super cool that we were able to, you
+know, set that up as a plugin, and it's just a much more structured way of handling things. So, what we want
+to do now is add it to a marketplace so that we can share it with other people. This is where the real unlock
+comes in because now your whole team, rather than sending skills files back and forth, you can just have this
+in a central marketplace that all you have to do is plug into and grab it, right? Plugin, that's the whole
+name of it. So, let's go ahead and get that started. So, what I'm going to do is open a new task. Let's say,
+"Hey Claude, can you take my competitive intel plugin and turn it into a marketplace format? I want to be able
+to host it somewhere and share it with my team and other people." So, let's run that and should put it in the
+right format that we need. Claude just finished uh updating the plugin now so that it can be accessible. And
+you can see over here, made a couple of changes. Um added a homepage and a license, which definitely isn't the
+right license, but we'll roll with it. Um but this homepage is where it's going to be hosting the plugin so
+that other people can download it. Um you can actually read a couple of other um changes over here that it
+made. But what I want to do now is add it to GitHub so that other people can download it. Now, if you don't
+know what GitHub is, uh it is basically a code repository that yeah, that's what it It is what it sounds like.
+It stores all of your code. So, those files that we just mentioned, we're going to add it to GitHub so that we
+can download it from anywhere. So, how do we do that? Well, I hooked up Claude with GitHub MCP, which is
+basically a connector. And since I didn't have a pre-built connector, I used uh a custom connector. So, that's
+using this over here. So, you see using GitHub PAT is what I used. You can follow these instructions if you
+want to learn how to do that. But, if we go to the connectors now, customize connectors, you'll see there is a
+GitHub one right here. So, let's go ahead, go back to this chat, and say, "Looks good. Can you use the GitHub
+MCP connector that I set up to add this to well, to create a new repository for this plugin, and then add all
+of these files into the plugin, and once that's done, give me instructions on how I can then use it in my
+Cloud Co-work here." Let's run that. And it should start using the GitHub MCP to add it to my GitHub. Our
+plugin is now complete in GitHub. So, it connected to the GitHub MCP, and it created a repository. And what it
+did is then add all the files into the repository, but when it said how to share it, it was telling me to
+download as a plugin file and upload it, but I wanted it to just straight up uh you know, be able to install
+it as a marketplace item for other people. So, I told it to do that, and it readjusted it, turned it into a
+marketplace.json file, and updated it in GitHub. So, if we can check out in GitHub now, it gave this link. And
+now, you know, if you guys ever want to use this, you're welcome to uh do the same way. So, on here, yep,
+there's the exact files that we had, Cloud plugin, and it added this marketplace.json. Awesome. So, let's go
+back into here. It says this is the GitHub Marketplace URL. So, if we go to connectors or plugins, I'm going
+to delete this one. Uninstall. Gone. And what we could do now is browse plugins. And we can do add or local
+uploads. Okay. We can do add here, add from GitHub, and we can type in, you know, just exactly what it told us
+to, sync. And if it did it properly, boom. So, now we have the competitive intel plugin by Sean Wagend.
+Install that. And look at that. We now have the competitive intel plugin that anyone can use. So, again, if
+you guys want to use this actual plugin, you can do the exact steps I just did. All you have to do is do the
+plus sign, browse plugins, personal, add add GitHub, and type in what I just did. And now, you could just go
+to the chat and uh speak with it and ask it to run a competitive analysis. Now, let's bring all of this
+together. So, skills give you a repeatable, [music] reliable instruction set that is better than prompting and
+compounds [music] as you create more of it for the different tasks that you complete. Skills 2.0 with the
+skill creator gave you an actual system that you can use to reliably build skills that are tested, and well
+documented. And plugins are what gives you connections by bundling skills, commands, and connectors all
+together into a single source that doesn't really act like an assistant anymore, but an actual employee that
+can do end-to-end workflows for you, and you could share it with your team so that everybody can take
+advantage of these abilities. Each level is genuinely useful on its own, and they actually build upon each
+other. But, when you finally bundle them all together into a plugin, that's when you get the real leverage
+because you're finally closing the loop between what Claude can do >> [music] >> and what your business
+actually needs done. And with the official marketplace, the setup is super simple where it only takes a few
+clicks and a couple minutes to actually add in these plugins and start taking advantage of those workflows.
+[music] If you're watching this and you're thinking, "I actually want to figure out how to make this work for
+my business." that's a conversation that I love having. I offer a free AI strategy call where we'll go over
+exactly where AI might be able to move the needle in your business. [music] Now, if we determine that's a good
+fit to work together, then that's great. If not, then it's no risk to you. You walk away with a completely
+free, 100% customized AI roadmap for your business. Link is in the description if you want to learn more, and
+if you want five steps that you can actually use to learn AI in 2026, then go ahead and check out the video
+right here.

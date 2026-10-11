@@ -1,0 +1,841 @@
+Title: "Coding Is DEAD!" AI Billionaire Gives Exact Blueprint to Get Rich in 2026 (ZERO Employees)
+Channel: Jack Neel
+Type: VIDEO
+Video ID: UzG2qEFgUoQ
+URL: https://www.youtube.com/watch?v=UzG2qEFgUoQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:51:33+00:00
+
+Kind: captions Language: en The world was built by people that are not much smarter than you. Your job is to
+find the way of doing things that's more aligned where the world is headed. Today's guest built a tool that
+creates billion-dollar companies in less than a minute. >> I think it's the easiest [music] time to get rich
+in the history of capitalism, but certainly in the history of internet. Growing up in Jordan, he was
+fascinated by programming, but couldn't afford a computer, which inspired him to make coding [music]
+accessible for everyone. You can cast almost any problem in life as a coding problem. And I thought, "Okay,
+I'm going to hack into school and change my grades." >> But when his company hit a billion-dollar valuation,
+[music] he refused every offer to sell, doubling down on his mission to turn the tech industry from a [music]
+monopoly into a democracy. How much were you offered to sell your company for? When we're very small, not a
+lot of people, I think six people, were offered a billion dollars. And why did you say no? Because I think I
+can build a trillion-dollar company. In this episode, [music] we'll give his exact blueprint to build a
+million-dollar app in minutes, explore why the most powerful tech companies tried to kill [music] his vision,
+and question whether AI will enslave us or empower everyone to escape the rat race. Why do you think AI isn't
+going to kill us all? I'm Job Masoud. Welcome to the Jack Conte podcast. Thank you. I'm Job. You built a
+billion-dollar company that makes apps just by talking to AI. If you wanted to build a million-dollar app in 5
+minutes, how would you do it? It depends on my contacts. I would look around for problems to solve. So, no
+matter where you are in life, you're in college, you're in at work, there are people dealing with problems all
+around you. Uh one of my favorite recent startups that that came out of Replit, um is a is a is a finance guy,
+and he was on a plane, and next to him was uh was sitting an investment banker, just spending a lot of time
+building spreadsheets and building uh decks for clients. Um and he had an idea to automate a big part of that.
+Um and he told him, "You know, I have an app for you." And he didn't have an app. "Can I come pitch it to you
+tomorrow?" Uh he said, "Yeah, I mean, if you can solve this problem, if you can make it faster for us to to
+get to our clients." He went home and he he's been using Replit just personally, just for fun websites, things
+like that. He spent the night working on the app. Next day went and pitched it. Left there with half a million
+dollars of um letter of intent. Um and did this a few more times with other bankers. And um he's just raising
+at a $35 million valuation right now. So, it's more than 1 million, it's 35 that, cuz he already has a lot of
+contracts right right out of the door. Um so, it's very contextual. We have a educator that's like a more of
+an um story from 2 years ago, cuz the company's pretty big right now, half a billion dollars worth. Uh but he
+he's a teacher during COVID. I think he just left his uh his his school and started playing around with AI,
+playing around with Replit, going in and trying his hand at coding with AI. Um and because he knows the
+problem space deeply, he was able to build a lot of tools for teachers, for grading students, for creating
+assignments uh with AI. And education is one of like the hardest markets, but AI has this amazing ability to
+sell itself. Um and quickly grew the company to 10 million annual revenue, 20 million annual revenue, and now
+it's like half a billion dollars worth company. Uh but there are a lot of smaller ones, too. Uh the other day
+I was on on Twitter, saw this guy who created a an app quickly with with Replit to generate brand kits and
+brand design material logos, all of that. You enter your product name, you go through a simple flow. It's
+called anybrand.co. And you pay, I think 40 bucks or something like that, and you get an entire brand kit
+generated with AI. Um and so I see these stories every day. And it's typically someone who has some domain
+knowledge in a certain thing, you know, they're um they realize there's a problem around them. Maybe, you
+know, I see all my friends trying to start companies, but brands are really hard to build, so let me like
+automate that. So just like look around you in the world and just see what what are the problems that people
+are dealing with that are that that are willing to pay for it. And it's so easy to try things. Uh and because
+it's so easy and cheap to try things, you can iterate really quickly and arrive at a at an idea. I think it's
+the easiest time to get rich online. In in in his I think it's the easiest time to get rich in the history of
+capitalism. Uh but but certainly in the history of internet. So if I'm someone with zero dev coding
+experience, what problem did you guys solve here? And like what are people missing about where AI's at? Like
+you can kind of just speak apps into existence at this point? Like how much editing of it do you have to do?
+Like how much of this really is just it's done. Month over month it's improving. I will say at this point we
+have an automated software engineer that is as good as a mid-level software engineer. It would get a job at
+Facebook or Google. Like it it is really good. Like you don't have to look at the code at all. Actually, you
+know, initially Replit started as like, let's make coding easier. So there was still coding in the interface.
+Increasingly we're just removing the coding features because you don't need to code anymore. Actually, even
+professional software engineers are not coding anymore. So, code is almost fully automated. Um I mean, it
+depends on the specialty and the language and there's some nuance to it, but for the most part people are not
+coding anymore. It's It's become a more higher-level thing. So, engineers still do some kind of engineering
+systems engineering, whatever, but if you're a product builder, all you have to care about is who the customer
+is, what the problem you're solving is, what's your core differentiator. What do you understand about the
+world that other people don't? And can you put that into code into an app? Um so, if you go to our applet
+right now, there's a prompt box like ChatGPT. You type in your idea, like I want to create, you know, brand
+kit generator. Uh it'll go through a planning process. It'll tell you, "Here's what I understand you want to
+build." You can go back and forth on the plan. And then you you tell it to go. It'll work for for 10 minutes.
+It'll get you a minimum viable product. Obviously, that's probably not ready to ship yet. Um so, you're you're
+going to iterate on it. You're going to ask it for adjustments. And there's a preview there and there's the
+chat box there. And you're going back and forth. So, you're telling it something, it's going writing the code,
+uh fixing the bugs, testing. It even we give it we give it a browser. So, it can start a browser. It can look
+at the app itself. It can test it. Uh it can go to the internet, fetch information. It can integrate other AI
+models like image generation and things like that. Um and you go through this process. And I think within an
+hour or two most people have an app that they're ready to put in front of a user. It depends on the idea,
+obviously. But for a lot of ideas, you can get something done that you can share with a friend or a target
+user and get feedback from them. Um you don't need any development experience. You need grits and you need to
+be like a fast learner. You need to be like I will say if if you're like a good gamer, if you can like jump in
+a game and figure it out really quickly, you're you're really good at this. But even if you're not a good
+gamer, you'll figure it out eventually. But people who are who grew up with technology, who are like fast
+learners, are are now like the best at this. I I will venture to say that not having a coding experience is is
+becoming an advantage because coders get lost in the details. Product people, people who are focused on
+solving a problem, on making money, they're going to be focused on marketing, they're going to be focused on
+user interface, they're going to be focused on on all the right things. So, um at some point uh I think this
+year it's going to flip and I think not having a coding background is going to be more advantageous for the
+the entrepreneur. Now, when the company grows and um and you're getting a lot of revenue coming in, at some
+point you'll hire engineers just to make sure the security and the infrastructure are scaling and and Rapid
+continues to help with that as well. But getting to market and generating a revenue, you should be able to do
+it in a matter of days. So, I guess just to zoom in a little bit and give people practical steps, um like as
+someone with multi-billion dollar company, if you wanted to build an app that could get a million downloads in
+6 months, like what are the five major steps you need if you could distill it? Um a unique idea. An idea that
+is not like exact copy of something out there cuz cuz that thing exists. You need a spin on that idea that's
+that's interesting. How do you find ideas? I think that's actually the core skill in the IH. I think if if you
+want to work on a skill, it's going to be about idea generation. Cuz [gasps] the cost of implementation of
+those ideas is going down rapidly. It's going to go to zero at some point. Um so, the bottleneck becomes is
+like how fast can you generate ideas? And that skill is about one perception. Like just looking around you in
+the world and and and seeing what's what's happening. What are the trends? Are you plugged in on social media?
+What are uh people talking about? What is like the most interesting thing that that's happening? And is there
+is there a market for that? Maybe we'll we'll get to that later on, but we were discussing this idea of um uh
+a looks maxing app, right? I mean, uh it's it's your idea, and I think it's a great idea because it's
+something in the ether right now. People are discussing. People are interested in it. Can you build an app
+that gives you feedback on on on your looks maxing progress? That's that's really great. I saw an app the
+other day that um uh judges uh like gives you allows you to track your um your hairline progress. Allows you
+to like, you know, um uh gives you interventions to make in terms of like what medications to take and things
+like that. And a lot and it lets you take like a scan of your head and like um obviously it's past time for
+me, but uh if you're dealing with that early on, uh it can help you track your progress. So, that's very
+important. Like I think a lot of you people now your your your generation younger care a lot more about this
+than say my generation. Right. I'd say that's the big the big trend of the past few months. So, being plugged
+in is super important. Um And so, you know, a lot of the vices that my like older generations think are vices
+might actually become advantages. So, if you're brain-rotted, you know, terminally online person, that might
+be advantage because you know what's happening in the world. If you're someone who's also just like ADHD,
+really interested in novelty, want to try a lot of different things, that's actually advantage because AI uh
+really benefits people who can try a lot of things really quickly. Obviously, you can you need to get things
+to completion. You need to have some grit at some point once you got some validation. But trying a lot of
+ideas is important. So, back back to your question. I don't feel like I I answered how do you generate ideas?
+It it's it's a it's practice. It's a skill. Like generate ideas, put them out there. I I really like to use
+Twitter. I I I used to do without a lot where I talk about ideas. I kind of share them and see what the
+feedback early on. But now it like just make the app and see what the feedback is and learn from that and and
+go from there. Um and and think about ideas all the time. I think it's a muscle. Like just continuously
+thinking about, okay, what if I built this? What would happen? Um and so all there's all these different ways
+to be a better idea generator. I do want to ask you some ideas you have specifically, but maybe we'll get on
+that later in the interview. Uh So, step-by-step process. First one, get a good idea. Get a good idea. Uh
+typically tied to a trend. Hm. Uh second, uh get um break that break that idea down as much as you can into
+like say a paragraph with bunch of bullets. Like the app, um the looksmaxing app should um you know, have a
+camera with an AI integrated and it should be able to take a photo of my face uh on my phone or on my laptop.
+Uh and it should um kind of draw and I'm just making this up. It should draw lines on it. Like get specific.
+Like imagine the user interface and get specific about that. You don't have to write more than a paragraph
+because what's going to happen then? It'll give you the initial implementation and you'll react to that and
+see if it got it right or wrong. And then you can like sort of nudge it in in different directions. You're
+looking for your key use case. Yes. Yes, you're looking for the main use case. Don't over complicate it. Don't
+like add a bunch of features. You're just like, what is the core experience? And how how can you get really
+quickly to value? Users, consumers these days just don't have a lot of attention span. So they're going to
+give your app like 5 minutes. And so figure out what's the user journey to get to like a 5-minute value, a aha
+moment. Um, and then once you once you do that, you got your MVP, go try it on someone. Go try it on a
+classmate, on a friend. Um, before that though, so let's just assume for the sake of your company is Replit,
+use Replit or tool like Replit. And then how do you build it? Like how simple is it? Yeah, yeah, you just put
+in the prompt. You hit start building. Uh, it'll start the working environment. Uh, it'll work for 10 minutes.
+It'll show you a preview. Uh, you can if you want to use it on your phone, you can open that preview on the
+phone. >> Give you a QR code. Um, and then test the app. If uh, the app is not exactly what you wanted, most
+likely it's not. The first iteration is not. Go type to the AI. Tell it exactly what it got wrong. It's like,
+you misunderstood this. And don't try to over complicate it. Just talk to it. Talk to it like you would talk
+to a person. Just be as specific as you can. So, you misunderstood this. I meant the AI should work in this or
+this other way. Um and and give it feedback, go through that iteration cycle few times. Um and um and then go
+try test the app. It's really that simple. Like you know, you just need to be able to explain ideas well. I
+think that's super helpful. I don't think the marketing aspect is as important in this particular discussion,
+but because good products market themselves. Well, I would say I would say it is it is important. Like yeah,
+good products are very important, especially if you're creating something totally novel. >> [gasps] >> Um but
+uh figuring out how to promote this is is going to be important. Um the the easiest places to to do it is find
+communities like on Reddit and other communities. Um like if if you have looks maxing app, there's probably a
+looks maxing Reddit. So just post it there. Try to get some early users through there. Go to the various
+Discords. Um at some point So that's like the early users. That's how to get like 100 users. Um at some point
+you need to scale that and that's when Instagram and TikTok uh comes into play. If you're someone who's good
+at that, you have a superpower. If you're someone who's able to like create these short clips and talk about
+products, you have a superpower. But uh if you're not, you can still go reach out to influencers. And you can
+cut a deal with them. You can get them um you know, part of the subscription, part of the revenue. Um you can
+you can just pay them. Um and um and and then and then you go from there. But I would say that's like the
+first few weeks. That's really interesting about the communities. That's also a way to find ideas in general
+is just scour Reddit, scour TikTok hashtags and see like what's a community of people, let's say example looks
+maxing or let's say example like a specific sports team or like sports gambling, something like that. I'm not
+promoting gambling, but you would look at the community, look at the problems they have and then kind of get
+ideas for what you could build. It's really fascinating. >> Yeah, that's exactly right. I mean, the original
+when I posted Replit on Hacker News, that's how I got my first users. Hacker News was, still kind of is, a
+very popular place for for for programmers, technical people in general. Before Replit became more possible
+for non-technical people to to use, it was more of a technical product. Do you remember your headline? Um,
+yeah. Uh, I said um try Python, JavaScript, all these different programming language in your browser without
+installing anything, right? And so that's it's like gets to the core value proposition. At the time to write
+any piece of code, you had to download insane amount of software. Uh, maybe you try to take a coding class in
+college. It's really ridiculous how much uh, you have to deal with uh, in terms of just like writing any kind
+of code. Um, and so I was like, why shouldn't I be able to code in my browser? Like my browser you know, I can
+do my email, I can write my docs there. Should be able to code there. Um, and I also like scouring these
+forums. I'd already seen interest in that and there was like small examples that weren't really working of
+people trying to build that. So it was like if I got it working uh, I can really wow these people. And and
+just like there's a there's a demo effect, right? Like if you're if you're building something novel, >>
+[gasps] >> um, like if you can make your looks maxing app like a truly cool experience, um, then then then
+people will just be attracted to that as well. And they're going to promote it and tell their friends about
+it. So in terms of the headline, yeah, just like what is the core value proposition? Right. And for me at the
+time was it's about coding in the browser. It's so fascinating about what you've built because something I
+discussed with a lot of young entrepreneurs that built these multi-million dollar AI apps or startups was like
+this concept of making short-form content before you even build out your MVP or like your minimum viable
+product uh and then just seeing if there's interest in it but with your company and where AI's at, you just
+build it instantly and you don't really have to worry about the moat of oh, this thing does work. Uh let's
+build it really fast before someone steals it. >> It really changed. It really changed like even the past few
+months. Um that advice of it's like called the lean startup advice. I think started in like uh mid-2000s.
+There's a book called Lean Startups uh and the idea is that it was following from this um uh Toyota way of of
+building cars where they they they would um you know, cars used to be manufactured in a like a you know, heavy
+industrial way where they kind of know exactly what they're going to build and like they'll you know, they
+have all the schematics and they'll like create the factory pipelines and it's very inflexible. They can't
+react to demand. They can't react to changes. They can't react to like recalls or customer feedback and so
+Toyota kind of developed a way of like called lean manufacturing. And so it was like borrowed from that as
+like how can you de-risk startups and like make it more iterative. Um but we're at a such a different place.
+Like execution is no longer bottleneck. If you have an idea, just like make the app. And then go go uh go
+figure out the demand because it's a lot easier than just like talking about it. Little tip, and I didn't know
+this was a thing. If you're someone who wants to earn crypto from your everyday purchases, you can use
+Gemini's new Bitcoin card. Every time you spend, you earn money back in crypto that's deposited directly into
+your account. And with no annual fee, you can earn up to 4% back in Bitcoin with all of your rewards easily
+trackable on the Gemini app. So, if you're someone who wants to earn crypto from your everyday purchases, just
+go to jackneel.com/credit or you can scan the QR code on the screen and hit the first link in the description.
+Guys, this one's a no-brainer. Easy way to acquire Bitcoin without changing your routine. Anyway, back to the
+podcast. I do want to ask uh as far as your mission goes and what you've built today, what's the most
+important part or moment of your childhood to help us understand who you are and what you're working on. Um I
+grew up in in Jordan. Um kind of lower middle-class family. Um We don't have a lot of money. Uh I was lucky
+enough to get good education. But also, the hard thing about it is because I I had you know, I was in a class
+with kids that had a lot more money than us. And so, I saw their PlayStations, their Air Jordans, their like
+all the cool stuff they had that I didn't have, and that really sucked. And I I was always motivated to like
+make money. A lot of Silicon Valley entrepreneurs be like, "Oh, it's all about connecting the world or
+whatever." Yes, I I care about all of that stuff, but my journey starts with I love programming. I've always
+loved programming and understand like how computers work. Um but at same time, I I was also always motivated
+to make money with computers. And I felt like we're at a moment in time where you can build um you can build
+businesses really quickly. Ever since like I found the internet and and in the like 90s I I wanted to like
+build websites to like make money and there was like a bunch of ideas. There's a bunch of examples of people
+making money really quickly. There was this idea of like a million dollar homepage where someone was like
+selling pixels and you can like be Microsoft you can buy like 10 pixels and write Microsoft's logo whatever at
+100 pixels. Um and so the there was this media even at the time was like okay you can make money online. Um
+and I was uh going to the internet cafe cuz we didn't have internet at home so I would like you know scrap
+whatever money we had uh find in couches or whatever to to go pay for like an hour of internet. Uh and I would
+sit there and like look at different websites, look at what people are doing, different games, different ways
+I could like build something that could like make money. Um and then the the the main idea was sitting right
+under my nose which is the internet cafe itself. Uh I was like well internet cafes make a lot of money. But
+they don't use software to manage their business. Like their business is you go in there, you pay, you know, a
+buck or two, you get an hour on the computer. And when you're sitting on the computer they have to keep track
+of you. They're like every hour they're look at the the clock and they're like okay your time is up. They tap
+you on the shoulder. Also when you're on the computer you can like install a virus, you can like delete files,
+you can do whatever. So I was like okay what if I built something that secures the system, makes it so that um
+there's like usernames and passwords, makes it that so that internet cafes need less employees because once
+you run out of time it'll just like boot you [clears throat] out. Um so I built this internet cafe management
+system. And cuz I I knew it and this is the the I keep coming back to this idea of the way to build businesses
+to build things you know about, either trends you're plugged in or problems around you in the world. So I was
+12 or 13 and and I I I spent like you know, a year or two trying to build this software for internet cafes. Uh
+and then went out and and sold it and made quite a bit of money from it. At the time McDonald's was just
+opening in in Jordan and I took my entire class to McDonald's and no one had McDonald's at the time, so How
+much money did you make from it? I made like like 500 bucks. Okay. Which was amazing for me, you know. Um
+salaries in Jordan are are not nowhere near the US and so uh it's like a you know um So I I I felt rich and it
+felt good to make money and it felt even better to make money from something that I love doing. Um and later
+on, you know, as I found more ways with computers and programming, I bought an Xbox, I I I was so happy
+because I'm able to buy things that, you know, my friends' parents buy for them, but I'm able to buy it myself
+even as a teenager. So it felt empowering to make your own money. Um but as as part of that, like a lot of the
+painful part was it's like the tools. Like I would like I was talented programmer and I said the tool I was
+fighting with the tools all the time. And you you just you have an idea, you have the right market, you have
+the right product idea and and skills to build that, but you're still dealing with a lot of the problems with
+the tools. So I I was always motivated to make better programming and coding tools in order to in order for me
+to build easier more startups, more companies, more products and for other people as well and I thought that
+the internet could be this great wealth equalizer and generator. Like, you know, there's no reason that
+Silicon Valley capture most of the wealth on the internet. Because it is the most distributed, decentralized,
+accessible technology in the world. I think part of the reason is because the tools are hard. And maybe
+there's like a intentional part that the tools are harder than they should be. Uh and so like the guiding
+mission for Replit became how do you make coding tools so easy that you don't even need to be a coder to use
+them. And in what kind of world does that create in terms of uh accessibility to wealth generation, wealth
+creation. I want to hone in on that point. How much were you offered to sell your company for? Um at some
+point I was offered, when we're very small, not a lot of people, I think six people, were offered a billion
+dollars. And why did you say no? Because I think I can build a trillion-dollar company. >> [gasps] >> Do you
+think Silicon Valley or whoever was offering Do you think the people offering to pay a billion dollars for
+your company were just going to kill it? Yeah, it was a competitor. And implicit in any acquisition offer is a
+threat. If you don't sell, we're going to build something to compete with you. Because they're interested in
+the product, they're interested in the market. You have to make a bet on yourself that if I'm not going to
+sell, they're going to go buy some other company or they're going to go build it themselves and they're going
+to compete with me. And do I first have the self-belief that I can go against the juggernauts, go against the
+big incumbents, and win. Ultimately, for me, it came down to what I would regret more. Would I regret not
+selling, or would I regret more not not uh achieving my and the company's potential. And I felt that would
+have been a bigger regret. Yes, I I I would be rich, but I would be yet another rich You know, there's a lot
+of them. Uh but building something meaningful that creates meaning not just in your life, but in other
+people's lives, whether it's like the team we built, the customers we serve, the entrepreneurs that we're
+creating, the worldview we're putting out, the mission we're putting out, the influence that comes from that,
+um I thought it would be a loss not to try. Do you think big tech in general was threatened by your mission?
+Yes. You know, what's the saying? First, like they you know, they laugh at you, then they try to fight you,
+then they join you, or something like that. There's saying like that. We're at the like they're joining us
+right now. Like they Initially, it was like, "Oh, Repl.it is this toy, you know, kids use it." Yeah, we have a
+lot of kids using it. We're proud of it. It's so easy that kids use it. Um Yeah, it's like, "Why is that a
+negative thing?" Um It's probably a good sign. It's a good sign. Yeah. Um And and then and then and then when
+they felt threatened by it, they would like try to buy it, um or or or like try to compete on the margins, or
+try to like, you know, compete in the press or PR, but not really on the on the product cuz they still don't
+believe in it, but they want to counter the narrative that actually programming can be coding or making
+software can be something anyone could do. And finally, when we've uh we've we've grown so much, like our
+revenue like a 100x over like 1 year. We're like making 2.5 million to 250 million in over like just over a
+year. Um then they paid attention and they're like, "Okay, this is a real thing and people want it and now
+they're building actual competing products." Do you see what you're doing as I mean essentially you see it as
+the democratization of building software. I Do you think we'll see something similar with tech that we saw
+with social media where or with media in general where the barrier to entry was so low that instead of I mean
+there's two versions of this. There's the uh big media like CNN, Fox, uh ABC to influencers and then there's
+influencers to micro influencers and there's tons of people making 10k a month with social media. Do you think
+that's where we're moving in tech where I don't know, someone like my parents in Kentucky can build an app
+make a nice couple of thousand dollars a month and then that's just their job. Yeah, I I think that's like an
+age-old thing that's been happening with technology since the dawn of time. So if you if you think about
+literacy, right? Like during medieval Europe, um like reading and writing was was regulated, was only like
+priests were able to do it and priests were like controlling the population, right? Before the you know,
+Protestant Reformation. Um and since there was like the priesthood control over uh the ability to read and and
+write. And then we had the Gutenberg uh printing press and that was decentralized the ability to print books
+and have books available to the population. People started learning how to read and then learning how to
+write. Um, and that caused massive changes in the world. Uh, and like leading up to revolutions and different
+religions and democracies and all of that happening because of reading. Like none of the world that we that
+that's that we have today would not have happened without uh, mass literacy, right? We have the big media
+companies, but you you can have a Substack and there are people making millions of dollars on Substack. There
+are people making 10K on Substack. There are people making 2K on Substack. And so, um, you know, Instagram is
+the same thing. You had to be a professional uh, photographer at some point. Uh, and only the professional
+photographers could make some money and then later on anyone could like take photos and make money. Um,
+influencers is the same thing. Really like every skill and every profession goes through this where it's
+usually an elite minority and they're gatekeeping. They don't want other people to do it. And certainly
+programmers in big tech felt threatened by by Replit as because they they make a lot of money. Like we were in
+this like really strange world over the past, you know, 15 20 years where if you go to computer science school
+for 4 years, you're guaranteed like the best life and the and you know, the upper echelon of income and and if
+you get a job at Google, you're set for life and you know, in 4 or 5 years you're pulling a couple million
+dollars. Uh, and and it's certainly threatening when like that skill can uh, can be democratized and anyone
+can can can do it. Anyone can build it. It's also threatening to to VCs and the and the way Silicon Valley
+works because Silicon Valley needed to build all this infrastructure in order to and raise all this capital in
+order to like fund you know companies need a lot of capital to build the software and market it and all of
+that. But with social media with tools like Rapleaf, you don't need as much capital. Right. Um and so I think
+every piece of technology in history has had this decentralizing and democratizing effect. And every time
+there's like a pushback from some group of people that are benefiting from [snorts] the gatekeeping. Uh but
+then that that that the dam breaks and and we live in a fundamentally new world typically a much better world.
+And I think it's true of media. Like the democratization of media has been has been really good. I think that
+I you know I get I get my news more from social media than I do and it has its challenges obviously but it's
+much better than getting propaganda. >> [laughter] >> That's very true. Um That's super interesting comparison
+about the Gutenberg press with how religions have evolved over time because I mean it really was I mean it
+would be ignorant of me to say it was the big three but I would say they were much more dominant and there
+wasn't so many branches of I'm trying to think of the dating but uh It's a very apt comparison. Uh I'm sorry,
+what do you think everyone is getting wrong about AI and jobs? Um AI is seen as a a replacement as opposed to
+a tool that can be wielded by the most creative by the most ambitious people who want to make a fundamental
+change in their lives and their communities and their companies. Um obviously AI can automate a lot of work
+but to automate that work someone needs to build that system. Someone needs to be observant enough to to look
+around their company and or look around their school whatever community they they exist in. So, we're doing a
+lot of BS things. There's a lot of yeah, work. Uh, there's a actually a book called Work, and it's like it by
+by David Graeber. And it talks about how like most of the economy is kind of work. Um, I mean, if if you think
+about it, um, you know, post-industrial revolution, we we created a world where machines were doing a lot, but
+not enough. And humans had to step in and act like machines. Um, and so, if you look at any office job, most
+of the time they're doing things that are easily automatable. Uh, they're putting data entry in Excel sheets.
+They're repeating the same process time and time again, and they know it's automatable. Or they're sending the
+same sort of email, or they're doing the same kind of marketing. >> [gasps] >> Um, and you could say, okay,
+you know, we can get an AI system to like replace that person. But, there's going to be more work to be done,
+not less, because, you know, you would get more revenue, get more users, you're going to have different
+challenges, different operational thing you you should do. So, it's a hamster wheel. But, we can go much
+faster now. And, um, the way to look at AI is um, and jobs is how can I upgrade my workforce for them to
+become come generalist business people that can wield AI for the benefit of, uh, our customers and our uh, on
+our bottom line. Um, and we see it in a lot of our enterprise customers, where, um, the most ambitious people
+um, are creating billions of dollars of value for the company. Um, so, there's every every company out there,
+every tech company for sure, there are people that are closest to the customer that feel that they have ideas
+that could make more revenue for the business, but they're often blocked by engineering. Engineering don't
+think the idea is is worth it, or they have their own road map, they don't care about it. And now a lot of
+them are bringing in Replit to work, they're building that idea, and they're making the money for the company,
+and then they're getting promoted, and then they're giving more power, and a lot of them go out and hire more
+people like them. I'm going to build a team of Vibe Quoters that are going to go around the company and find
+all the inefficiencies and go solve them. So, we have a new role of this like generalist automator. Uh and
+they're less parochial than the engineer. The engineer is like really focused on systems and engineering. Um
+they're not as focused on one particular domain like sales and marketing. They can hold the context of the
+entire business in their head. And they can find ways to increase efficiency or or add revenue to the
+business. What's the most obvious AI automation that people should be doing today? In the context of
+companies, um we see a lot of just like copy-pasting of data. Like you have data in Salesforce, and you want
+to get it into um an Excel sheet somewhere, or you want to get it into um some data lake or something like
+that. And we see a lot of data entry work that is like just copy-pasting because they don't know how to write
+code, engineers are busy, IT is busy. So, just like anytime you find yourself copy-pasting things from one
+place to another, and you do it regularly, like it's an obvious automation. Go to Replit and just say go pull
+the data from from um Salesforce and put it in Snowflake, right? So, that's in the context of companies. I
+think there's a lot of data movement that happens manually, and that really blows my mind. Uh and even if
+there's like some process in in between that you're doing some transformation in the data that you're doing,
+um you can also have the AI do that. So, for example, like um uh every company has this person that's uh
+called the like the deal desk person. Every you know, B2B companies especially. And the deal desk person is
+responsible for uh generating quotes um to give like order forms to give sales people. So, the sales people
+put in the deal content in Salesforce. The deal desk person pulls it from Salesforce, puts it in a PDF, uh and
+then like post it to like Slack or some other chat group. They talk about it. They send it to the client. The
+client gives them feedback. They go, they regenerate that. Our in a lot of companies end up hiring a lot of
+people doing just that. Like, you know, there's also entire complicated software systems that people pay
+hundreds of thousands of dollars for called uh quote configurators, right? So, we hired this deal desk person,
+and she automated all of that. Um every time we get a a new deal in a CRM, there's an AI that generates the
+order form directly, posts it in Slack. The sales people take it like, you know, they send it to the client.
+They get feedback in Slack. They give the bot feedback on the on the thing. It kind of updates it and and they
+send it back. So, a lot of that used to be manual copy-pasting things and putting that from Excel to Word to
+to to CRM. So, anyone work listening to this working at a company, if you want to get a promotion, just look
+around you and see what people are copy-pasting data around. And you can build a bot, and you can build an AI,
+you can build a piece of software that can automate that. In in personal lives, there's a lot of things that
+um Like if you're someone who's interested in in in in health and do a lot of tracking of health, like I I
+like to track my sleep and at some point I had like some sleep issues. Um and and my doctor gave me like a
+sheet to um to track like, you know, what I ate, what medications I took, if any, if I exercised, and then
+what time I slept, what time I woke up, any sleep interruptions, and I would I would wake up in the morning
+and like fill the sheet, you know. And and most of the time I'm lazy and like I don't want to do it. I forgot,
+whatever. I'm like, you know, I can automate this. I took a photo of that sheet, put it in a Replit. You can
+just give Replit a screenshot and just say like make it into an app. Made it into an app, and now it's gotten
+a little easier to like put in the, you know, uh all this information. But then I'm just like, I still forget
+what I ate or what medications I've took or, you know, whatever I've done that day. So I was like, why don't
+why can I like take photos of these things as I'm doing them instead of like forgetting and like doing it
+later? So throughout the day, I can like take photos of of whatever I ate or or I've done. Um and then and
+then that that AI will like generate the content for for the next morning. And then I'm like, okay, but like
+I'm putting my time to go to sleep and what time I woke up and any interruptions manually, but like my
+mattress, I use Eight Sleep for example, or you can have a wearable, have all that information. So I just like
+told Replit just like pull that information from there. It asked me for some, you know, login information. I
+did that. So now the entire process is seamless and automated and finally I can kind of like commit to it. So
+I think in people's lives, there's so many things that are manual and they like get lazy and they don't want
+to do. And one thing I would say about the age of AI, and this is back to this idea of like how do you
+generate ideas? If you're lazy, that's going to be a virtue. And I I don't mean it in a in a way that you
+don't want to complete your work or or but like if you're naturally just like don't want to do manual work,
+you're going to go about your life and you're going to see all these places that are just like boring and you
+should be doing manually and just like go build an app for that. And maybe that becomes a consumer app that I
+I you could like the app that I'm building for myself, I could potentially put it on the App Store at some
+point cuz it is probably useful for for other people who want to track their sleep. You've heard of Calorie
+Ai, right? No. What is that? No, really? Oh, it's uh we had the founder on. I mean, they do like I think he
+made like 25 million from it in high school or maybe that was the valuation. It was just take a photo of food
+and uh tracks calories automatically. It just sounds like you built that for yourself as a personal These
+things are easy. >> [laughter] >> And it's not just that. It is uh you know, it it it does sleep and does some
+some of the other stuff. >> I was like that sounds more integrated. That's really interesting. Huh. It's it's
+a cool space to think about like all the wearable tech and like all the things that are tracking data and
+building apps that combine all these things in general. But what do you think separates someone who's bad at
+prompting AI from someone who's really good at it? You know, I kind of hate the word prompting AI because AI
+researchers spend a lot of time figuring out how to make AI respond to human queries. Um I would say what
+separates those people are the people who are good communicators. You need to just be a good communicator in
+general. Like prompting humans, responding AI. Are you someone who can manage an intern well? If you're
+someone who can manage an intern well, you can manage an AI well. Think about it AI as an employee or an
+intern. Start thinking about, oh, how do I talk its language? No. Just communicate well. Just take an idea,
+break it down to its parts. If its parts are still complicated, break them down further. It's all about
+breaking down things into individual components. Um and then giving precise feedback. And giving as much
+context and feedback as possible, taking screenshots, taking images. If you want to get really good at just
+communication uh in general, I would suggest like doing public speaking. Right. I had a actually stage fright
+uh growing up and I would still do it because I just don't like to be held back by my fears. But when I first
+came to the US and I felt like I want to be able to start startups and be on podcasts and be a leader, I
+thought that I need to get past that. And so I thought like what is the hardest place I could put myself in?
+It like throw myself in the fire to get past that fear. So if So deprogram the fear by desensitization, right?
+It's a popular like psychology method. I think you know, we're in such a soft world right now that like
+psychiatrists, psychologists don't treat things like that. But it's always been the case like if you're afraid
+of water, if your kid is afraid of water, throw him in the water. Let him swim. That's how my dad did it. >>
+[gasps] >> Um so I took up improv classes in New York. Um and improv is if you're bad at public speaking or or
+or thinking on your feet, you're going to do really bad at it. And then I took up storytelling classes. And I
+I did a storytelling show where I told a story about how I hacked into my school to to change my grades. Um >>
+[laughter] >> And and so I have to hear that story, but you continue your thought. So, um over time I just got
+better at talking to to people and like trying to communicate complex ideas simply because I think that's what
+a really good communication is about. And if you're good at that, then you're good at talking to AI and
+prompting it. My last girlfriend, she was like, "Jack, I'm such a bad communicator. Like, how do I like work
+on this?" I was like, "Just go to an improv class." She didn't really love it, but like I said, I think it
+helped her a bit uh understand like the basic techniques. Yeah. I think it's super helpful, but >> So, you
+hacked into your school to change your grades as a kid? Um yeah, so I was um going to university in Jordan um
+Princess Sumaya University for Technology. Good good computer science school, but you know, I I didn't know
+how to pay attention to things that I don't like. Like if I'm taking like a history class or econ class, and I
+feel like whatever they're teaching me is not going to be useful for me in life or it's just not interesting
+the way they teach it. I just can't It's just like incredibly painful for me to just sit there and just
+listen. So, I would skip class. And I would like go work on my programming, go go to you know, take a job. I
+always had jobs during school. >> [sighs] >> And then I would um study enough to to just pass and I almost
+always pass. In some cases in like math and computer science, I would like get good grades. The problem in my
+school is that in a lot of schools around the world is that if you they count your attendance. So, if you
+missed class too many times in a row, you get you get disqualified. Um and so I uh I I felt like it was kind
+of deep injustice um especially for for people like me who are like creative, want want be doing things, don't
+want to be sitting in class. Uh which I think it is a like a very outdated way of of learning in general. I
+think we're going to move past it especially with AI. So, um all my friends were graduating. I'm like 5 years
+in, almost 6 years in school. School should have been 3 4 years. Uh and I feel like like life is passing me
+by. Like, you know, I had all these big dreams and ambitions. Uh I want to build companies, make a lot of
+money, all that, but I was like stuck. >> [gasps and snorts] >> Um and so I thought I'd use my my skills to to
+to get over this problem. You can cast almost any problem in life as a coding problem. >> [laughter] >> And I
+thought, okay, um I'm going to hack into school and and change my grades from from when they fail me for
+attendance to like a passing grade. >> [gasps] >> Uh so I spent um 2 3 weeks in in my parents' uh home in in
+the basement um trying to like break into to the systems there. Uh I would like work on like scripts and do
+network scans and all of that. And I implemented um polyphasic sleeping. Do you know that? That sounds
+familiar. What is that? Um Michelangelo, you know, the the inventor, artist, uh he's like one of the most
+highest output human beings in history probably ever to come. Uh would sleep 15 minutes every 4 hours because
+he was working non-stop. Tesla did a similar thing, I remember. Tesla's probably, yeah, did that as well. Um
+and so I was like, yeah, I want I want to be able to like you know, work a lot and really hard and be really
+efficient. So, I I I did that as well. So, for 2 weeks just madness, just going and like trying to you map out
+the system and figure all that out. Um so I finally found a vulnerability, a way to to get into uh to to the
+system. But I was worried about maybe I didn't have the right systems, and so I had a neighbor who was going
+to the same school as me. I was like, "Hey, can you know, I I I have this this this thing that I can change
+grades to. Can I test it on you?" >> [laughter] [gasps] >> And so we we we tested um we changed the grades,
+but uh actually it turns out that I I was doing that on a replica database, not on the master database. So
+when he went to kind of pull his grades uh this is transcripts, it it wasn't um it wasn't reflected there. So
+I spent another 2 weeks, and then found a way to the actual system, and then uh and then I was confident that
+I could like change my grades and actually get to graduate. And I still felt like it was the the the just
+thing to do. It was a fair thing to do, right? Um so I changed my grades. I just calculus and other things
+that I didn't want to go to school, but I passed. I know it I you know, but they failed me anyways for
+attendance, so I changed my grades. And I bought my gown, went to the graduation parties, took photos. I was
+just graduating. One day I'm at home, and the telephone rings, and I I I pick it up, and it's like the person
+responsible for the uh college network and and registration system, and he's like, "Look, the entire network
+in the university is down, and whenever we look at the code, we see the there's a bug in your record. Um
+there's a problem where it says you're disqualified from the final exam, but you're also passing." So it turns
+out they had another field that I didn't know about that was was like true or false where whether you're
+disqualified for for attendance. And and they had all these bad names for the field, so I I think they're bad
+programming on their part, but it's still I I kind of missed something. So, I um I had a choice. You lie and
+you kind of live with the lie or you come you come clean and and I just didn't want to lie and I tell them,
+"Look, I you know, I have something to tell you. I'm going to come tomorrow school and kind of share it with
+you." So, I went the next day and it was a much bigger deal than I expected. All the different deans were
+sitting there, the computer science dean, the engineering dean. They've been racking their brain a whole
+night, stayed up all night trying to figure out what's the problem. And so, I'm like, "This is my opportunity
+to make it a a tech talk as opposed to uh to an interrogation." And pulled out the whiteboard and explain all
+the different problems all the systems they had and how how I hacked into it and really like pulled out all
+the all the stops and all the charisma to kind of try to impress them. And they were really impressed. So
+impressed and so kind of in the element of the technical discussion that I'm like, "All right, now that I've
+said it, I'm headed home. I'll see you guys later." And I opened the door, I was like, "Wait, where you going?
+Like we got to deal with you. You just did this this thing to our school. You just hacked into the school. We
+can't let you go." Um luckily the president of the university was someone who was like really enlightened and
+saw the talent that I had and they they could have easily derailed my life, you know, but um I I you know, I
+explained like my reasoning for why I did this and he was understanding and he gave me at the time the the
+Spider-Man line. He's like, "You have a great talent, great power, but with power comes responsibility." Uh he
+was very sincere about it. And he said, "I We're going to let you go, but you're going to have to spend the
+summer working for the university trying to fix the uh vulnerabilities and the security issues." Um so, I was
+like, "That's no problem. I would love to do that. So, I show up in the summer and the programmers there hate
+my guts because I hacked into their system. And they wouldn't let me in. Like, I would go knock at the door
+where they work and I can see them and they wouldn't let me in. Uh, so they didn't give me a chance to
+contribute and and fix the system. And by the way, everyone was cutting me slack. I think all the professors
+just was worried I'm going to hack into their emails. And so, I had this like implicit power. >> [laughter] >>
+Hey, it was like notorious. It was really cool as well. I was getting recognition everywhere. >> [snorts] >>
+Uh, and this computer science dean uh, comes and and tells me like, "Hey, you know, I I helped you a lot to to
+get past this problem. So, for your graduation project, you need to work with me. And what we're going to do
+is we're going to hack into the school again." I'm like, "Bro, I'm not I'm past that. I'm not even working on
+security and hacking. I'm just like, you know, I'm going to build companies and things like that." He's like,
+"No, you have to do it. Or you don't graduate you." I was like, "Okay, I'll do it." Uh, and so I I I'm like,
+"Okay, but this time I'm going to build a system. I'm not going to go hack directly into it." So, I built a
+piece of software that scans any system for vulnerabilities. And sure enough, I found some vulnerabilities in
+the system. So, my graduation defense, so you you're sitting in front of the different deans and you're kind
+of giving a presentation. And I told them how I built the security scanner. Um, and by the way, I'm going to
+run it on the first system and yet we have a bunch of vulnerabilities here. >> [gasps] >> And then, different
+dean of engineering was like, "You're lying." Uh, I was surprised that he said that. I'm like, "Why why do you
+think I'm lying?" And he's like, "Because we fixed the system. I was responsible for fixing the system and we
+fixed the system." I was like, "Clearly, you didn't." He's like, "Prove it." I'm like, "Okay. I also built
+like something in my system where you can automatically execute the vulnerabilities. So, I get a shell access
+to the database. I'm like, "Okay, what do you want us to find? Your password or your uh or your salary? Or how
+do you want us to prove it?" I was like, "Okay, get get my password." So, with a query, I get his password.
+And it was some embarrassing password. I forgot what it was right now, but people have all sorts of
+embarrassing passwords. Yeah, and his his face turned red, and he got really angry, and he got up, shook my
+hand, and left. Um Well, it turns out I was like a pawn in this rivalry between the two different deans. So,
+he the other dean like one dean was given the responsibility to secure the system. The other one wanted to
+kind of make sure I re-hacked the system to prove it. But anyways, I at the end I I graduate. Um and uh and I
+now have like really good relationship with the university. Quick question. Are you someone that has a lot of
+money in crypto? Because if you're like me, you're worried about getting hacked or if you have a hard wallet,
+losing it, someone stealing it, or just forgetting your password. That's why I was so relieved when I met the
+guys at ITrustCapital. They told me they have a premium custody account, which basically means money can only
+move in and out from your bank account. No external wallets, no random transfers, so you can never get hacked
+or drained. So, if you want to keep your crypto safe, just go to jackneil.com /itrust or scan the QR code on
+screen. Again, that's jackneil.com/itrust. If you want to sleep better at night knowing your money's stored
+with the same companies that BlackRock, Fidelity, and Coinbase Prime are all using. But anyway, guys, back to
+the podcast. That's a great story, genuinely. Um It seems like some type of commonality with really successful
+founders in your space is like this kind of hacker black hat white hat background. Just on this concept of
+learning in general, cheating, hacking the system. Like how do you think we should be using AI to become
+smarter? And how do you do it personally? I think that there's a mindset here. There's a mindset of first of
+all the world was built by people that are not much smarter than you. >> [sighs] >> And there are a lot of
+rules that are accidental, that are there for historical reasons. And um your job is to find the path to the
+future, find a the the way of doing things that's most aligned where the world is headed. Cuz the advice your
+teachers, your parents are going to give you are just not valid anymore. My generation, like millennials, the
+advice that the boomers would give us is that you work hard, you get into a good university, you check this
+box, this other box, you get a good a job you buy a house and a car get a family that's it, you know, few
+years in like you'll you know, 20 years later you're a millionaire because your house property went up value
+and you retired, live happily ever after. That's That doesn't exist. That does like existed for like 20, 30
+years post World War II and [snorts] then it's gone. So it's not about cheating, it's about figuring out how
+the system is rigged against you. And how do you actually hack it, how do you get past it, how do you um how
+do you do things in a way that is more native and true to the where the where the world is headed today? >>
+[gasps] >> AI is a great tool for that. Um just the fact if you're someone who just understands how these
+tools work and understand how you have an amazing time advantage you can do things a lot faster. Again, there
+there a lot of programmers that are still doing programming the old way and they're going very, very slow and
+they're going to continue to go very slow until they get obsoleted. But there are a lot of new builders coming
+up today and they're like, I'm going to just like make things with with Raplet or tools like that and I'm
+going to go just a lot faster. I'm going to iterate faster, make make better ideas, build better um >> [clears
+throat] >> companies and systems. Um so I would I would re-emphasize this this virtue of laziness. Like I
+think a lot of what we're taught in school is it's not worth it. It's not worth our time. And my approach to
+school was like, how do you get around it? Like I I needed a college education to get to the United States.
+Otherwise, I would have dropped out. If I was in the US, I would have dropped out. And it's it's probably a
+good idea for a lot of people to drop out and not not go to college. Um And so but but I needed to do that in
+order to to get a visa to get to get here, right? And um so think about your circumstances and think about
+ways around them and there's probably ways in which AI could could help you get there faster. Um and do things
+better. And realize that if you truly understand how this technology work, if you're up to speed on it, if you
+can do things uh better and faster than other people, you have an advantage. And just look lean into that. I
+think that's super helpful. What is it Hermosi says? It's volume times feedback loops and AI helps you build
+things faster, iterate faster. On the concept of jobs, what do you think will be the highest paying jobs in
+the age of AI? Entrepreneur. Entrepreneur, like my mindset has always been about building wealth as opposed to
+getting salary. Right. Uh there there a lot of different ways to build wealth. Uh but all of them uh revolve
+around ownership as opposed to getting salaries. When I got my first job in the US, uh working for Codecademy,
+a company that sold for half a billion dollars, I told them you can just like pay me enough to eat. Just give
+me as much equity as I as you can give me. I was paid $70,000 in New York City. You know how painful that was?
+>> [laughter] >> I was living in a studio with other people. Right. But who cares? Like, you know, if you're
+young and scrappy, like, you know, you just you can eat anything, you can sleep few hours, you can sleep on
+the on the ground. Who cares? You know, you're very resilient when you're in your 20s and you know, early 30s.
+I think things get a little worse after that, but you're very resilient. And uh your job is to build equity.
+Um and the best way to build equity is to start a business. The second best way to build equity is to join a
+business that someone else started and get equity in it. And then third is if you already have capital to
+invest and build equity that way. And I've done all all these different things. I started by joining a startup
+that was growing fast, Got as much equity as it was possible. Worked as if I was I was a founder. Um then um I
+started business. Got some liquidity from that. Started investing in other businesses. By the way, a lot of
+early Replit employees are already rich. A lot of early Replit employees already um got some liquidity out. We
+let them sell some shares. Uh some early Replit investors sold some shares as well. If you invested in Replit
+when you were at like you know, 6 million valuation. And we were like many order magnitudes more than that
+right now. You made a lot of money, right? So, um if you're surrounded by really smart people, you don't have
+to have the best ideas. You can join their ideas. You can also like figure out a way to invest in your friends
+and join in their venture. Or if you have a certain skill, >> [gasps] >> let's say you're an influencer. And
+you want to partner with an entrepreneur, try to get equity. You can get a lot of cash for sure, but what are
+you going to do? You're going to get taxed 50% on that cash. Um you're going to spend it on on nonsense.
+Instead, try to get equity and build that equity up. It seems like the only two ways to get rich are build a
+cash flow business and move to Puerto Rico or Dubai and revoke your citizenship. Uh Hate your life for a few
+years and sell a company. Well, you don't have to hate your life. Like you can you you can have fun building a
+business. Right. That's fair. I guess hate your life in terms of not have excess cash to spend on stuff. Just
+kind of like living below your means to an extent. But if you build the business properly, I guess you would
+have excess cash. You would have access cash at some point like it's a lot more fun later in life to to like
+like pulling a six-figure salary. Like, you're not going to It's not an exciting life. I think having wealth
+is a lot more like a Just the the the calmness on your nervous system that you've escaped the rat race that
+itself is worth it. Um and so I I don't know. I've never Like yeah, I've I've went out and partied and
+experienced all of that. And you can do that with not a lot of money. We're in Jordan We used to like drive to
+Beirut and like go clubbing for like, you know, 20 bucks. You know, it's like you can you can have fun with
+not not that much money. But then there's like a huge dead zone in terms of like how much quality of life and
+how much hedonism or fun if that's what you're interested in up up until you get to a upper echelon of wealth.
+Like there isn't that much difference between like a student going out like some of the best fun you could do
+just like going out to to to to clubs or traveling or whatever, going to low low-income places and like having
+fun there. Um and then and then it's not that much better when you're pulling, you know, few hundred grand a
+year. It's like you're kind of stuck at that at that point. But so what you want to focus on is building
+enough equity and um up until to the point where you're just like starting to build a family cuz that's when
+you're going to have to like settle down a lot of bit. You're not going to have as much time and so on and so
+forth. So I would just like focus on building equity. That's super helpful. Uh Yeah, I the first startup I was
+at I had equity. I did the same thing as you. I like took a lower salary to try to get as much equity as
+possible, but I think I fell victim to the sentiment like oh, bet on yourself. I didn't even like pay the
+strike price to vest my shares. Um and I looked at it the other day and the company had sold and I was like,
+"Shit." I didn't know how much for, but uh, yeah, if someone gives you the opportunity for equity, uh, it's
+usually worth it if you think they have a good chance of selling. Especially if people are building to sell.
+Like it feels like some people are building to sell quickly versus some people are building to sell like on a
+longer time horizon. Uh, I do want to ask you, what do billionaires know about money that people just starting
+out in entrepreneurship don't realize? Like what's something you wish you knew about the way money works
+itself or things you can do with your money, uh, like 2 years ago, 4 years ago? Money is money, like cash,
+like dollars are worthless. Uh, they are depreciate fast appreciating assets. Like they depreciate faster than
+your 1976 Honda Civic, right? Like it's like don't hold cash. Like again, that's why I emphasize equity. Um,
+it's like assets, like buying assets, like all the assets go up. Like gold right now is just dripping like a
+shitcoin. >> [laughter] >> So, assets go up, um, ca- cash doesn't. And Do stocks really go up though? Like if
+you're just doing S&P or is it just kind of like a wealth maintenance thing from your perspective? Okay, I I I
+mean, over the past couple years the S&P has been dominated by a few companies and they've gone up a lot. Like
+if you invest in S&P, what is it? Like 20, 30% in 2025? That's huge. Is it 20, 30%? I'm not entirely sure, but
+I think the average is 10% which accounts for inflation it'd be like 5% returns. Oh, really? That's it? Okay.
+Um, I don't know. I I Yeah, I do have some money with like a money manager that is like just like trying to
+maintain wealth. Um but I also do buy stock. I buy uh I invest in startups. I buy stock in the companies that
+I really like. I bought I bought Tesla like a long time ago because I really like the product. And that's done
+really well. It's like the grok brain approach to to investing. It's like buy stocks you like. Um I don't
+know. I don't want to give like too much of financial advice cuz like a lot of this is like very very
+selective. But like the the the main idea here is is assets. Like understanding inflation, how inflation
+works, and how the dollar is like continuously being printed. Really every currency out there is like
+continuously being printed. Um and if you're if you're optimizing for cash, you're really losing wealth and
+you're not really building building wealth. Um wealth is through accumulation of of assets. And those assets
+tend to there's certain assets that tend to compound. I bought Bitcoin when I left Facebook to start Repl it.
+I sold my Facebook shares, which I could have held on to them and they they've done really well. But I bought
+Bitcoin and put the rest in my company. And the Bitcoin has done really really well. Um And so uh
+understanding inflation is is is core. Like go research that and really understand how the system is working
+on debt and quantitative easing and all that stuff. You don't have to understand it that much in depth, but
+the main lesson is the economy is run on inflation. Um and the rich don't hold cash. They hold assets. I don't
+know. I mean I I don't really think about money all that much. Like and I don't say it in a way to like you
+know, to to brag or anything. It's just like for me is to build cool and and money will come. Right. Like
+build cool things, hold ownership in those things that you build or invest in like important things and
+products and services that you think are just the future. Try to predict where the future is headed. Be
+plugged in enough to figure out where the future is headed. Like follow the tech news, follow the trends, and
+form [snorts] a prediction about the future and then and then bet on that and then evaluate that over time.
+You could see you to like figure out. Like when you hear about a new thing, don't be cynical about it. Like
+you hear about like you know, a lot of my generation like heard about Bitcoin. A lot of them was like, "What
+is this?" But if if you pay a little bit attention, you're like, "Okay." And you understand the system, you
+understand that this is an alternative asset to to to cash and like you know, a lot of people are looking for
+alternative assets. And so you have some hypothesis about the future. So have some predictions and some
+beliefs about the future and try to bet behind them. Um and again, most importantly, build things. I think
+that's that's the best way to to gain wealth is to build build useful things. You're one of the few AI
+billionaires that has a It's funny that it's even a contrarian perspective on the future of AI, but why do you
+think AI isn't going to kill us all? I A lot of my peers in Silicon Valley have this like very mechanistic
+view of life. They think of humans as you know, meat robots. And I think fundamentally, I think there's
+something more than that. There's something There's some spark about consciousness, about humanity that's
+different and that's special and that life is important. It maybe it's a religious view, but even without like
+a very concrete religious view, you can arrive at the same uh answer by just being perceptive. Like just
+looking at the world around you. Like how can How can this all be an accident? Like just Like even through
+science, like when you look at you know, I see these videos of like how DNA's work and just like this insane
+engineer micro like nano engineering. Just like doesn't feel like an accident. So there's something about the
+mystery of life, the mystery of creation, the mystery of why we're here that I try to struggle with and I
+think a lot of people in Silicon Valley, a lot of people in tech have this very dry physicalist view. Like
+we're automaton, it's input output. And therefore the natural conclusion is that humans are not very special.
+We're going to build a more intelligent being. That intelligent being is going to be so far so much more
+intelligent that it can treat us like ants in the same way we treat ants. But no, I think there's something
+special about humans. And I I I believe in like I I'm Like I I'll tell you something about my personal life
+that I think is is very interesting. Um I think a lot of success comes comes down to to like mindset. Uh and
+visualization. Why does that work? Why does visualization work? It does work. A lot of people swear by it.
+Like if you like visualize yourself a successful I used to like visualize the cars that I want to drive. And
+invariably I would those get those cars somewhere or another. Um I would like if I want to meet someone I
+would like have this intent about meeting this person. And eventually I will meet them somehow and it's like
+random circumstance. Um like um whether it was like people in tech that are irrespective of that's Paul
+Graham, Marc Andreessen, um I always wanted to put to meet Paul Graham. Uh and I always had this intent of
+like I would like imagine the conversation we would have. Paul Graham is the founder of Y Combinator. Um and
+like he also founded the site Hacker News and I was reading that a lot. He wrote a lot about programming and
+things like that. I really respected how he thought. Um and you know, one one morning Obviously like I I do
+things in the world. I don't sit there just visualize. Like you you act. One morning in 2017, I get a message
+from Sam Altman on on on Twitter. Uh and he's like, "Hey, I'm I'm Sam." I run away. I say, "Dude, I know who
+you are." So Sam before OpenAI I was running Y Combinator, the the premier startup accelerator. And he's like,
+"I I'd like you to come meet me." And so I went uh and met him and I he [clears throat] gave me this address.
+I'm like, "Where is this? This is not Y Combinator. I know my Y Combinator is mine to you." And I walked into
+this place and it was called OpenAI. And next to it was Neuralink. It was like like a small Elon fiefdom in
+the mission in in San Francisco when Elon was still involved in OpenAI. So I met met Sam there. And when we
+sat down, he said he he he had his laptop in front of him and turned around. He's like, "Read this email." It
+was an email from Paul Graham and he says like, "There's this site Replit. It's like really cool. It's
+something I've thought about for a long time where you can like make it really easy to code and host
+applications. Um I wish we should like reach out to them and get them into the YC batch." And we had like
+tried to apply to YC many many times before. Um but I like had this intention that like I'm going to meet Paul
+Graham and he's going to like know about Replit. We're going to discuss it and he's going to get really
+excited about it. Uh and and that happened. And like 2 years ago I was like totally different person, totally
+different industry. It's like it'd be really cool to meet Tucker Carlson. I I respect him a lot. I respect how
+how brave and courageous he is and how he can speak his mind and how how inspiring his like view of America is
+and what it could be. Um and through a series of accident I ended up meeting him. Uh Do you know Martin
+Shkreli? Pharma bro? That sounds a little familiar, but no. You should definitely look up Martin Shkreli. Um
+Martin Shkreli is um a pharma entrepreneur uh that went to prison for some like financial reasons, but he
+became very notorious for a few things. One is like he bought a Wu-Tang album that was like one in production.
+Uh and like he become hated because like he he ordered that, but like also he just like was like the initial
+like social media troll and like got into under everyone's nerves and all of that. But anyways, I used to
+watch his stream because he would like put out a lot of really cool financial material. He would talk about
+financial literacy and I learned a lot from him. Uh and when he got out of prison one day he was like coding a
+line he was coding a replet. And so like I sent him a message. I'm like hey like I saw you were coding a
+replet. It'd be cool to like I sent him a tweet. So, he responded. We got on the phone, whatever. I ended up
+investing in his uh new startup. Um and you know, he introduced me to a few other people in Silicon Valley.
+And then um one day he's like you know I owe you, man. You know, it's really cool how how you've been able to
+help me get back into into start the startup game. What what can I do for you? I'm like, you know, you were on
+on Tucker there the other day. Invite you on the show. I'd love to meet him. And then and then he he made that
+connection. We got on a call. Uh kind of I had a very similar story with Joe Rogan as well. I got on Joe
+Rogan's show. So, I mean, I'm I'm I'm kind of digressing a lot, but all I'm saying is that there's like more
+mystery to life and I've experienced a fair amount of affecting the world in an in a very indirect sort of
+mental way. Um and that there's something something to that and like a lot of people just don't don't struggle
+with the fact that there's there's more to life than this just like mechanistic physics of it all. Mhm. So,
+when you start from this premise and I I can talk about all the different I can like have a technical debate
+about AI as well, but just like at rock bottom, I feel like there's something special about humans. There's
+something about the mystery of the world that we haven't really figured out. By that same token just to
+clarify cuz I think this is fairly high-level thinking but I understand what you're saying about it is
+basically, you feel as though you're the type of individual that thinks there's magic to life and you will
+things into existence and this is something that it is your logical view as well as it is the view that you
+want to have for humanity. But do you think that these other individuals that have this AI doom thesis are
+trying to will that reality into existence? I think there is a sense in which intentions matter and you can
+you can get into a self fulfilling theories of the world. Right? Uh and we've seen that throughout throughout
+history. Uh predicting doom and bringing about crisis, you know, happens a lot. Um and so I think it is
+important to be optimistic. And I think if you have a like a doomer mindset and um it is it is dangerous for
+that for that reason for sure. And so I I I think like people who are naturally depressed and like not very
+optimistic do kind of a gravitate towards like a more doomer mindset. It's so fascinating because with you in
+particular I spoke with another AI founder about this. Uh I was like, it's so interesting that Amjad's thesis
+is uh like AI won't kill us all. And like you would assume that would be the thesis of all the billionaire AI
+founders like, "Oh, it's not going to kill us all." It's like, "Oh it might actually." But it's really like
+they're all saying it is but it's actually not. And I think the only other person that's really in the space
+with these individuals that has a similar thesis to you is Naval Ravikant. There's probably a few others that
+I just haven't consumed their content, but what's the main logical reason for it? Just to give people some
+hope? Cuz I've had a lot of doomers on my show. Uh and I haven't had anyone in your position. So Think about
+how machine learning models are are trained. Right now machine learning models are trained by consuming super
+large corpus of content, essentially all of content on the internet. Uh and then simulating creating
+algorithms, so they would learn by creating internal algorithms. Essentially, that's a good way to understand
+machine learning. To simulate how a human might respond to a query. You can go really far with that. It's like
+It's It's amazing that it works. Uh but if you give a query to an AI for something it doesn't have an
+algorithm for, it will fail at and there's a bunch of research showing that it's called like out of
+distribution uh queries or contacts. So, you know, if if if a machine learning model is not trained on a
+certain like language or flavor of math or something like that, um it will struggle to give you like a
+reasonable output. And you'll end up in hallucination, you'll end up with with all sorts of problems. The
+reason AI is really good at coding because coding has a binary outcome. It's either true or false. Um anything
+that um is soft, more requires uh uh like reasoning through through the problems not based on prior material,
+AI right now is not doing very well at. And AI companies are having to buy more and more proprietary data to
+get better at these things. So, the way they're training models is they'll buy, you know, they'll go into an
+industry, oh, let's target accounting. We're going to go buy all the data that exists out there. We're going
+to scrape all the data that exists out there. We're going to buy all the data. We're also going to get
+accountants in Africa that are going to sit down all day and they're going to do spreadsheets and they're
+going to like talk over how they're doing spreadsheets. And they did that in coding as well. And they're
+targeting biotech, accounting, science, everything to in order to do that. And that that's a very repeatable
+process. And you can create AIs that are very good at doing jobs that people are currently doing. Um but that
+is not like a general intelligence that you can drop it like you would drop a human into any sort of
+environment and they can like learn efficiently. So, self-recursive improvement is kind of a fallacy to you?
+Like when it comes to things that aren't binary? I think we need to struggle with the question of
+consciousness cuz consciousness, I think, is an important ingredient of generality and how humans reflect on
+their decisions and their questions. And, you know, we come up with these ideas that seemingly come out of
+nowhere. We call them inspiration. Um uses, whatever people call them. It's like, oh, suddenly I'm struck by
+this idea, like Eureka, right? Um and we don't know how it works in order to build it into machines. All of
+like science come a lot of the scientific big scientific discoveries come from these Eureka moments. That is
+not based on prior uh on strict prior training. That is a fundamental paradigm shift, a huge jump that comes
+from somewhere. We don't know where it is. And by the way, all the original scientists in antiquity and and
+history talked about this in spiritual terms. Um you know, you I remember reading Bertrand Russell's book
+about like the history of like Western philosophy and things like that. And he was talking about Pythagoras.
+Like Pythagoras was running a religious cult. He was not running a mathematics club. Uh and they they came up
+with all these different different theories. And if you look at the current state of humanity, we're actually
+not having that much scientific breakthroughs. And I think, counterintuitively, because we've become so
+mechanistic in our thinking and less spiritual, less open to mystery, and mysticism, that that [clears throat]
+degraded the quality of science. Bro. And because science became an industrial process, it became a
+bureaucracy. It became government-funded. It became all of these different things as opposed to as opposed
+people seeking true knowledge or original knowledge and trying to seek it in all of these different ways and
+arriving at it in all sorts of random and interesting and uh you know, mystical ways. Science used to be more
+spiritual. That's what you're saying. Yes. I mean, Pythagoras Correct me if I'm wrong, he basically invented
+like this whole religion of numerology, right? It It That's probably true. I think Newton uh spent most of his
+life like Newtonian physics was a side project. Most of his life was spent in studying religious text. Mhm.
+And doing things like alchemy and random things like that. >> Tesla said that all of his ideas like came from
+dreams. >> Yeah. Like spirit world. Einstein, too. Like Einstein was like I was sitting in his chair and like
+dreaming the whole time. Uh and so we we kind of lose something about what is essential to us as humans and
+what is true discovery and inspiration when you think about the world in purely mechanistic ways. And I um I I
+doubt that without struggling with these questions that we're going to be able to replicate that into machines
+and have machines kind of go discover new discoveries. They're going to do a lot of amazing things for
+science. Like protein folding is an exact kind of problem that you want to direct an AI on. It's a
+computationally intractable problem. It's really hard for us to solve in many different explicit ways. It is a
+large data problem, big data problem. And so we're going to use AI to advance science in all sorts of exciting
+ways. Those original paradigm-shifting ideas I think are human in a way that that is hard to describe. Is
+there any spiritual practice you do to come up with ideas, be more creative, or just do better in business? I
+do cold plunges. Anyway, I do a cold plunge. I it shuts down this like constant thinking talking mind that I
+have and suddenly I become more receptive to inspiration and ideas outside of me. I don't know I think you can
+replicate some of that in meditation. I haven't done that very well, but like I find like physical shock to my
+body tends to create stillness. And so cold plunge is one of the big ways you can get it with exercise as
+well. Like like exercise to exhaustion to where like you can't really think a lot and a lot of people find
+that. But I think you can replicate in different religious practices and things like that, but for me like I
+found that cold plunge is forces my mind in a in a certain way and I've um and it's just like it creates this
+clarity and sometimes there's like really exciting ideas that comes out of that. It's all about creating state
+changes. Um and kind of split testing like what ideas or I guess even personalities, communication styles like
+come out of those, but Do you feel like I have you gave you a good answer for like the doomerism question? I
+really did want to touch on the cult, but I'll say this uh the aspect of Umja Zissi's on AI doomerism that I
+found most fascinating was in his interview with Tucker Carlson where he talked about uh the cult of Silicon
+Valley of these AI doomers and when I realized that there's some propaganda involved, maybe some uh weird
+spiritual I was like, yeah, I don't really entirely believe in this AI doomer thesis. So, I'd definitely
+recommend checking that out. Uh But by the way, part of the reason why I didn't focus on that is because I
+think their influence is waning. When I When I did that interview in 2024, it was at the height of the
+influence of the effective altruisms. Um and and I think luckily through various things that happened,
+including like you know, tech people responding to it, uh their influence is is sort of waning. But But
+certainly, I mean, that interview I talked at length about um the self-serving nature of their thesis and how
+they use that to to like manipulate people and to to to gain all sorts of like favors and weird things that
+happening there. So, uh but luckily, they're not as important. Theoretically, do you suspect intelligence
+agencies or the military have some involvement with AI development? The cool thing about large is that it
+doesn't really matter because it is a very simple process. Being at the frontier is very hard. Like, creating
+GPT-5.3 or Opus 4.5 or whatever. GPT-2 at some point was the frontier. Now, you can train GPT-2 on your phone.
+So, there isn't enough of a gap that they can create to have proprietary technology. This techno- technology
+is decentralizing and becoming more accessible really, really quickly on order of months. Um now, we have
+open-source models from China coming out and maybe there's involvement in the government there. But they're
+coming out that are as good as like the you know, models that came out 3 months ago from Anthropic and OpenAI.
+So, maybe, but it doesn't really matter because once we learn what they've done in the latest generation of
+things and as compute gets cheaper, um anyone can replicate these things at at home. And that's the cool thing
+about what's happening in the world today. These companies are trying to create enough of a moat around data
+and compute and things like that in order to block out competitors and create more proprietary technology and
+create an oligopoly around it. But so far they haven't been successful, luckily. So you would suspect that the
+top models are at most a few months ahead of what's publicly accessible. Okay. That's fair. I think a lot of
+people have suspicions that, "Oh, they're gatekeeping this technology that's 10 years ahead." You can download
+Kimi 2.5 on your computer and run it. And you would get a model that is as good as, you know, GPT-5 when it
+first came out. I'm sure you've built a billion-dollar company by making tools more accessible to the everyday
+person. If you could distill everything you've learned, what's the one piece of advice you would give to make
+sure anyone listening could find success? I would start with intention with intention and and focus and not
+and and and and perseverance like if you're really intent on finding success, you're going to find success, no
+matter who you are. Like I think if you if you put if you just like visualize it, you put your mind into it,
+you have the right mindset, you don't have limiting beliefs, I can meet whoever. Like I can there's no
+difference between me and some other, you know, billionaire. I can I I can learn all the skills needed. Um no
+one is like better than me. Uh start with these beliefs and you're going to be unstoppable. I think at some
+point the hard thing about scaling a company from like a billion dollars to a hundred billion dollars to a
+trillion dollars is the game changes fundamentally and that's what I'm going through right now. You know, you
+you become resource rich but time poor. That's like the worst feeling. Like you don't have enough time to do
+things manually and you have to like delegate a lot. You have to learn how to like build a team and hire and
+do all these different things. Those are all very important but I think getting the initial set of success,
+it's all about being really good at believing yourself, not quitting, not taking no for an answer, keep keep
+going, keep going, never quit. I think those are really the only necessary ingredients in order to achieve um
+enough success to potentially retire or like escape the the rat race. I love that. I've been wanting someone
+to give that advice for a while. It's kind of like this idea that people say you get what you deserve but it's
+really like you get what you want. And to find the success you have to really genuinely want it and if you
+don't have it then you actually don't want it. Yeah. Yeah, exactly. That's right. You have to really really
+want it. Here's the irony of life. At some point you're going to get to a position where you're like, do I
+really want it? >> [laughter] >> And that's when, you know, you have to grow and change your your your mind
+your body. That's what I'm saying is scaling past that is a different thing. Like there isn't any material
+thing that I that I really want right now. I'm not that liquid of a of a rich person, right? Like on on paper
+I have I have large wealth. Like I can't buy everything that I want, but I also bought enough things to know
+that that's not what life is about. And I wish that for everyone. I wish for everyone to get to a point that
+they find that the material world is just like not all that worth it. Um I think money is is great in so many
+ways. But you know, you buy a car and you're like, all right, that's cool. It's like it's not going to really
+at some point you're like, okay, what do I really want? And and that question is actually a lot harder. But if
+you're starting from zero, you know, fix your mind on whatever it is, a car, success, status, whatever it is,
+and drive really hard at it and you're going to get it. Beautiful. >> [sighs and gasps] >> Hello everyone.
+This has been your guest. I'm John Masad. This is the Jack podcast. Appreciate you coming on. Thank you.

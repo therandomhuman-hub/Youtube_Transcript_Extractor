@@ -1,0 +1,1401 @@
+Title: "School Is A Scam!" How Two Dropouts Built A $200M AI Empire in 25 Months |  Turbo AI Founders
+Channel: Jack Neel
+Type: VIDEO
+Video ID: iRtY3_Onh7s
+URL: https://www.youtube.com/watch?v=iRtY3_Onh7s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:50:58+00:00
+
+Kind: captions Language: en Even in very very bad case outcomes and valuation methods, we are worth over
+hund00 million. >> Today's guest built one of the fastest growing apps in the world at 21 years old to get our
+first users. Like instead of the natural step that now people should take of make Tik Toks. I would go to the
+dining halls. I would like steal cookies and then I would set up a booth and basically I would say sign up for
+Turbo and I'll give you a cookie. Two childhood best friends with [music] a mutual love for software. They
+dropped out of college after a groundbreaking realization. It's not enough to just solve a problem. That
+company needs to generate enough money to sustain itself independently. Whenever someone else puts money into
+your company, they get equity. You don't actually make the decisions anymore. >> Today, they've built Turbo
+AI, an education tool that's changing how millions of college students learn while earning them millions of
+dollars a year. >> If you look at some of the most viral influencers who tell storytime [music] content,
+they're always doing something in the video. So instead of just a creator sitting there and saying, "Use
+Turbo," can we take a creator and make her cut fruit in all of our videos? People would see these creators on
+their for you page and be like, "Oh my god, they just feel like an influencer." In this episode, we'll
+investigate how they disrupted modern education. Explore how the most successful kids are [music] using AI to
+succeed and see exactly what it takes to make you and your best friend billionaires. Rudy Aurora and Sarthik
+Dalan, [music] welcome to the Jagnel podcast. >> Thank you for having us. Yeah, excited. Good place to start
+here. Um, you guys built one of the top education apps in the world. How much money did you make last month? A
+>> little over a million dollars. >> And how old are you guys? >> 21. >> 21. >> So, you guys are 21. Most
+people your age are broke college kids in a dorm room. Uh, made a million dollars last month. How? [laughter]
+[gasps] We started the company around two years ago and since then have just been chipping away at it. Right
+now we're at around 8 million users. Um and a lot of our users pay us a subscription. So we just have a lot of
+recurring revenue built up and then we're also growing pretty fast, adding a lot of users every day. But the
+the real answer is like the question behind the question um it hasn't just been two years um where all like
+the learnings have come from. Uh Rudy and I are actually like childhood best friends from Texas we met in
+middle school and we've been tinkering on projects, ideulating on different startups. So it's been a long
+journey to get here. Hasn't just been 2 years. >> What was the first thing you guys built together? >> Uh well
+I can go back a little bit more than the first thing we built together. Um my side of the background is on the
+technical side. I've been coding since like third grade. My brother got me into it like insanely young. Um,
+and when I was in middle school going into going into high school, around when I met met Rudy, um, our
+district had this grade portal that was absolutely terrible. It was incredibly shitty to use. It long load
+times. It looked ugly. I was learning coding. So, I was like, you know what? Why don't I just try to build an
+app that looks pretty? It's aesthetic. Um, you can do cool things like calculating future grades and let me
+release them. let's see what happens. And within the next year, it ended up getting 40,000 daily active users
+just from word of mouth growth. And I sort of remember going to school and seeing other people like
+classmates, other people in district using my app, not knowing that it was me. And I was just in love with
+building things and startups cuz I was like, "Wow, I just they're finding value in something that I built. I
+want to keep doing this." >> What was that uh called? >> It was called Gradeify. >> Gratify. So you got 40,000
+users in how long? Um it was like a year year and a half >> in How old were you? >> Ninth grade. >> So about
+14 13 >> something like that. Yeah. >> So that was the first thing you built. >> That was the first real thing
+that id built that got like real traction. Yeah. >> And was the first thing you built with him or did you
+build something on your own? >> We we built it together. So around same time 9th grade I realized like a
+problem that my family faced was that it was really hard to get in touch with contractors to put up Christmas
+lights. like my parents would call dozens and dozens of people and they were either fully booked out, super
+expensive or just did not have availability. Um, so I was like, can I start a company around the problem that
+it's hard to find Christmas lights installers? Um, so at that point I thought of the idea. I I had made like a
+Google form, gone around my neighborhood knocking on doors, collecting orders, and then I was like, "Wait,
+this would be so much better through an app, and at the same time start and greatify, and I was like, we're
+great friends, and I know that he's incredibly technical. Let's partner, work together." Um, and then together
+we worked on a company called WorkBe, which is basically a marketplace for putting up Christmas lights. Um,
+and we made like $60,000. Um, and this was the main thing that we worked throughout high school that uh was
+the first thing that any of us monetized. >> You made 60k revenue over what time frame? >> Two and a half
+years. >> So, how much profit was that? >> Uh, it was it was less. It was like our our margins were like 10
+10%. So, it was like 10 less than $10,000. >> So, you guys save the money or did you buy anything with it? >>
+No, just save the money. [laughter] >> Boring answer. [gasps] So, >> we'll get more into your backstory in a
+bit, but how long did it take you guys to build an app that makes a million dollars a month? >> The initial
+app, uh, we were going into our both of our freshman year at colleges. I was going to Duke, he was going to
+Northwestern and the initial app took around 2 to 3 months. But this was also when we were building it, this
+was a time where AI coding tools weren't really a thing. Vibe coding is not I was barely even using AI to code
+at all because GPT 3.5 is out and it's borderline useless when it comes to anything technical. So obviously
+those timelines are like way way way way shorter now. >> Two and a half months. Okay. And how long would that
+take today for reference? >> Oh, building that MVP would be like days probably. I mean, if if if I took that
+same thing that I built, you know, whatever, two years ago, but now did it today, I get to the same spot in
+like two days, a day, probably. >> Just to kind of give the blueprint, if you had to grow an app from zero to
+a million users in 6 months, how would you do it? >> I would say the first thing is to figure out what is your
+goal with this app, right? Is this something that you want to be a venture scalable startup or do you want to
+make a lifestyle cash flow business where you extract quick cash out of it? Because my answer and advice I
+would give would be slightly different for both situations. Um, yeah, whichever one you want to talk about, we
+can dive into. >> That's funny you say that. That's what I've come to realize as well. It's like you're either
+building to sell or you're building to make money um and like have money in your life. So, well, you guys
+started as a cash flow cow originally, right? We never started as a cash cow, but when we first made Turbo, we
+were not sure where the future lies. So, we we haven't paid ourselves a lot from Turbo. Um, we just have only,
+you know, a year and a half ago, 6 months into the company, come to the conviction and conclusion that like
+this is the thing we want to work on for the next 10 years and that we want to build a multi-billion dollar
+company rather than um paying ourselves a big salary and cash flowing it like a lot of consumer apps. So, if I
+wanted to build something that made me a million dollars and I keep the profit. >> Yeah. Give me that process.
+>> Okay. Let's let's get the things straight. So, you want to get a million dollars >> in profit. >> In
+profit. Yeah. >> As fast as possible >> in monthly profit in six months. >> Awesome. So, one thing that I will
+say with a lot >> or revenue revenue >> revenue. Okay. Very different. >> Very super different. Okay. Um, one
+thing that I will say, um, we see a lot of sensational headlines around, you know, founders of consumer apps
+making a ton of money monthly. The asterric behind those numbers that a lot of people don't talk about is when
+you get such ridiculous growth, the marketing spend behind that is also really, really high. So the actual
+like cash flow on a monthly basis, like how much is the bank account increasing per month is a vastly vastly
+different story. And the reason that people don't talk about it is because it's all it's almost always not
+like rainbows and sunshines. >> The thing that's flashy is 18-year-old making $30 million a year. >> But are
+you making is your bank account going up $30 million a year? Absolutely not. And the one thing that
+differentiates your bank account going up over a long time horizon is usually your retention and like your
+turn rate, I'm guessing. Right. >> Exactly. That's the thing that builds stable recurring revenue. But there's
+a big asterric around that because the reality is software businesses, it used to be that retention is all
+that matters because the gross margins on like a premium user are pretty good for software historically
+speaking. And the reason that the gross margins were good historically speaking is because software to
+actually maintain on a monthly basis is not super expensive. For example, if you bought a Discord
+subscription, Discord isn't that expensive to to to maintain. So if you're paying Discord five bucks a month,
+those $5 are pretty much all profit. The problem with AI businesses is LM inference, like you know, talking to
+those actual AI models is quite expensive. So we're sort of in this flipped environment now where even if you
+do have great retention if the cost of the models per month is like you know a lot of money then that's
+actually not a great business model. Let me give you a super good example. Cursor cursor because of the nature
+of being an AI coding agent they have to use the best models otherwise developers are just going to go
+somewhere else and because they have to use the best models the best models also happen to be very expensive.
+So their gross margins even on paying subscribers are not very fantastic because they a subscriber might be
+paying cursor $20 per month but the cost to actually use those AI tools might even be more than you know $20
+per month. Our team alone of like 10 engineers we spend like 20 to 30 grand on cloud code every month. So, a
+lot of these numbers are just not they're misleading in my opinion, especially with AI because a lot of the
+unit economics have been fundamentally changed for software. >> I think a better question to ask might be if I
+wanted to take an app from 0 to $10,000 a month. >> Yeah. >> What are the exact steps? If you had to break it
+down into five steps, >> if you're starting with zero cash, right, and you don't have venture funding, I would
+when thinking of app ideas, work backwards from what would go viral on social media. So with Turbo, for
+example, there's sort of an aha moment when making content about Turbo. It's like you put in a lecture
+recording or you put in a PDF and as an output you get notes and quiz questions. There's apps like Cali where
+it's like you take a picture of your food and as the output you get how many calories it has. With UMAX you
+take a picture of yourself and it tells you how attractive you are. So I would say that if you're starting
+from zero in the bank account, something that you need to optimize for is being able to go viral on social
+media with your product. And something that correlates a lot with virality in my opinion is whether or not
+your product has an aha moment that paints a picture of what the product does. So if we look at comm right the
+meditation app even though it's a great app. I think that comm may not be able to do viral marketing very well
+through no fault of their own other than the fact that there's not a singular aha moment in the product.
+There's like a bunch of workflows built out to make help you meditate, but there's not a singular like you put
+this in, you get this out. So, I would say work backwards by trying to think about here's a viral moment that
+I want to have where it goes from input to output. Um, and then start to actually design what the app would
+look like on your end. So, I would I would say if we had to break it down into two super duper simple steps.
+The first one is like Rudy said, can this even go viral? That's how you're going to get a lot of attention.
+Now, the second problem, which is where a lot of apps fail, is would someone actually pay for this? A lot
+there's a lot of ideas that I've heard about like mainly consumer social apps where it's like connect with
+your friends like Instagram for plumbers. I I don't know. Whatever it is, no one's going to pay for that. It
+doesn't make sense. So, get a viral video. Step a prove that you can get attention. The second step is prove
+that someone would actually pay for it. >> I have a quick gift for you. So, I've interviewed some of the most
+successful young guys in the world trying to figure out what the best way is to make money online. And I've
+realized that clipping is probably the fastest way to make your first 10K online a month. So, that's why I
+want to give you the chance right now to make money clipping this podcast on Content Rewards. Content Rewards
+pays out over a million dollars a month to creators who clip videos for brands like Netflix, F1, Poly Market,
+and now this podcast. It's pretty easy to understand. You just clip the podcast that I went on last week, post
+it to your social media, and you get paid $1 for every,000 views you get on the video. So, if you want to make
+money listening to podcast or watching your favorite creators, just go to jacknil.com/clipping or scan the QR
+code on screen. Again, that's jagnil.com/clclip if you want to get paid for clipping this podcast. But anyway,
+guys, back to the episode. And the best way to do this is if you're coming from an engineering background,
+you'd think, "Oh, let me go build out this amazing app." Fade that. Don't even worry about building the app.
+The first most important thing is let's get a payw wall up and let's put the payw wall super early, a free
+trial, 3 days, 7 days, and when someone hits the app, hit them with that payw wall and see if anyone bites. If
+zero people bite, that means a you might be able to get attention, but no one actually cares about the problem
+enough, meaning that that app is not your winner. But if you get both of those two things, both attention and
+the ability to get someone to pay for it, then that means your idea has real legs and then you can focus on
+building the actual app, you know, getting engineers, designers, figuring out how the actual execution phase
+is going to go. But if you can't do those two things, there's no point even trying to build it. You're wasting
+your time. >> That's really good advice. Honestly, um be the advice I'd come to the conclusion after speaking
+with Zach Yadagari about this founder of Cali was make a video and see if it even goes viral first. Um which
+is also good. But after speaking with Amjod just now and him telling me like how quick it is to build and
+deploy an app, I was like, "Oh, you can just like actually build it." But what you're saying is a good middle
+ground of build a payw wall for it. >> So what does that pay wall lead to? like when you're testing something.
+>> Yeah. So, this this is a little bit of a >> gray area because it's like, okay, you scam like one person. >>
+Yeah. You scam one person. Yeah. But basically, you you you get a you get a you get a free trial going, let's
+say seven days, and see if anyone even bites. It's honestly a very good strategy because as soon as you get
+your first payw wall, you get your first uh conversion from free to paid, now you know that your idea has legs
+and you also happen to not have a product. So, the the clock is ticking. You got seven days, you got a week.
+You got to make sure that now you're funneling real users, real people into your app that doesn't work. So,
+you need to make sure you're working 24/7 to make that app work. >> And I tend to find that artificial
+deadlines are a super effective way at getting done because it's good to have your back against the wall, >>
+right? Cuz that one person you scammed might feel vengeful and they're like, "I'm going to build this out
+myself." [laughter] >> Yeah, that happened to us. Our first user asked for a refund. Yeah, I actually tried
+this myself with I think I was just testing an info product. I was like, would anyone pay for some form of
+like grow your podcast course? Um, I just sold it for like $300 and had one person had to send him a VMO. Um,
+[laughter] I was like, okay, maybe, but not as much attention as I thought it would. But >> it was really a
+play for me as well to collect data. Like I sent them through this whole funnel of like, what do you want?
+what do you want inside of it? Um, okay, here it is. And then it was like nothing, the check out page. But
+imagine that I'm someone with zero coding experience and I need to build that like MVP or even that checkout
+page. Like what tools you're using, what software, like really break it down as though like I'm a 5-year-old
+kid. >> Okay. >> Yeah. >> And you have no coding experience? >> Zero. >> Are you willing to learn how to code
+a little bit? >> Maybe I'll use something like lovable or cool. And then you're trying to get like an initial
+MVP going, >> right? >> Yeah. [snorts] So, I'll give two answers. My first answer is that day zero, no
+resources, don't know how to code. >> Let's say you have a 100 bucks. >> You have 100 bucks. Okay. So,
+basically no resources. [laughter] >> No resources and you don't know how to code. And you don't know you
+can't find someone that that is going to be able to help you. You should >> just not not do a nap. [laughter]
+>> You guys are the first people to say this. >> No, no, no, no. So, so the the perspective that I'm coming
+from is just seeing the the the problem here is you you don't know what you don't know. So, >> if something
+breaks, you can't fix it. >> You can't fix it. You also don't know why things are bad because effectively when
+you vibe code like truly vibe code just let AI do the work and you're not even looking at what's going on you
+you can't even the thing with experience in any discipline is the reason it's valuable is it gives you the
+knowledge to be able to say how something is going to go wrong or right before it happens and in the same way
+that that's valuable in I don't know finance it's it's it's valuable in engineering But let's go back to the
+situation. Your best bet for coding tools is not a low code platform like lovable just because you might get
+locked in at some point. Your best bet is a get views and then b I would hop on clawed code and I would just
+start asking questions. A crazy amount of questions. So you're going to start you need to build an app. What
+is the first question? How are apps built? Really dumb question. and it'll tell you, "Hey man, you can code an
+app with Swift or React Native." Your next question is, "What is Swift? What is React Native?" And the great
+part about Claude is it'll tell you, and it's going to say, "Swift has these pros. React Native has these
+pros." Every single time you see a word that you don't know, which will probably be 90% of the words, you got
+to make sure to ask it, "What does that mean?" And then you can make progress. Eventually you'll have a basic
+enough understanding relatively quickly actually with okay I understand which frameworks I want to use which
+ones are most popular for these reasons these are nontechnical things and now you can just tell the AI cool
+let's start with building a fitness app and the really important thing about using AI coding tools is that
+they're like they're like a friend who like wants to jump into things too quickly. You tell them that you want
+to build a fitness app and the AI coding tool is going to be like fantastic. I'll build it right now. Your job
+as the person prompting the LLM is to slow the AI down. You're supposed to say, wait, before we jump into
+coding, let's make a plan. So, as a non-technical individual, your job is to collect as much information about
+what the app is going to look like. What is the most minimum viable product that someone would pay for? Try to
+do as less as possible and make sure that your vision for what the app is going to look like on V 0 is
+incredibly clear because the less clear it is, the more the AI is going to be confused. And once you have a
+clear vision for what this super duper simple [snorts] V0 application that people will pay for is is just put
+it on the app store. >> Easier said than done, but that's like a pretty general formula for how someone could
+go about learning coding. The only asterric is >> how long would that take? >> It it depend it would depend on
+the person. I don't know. [snorts] Within a month you could >> Yeah, I think within a month you can get
+something on the app store >> foundational enough understanding to get something in the app store and it like
+somewhat makes sense. >> Got it. So you think a lot of these build an app in 5 minutes is like a little bit
+sensationalized. >> You you can but it's just like you're going to have to start over the entire codebase the
+minute you validate the idea. And then the question is okay I want to start over the codebase. Who is going to
+do the coding and take it forward? Maybe the more interesting question is let's think about let's think
+backwards for a second. How do these AI models actually work? The way they work is you take basically the
+entire internet and you just shove it into a model and it learns based on patterns because fundamentally what
+an LLM is it's just predicting the next token. So if you're trying to build something that has been built
+19,000 times before then yeah the LLM is going to be amazing at it. You can tell it build me a tic-tac-toe
+app. And because there's so many coding tutorials on the internet on building tic tac toe apps, it'll be able
+to just oneshot the entire thing. You won't have to even prompt it at all. But the nature of businesses is the
+reason that they make money a lot of times. Is it something new? If you're just going to build a tic-tac-toe
+app, obviously no one is going to pay for it. So they're sort of fundamentally a little bit incompatible.
+Which is the reason I say that if you want to build an app that makes 10K a month, then you can't be building
+apps that LLM have seen a million times because if they've seen it a million times, that means it's easy. And
+if it's easy, you know, it would have already been like it's there's there's no argument there. >> I think
+that's all super useful and really fascinating and humbling a little bit. Uh but a few weeks is still sexy, I
+think, to people. >> How'd you guys come up with that idea? Yeah. So, we were sitting in a cafe brainstorming
+ideas for things to work on because we decided to shut down the old Christmas lights business. Um, and this
+happened to be our favorite idea. As for like the actual ideation, um, >> what were the other ideas you were
+thinking about? >> We were trying to make a talking teddy bear. >> Yeah. >> Shut that down though. It wasn't
+>> a talking teddy bear. >> Talking teddy bear. They were trying to put a lot of people were trying to do
+this, but basically like we like, "Okay, what if we put a LLM with voice and we threw that in like in like a
+teddy bear cuz LM have like just come out. Like TIGBT is just a thing." And we sold that to like kids. >>
+Yeah. >> So I literally like we we bought um teddy bears off of Amazon um and we would like stab them with
+knives and try to put hardware >> like a little control chip. >> Oh, you mean like a physical product? >>
+Yeah, physical product. >> Okay. I thought it was like one of those like talking Tom apps, you know. >>
+Actually, we were selling like real 2023 pre like you being able to talk to GPT. Um, >> so you guys were
+thinking big cuz if you did one of those talking Tom apps AI like I mean I know people who make tons of money
+off like AI avatar apps you know what I mean >> to is a big one >> but a physical product I've seen some
+people doing that that >> I I think it will be pretty big honestly. >> I think there's a huge like company to
+be made here. Um >> why' you guys kill that idea? One of the reasons that we wanted to shut down workby, which
+was the uh holiday lighting app, is just the ratio for the amount of effort you put in for the amount of money
+you get out of it is honestly a huge spectrum for businesses. So, with our holiday decorating light uh
+business, we would get one order, which was $400, let's say, and we'd get 10% off of it. So, we make 40 bucks.
+The amount of effort to get those 40 bucks was absolutely insane. Horrible logistics of man like we would go
+to people's houses with lights >> and like be like we'll help you. We'll help the contractor put this up. Very
+early stages right at the time we made workby we didn't actually have infrastructure made for order
+management. So, what would happen is we had this beautiful app where people would place orders and then we
+would I'd like look at the picture of someone's house and then I would have a picture of their house uh
+highlighted where they want their Christmas lights and their phone number and I would literally like put a
+quote into their app and then manually like do sales over text. Like I would say, "Hey, check work. You got a
+quote? Um, is this quote okay?" And a lot of times like I'd hop on a phone call with them to like negotiate um
+the pricing and then over text like no systems whatsoever. We would like find a date where someone would go to
+your house and put up Christmas lights. >> So you guys built Task Rabbit for Christmas lights pretty much. >>
+Yeah, basically. >> Exactly. Yeah. >> But instead of um Task Rabbit being where they like [laughter] they just
+hand it off to a contractor and it's like they're a problem now. We were like vertically integrated so it was
+our contractors. >> How many Christmas lights have you guys put up yourselves? We didn't put them up, but but
+we would go to houses. So, I'll give you a anecdote, right? Um there's one house in which our contractor put
+up Christmas lights and the lights didn't work properly. And then the lady like really wanted an additional
+strip of lighting for one section of the house cuz it fell off. Um and this contractor was very unreliable.
+So, he was ghosting both me and the lady at the time. And this lady was freaking out. She was like, "I'm going
+to file a dispute. I'm going to post negatively about you guys and all the mom groups." And we were like, but
+the poor contractor left. So I literally like bought a string of Christmas lights off of Amazon and I like
+went over to her house and like I I gave her the lights and I was looking at like why the lights weren't
+working. So it was like small things like this. Um when our contractors messed up or something went wrong, but
+it was because we were trying to be like this vertical platform where we had ownership over everything rather
+than a task rabbit type of thing. Um because our whole selling point to these contractors was that they they
+shouldn't have to deal with a lot of the customer support, planning, logistics. They should do what they're
+best at, which is putting up the actual lighting. Going back to our ideation process, we were like, well, we
+have to do all this crazy amount of effort just to get $40. And that's not even recurring. There's no
+guarantee that we're going to get $40 from them next year. We're going to have to go through the exact same
+process. And I was like, well, let me think about software, for example. You get someone, they sign up online,
+you don't have to do any work, they pay by themselves, and then you get money on a recurring basis forever
+with high margins. It just sounded amazing. And around the same time, AI is also taking off. So, we were like,
+well, you can just sell AI tools to people on a recurring subscription basis, which has, you know, been
+becoming popular over the last like 10 years. And that sounds a million times better than trying to sell
+in-person Christmas lights. It it was like it was honestly a no-brainer. I was like, "Well, this just is miles
+miles more scalable. It's easier. You make more money. It's more fun. It's just like every single pro
+possible." Um, and this is when AI consumer apps aren't really a thing yet, >> right? >> The the marketing
+isn't there. There's no craze about it. No one's really doing it. So, it was we're very early. There was no AI
+study tools even when we were ideating it >> really. So this was the first AI study tool to market or like one
+of the first. >> Yeah, probably for one of the first three for sure. >> And then I guess just generally how
+did you come up with the name? How did you come up with the MVP? Like uh what was kind of the process of
+launching it? Like tell me the story there. >> So name is incredibly stupid. We I remember we were think we
+were ideating for a while. Yeah. We had a list of like a hundred names and we'd asked GPT for help and it was
+I went on like the the like rhyme zone and I like looked at synonyms and I saw turbo and I saw learn and we
+put it together and we got turbolearn. Um so so very silly. Um but in terms of ideation it was actually a
+problem that I had personally. Um right when GPT came out I was using it a lot to um study tools. Let's take
+an example. I needed to study. I remember I needed to study for a push, like AP US history. And the way you
+study for AP US history and AP government was making a ton of flash cards. And I really really wanted to use
+the flash cards, but I didn't want to make the flash cards myself. So, I would do this thing where I just like
+put it in GPT and then I'd like export it as like a certain file and then I'd just make the flash cards myself
+with like some some AI tools. Um, and then the other thing was both of us hated listening to teachers or
+professors talk, right? >> Absolutely terri I I for the life I can't I can't take notes and also pay pay
+attention to someone at the same time. I can't do it. >> So I was like what if you know AI did all these
+things for you. Take notes, make your flash cards, make your quiz questions. And that's sort of how the idea
+of TurboLearn was born. It was actually just a personal problem where regardless of whether it became a big
+big business, we were going to use it in our personal life. >> Got it. So that was >> the initial idea came to
+you in what year? >> Freshman year of college. >> Freshman year of college. >> Summer before. Freshman. >>
+Summer before. So it was after you done all the AP exams. >> Yeah. Yeah. >> And then you guys had studied for
+all those. Okay, that makes sense to me. >> So we we our we were able to go through high school without LLMs,
+which I think was a huge blessing. Something that I found is that a lot of the a lot of really really good
+ideas for consumer apps are ones where there's a certain niche of people that are doing that process but it's
+early on the adoption curve. So another so for us it was we were already using AI to study. So naturally it
+would be true that other students would also want to use AI to study. So it's it's a great consumer app. Um
+but the same pattern follows across like many many different disciplines and categories. If you think about
+like like Spotify for example, right? The origins to the best of my memory were people were already trying to
+find ways to listen to music everywhere and just have one platform for everything. The answer was actually
+just piracy. Um so there was a small niche of group a group of people early on the adoption curve that were
+already doing this. So it is low-key a very natural conclusion to be able to take that and be like oh my god a
+huge company is there. So for people who are trying to find new ideas um and actually be early to them which
+is which is what's important right like first mover's advantage I think trying to find these niche groups of
+people where it's still early on the adoption curve is where the best ideas are because once you get to the
+middle you know by that point it's already saturated and it's it's it's not too late to enter but your your
+life is going to be significantly harder. So the niche in your guys's case was college students using AI to
+study for tests and exams faster. >> And the reason that it was it was so interesting is because AI has just
+become a thing. Basically chat GBT has just been launched. So by nature of the fact that it's just been
+launched, anyone even using AI tools a lot is already early to the adoption curve. Whereas now it's like
+everybody's using them. So it's not no longer the case. >> Yeah. What the MVP look like and what did the
+launch of it look like? How'd you guys test it? >> Yeah, absolutely. So, MVP, it was honestly a similar
+version to what we have right now, but just it just didn't work as well. Um, so the MVP was not perfect at all
+and had a lot of bugs. In fact, I don't it didn't work very well. So, you would put in a PDF and we used the
+GPT API to convert that into notes, flashcards, and quizzes. It was just the quality of them was pretty
+abysmal. >> [laughter] >> Um, but even getting to that point without AI tools just took took a decent amount
+of time. And then originally when we started marketing it, Rudy can talk about it, but we didn't know what
+worked. So it was a lot of experimentation on areas that was just like we were doing dumb stuff. Yeah. It was
+incredibly inefficient and we learned a lot, but um this was before there was a lot of apps doing um short
+form marketing. So right now if you're starting an app there's a pretty clear blueprint on you know there are
+these hundreds of apps and here's how they market here's how they get users. We were pretty early to it. So
+there were not a lot of consumer apps that were repeatedly going viral. Um so us coming to the conclusion that
+like this viral marketing is going to be our thing took a lot of iterations. So >> had you guys gone viral
+before? >> No. >> No. No. So to get our first users, like instead of the natural step that now people should
+take of make Tik Toks, um I was like stealing cookies from the dining hall and giving them out to people um at
+my college campus. And then I was trying to do the strategy where we would have people at their college campus
+start like an Instagram account and follow people um and then unfollow them and then try to like get product
+awareness in that way. So we were we just tried and experimented. >> You were stealing cookies. I'm confused.
+I would go to the dining halls. I would like steal cookies and then I would set up a booth and basically I
+would say sign up for Turbo and um I'll give you a cookie. So I I did like >> Is that how you got your first
+user? >> Yeah. Yeah. Yeah. Yeah. So I gave out like a thousand cookies I think. Um and Saric did the same
+thing at Duke. People got so annoyed at us. They were like, "Not not these kids." >> Yeah. Not these kids.
+They start calling me Turbo on campus. Um we were blowing up on uh like Fizz, which is like the intra college
+social network. Not in a good way. [laughter] I remember there's like a meme of me um >> holding like like
+like a bunch of cookies or something that went viral. [laughter] One thing uh one thing that we did which was
+like kind of funny, not an effective marketing strategy at all is we got posters um of like an advertisement
+and I won't say what, but uh we put them on every single bathroom stall in like all of Duke for example and I
+went with my friends. So, every single time someone would go to take a they'd sit down and then they'd see a
+turbo ad cuz there'd be a poster inside the bathroom stall. >> Quick question. How many different apps,
+software, subscriptions are you using to run your business? Because if you're anything like me, you're
+probably doing email marketing on one platform. You built your website on another platform and calendar,
+appointments, CRM somewhere else. You're paying hundreds, thousands of dollars a month on all these tools and
+you can barely keep track of anything. And that's why my team started using High Level. It's basically an
+operating system for our entire business all in one place. You can keep track of leads, send automated emails
+and text, build landing pages, and process payments all in one platform, $97 a month. So, if you want to stop
+paying for eight different subscriptions, just go to jagnil.com/hyle or scan the QR code on screen. You can
+also hit the first link in the description, but again, that is jagnil.com/hyle if you want to run your entire
+business all in one place. But anyway, guys, back to the podcast. >> Dude, I I I remember that. Um, so it was
+started this my freshman year of college, end of sophomore year. Uh, so throughout this time, they' taken down
+most of the posters, but I remember going into a bathroom, end of sophomore year, taking a and there's a
+poster. >> Yeah. >> Do you guys have the posters? >> Yeah. Yeah. >> We can pull that. >> Yeah. >> They
+basically said, uh, >> um, have a poop emoji, professor. >> Shitty shitty professor. professor [laughter] who
+talks too fast. You start to take notes >> and then people thought it was really funny, >> but I don't think
+we got very many users. >> So that's the scrappiest thing you guys did to market your app. >> It's up there.
+We've done a lot. >> The scrappiest thing I I would say this is the scrappiest thing. Like we've done things
+that are more effective, but in terms of like actual scrappiness, I would say it says >> putting flowers up in
+the bathroom. >> Putting flowers on shitty professor. Yeah, exactly. Yeah. Um, what's really funny is that
+like it was not an effective marketing strategy. But like at least at Duke there's like I think I've seen 20
+other startups that thought that was the way that we grew cuz they see that we have 8 million users now and
+they thought we got 8 million users by putting up posters. So there's like 20 random startups started by
+students where they just put up flyers and they don't get any growth and they're like what happened?
+[laughter] So we started like a bad trend right >> where they thought that was linked to success but it it
+wasn't linked to success at all. It was actually just a failed failed thing. >> That's so funny. Some people
+like intentionally do that. I feel like I intentionally do that for podcasting. Like people are like, "Oh my
+god, you have all these viral clips. Like does it grow the podcast?" I'm like, "Yeah, bro. Like [laughter] you
+should spend a lot of time on clips. That's why we're so like the algorithms are completely different on long
+form content and short form content." And a lot of people who watch clips just watch clips and people watch
+long form just watch long form. >> Something people don't really think about. Um I probably have to cut that.
+No, I'm joking. You guys make your viral clips if you're podcasters. Uh we'll get into like the most effective
+marketing techniques, but I'm confused where does UMAX fit into all this. >> Yeah, absolutely. So um we're
+we're sort of having the initial ideas for Turbo as um we're we're we're both getting into starting at Duke,
+starting Northwestern. Um after our first freshman fall, um I meet Blake Anderson, founder of you know, UMAX
+and Cali. now uh through a friend >> and res GBPT is his first GTP res. So, so at this time, at point in time,
+Blake has only done Res GBT. Um, and he's sort of ideated. He he has the idea for UMAX. Um, and he's sort of
+built like he's like vibe coded an initial entry entry version of the app and he's starting to get a couple
+users and he's looking for like a technical co-founder. Um, and one of my friends who is a senior at Duke
+who's also I don't know if you've heard of like style, the app, >> Tinder for clothes, >> Tinder for clothes
+and he got like a couple hundred thousand users or something like that. But, um, he's my friend, he's at Duke
+and he intros me to Blake. Um, and Blake's looking for a technical founder. So, we start talking and that very
+next semester, I think a gap semester from Duke, moved to San Francisco because we get into this like crazy
+accelerator. And me and Blake were growing UMAX. Took it from whatever when I joined 4,000 users to now we're
+at like I think 20 million or something. But >> it has 20 million users. >> Total downloads. Yeah. >> 20
+million downloads. How much did that do monthly or can you not share that? >> Our best our best month was a
+little bit over a million I think around there. But it is very volatile >> and how much like uh just give
+people a rundown of what that app does. >> Yeah, absolutely. So UMAX is an app where you take a picture of
+your face and an AI tells you how hot you are using quantifiable numbers. So it tells you you are a 87 out of
+100 and your potential is a 96 out of 100. And the reason it was so amazing is because looks maxing as a niche
+was not monetized at all. So we went to influencers, you know, K Shami, Dylan Laam, all the Looks Maxing crew,
+and we said, "Hey, you plug this app into your videos, we'll pay you with influencer marketing." And it went
+super duper viral and people paid. >> And then how did that turn into you guys working on Turbo? So, we had
+the idea for Turbo before UMAX and we we we' done a little bit of the foundational work of building an MVP.
+Um, and we had at this point like less than a thousand users. So, when Sarthic got the opportunity for UMAX,
+we were treating Turbo as more of like a like a fun project. We were not sure that this is like the company of
+our lives. So, Sarthic was like, should I go to UMAX? And I was like like as your co-founder, yes, please go
+to UMAX. This is a huge opportunity. You get to live in this hacker house. Um, and you get to learn a lot
+because we weren't sure that Turbo would be like the company while Sarthik was at UMAX. Um, and working on
+that. Uh, I was like simultaneously exploring other ideas while also just putting in 20 30 hours a week into
+Turbo to see if like there's something we can do. Um, so when Saric was in San Francisco doing UMAX, I was
+just making Tik Toks and trying to figure out how to market it. Um and then at that point we started to pick
+up a little bit of traction. So during that semester um a span of like four or five months uh I got it to the
+point where we were doing like 30k a month. Um uh and that's when UMAX and their residency wrapped up. Um and
+then started like seeing that cool now we've gotten to the point where there's traction there's a real
+business here. We then both went you know fully all in on Turbo. So, you'd already made a million a month with
+UMAX before that point >> technically. Yeah. Yeah. >> And then you basically were like, "Oh this thing's
+working." Like, you built it while he was gone and then you guys came back together and now you guys are at a
+million a month in revenue. [laughter] >> That makes sense. >> And and the biggest thing about UMAX is the
+retention wasn't there. People would scan once and then they'd leave. So, um, the problem is you can't build a
+long-term business if every single person who funnels the app is leaving the next week. It's just a leaky
+bucket. >> I suspected that was the issue with that app was [laughter] the turn rate. Um, >> yeah. >> Did you
+guys ever do anything where you linked like affiliate products? >> We did. Um, we would put like Base Body
+Works, we'd put like the um whatever the the sprays and uh but like Mastic Gum and like all sorts of that
+stuff and it was actually like decently um successful. But that being said, uh the affiliates would only work
+if you actually paid for your scan. Um how the user breakdown would work is you come into the app, you take
+your pictures, and you have to pay for a scan. If you don't pay for a scan, there's basically no way you can
+use the app. So I think we had like about a 5 to 8% conversion rate on most people. So that 92% of people who
+are coming to the app, they'd get it and then they'd effectively just leave and never come back. So even
+though we're technically paying for those users from like a marketing perspective, we're not doing anything
+with them. And this is something that uh it was it's crazy. The person that told us this was HFZ, the
+accelerator that I was in, um they would have like really cool founders come by. So I remember one day the
+founder of Instacart, uh Max Mullen came by the house, like he just dropped by and it was we were just I was
+having dinner with him, me, Max, Blake, and then like the founder of HF of Zero, the accelerator. and he was
+like, "Well, guys, uh, I think I know what your problem is. Your problem is this." And he articulated. It was
+It was just cool to meet people that were just founding insane companies. >> It seems as though the problem
+with that app is like so foundational that it would make sense for you to shift focus to this one, cuz this
+one seems like like that one's big TAM, but low high churn, and then this one is >> like really high TAM, and
+I'm guessing much lower churn. Um, >> yeah. So when you came back um the app was doing about 30,000 in
+revenue. What took it to like the major growth faces were you guys were at 100 for a while, right? And then it
+>> 100 what? >> Like 100k revenue and then it kind of scaled up to a million or was it very gradual from the
+30k? >> I would say going from zero to 100 and 100 150 took a good year. No, it would have been zero till the
+end of the year was like I don't know. We finished that first year at like 40 Mr. I think >> there the there's
+a difference between MR and like actual revenue you did that month. Um just because we collect annual
+subscriptions. So you're collecting like $120 upfront. So that counts towards revenue, but it's not it's not
+counting towards your actual monthly recurring revenue because if you're paying $120, it's still 10 per month
+technically. But anyways, like the short answer, it took us the growth from 100k a month to a million a month
+plus is like pretty condensed. Like it's sort of been a lot quicker. Um took us a while to go from zero to
+100. >> How long did it take you to go from 100k a month to a million a month? >> See? Um what was it? Must
+have been like what? 8 months. Eight months >> probably. >> Seven, eight months. >> Yeah. >> And what was the
+key unlock for you guys? >> I think I I I don't think there was a key unlock honestly. what what what took you
+from 10 to I think there's two phases that we've experienced thus far as a company. The first is just 0 to
+one. How do you consistently get your first stream of customers and then the next phase which was honestly I'd
+say the next phase was 10 to where we are now. You just do the same thing that took you >> you know from 10 to
+20 you just do it but you just do more of it and you do more of it and I think it's going to stay in that
+phase. you just have to be more and more disciplined uh as you keep going. There's sort of a myth um in
+company growth around exponential growth like everyone's throwing around the word exponential hyperrowth
+companies like they're they're growing like this their rate is actually increasing at which they grow >> J
+curve. Yeah. >> Yeah. There's there's this there's this curve. It's it's not true. It's not a thing at all
+really. If you look at the best companies, even like social networks like Facebook for example, they don't
+grow like this. They just happen to have a linear growth rate which is just really really high. So even like I
+I feel like there's this at least when I'm looking at our data internally, I was saying like huh like we don't
+have exponential growth to be honest. It's really it's amazing growth and people would consider it like hyper
+growth but it's not exponential. So the best companies, if you look at it from like a numbers perspective, are
+really just doing the same thing but just more and more and more and they're just increasing their like the
+rate of linear, which is it's kind of odd. Exponential is not really a thing. >> Yeah, it's like volume
+feedback loops. >> Yeah, that's pretty much the equation for success, >> right? >> I guess what were the three
+main unlocks from 100K to a million? like was it more influencers, was it Facebook ads? Like what were the
+channels that you guys tapped into? >> So, we've tried absolutely everything. We've tried influencer
+marketing, paid ads, um organic content with creators, clippers, uh and we've spent hundreds of thousands on
+basically all of these. Um, the main unlock for us was UGC creators where you basically take a college kid and
+you have them start a new social media page and then every single post on their page is promoting your
+product. But the reason this works at scale is because to the average viewer, if you see an account called
+Turbolarn AI4 that's posting a TurboLearn AI video, you know it's an ad because it's a an account by the
+company. But if you see a video that's like Sarah spam account posting a video promoting TurboLearn, then you
+think that it's an actual influencer promoting that product. So, we basically just take this um system where
+you have uh college students running company accounts that seem organic and we scale that out to hundreds of
+creators. That's really fascinating because if you theme an entire page around an individual and the company
+at the same time, let's say they post a hundred videos and you have one that goes viral, people are going to
+be served multiple pieces of content from that one person because the way these algorithms work, it's kind of
+like Tik Tok shops a good example of this that if you watch one video about, let's say, this iPad stand,
+you're going to be served multiple videos from different creators about iPad stands and eventually they're
+just going to keep giving it to you until you buy it. >> Until you buy it. >> And this is kind of a similar
+concept which I really like. So, how many creators do you guys have UGC? >> We have hundreds um hundreds and
+hundreds >> over 500. >> And those are creators who we manage on like actually posting every single day. >>
+Yeah. And we manage them very very closely. >> Interesting. And did they get affiliate or just like flat rate
+month? >> No, they just get flat rate. >> Flat rate per uh >> flat rate per video. Per video. Sorry. >> Plus
+like incentives. >> Incentives. Got it. What's the most amount of money you guys have paid out a college kid?
+Um, >> in like a single month? >> Just like total in a single month? >> Total? In a single month? Like it was
+a lot. Like $30,000. >> Our best creator um earned almost $30,000 in a single month. >> Yeah. Just someone in
+college. >> She's now actually a full-time employee at our company. >> Wow. >> Yeah. Yeah. >> What's the most
+amount of money you guys have made from one Tik Tok video? >> Uh, attribution's impossible. We don't you can't
+you can't because you have thousands of videos going out uh going out, right? There's no way to tell where the
+actual money is coming from. >> I would say over 100,000 though for sure. >> 100,000. And then you have to
+consider long-term like customer retention as well. Did you guys run as like ad >> as well? >> We we have um
+run our viral videos as ads. Um yeah, we have experimented with that. But I remember one of our not our first
+viral video, but our first video from a creator that was really a needle mover for the company was actually an
+influencer marketing post. Um, creator named Tyler Vitali. Actually, he had a singular post that got like 12
+million views across all socials. That was super high converting. And that was one of the things that um got
+us from I believe it was like 30k a month to like 50k a month like like that in a singular month. Um and that
+actually led to us pumping a lot into influencer marketing cuz we just had this one singular lucky moment with
+a creator. >> And then I guess for people wanting to do a similar thing with UGC like do you have any advice
+for managing a bunch of creators promoting your product anything like that? Yeah, I would say that and I can
+go into the specifics later, but I would say it all boils down to being friends with the creator. Just are you
+as the person managing the creator able to develop a relationship with them so that when competitors and the
+hundreds of copycats that come after you, if you build a successful company, offer them twice the rate, they
+still want to stay at your company. Um, we've had, >> that's great advice. >> We've had creators get offered
+over like 15k a month on a monthly retainer from other companies who've chosen to stay with Turbo just because
+they enjoy the relationship they have with um, our creator managers. >> Oh, so you have a bunch of creator
+managers? Got it. How many of those do you have? >> Seven. >> Seven. It's a great piece of advice because
+there's a guy Hudson Leo Grande we had on the podcast. He is the number one company on Tik Tok shop. Uh it's
+Comfort Clothing and I met this guy back in 2020. He called me and he was like I was getting like big brand
+deal offers at the time, but like he was like the founder of the company and called me and I was like h maybe
+he'll like I don't know maybe it's worth a conversation. And like he had already told me he was just wanted to
+do commission first and I was like maybe it's not worth a conversation and just like he was so nice on the
+[snorts] call and he was like so good to me that I was like I'm tempted to do like my first commission brand
+deal. Um [laughter] and then 5 years later like he's like oh yeah um I did that with a thousand people and now
+they're all my affiliates and we're all good friends and you take care of them you know um and like ask them
+how their day is doing all that stuff. So, that part is super underrated uh in this business. But what's the
+key to making something viral while you're selling something? >> Yeah. >> Hardest question. >> This is the
+hardest question of all time. And here's the thing that inexperienced companies miss. Um we had this era where
+over a span of two months, we racked up 6 or 700 million views on social media. And our user growth from the
+previous month where we did not add that many users was basically the same. And the main insight we had was a
+video that actually convinces people to use the product versus a video that is just viral for going viral. The
+extent to which the the video that does a good job of promoting the product converts is way more than I
+initially thought. So there are certain videos that are incredibly high converting and most videos are not.
+You have to optimize for the ones that are high converting. So what I see right now in this space, especially
+with companies that are new and inexperienced to viral marketing, is that they're giving creators a lot of
+creative freedom and they're basically making videos that talk about random stuff and just happen to plug the
+product. The vid the reason that your video goes viral has to be because of the product, not despite the
+product. Like your product has to be the solution to a problem that the video builds up. You can sort of think
+of it like a spectrum where the more viral the video is, the more like usually kind of silly in nature it is.
+Um, and those types of videos, while they go super viral, um, as you get more on this spe side of the
+spectrum, you also lose conversion, which kind of sucks. So, you might get a 10 million view video that
+doesn't really get very many users. And on the other side, you can make a super boring video that's really
+high converting, but then no one's going to see it. So, finding that balance is honestly the biggest ongoing
+question I think in all of marketing. So would you guys guess just as an example that let's say Ashton Hall
+like the morning routine guy he did a video of his daily routine uh or like his morning routine and he just
+took a photo on an app with Cali and that was just a part of the video do you think and that gets a million
+views versus a video of like what would be the video that would convert way better than that? I actually think
+that example is fine because and that's actually decently high converting because the reason you're watching,
+you know, Ashton Hall is you you know what he's going to do. I mean, a a lot of his videos are whatever the
+the morning routine. So, the fact that they use Cali Eyes is honestly good. It makes sense. Um, let me give an
+example from from UMAX, uh, just cuz it was pretty interesting. Uh, Kami, his signature video that he would
+always make prior to UMAX was Mogwarts. >> For those of you that don't know what Mogwarts is, he was
+effectively teaching you how to look Max in the style of like Harry Potter. And the way he would do it is he
+would start with some guy who's like chopped and then show what exactly we can do to make him look max, >>
+right? >> And the way that we actually plugged was incredibly simple. He did the exact same format that was
+already going viral and getting millions of views, but we just plugged a screenshot of the app that this guy
+used to go viral. So, it's an example of something that was already going viral. We plugged the product in a
+way that, you know, it didn't even feel like an ad. So, it was incredibly successful. >> But the key there is
+that the product was directly a solution to >> the problem, >> the the problem in the video. And it was also
+like it didn't it didn't feel like an it was like oh wow this is the solution to this guy's looks maxing
+problems. I I need to use this app to become hotter. Um so it worked really well. Whereas >> it's also like
+secret effect. It's like oh uh like say theoretically he didn't say go check out UMAX and it was just the
+screenshot. Um >> people are going to be like oh this is what K shammy uses for that. And then the top comment
+say what is the app? >> What's the app? and then you like rage bait a little bit in the in the comments. >>
+What's an example of a bad one? >> So, one of the features on Turbo is you can convert recordings into notes,
+right? So, if you post a video in which you record your mom yelling at your dad for cheating on her, um, and
+then you just happen to turn that into notes just so you can look at the notes. That's a terrible video
+because no one is actually number one using Turbo to record their mom yelling at their dad. But more
+importantly, the reason that video goes viral is because of the cool story of your mom cheating on your dad.
+Well, not cool, unfortunate. Cool for like the viewer, I guess. But the reason the video goes viral is because
+of the fact that like the part leading up to your product is cool. Your product just happens to be a part of
+the video. There's a couple scripts that I've seen that we've tried that I think are absolutely hilarious
+because they're like honestly prime examples of like what not to do. Um I I saw this one. It was like some guy
+he starts off it's like a personal talking head video where they're talking about how um they they love
+playing basketball or something. They talk for 30 seconds just about basketball and then at some point in the
+video he just mentions that oh by the way I'm also a college student and then you plug Turbo, >> right? If I'm
+the user and I watch 30 seconds about basketball and then randomly a study ad comes up, I feel I'm I'm going
+to be mad honestly because like how does this even relate at all? And that's an example of something that's
+not effective cuz if anything, you're like almost like tricking the user into watching the video for this
+unrelated premise and then like just dropping the ad and then you're like, "Yo, what the hell? I I didn't I
+didn't." >> Totally makes sense. Like if I'm using Turbo, like if I have someone film a video, it's like bros
+using Turbo to interview people right now and it's like me and Kim Kardashian and like I'm like read a
+question off it. Like sure that might be viral. It's like oh bro using AI to do a podcast but it's like how
+many people do podcast? Like >> is this viral because it's Kim Kardashian, you know, is it viral because it's
+AI in general, not the use case of Turbo. That makes a lot of sense to me. How do you know if a creator is
+worth paying to promote an app? I would say that if you look at the creator market and how it used to be, what
+initially companies start off doing is they would take influencers who are already established and then ask
+them to run a company account. So imagine I came up to you and I said, "Jack, you're great at talking. Will
+you want to run a Turbo account?" You would come to me and say, "I want $1,000 a video." You you might say, "A
+little bit more. I don't know." Um and as a company this is just like not a sustainable business model. The
+insight we came to is that we can take someone who is charismatic and I don't care if they have any other
+trait or skill and we can train them. So for us the only benchmark whether they're worth paying or not is if
+they're charismatic and whether they have like the intention of working hard and being receptive to feedback.
+So charismatic and coachable. So you guys put a lot of effort into making creators perform well. Exactly. Who
+didn't really know much about creation. Maybe they were just charismatic. >> So I think a great use case here
+and we spoke about this before the interview was uh what was your secret for making an ad look organic? >> For
+making an ad look organic. So, one of the insights we had early onwards was that if you look at some of the
+most viral influencers who tell storytime content, they're always doing something in the video. Um, a lot of
+influencers are shaving while they're talking or they're making a smoothie um or they're cooking. So what our
+CMO um Nick, who's also an influencer himself with, uh experience making talking content, what he realized
+was, can we take a creator and make her cut fruit in all of our videos? So instead of just the creator sitting
+there and saying use turbo, she would almost do an entire story time in which she'd get like a watermelon and
+she'd start cutting the watermelon and it would almost feel like a get ready with me story time but she's
+cutting fruit and in the kitchen. Um, and then the views and virality picked up a lot because people would see
+these creators on their for you page and be like, "Oh my god, they just feel like an influencer. They're doing
+the thing that all the influencers do." And at one point we were literally taking our creators and we would
+Venmo them like 20 bucks a week to buy fruit um or to like buy different props to put in their videos and that
+helped a lot. So we had like a two or three month time span where all the turbo creators were cutting fruit
+and it was like the thing that defined our brand. >> How many creators were cutting fruit? [sighs] >>
+Basically all of them >> at this point we were a little bit smaller. So 100 150 and now we're at the point
+where if you were to look at companies doing the strategy where they hire creators have their run accounts I
+would say that one out of three or roughly half of them do this now. >> What are you guys doing now? >> We're
+experimenting with different types of props but the fundamental concept of make them feel like a real
+influencer who's doing a storytime video remains the same. So, we're actually on the other end of the the
+spectrum now where people see fruit and sometimes they comment, "Damn, not another turbo ad or can't wait for
+the turbo." >> Um, so now a fruit's lowkey a bad thing cuz it's a sign that it's an ad just cuz we've made so
+much content, gotten like hundreds of millions of views in which people cut fruit. So now we're like having
+people pour Kool-Aid into a uh cup of water and stirring the Kool-Aid. We're experimenting a little bit, but
+again, the fundamental principle of um do something in the video to be engaging still applies because other
+than the fact that it feels influencery, if you think about short form content and what it feels like from the
+viewers perspective, they are scrolling very fast on the for you page. And for most videos, they're spending
+less than 1 second. So, if there's any element in your video that captures the viewers's attention, that's
+going to make them want to stay for longer. So, if you've ever seen a video, right, in which there's an
+influencer and the first one second of the video is them placing the camera here. It it's it's like that
+influencer um camera set down. Um the reason they do that is on purpose to have that little visual motion so
+that it makes you think while you're skulling, whoa, what did I I just see? So part of it is make them feel
+like an actual influencer so there's more credibility. The second part is how do you just make the video more
+engaging? >> What's funny about the food and like the activity of doing something is it it's like this dual
+effect of to the viewer it feels like something that's not an ad and then also it puts the influencer
+themselves in a state where they don't feel like they're doing an ad. Like something when I've worked with
+creators in the past, I I was like, "Yo, just eat something while you do your video and it goes from like
+presenting to like, yo, I'm just eating something talking." >> Exactly. >> So that's something for companies
+to think about. For sure. Uh what would you say is the key to a viral hook? >> We if we step a little bit
+backwards into I think there's two types of ways you can come up with viral ideas. Um the first that we do
+quite a bit is just you know something's trending. Let's try to take something that's trending and write our
+own script on how um that connects to the product in some way. I think the more like really really surefire
+way to know if something a topic or an idea is going to go viral is if you've seen it go viral before. So, I
+think a big secret to writing viral things is kind of ironically just scrolling on TikTok to see other talking
+head, you know, people just talking to the camera, those videos, and if something has gone viral, there's
+those first 5 seconds for another person, the odds that it will go viral again if you do the exact same thing
+are incredibly high. So, you can just you can almost reverse engineer virality a little bit. There was
+actually this one format where there is a manifestation trend on Tik Tok where people would take candles.
+They'd put a candle in front of them and they'd basically say something like like diva, you're going to get
+you're going to have a great 2026. This is going to be your year. This is going to be the year that you're
+going to lock in. Um, and this is like a niche inside of Tik Tok that has had videos get tens, maybe hundreds
+of millions of views and it repeatedly goes viral. So, something that we did is we looked at one of these
+videos and we thought, how can we turn that into a at least medium converting turbo ad? So, we flipped it from
+the person manifesting you having a good 2020, this is back in 2025, to saying like, "Diva, I'm going to
+manifest really, really good grades for you this semester. you're going to crush it. Um, the advice I have for
+you is to use TurboAI Diva. It's going to turn your notes into flashcards and quizzes and podcast diva. You
+got to use Turbo AI. And we basically had this era where creators would go into their room and turn their LED
+lights like super purple and be very like almost like psychic vibe and they would like manifest some good
+grades with turbo being the solution. So the way we got the idea again was by just looking and seeing that
+this is going viral in another niche. How can we take it? Um and I think that honestly >> genius by the way. I
+haven't seen another company do that. [laughter] So yeah, >> I I think that this is honestly where most
+companies go wrong. Um we're at the point where we have I see a new turbo dupe like every other day, but a lot
+of these turbo dupes don't innovate at all on content. And when they do like try to take ideas, they take
+ideas from the edte space, right? And I feel like most people when they're starting a new app or building a
+new product, they ask themselves, what's gone going viral in my niche? How can I iterate upon that? So even
+forgetting stealing ideas from other companies like if you were most people if they were to start an education
+company they would look at what content education Tik Tockers are making and think about how to plug their
+product. The thing that I and I've been doing a lot more of this recently and it took me a while to realize
+this insight is that the ideas that usually go more viral come from a different space other than your own. Um,
+for example, the candle idea came from the manifestation niche, which if I had restrained myself to edte just
+wouldn't be a thing. So, I have like a like five for you pages now on my phone. And each one is just from a
+different perspective. Like depressed white girl crying over her ex for you page is one of mine. Um, and then
+yeah, I have like five different for you pages. Each of them radically different niche and that's been a
+pretty good source of ideas. Yeah, it was something I realized uh after my chat with Hormosi that it really
+does just come down to what are the variables and how can we manipulate them. Um so like in the case of
+getting ideas, it's like okay, we can get ideas from Tik Tok for you page that is my for you page. Okay,
+great. Uh we can get ideas from someone else's for you page. Five for you pages. We can get ideas from
+Instagram. We can do the same thing on Instagram. We can do it on YouTube, Reddit. You know, it's like you got
+to think about all the platforms, all the places that content are being posted. And I mean, you guys are the
+people being interviewed. But my prescription would just be make sure you have people on your team that like
+are diverse whether in age, the kind of content they're consuming, like as far as marketing goes. Uh like I
+used to have a 50-year-old researcher and she worked at like where did she work? She used to work at like the
+traditional news stations for like true crime and like she would always give me ideas and like true crime
+cases that I'd never even heard of because I was looking at like Tik Tok, YouTube, Reddit and she was looking
+at like documentary shows that um people used to watch like in the '9s, you know what I mean? Um so there's a
+lot of places to find inspiration. You just have to think about all the variables. How many creators do you
+guys have hired on your team? Like your seuite like your marketing team? Our marketing team right now is seven
+full-time people. Every single person on there is an influencer with a couple hundred thousand followers. Um,
+the two people who are not big influencers are creators who started in our creator program, grew their TurboAI
+account to over 40,000 followers, and then we hire them full-time. But everyone else comes from a content
+background. >> Do you think it's a mistake to hire CMOs that don't have followers? No, I think it would be a
+hard and fast rule. >> I would not call it a hard and fast rule. And the reason I say this is because we got I
+would say part of it luck and part of it is we've turned through a lot of like part-time contractors. Um, and
+I've interviewed and worked with a lot of creators in that the team that we have right now is really really
+amazing, but it's been after a lot of um uh like working with a lot of people, seeing who's the best fit and
+and nailing down the core team. So, I would say that my advice for, you know, if you're a company thinking
+about hiring influencers is to make sure that they're able to prioritize the the work that you want them to do
+because if you're an influencer who can make $5,000 from a brand deal, right? Um, you can basically post once
+a day and and, you know, earn 20 30k a month. what motivates you to actually want to put in 80 hours a week at
+a startup. So I would say you need to make sure that you know the creators and influencers that you hire that
+they want to be bought in on the company. I I think it's the same as like any other profession. Like take
+basketball for example, right? Um if you're really really great at playing basketball, you're LeBron James.
+Does that mean that you know LeBron James is going to be a fantastic coach, head coach? Maybe, maybe not. Um,
+you know, there's lots of great coaches who aren't great at actually playing the game. Um, so I I don't think
+they're mutually exclusive. For example, like when I think about um hiring um hiring like a lot a lot of
+engineers, um it's nice to be able to know how to manage someone if you can do their job really really well,
+but not a hard and fast rule. But you would say that most companies uh like top uh Fortune 500 companies in
+the US should likely look into influencers to help with their marketing department. >> I'd say so. Yes. >> I
+would say yes. I think the person >> it's cuz they're just missing that perspective right now, >> right? Um,
+if you hire out of like if you're hiring, you know, people with MBAs in marketing from like MIT or some
+something like that, it's just they're and it's not that it's not going to work. It might work, but you need I
+would say they don't necessarily have to be influencers, but they need to have viral sense. And the way to
+test if they have viral sense is to see if they're either they've either gone viral themselves or they were
+the head of content at another program. like I myself am not an influencer and I I don't know I would just
+creative thought of ideas but um yeah either there's like evidence that they themselves have gone viral or
+there's strong there's a strong case for otherwise >> my editors that I hire I usually >> make sure that
+they've got viral videos before you know what I mean uh and if they haven't I would expect them to be a
+cheaper price because I could teach them how to do it you know >> exactly >> um but the person managing the
+editing team or like the really good editors, those people might come from Netflix, uh, but they might not
+understand social media super well. So, you kind of have to, it's like trade-offs. Um, it's trade-offs. I I I
+think that like every skill is trainable and you can train people who don't have a background in, you know,
+going viral on how to be viral and they may just be a quick learner. But I think if you're hiring and you're a
+big company, um, you like the person managing and writing the training curriculum needs to be someone who's
+done it before. >> You guys make a million dollars a month. >> Yeah, >> you're 21. >> How much is your company
+worth at 21 years old? >> I would say over $200 million. >> The sus. >> And [laughter] then and then modestly
+like what would you say is like >> Yeah. So >> bare minimum if you had to sell it tomorrow. >> Valuation is
+hard but like even in very very bad case outcomes and valuation methods we are worth over $100 million. >>
+Quick question. Are you someone that has a lot of money in crypto? Because if you're like me you're worried
+about getting hacked or if you have a hard wallet losing it, someone stealing it or just forgetting your
+password. That's why I was so relieved when I met the guys at IT Trust Capital. They told me they have a
+premium custody account, which basically means money can only move in and out from your bank account. No
+external wallets, no random transfers, so you can never get hacked or drained. So, if you want to keep your
+crypto safe, just go to jacknil.com/itrust or scan the QR code on screen. Again, that's jackneil.com/itrust if
+you want to sleep better at night knowing your money's stored with the same companies that BlackRock,
+Fidelity, and Coinbase Prime are all using. But anyway, guys, back to the podcast. Yeah, I think you guys
+might be the most successful youngest people I've met. There's one other person that I think you guys know um
+that they're not willing to come on podcast because they're doing so well. But you guys are definitely number
+two, if not number one. I don't know their exact numbers. Uh there's some like faceless kids in Cyprus making
+some money in some interesting ways with AI apps. But um [laughter] there's a big difference between you know
+venture like VC valuations and how I don't know private equity firm or something cuz this this whole thing is
+very like subjective you know valuations. >> Would you guys sell your company? >> Uh no I think it can be a
+lot lot lot bigger than it is right now. So it would be a shame to sell. What's your goal next five years >>
+in terms of finances or in terms of product? >> Finance, I guess. Yeah, >> finance. Next five years. Next five
+years, we we we better be worth more than a billion, >> right? Earlier than that. Five's too long. >> Yeah. >>
+When do you expect you guys will be able to call yourself billionaires? >> Oh, billionaire. So that means we
+would have to be worth more than what two and a half billion as a company. Um >> that might >> that might take
+>> five years, >> I think, is [laughter] a fair goal for that. >> Five years would be awesome. >> Yeah. For
+for both of us to be billionaires. Five years. Yeah. >> So you guys would be 26 at that time. Okay. >> For
+both of you to be billionaires. I guess one of one of you could acquire all the equity to beat Zuckerberg and
+scale it really fast. >> When I think he became a billionaire 22. >> Yeah. Super young. >> It it was very
+young. >> So how does it feel to be worth tens of millions of dollars at 21 years old? >> You'd think that it
+would feel different than we weren't, but it does. There's I don't I don't think there's much because we
+haven't bought anything yet. So like >> I feel like my life is the exact same as it was, you know, 2 years
+ago. >> If anything, there's more work to do. >> Yeah, [laughter] >> it was more fun before. >> My producer
+camera guy was asking me before this podcast. He's like, "Yeah, Jack, like podcast is growing a lot." He's
+like, "Do you feel better about it now?" I'm like, "Oh my god, no. There's so much more." [laughter] >> Yeah.
+I don't know. I'm like, "Yeah, I mean, the problem of making money and getting views is like kind of solved,
+but like >> more money, more problems." [laughter] >> It's true. Um, have you guys bought anything? >> Not
+really. >> You guys buy each other Christmas gifts? >> Okay. There's one weekend >> I bought him socks or he
+moved. >> Yeah. One day. >> There's one weekend we were like, you know what? Let's see what what it feels like
+to get a taste. So, we went on a trip to New York. Um, and we spent like $800 on a dinner and we were like,
+"We're never doing this again." >> It's not good. [laughter] >> But yeah, I think that was about it. >>
+Honestly, the the the this is this this sounds like super cliche to say, but the most fun and like happy I
+feel I mean, I remember this was like a couple weeks ago, like we all the people in our company, we're friends
+with everyone. Everyone's like also 21, 22. Um, we went out and we played like we we decided this random game
+where we're going to play uh 3v 4v4 game where you play basketball first and then volleyball and then football
+and then the losing team has to do like a ton of dares and play like shot roulette or something and it was
+probably the most fun I've had in a while. And we spend a grand total of like zero dollars. >> Kind of cliche,
+but it was it was awesome. to go off cliches even more. Like, do you guys drink, smoke, party, anything like
+that? >> We drink sometimes. >> Recently for me, I've been >> Yeah. Recently, it's been super locked in. But
+>> Huh. >> Yeah. >> I'd say typical archetype of successful young guys is like, I don't do anything. I just
+like work at my computer all day. But you guys seem fairly sociable. I mean, that's a benefit of having
+co-founders in general. Um, >> and everyone in our >> we're friends with everyone in our company. And sort of
+the dynamic we have is we all live and work out of a giant company house. So it's like a giant friend group or
+like a frat together, but you just happen to be um well, I wouldn't call it a frat, but like a giant friend
+group working together, working on a project. >> Really smart friend group who is just happen to be aligned on
+like the the same goals. So it's awesome. >> So I think it might be a good time in the interview to guys. I've
+been recording the entire conversation thus far and I'm going to try to use Turbo to upload the audio. Um, >>
+oh man. >> Says do not close or leave the app. >> What happens if I do that? >> You'll lose everything.
+[laughter] >> I know. You'll be fine. It'll be saved. But >> let's check what Turbo has come up with. >> Let's
+do it. >> Damn. This actually looks I feel like I'm grifting for your app right now, but it looks really like
+well organized. [laughter] Um, awesome. >> Surprising. >> I can do flash cards from this interview. >> You can
+do flash cards. >> I don't want to generate them. Okay. So, how do I >> You need quiz questions quicker. >>
+Okay. >> New quiz questions. See if you can get them right. See See if you've been paying attention.
+[laughter] >> Oh, well, I'm being tested now. Let's Let's test you guys first on the app. Um, [clears throat]
+okay. What's the most viral next question I could ask the two co-founders that I haven't discussed yet in the
+interview? or what is the most viral next question to ask about a point that they didn't expand upon fully. >>
+See what happens. >> Yeah, you mentioned the importance of a single aha moment for virality. Uh like turning
+lectures into notes and quizzes and like the text on screen while you're recording the audio. Can you share an
+example of a product that you initially thought had an aha moment but failed to go viral? >> Yeah, I can give
+a couple. So we we had a feature on um Turbo where uh it would edit your existing document sort of like Google
+Docs with AI where it would you ask it like hey can you add analogies into my notes and it would go through
+and do it and that was sort of the aha moment. Oh my god you can do that. Um and I I I think part of the
+reason it just it didn't go viral is even though it was like pretty cool no one else can do that. um being
+able to convey why adding analogies into your document through a short form video and also is is just pretty
+difficult. And even though it was an aha moment, it wasn't like compelling enough to be a great aha moment
+because >> even when you explained it to me just now, I was like I was like, was that an aha m I was like I
+was like wait so so I could get analogies but you thought that that would be interesting the visual of what
+happening exactly >> an AI like going on your document like with its live cursor and making changes to your
+notes. So the the better example would be like if you need to write an essay or you're brainstorming instead
+of copying and pasting from GPT, it sort of does it on your document. But even as I'm describing it right now,
+it's not that compelling, which was the problem. [laughter] >> That's really interesting. Yeah, I guess that
+would be kind of hard to convey. Um H and what'd you learn from that? Um the things that we need to be showing
+need to be super duper clear because if you want to show it in short form, the nature of short form is that
+it's you have to grab their attention quickly. So if it's if it's a problem that requires a lot of setup and a
+lot of context, you're just going to lose the user before it's even find a way to condense it. So yeah, >> I
+would say that building features around this whole principle of building for virality even in like more
+established products is actually something I would highly recommend. Um so for example uh one thing we did is
+we had a podcast feature in which you can basically turn your notes into a podcast and we built out a tool for
+creators where instead of it being a normal podcast the podcast would cough. So um the first 10 seconds the
+podcast would say something normal and it would just like cough or sneeze. And then we launched that as a
+feature just for our creators. And we got like over 200 million views in the span of a month just from that
+singular feature. >> People are like, "Why is they uh coughing?" >> Yeah. They were like, "Oh my god, people
+would make edits of our ads." Um cuz >> we not only manipulated the cough, we manipulated the actual voice. So
+the AI would cough, you'd ask the AI a question, and the AI would be like mad at you, like why do you keep
+interrupting me? And the feature that we're trying to show off here is that you can turn your notes into a
+podcast and you can actually like chat with um chat with it in real time and interrupt it. Sort of like a live
+tutor. But um yeah, we just turned it into a viral simulation. >> People thought it was so awesome that I
+think like news agencies were like, "This is crazy. Oh my god, like AI is like sentience. It's coughing and
+and stuff." So it was pretty significant. >> Yeah. see like a new clip every day with like like I I actually
+have a list of like 20 edits that people have made of it that have gotten over half a million likes on each
+edit. >> And did those convert well or was it too like lack of congruence? >> You know, I don't Doesn't seem
+great. >> Yeah, it doesn't seem great. Um >> but it's good awareness. It's very >> good awareness and it
+wasn't horrible on a spectrum of like zero to to one, but it was on the on the worst side. >> Yeah. And you
+know, going back earlier to her point about your product, your video should go viral because of your product.
+I think that this did a great job of integrating our product. Like the whole video was a user talking to
+Turbo, but the reason it went viral was because, oh look, AI is growing sentient. >> Yeah. >> Not that, oh
+look, the AI that turns your notes into podcast is growing sentient. Go use Turbo AI. A lot of the comments
+even you could sort of tell that it was reaching people who had no nothing to do with studying or students.
+They just thought it was crazy that an AI was coughing. So I think a lot of the views were just not super
+effective because they weren't hitting our demo. >> That's fascinating. Do you think there's any like I mean
+I'm sure there's like marginal utility to it, but like do you guys ever think about like what's our big viral
+moment that's not super congruent or is it just like let's just get congruent content that actually converts?
+>> Yeah, the the core problem is it's really really hard to justify marketing spend that is not directly
+producing new users just because you can't quantify the ROI at all. It could be amazing. It could activate
+someone that, you know, it could help in some spontaneous new way, but you don't know what it's going to be.
+Which is why things like, I don't know, billboards have always like baff baffled me personally cuz you're
+like, well, how do you even calculate the ROI on a billboard? It's just like you just do it and it's sort of
+just pray that it's going to it's going to do something. But that being said, um I I I was reading something
+about Coke, for example, and the bulk of their revenue is actually just brought in purely by a couple of um
+like a one subset of Coke drinkers that really buy a lot and that's actually the bulk of their revenue. But if
+you look at like the nature of their advertising, they just do everything. Um they just like throw Coke in
+random places. Um and it's pretty interesting. There's there's something to think about there. I don't It's >>
+it's like retention metrics for long-standing companies. It's like, oh, you see like a Coke billboard, it's
+like, oh yeah, I like Coke. But it's like you've already had it. But if you saw one for a company you've never
+heard of, it's like, okay, that's something. There's always something there, but I think it's in the age of
+social media, it's not nearly as effect. It's not a super effective use of money. >> I wouldn't even say that
+it's not effective. The problem is you can't confidently determine how effective it is cuz attribution is just
+completely cooked. So, I I I do think that there's bets outside of short form content that might actually be
+amazing, but the the fundamental problem is how confident are you in that thesis and how do you attribute how
+much uh user growth it led to, which is why it's the problem with social media. You can at least attribute
+here's how many dollars I put in, here's how many views I got, and work backwards from there to have some
+semblance of whether it was profitable. >> It's fascinating. Tracking in general is just super. I don't think
+companies are very good at it. >> It's kind of an like an impossible task. Like early on, I used to think that
+like we were just personally as a company doing a bad job of tracking and attributing users. But then as we've
+really really tried to solve that problem, I realized that it's just not really a solvable problem. I mean,
+imagine you you show someone a Tik Tok video and there's a link to Turbo, right? The likelihood they actually
+click on that link and go right then and there is very low. Most likely, you know, maybe they're in class the
+next day or maybe a friend tells them about it as well and then they just end up searching it up. you it's
+it's quite impossible to actually link the user signing up to where they actually came from. It's it's pretty
+much impossible. I was talking to someone who was running a fund that was um responsible for funding a lot of
+Grammarly's current spend. They had raised like over over a billion dollars in debt and he was telling me that
+a lot of it is actually just vibes based. Even for companies spending over $50 million on advertising, it's
+surprisingly not data driven, which is kind of crazy, but I I guess it should give us all a little bit of um a
+little bit of reassurance that, you know, everyone sort of doesn't know what they're doing. >> That's super
+true. Yeah. I think the prime example of this is all the kids making money on Tik Tok shop and they're like,
+"Wow, this is such a gold rush." And then like you realize like 50% of people who watch the video just go on
+Amazon and buy the product. >> Exactly. >> Just kind of like an arbitrage in of itself. But um >> one thing I
+I would add on to that is regarding attribution. The biggest advice I'd honestly have for someone if they're
+starting a new company is at the very early stages when you don't have a lot of users, you can figure out
+attribution. All I mean by that is if you're getting 50 users a day and you have a viral Tik Tok with 5
+million views and the next day you wake up to 10,000 users, 20,000 users, you're like, "Okay, wow, this is a
+good, you know, 5 million users equals to this. 5 million views equals to this amount of users. It's a good
+form of content." Um, but I would recommend that you know if you are starting a new app or a new website early
+on experiment a lot and to the best of your abilities try to track this type of video format leads to this
+type of user growth versus this type of video format leads to this type of user growth cuz you just can't do
+it at scale. Um, or you can't do it when you're adding so so so many users. The longer you've been a company,
+the more annoying it becomes cuz then you have so much content that's like act like actively right now we
+probably have tens of thousands of videos that could be getting views. Can you pinpoint which out of 20,000
+videos where a user came from? No, it's pointless effort. There's no point doing it. >> What's the number one
+use case of your app when you guys are looking at the I forget what these metrics are called? It's like this
+the usage data on the app store >> activation stuff like that. Um, number one right now is that a big learning
+was that let's say you're a college student and you have a 100page PDF. Um, we would have thought originally
+that if you take it, you put into Turbo and Turbo spits out three pages of notes, let's say, that they would
+read those notes. But it turns out that even when it goes from 100 pages to three pages, students still don't
+want to read it because it's still too long and their attention spans are very very very cooked. Um, so the
+the bulk of our usage right now is actually in the interactive study tools. So quiz questions and podcast and
+flashcards, mainly quiz questions because people really really like assessing themselves on knowledge and like
+instantly getting feedback on why they're good, why it's bad. So we've been leading into that a little. >> I
+want to try one of the quiz questions. >> Let's try a qu Let's see if you've been paying attention. >> Yeah,
+we'll uh >> let me go out here. >> If you if you get it wrong, we're gonna be mad at you. [laughter] Okay, so
+question for the audience. Oh this might take a second. Which two-step framework should a founder use to
+validate both virality and monetization of a new AI study app before building the MVP? One, create a short
+viral demo video, then test monetization with a payw wall and brief free trial. Two, launch the full app, then
+measure user growth and adjust pricing later. Three, run a paid ad campaign first, then collect user feedback
+after purchase. Or four, build a detailed technical prototype, then seek seed funding before any user testing.
+>> Do you know the answer to it? >> I I know the answer. Do you know the answer? Do you? >> Yeah. Seek seed
+funding. No. Uh create a short viral demo video, then test monetization with a payw wall and brief free trial.
+Right. >> There we go. >> Awesome. Damn, that's actually Hm. I'm glad it worked. >> You guys might have to
+partner with this podcast so people can quiz themselves to make sure they're actually learning and not just
+being entertained by >> Exactly. >> two kids who are worth hundreds of millions of dollars. Um, [laughter] >>
+but this leads into what you were talking about before is you went to Duke, you went to Northwestern. These
+are practically Ivy League schools. Some people call them sub Ivy. They're very hard to get into. I did not
+get into Northwestern. I don't think I applied to Duke. But, uh, you guys think college is a scam? It's a hard
+question. How do you define scam? >> Uh, I didn't get an ROI on my money. >> You didn't get an ROI on your
+money. >> Okay. [sighs] >> Well, if you define it like that, it's [laughter] >> I Yeah, if you define it like
+that, cause a scam for a lot of people. >> Yeah. But >> I would say you Okay. As someone who's considering, do
+I go to college or not? I'd say the main thing is you have to ask yourself, what is your goal? Do you want to
+pursue knowledge, find something you're curious in, and go deep into that plus the social aspect, or are you
+treating it as a financial investment in which the world tells you that if you get a college degree, you're
+going to be more employable, and be able to land a slightly higher paying job. If your reason for going to
+college is option A, um, make lots of friends, have lots of fun, and pick a subject that you're interested in
+and dive deep to it, deep into it without really worrying about the financial ROI. I would say that college is
+worth it if you if you think that you can afford it. If it's the second option of do I go to make myself more
+employable, um I would say it's worth it only if you're going to, you know, you're going on scholarship or to
+a state school that isn't super expensive. But I don't think that the the cost and time commitment you're
+putting in um both monetarily and like how you're spending your time is worth the return when you could go to
+trade school and make the same salary. >> I actually disagree. I I think that um college so so given this new
+AI world where it's really really easy to basically learn anything. Okay, you could have all sorts of skills
+and you could you could probably use chat GBT to teach yourself virtually anything. The current LLMs are
+breaking like basically PhD level achievements in every single discipline. Um, at first glance I thought
+originally that this is an argument against college because if it's easy to learn anything, why would you pay
+for someone teaching to you? It it doesn't really make a lot of sense. But then I thought about it more and
+because AI makes it so easy to learn stuff, if you think about it from the employer's perspective, wow, this
+is pessimistic. Um there is the amount of noise that exists in the application pool for applying for jobs
+becomes insanely hard. How do they differentiate between people if everyone has the ability to have skills? >>
+They use AI. [laughter] >> Well, option A is they use AI, right? And if AI is also causing a problem of less
+jobs, which is true, that is something that we have to accept. They need to be able to use certain filters to
+not talk to a thousand people cuz they can't talk to a thousand people. It's just it's just not possible. And
+the first filter that any company will use is which college you attended, >> right? So, in that regard, like
+something that we're doing right now, and it's I'm I'm not saying that I'm not willing to talk to someone who
+came from a worse college, but if I only have the time to talk to 10 people and I have 10,000 options, I'm
+like, quite frankly, I'm I'm going to filter by people who went to Ivy Leagues just because it's easier and
+they tend to have higher like not higher, but like majority of the conversations I have tend to be good. So,
+I'm like, why not? and it works. >> Would you guys be more apt to hire someone who dropped out of an Ivy
+League or >> I would love to dropped out of IV? That's that's the best person. >> The actual the fact that
+they graduated from Harvard, I don't care about that at all. Right. Harvard has great inflation. Like so many
+people get A's. Um as people who went to Northwestern and Duke, like it just was not very hard, especially
+with AI. Um the thing that matters though is that they were able to get into this school and that serves as a
+filtering mechanism which I can get behind. And then I I I just look at like, you know, I'm thinking about
+like my own college application journey and and you know, it it wasn't hard. It wasn't easy to get into to get
+into these schools. And I'm thinking like, you know, the types of people that are getting to these schools,
+the the likelihood that they're intelligent is decently high. You So, if you're going to be hiring less people
+just because AI warrants hiring less people, just because there's less work to be done, then the initial
+filters become even more important. And that is why I think maybe college is arguably less of a scam with an
+AI. >> Where I think you draw the distinction though is a lot of colleges market themselves is you're going to
+come to this school, you're going to network, you're going to learn all of these things at this college which
+we will apply in your job. I don't think a lot of like what you actually learn in college is applicable in a
+real job. And I think like the networking that you do in a college is largely not that useful. That's how you
+guys met his networking in college. >> That's how I met Blake as well. Well, I mean, we we met because we grew
+up together, >> but it's more about the person that you are and what you're willing to do with the
+opportunity. And it >> it's it's a scam in that maybe the going to the classes itself won't get you a job
+guaranteed, but you can >> finesse it in a way where you get value. I think that's >> we up to the person. At
+our company right now, we have two full-time employees who are Northwestern dropouts and we have >> Yeah, we
+have three that are. >> So, I met a lot of people that are, you know, we're going to work with in some
+professional classes. >> So, there there is value for us. >> How do you use AI to get into an Ivy League
+school? >> How do you use AI to get into an Ivy League school? >> I think that's an interesting question.
+Right now, actually, the college admissions process is probably so different from what it was like for us
+growing up because colleges placed a big emphasis, especially like top 20 colleges, on the extracurriculars
+you do outside of school. So, if you're a kid, I'm talking preGPT, who wrote a 20page research paper and got
+it published. Or if you're a kid who built an app, then you look incredibly impressive because doing those
+things was very very difficult and it took a long time. Same with like writing a book, right? If you pre-ai
+write a 300page book about a scientific topic, wow, incredibly impressive. I think that now because of the
+fact that you can, you know, vibe code an app with AI, you can GPT, oneshot a 20page research paper and use
+deep research. I think right now the the filter for colleges as to who to let in becomes sort of cooked and
+and going with jobs honestly. Yeah. The signal signal to noise is just you just can't differentiate. There's
+no way unless you really like an anecdote that that we that I have personally developed with hiring is that
+there's so many people that sound absolutely fantastic on paper. >> But the only way to really tell if
+someone's going to be great is you actually have to work with them for like at least a month, which colleges,
+companies, they just can't do that for 40,000 different people. So I I I I'm a bit pessimistic. I I don't know
+how you do it. >> I I I think like to answer your question, how do you use AI to get into college? You have to
+use AI to get traction on something. Because I think the only filtering mechanism right now is the college
+care about them. >> You guys are probably under the assumption too that you likely had perfect SAT scores and
+perfect GPA. Is that fairly true? >> Yeah. Yeah. >> I was one of those kids who had those metrics as well, but
+what I didn't have was like the differentiator. And I was like, "Okay, I'm going to start this charity and I'm
+going to um go viral on TikTok." And I thought that'd be enough, but it wasn't. Um, and I guess for the people
+who want like how do you use AI to get a 4.0 GPA and get perfect ACT SAT scores? Like how would you do it if
+you guys want turbo? >> Um, yeah. And in all seriousness, I [laughter] I I I think the fundamental thing about
+um being like good at a lot of like academic subjects is it it just it does start with curiosity. Um, being
+willing to ask questions a lot. And the great thing about AI is AI has all your answers. Um so the starting
+place is just becoming really really curious about everything academic subjects included. And if you do that I
+think the knowledge will will sort of come. The great thing about AI is that um pre let's say a couple years
+ago uh a lot of knowledge was restricted. um as in if you wanted to learn math, you might have to actually go
+in person and and ask your your your teacher and they might not be available because they're helping another
+student and then your your access to that information is is is not there. But that's no longer the case. >>
+Yeah, it really is like uh there's no reason to not get a perfect test score anymore. Like my excuse at the
+time was like I was like I only have 10 practice booklets, but now I can have a thousand. So like you can
+practically generate any question that they could possibly think of on the ACT, SAT, and like any category of
+question. Um that's interesting. Are those metrics still important for getting into school? >> I I think they
+I think they largely are just in the same way that you know college is important to job applications just
+because it's initial filter. I think colleges use SAT and ACT as like a filter of intelligence sort of. >> I
+would argue that they're becoming more important. There's a trend during COVID and a little bit after CO where
+all these schools became test optional. And latest I've heard a lot of schools are making it a requirement
+again to submit your test scores. And I I would argue that like an SAT score or an ACT score is a really
+really good indicator of of how you're going to per perform in college. And and the reason is simple. like,
+okay, if you're rich, you can like pay for your parents to fund your nonprofit, or if you're rich, you can go
+join the sailing team or fencing team and develop sort of a wedge. But at the end of the day, especially
+because of AI, rich people no longer have an advantage when it comes to just test prep. Um, it's like the
+least biased filter there is, I would say. Um >> there's a bit of an advantage in different ways, but as far
+as like access to resources, >> well, I'd say access to tutors, but not even tutors, just >> like not having
+to work a second job. >> Yeah, of course. Of course. But at the end of the day, it's all skewed in fa favor of
+people who are, you know, or richer. >> There are certain factors of the college admissions process like
+extracurriculars that are skewed more in their favor than SAT, ACT, which is probably like the like the least
+skewed in rich people's favor is all I'm saying. How'd you two meet? >> Um, middle school. We were just
+friends. We were in the same friend group. >> Do you guys like do any activities together? Like >> Yeah, we
+would um, let's see. Just like random stuff. Play basketball. Play basketball. >> Um, in our friend group, we
+would always have this thing like every single time someone had a birthday, we would like it like a sleepover.
+Just like normal like middle school kids stuff. >> Did you guys want to go to the same college? >> Um, we did.
+And then we didn't get into a single school that was the same. [laughter] >> Really? >> Yeah. None of us got
+into a single I >> Yeah, we just Yeah. >> Huh. I thought I had very amazing. >> Are you guys from a good
+school in Texas? >> Yeah. >> Um, good public school. Yeah. >> Interesting. Yeah. I feel like they base it off
+of like people from this geoloccation. So, it's it's actually super hyper competitive if you're from Texas,
+like a good school. Like I was from a school where I think one girl got into an Ivy ever. And >> like if you
+had the stats there, it'd be much easier because they're looking at >> comparatively. Yeah. No, I remember on
+Ivy day um we we both like all the all the results came out and then I called Rudy instantly like like the
+minute after and then I was like I got rejected everywhere and he was like me too. I got >> you got I got
+deferred from every single Ivy >> weight listed every single Sorry. Yeah, not >> I don't know how that happens
+to you. >> Weightlisted from every single [laughter] place. >> It's crazy. Like Zach Kagari he's >> Oh yeah.
+>> Yeah. We're good friends. >> We we read his essays and we were like so funny. >> Different story. Yeah. >>
+Wow. Hater. [laughter] >> I was like, >> I think he was going to the same college I went to. Um >> I think he
+maybe switched to Miami. I don't know if he's even going to Miami right now. You went to UT, right? >> Yeah, I
+went to UT. >> Yeah, we we we love Austin. We love Austin. >> But yeah, I read his essay and I was just like,
+"Yeah, dude. If I were an admissions officer, I just think you're going to drop out." >> Yeah, exact
+[laughter] exactly what we told him. We were like, "This is not this is not great." >> He's like, "I've been
+thinking a lot if I should go to college. I'm like, "Bro, you make so much money. Like, you're going to drop
+out." Like, >> I love Zach. He's a homie. I gave like he asked me to read over his essay. I told him >> this
+is like this is not what you essay. >> And we know this as people who get into [laughter] the only reason I
+know is I think I said like a similar thing on my essay. Um, and I was like that was probably a mistake like
+the struggle of should I go or not because I'm winning at something. Uh, but >> hilarious. [laughter] >> Yeah.
+So you guys met middle school and you guys didn't go to the same college. Uh do you think you should start
+companies with your friends? >> I actually think it's a great idea just because you finding honestly finding a
+co-founder is incredibly difficult cuz it's sort of like I I I think it's the same as like finding someone to
+like date because you got to know that you work really well with them. And the likelihood that if you found a
+company it's going to last a really long time is you're entering a partnership that's going to be probably
+like 5 10 years longer. So, it's not even just like, you know, do you argue? Well, something that I think we
+do really well is because we're friends before like actually doing work stuff is that we like fight all the
+time. And I think that's amazing. Like, you should be able to fight a lot cuz we fight a lot and we yell, but
+we both know at the end of the day that, you know, like we're we're here for each other, so it's fine. Like
+those conver you guys have >> probably like yesterday. >> Yeah. [laughter] >> Do you know what it was about?
+>> Ah, son. [sighs] Do you remember? >> I don't remember. It's always something random. There's always stuff
+going on. >> It's like I don't want to go to the podcast. [laughter] >> Yeah. But I think fighting is super
+healthy. I think if you find founder or co-founders that are like always just on the same page, it's like how
+are you always on the same page? >> Spending so much time with this person that you're actually just going to
+get annoyed. >> You better like them >> if you're not friends. You're like, >> yeah, it's just it's like
+getting married. I think fighting is super important among co-founders, but the important part is can we reach
+a resolution at the end of it that someone doesn't feel like they like they got steamrolled. You know what I
+mean? >> The thing I like to really say is like can you fight productively, >> right? >> What's the key to
+that? >> Um liking the other person and not like I I don't know. I feel like when fights aren't productive, um
+they come from like I would have a nonproductive fight with someone if I like just thought they were dumb to
+be honest cuz then I think no matter what they say, I just think they're going to be wrong. So fighting
+productively I think stems from respect for the other person's perspective. >> 100%. You have to think that
+they're smarter than you at a specific thing. Right. >> Right. And you have to see them building skills in it
+that you don't have time because you're over here and they're over here and it's like, dude, you probably know
+better. Yeah. You know, >> do you guys ever feel like you're missing out on being young? >> We had a huge
+decision before we actually dropped out of college. I I loved it at Duke. I I thought it was fantastic. I
+mean, all my friends, we would go like watch a Duke basketball game. So, I was like, "Wow, I really really
+don't want to leave." Um, even though the the company was was growing really really well and it felt like the
+right decision. I think Rudy felt the same way. Um, so what we ended up deciding on to sort of get like the
+best of both worlds is that everyone we work with in our house we're also really really close friends with. So
+I mean I think like a lot of the guys went out uh yesterday night >> together [laughter] >> um and they had an
+absolute blast. >> We went clubing with UCLA to like Rockos. So nice. >> Um I don't feel like we're missing
+out on being young cuz we're kind of doing both. >> No, I think there are two like sort of stereotypical ways
+you imagine a company. It's like you know the age disparity between people is a lot and you're co-workers but
+after work you're not hanging out. So for us it's like we live in a house together and we eat meals together.
+We go out together on weekends. So it just feels like living with a large friend group. And I think if I think
+about the parts of college that I valued, they were the time I spent with my friends. So what we did, we just
+got some of our friends to drop out. [laughter] >> Yeah. If you can't if you can't have your friends not in
+college, just take your friends with you. [laughter] Um, something that I tell some people that baffles them
+is we work six days a week with like our company and Saturdays we have off, but on Saturdays the entire
+company is still hanging out together because when we go do fun stuff, we we just we're still friends with
+each other and we choose to we choose to hang out. So >> that's super crucial. Yeah, a lot of my team is
+remote, but if they're all here, I would I would make an account to like [snorts] hang out with them and stuff
+because super important to make sure everyone is aligned logically and emotionally, you know. Um >> I want to
+hear your answer on this cuz you also >> Oh, do I feel like I'm missing on being young? >> Yeah, because
+didn't you also say you dropped out of college? >> It's not something I really consider. I kind of just go
+with the flow of I don't know. I feel like you're either seeking what is it like certainty or uncertainty. And
+like the reason that people drink is because they feel like they have too much certainty in their life and
+they want to like create a space for uncertainty. So if I'm feeling like oh everything is very routine,
+everything is very repetitive, I'll kind of like I won't drink necessarily, but I'll go walk outside and like
+do something interesting. And like I know that it's important to at least talk to one or two people every day,
+like have a good genuine conversation with them. Um, so it's one of those kind of like feely things. But I
+mean, I went to college, like I've partied in LA, like I have done a lot of different things. I've traveled a
+lot of places. Uh, and big part of having a podcast is I thought it was something super sustainable, which is
+why everyone uh, and their mother historically starts one because like, oh, bro, like we're just going to like
+hang out with the boys and like have conversations with people. It's super interesting and like, >> yeah,
+that's true. Not at the beginning. It's true once you're like Joe Rogan, you know? Um, >> but yeah, I don't
+really know if I'm missing out on anything. Uh, yeah. I just feel like you had to grow up quickly and you have
+responsibilities and you have family to take care of. Um, I don't really have a good answer at that point.
+[snorts] I would I would say yes probably, but I'm not sure what I missed out on. >> Okay. >> What did your
+guys' parents say when you dropped out of school? >> It was sort of like a very gradual thing because I mean
+Turbo had been succeeding for a minute so the question had been floated multiple times. um if we had asked
+them like day zero when things weren't going super well, they were like, "No, you're not doing that." But as
+soon as they saw the money per month and they were like, "Oh, >> they'll be fine. >> Yeah, they'll be okay."
+>> Yeah. So, so they came around, they're very supportive now. Um it was primarily just seeing that >> what
+was the number that they saw that they were like, "You're good." >> Um I think I mean we we we dropped out
+pretty late 6 months ago. >> Yeah. Yeah, we we we like we had a month where we did like 600,000, I think, >>
+in in a month. And they were like, "Okay." >> While we were in college. >> Yeah. While we were in college. >>
+And they were like, "You're fine. I'm sure [laughter] it'll be okay." >> I remember having a conversation with
+my mom. I was like, "Yeah, I'd like to drop out of school." Uh, and I like showed her my bank account. It was
+like 50k in it. And she was like, "No." And then [laughter] I was in school after my first semester. And uh, I
+showed her like 50k in a day. And she was like, >> "Okay." Okay, makes sense. [laughter] Sounds fine. >> And
+then, >> yeah, I'm still technically on my gap semester right now. Like I was like, guys, I can just do a gap
+semester. Like, this is really big money. You guys are on your gap semester. >> 50 years old on a gap
+semester. You can't you can't technically drop out of Duke. You can only just be on an indefinite gap
+semester. So, >> I remember calling my college and I was like, "Yo, how long can I still be accepted into this
+school if I like drop out?" And they're like, "Yeah, you're good for like seven years." Um, and I was like, >>
+"Nice. >> Okay. I think I'm approaching year seven at this point. Um, so I might have to go back to school,
+boys. But [laughter] >> see you in Texas. >> This could be for each of you. What's the most important moment
+in your childhood to understand who you are? >> That's a crazy hard question. Let me think. You can go first,
+Rudy. [laughter] >> No, but I want you to go first. >> We talked about this before, like telling each other to
+to go first whenever we didn't know the answer to a question. [laughter] Can I turn it back on you first? Do
+you have an answer? >> You You want to talk? >> Crazy today. Um Oh my gosh. I I should I might have to start
+prepping my own answers to questions. >> It's a hard question. [clears throat] >> It is a hard one. >> Yeah.
+You know, a lot of the questions I ask in my interviews are ones that I don't have answers to myself, and I
+think they're really hard. >> Um so, I just add them in there, [laughter] which is funny. Like I have a whole
+document of like questions I struggle with and they're usually >> people people have to start uno reversing
+you more often. [laughter] >> Most important moment childhood to understand me. Um maybe not a moment but a
+theme. I say two themes. I was always addicted to stuff like I used to really love Buzz Lightyear for like six
+months and then I used to really love dinosaurs for like a year and then it was computers and it was video
+games like I wanted to like build video games one day and just like this obsessive personality and then
+another characteristic of me was I was really successful in things but I usually sucked at them at first like
+sucked way worse than other people. Um, like ACT, I think my sister got like a 30 her first try, like her
+sophomore year, and when I took it, I got like a 20 and I was like, "Fuck." And like it was like always trying
+to keep up with her. She was super smart. And then like eventually worked my way up to the same score minus
+like one point of what she got. Um, and like I did competitive acting all my life. Uh, speech and debate. I
+think you did that as well. Did you do that, too? >> No, I did speech and debate. Yeah, I was a national
+champion speech and debate, but like >> wow, >> when I started I was 12 and for context, like I did like all
+the acting stuff in it and I never got like accepted for a school play. Like I never got a part in a school
+play. And dude, I'm from a small town in Kentucky. Like that's how bad of an actor I was. And I was just like,
+okay, I guess I have to like figure this thing out. Or like any video game, I just I don't know what it is,
+man. I feel like I just learn very slow, but then I become addicted to it. So it makes me learn better than
+other people. >> I'd say those are >> like a video game character. You just like level up and keep [laughter]
+doing, >> right? I think it's kind of a curse sometimes for people to be naturally gifted at things. >> Um
+they have to suck at like something to build some resilience, but I don't know. Do you guys have any moments
+that >> I'm I'm trying to think. Um it was probably This one's going to sound really silly. Um but I I had
+been building like you know apps coding. I was like a sort of math physics kid in in high school. Um and then
+going into my junior year of high school, like seniorish, um me and this one other friend who I thought was
+really really really smart. Um we we thought just like what are cool subjects within like computer science and
+and stuff that we could learn. So uh we picked up this book like this textbook on like theoretical like
+quantum algorithms and like quantum computing not having any of the prerequisites to be able to read this was
+like primarily like a it was it was it was like the standard textbook for like PhDs who are who are trying to
+go into like quantum information science and I was like let's read it and let's see how far we can go. Um, and
+we were able to do it. We got through like a lot of it. Um, and then on top of that, we ended up building like
+this like sort of invented, the best way for me to explain is like invented this like new math to be able to
+build like a quantum circuit in virtual reality when we were in high school. It was like it was new research
+and we went and we like showed it to some like elementary schools and we like partnered with some people. Um,
+but like the the reason it's such a pivotal moment was took something that sounded so absolutely ridiculous >>
+for a high school to be able to do and at first it was like yeah no there's no shot that we could do it and
+then learned it and it like it honestly didn't it wasn't like that terrible and like from that point on like
+my sort of there there was a little bit of a switch because I started thinking like oh listen if I can go do
+theoretical quantum algorithms in high school, then you know everything else should be like it's possible, you
+know. It was like >> you created a winner's effect early. >> Yeah, exactly. It was like it sort of like
+instilled subconsciously within me this mentality of like you can just do things >> even though you're not
+supposed to be able to do them, you can just do them anyways. >> It's so crazy how that works, man. When I was
+in [clears throat] preschool, I remember my sister uh teaching me multiplication and like I wasn't like a
+genius at it. like it didn't come natural to me, but I knew like a couple like 3 * 3, 3 * 8, some And I told
+my preschool teacher uh like I did all the addition really easy. I was like, "Hey, can you give me some like
+multiplication problems?" And just like that little small thing like led to me thinking, "Oh, I'm a smart kid.
+I want to be smarter than everyone else." >> Self-ful prophecy, >> right? And then you don't really want to
+lose that. So it's like maybe you get a 100red on your first test ever. You don't want to go below that
+hundred number. Um, you ever meet kids like that that got hundreds on everything? >> Yeah. [laughter] >> Yeah.
+Yeah. >> That's a great story. How about you, Rudy? >> I would say that when we had our old company, work be
+the Christmas lights company. We would go to all these business competitions and we'd always win first place
+because we were like one of the only, you know, 13, 14 year olds of the company that made money. And then we
+once were talking to this was like when we were 16 talking to you can call him an investor about our company
+and he basically looked at us and was like this is not scalable at all. It is not a good idea at all. The
+presentation I just saw you guys do is full of fluff. If I was a real VC and I saw this I would probably not
+even take a meeting with you guys. And this was following basically like two or three years of everyone around
+us telling us that like we're so great at what we do and us in retrospective to like everyone our age um you
+know doing good. And that was sort of a I think a big unlock where it's like you need to stop comparing
+yourself to to like the status quo of what's around you. the race that you're fighting isn't with people in
+your neighborhood that are your age. You're technically competing with like everyone. Like just because you
+did something slightly better than someone in your hometown doesn't mean that you're talented at all. Um there
+are people like Elon who are absolutely mobing you in every way. >> Wow. [laughter] Um, so yeah, I would say
+like the main honestly like thing that I that it took me a while to realize that I I've been thinking about is
+>> just because you're doing okay for your age doesn't mean anything. >> Tragic realization. >> Yeah. >> Damn.
+[laughter] >> Always be sad. >> Always be sad. >> There's always someone better than you. Did you guys have a
+>> get inspired by >> trait when you were younger that >> I mean this whole conversation is about to sound
+self arandizing but did you like always want to be like the smartest kid for your age? >> Yeah. >> Did you
+have that as well? >> I would say so. Um I also >> it was it was kind of toxic to be honest. Like not for me
+personally, but like in the area in like Texas that I'm like from like everyone just literally cares about
+like I don't know if you guys had like class ranks, but like class ranks are the most important thing
+especially for Texas because you know you uh top 6% get into UT and everybody wants to go UT and if you want
+to go into like UT computer science, you got to be in like the top 10 people. So at least for me like at least
+a part of my identity in high school was literally the fact that I was like whatever like rank one or two >>
+one or two. I was I was one when I applied to college and I were okay >> dude same >> I [laughter] was one
+when I was one when I applied to college and then I was two at the end of it because I wanted to game the
+system perfectly. I was like college is all that matters. I don't care about giving valictorian speech. >> The
+guy the guy that got number two is so sad [laughter] for college. >> That's really funny. Um those are both
+really fascinating moments and it kind of I really like yours. Uh, I I really like both yours. It seems like
+yours was about creating a winner's effect early and dreaming bigger, and then yours was about a humbling
+moment early, which made you dream bigger. And it's funny to hear that from two of the most successful
+21-year-olds in the world, quite literally, if not number one or number two. What are the weirdest ways people
+use your AI tool? I saw a hilarious one where some dude uploaded like a PDF of his suspension from his school
+for punching a kid and asked a question about how to um like like what email should he use to respond? Um so
+there's there's some comical ways. Um >> I saw someone upload their like social security documents and I was
+like that's why are we doing this? This just doesn't make sense. like this can't like imagine that was his
+first PDF he ever uploaded. I was like you're trying out a new AI tool that you saw on Tik Tok. >> Wait,
+that's lowkey valid >> and this is the first thing that you upload? No, that's lowkey valid, right? Cuz a lot
+of times when I'm trying out a new piece of software and you have to input some material, you click on input
+and then it shows you your most recent files. So, he was probably just like paying his taxes. >> No
+justification. No justification. >> Do you both want to be billionaires? Um, I wouldn't say it's a like a a
+want. I'd say it's like being a billionaire is a side effect of having a company that's super large. So, the
+actual want just happens to be I like what I'm doing and I want to go as far as I can. The side effect is
+might become a billionaire. But I I personally like if you gave me a billion dollars right now, I probably
+wouldn't do anything with it. So, it's not like a desire. >> How about you? >> I hold the same perspective. I
+I don't want to come across as, oh, I'm so humble. I don't care about money. I I do care about having nice
+things. But I think the difference between having $10 million and a billion dollars um is not going to be
+radically different as long as you can have um you know the ability to travel anytime you want and maybe a
+nice house, a nice car. I think after that law of diminishing returns when it comes to happiness. Um >> I
+don't really know like after like let's say $10 million. I don't understand why you or what you would want
+more with. Like it doesn't make sense to me. >> I think the only argument you can make is you can use the
+billion dollars to like build something else that maybe you couldn't have before. I mean you can >> I mean
+right right now when we're doing turbo we we do care that it's a revenue generating business. >> Yeah. Yeah,
+but but any I I I I I don't like that perspective because anything that can sustain itself in the long term
+has to be it has to be, you know, it has to work by itself. Otherwise, you're always just going to be the
+cycle of raising money. And then let's say you start with, I don't know, the the example I saw, let's say you
+start with a company that you're trying to cure cancer and it doesn't generate money. So that means you have
+to get external funding. And by the time you're on round three of generating funding, you can't even make the
+decisions anymore because it is now the shareholders and the investors. So now they are actually deciding the
+fate of this company that's curing cancer and God knows what they're going to do with it. Um so anything that
+actually solves a societal problem in the long run it has to be like profitable on like it's unit economics.
+So >> this is a super important concept for people to understand. Can you explain that to me like I'm five
+because I want people to understand this. So the central problem is if you're approaching building a company
+for the reason that you want to help the world, which is like a very very noble cause. That's fantastic. We
+think that way as well. It's not enough to just solve a problem. That company needs to generate enough money
+to sustain itself independently. And if it doesn't, you have to find external sources of funding to be able
+to, you know, keep the company alive. Now, the biggest problem with looking at external funding is whenever
+someone else puts money into your company, they get equity, which is a say in how you actually run that
+business. And if you give away enough equity in your company, in your own company, you don't actually make the
+decisions anymore. the people that you've given the equity to make those decisions. So even in a situation
+where you started off with a noble cause, if you take enough external funding because the business itself
+didn't generate enough money to sustain itself, you're now in a situation where your baby, your company that
+you've built and you've spent so many years on is now potentially going for a cause that actually might be
+hurting, exploiting the people just because increasing prices or making certain business decisions is in the
+interest of the shareholders, the people who have given you the money but not in the interest of the people
+which is why you started the company to begin with and it's a really really slippery slope. >> Did you guys
+raise any money? >> We raised a little bit about a year and a half ago um less than a million dollars but
+right now we have like full control. What was the decision to raise money given that you guys had already had
+some capital success? >> It would allow us to take bigger risks without having to worry about is this company
+going to go bankrupt? >> Yeah. And honestly, back then we were a lot less knowledgeable. The reason we took
+money is cuz uh our investor it was like she was like a nice lady and she was like she was like literally
+friendly to us. She was like, "Oh, I really like you guys." And she was like sort of like a mom and she was
+like, "I can help you." And we're like, "Okay, cool. Sounds good. [laughter] We'll take it." It was a
+15-minute phone call and at the end um she just wanted to invest and she sent the wire the wire in like 2 days
+after that. >> Yeah. >> And we were just like cool, sure, why not? Like we weren't thinking, let's run a
+process. Let's go out there and talk to 30 investors. We were we just took the phone call with her. We
+actually at the time weren't even taking investor phone calls. Um, we would just tell them all that, uh, we'll
+talk later when we want to raise a round, but we just took the call because a friend recommended her as a nice
+mentor and we liked her and the terms were fair. So, >> how much money have you guys turned down in the past?
+>> Well, we don't even take the calls, so the answer is I don't know, a lot. No, I I I remember having a lot
+of calls like maybe like a year ago where like we were we were considering raising some money and the calls
+would be very very flipped. It wasn't us trying to say, you know, please give us your money. It was us them
+saying like, take my money. And we were just like, how do we use this money? And then they were at like a loss
+of words. And we were like, I remember the part where I was like, >> I mean, I number one, great investor, so
+glad he did this, but number two, it made me like feel like, wow, we've actually built something cool is we
+were in New York and this investor really wanted to invest in us and we didn't have time for a meeting. So, he
+was like, "Can I join you guys in the Uber to the airport, book a flight, and then talk to you guys at at the
+terminal um while we're waiting just so we can talk to you?" So, >> that was crazy. Yeah. >> Gosh, we'll have
+to do a follow-up and see if you guys get any interesting deals from this podcast. But, uh, >> yeah. >> What's
+a belief you hold about business or startups that most people would strongly disagree with? strongly disagree
+with. [sighs and gasps] >> And I'm not going to answer this one. [laughter] >> I was I was about to turn it
+back. I was about to turn it back. That's most people would strongly disagree with. That's That's quite hard.
+>> That's a hard one. >> I I hold a lot of startup or business takes, but I don't know if >> people would like
+really disagree. One, um I think that if you're a consumer company, founder brands are Like I think that
+there's not much of a reason for you to put your face out there and build in public other than to to you know
+build up your own personal brand and get the personal benefits that come from it. Like I think if your main
+motivation is I I like having influence and I just think it's cool to have a lot of followers then totally
+makes sense. But I think the justification of I am going to build in public as a consumer company in order to
+attract more users or make the company better, I don't think it matters that much because if you're a company
+at scale, at the end of the day, your source of distribution is going to be all the social media channels you
+have rather than you being the face of the brand. Um, I'm gonna go off that. I, this is my take and a version
+of this as well. your competitive advantage is the thing that keeps you from scaling. Uh I think Hormosi said
+that and that was like really crazy for me to hear. I was like, "Oh my gosh, we're doing this, this, and this,
+right? Um and none of these other guys are doing it." I'm like, "They don't have to do it." You know, we just
+spoke with Amj Misaba before you guys. And he's like, "Oh yeah, I haven't really thought about marketing." I'm
+like, "What [laughter] do you mean you haven't thought about marketing? It's like the company makes tens of
+millions, hundreds of millions of dollars." Uh he's just like, "Oh, just kind of like word of mouth." Uh I
+kind of went on to podcast and was like, "Okay, people play these games differently." But what's yours? >>
+Yeah, I was going to say this is going to sound silly. Um I don't think it's super important to hire people
+with concrete skills. Um, and the reason I say that is something that I found about people, even founders,
+just people in general, that make the best, most valuable assets to a business. If you have to talk to someone
+for 10 minutes and guess how important or valuable they're going to be, there's one metric that I've seen time
+over time that is the most valuable thing. And whether it's I'm hiring for like an engineer, an operations
+person, it doesn't matter what it is. They don't need to. If I'm hiring an engineer, I don't even ask them
+like what programming languages they're proficient in. Quite frankly, I don't care. I don't I don't care which
+courses they took, nothing. It's do they have a history of excellence in anything cuz I'm a big fan of how you
+do anything is how you do everything. So if they are were a comp I was just talking to this this girl who a
+competitive rower who is like a national champion I think the skills that it takes to be good in any
+discipline like really really good like top.1% are actually super duper similar across the board. It takes
+being able to wake up day over day, put a lot of time into one thing and continuously get better for a and
+then the hard part is being able to do it over a really really long period of time. And if you're top.1% in
+something and you're able to be super excellent at one discipline, the likelihood that those skills transfer
+over is likely. So, the number one thing that I look for in new people instantly is I don't care what it is,
+but what is this person like the best at? And if they don't have that, which a lot of people don't have, I'm
+instantly a negative signal. But I don't care what that thing is. If they're a top 100 league player, that's
+very interesting to me. >> To go off that concept, something I think about too is uh maybe not the fastest or
+maybe not the person who's number one, but the person who's the fastest growing. kind of thing. So like if we
+looked at all the AI apps right now and it's like okay who had the best like week on the dollar uh in terms of
+user growth like was there some small startup that had like a bunch of like new users to their app? It's like
+this is the person that's best at marketing this week and this is the person we look at. We don't look at
+OpenAI for marketing inspiration. We look at the 18-year-old kid that um was scrappy and figured out some
+algorithm trick on TikTok because it was acquired by Oracle. So, there's probably something there right now.
+Um and yeah, I think that's a big reason people love these conversations with young guys that did it
+differently. What predictions do you guys have for AI in 2026? >> It's a hard one. I think that this is the
+year we're going to start to see a lot more jobs become automatable. >> I think up until recently, >>
+pessimistic take. >> Yeah, it is a pessimistic take, but I think up up until recently, AI has been smart
+enough to do a lot of jobs, but it's not been like connected to the right tools, whereas now um AI is actually
+able to do stuff. H >> agents. >> Yeah, exactly. What do you think is the most valuable skill right now in the
+age of AI? >> I'm going to give a a boring answer. I think because of AI um a lot of people what I like to
+call like shiny object syndrome where you just jump from thing to thing um every single week. And the
+difficult part about becoming really really good at any skill is just doing it over a long period of time. Um,
+and so the the skill that is actually most important in an age where information is so accessible you could be
+learning a million different things is actually learning to not learn a million things and focus down on one
+thing and double down on it. Any skill. Well, if if it's coding, how do you become better at coding? You code
+more. How do you becoming better at running? You run more. How do you become better at lifting? You lift more.
+Right? It's actually like the frameworks for success are surprisingly simple, but just because it's simple, it
+doesn't make it easy. So, we have more information. AI is capable of doing more. I think the hardest challenge
+is preventing yourself from doing so many things, which is kind of ironic. I started the podcast. A big reason
+was the goal of finding the opportunity that was making the most money at the moment. Uh or just which
+businesses were most lucrative in general. And after like months and months and months of me trying different
+things on the side and me seeing all these like great opportunities, I was like, "Oh I got good at podcasting
+while I was doing this." I was like, it got to the point I was like, "Yeah, all these opportunities are super
+sexy, but I think by the time I killed this thing and started that, I would probably end up in the same place
+a few months from now." And then now it's at the point where it's like I would end up >> behind myself >> on
+the trajectory I was going. >> Exactly. Um, >> on the topic of shiny object syndrome, what AI apps have you
+guys wanted to build in the past few months that you haven't built out? >> Um, interesting question. Actually,
+having done it like couple couple times now with, you know, UMAX, Turbo, and there's some other stuff. Um it's
+the actual process for building a company is somewhat formulaic. You know, we we we boiled it down to
+virality, pay walls, retention. So when you think about it, it's actually quite simple. Um and sort of the
+reason and because it's relatively simple and you know, we have shiny object syndrome. My mind recently has
+been just gravitating towards different problems that I have a lot less knowledge about just because they
+would be more fun and harder challenges. So my mind's really just been in the okay if everybody is doing AI
+consumer apps and software and coding tools are becoming so amazing. So it's the barrier to entry is is
+dropped. My mind is thinking, okay, what is the next challenge where the barrier to entry actually is still
+pretty high and how can we jump on that early? And my mind instantly goes to hardware, biotech startups
+actually integrating AI more into the physical world. That's where I think still has a large barrier to entry.
+don't see 12-year-olds making robotic startups right now. Um, and may maybe one day we will. I I wouldn't be
+that surprised if your 14-year-old can whip up a biotech company, but right now that's not the case. So, I
+think that tying back to our conversation earlier on which problems are early on that adoption curve. I think
+it's the the ones concerned with like the physical sciences. >> Physical goods integrating AI in >> Tik Tok
+shop is bigger than ever just has new management. So if you can build something in that it's very interesting.
+>> Yeah, that would be awesome. >> This isn't an app idea, but I think something that's a really interesting
+opportunity is if we were to look at the viral marketing that Turbo is doing with UGC content, applying that
+towards an industry that isn't in the app space. So, a very concrete example, if you were to think about an
+upand cominging songwriter who, you know, the music industry, like the record label who has a deal with them
+decides that we really want to put them in the spotlight. I think it'd be really interesting if you get dozens
+of kids who play the guitar to sing their songs and and put like credits to them in there to blow it up before
+a viral release. So, I think it's like I don't know what the industries are because I I honestly haven't given
+it much thought um because I've just been so focused on Turbo, but I think taking this form of viral marketing
+that we do and applying it to like industries outside of the consumer app space is really really interesting
+cuz like every app is doing it, but not a lot of products that aren't software are trying to do this. taking
+like the Tik Tok shop or Turbo approach to um an an industry that's traditionally not used to that form of
+marketing. >> Like I could have five influencers cut up fruit and be like, "Yeah, I was watching the Jack Neil
+podcast today and he said this really interesting thing about this and people would never know that's an app."
+>> Exactly. Like, okay, this >> is probably illegal, so don't do this. But I'll give you an example, right?
+There was a meme coin that launched. Okay. Um, [laughter] so I didn't do this. It was a memecoin that was
+launched a couple months ago by a group of people. And what they did is they launched the memecoin and they
+gave Trump um 10% of the supply. Like they just sent Trump's crypto wallet 10% of the supply. And then they
+hired a bunch of creators to make content about, oh my god, Trump owns 10% of this coin. It is going to go up.
+And I think it hit like a market cap of like $80 million. Um, so >> don't pump and dump guys. >> Do not pump
+and dump. But, you know, there's inspiration and ideas everywhere, >> right? >> It's terrible >> for what you
+can do. >> I would guess that Yeah. crypto is a good like the places where money is the easiest to make, you
+can learn a lot about marketing, you know? >> Yeah. >> Huh. >> It tends to be where a lot of talent
+concentrates itself. >> I also think that content targeting older people has not really been cracked yet. I
+mean, it's something we're working on at Turbo, but if you think about it, all of the content creators right
+now are younger. Um, and a lot of the short form content that goes viral is on Tik Tok where, you know, it's
+typically people under 30. Um, there's not that much viral marketing being done to 60, 70 year olds. So, I
+think there's a huge opportunity there. If you can create a factory of grandmas who are good at talking to the
+camera. >> Sounds terrible. It sounds terrible, but if you can crack it, there's so much money because this
+group and this demographic has a lot of money to spend on the >> problem is that there's not a lot on short
+forms that much. >> Well, they're on Facebook. >> Yeah. And and Facebook reals is the thing. We haven't
+explored it much, but we're going to >> I think that's genius. Yeah. I mean, >> it's super interesting how
+people's user base is often reflective of the UGC creators they're using. You know, it's like >> I tried to
+get my mom on TikTok shop. I was like, you can sell to moms better than I can sell to moms. You know what I
+mean? And moms buy more. So, it's like in your guys' case though, it does make sense to utilize more college
+students unless they're different use cases that come out in the future. Like learn about X thing, learn about
+Y thing. But >> so you guys are 21 years old, you make a million dollars a month, your app gets 30,000 new
+users every single day. What's the best piece of advice you've ever received? working on myself now that I
+wish I had done earlier is having a much much much quicker turnaround time between thought and action. So if I
+think of an idea, it's really really easy to be able to just keep thinking about it because thinking is
+actually the easy step. You don't have to do anything. Just making yourself habits where you bias towards
+action in all areas of your life, not just company building, is I think like a fantastic habit that'll just
+make you move a lot faster and just like sort of compound yourself quicker. There's a lot of buzzwords there.
+I apologize, but just biasing towards action quicker is just I feel like it's it's the compounding effects are
+are ridiculous. Not like saying like even if something that's simple like I'm going to go for a run. Oh, I'll
+do it tomorrow. Just like putting stuff off. No, just go right now. The time the time's going to pass anyways,
+right? Biasing towards action more. >> What happens if you don't do that? Um, I think the effects only
+manifest over a long period of time because you'll just be sitting there and you're going to think, "Wow, all
+this time has passed and I feel like I could have been more productive." So, it's it's it's it's a little it's
+a little insidious because there's a lot of tasks that feel productive but aren't. For example, if I'm
+thinking about turbo and I'm planning I did this I went well I was like pacing around for a little bit and I
+thought like wow you know that was a super productive 30 minutes. I didn't actually accomplish anything. So
+honestly, it comes back to another thing, which is lying to yourself is actually strangely common. And I I I
+think it was someone that told me this a while ago and I just like brushed them off. I was like, I don't lie
+to myself. What? That's crazy. But then as I really thought about it and I' I've been like journaling over the
+past month, like really writing down every single thing that I do and then looking at it at the end of the day
+and looking back at it like every single day and I'm like, "Wow, I lied to myself a lot and I didn't even
+know." And I and that was just a crazy revelation. >> If you're listening to this podcast right now and you
+came to it with the frame of I'm being productive right now and you don't take action on anything said, like
+you are lying to yourself. If you came with it the frame of this is for entertainment and I'm interested in
+these guys stories then good like you're being honest with yourself. Uh but I'm guessing most people who are 2
+and 1 half hours into a podcast are taking action. So good job to you guys. What's yours? I would say that a
+mentor of mine told me that once you get your company from 0 to one, you really have to reflect on what your
+job at the company is and what are the steps you're taking to grow the company because the skills that are
+required to scale a company from 1 to 10 versus 0 to one are radically different. And at first when I heard
+that advice, I sort of brushed it off because I was like, "Wait, we we we sort of figured it out. Um, we we
+know how to get views. We know that the most important thing is getting views and building a product that
+people want. Um, we're good at engineering. We're good at marketing. We'll be fine. We'll figure it out." But
+at first when I hired a lot of these people, I was like really bad at managing people. Um it it took me a long
+time to actually uh figure out like here effective ways to empower people and get them to lean into their
+strengths and to keep them motivated and to be organized. So I would say it's honestly like if you're someone
+who's running a company just to recognize that the things that you're doing at the very start and the skills
+you develop from that are truly radically different um when it comes time to growing a company. And I think if
+I would have like thought more deeply about that and really like let that advice resonate in a year and a half
+ago when I was told it and reflect um probably would have been for the better. >> That's also great advice.
+I'm glad that you guys on your first ever podcast are such good speakers and have such great thoughts. I can't
+wait to do another one and see where this company goes. Uh well everyone, uh this has been your guest Rudy and
+Sorik, founders of Turbo Learn. This is the Jack Nail podcast. I appreciate you boys coming on. >> Thank you.
+Thank you brother.

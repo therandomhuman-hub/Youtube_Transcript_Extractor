@@ -1,0 +1,157 @@
+Title: Claude Cowork Dispatch DESTROYS OpenClaw?
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: cpoMvRQmNfw
+URL: https://www.youtube.com/watch?v=cpoMvRQmNfw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:19:01+00:00
+
+Kind: captions Language: en So, Anthropic just upgraded Claude [music] Co-work with Dispatch mode and I'm
+about to see my productivity double. I don't know about you guys, but I'm always going out and about, you
+know, going to the gym, picking up groceries, and being in New York City, just hopping on and off the subway
+all the time. And just to stay on top of all my work, I always had to lug around my laptop everywhere I went.
+But now that we have Dispatch mode, all I got to do is whip out my phone on the go and I can literally just
+talk to all of my files on my desktop, write up some email drafts, and even do some research for my next
+YouTube video. So, in this video, I'm going to show you how you can set up Claude Dispatch for yourself, as
+well as some use cases so you can get the most out of it, and explain why this is a killer for some of the
+other alternatives out there like Open Claude. So, a lot of people are saying that the new Claude Dispatch is
+becoming a replacement for Open Claude, and I tend to agree with them, uh and I actually think it's better in
+a lot of ways. But, uh if you haven't really heard of Open Claude, it gained a lot of traction as of recently
+because what people are doing is they're running it on a Mac mini. And what that allows them to do is to use
+these things called skills, which, you know, you can either write for yourself or you can download from a
+central hub like Claude Hub. And you take these skills and it allows it to allows the AI to do different
+actions. So, um you know, whether that's accessing the local files or sending out a Gmail or writing to your
+Notion. It's whatever you give access to through these skills, and it knows how to do that. And one of the
+parts that people love about it is that you can access it through just texting over Telegram. So, it's really
+easy, you know, you're texting your friends and right underneath you're texting your uh Open Claude as well,
+and you're able to just handle everything kind of like a personal assistant that's always with you um yeah, at
+all times. But, what's going on now with this Claude Dispatch is that instead of a Mac mini, people are doing
+it on their actual laptops. And I can see people end up going to Mac minis eventually. But, it's a super super
+similar concept because it's whatever you can do on your Mac is what uh Claude Dispatch is going to be able to
+do. And again, it goes through skills uh as shown in the example videos that we used like the YouTube
+transcript skill. So, it's still able to use skills, which teaches it how to reach out to all these different
+sources, right? Uh it can write to Notion, read from Gmail, and uh you know, access the local files on your
+computer. And it could even go on the browser like we demonstrated. So, instead of texting on the Telegram, it
+uses uh the Claude app instead. So, maybe not as amazing of a user experience, but you know, still solid um
+and you're still able to do pretty much everything here. But, so this is just kind of matching uh what Open
+Claude does and why people love Open Claude and why Claude Dispatch is rivaling that. But, there's a lot of
+benefits as well that's not really covered by Open Claude. For one, just the amount of money that you're going
+to be spending because what Open Claude does is it's calling all the uh all the APIs for the AIs in the back
+end. So, think about, you know, you have Open AI, you have Anthropic's uh Claude, uh you have, you know, maybe
+you have Gemini. And this is just going to be hitting the APIs directly. And that could really rack up your
+bills, right? It's going to keep adding up every time you make calls, and they could be processes that kind of
+spin out of control and end up costing you more than you would like. So, what Claude does is you just straight
+up have a flat price. So, you know, whatever plan you have, if you have the pro plan, it's only going to be
+$20 a month. And that's it, right? You just pay that flat fee, and you're able to use this um basically until
+your, you know, your credits run out. But, there's a safety rail there, you know, something that's not really
+uh taken into account with Open Claude. So, that's a huge benefit, but one of the other huge ones is security.
+And Open Claude really got uh some bad rap because of its security. Uh it actually had to change its name a
+few times. It was ClaudeBot, then MultBot, and then became Open Claude because of all these situations that
+happened. But, basically like, you know, API keys were being um you know, sent in the chat and stolen by like
+hackers. Uh you know, even just credentials and access to things um you know, because if you give it access to
+all your stuff, now anyone who they could even, you know, from a skill put in malicious information, and all
+of a sudden uh now they can do things on your behalf and you know, steal your identity. So, what uh what
+Claude Dispatch is doing is that they keep everything in a very sandboxed environment. For each run, it's all
+kind of isolated. So, you don't really need to worry about it uh you know, doing all this bad identity theft
+and stealing your API keys and all of that, you know, they're handling handling it in a very professional way.
+And a much more scalable way. So, and all the skills are, you know, written for you, written by you, um and
+it's just much more secure overall. So, that's really the main main reason why people are so bullish on Claude
+Dispatch over here, including me as well. So, first things first, we want to make sure that we have the latest
+version of Claude installed in order to have Dispatch mode available to us. So, if you go over to the Claude
+uh claude.com website, you see there's a few different ways you can download it for whatever you're running,
+right? So, there's the Mac download over here, Windows, uh just whatever operating system you're using, and
+then the mobile one as well. So, if you haven't downloaded it, go download it there. If you already have
+Claude installed, you can just head over to Claude. You should be able to click the little Claude button at
+the top, and there's a check for updates button. So, if you hit that, it should say if you do have an update,
+then it will say you have to update it. If not, then it will just show this. And on your phone, all you got to
+do is go to the App Store and check if you have any updates available. All right, so now that we're fully up
+to date, let's head over to Co-work. And this is where Dispatch lives. So, if you go to the sidebar here,
+there's a little Dispatch button. We can go ahead and click that, and now we have some instructions on how to
+connect it. So, uh yeah, we just got to click this get started here. All right, so all I got to do is click
+this button that says I'm signed in on my phone. I got my phone pulled up here with Claude open. And yeah, we
+want to give it access to our files. We want to give it keep the computer awake cuz this only runs when the
+computer is awake. So, if it ever goes idle and goes to sleep, then your processes are going to stop. So, we
+want to make sure that it's awake. Uh we'll allow it to use Chrome and keep connectors on. So, this will allow
+it to go into our browser, but also to access anything that we have set up as connectors. So, think about
+accessing your email, uh your drive, let's say Notion pages, Figma, anything like that. So, let's finish the
+setup here. All right. And I clicked pair with my laptop on my phone. So, now we're connected. All right, so I
+got it fully pulled up here, and what I'm going to do is, you can see both my hands, I'm just going to type
+into here and be like, "Hey, what's up, Claude?" And we should see, yep. Let me move my guy on my computer
+now. And there it is, it's running the uh Dispatch right now. And it's running on my computer, and it
+responded. So, let's run through some actual scenarios of why this would be helpful for us. Also going to note
+that I'm going to turn on this toggle here to allow browser actions. So, that means even when we type in with
+our phone, it's going to allow Claude Co-work on our desktop to go on to Chrome, access websites, and you
+know, provide information back. So, the first example I want to check out is how it can access different files
+on my computer. Because as I'm making these videos, there's a lot of different assets that I'm working with.
+You know, there's different clips that I made, there are, you know, camera recordings, there's scripts that I
+write, and there's images that I generate. And all this stuff is usually just saved on my computer. So, when
+I'm out and about, you know, going to the gym, a lot of times I'm like, "Oh, I actually want to be, you know,
+I actually kind of want to work on this. I want to take a look at it and see how I can adjust it, but it's on
+my computer." So, this should solve that problem. So, what I'm going to do is I got my phone here with pulled
+up with Claude code, and I'm going to ask it, "Hey, what's up, Claude? Can you send me the voice framework
+video file I have saved on my desktop? I want to take a look at it uh and see if I need to make any edits."
+All right, so I just sent that over. You could see it just popped up over there. Again, hands are off the
+keyboard. Um something cool we could do is Okay, cool, it's responding. So, super cool, one thing we could do
+is if we head to the desktop, we can pull up uh the different chats for Co-work, and we could see it's spawned
+up a separate process where it's going through the tasks that are needed to complete this. So, it's running
+separate tasks within uh Co-work on desktop, and then putting that into the Dispatch for us to talk about on
+on the phone, on mobile. So, let's go back to Dispatch, and now it's asking for a question, and it's actually
+asking on my phone as well. So, I'll go ahead and allow that, and that should let it to access my desktop now
+and grab the file. So, we'll see what it does in a bit. Sweet, so it actually just sent it over to me, and I
+got it pulled up on my phone here. I don't know if you guys are able to see this, but yeah, you could see it's
+playing here. This is actually in my last video. Um so, super cool, honestly. This is uh really going to
+increase my productivity um you know, and feed into the whole workaholism. Uh but, all jokes aside, it's you
+know, this wasn't even possible beforehand. So, um you know, the benefits from this are I'm definitely going
+to be reaping those. All right, so for the next example I want to give it is going to have to do with my email
+because I always got a ton of emails coming in and I like to have AI manage that. Typically, you know, through
+something like Claude where it has a connector to my Gmail and it's able to read them all and, you know, draft
+up responses, check out my calendar to see if I'm busy on days that I get messages for. So, um, you know,
+typically when I'm on the go I just got to look through Gmail all on my own and hop back and forth between
+that and the calendar. But now that we got this, I'm going to see if I can let Claude handle that. So, I got
+my phone pulled up here with Covie. Let's go ahead and say, "Hey Claude, what's up? Um, can you go ahead check
+my email for the past day? Uh, can you summarize it and give me that summary but then also draft up responses
+to anything that's urgent. Also, check if anything's scheduled for a day if my calendar is busy for that day
+and let me know if it is." So, you see sent it over. Again, no hands. Uh, and Covie could go ahead and handle
+that and it should use the connectors that are built in to Covie. Cool, so you just wanted to bring up real
+quick that it is in the subtasks over here. We got the This is the email one. It loaded some tools with the
+Gmail integrations. So, uh, I was able to look through my Gmail and then the calendar as well. It pulled up
+calendar tool. And now in the dispatch it is asking me to draft an email. So, again, it's popping up on my
+phone. I'm going to allow that and we'll see what it comes up with. All right, so it just finished up and you
+could see it checked out my calendar. It's saying I don't really got too much going on today with my personal
+calendar, so that's good to see. And then it's, uh, you know, it brought up some urgent stuff that's going on
+with my calendar, something that I need to respond with here. And it said it drafted an email and I'm reading
+through it right now and, you know, it's actually really solid. Um, you know, that's something that I honestly
+didn't even realize that I got a reply yet. So, it's already helped me, um, just by going on my phone and and
+ask it to check it out. So, um, besides the urgent emails there's also other, you know, generic emails that's
+worth taking a look. But, um, you know, overall super super cool, super useful tool. And if you don't know how
+to set it up with the connectors, all you have to do is go on to the side panel here, go to customize, check
+out the, uh, connectors over here. And this is how you decide what it can connect to. So, for me since I have
+Gmail and Google Calendar set up here, that's how it's able to go into those and, you know, draft emails, take
+a look at my emails, take a look at my calendar, and make events as well. All right, so the last use case I
+want to show here is how Claude accesses the browser because for certain things like YouTube, there actually
+is no connector for that. And what I like to do is have Claude be able to analyze the different, um, videos
+that I like and, you know, teach me a little bit about the videos, what's going on from their transcripts,
+tell me about, you know, how they handled their hooks and their intro so I could try to do that similar for my
+videos. And you can even I can even ask it to tell me, you know, how many likes it has, too. So, what Claude
+is able to do when I do this on the desktop is that it's able to open up a Chrome browser and literally go on
+to YouTube. I can watch it click on to YouTube and it grabs the transcript and responds back to me. So, since
+dispatch uses Covie in the back end, uh, this should be something I could do from my phone now. So, what I'm
+going to do is I'm going to ask, uh, Claude here with my phone. I'm going to say, "Hey Claude, can you go
+check out my latest YouTube video? The channel is @seanbuildsai. I want to know what the video's about. I want
+to know, uh, about the intro and like the structure of the hook of the video and let me know how many likes it
+has as well." All right, so I just sent that in. Um, another cool thing to note is that it should be able to
+use skills that I have as well. So, if I check out here and I go to customize again and I go to the skills
+section, you see I have a YouTube transcribe skill that tells it to use the browser. So, we can see Claude is
+actually in its own browser right now and it's looking through the transcript of the video and it's copying
+all of that so that it can analyze it and give it back to me. So, um, you know, we'll see what the result is
+here after it goes through this browser session. All right, so it ended up using my YouTube transcribe skill
+which says to use the browser. And if we head back over to dispatch, we can see it responded here breaking
+down the hook of the video. Um, you could see, you know, even bold claim, personal story, social proof, video
+promise. So, pretty awesome, um, that it's even has the timestamps, right? The first 48 seconds. So, this is
+something that I'd either have to do manually or I would wait until I was at my laptop and I could have Claude
+do it for me. So, now I can do it on my, uh, phone pretty much anywhere I'm going which is going to be a huge
+time savings and I think I can, you know, analyze my videos and other people's videos and make adjustments a
+lot quicker now that I can do it from anywhere. So, if this isn't a reason enough for you to switch to Claude
+and you're still using ChatGPT, then check out this video and it will explain all the differences between
+ChatGPT and Claude so you can make that decision for yourself which one you want to use.

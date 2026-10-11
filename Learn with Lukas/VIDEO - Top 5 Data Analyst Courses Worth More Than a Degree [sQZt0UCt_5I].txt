@@ -1,0 +1,95 @@
+Title: Top 5 Data Analyst Courses Worth More Than a Degree
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: sQZt0UCt_5I
+URL: https://www.youtube.com/watch?v=sQZt0UCt_5I
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:58:02+00:00
+
+Kind: captions Language: en Most paid analyst degrees are a scam, [music] not because the knowledge is bad,
+but because you pay a 100 grand for skills that you can learn in weeks. Now, I'm declaring war on the
+universities. Don't come after me. And here are five courses that actually [music] make data analysts, and
+they're pretty much free. So, first up is going to be Google AI certificate. Now, most videos like this start
+with SQL or Excel. I'm starting with something completely different, and some of you are going to not going to
+like it. You're going to think AI I can already hear it. Lucas, why would I learn the thing that's replacing
+me? But here's my honest take. AI is not replacing data analysts, but data analysts who use AI are more
+powerful than ever before. I know you're a bit tired of AI, so am I, but that's what the job market is showing
+right now. And so, a quick note before we start, for every skill in this video, I'm going to show you some
+real job market data on a site called datanerd.tech, which basically analyzed over 4 million real job listings
+from all over the world. And so, AI skills are showing up more and more in job listings. So, number one is
+going to be the Google AI search. Now, it's beginner level, no prerequisites, and almost a million people are
+already enrolled, and the whole thing wait wait for it takes about 8 hours, one weekend. Now, Google created
+the program by mapping AI skills to actual job market demand. And the course I want to show you specifically
+is going to be course number six, which is called AI for data analysis. Now, in this course, you'll learn how
+to clean messy data with prompts, generate spreadsheet formulas in plain English, and create data
+visualizations with AI. And that's hours of boring analyst work compressed into minutes. And as a bonus, you
+also get a 3-month free trial on Google AI Pro to practice with. And at the end, a certificate, of course, but
+you already know that. It was updated in February, has a 4.8 star rating, and honestly, for 8 hours of your
+time, the return is hard to beat. Next up is going to be Python. Now, back to Data Nerd and we'll take a look
+at Python. Now, for data analyst jobs, Python is right at the top of the skills. And if you look at data
+scientist, same thing. That's the point. Python is the number one skill that takes you very far to a data
+analyst, senior analyst, or even data scientist, ML engineer, and beyond. Now, the course I recommend to learn
+Python is the Google Advanced Data Analytics Professional Certificate, long name. And pay attention to the
+word advanced. It's not a beginner course. It does assume a little bit of basic knowledge of data analysis,
+little bit of spreadsheets, little bit of SQL, and that kind of thing. But if you have that, this is your
+level up, especially with a Python focus. And it's seven courses with over 200 hours of content, although most
+people I would say finish it quicker than what they say, which is 6 months. Most people kind of do it in two
+to three months. And so, the course itself is built by Google and their employees, which is a good thing. I
+mean, they're a large company, one of the big tech firms, and they know what works at big tech firms. So, you
+learn Python from a data perspective, and you finish with a capstone project that you can show to employers.
+I'll be honest, this one takes more time, and some of the later courses are a bit too advanced for a junior
+analyst. You don't really need the skills, but it's great to learn anyway for your future and for future
+positions. So, 6 months versus a 4-year degree for one of the top skills in data, I mean, what do you choose?
+So, number [music] three, SQL. Let's head back to Data Nerd and look at the top skills. For data analyst jobs,
+SQL is the number one most requested skill, ahead of Python and Excel. And over 40% of all jobs explicitly ask
+for SQL skills. And that makes sense. Companies store their data in databases, and SQL is the language you
+need to use it to work with it and to get anything out of it. No SQL, no data. I mean, some data, but not the
+right form, and no analysis. So, if you learn one single skill from this entire video, make it SQL. Now, the
+way I would learn it is going to be DataCamp. Now, I've personally gone through this track and checked it out
+myself, and what makes it work is that you're not just learning SQL syntax, you're actually solving the right
+kind of problems that analysts faces day-to-day on the job. That's the important [music] thing. Their
+Associate Data Analyst in SQL track takes you from complete beginner to job ready in SQL, and you start with
+the basics, but then move on to practicing real-world data analyst tasks with SQL. So, you're not just writing
+queries, but cleaning data, analyzing, and presenting insights, which is what the job is really all about.
+Now, the track is about 39 hours, and over 470,000 people have taken it. And what's great about DataCamp is
+its hands-on interactive learning approach. Each lesson involves writing real code and actually working on
+real data sets, which helps reinforce your learning. Now, it also comes with a lot of projects like analyzing
+student mental health or motorcycle parts sales across warehouses, and these projects will be a strong
+addition in your portfolio. But not only that, because the track actually prepares you for DataCamp's data
+analyst certification, long name, which is industry recognized, and all it takes from you is 39 hours of this
+course plus the exam on top of it. Now, let's look at the next data analyst skill. So, I'm going to head back
+to Data Nerd and check it out. Now, after programming, the next group is going to be data visualization. So,
+Power BI shows up at the top. You can use Tableau, too, but we'll focus on Power BI. It's used to create
+dashboards and reports that stakeholders actually understand. And so, Power BI is the visualization tool of
+choice in the corporate world, especially those already in Microsoft's ecosystem. So, for this one, I would go
+for DataCamp's data analyst in Power BI track, and this track stands out because it was actually built in
+collaboration with Microsoft themselves, which are the, you know, the company behind Power BI. And that means
+that you're not just learning Power BI, you're actually learning it through a program designed to prepare you
+for Microsoft's official PL-300 cert, one of the most respected certifications in the data industry. I've
+reviewed it like two years ago on the channel, and a powerful signal to employers when you're applying for
+your first data analytics role. I've been pointing aspiring analysts to this one for a while now because of
+how it's structured, and the track includes around 50 hours of content. Not too much, but very useful, and
+takes you all the way from foundational concepts to advanced BI skills. But now, here's what makes it even
+better. Once you complete the track, you actually unlock a 50% discount on the official Microsoft exam through
+a DataCamp's partnership with Microsoft. You're actually getting the best of both worlds. You're getting the
+hands-on experience, you're actually building the real skills, and you're also getting a discounted path to
+earning an industry-recognized cert that can help you stand out in the job market. So, if you take this plus
+the SQL track, it's going to be a really strong combo for data analysts. And number five is going to be cloud
+skills. Now, this is the one that almost nobody talks about in data analyst videos, and I don't know why,
+because it's extremely valuable. Think about where company data actually lives today. It's not some random
+Excel sheet on somebody's laptop, it's in the cloud in massive databases and data warehouses. And as you can
+see in the job data on Data Nerd, cloud platforms and tools keep climbing in data job listings. And so, the
+course here to learn this stuff is going to be the cloud data analytics cert, which teaches you cloud for data
+analytics. Surprise, surprise. Now, it's beginner level, no degree or experience required, and Google says
+that you can go from beginner to job ready in about 10 weeks. Highly questionable, but that's what they claim.
+I don't really agree. It usually takes much longer, but still very useful. And so, it's a five-course sequence
+where you learn how to store, manage, transform, visualize data, all the useful stuff, the usual useful stuff
+in the cloud using real cloud tools like BigQuery, Cloud Storage, Looker, etc. And so, everything's going to
+be hands-on labs, so you're actually clicking around in the cloud console. You're not just watching slides of
+somebody else doing it. It's way more practical. You're learning the thing. And so, one more thing that
+actually fits the theme of this video is that this cert has an official ACE credit recommendation, which means
+that some US schools or colleges will actually give you real college credit for completing it. So, it can
+literally count towards a degree in analytics or something if you decide to get that later, which is a nice
+bonus to save you money and time. Thanks for watching, and check out more data analyst videos. I got a whole
+catalog of them. Enjoy right there.

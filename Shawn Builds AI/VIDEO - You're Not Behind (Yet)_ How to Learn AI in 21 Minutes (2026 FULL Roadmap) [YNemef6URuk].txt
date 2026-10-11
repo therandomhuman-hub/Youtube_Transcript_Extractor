@@ -1,0 +1,207 @@
+Title: You're Not Behind (Yet): How to Learn AI in 21 Minutes (2026 FULL Roadmap)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: YNemef6URuk
+URL: https://www.youtube.com/watch?v=YNemef6URuk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:22:11+00:00
+
+Kind: captions Language: en Most people I talked to in business feel one of two ways about AI right now.
+Either they're overwhelmed, tried it a few times, gotten mediocre results, and decided it's not really for
+them, or they're anxious, and they feel like they should be doing something with it, but they're not really
+sure where to start. And every week that goes by feels like the gap is getting even wider. [music] If either
+of those sound like you, then you are not alone, and you're not behind yet. I was in that exact same place
+[music] for a long time where I would just open chat GPT, type in a couple of prompts like I'm googling
+something, get an answer back, and close it, and that's about it. The results are fine, but not that
+impressive. And that was until I figured out these five things that completely changed the way that I use AI
+now. And it's not even about new tools that you need to learn or new apps [music] that you need to download.
+It's just how to set it up properly to get the best results. Within a few days, I was cutting hours out of my
+work every single week. And it's not because AI got smarter. It's just because I knew how to use it. And now
+I'm teaching all of the clients that I work with how to use it the exact same way. Think of it like this. If
+you hand someone the keys to a Ferrari when they've only ever driven golf carts, then they're probably going
+to think it's overrated cuz they don't know how to go at the speed that a Ferrari can go. And it's the same
+thing [music] here with AI. It's the same tool, but two different levels of experience that lead to wildly
+different results. So, by the end of the video, you're going to have the exact same setup where it's not just
+an AI chatbot that you're messaging with, but a real system that gets you results. We're going to be covering
+all five steps. And stick around to the end because the [music] last one is honestly the one that most people
+don't figure out and probably has the biggest unlock of them all. Okay, so the first thing is going to be
+picking a model. And honestly, this is where most people get stuck immediately because if I counted on
+probably both my hands and my feet, there are way too many models out there and they all kind of sound like
+the same thing. Now, if you want the honest breakdown from a business professional, then there are only three
+main ones that you really need to know, and that's going to be GPT from OpenAI, Gemini from Google, and Claude
+from Anthropic. So, I have three different models laid out here. There's GPT, Claude, and Gemini. We'll go
+through each of them and talk about what they're best at and give some examples. So, GPT, in my opinion, is
+best for brainstorming tasks and daily productivity. So, this is kind of a good overall catchall model. If you
+look at an example of what I mean by that, you can see in chat GPT, I just said to act as a product
+strategist, gave it a goal and told it how to respond and it actually went through and started listing out
+some good ideas. So for me, CHIGPT and OpenAI is great for coming up with different ideas and just being a
+generic go-to model. Now if we take a look at Claude, in my opinion, Claude is great at certain speci specific
+tasks. So that is writing and coding. So if I have to do either of these, Claude is the best at them. So I
+have some examples here of doing each of these. So you know, typically I would do it for something like
+writing a social media post or even for helping to come up with YouTube scripts, but in this example, I just
+said writing a short story and just gave it a couple of guidelines here. and it creates it in a PDF. And the
+awesome part about Claude is that they have kind of I think it's called a canvas, but they have over here it
+saves as an artifact that you can just go ahead and read it side by side with the actual uh chatbot. So that's
+awesome for writing. And Claude code is the other um other feature here that I think it's great at. And I use
+Claude code all the time for technical work. uh think you know writing code, writing apps and AI automations
+and things like that. So in this one I just said build a simple CLI tool in Python and give it a couple
+actions that it should be able to do. So it really just oneshot this which is super impressive. It wrote 173
+lines, created a file and gave me a guideline on how to actually use this CLI tool. So Claude Code for your
+specialty work is the best. And this is starting to become my go-to model. Now, Gemini, on the other hand, for
+me, a lot of creative work I do through Gemini, especially when it comes to generating images. They just
+released Nano Banana 2. Um, I'll link a video above right here kind of going over that, but Nano Banana 2 is
+one of the best image generation models. It is uh all the image quality of Nano Banana Pro, but it has flash
+model speed. Now, it also has Google Suite integration which allows you to talk to your Gmail, your calendar,
+uh, and your Google Drive. So, I have an example here. I connected to my drive and it was able to read a
+Google doc that I have about a coffee shop plan. So, I said to basically generate a marketing plan for my
+coffee shop launch and um, told it to read from the dock and create a social media post for it. So went
+through that it um you know summarized it started making the social media post and then it gave an image that
+was generated right here. So again Google amazing at Google Suite integration and make some pretty awesome and
+stunning images. My advice is don't try to pick one forever, right? It's not a marriage. Just understand how
+to use one and then you could sprinkle in other ones depending on the task that you use. So for your main one,
+I would recommend if you are doing very specific tasks for writing and coding, then you should use claude. If
+you are very heavily ingrained in the Google suite and working a ton with images, I would recommend Gemini.
+And if you're not sure either which one to use out of all of those, then fall back on GPT from OpenAI. Now,
+the thing is, you could have the best model on earth and completely waste it and get garbage outputs if you
+don't do what I'm about to show you next. And the thing is, people are talking about this, but nobody's
+actually doing it. System prompts are the thing that is separating people who actually get real use out of AI
+versus the people who don't. A system prompt is basically just a set of instructions that you give the AI
+before you have an actual conversation with it. And all it does is tell the AI who it is, what context it's
+working with, how it should behave, and what you actually want to get out of it. So without a system prompt,
+you're basically just talking to a general purpose AI that's trying to be everything for everyone. So it's
+naturally not going to be good at the specific tasks that you need in that moment. But with a system prompt,
+you're going to have something that's much closer to being a specialized assistant that understands your work.
+When it comes to system prompts, it's it's important to remember that garbage in always equals garbage out.
+So, it doesn't matter if the garbage out is wrapped up, it's tied, so you can't smell it as bad. But everyone
+knows that when you dig deep inside and you start unraveling the layers, it's still garbage that's inside
+there. So, let's go through it a little bit more. A system prompt is one of the two types of prompts that we
+give to an AI. So there's a system prompt and the user prompt. Both of them connect to the AI and that is how
+it comes out with an output. But a system prompt you could see it's more of instructions. We say you are a
+renowned poet and the user prompt is giving it a direction of writing a poem. So how do we put this into
+practice? Well, there's actually a lot of different frameworks that you can use to think about creating good
+system prompts. And there usually a number of different acronyms. You can see a few examples here, but in the
+end it really just boils down to four core principles. Number one, what is its background? So in the example
+above that was you are a renowned poet. B or number two is what is the goal outcome. So you could say I want
+you to write a poem for me. C is giving context. You can say I want it to be a poem about I don't know about
+AI and say here is a lot of the or use the information in these articles of recent AI and D providing examples
+you could say I want it to be similar to these awardwinning poems and give it some examples. So that's how you
+leverage system prompts in a nutshell. Now, most AI tools like Claude, TGPT, and Gemini let you set up
+something like a system prompt or a custom instruction in the settings somewhere. Now, this takes about 5
+minutes to set up, and it makes the world of a difference. So, I 100% recommend this is something you do.
+Think of it as the difference between hiring a new employee and working with them on their first day versus
+working with someone that you have known for years. It's going to be the exact same capabilities, but the
+outcome will be vastly different. If you do nothing else from this video, definitely start taking advantage of
+system prompts. All right, this is one of my favorite ones because honestly, I don't hear many people talking
+about it at all, but it makes one of the biggest differences in your outputs, whether they sound like humans
+or sound like AI. This is called anti-prompting, and you know exactly what I'm talking about. you know, all
+those long M dashes, certain words like certainly and let's delve into this and emojis and some things that
+just sound a little bit too polished where you're like, I wouldn't actually send this. So, you end up
+scrapping the whole thing and starting from scratch. And here's why that actually happens. So, AI sounds like
+AI. And that's because it was trained on so much content that it developed a voice of its own. And that voice
+is the AI's voice, not your voice. So, what is the fix? Now, instead of telling the AI all of these
+instructions, you know, use certain words, what we're going to do is tell it what not to do. And we're going
+to do this in the form of a markdown file. So, this is not rules on how to write better outcomes, but it's
+actively having the AI go against its natural tendencies. And it's basically like installing a filter so that
+it removes all of the AI isms before it actually gets to you. So with system prompting, it's all about giving
+the AI less to do by providing examples of what not to do. So here is two examples. One that's bad, one that's
+better because this one uses the anti-prompting. So in the bad one I say specifically don't use jargon, don't
+use buzzwords, don't use fillers, avoiding certain words like ecosystem and paradigm. And when you use all of
+these different conditions, it tends to confuse the AI and it gets lost in all of this jumble versus what you
+actually want it to do. But the better way to do it is say I uploaded a file here. Treat it as rules for
+everything you write for me. And in here is where you provide the guidelines of what AI writing actually
+sounds like. So how did I generate this file? Well, I went into Claude and pretty simply just said write a
+downloadable markdown file that outlines all the signs of AI writing. And pretty quickly it generated a
+markdown file. Shows a preview over here. And you can see signs of AI generated writing. And it goes through
+all the different vocabulary and all the different rules. So, um, for me, this is how I've gotten most of the
+best responses from AI by using anti-prompting. So, the awesome part is once you have this file created and
+uploaded, all you have to do is continue to reference it whenever you are writing. So, it can be for any
+purpose, whether you're writing an email, creating a social media post, or writing up a report. And basically,
+it starts to be more like a ghostriter that knows you and knows your style rather than you're speaking with an
+AI. Now, I mentioned at the start that the last step is the one that most people never really get to. So, I
+want to make sure you stick around to the end because everything that we've covered so far in terms of picking
+your model, creating system prompts, and anti-prompting, all of that becomes multiplied when you implement
+step five. All right, let's talk about connectors because this is where AI stops feeling like a cool toy and
+starts feeling like real leverage. It connects to all of your different tools. So, think about email,
+calendar, Slack, notion, just for example, pretty much anything that you're using in your workflow. Without
+using connectors, you're pretty much just copying pasting into AI. So, that's taking for example one of your
+emails, putting it into AI, changing it, copying it out, put it back into your email to send. So that's a lot
+of friction for a couple different steps and that's something that we want to avoid by using connectors. The
+AI can literally reach into your environments where you work. So think about prompting to go into your
+calendar, seeing what your availability is, and then creating a new event that fits within your availability
+or reading out a document, completely understanding it, and then sending an email to someone else saying,
+"This is the proposal that we just wrote up." Connectors to me is like giving AI superpowers because instead
+of just being a chatbot, you can actually interact and do things with your AI. And that works by connecting it
+to different sources. So you can see here in Claude, there's a customized section with connectors. And here I
+connected to a couple of different um you know other apps that I use. And if you press the plus sign here, you
+can browse connectors. And there's a ton of different ones you can connect to. So you can generate events,
+read events, same with emails, write notion docs, even creating Canva design. So pretty amazing. And what
+we're going to do here is demonstrate using notion. Um, and we're going to create a new notion file. So let's
+go ahead and say generate a new notion page for me all about using connectors within claude. what's their
+capabilities and how MCP works. So, we'll go ahead and run that. And MCP is kind of the technology in the back
+end that allows for these connections to occur. So, I'm going to let this run and we'll see what the new
+notion doc says. All right, so it's wrapping up and it just created the notion page and it gave it a link
+here. So, let's hop over and we'll see what it actually created for us. Look at that clog connectors and MCP.
+How it all works. Goes over what they are. Architecture capabilities. Even a little diagram how to do it over
+um API with [snorts] MCP. So super awesome. You can just connect to any of the apps that you use and use AI uh
+directly with them. Most other AIs also have their own form of connectors. You can see in chat GPT there is a
+couple different ones here. Spotify, Air Table, you know, it's not as comprehensive as Claude in my opinion,
+but they do have some. And same with Gemini. This one is much more limited to just the Google suite. Just a
+word of caution, you may want to be careful about what you are actually connecting to because if you have
+sensitive business data, you may not want the AI to be able to read that. So, just be careful what you're
+allowing it to read and what you're allowing it to actually act on if you don't want it to, for example, send
+an email on your behalf. The rule of thumb for me is to trust but verify. So that is the best place to start.
+Now the last one is skills. And this is probably my favorite item on the list because this is where you have
+the highest leverage. You can get the best results for doing the least amount of work. Skills are pre-built
+capabilities that you can plug in play into your AI. So, when you combine it with things like prompts and with
+your tools, you can tell it exactly what you want it to do and how you want it to do it in multi-step systems.
+It's basically like a super lightweight app that you can add to your AI assistance. If you're using Claude,
+like I mentioned earlier, they actually have a built-in system to use skills which allow you to enable these
+capabilities whenever and wherever you need them. and multiple other platforms have similar systems for skills
+in their ecosystem. All right, so skills, again, this is one of my favorite features within AI these days and
+it's a pretty new one and one that's growing in a lot of popularity. So, the way it works is in Claude, you
+can go to customize and there's a skill section and you can add your own skills. This can be ones that you
+write yourself or you can find them online. um that's becoming a huge part of AI now is different skill hubs
+and marketplaces that you can you know trade and download skills. So I have one here that's called YouTube
+transcribe skill. You can see it. It tells it what kind of tools it's allowed to run. Gives a description and
+kind of outlines steps on how to perform a YouTube uh extraction. It has scripts. It tells it what MCPS it can
+use and yeah, so it's just really lightweight step-by-step instructions on how to extract YouTube transcripts.
+So, let's go ahead and run this and see what the output's like. So, I want to know what AI skills I need to
+have to get ahead of people. So, I'm going to share this, copy this link. We're going to go back over to
+Claude and we're just going to say tell me what's happening in this YouTube video by extracting the
+transcript. And then we'll paste in that trans that uh video link. We'll run it and it should start calling on
+the Yep. YouTube transcribe skill. So, let's see how this works. Yep, it's running. And it actually opens up a
+Chrome browser. And it's asking for permissions to access YouTube. So, we're going to allow permissions. And
+all it really does for this one is go to the YouTube video and find the transcript. So, I'll get back to you
+when it's complete. Cool. So, it looks like it finished up. And it's funny. It actually says, uh, this is your
+own video. Yeah, this is your own video from the Sean Shop. Here's what it covers. And it's going through
+exactly what I talk about in the video with all the different skills. Uh side note, you should totally watch
+it. But yeah, that's a pretty awesome way that you can use uh skills to perform more complex tasks. My
+suggestion is to take a look at some of the tasks that you're performing, [music] what takes the most amount
+of time and the amount of steps, and then finding a skill or creating your own skill to basically automate
+that in one step. And that's really how you go from AI is kind of useful to I can't imagine doing this [music]
+without AI anymore. And look, I know five different steps is a lot to implement all at once, especially for
+something that's new, where it could feel like you're drinking from a fire hose at times, but the awesome part
+about this stack is that you don't have to do them all at once. You can add in one at a time as you get better
+at using [music] them. And if you do that, you'll see that the compound effects are real with these. You're
+not behind on AI, but the people who are behind are the ones who keep putting this off until later and later.
+And the thing is later becomes later every single week in this field. So here's your actual to-do list from
+this video in order. One, you want to pick a model. It could be GPT, Claude, Gemini, doesn't matter. Just pick
+one. Learn how to use it for your specific use case. And then from there, you can sprinkle in other ones. Two
+is setting up your system prompt. And that's just giving information about what the AI is, what it's trying to
+do, and giving it some [music] context. It literally takes 5 minutes and will completely change the outputs
+that you get. Three is to learn anti-prompting habits. And this is what makes your AI outputs not only good
+but usable. Four is to add in just one or two connectors to start. Probably something like email or calendar
+just so you can speed up a couple of your day-to-day operations. And five is finding a skill that helps with a
+single repetitive task that you can test out for a week. That's it. That's the whole thing. Not overwhelming,
+just sequential. So once you get these five steps in place, you'll start to see why people who are already so
+deep in this field are saying that it's going to change anything. [music] So you have the tools, you have the
+map, go out and start to implement. Now, if you watch this whole video and you're thinking, "All right, that's
+not bad. I want to actually try implementing this." Then I'm actually offering a free AI strategy call with
+the link in the description. [music] And what we'll do is hop on a call. We'll I'll learn a little bit more
+about some of the problems you're facing and we'll see whether AI makes sense for your business. It's going to
+be no pitch and no pressure. If we end up being a good fit to work together, then that's great. But if not,
+then you'll walk away with a completely free custom AI road map for how you can use it in your specific
+situation and in your business. So, there is genuinely nothing to lose from your side. And now that you know
+these five steps, you may want to learn some more AI skills that you must have in 2026. So, I'll link that
+video right

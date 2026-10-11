@@ -1,18 +1,18 @@
 {
-  "run_id": "38134630485",
-  "run_number": "15",
+  "run_id": "38160639084",
+  "run_number": "16",
   "run_status": "RUN_SUCCEEDED_BACKFILL_INCOMPLETE",
-  "run_at": "2026-10-11T15:18:22+00:00",
-  "run_started_at": "2026-10-11T15:18:22+00:00",
-  "updated_at": "2026-10-11T17:09:39+00:00",
-  "finished_at": "2026-10-11T17:09:39+00:00",
+  "run_at": "2026-10-11T17:40:55+00:00",
+  "run_started_at": "2026-10-11T17:40:55+00:00",
+  "updated_at": "2026-10-11T19:16:52+00:00",
+  "finished_at": "2026-10-11T19:16:52+00:00",
   "configured_channels": 18,
   "processed_channels": 18,
   "remaining_channels": 0,
   "completed_channels": 9,
   "in_progress_channels": 9,
   "error_channels": 0,
-  "saved_transcripts_this_run": 124,
+  "saved_transcripts_this_run": 108,
   "no_caption_items": 7,
   "results": [
     {
@@ -32,7 +32,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/One Person Business",
-      "last_checked_at": "2026-10-11T15:18:51+00:00"
+      "last_checked_at": "2026-10-11T17:41:24+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JadM.H",
@@ -51,7 +51,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Jad M.H _ AI Automation",
-      "last_checked_at": "2026-10-11T15:19:27+00:00"
+      "last_checked_at": "2026-10-11T17:41:54+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JasonWardrop",
@@ -70,7 +70,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Jason Wardrop",
-      "last_checked_at": "2026-10-11T15:20:21+00:00"
+      "last_checked_at": "2026-10-11T17:42:47+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@timdanilovhi",
@@ -89,7 +89,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Tim Danilov Biz",
-      "last_checked_at": "2026-10-11T15:20:44+00:00"
+      "last_checked_at": "2026-10-11T17:43:08+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@EverygenAI",
@@ -108,7 +108,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Everygen AI",
-      "last_checked_at": "2026-10-11T15:21:09+00:00"
+      "last_checked_at": "2026-10-11T17:43:35+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@DevenSeenath",
@@ -117,17 +117,17 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 160,
+      "saved_total": 172,
       "known_items": 732,
       "video_count": 247,
       "short_count": 485,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 572,
+      "unresolved_items": 560,
       "scan_errors": [],
       "folder": "Deven Seenath",
-      "last_checked_at": "2026-10-11T15:31:54+00:00"
+      "last_checked_at": "2026-10-11T17:54:08+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@AIpreneur2176",
@@ -136,17 +136,17 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 41,
+      "saved_total": 53,
       "known_items": 55,
       "video_count": 55,
       "short_count": 0,
       "auth_required_count": 0,
       "no_caption_items": 1,
       "resolved_without_transcript": 1,
-      "unresolved_items": 13,
+      "unresolved_items": 1,
       "scan_errors": [],
       "folder": "AIpreneur",
-      "last_checked_at": "2026-10-11T15:41:40+00:00"
+      "last_checked_at": "2026-10-11T18:02:56+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JoshuaElderLive",
@@ -155,17 +155,17 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 38,
+      "saved_total": 50,
       "known_items": 1737,
       "video_count": 885,
       "short_count": 852,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 1699,
+      "unresolved_items": 1687,
       "scan_errors": [],
       "folder": "Joshua Elder",
-      "last_checked_at": "2026-10-11T15:54:35+00:00"
+      "last_checked_at": "2026-10-11T18:15:48+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@isaacverse",
@@ -184,7 +184,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Isaac",
-      "last_checked_at": "2026-10-11T15:54:54+00:00"
+      "last_checked_at": "2026-10-11T18:16:12+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@shawnbuildsai",
@@ -193,24 +193,24 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 67,
       "video_count": 50,
       "short_count": 17,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 31,
+      "unresolved_items": 19,
       "scan_errors": [],
       "folder": "Shawn Builds AI",
-      "last_checked_at": "2026-10-11T16:04:45+00:00"
+      "last_checked_at": "2026-10-11T18:25:52+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@emmiescalm",
       "channel_name": "E'Calm",
       "status": "COMPLETED",
-      "saved_this_run": 8,
-      "attempted_this_run": 8,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "batch_limit_reached": false,
       "saved_total": 32,
       "known_items": 32,
@@ -222,14 +222,14 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/E'Calm",
-      "last_checked_at": "2026-10-11T16:11:42+00:00"
+      "last_checked_at": "2026-10-11T18:26:20+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@airyzenai",
       "channel_name": "Airyzen AI",
       "status": "COMPLETED",
-      "saved_this_run": 2,
-      "attempted_this_run": 2,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "batch_limit_reached": false,
       "saved_total": 26,
       "known_items": 26,
@@ -241,7 +241,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Airyzen AI",
-      "last_checked_at": "2026-10-11T16:13:12+00:00"
+      "last_checked_at": "2026-10-11T18:26:41+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@udo_dagreat",
@@ -250,17 +250,17 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 63,
       "video_count": 31,
       "short_count": 32,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 27,
+      "unresolved_items": 15,
       "scan_errors": [],
       "folder": "Udo Onyekwere",
-      "last_checked_at": "2026-10-11T16:22:56+00:00"
+      "last_checked_at": "2026-10-11T18:36:49+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@VictorBigbro",
@@ -269,17 +269,17 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 86,
       "video_count": 86,
       "short_count": 0,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 50,
+      "unresolved_items": 38,
       "scan_errors": [],
       "folder": "Victor Bigbro",
-      "last_checked_at": "2026-10-11T16:32:06+00:00"
+      "last_checked_at": "2026-10-11T18:45:45+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@jackneel",
@@ -288,24 +288,24 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 991,
       "video_count": 115,
       "short_count": 876,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 955,
+      "unresolved_items": 943,
       "scan_errors": [],
       "folder": "Jack Neel",
-      "last_checked_at": "2026-10-11T16:43:19+00:00"
+      "last_checked_at": "2026-10-11T18:56:13+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@BahaaAI",
       "channel_name": "Bahaa AI",
       "status": "COMPLETED",
-      "saved_this_run": 6,
-      "attempted_this_run": 9,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "batch_limit_reached": false,
       "saved_total": 30,
       "known_items": 33,
@@ -317,7 +317,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Bahaa AI",
-      "last_checked_at": "2026-10-11T16:48:59+00:00"
+      "last_checked_at": "2026-10-11T18:56:31+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@learnwithlukas",
@@ -326,17 +326,17 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 328,
       "video_count": 297,
       "short_count": 31,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 292,
+      "unresolved_items": 280,
       "scan_errors": [],
       "folder": "Learn with Lukas",
-      "last_checked_at": "2026-10-11T16:58:52+00:00"
+      "last_checked_at": "2026-10-11T19:06:17+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@SunnyLenarduzzi",
@@ -345,21 +345,21 @@
       "saved_this_run": 12,
       "attempted_this_run": 12,
       "batch_limit_reached": true,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 562,
       "video_count": 562,
       "short_count": 0,
       "auth_required_count": 0,
       "no_caption_items": 0,
       "resolved_without_transcript": 0,
-      "unresolved_items": 526,
+      "unresolved_items": 514,
       "scan_errors": [],
       "folder": "Sunny Lenarduzzi",
-      "last_checked_at": "2026-10-11T17:09:39+00:00"
+      "last_checked_at": "2026-10-11T19:16:52+00:00"
     }
   ],
   "workflow_step_outcome": "success",
-  "finalized_at": "2026-10-11T17:09:39+00:00",
+  "finalized_at": "2026-10-11T19:16:52+00:00",
   "partial_channel_checkpoints": [
     {
       "channel_url": "https://www.youtube.com/@AIpreneur2176",
@@ -368,22 +368,22 @@
       "folder": "AIpreneur",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 41,
+      "saved_total": 53,
       "known_items": 55,
-      "unresolved_items": 13,
+      "unresolved_items": 1,
       "no_caption_items": 1,
       "video_count": 55,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:41:40+00:00"
+      "last_checked_at": "2026-10-11T18:02:56+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@BahaaAI",
       "channel_name": "Bahaa AI",
       "status": "COMPLETED",
       "folder": "completed/Bahaa AI",
-      "saved_this_run": 6,
-      "attempted_this_run": 9,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "saved_total": 30,
       "known_items": 33,
       "unresolved_items": 0,
@@ -391,7 +391,7 @@
       "video_count": 32,
       "short_count": 1,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:48:59+00:00"
+      "last_checked_at": "2026-10-11T18:56:31+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@DevenSeenath",
@@ -400,14 +400,14 @@
       "folder": "Deven Seenath",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 160,
+      "saved_total": 172,
       "known_items": 732,
-      "unresolved_items": 572,
+      "unresolved_items": 560,
       "no_caption_items": 0,
       "video_count": 247,
       "short_count": 485,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:31:54+00:00"
+      "last_checked_at": "2026-10-11T17:54:08+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@EverygenAI",
@@ -423,7 +423,7 @@
       "video_count": 4,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:21:09+00:00"
+      "last_checked_at": "2026-10-11T17:43:35+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JadM.H",
@@ -439,7 +439,7 @@
       "video_count": 38,
       "short_count": 148,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:19:27+00:00"
+      "last_checked_at": "2026-10-11T17:41:54+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JasonWardrop",
@@ -455,7 +455,7 @@
       "video_count": 289,
       "short_count": 37,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:20:21+00:00"
+      "last_checked_at": "2026-10-11T17:42:47+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JoshuaElderLive",
@@ -464,14 +464,14 @@
       "folder": "Joshua Elder",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 38,
+      "saved_total": 50,
       "known_items": 1737,
-      "unresolved_items": 1699,
+      "unresolved_items": 1687,
       "no_caption_items": 0,
       "video_count": 885,
       "short_count": 852,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:54:35+00:00"
+      "last_checked_at": "2026-10-11T18:15:48+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@One-Person-Business",
@@ -487,7 +487,7 @@
       "video_count": 112,
       "short_count": 12,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:18:51+00:00"
+      "last_checked_at": "2026-10-11T17:41:24+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@SunnyLenarduzzi",
@@ -496,14 +496,14 @@
       "folder": "Sunny Lenarduzzi",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 562,
-      "unresolved_items": 526,
+      "unresolved_items": 514,
       "no_caption_items": 0,
       "video_count": 562,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T17:09:39+00:00"
+      "last_checked_at": "2026-10-11T19:16:52+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@VictorBigbro",
@@ -512,22 +512,22 @@
       "folder": "Victor Bigbro",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 86,
-      "unresolved_items": 50,
+      "unresolved_items": 38,
       "no_caption_items": 0,
       "video_count": 86,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:32:06+00:00"
+      "last_checked_at": "2026-10-11T18:45:45+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@airyzenai",
       "channel_name": "Airyzen AI",
       "status": "COMPLETED",
       "folder": "completed/Airyzen AI",
-      "saved_this_run": 2,
-      "attempted_this_run": 2,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "saved_total": 26,
       "known_items": 26,
       "unresolved_items": 0,
@@ -535,15 +535,15 @@
       "video_count": 26,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:13:12+00:00"
+      "last_checked_at": "2026-10-11T18:26:41+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@emmiescalm",
       "channel_name": "E'Calm",
       "status": "COMPLETED",
       "folder": "completed/E'Calm",
-      "saved_this_run": 8,
-      "attempted_this_run": 8,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "saved_total": 32,
       "known_items": 32,
       "unresolved_items": 0,
@@ -551,7 +551,7 @@
       "video_count": 32,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:11:42+00:00"
+      "last_checked_at": "2026-10-11T18:26:20+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@isaacverse",
@@ -567,7 +567,7 @@
       "video_count": 9,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:54:54+00:00"
+      "last_checked_at": "2026-10-11T18:16:12+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@jackneel",
@@ -576,14 +576,14 @@
       "folder": "Jack Neel",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 991,
-      "unresolved_items": 955,
+      "unresolved_items": 943,
       "no_caption_items": 0,
       "video_count": 115,
       "short_count": 876,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:43:19+00:00"
+      "last_checked_at": "2026-10-11T18:56:13+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@learnwithlukas",
@@ -592,14 +592,14 @@
       "folder": "Learn with Lukas",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 328,
-      "unresolved_items": 292,
+      "unresolved_items": 280,
       "no_caption_items": 0,
       "video_count": 297,
       "short_count": 31,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:58:52+00:00"
+      "last_checked_at": "2026-10-11T19:06:17+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@shawnbuildsai",
@@ -608,14 +608,14 @@
       "folder": "Shawn Builds AI",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 67,
-      "unresolved_items": 31,
+      "unresolved_items": 19,
       "no_caption_items": 0,
       "video_count": 50,
       "short_count": 17,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:04:45+00:00"
+      "last_checked_at": "2026-10-11T18:25:52+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@timdanilovhi",
@@ -631,7 +631,7 @@
       "video_count": 74,
       "short_count": 36,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T15:20:44+00:00"
+      "last_checked_at": "2026-10-11T17:43:08+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@udo_dagreat",
@@ -640,19 +640,19 @@
       "folder": "Udo Onyekwere",
       "saved_this_run": 12,
       "attempted_this_run": 12,
-      "saved_total": 36,
+      "saved_total": 48,
       "known_items": 63,
-      "unresolved_items": 27,
+      "unresolved_items": 15,
       "no_caption_items": 0,
       "video_count": 31,
       "short_count": 32,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-11T16:22:56+00:00"
+      "last_checked_at": "2026-10-11T18:36:49+00:00"
     }
   ],
   "checkpoint_channel_count": 18,
-  "checkpoint_saved_this_run_total": 124,
+  "checkpoint_saved_this_run_total": 108,
   "auth_blocked_channels": 0,
-  "attempted_transcripts_this_run": 127,
+  "attempted_transcripts_this_run": 108,
   "failure_reason": "The collection step exited successfully, but the full backfill is not complete: 9 channel(s) remain in progress and 0 configured channel(s) were not reached. Checkpointed work will resume in a later scheduled run."
 }

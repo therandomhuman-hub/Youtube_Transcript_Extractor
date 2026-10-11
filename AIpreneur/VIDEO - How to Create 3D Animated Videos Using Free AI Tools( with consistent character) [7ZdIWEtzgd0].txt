@@ -1,0 +1,68 @@
+Title: How to Create 3D Animated Videos Using Free AI Tools( with consistent character)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: 7ZdIWEtzgd0
+URL: https://www.youtube.com/watch?v=7ZdIWEtzgd0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:01:06+00:00
+
+Kind: captions Language: en 100% free. No watermarks, unlimited videos. What if I told you that you can create
+3D animated AI videos with consistent character throughout, completely free, no subscriptions, no watermarks,
+no limits? Most people are stuck on weight list for Sora or paying hundreds for Veo 3. But there's a silent
+revolution happening right now with Gro AI. And I'm about to show you the exact method I used to make this.
+Welcome to AI Prreneur, where AI becomes your business partner. Today, I'm walking you through the complete
+workflow to create 3D animated videos using only free tools. By the end of this tutorial, you'll know how to
+generate a story script, create consistent character videos with free AI tool, add professional voiceovers,
+and edit everything together like a pro. Then, I'll show you the one trick that fixes the biggest problem
+everyone runs into, character consistency. This is a beginner-friendly zerocost method. So whether you're
+building a YouTube channel, creating content for clients, or just experimenting with AI, this is for you.
+Let's dive in. First step, we need a solid story. And for that, we're using ChatGpt. Now, here's the thing. A
+lot of people try to generate their whole script in one go, and it comes out generic. Instead, we're going to
+be strategic. I'm asking ChatGpt to create a five scene story with clear scene descriptions, visual prompts
+for each scene, and a simple narrative arc. 3D Pixar style animation close-up of 12-year-old boy named Jack.
+Brown messy hair, big brown eyes, wearing a beige shirt, an orange backpack, sitting on grass at sunset,
+holding a glowing tablet. Warm golden particles float from the screen. Soft cinematic lighting, shallow depth
+of field, vibrant colors. Chachi BT generates the full story scene by scene. Each one flows naturally into the
+next. Now we have our story foundation. Time to bring it to life. Next, we head to Gro AI. And this is where
+the magic happens. But before you do anything, there's a setting you need to turn off. If you skip this,
+you'll burn through your credits in minutes. Go to settings, then behavior, and turn off enable auto video
+generation. This stops Grock from autogenerating videos from every image you create. You'll control when that
+happens and save a ton of credits. Now, I'm pasting the scene 1 prompt from chat GPT into Grock's imagine
+feature. I'm also choosing the 3:2 aspect ratio because after a light crop in Cap Cut, this becomes perfect 16
+to9 for YouTube. Grock gives me multiple image options. I pick the one that captures the vibe. Vibrant Disney
+style and emotionally engaging. Then I click make video and boom, my first scene is animating. That's scene
+one done. But here's where most people hit a wall. When you try to generate scene two, the character
+completely changes. Different face, different style. It breaks the whole story. This is the biggest issue with
+AI video tools, but I found the fix. I tried using Grock's built-in script generator, and it gave me
+incoherent scenes. The prompts didn't connect. So, Grock's moderation blocked me from continuing. That's when
+I realized Chat GPT is way better at story flow. Here's the workflow, and this is crucial. Step one, go back
+to your scene one video. Step two, rightclick and copy the last frame. Step three, paste that frame into Gro's
+imagine box. Step four, add the scene to prompt from chat GPT. Step five, click make video. Now Grock
+continues from that exact frame. Same character, same style, perfect continuity. Repeat this for every scene.
+Last frame, new prompt, generate. You'll get a fully consistent story from start to finish. Now your visuals
+are done. Time to add the voice. I'm using Google AI Studio. It's free and the voice quality is incredible. I
+go to the speech section, choose single speaker audio, and pick a voice. For a kid story, I'm using Enceladus,
+young, warm, and calm. I paste the full narration script from chat GPT. No timestamps, no scene headings, just
+the story. Hit generate, and in seconds, I have a professional voice over. >> Jack never imagined a simple
+tablet could turn his day into an adventure. >> Download it. Now we edit. Final step, bringing it all together
+in Cap Cut. I import all my video clips and the voice over. First, I drag the audio onto the timeline and lock
+the track so it doesn't shift while I'm editing. Then, [snorts] I trim the silent gaps using Cap Cut's silence
+detection tool. It automatically finds and removes dead air. Next, I add my video clips, lining them up with
+the narration. Since Grock generated them in 3:2, I need to adjust. I change the project ratio to 16 to 9,
+then zoom each clip to 123%. Perfect fit. No black bars. I add a subtle transition between scenes I'm using.
+Gradual fade at 1 second each. Smooth, not slow. Finally, I autogenerate captions for accessibility and
+engagement. Choose a clean template, adjust the size, and done. Export in 1,080p or 4K, and you've got a
+professional AI video made entirely with free tools. Jack never imagined a simple tablet could turn his day
+into an adventure. With one tap, an entire animated world popped out of the screen just for him. Inside that
+world, [music] Jack met Jack, a tiny hero who looked exactly like him. Every swipe Jack made wrote the next
+chapter of his hero's journey in real [music] time. When the world began to glitch and fade, both Jacks knew
+they had seconds [music] to fix it. With one final tap, Jack saved his story and learned he could create any
+world [music] his imagination could dream of. So, here's what we just did. Generated a five scene story with
+Chat GPT. Created character consistent videos with Grock AI. Added a pro voice over with Google AI Studio.
+Edited everything in Cap Cut with transitions and captions. And the best part, completely free. No watermarks
+unlimited. Your first action. Go try this with your story. Start small. Three scenes, one minute. Build from
+there. If this just changed the way you think about AI video creation, hit that like button and subscribe to
+AI Prreneur. Every week, I break down the latest AI tools and show you how to turn them into income streams,
+even if you're starting from zero. Want to go deeper? Check out my video on how to automate an entire YouTube
+channel with AI. I link in the card above. Thanks for watching. Let's build something amazing together.

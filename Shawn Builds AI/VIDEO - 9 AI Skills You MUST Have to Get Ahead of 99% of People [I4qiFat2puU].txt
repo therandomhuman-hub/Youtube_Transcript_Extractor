@@ -1,0 +1,180 @@
+Title: 9 AI Skills You MUST Have to Get Ahead of 99% of People
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: I4qiFat2puU
+URL: https://www.youtube.com/watch?v=I4qiFat2puU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:23:56+00:00
+
+Kind: captions Language: en It's actually pretty simple to get ahead of 99% of people using AI because most
+people are not learning the right skills. Over the last 5 years, I've been helping Fortune 500 companies save
+thousands of hours through process automation. And I can tell you that the top 1% of people who are using AI
+are doing it completely different. So, even if you're new to AI and you're starting at zero, I'm going to show
+you the nine AI skills that you can use to get ahead of 99% of people. And the last one is so new that even
+the top 1% of people are just catching on. Now, starting with skill number one, we're talking about prompting.
+And this is the skill of giving AI the right instructions that you get the output that you're looking for. So,
+with prompting, the best way to think of it is garbage in leads to garbage out. So you if you provide it with
+something that is garbage, it doesn't matter if the output is, you know, wrapped up nicely, maybe it blocks
+some of the smell, but everyone knows what is actually inside of there is still garbage. So making sure you
+have the right inputs is what leads to quality outputs. Prompting is broke down to two different sections.
+There's the system prompt and there's the user prompt. Both of them are important to get the outputs that you
+want. So the system prompt is what you tell the AI initially saying for example, you are a renowned poet. The
+user prompt is what you actually ask for when you're typing in the chatbot. So you say, "Now write a poem on
+LLMs." And those combined together give you the output that you're looking for. Now there are a ton of
+different prompt frameworks that you can use. Usually they're consisting of different acronyms, but they all
+kind of boil down to the same four components. The first one being what is its background? So you can say you
+are an expert reporter. The second one is what is the goal outcome. So you can say I want you to write an
+awardwinning report on AI. Then giving it context. So saying only use these articles that are peer-reviewed on
+the research of LLMs in AI. And lastly, it's providing examples saying I want you to write it similar to the
+style of these award-winning papers that other people have written. Now typically with AI, the responses are
+sound very robotic and you can tell when something is AI written. So, the best way I found to get good
+responses with your user prompts is by providing some kind of file, a markdown file that explains what AI
+writing sounds like and creating guidelines around that. Then you say to use that as rules of what not to do.
+If you want information on how to actually create this markdown file to give to your prompt, you can check me
+out on LinkedIn. And in this post, I go over how to actually generate this file. Skill number two is all about
+tools. And this is what lets you do things in the real world with AI. With tools, this is how you get AI to
+actually do things in the real world, right? An AI chatbot is great and all, but if it only talks to you and
+doesn't actually do things, then it's kind of useless. So, what AI tools do is they allow it to do very
+specific individual actions. For example, it can say send a Slack message. It can send an email through Gmail
+or update a row in a sheet. So each of these are different tools that we're giving to the AI to complete very
+specific actions. The way I like to think of it is kind of like cooking, right? You have your AI over here,
+which is sort of like a chef. And the tools are how to make different ingredients. So you could teach it how
+to make marinara sauce, how to make meatballs, and how to make spaghetti. And then when you ask for spaghetti
+and meatballs, it will be able to pull from each of those since it knows how to make them and spit out what is
+a spaghetti and meatball dish. Skill three is MCP and this is like tools on steroids. So to build off of
+tools, model context protocol takes it to the next level. Let's compare it to what we had with tools. So
+individual tools was a single action while MCP would basically be coming from Slack in general and tell you
+all the different actions that Slack can perform. So let's go back to our cooking analogy. [clears throat] So
+we have our AI chef over here and instead of getting the individual ingredients, what he does is he has access
+to all of the recipe books and the recipe books each of them are for different recipes. So we have our
+spaghetti and meatballs one over here. We have this one that has pesto chicken and yokki and more over here.
+Now it knows how to make spaghetti and meatballs, right? Because as I recipe book, but now if we ask it to
+make chicken parm, for example, it's able to pull from all the relevant parts. So we have marinara sauce, we
+have chicken, and we have pennne. And while none of the recipe books had chicken parm, since it had all the
+ingredients from multiple different MCPS, it's able to output what we want. So what does this actually look
+like in practice? Well, if we look at Claude, Claude uses MCP through connectors and there's multiple
+different ones here, right? So Gmail like we mentioned and provides multiple different actions or different
+tools. So drafting replies, summarizing threads, etc. Google calendar has one managing and coordinating
+meetings. Slack had one like we mentioned um sending messages fetching Slack data. So you can see a theme here
+how it's individual providers that give you multiple different actions through them. So again tools single
+actions MCP multiple actions for the same provider. Now if we take a look at another AI agent platform this is
+perplexity computer which is a new development that just came out. Um, if you're interested in learning some
+more about this, which in my opinion it is best for business users to use something like this, then you can
+check out the video that I am linking above. But this has the same thing with connectors and same thing where
+you can use different sources. So, Gmail with calendar, air table, you know, Calendarly, all these different
+sources that provide you with their endpoints. If you want to just know all the different MCPs out there and
+all the most useful ones, you can check out MCP server hub which explains how to connect to a ton of different
+MCPS no matter what AI provider you are using. Skill number four is skills and this is completely going to
+change the way that we use AI. Skills are next up and these are more of a new development within the AI space.
+It is the lightest weight instructions that you can provide and it's typically broken up into a folder with a
+couple of different files usually a skill.md file and sometimes if we scroll down here it could provide
+another folder with like scripts for example that instructions are given on how to run. So if we look at the
+actual ana uh anatomy of a skill.mmarkdown file, there's a name which is the name of the skill, a description
+of what it does. Um there's a license here, but those are the main kind of metadata portions that go above and
+below. These are the actual instructions that tell the AI how to perform different actions. So it can
+reference different MCP servers, different tools that you have, uh give it different system prompts, but it's
+able to know what exactly it needs to do for a certain task in the most lightweight form possible in a single
+markdown file. So the reason this is huge is because it's now commoditizing different AI skills. And you can
+see that pretty clearly through a platform like Claw Hub. This is similar to an app store but for AI where
+anybody can upload different skills and all you have to do is go onto there and you can get the exact skill
+file right here and add it into your AI. So, you know, at some point potentially people can start monetizing
+and building skills for other people to download. Skill number five is RAG and this lets you use a huge amount
+of context more than the limits of the AIS themselves. Rag stands for retrieval augmented generation. And all
+that means it's that you're getting different contexts. That's the retrieval augmenting which means you're
+adding it to the prompts and the queries and then generating a response. That's all it stand for. So this is a
+basic rag pipeline over here. You have multiple different documents and these can come from different sources.
+So we have Google uh Google Docs here. We have Confluence and SharePoint. and it takes those docs and what it
+does is it indexes them and puts it into a vector database. And we'll go over a little bit more about what
+that means in a bit. The user then comes and queries like it's just talking to a normal chatbot. That vector
+database, the vector database then pulls all the most relevant chunks out of there, feeds that into the LLM,
+and it uses that as a source for a response. So that's the retrieval and the generation portion of it. So the
+main benefit is that you can use a ton of different documents that normally would not fit into your context,
+but now you can use them to get a response back. So the underlying method that this uses to work is that it
+takes the words that you're typing in the prompt and it generates a series of numbers that basically represent
+different attributes of the word and then those are plotted in 3D space in a grid and words closer to each
+other are more associated with each other and words further apart are not associated with each other at all.
+Also you can see man and woman are close to each other. Queen and king are close to each other but woman and
+queen are on the same side and same with man and king. And like I said it's actually a 3D space. So maybe this
+is a better example here where you have different attributes. There's the man and woman king queen example.
+But now there's even you know verb tenses and you know country capitals just showing kind of what it looks
+like in 3D space. And here are a couple example vector databases. We have pine cone, chroma, wev8 and even
+postgress SQL works if you add the pg vector extension to it that will turn the normal database into a vector.
+Skill six is fine-tuning and this allows you to completely customize an AI model for yourself. Fine-tuning
+helps you get much better AI outcomes for specific use cases. So, how it works is you take a pre-trained
+model, maybe one of the base GPT models, and you add an extra layer of training on top of it. You can kind of
+see these screwdrivers over here. You provide it with your own data, a small sample of it, and in the end, you
+get a fine-tuned model that will output more similar to results to your specific scenario. So, what is this
+small data we're talking about? Let's go down, take a look. And it's typically just a combination of prompts
+and completions. So just examples of what the output is based on a certain input. So um you see here input
+right here and then here's the output. And now anytime it gets an input that's similar to the you know data
+that you provided with from inputs it's going to give you an output that's similar to the data that you gave
+as well. Let's look at it in another way. So let's say these are the inputs these are the outputs. If you give
+X input multiple times in a normal prompt, right, or a normal model not fine-tuned, it may give responses that
+are a little bit different, right? Capital A, lowercase A, maybe whatever line this is over the A. But when
+you fine-tune a model, it's much more likely to give you a consistent output when you give it a similar input.
+What I found to be the best use cases for fine-tuning are when you need a certain structured output and you
+want that output always to be the same and when you want it to write in your style. You can give it multiple
+different inputs of what someone might talk to you. Let's say maybe if you want to create a DM automation bot
+maybe you know how people are DMing you would be the input and then you provided output examples of how you
+typically respond. When you fine-tune the model, it'll be much better at responding based in your tone of
+voice. Skill seven is AI agents. And if you haven't used them yet, then you are just barely scraping the
+surface of the potential that AI has. AI agents are all the hype right now, and for good reason. So, agents
+are typically broken up into a number of different components. You have the actual model that's being used,
+that's kind of like the brain of it. You have the prompts that are given to it. So again, that's kind of like
+a system prompt and then the user prompt that is directing it. There's the memory. That's how it's going to
+store all the information that it was given in its conversation with you. Tools, which we covered is, and this
+covers MCP as well, and that's how it actually interacts with the world. And then how we want the output if we
+want it to be in a certain structure. There's an example here that has some of the components in a human
+anatomy form. So again, the LLM is the brain. U we talked about rag already, but that's like if you add in
+context in books to your brain. You have the agent which uses tools and that is more like the hands. And MCP
+we talked about just connects everything together through different APIs. So what are some example AI agents
+systems that you can use? Well, if we're talking about for business scenarios or personal assistants, then
+these three in my opinion are the best options out there. So, Claude Co-work is um it uses all of your local
+file systems and it could connect to MCP. So, this is a great option if you're using the Claude ecosystem.
+Open Claw has been gaining a lot of popularity recently, but it's kind of hard to set up. So you kind of need
+to be a techie for this but you can communicate with any platform you know Slack uh Telegram WhatsApp and it
+will respond and use your context and tools. Now perplex computer we already spoke out about this but this is
+um a very business ccentric uh centric use case that will take real live data that's recent and relevant and
+it can create some pretty awesome dashboards that stay upto-date and can be accessed from anyone. If we want
+to look at from the coding and technical perspective, there are also a lot of different agentic coding tools.
+So, cursor and wind surf and anti-gravity are all different. I which is like how you actually code within it.
+It's like a terminal or not just a terminal. It has like a file system on one side. Think similar to VS code
+but very agent driven. So you can, you know, you can have an agent helping you or, you know, for anti-gravity,
+they have mission control, which just allows you to orchestrate a ton of agents that are coding for you. Then
+you have things like codeex and claude code, which are purely terminal tools that help you with um doing a ton
+of different tasks, but also connect to MCP um and help you a ton with coding. Skill eight is AI workflows.
+I'm talking A to Z, completely automating your tasks. So, workflows are how you can tie these AI agents
+together. And there's a couple of different example ones here that I give, but it allows you to have some kind
+of trigger that takes an action and returns a result. And you could tie them all together. So, if we take a
+look at one that I built in N8N, this is a workflow that actually analyzes résumés. So the trigger here is a
+form submission. That would be a candidate filling out a submission for a job. What it will do is it will get
+the job description from Google Drive. It will go ahead and extract the PDF resume that they uploaded and it
+will analyze that with an AI agent that's like an ATS system. It's then able to take that output that's
+structured and it determines if it is a good fit for the job. If it is, it adds it to the candidate tracking
+system. If not, then it sends them a rejection email. So that's example of one AIdriven workflow. There's also
+other tools like make here where you know there's open AI and AI um modules that are built in. This one is for
+automating a blog post to social media. And this is if you're in this is Zapier um which is a ton of different
+modules and connectors to different tools. Um, again a open AAI tools here and if you're in a more enterprise
+environment, you may have the Microsoft suite in an enterprise deal. So co copilot studio is what allows you
+to build workflows through their ecosystem. And lastly, we're talking about multi- aent systems. This is
+having an entire group of AI agent employees all communicating and working together for you. All right, so
+lastly, the newest development is multi- aent systems, and that can be broken up into two different parts. I
+actually have a video I'll link above where I go into more in depth on how this works for Claude here. Um, but
+the way that it works is you have things that are sub aents and you have agent teams. Sub agents are able to
+work in tasks on in parallel and they talk up to the main agent and the main agent can delegate all these
+different tasks and they communicate with the main agent and at the end all that work happens in parallel.
+They're able to return a response to the main agent. Agent teams on the other hand are even an upgrade over
+sub agents and the reason is because they have an agent but they create a shared task list. Now each of these
+teammates can pull from the shared task list and these are all different agents themselves and then they
+communicate with each other. So you can have a uh a developer and a tester and a document. They could all
+speak to each other to complete your coding task and then at the end give it back to the main agent. All
+right. So here's the thing. If you are just using Chad GPT right now and just using it to bounce ideas off of,
+then you're not [music] getting the full potential of what AI has to offer. Learning these skills now is what
+will prepare you for business in the future. [music] Think about not just doing things faster, but having an
+entire team of AI agents [music] completing and building tasks for your business all for you in the
+background. Though if you stop using AI in beginner mode and you start using it the right way, then you can
+easily become in the top 99% of AI users. Now, if you're serious about implementing all these new capabilities
+of AI and automation in [music] your business, then you can go ahead and book a completely free AI strategy
+call. Link is in the description below. Otherwise, you can check out this video if you want to learn more
+about the latest in AI.

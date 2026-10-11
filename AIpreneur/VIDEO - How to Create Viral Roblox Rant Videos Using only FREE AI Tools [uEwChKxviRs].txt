@@ -1,0 +1,79 @@
+Title: How to Create Viral Roblox Rant Videos Using only  FREE AI Tools
+Channel: AIpreneur
+Type: VIDEO
+Video ID: uEwChKxviRs
+URL: https://www.youtube.com/watch?v=uEwChKxviRs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T17:57:17+00:00
+
+Kind: captions Language: en Right now, creators are building entire YouTube empires, posting simple Roblox
+rant videos. Channels launched just 5 months ago are sitting at 3 million subscribers and over a billion
+views. And today, I'm showing you exactly how to create these videos yourself using only free AI tools. In
+this video, you'll learn how to create viral Roblox ranch short videos from scratch from ideiation to editing
+using free tools and a simple repeatable system. So, let's get started this workflow step by step. Step one,
+recording Roblox gameplay. For the background footage of your videos, you'll need simple Roblox gameplay.
+Don't worry, this is the easiest part. Here's what you need. Roblox installed on your computer and a free
+screen recorder like OBS Studio. Both are completely free to download. Once you have them set up, launch
+Roblox and search for any obby game. I recommend Slap Tower or Mega Obby. These games have colorful, engaging
+visuals that work perfectly for background footage. Start your screen recorder and just play the game for
+about 2 to 3 minutes. Jump through obstacles, run around, and keep it visually interesting. You don't need to
+be good at the game. You just need movement. Once you're done, stop the recording. You now have your gameplay
+footage ready. But here's the thing. Gameplay alone won't get you views. What makes these videos go viral is
+the story. And that's exactly what we're creating next with AI. Step two, writing your viral script. This is
+where the magic happens. A strong script is what keeps viewers watching until the very end. For that, open a
+fresh Chat GPT session and paste this prompt. Hit enter and Chat GPT will give you five ready to use video
+concepts. Each one includes a title, summary, and hook. Look through them and pick the one that resonates most
+with you. Remember the number of your chosen idea. You'll need it for the next prompt. Now, copy this prompt
+and paste it into Chat GPT. Chat GPT will generate a complete script that's structured, engaging, and ready to
+turn into a video. Copy that script and save it somewhere you're about to bring it to life with AI Voice. Step
+three, generating your AI voice over. Now, we're going to turn your script into a professional voice over
+without recording anything yourself. Head over to 11labs.io. They offer a free tier that's perfect for getting
+started. Once you're logged in, go to text to speech. Paste your entire script into that box. On the right
+side, you'll see a list of available voices. Browse through them and listen to the previews. For rant content,
+I recommend voices like Adam or Charlie because they sound young, expressive, and natural. Click on the voice
+you like to select it. Once everything is set, click the generate speech button. In about 10 to 15 seconds, 11
+Labs will generate your voice over. Listen to it. >> I still can't recover from this moment. So, picture this
+normal school day. >> If you like it, click the download button next to your preferred version and save the
+file. You now have professional AI narration that sounds natural and engaging. But we're not done yet. Next
+step, we need to put everything together in the editing phase where the real magic happens. Step four, editing
+in Cap Cut. Open Cap Cut and import your gameplay footage and voice over. Drag both into the timeline. Set
+your aspect ratio to 916 for vertical video format. Scale the gameplay to fill the entire screen. Speed up the
+gameplay to 2x so it feels more dynamic and engaging. Now, trim any silent gaps in your voice over. Place cuts
+between sentences and drag the clips closer together to eliminate dead space. This keeps the pacing tight.
+Once your voice over is cleaned up, select all the clips and speed them up to 1.2x. Enable change audio pitch
+so the voice doesn't sound distorted. It'll just sound slightly faster and more energetic. Next, find the
+dramatic moments in your script, usually the plot twist or emotional reveal. Slow those specific sections down
+to 0.9x to create that viral suspense effect. Add background music from Cap Cut's library or upload your own.
+Lower the music volume to around -10 dB so it sits under the voice over without overpowering it. Next, add
+auto captions. Captions are non-negotiable for viral shorts. Most people watch with the sound off, so let's
+add them. Click on text at the top of Cap Cut. Then select auto captions. Click generate and Cap Cut will
+automatically sync captions to your voiceover. Wait about 30 seconds and you'll see captions appear across
+your entire timeline. The default captions look basic. So, let's upgrade them. Click on your captions in the
+timeline. Then, look at the menu on the right. To improve them, first open the template section. Here you'll
+find tons of styles you can use, so choose whichever one fits your video. But for this example, I'll use this
+one right here. Now it's time for adding some meme overlays. Thesis are the secret ingredient that makes these
+videos blow up. So, open Pinterest in your browser and search memes. Download about five popular relatable
+memes, funny reaction faces, surprise expressions, anything that matches the emotional beats of your story. Go
+back to Cap Cut and import all the memes into your media library. Now, play through your video and find every
+spot where you added that 0.9x slow motion effect. At each of these dramatic moments, drag one of your meme
+images onto the timeline above your gameplay. Scale the meme down so it sits nicely in the center of the
+screen. Not too big, not too small. Use the split tool to trim the meme so it only appears during that slow
+motion section. Repeat this process for every dramatic moment in your video. Last but not least, add sounds
+effects to your shorts. For that, open pixabay.com in your browser and search Vineboom. This is the iconic
+sound effect used in viral videos. Download it and import it into Cap Cut. Drag it into the timeline and place
+it exactly where each meme appears. Click on the sound effect and lower the volume to around -10 dB so it
+punches but doesn't overwhelm. Your video is now complete. But before we export, play through your entire
+video one last time. Make sure the captions sync properly, the memes appear at the right moments, and the
+audio levels sound balanced. If everything okay, click the export button at the top right of Cap Cut. In the
+export settings, use these exact specifications. Resolution 1,080p, frame rate 60 frames pers, format MP4.
+These settings ensure your video looks crisp and professional on YouTube. Click export and let Cap Cut process
+your video. This usually takes about 2 to 3 minutes depending on your computer. >> I still can't recover from
+this moment. So, picture this. Normal school day, half asleep, brain on 2%. Teacher calls my name to read out
+loud. Easy, right? >> Wrong. >> My mouth opens before my brain shows up. I misread one word. Just one. >> But
+my voice cracks. Loud >> like Roblox. Oof level. Loud. Emotional build. The class goes silent. That's scary
+silence. Then giggling. Then laughing. Then my crush looks up. >> Quick recap so you don't drop here. We
+record gameplay, generate viral scripts, make a voice over, then edit and cap cut with captions and a twist
+moments. If you want me to send you the exact prompt pack, comment the word prompt and I'll reply with it.
+Don't forget to subscribe to the channel and hit the bell of notification. Thanks for watching and see you
+next time.

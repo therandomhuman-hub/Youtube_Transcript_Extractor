@@ -1,0 +1,66 @@
+Title: OpenAI's Sam Altman on Pentagon AI Deal After Trump Halts Anthropic (and What That Means for You)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: xiB1y5zkOgg
+URL: https://www.youtube.com/watch?v=xiB1y5zkOgg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:25:19+00:00
+
+Kind: captions Language: en I don't personally think the Pentagon should be threatening DPA against these
+companies. For all the differences I have with Anthropic, I mostly trust them as a company and I think they
+really do care about safety and I've been happy that they've been supporting our war fighters. There is a lot
+of change going on right now in terms of AI policy in the government. In this video, I'll be breaking down all
+the latest news that happened [music] with Anthropic, OpenAI, and the US government. We'll take a look at what
+Sam Altman said in that news press and you'll understand what all this actually means for you as someone who
+is running a business or is an employee [music] who is working with or trying to work with this AI technology.
+So, Anthropic was actually the first AI company that the US government was working with and implemented.
+They're using it across multiple different federal sectors. Now, that's why it makes sense that when the
+Department of Defense here in the Pentagon wanted to strike up a deal with an AI company that they would work
+with Claude by Anthropic. So, when they were creating these deals, Anthropic actually drew two different lines
+in the sand. They said, "We will not be using our AI for domestic mass surveillance and we will not be using
+our AI for autonomous weapons systems." Now, what happened was that the Pentagon said that this is a supply
+chain risk. They never actually put this into the contract, but Claude was asked Anthropic was asking for it
+and because of that they said this is a supply chain risk. So, what happened is that the White House and Trump
+decided to ban Anthropic overall and saying that they can't use it at all in any federal systems. Now, the
+weird part is that what they did is that they ended up going with OpenAI and forming a deal here. And what's
+weird about it is that they actually added in the exact same lines in the sand that Anthropic had mentioned.
+They said they will not use it for domestic mass surveillance. They will not use it for autonomous weapon
+systems. So, the video you just watched was Sam Altman from OpenAI going ahead and supporting Anthropic, which
+is a competitor, saying that they should not be banned because of these things, especially because they were
+given the exact same qualifications here when signing their deal. So, the question is what does this actually
+mean for you? Well, I broke it down, and if you are working in a federal department, then that means you have
+to start thinking of alternatives. So, what alternatives do you actually have? So, there's three different
+Claude main Anthropic products for Claude. There's the chat, there's co-work, and there's code. So, I broke
+down a couple of alternatives that we'll go through for each of them. First up is chat, which is your standard
+um AI assistant here. So, some alternatives that you may want to use now is Gemini, which is the Google
+product, and I think one of the benefits to this one here is that they have amazing image generation with Nano
+Banana too. If you're interested in learning more about that, then you can go ahead and check up the video
+that I linked here. The other alternatives would be ChatGPT, which makes sense because of the OpenAI deal
+that's now being formed, and Perplexity, [snorts] which in my opinion is the best for research. Uh it's
+amazing at finding sources and not hallucinating answers and referencing those sources. So, those are some of
+the three options that you can pick from as an alternative to Claude. Well, one that you may have heard of
+that's kind of blowing up in the past couple weeks is Open Claude, which is an open-source AI personal
+assistant that you could chat with through multiple different forms, you know, Slack, Telegram, many different
+forms you can message with it, and it can actually perform actions for you. The other option, which is brand
+new, just launched a couple days ago, is Perplexity computer. So, it takes those awesome search capabilities
+that I just mentioned from the Perplexity models, and it combines it with AI agents so that it can do a ton of
+different new capabilities like running uh jobs in the background, creating interactive dashboards that you
+can send to other people. Um it's just super powerful tool, and again, if you want to learn some more about
+this, I just dropped a video on that, I'll link it above. Now, finally, you have Claude Code, which a lot of
+people love for technical work. So, this one's going to be hard to replace, right? It's it's awesome at
+writing code, connecting to different sources, pulling information, analyzing your code, etc. So, what are the
+alternatives we could do for that? So, the first one is um Cursor IDE. So, this is an uh development
+environment where you can actually code in, but there's built-in AI agents that will run in the background and
+kind of write code for you. So, this is one option that you can use. Another one is Google's anti-gravity, and
+this one has been also blowing up as of late. It's also an AI coding uh agent, coding platform with an IDE
+built in, but um the benefit is also has access to those Nano Banana models that I mentioned earlier, so it
+can use really it can generate really great um images of like UI designs and implement that in code. Now, the
+last one is an OpenAI product called Codex. Um so, this is a an alternative to uh to Claude Code, and it can
+run in your terminal as well and uses AI agents. So, those are the three options for coding. So, there's a lot
+going on right now in the AI regulation space [music] and how it's interacting with government policy. The
+good thing though is that there are a ton of different AI tools out there. So, even if you can't [music] use
+one company's like Anthropic, there are so many alternatives all that have great capabilities that you can
+use. Now, if you're not working a federal job and you [music] want to take advantage of all the capabilities
+that Claude has to offer, go ahead and check out this video where I'll go over [music] the multi-agent and
+sub-agent systems that are brand new and has the potential to 10x your productivity.

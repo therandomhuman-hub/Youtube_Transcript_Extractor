@@ -1,0 +1,163 @@
+Title: How I Build EASY Animated Websites in 17 min (Claude Code + Nano Banana + Veo)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: c-UBOBw5c_k
+URL: https://www.youtube.com/watch?v=c-UBOBw5c_k
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:17:50+00:00
+
+Kind: captions Language: en I've spent over 10,000 hours coding websites as a developer, and I've done this
+for both Fortune 500 companies and my own website projects on the side. But now with AI, what used to take my
+whole team months to make literally just takes minutes. [music] And as proof in this video, it took me about
+30 minutes to build this 3D animation scroll website from scratch. [music] And yes, it's fully interactive,
+it's deployed live on a website, and I didn't use any 3D animation software or even any apps like Figma.
+Everything was made with just three AI tools. Nano [music] Banana 2 for the visuals, Veo 3 for the video, and
+Claude Code for developing the entire website. [music] In this video, I'm going to show you the entire
+workflow, from generating the video to building the website and launching it live for anyone to access. So,
+first thing we have to do is create the visuals. And to do that, we need to know what we're creating visuals
+of. So, I found this website here. It's called muddypawsrescue.org. It's a foster organization for dogs in New
+York City. I've actually used them a couple times, fostered a few dogs through them, so I thought, you know,
+why not? I think this would be a good one to make an animated website of. So, if we head over to their
+website, we can see um, you know, it's it's not a bad website, but, you know, could be a bit more modern. And
+what I'm thinking for an animation is to do a dog that kind of runs up and then jumps up similar to their to
+their logo up here. So, let's go pick a dog. I'm actually going to just check out some of the dogs that they
+got. Oh, that's a really cute puppy right there. Let's see if we go to adopt adoptable dogs. Let's go through
+this list here. So, a lot of a lot of cute ones. All right, I like Luke here. He has a funny expression going
+on. Um, so we're going to do him. He's super cute, and we'll have him for the animation. So, what we're going
+to use for the images and the animation is Google Flow. And this allows you have access to all the different
+creative Google AI models. So, you have Nano Banana on here, like the pro and Nano Banana 2, as well as the
+Veo models 2 for video. So, what we're going to do is use both of these. And if you're just interested in
+seeing the pricing first of all, they have actually a free version, which is 100 credits, you know, flat out
+that you can use one time, plus 50 credits daily. This should be enough for us to do this. I actually have
+this $20 plan, which is a free month to start. So, you can use this, and that gives you 1,000 AI credits per
+month. But the free model the free one should be good enough for this. And you can see it has Nano Banana Pro
+and Veo 3. So, let's go over. You can see I have a couple for some of the YouTube thumbnails I did. And we're
+going to create a new project. And we'll call this one, let's rename it up here, and we'll say Muddy Paws. And
+what we want to do is take this picture of Luke. Let's see if we can copy this. Oh, there's a couple pictures
+of him. Let's scroll through. Some really good pictures of him here. All right, I like that one. Let's just
+use the Let's use the first one. So, I'm going to do is see if we can copy the image. Hover over here. I'm
+going to paste it in. All right, and you see it pops up over here. It's just that uploading right now. And it
+should be uploaded. You can see it's over here for us to use, and we're set to use Nano Banana. And uh, yeah,
+what we want to do is we want to create a beginning image and a final image. And what the video is going to do
+is turn the uh, beginning image to the final image through like an animation. And yeah, we're set to make four
+different ones, so we can kind of pick and choose what we want to do. So, let's do a starting image. Create
+the dog laying down a little bit in the distance, and it should be a completely white floor and background.
+So, let's do that. And it's generating four different images for us to choose from. Cool. So, it just made
+four. This is actually perfect. Yeah, I like this one. Let's use this one. So, awesome. We actually need to
+create the ending image now, too. So, let's go over here. All right, so I'm zoomed up on their logo here. I'm
+going to take a screenshot of that. Cuz this is the pose that we want the puppy to be in. So, let's copy that.
+We'll head back over to Flow, and we're going to use this image. And let's say and we'll paste in now the
+logo. And that should make it as a secondary image. And the prompt that we're going to give it is turn the dog
+in image one into a pose that is in image two. So, it should be facing the camera with its paws up, and it
+should be going over a barrier, and it should be close up. And let's run that and see what it does. Cool. So,
+it just made four different options that we can use as the final animation. And I like this one a lot. I think
+this is perfect. It's pretty similar to the logo. So, let's go ahead and do an animation for this. So, we're
+going to take this, and we're going to change the model to video. And let's say we'll do four videos. This is
+going to use 80 credits. Let's bump it down. We'll do two video options. So, this is 40 40 credits if we do
+Veo 3.1 fast. So, ingredients, frames. Yeah, we'll do frames cuz this is the start frame, and this is the last
+frame. So, we'll say this as the prompt. Create a video where the first image is the first frame, and the
+second image is the second frame, and it should be a 7-second video going to going between frames where the
+dog is getting up, looking at the camera, running to the camera, and jumping up over a barrier that appears
+from the bottom. All right, so let's run that and see what it makes. So, it just finished generating the
+videos. Let's go check them out. So, this is the first one. Awesome. So, he's running over. I like that one. I
+like that one. Let's check out the second one, too. Cool. I think I like the first one a little bit more.
+Yeah, I don't like how he steps on it there and then jumps up. Yeah, let's go with the first one. So, let's go
+ahead and let's download this. We'll do it as 1080p. Awesome. So, it just finished downloading. Let's go open
+that up, and yeah, there it is again. Around 7-8 seconds, he gets up, runs, and jumps onto the barrier. Love
+it. So, we're going to use this. Now that we have the video generation done, we got to start on the website.
+So, let's go ahead and do that. So, since we want to host this website, what we want to do is keep this in a
+code repository. So, we're going to use GitHub. And what we can do for this is go over to repositories. We can
+do new over here. And I'm going to call this one animated websites. And just go ahead and create repository.
+Cool. Yeah, and what we're going to do now is just add We'll do add a readme right here just to initialize the
+repository. So, when you do this, you should have right there just a website or a repository with one file.
+And the way that we can use this is do code, and we copy that URL. And then it's pretty simple. If you just go
+to a terminal, so I have a terminal pulled up here, and I have a folder called GitHub that I like to use for
+my code. You can put this wherever you want, but all you have to do is do get clone, and then paste in that
+URL, and it should go ahead and download that. Awesome. So, now what we're going to do is go ahead and open
+this up in any code editor that you want. For me, I like using Google's Antigravity because of the plan that I
+have. So, we'll go ahead open up in there, and we'll go from there. So, if you want a shortcut and you're
+using Antigravity, what you can do is just type agy, and then the name of the repo that you just made. So,
+animated websites. If I click enter, that should pop open Antigravity. So, I loaded in two files to start. One
+is the dog getting up video that is in the assets folder that I created. Another one is the prompts folder
+that I created, and this includes an instructions.markdown file. And this is a gold mine for setting up the
+website, a modern website that has everything that you need in the right tech stack, and gives instructions on
+how to copy styles from other websites and then implement this animated video. So, if you want this, you can
+go ahead click the link for the free resources in the description. That will include this where you can
+download it and use it for yourself. So, all we have to do at this point is open up Claude in our terminal,
+and this should start a Claude Code session. And from there, we're going to give it instructions on how to
+make the videos or how to make the website. So, what I'm going to say is use this repo to create a animated
+website. It's going to be used the instructions.md file in the prompts folder, and it should use the video
+that's in the assets folder to create the animated visualization. All right, and before we complete that, we
+are actually going to go back to the website that we're using as a reference. And let's click on the website.
+Let's copy that link, and we're going to go back to Claude. And we're going to say use this website as a
+reference to make an animated version of. And we'll paste in the website. Perfect. So, let's go ahead and run
+this. Now, it's going to read from the instructions.markdown file, and it's going to start actually generating
+the website, and it's going to go to the reference website to get the styles, right? We want to know what
+images it's using. We want to know what text Well, like phrases it's talking about. We want to know the fonts
+that it's using, the colors that it's using, all those things. We want to keep the branding the same, right?
+We're not completely redoing the branding, we're just making the website more modern. So, all of that is in
+the instructions file. Right, so it generated the website and you could see it's launching it locally on
+localhost:3000. So, if I go to that in the browser, it has the website here. You know, the branding isn't
+perfect. Um going to make another adjustment to fix that and update the instructions for you guys as well.
+But, if we scroll down, we can see the dog here. As we keep scrolling down, he runs over and jumps up. So,
+super cool. It's actually a little choppy, so I'm going to try to fix that as well. And don't love this
+progress bar, so we're going to get rid of that, too. And again, all the updates will be made in the
+instructions for you. But, yeah, this is pretty good, you know, for the first run. So, we're going to make
+those adjustments. I started typing it back into Claude. So, we're going to run that and see the second
+iteration what that looks like. So, I just finished making the changes to the website again and I updated the
+instructions file for you guys for when you download it. But, let's take a look now. It's actually using the
+font from the main website, which is awesome. It has the as seen on section from the website as well, from
+those here. And there's our video. I think it's a little choppy still and kind of blurry. I think one way you
+could fix this is by separating this into maybe two or three separate video clips. One where the dog is
+getting up to mid-run and then mid-run to the end. That way there's more checkpoints in the middle where the
+image is higher quality. For this, I think it's good enough. I was able to get around the Veo 3 watermark in
+the bottom by adding a strong blur in the bottom right, which actually worked super well. You can't see it at
+all. But, I love this, you know, how the text is popping up as you scroll and he's running up and jumping up
+like the like the logo that they have up here. And yeah, we keep scrolling down. It's using all the colors,
+the pictures from the website. This looks awesome, honestly. So, what I'm going to do is head back to
+Antigravity, wherever I have my code. And I'm going to click over here where I can have the changes that I
+made. We're going to generate a commit. And after that's done generating, we're going to commit it, which is
+basically uploading all of our files and our code and our changes here. And then we'll push that up to GitHub.
+So, this is all done on our computer right now. After this, it's all going to be pushed up to GitHub, which we
+can then use to actually make a deployment. So, let's hop back over to GitHub. If we give it a refresh, we
+should see now on this main branch that we just edited, there is all the files. Awesome. So, the next step,
+now that we've made the images and the animation, we've coded the website, it's going to be about uploading
+it. So, let's go ahead and give that a try. So, to deploy the website, we're going to use a site called
+Vercel, which is actually super easy to make deployments. It just connects directly to your GitHub through a
+project. So, over here, I already have a project set up. I'm going to make a new project. First, we got to
+link the Git repository. So, animated websites, perfect. Let's import that. And yep, this looks good. We
+should just be able to deploy. I will catch up with you guys once it's deployed. So, just finished deploying,
+so easy. Literally just one button click and it says that we can go to the dashboard now. So, let's go to the
+dashboard. And okay, it named this project animated websites. Sounds good. And we can visit the website. So,
+if we click visit, it's going to automatically use this vercel.app URL. So, animated websites 9.vercel.app and
+it's exactly what we had, right? With the animated scrolling and everything that we uploaded. Awesome. So, you
+might actually want to add a domain as well, so you can change it from this default Vercel apps. And I'll show
+you how to do that for yourself. So, you can go to this domain section here and you can see there's this one
+that Vercel gives you. You could also buy a domain, right? If you go on here and you want to use like, I don't
+know, muddypaws is going to be taken, but like muddypaws2 or something. All right, there's a couple that you
+can buy all these domains. For me personally, I actually own a few domains. I like to use one called
+Namecheap. And luckily, if you go back to Vercel, it gives you the option to bring an external domain. So, if
+we go back, we can add existing and it gives you a couple of instructions. So, I'll teach you how you can do
+this because this is the method that I'm going to use. So, I have a few domains already on Namecheap, but I'm
+going to use right now for this example and just for this video, seanwygaand.com. That's my name. So, what's
+important is that we use a Namecheap basic DNS. Make sure that that is enabled here. And if we go to advanced
+DNS, this is where we're going to want to put in some additional information. So, if we go back here, let's
+type in seanwygaand.com. And let's save that. And it's going to say invalid configuration. That's all right.
+We need to add what it says this record. So, all we got to do is copy this value. Let's go back over here.
+Let's add a new record. We're going to say A record. It says to use the at sign, right? Just like that. So, at
+and then we're going to paste in that IP address. So, we'll check that off. Awesome. Let's go to refresh here.
+Cool. So, we got that A record now going to the IP that it listed. And let's refresh this. And after the
+refresh, seanwygaand.com is working. We just need to add this one as well for the www. So, it says to add a
+CNAME www to this address. So, pretty simple. Just go here. Go CNAME www Paste this guy in here. Give it a
+check. And it might take some time, but at some point when we refresh this, it should work as well. So, I'll
+give it a minute and retry. Sweet. The domain finished validating and I also added a redirect for both of
+these just going to www. and this one is also going to that as well. So, if we open up here, we go to
+seanwygaand .com. There it is, our muddypaws website. Awesome. So, super easy to do all three steps, right? We
+generated the animations and the visuals, we coded the website and then we deployed it. And that's really all
+you need to create these websites and it literally took me about 30 minutes. So, I hope you guys enjoyed the
+video and you're able to see how easy it is to make these animated websites now using AI. And if this hasn't
+convinced you enough that you want to use Claude because Claude code is so awesome and I use it all the time,
+then you might want to check out the video right here and that'll give you some information about whether you
+want to use ChatGPT or you want to use Claude. And again, bias here, I love Claude. So, definitely recommend
+to go check that out.

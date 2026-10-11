@@ -1,0 +1,86 @@
+Title: How to Create AI Videos Faster Using Text-to-Image Tools (Beginner Guide)| Part 1
+Channel: AIpreneur
+Type: VIDEO
+Video ID: n6IXEnkKGUw
+URL: https://www.youtube.com/watch?v=n6IXEnkKGUw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T17:55:08+00:00
+
+Kind: captions Language: en What if I told you that you could create hundreds of professional AI videos with a
+completely free automated [music] system that lets you generate story videos, educational content, or even
+entire faceless [music] channels that scale just with a single one-click completely free. No subscriptions, no
+credit limits, just a free AI workflow that nobody's talking about. And in the next few minutes, I'm going to
+show you exactly how it works. Welcome back to AI Prreneur. Today, we're diving into something powerful. This
+isn't theory. I've tested it myself and I'm walking you through every single step. And here's the best part.
+Everything I'm showing you today is 100% free. If you're tired of spending hours on manual work, this is for
+you. Let's get started. First and foremost, let's talk about the old way of doing things. Normally, when you
+want to create a story video, you'd go to an AI image generator like Google Whisk. You'd paste your first
+scene prompt, then copy the second prompt, paste it again, and repeat this process for every single scene. If
+your story has 30 scenes, that's 30 separate actions. You're looking at hours of repetitive work. But what if
+we could automate all of that? What if you [snorts] could paste all your prompts at once and let a free tool
+handle everything automatically? That's exactly what we're about to do. Let's dive in. First, we need the
+magic AI tool that makes all of this possible. So, open Google and search for Autoisk and click the first
+result. This is a free automation Chrome extension for Google Whisk. It lets you batch generate images instead
+of doing them one by one. Here's how to get it. First, open Google and search for AutoISK. You'll see a Chrome
+extension called AutoISK, Automator for Whisk AI. Second, click on it and hit add to Chrome. In a few seconds,
+it'll be installed. Once it's ready, open the extension icon in your browser. First thing, change the language
+as you need. Just click the language dropdown and select what works for you. For me, I choose English. Next,
+you'll see two versions available. For this tutorial, we're using the classic version. Click on that. Now,
+you'll see the main interface. This is where the magic start. But before that, we need two things. A story
+script and image prompts for each story scene. Let's start by generating a story clips. So, open chat GPT and
+ask it to write a story script block you by using a simple prompt like this. In a few seconds, chat GPT will
+give you a complete story script. Now, it's time to generate image prompts from this script story. So, in the
+same conversation, ask chatbt to create a detailed text image prompts for each scene. You can use this prompt
+as an example. Don't forget to tell ChatGBT to format each prompts in its own line. This make Whisk to
+understand the transition between scenes. Then hit generate. ChatGBT will give you a clean list of prompts,
+one per scene and perfectly formatted. Now comes the fun part. Copy all thesis image prompts given from
+ChatGBT. Then go back to AutoWIS extension. Paste them all in the text box and hit the start button. In this
+moment, the tool will ask if you want to create a new WIS project or continue with an open one. You choose new
+project. Now watch what happens. Autoisk opens Google Whisk automatically and it starts generating images one
+by one completely hands-free. It'll work through all your prompts. And here's the best part. It downloads
+every image automatically to your computer in a numbered folder. No clicking, no saving manually, [clears
+throat] just pure automation. If you've been doing this the manual way, you know how much time this saves. But
+here's a common problem with this AI story images. The characters keep changing from scene to scene without
+any consistency. One moment your hero has brown hair, the next scene they're blonde. It breaks the immersion.
+To fix this issue, go back to chat GPT. In the same conversation, paste this prompt and hit generate. Chat GPT
+will give you characters prompts. Let's generate them. Go back to Whisk. Paste the first character prompt and
+hit generate. Your first character image appears. Now, here's the key part. Click the small left arrow icon in
+whisk. Drag that character image into the subject box. Uncheck it for now. Then repeat this for all your
+characters. Copy the second character prompt. Generate the image. Click the plus icon in the subject section
+and drag the second character into the second subject box. Let's move now to pick our style reference. Now
+copy your style reference name. something like Giblly style animation, soft colors, or handdrawn feel and
+paste it into Whisk. Then hit generate that image. Once it's done, scroll down the left sidebar, drag the
+style image into the style box, and make sure the style checkbox and subject checkboxes is enabled. And that's
+it. Now we're ready to regenerate everything with consistency. So go back to AutoISK and click start. This
+time, choose run on this project. Now, Autoisk regenerates all your scene images, but this time every image
+has perfect consistency. Same characters, same style, same vibe. And yes, it still downloads automatically in
+order. And like that, you get a tons of visual story created with just one click and in few seconds. But
+visuals are only half the story. The voice over is what brings it to life. For that, we will use Google's free
+texttospech tool. So, open Google AI Studio. Click text to speech. Then select single speaker mode and paste
+your script story here into the text box. Choose a voice. I'm using Enceladus. It's deep and perfect for
+wisdom tales. Now, here's the secret. Click add style instructions so that the voice is consistent with the
+story. Just go to chatbt and ask it to give you a style instructions for your voice over. When it's done,
+paste them into Gemini and hit run. A few seconds later, your voice over is ready. Click download. Now you've
+got the two most important pieces, your visuals and your voice over. So the next step is the magic part. We're
+going to stitch everything together into a real video step by step so it looks clean, smooth, and
+professional. And for that we will use Cap Cut, the free version. So go to it and create a new project. Then
+drop the voice over onto the timeline first. This becomes your backbone. Next, add your images above the voice
+over in the same order they were downloaded. After that, sync the images to the narration and split them at
+key moments in the voice over so everything matches perfectly. Add transitions for smooth flow. Use a gradual
+fade or twinkle zoom set to 0.5 seconds. Keep it clean and simple. Now, a very important part of this editing
+process is adding animation to your still images. To do this, select an image and go to key frames from the
+sidebar. Add one key frame at the start of the image and one at the end. Now, place the slider at the
+beginning and slightly scale the image. This creates a smooth animated movement that brings the image to life.
+Repeat this key frame animation for all images one by one. And then add captions. Captions are a huge
+retention boost because lots of people watch shorts with low volume at first. Go to text, click auto captions,
+then generate. Cap cut will turn your voice into timed captions automatically. Then go to the template and set
+something to match your video. Lastly, do a final check. Watch once to make sure every image matches what's
+being said and export your video in high quality. Morning mist clung to the hills as the young traveler
+tightened their scarf and stepped onto the quiet road. The sky was pale blue like a painting not yet finished.
+A wooden sign pointed nowhere, its letters faded by time. Curiosity tugged. >> And just like that, you've
+built a complete story from the ideation to creation using [music] fast automated system. and 100% free. This
+workflow works for any niche stories, education, [music] finance, and faceless content. Start with just one
+video today. Test the process and see how fast it is. [music] If you found this helpful, hit that like button
+and subscribe to AI Prreneur. Drop a comment and let me know what kind of AI video you want to create next.
+Thanks for watching and see you in the next tutorial.

@@ -1,0 +1,102 @@
+Title: I Started a Psychology Channel With ChatGPT + Grok AI (Results Shocking)
+Channel: AIpreneur
+Type: VIDEO
+Video ID: LFk_Nu_ynoA
+URL: https://www.youtube.com/watch?v=LFk_Nu_ynoA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T17:59:32+00:00
+
+Kind: captions Language: en Picture this. A faceless YouTube channel posts simple psychology videos and earns
+up to $7K, $20k per month with just free AI tools and a smart strategy. And here's what's wild. They started
+just 5 months ago and already have 159,000 subscribers. Today, I'm breaking down their entire process and I'll
+show you how to recreate it using nothing but free tools. Welcome to AI Prreneur, where AI becomes your
+business partner. I'm going to walk you through the complete workflow for creating these emotional storydriven
+psychology videos that actually keep people watching. By the end of this tutorial, you'll know exactly how to
+find viral topics, write engaging scripts, generate stunning visuals, and edit videos that connect with
+viewers on a deep level. Everything I show you today is 100% free. No subscriptions, no hidden costs. But
+before we start, do me a quick favor. Hit that like button and subscribe so you don't miss future tutorials
+like this one. Now, let's dive in. Here's what you'll create by following this tutorial. First, a psychology
+topic that people actually want to watch. Then, a script written in a way that feels human and relatable, not
+robotic. Next, you'll generate black and white cinematic images that match your story perfectly. After that,
+you'll bring those images to life with subtle animations. Then we'll add an emotional AI voiceover that sounds
+natural and engaging. And finally, you'll edit everything together with captions, effects, and music to create
+a video that's ready to upload and start earning views. Sound good? Let's build it step by step. Step one,
+find your topic and analyze successful channels. The first step is understanding what actually works in the
+psychology niche. Go find a successful psychology channel you want to model. Look for channels with strong
+engagement and consistent uploads. Copy the URL of their channel page and head over to ChatGpt. Paste the link
+and ask, "Analyze this YouTube channel. Tell me their niche content strategy and what topics perform best."
+Chat GBT will break down their approach in seconds, their view patterns, most popular themes, and what makes
+them successful. Once you have that analysis, ask Chat PT to give you 10 similar topic ideas based on that
+channel's style. It'll generate a list of psychology topics you can immediately work with. Things like
+attachment styles, emotional manipulation, cognitive biases, or relationship psychology. Pick one topic that
+resonates with you. That's what we'll build the entire video around. This research step is crucial because
+you're not guessing anymore. You're following a proven pattern. Step two, write a script that actually
+connects. Now comes the most important part of the entire process, your script. In the psychology niche,
+viewers watch because they want to feel understood. If your script sounds generic or robotic, they'll click
+away in seconds. You need to write in a way that feels real, emotional, and deeply relatable. Here's how to do
+that using Chat GPT. First, go back to your reference channel and find two or three of their best performing
+videos. Copy the video URLs. Use a free transcript tool to extract the full text from those videos. Once you
+have those transcripts, paste them into Chat GBT and say, "Analyze the writing style, tone, and emotional
+pacing of these scripts." This teaches ChatGpt exactly how successful psychology content is written. Now, give
+ChatGpt this prompt. You're an expert psychology script writer. Using the style you just learned, write me a
+video script about your topic. Make it emotional, conversational, and around 1,200 words. Use short sentences.
+Focus on storytelling and human connection. Avoid jargon. Paste in the topic you chose earlier and hit enter.
+ChatBT will generate a script that mirrors the proven style, but completely original to your topic. Read
+through it. Make small tweaks if needed. Now you have a script that's ready to turn into visuals. Step three,
+generate cinematic black and white images. Now let's create the visuals for your video. The channel we're
+modeling uses a signature black and white cinematic style. We're going to recreate that exact look using free
+AI. First, go back to your reference channel and take screenshots of their video frames. Grab three or four
+examples that show their visual style. Upload those screenshots to chat GPT and ask analyze the visual style
+of these images. Describe the art direction, mood, and aesthetic in detail. Chat GPT will describe exactly
+what you're seeing. Monochrome palette, emotional expressions, soft lighting, minimalist composition. Now
+comes the magic part. Tell ChatGpt, I'm going to paste sections of my script one at a time. For each section,
+give me an image generation prompt that matches this visual style. Copy the first paragraph or two from your
+script. Paste it into chat GPT. It'll create a detailed image prompt designed for that specific moment in your
+story, including the black and white aesthetic. Save that prompt in a Google Doc or Notepad. Then paste the
+next section of your script. Get another prompt. Keep going until you have prompts for your entire video. Now,
+open Groi. That's the image generator we'll use. It's completely free and creates stunning results. Go to the
+image generation section and paste your first prompt. Hit generate. In seconds, you'll have a cinematic black
+and white image that matches your script perfectly. Repeat this for every prompt you created. Download all the
+images to your computer. It'll extend the image seamlessly so it's ready for video. Step four, animate your
+images with AI. Static images are good, but animated images are what keep viewers watching. We're going to
+bring your visuals to life using Grock AI's video feature. Open Gro and go to the video generation section.
+Upload the first image you created. Let Grock automatically add subtle motion to it, a slow zoom, a gentle
+pan, maybe a slight parallax effect. In about 20 seconds, you'll have a short animated clip. Download that
+video. Now, upload your next image. Animate it. Download it. Keep going until every image has been transformed
+into a video clip. This step takes a bit of patience, but the result is worth it. Your video will feel
+professional and cinematic instead of like a slideshow. Step five, create the voice over. Now, let's add the
+voice that ties everything together. For this, we'll use Minia Audio, a free AI voice generator that sounds
+incredibly natural. Open Miniax and browse the voice library on the left side. Search for a voice that fits
+the psychology niche. You want something calm, wise, and slightly emotional. I recommend trying Wise Scholar.
+It has that perfect reflective tone. Once you've picked your voice, go to the text to speech section. Paste in
+the full script you created earlier with Chat GBT. Hit generate and wait a few seconds. Minimax will create a
+full voice over for your entire video. Listen to it. >> That's what it looks like from the outside. They
+studied hard, worked long hours. >> If you like it, download the audio file to your computer. If not, try a
+different voice and regenerate until it feels right. Step six, edit everything together in Cap Cut. Now comes
+the final step, putting it all together. Open Cap Cut. It's completely free and works on desktop or mobile.
+First, drag your voice over audio into the timeline. This is your foundation. Now start adding your animated
+video clips one by one, syncing them to match the voice over. If a clip is too short, slow it down slightly so
+it stretches to fit. If it's too long, trim it. Work through your entire timeline until every second of the
+voiceover has matching visuals. Next, let's add some polish. Go to the effects library and find the retro
+section. Apply the film frame effect across your entire video. This adds a subtle film grain that makes
+everything feel more cinematic. Now add transitions between your clips. Keep them simple. Use dissolves,
+fades, or cross blurs. Nothing flashy. Next, generate auto captions for your entire video. Cap cut has this
+builtin. Choose a simple animated caption style, something clean and easy to read. Psychology content works
+best with minimal, non-distracting text. Finally, add background music. Go to YouTube's audio library and
+search for sad piano or emotional ambient. Pick a track that's copyright free. Add it to your timeline and
+lower the volume so it sits underneath the voice over without overpowering it. And that's it. Your video is
+complete. Export it in 180p and you're ready to upload. They did everything [music] right. At least that's
+what it looks like from the outside. They studied hard, worked long hours, [music] said yes when they wanted
+to say no. Waited patiently for someday and then someday arrived. The job, [music] the money, the
+relationship, the house, the respect. All the boxes were checked. So why does it feel quiet? Not peaceful
+quiet. Empty quiet. The kind of quiet that makes you uncomfortable. The kind that creeps [music] in late at
+night when there's nothing left to chase. No next goal. No urgent dream. >> Let me quickly recap the entire
+process. Step one, research successful channels and find viral topics. Step two, write an emotional human
+script using Chat GPT. Step three, generate cinematic images with Grock AI. Step four, animate those images
+with Gro's video tool. Step five, create a natural voice over with Miniax. Step six, edit everything in Cap
+Cut with captions, effects, and music. That's the complete workflow. Every tool is free. And if you follow
+this process, you can start creating professional psychology videos today. So here's my challenge. Pick one
+topic and create your first video this week. If you found this helpful, smash that like button and subscribe
+to AIRneur for more AI tutorials like this. And drop a comment below what type of AI video you want me to
+create next. Thanks for watching. Now go build something amazing.

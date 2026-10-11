@@ -1,0 +1,69 @@
+Title: Claude Code just got a NEW SuperPower (Voice Mode)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: 2I-MccxHV-Y
+URL: https://www.youtube.com/watch?v=2I-MccxHV-Y
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:23:22+00:00
+
+Kind: captions Language: en Anthropic just released voice control for Claude Code, which means you can now
+write entire full-stack applications without even touching the keyboard. But, most business owners don't know
+how powerful this really is. So, in this video, I'm going to break down the future and direction of these AI
+tools and how voice enablement will empower you to do brand new things in this new age of AI that we are in.
+If you're new here, my name's Shawn and for years I've been helping Fortune 500 companies save thousands of
+hours through process automation. And in my opinion, AI is what's going to take this to the next level. All
+right, so before we jump into actually showing you how to use this, let's take a look at the demo video that
+Claude Code created. So, you can see it's pretty simple. It's actually just typing the {slash} voice command
+to get it to run and start listening to you. They're typing {slash} voice and it's just holding the space bar
+to speak. Very, very simple. Um this is going to save a ton of time when you're actually coding for longer
+tasks. So, they just said refactor the authentication middleware. And it's just running Claude Code like
+normal. So, super simple and let's take a look at how you can actually do this for yourself. First things
+first, it's important to note that when I tried installing this myself, it actually said that you need to
+install this socks uh package first. So, if you are on Mac, make sure to use this brew install socks command
+before you actually try running this on Claude Code. All right, so we hopped into the terminal here and we are
+all spun up with Claude Code right now. And let's go ahead and type {slash} voice. Click that and yeah, it
+says it's enabled and all we have to do is hold space bar to record. So, I hooked it up with my Notion through
+the Notion MCP connector. Let's see if we can now get information about our Notion just by using uh Claude
+Code now with voice. So, if I hold space bar and talk, I could say get me all of my notion documents and
+explain what they are about. Put it into a nice format, kind of like a graph that's easy to read in the
+terminal here. So, got all of that here, which is super awesome. Let's click enter. It should start running
+and running my MCP endpoints as well, asking for permissions like that. And we'll just keep clicking yes to
+that to see what it actually says. Um, this is awesome because you could actually do this, you know, I just
+did it directly in a new terminal chat, but you can actually, if you're already typing somewhere, you know, go
+to the spot that you want in there, and then you can click or start speaking, and it will just put it into um,
+you know, wherever you start typing or wherever you start speaking. So, it doesn't need to be a brand new
+prompt. You could just add it to anywhere else. So, I'm going to keep doing this and I'll come back to you
+guys when it is complete. All right, so it just finished up here. Let's take a look at what it printed out.
+There's a visual overview of all of my notion documents. Um, pretty cool. It lists out all the different ones
+with the dates, kind of explaining what they are in a graph or like a, um, you know, branches here. Uh, like a
+folder structure, pretty much. Even the databases, uh, super cool. Give it an overall summary at the end here.
+So, uh, super awesome. I just literally didn't even need to touch the keyboard. I just spoke into it. And, you
+know, you can extrapolate this to, um, you know, writing entire full stack apps now without even touching the
+keyboard, which is pretty insane. So, let's see if I can even create a new notion project. So, let's do it
+again. I'll hold down the space bar and we'll talk. Create a new notion page on how to use voice with Claude
+Code. I want it to be in the same structure as these other pages that you just looked up for me. Let's run
+that and um again, I will get back to you when it has the result. All right, so here is the result. It gave me
+a breakdown of what's going on here, but it also gave me the link. So, I'm going to take this. Let's hop over
+to the browser. And let's actually throw it in there. And see what we got. And wow, look at that. So, how to
+use voice with Claude Code. It says run the {slash} voice command, hold space to record, exactly what we just
+went over, and it even formatted like my other uh pages that I have. So, gives literally a step-by-step
+breakdown. Um super awesome, super easy to read. And even, you know, tips, do this, don't do this, common
+issues, frequently asked questions, quick reference. So, you can see kind of how powerful this capability is
+now within Claude Code. So, you may be familiar with some of their competitors. So, Whisper Flow is kind of
+like the OG voice AI agent here. Um but why would we want to use something like Claude Voice as opposed to
+Whisper? So, Whisper works, you know, across all apps, but uh it's like another thing you have to download,
+right? And it sounds like the theme of the um you know, all these AI tools and the direction that they're
+going is implementing their own voice for their own system. So, if all if it is baked into all these systems,
+then it's a lot easier to use where you work as opposed to having to download a whole different tool. Now, one
+of the other huge benefits to using the voice mode within Claude Code is that you actually don't need to pay
+for the tokens that it takes to translate. So, when you're speaking into it and it's going through an AI um
+translator to extract the text based on your voice input, you actually don't need to pay for those tokens,
+which is pretty awesome. When you use a tool like Whisper Flow, if you want to use one of use one of the um
+better plans, of course, you're going to have to pay for something like that. So, it's a completely free voice
+enablement within the Cloud Code uh space that you're already working in. And, of course, to mention, there is
+no word limit as you are using this in Cloud Code as opposed to other programs like Whisper Flow, where you
+are paying for different tiers of the number of words that you are translating with your voice. Now that
+you've unlocked the power of voice within Cloud Code, you may want to see how you can accelerate your coding
+time by up to 10 times as fast using multi-agent systems. [music] If you're interested in learning more about
+that, I've added a video link right here, and you can check out how to do that within Cloud.

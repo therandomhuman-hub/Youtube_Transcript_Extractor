@@ -1,0 +1,144 @@
+Title: Data Analyst Certificate Tier List
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: wc8s4BtL5dM
+URL: https://www.youtube.com/watch?v=wc8s4BtL5dM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T19:03:46+00:00
+
+Kind: captions Language: en Look, everything you need to become a data analyst is already out there. But, if
+you do wrong [music] things, you'll waste years, and I see it every day. So, today I'm going to go through and
+rank the best data analytics certificates, and I'm going to review each one with pros and cons, and actually
+rank them. And I've taken multiple of these myself, and reviewed [music] lots of data certs on this channel,
+and also made some of the most viewed data analytics guides on YouTube. All of these certs are going to be for
+beginners, and no experience is required, and they're low cost or even free. So, buckle up to become a data
+analyst with flexibility, opportunities, and the life you want to live waiting for you. Let's begin. So, first
+up is going to be Google Data Analytics. And uh in my opinion, it's completely useless. And it pains me to say
+this, but I don't advise you to take this one at all. Now, for context, I've finished the entire Google Data
+Analytics certificate myself, and I don't regret it. It was many years ago. But, there's just better ways to
+spend your time nowadays. Look, the Google Data cert was completely revolutionary when it came out. It was the
+first of its kind. It was helping beginners slowly break into the field of data analytics without prior skills
+or a prior tech background. And that was a really good thing. But, the problem is that it doesn't teach you
+anything. It's kind of just long discussions about mindset, and some dabbling around with really basic parts
+of SQL or Google Sheets. Now, if you apply for a data job, and all you have is going to be the Google Data
+Analytics certificate, you don't even have a 10th or like a 5% of what the skills required are nowadays. But,
+I'll be honest, I think it's a good certificate in some ways, especially to understand the field of data, and
+what data analysts do, and kind of like that stuff. And that's a good thing in itself. But, the problem is
+often that people look at this course as just a long course of 6 months because of the length that they say it
+is, and they think, "Oh, if I just do this for 6 months, I'll be a data analyst." No, unfortunately not. And
+if you're serious, I recommend you finish this in about 2 to 3 weeks. I'm going to put this one on C tier.
+Now, it is a fantastic way to you a, you know, light introduction to the field, but the problem is that it
+says you'll be job ready and all that stuff, which in 2026 and beyond, unfortunately, is not true. Now, I am
+going to show you guys a couple of options that are true for 2026 and beyond, but sorry, a little bit, you
+know, brutal here in the beginning. And now let's get into my actual recommendations. So, the next one is
+going to be IBM data analyst. Now, this one actually gets a lot of hate and for many years it's been, you
+know, staying in the shadow, where people talk about the Google one, but people don't talk about the IBM so
+much. And I think it's amazing the IBM cert. Now, look, IBM definitely makes some shitty-looking
+presentations. It kind of feels like you're watching a tech tutorial on YouTube from like 2010. But the
+content itself is actually very useful. And the course teaches you the basics of data while focusing heavily
+on Python. Remember that, because Python is an extremely valuable data analytics skill, ranked as the number
+one programming language after SQL, which technically isn't a programming language, but that's a topic for
+another day. It's similar in length to the Google data cert, but it's so much more practical and valuable. And
+I'll definitely put this on the A tier. Now, the only downside here, and why it's not even higher, is because
+they teach you something called Cosmos, which is used for data visualizations, and it's, in my opinion, kind
+of a waste to learn that stuff when you could just spend your time on Tableau or Power BI, which are much more
+in-demand skills employers actually look for on your resume. And resumes and skills people look for should
+dictate your learning if you're looking for a job. But it's only a short course on Cosmos, so you're not
+really missing out on much. Next up is going to be IBM data analytics with Excel and R. This one is only 3
+months at 10 hours per week and top-rated, and it's definitely worth it to learn Excel. And also worth it if
+you're going to focus on R programming, if that's your thing. Take this course, otherwise skip it completely,
+because honestly, I'll put this one at C tier, because I don't really like R programming, and I know I'll
+probably get some hate for that, but I think most beginners should learn Python instead because it's more
+versatile, and especially with AI and how things are changing, being flexible and having a versatile skill
+set, I think it's going to be very, very valuable, especially in data in this age. Next one is going to be
+Tableau business intelligence analyst. Now, this is what they say. Launch your career in data analytics, build
+in-demand skills, and gain credentials to go from beginner to job ready. Let's talk about it. So, Tableau is a
+data visualization software people use to make charts, cool-looking graphs, generate reports, and more. And
+it's highly in demand and ranked as one of the top skills for data analysts on the job market. It also kind of
+overlaps with business intelligence and other roles that also use Tableau. Now, I don't recommend this as your
+starting point or your first course to enter data because I think it's more more important to learn things
+like SQL and Python. Although, I will admit that it opens you up to a ton of new opportunities. Because if you
+focus on a skill like Tableau for a whole course like you're doing here, you're going to gain so much
+practical skills and knowledge, and you're actually going to do projects and build a portfolio using Tableau.
+And while it's great to be a jack of all trades, I do think that if you know Tableau extremely well and you
+have some nice projects, that's a huge benefit in a job position or when you're applying for something, not
+just putting it on your resume, but actually building a whole portfolio around it and showing that you can do
+really cool stuff with it. So, I'm going to put this course on an A tier for now. Next one is going to be UC
+Davis data visualization with Tableau. Now, again, a course on Tableau, but a little bit shorter, and it has
+some pros and cons as well. The cons or the pros is that it's shorter, and I think that's a good thing, but
+it's also less focused on data analytics, and that's a bad thing. It's more about general Tableau skills,
+which you can apply to lots of different careers, pure Tableau knowledge, and the other course was more
+focused on using it for IT and for data analytics specifically and being job ready. Still a good option,
+especially if you have less time to do it because it's easy to get overwhelmed by these, you know, massive
+courses with 6 months, 8 months, and you'll never start in the first place. So, that's why I like short
+courses more and more nowadays because I think long courses, yes, they're more complete, but people never
+start them. I always struggle. I start something, I don't finish it because it's too long. And it's just you
+have to consider these factors as well, not just which course is going to learn or teach you most things, but
+also which course are you actually going to finish. All right, next up we're going to have Meta Marketing
+Analytics. And I don't like this one, and I'll tell you why. So, marketing analytics is a very, very good and
+interesting subfield of data analytics where you take data skills from >> [music] >> data analytics and you
+adapt and tailor them to focus on marketing like analyzing campaigns, advertising, and so on. And that is
+really good if you want to become a marketing analyst, and there are plenty of jobs in that space for people
+with the right skills. But you do need to be 100% sure of it. And I don't think it's a good overall data
+analytics course because the first part is pure data analytics, but then it becomes a lot of marketing. And
+everything you learn is specifically made for marketing analytics. So, if you're not going into that, I don't
+think it's a good option. Now, I'm an advocate for specialization. It's how you stand out on the job market
+and how you actually win. But I don't recommend you start here. Take a broader data analytics course first in
+my personal opinion unless you're really sure you want to go into marketing because you're just going to learn
+a lot of stuff you don't need, and that's going to waste your time if you're going another route after. I'll
+put this one on, let's say, B tier, but it's definitely S tier if you're into marketing analytics. Okay, next
+up is going to be Google Advanced Data Analytics. Now, this is a much better option than the original. It
+focuses more on Python and some heavier data science concepts, and to be honest, it's not that advanced. It's
+just harder than the original data cert, which in my opinion is very easy. Now, the only downside here is you
+do need to supplement SQL on the side cuz it's not going to teach you any of it and probably Tableau or Power
+BI as well. But, it does a fantastic job at teaching Python and practical data skills. If you're short on
+time, I would say that some courses at the end of the certificate with more machine learning stuff are a bit
+advanced and overkill for a data analyst. You can skip them, but if you have the time, I still recommend you
+take them to get an introduction to that, especially if you want to move into data science later because you
+might, you know, get a promotion and you want to eventually climb up that ranks and try something different.
+You could always do that. So, I'm going to put this one at the S tier easily. Next one is the Microsoft Power
+BI Analyst. Now, this one might actually be my personal favorite on the list. I don't know, but I just love
+this certificate. Now, it's got about half a million students and top ratings for a very good reason. And what
+it does basically is it goes deep into Microsoft Excel and then extremely deep into something called Power BI.
+And everything focuses on data analytics and working in a company doing these practical tasks. Now, the best
+thing is you also prepare for Microsoft official PL-300 certification exam. And you get a 50% discount, so you
+save some money as well if you decide to take it. And this is an official Microsoft certification on their own
+website separate from Coursera, which is very valuable. And it's probably the most valuable data analytics
+certification, especially for beginners, on the planet. So, this is a fantastic course on Coursera and a great
+start in data analytics. Obviously, the only reason why it's a bad idea is if you prefer Tableau or something
+and it's then, you know, it's a horrible idea. But, this one is clearly S tier, one of my absolute favorites
+ever. Next up is going to be Unilever [music] Supply Chain Data Analyst. Same thing as before, terrible for
+beginners who are still figuring their path out. But, if you are very sure you want to go into supply chain
+analytics, it's a good option. Who am I to tell you it's not? Supply chain management has a lot of openings
+and opportunities if you're into that stuff. So, I'm going to put it on A tier because people don't talk about
+this much. And if you are applying for a data job in the supply chain analytics and you have a certification
+in supply chain analytics, that's going to be extremely helpful to know and show that you're already kind of
+in the field [music] and not just a general data analyst to stand out from the crowd. So, a very good thing to
+specialize in. Same thing for the next one, which is going to be Unilever digital marketing analyst. I don't
+think this one is as important because many regular data analytics courses already cover data analytics for
+marketing, and it's often used as as examples and you know, analyzing dashboards and clicks and conversions.
+So, you can kind of just take a general data course and you'll be fine. That's why I'll put it on B tier. Next
+up is IBM data analysis and visualization foundations. I literally see no reason to take this. You're going to
+use Excel, which is fine, and Cognos, which I don't recommend. So, just take another course, learn something
+like Power BI or Tableau. D tier. That's all I give it. Now, something different. Data analytics in the public
+sector with R programming by University of Michigan. Now, the goal here is to use data to inform public
+policy. And so, it's more of a data course for government positions and public sector decision making.
+Definitely not for beginners. You should already know some programming and some data stuff. But if you are
+working with the public sector on data and if you want to focus on that, it's a good option. I'm not going to
+tell you it's a bad option. It's just not something that I would focus on when I'm [music] learning data
+analytics. But sure, it's a good side quest. I'll put it on B tier. It's not bad. It's just not useful for 99%
+of people. Moving on to Duke University and their data analysis with R. Now, this is actually a really good
+option if you're choosing R instead of Python because it kind of it goes deeper and it teaches you like the
+probability and statistics and other data concepts and statistic math concepts that play a big role in data
+science that people usually don't teach in short online courses. And I've said this many times, universities
+are a fantastic place to learn theory. They've been teaching theory since literally hundreds of years,
+forever. And Duke [music] is a top university. I've actually taken one or two math courses from them before
+online, and I highly recommend it. So, if you want to supplement it with some theory [music] and fundamentals
+that most kind of online learners and short courses and certificates skip, definitely check this one out. I'll
+put this one on E tier. And then we have an option nobody's talking about. And that's data analysis and
+interpretation by Wesleyan University. That is a four-course introduction to data science at only [music] four
+weeks to complete. Now, it's a good option, but there's nothing special here. I'll put it on B tier. You're
+better off just taking something else that I mentioned before. Now, if you want more certs for data analytics
+and AI, click this video right here because I covered the new trending hot ones right there. And also check
+the links in the description, and I'll see you in the next video.

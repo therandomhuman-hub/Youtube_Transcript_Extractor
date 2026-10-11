@@ -1,0 +1,109 @@
+Title: Nano Banana 2 is INCREDIBLE! - Everything You Need To Know
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: tgVAlQb3CJw
+URL: https://www.youtube.com/watch?v=tgVAlQb3CJw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:25:52+00:00
+
+Kind: captions Language: en Google just combined prolevel intelligence and super high quality images with
+lightning fast speed. Last year in August, Google's Nano Banana took the internet by storm and completely
+changed the way that we generate images using AI. Then Nano Banana Pro came along and combined studio
+intelligence with high levels of creative control. Just like chocolate and peanut butter, Google just dropped
+the best of both worlds with Gemini 3.1 Flash Image, aka Nano Banana 2. This is the next level of image
+generation, combining all of the intelligence and accuracy of the Pro models with the lightning fast speed of
+a flash model. If this is your first time here, my name is Sean, and for years, I've been helping Fortune 500s
+to save thousands of hours through process [music] automation. AI is what takes these automations to the next
+level. So, join along as we explore what you can do with Google's [music] Nano Banana 2. So, why do we
+actually care about this new drop of Nano Banana? Well, I've tested dozens of different AI image generation
+models, and in my opinion, Google's Nano Banana has always been number one. Now, why do we care about the Nano
+Banana 2? Because beforehand, we had Nano Banana 1 and we had Nano Banana Pro. Well, the benefits of Nano
+Banana 2 is that it takes all of the offerings from Nano Banana Pro, which is the advanced intelligent studio
+quality creative control, but it combines it with the speed of a flash model. So, it uses Gemini 3.1 flash
+image, which is the latest up-to-date one, and it combines the speed of a flash model with all the benefits
+that Banana Pro has to offer. So what are the actual benefits that we're talking about here? Well, the first
+category is the intelligence and visual quality. All done at insane [music] speeds. So kind of the first
+subpoint of that is advanced world knowledge. And what that really means is that it has real-time search
+capabilities. So you can search the web to get more accurate information for specific subjects. So um you know
+you can even ask it to create a visual of the weather forecast for today and it will show you uh based on your
+you know location and the day it will know kind of what the weather's like and it will create an image for
+you. So that's one part of it. Another part of it is precision text rendering. So text has always kind of been
+a struggle for AI and you know it used to kind of make jumbled garbage on, you know, whenever you wanted a
+title or some kind of description. But now with Nano Banana 2, the text is super super clear, which is amazing
+for information products or mockups or greeting cards, things like that. So if we take a look at a couple
+examples here, we can see the weather forecast or the weather uh cycle here and just crazy good quality. And
+the text here is amazing. Uh we can go a little bit further. We can see a whole different style here, but like
+more of a comic book style, but again, same uh really awesome quality pictures with really clear text. And you
+know, it's able to do web searches and really understand what these types of clouds are. Um you can see the
+quality difference here between Pro and Banana 2. Just a lot more 3D and vibrant. And here just the difference
+in text. This new one has very very clear text in a very um very aesthetic font here when over here you know
+it might have been another language or kind of uh jumbled. So the second category of benefits is enhanced
+creative control. So what does that mean? If we break it down a little bit further we can look at subject
+consistency. So you can have multiple different characters and objects to put all into one image with a ton of
+detail and you could storyboard it, meaning that you can kind of have it flow from one image to the next and
+it has great context and understanding of what was there previously and where you're trying to go. Now, a
+couple other points here is that it's better at following your instructions. It creates very high quality
+visually appealing images. So you can see 512 pixels to 4K which is amazing and um overall just a lot more
+vibrant and rich in the colors and in the textures and details. So here's a couple of examples of what I'm
+talking about. You can see this barn over here and there's multiple different characters and images that are
+provided. And it's smart enough to be able to put them all together along with the context of what you say.
+Right? It says joyful here and it creates an image that uses all of those in such high quality detail. And
+look at the textures in that too. That's that's amazing. If you take a look at a couple others, there's
+another example here where there is three input images and it puts it all together and it's able to storyboard
+it so that you can put the characters in multiple different scenes. This is an example of really high quality
+shot. Looks like a valley here with a water running through, maybe some kind of river. And this is the
+vibrancy in the colors, how they really, really pop. So, at this point, you're probably wondering how you can
+actually use NOPAN 2. So, there's actually a ton of different ways you can use it, and we're going to go
+through all of them so that you know how to leverage it anywhere that you work. First up is directly in Google
+Gemini. So, if you go to gemini.google.com, google.com. You can go in here and you can actually, this is how
+you can use their LLMs, like the Gemini models, but you can also use it to leverage Nano Banana Pro. And the
+way that you do that is if you go to tools, you can click create image with the little banana on there,
+there's a ton of different like, you know, preset ones. If I move myself here, I find that the best results
+come from when you switch this from fast to thinking. And then you can kind of describe what you want to
+create. Click enter and it will generate it. And I will go over an example of how I actually made the
+thumbnail for this video in a bit. The second spot is actually directly in Google on google.com. So there's
+this AI mode button over here that you can click and then if you press the plus sign, you could say create
+images and there's different options here, pro or fast. But then you can describe your image and it will
+generate it there. So super cool. It's directly on Google's main website. Next up, we have the AI studio for
+Google. So, AI studio.google.com. This is how you can use all their different um different AI models and check
+out like a dashboard of your usages and things like that. So, how that works is that over here you can choose
+the model that you want. You could see all of their Gemini models as well as the older Nano Banana models, but
+right here is Nano Banana 2. So, you can go ahead and click that and you can uh type in your prompt here and
+generate some images. Now, for you developers, you're probably going to want to know how you can leverage this
+in your code. And to do that, you would use the Gemini API. So, this is just a quick example of how you can
+use it to uh write Python in Python code. There's all different language examples here, but yeah, the basic
+REST API is to generative language.googleapis.com googleis.com and you just add your API key and you're able
+to, you know, do text to image uh text to image to image. There's multiple different examples on here of how
+you can use Nano Bernatan Pro in your code. If you are working in an enterprise, you may be using Google Cloud
+Platform and you may have deployed Vertex AI platform. So this is how you can host models in your Google cloud
+platform and in here Nano Banana Pro or Nano Banana 2 should be an option for you now to deploy and use. Now I
+haven't used this personally but Google hostslabs.google which is their product called flow which is a
+basically a storytelling uh creative studio that leverages the Google models. So you can generate videos and
+you can generate images but now you can use the high quality and speed of Nano Banana Pro directly in Google's
+flow. And the final spot is in anti-gravity. So again for developers this is probably one of the ways that you
+would be using nano banana too. So how does that work? you would basically u ask it a prompt when you're
+talking to the IDE and some of the use cases here are you know UI mockups for example um making a architecture
+diagram and just generating images that you might want to use within your application. So how that would work
+would be you just go into your IDE and you type it something here. You could say like generate a system
+architecture design and run it. So how have I actually used Nano Banana 2. So, I wanted to give it a shot and
+I decided to create it for my YouTube thumbnail for this video. And I started by actually asking um Gemini to
+create a prompt of a banana or the number two made out of bananas. And I wanted to add the Google logo on
+there since this is Google's product. I chose over here create image and again you want to choose thinking
+over here. And when I go ahead and run that, it created this image pretty quickly. And that's an awesome way
+to start. You know, this is super high quality. None of the bananas look like they are, you know, AI created
+and distorted. So, this was a great spot to start for my thumbnail. And then from there, I just kind of
+iterated off of that. You guys probably know who Punch the Monkey is. He's kind of an internet sensation right
+now. So, sent a picture of him in here with his doll, and I wanted him sitting next to it eating the bananas.
+And so, it created this super super cool. I went ahead and added the Google lo the Google logo. And I said,
+add a uh title called Nano Banana in yellow. Add it to my thumbnail in this font. And it did that. And then I
+thought, all the contrast isn't great. So, I said, add a slight shadow behind the title. And then it gave me
+this. So super awesome how you can just do little it can make a m like huge image generations like this number
+two or using references like punch the monkey in here. But you can also do slight variations like saying you
+know add in a title with a certain font or even just add a shadow and it knows the context of all the previous
+ones to iterate off of them and create something in the end. That's a pretty awesome complete product that I
+can use for my video. So, I encourage you to go try it out for yourself and see what is the best use case that
+you have for generating images with Nano Banana 2. If you want to learn a little bit more about new AI
+platforms like Perplexity and how they just created a brand new agent system called Perplexity Computer, you
+can go ahead and click the link that I'm linking over here. Otherwise, subscribe and I will see you in the
+next

@@ -1,0 +1,85 @@
+Title: Create Viral inspirational Stick Figure Videos with Free AI Tools
+Channel: AIpreneur
+Type: VIDEO
+Video ID: FyrJD6LqGEc
+URL: https://www.youtube.com/watch?v=FyrJD6LqGEc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T17:57:49+00:00
+
+Kind: captions Language: en Imagine making videos that pull millions of views using nothing but simple stick
+figures and inspirational [music] topics. No fancy camera, no expensive software, just you, AI, and a system
+that works. One channel did exactly this. Over 3 million [music] views with less than 30 uploads. And today,
+I'm showing you their entire playbook. Welcome to AI Prreneur, where we make AI your business partner. I'm
+breaking down the exact process behind these viral inspirational channels, the ones earning $1,000 to $3,000
+monthly just from inspirational videos content. And the best part, once you learn the system, each video takes
+about 2 hours to make. By the end of this tutorial, you'll know exactly how to find viral topics, generate
+visuals, and produce videos that can actually scale. This self-improvement niche is trending right now. Your
+audience are students and young ages between 15 to 27 hungry for self-improvement content. We are talking
+about a massive market that keeps growing. Let me show you what we're building today. A proven viral topic
+from successful competitors. A complete script optimized for engagement. AI generated inspirational scenes
+that match your script. Professional voice over without recording yourself. A fully edited video ready to
+upload. Everything I'm showing you uses free AI tools, and I'll give you every prompt you need as we go. Let's
+get started. Step one, find your viral topic. This is where most creators fail. They guess. We don't guess, we
+research. Go to your top competitors in this niche. Look for videos with hundreds of thousands of views. Copy
+five to 10 of their popular videos. Now, open chat GPT and paste this exact prompt. all prompts in link in the
+description. Chat GPT will analyze the patterns and give you brand new angles based on proven topics. Pick the
+one that excites you most. I'm choosing why waking up at 5:00 a.m. won't make you successful. Step two, write
+your script. Now, we need a complete script. Paste this prompt into chat GPT. Chat GPT will generate a
+complete script. Here's the key. Don't just copy paste. Read through it. Rewrite sections in your own voice.
+Add personal touches. The difference between 10,000 views and 500,000 views is authenticity. Make it sound
+like you actually care about helping people. Save your finalized script. We'll need it for the next steps.
+Step three, generate image prompts. Now, we need visuals for every scene in your script. Paste this prompt
+into chat GBT. As I said, you find all prompts in description. Chat GBT will break down your script scene by
+scene and create an image prompt for each one. Copy all these prompts. You'll need them in the next step. For
+this tutorial, I'll demonstrate with just one scene to keep things simple, but you'll generate images for all
+your scenes. Let's move now to next step. Step four, create your visuals. Head over to Whisk AI. This is a
+free image generator from Google. Take your first image prompt from chatgbt and paste it directly into
+whisk.ai and hit generate. You'll get two options. Pick the one that best matches your vision. This becomes
+your base character style. Here's the trick for consistency. Download your first image and paste it into the
+object box. Now, paste your second scene prompt into the prompt box. Whisk will generate a new image using the
+same character style as your first image. This is crucial. It keeps everything visually consistent across your
+entire video. Same stick figure, same art style, different scenes. Repeat this process for all your scene
+prompts. Once all images are generated, click the threeline menu in the top left corner and select download
+all images. You'll get a zip file with everything. Extract it to a folder on your computer. Your visuals are
+done. Now, let's get our scenes talking. Step five, create your voice over. Now, let's create the voice over.
+I use 11 Labs. You get 10,000 free characters per month, which is perfect for starting out. Go to the voice
+library. Listen to your competitor's videos and match their tone. For this niche, calm and confident works
+best. I'm using Atom. It has that clear, trustworthy tutorial vibe. But explore the library and find what fits
+your style. Paste your clean script into 11 Labs. Break it into natural paragraphs where you'd want slight
+pauses. Hit generate. 11 Labs will create your voiceover in about 30 seconds. Listen through the entire thing.
+>> Everyone says, "Wake up at 5:00 a.m. and you'll be successful." But here's the shocking. >> If anything
+sounds robotic or has weird pronunciation, edit that line in your script and regenerate just that section.
+Once it sounds natural, download the audio file as MP3. Save it in the same folder as your images. Now, let's
+move on to the final stage where we put everything together. Step six, edit your video. Open Cap Cut. The free
+version works perfectly for this. And start a new project. Import all your images and your voiceover file into
+Cap Cut. Drag the voice over into the timeline first. This is your foundation. Everything else will be built
+around it. Go through and cut out any dead space at the beginning or end. Remove any long pauses that feel
+awkward. Now, start adding your images above the voiceover track. Listen to what's being said and drag the
+matching image to that point in the timeline. The visual should always support what's being spoken. For
+example, if your voiceover says, "Most people think waking up early is the key," show your stick figure waking
+up early. Trim each image so it only appears while its relevant section is being discussed. You don't want
+images hanging on screen too long. This is what separates amateur videos from professional ones. Add subtle
+sound effects. Use soft whooshes for transitions. Add light clicks or taps when stick figures perform actions.
+Keep them subtle. They should enhance, not distract. For background music, use something calm and minimal. Go
+to YouTube's audio library and search chill or ambient or study music. Download something instrumental with no
+lyrics. Drag it into your timeline under everything else. If the music is too loud, viewers will leave. They
+need to hear the teaching clearly. Keep transitions simple. Select two clips and add a fade or dissolve
+transition between them. For longer scenes, use both fade in and fade out. For quick cuts between similar
+scenes, just fade in. And finally, add auto captions to scenes. Cap cut has an auto caption feature. If you
+want captions, click text, then auto captions, and select your language. It will generate captions from your
+voice over. go through and fix any errors. Style them simply white text with black outline or yellow text with
+black background. Captions help with watch time, but they're optional for this style. Once everything looks
+good, click the export button in the top right. Set your resolution to 1,80p HD. Choose 30 frames pers 264
+format. Hit export and wait for it to process. Your video is now ready to upload. Everyone says, "Wake up at
+5:00 a.m. and you'll be successful." But here's the shocking truth. Most people who wake up at 5:00 a.m.
+[music] are still stressed, tired, and stuck. So, the alarm isn't the problem. The system is waking up early
+doesn't matter if your brain isn't [music] ready. If you sleep late, scroll your phone. Let's recap what we
+just built. Viral topic from competitor research. Complete script optimized for engagement. AI generated stick
+figure visuals with consistent style. Professional voice over from 11 Labs. Fully edited video with sound
+design. Your first video will take a few hours. The second one faster. By video 10, this becomes automatic.
+Success on YouTube isn't about one viral hit. It's about building systems that scale and compound over time.
+Start with just one video today. Pick your topic, follow this system, and post it. If you found this helpful,
+hit that like button, subscribe to AI Prreneur, and drop a comment below to tell me what AI video niche you
+want to try next. And if you want to create more videos like this one, check out this video. See, thanks for
+watching and see you next video.

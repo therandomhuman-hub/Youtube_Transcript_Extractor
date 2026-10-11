@@ -1,0 +1,184 @@
+Title: Claude Code DESTROYS Web Design with Stitch 2.0
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: uCNjVecbJIw
+URL: https://www.youtube.com/watch?v=uCNjVecbJIw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-11T18:17:15+00:00
+
+Kind: captions Language: en Google just released brand new updates to its Stitch design tool, and I don't
+think it's just another AI hype trend. I've been playing around with it for a few days now, and in under an
+hour, I was able to put together this super modern-looking redesigned website for a brand. And it was all just
+using two AI tools, Claude Code and Google Stitch. In this video, I'll show you exactly how I did it so you
+can follow along and build one for yourself. If you haven't heard of Google Stitch, it's one of the newest
+tools to come out of Google's AI lab. And it's used to make beautiful front-end designs for websites and apps.
+But recently, they came out with a few features here that take it to the next level. You're able to type or
+speak directly into a chatbot on the site that will create these designs on a AI native canvas. Then creates a
+design system so that the design agent knows what colors and fonts to [music] use for the branding. This
+design system is accessible via a markdown file that can be exported and used for other AIs. There's also the
+ability for instant prototypes. You can walk through the actual experience of using your app, and we'll be
+going over all of this in this [music] video. So, first things first, before we go ahead and start designing,
+we need to pick a website that we want to use as a reference. So, I'm on Stitch here, but let's go over to
+Pinterest. This is where I find the best designs to be. In case you want some other options, there's also
+Dribbble, which has some pretty cool designs as well. This is for the web, but there's also mobile design, so
+it really depends on what you're trying to build, right? If you want to build a website or a web app versus a
+mobile application. So, in this case, we're going to build a web design, so I have the web design Pinterest
+pulled up here, and I'm just going to scroll through and try to find something that I like. All right, so I
+found this design here, and it looks like it's for a travel site because it has, you know, discover, a couple
+different locations here, and a few pictures around. I don't know, I think it looks cool, so we're going to go
+with it. And what we're going to do is zoom out a bit so we can take a screenshot. So, let's get the whole
+thing in here. So, I'll go ahead and I'll screenshot this whole thing. Cool. So, then we'll head back over to
+Stitch, and I will paste it in here. Now, this is one of the main benefits of Stitch because you could just
+copy and paste reference images straight into the chat. Now, this isn't possible with Claude Code because it's
+mostly a text-based interface in a terminal, right? It can't really reference images and use that to generate
+designs well. So, Stitch is going to be amazing for coming up with really aesthetic designs that we can then
+import with Claude Code to set up a much more aesthetic website rather than if we were to go straight with
+Claude Code from the start. And since we're going to make a website or web app, I'm going to switch this over
+to web. So, not-so-fun fact, last weekend, I went skiing in Vermont, and I lost my ski gloves, and that got me
+looking for different ski gloves that are the best, right? And I found this website, Hestra, that has really
+good ski gloves. So, this is going to be what we're designing the website for. The cool thing about Stitch is
+that we can just copy this website, go over here, and add it as a reference. So, we'll go ahead and do that.
+All right, so let's initialize the project by typing into this prompt right here. So, I'll say, "Can you
+create a new website designed similar to the image that I attached in that style, but for the website that I
+added as a source here?" And let's go ahead and run that and see what it comes up with. So, it's still working
+here, but you'll notice that the first thing it actually did was creating this design pattern, which is super
+awesome. It's like a brand pattern that you can use not just for this project, but for any project that you
+want. And if it's creating more pages, it's going to use this brand outline as a starting point for what it's
+going to make. So, if we take a look at this, it's actually pulling this straight from the Hestra website. And
+this is how it's grabbing its design patterns. It analyzes the website, and it pulls that into here to get the
+fonts, the colors, the primary colors, secondary colors, all of that good stuff. All right, so it finished
+generating an initial image, but before we hop into there, it's cool to note that Stitch is like an infinite
+canvas layout, so you can keep adding more into it. It's similar to like N8N, and I think Figma has a pretty
+similar interface as well. But it's cool cuz it it allows you to just add all of your design patterns, all of
+your screens in one spot. Now, if we take a look at the actual website page that it created, we could see it
+has the home image here, and a couple of information about the products underneath, some more information
+here. So, it looks pretty good, but it's not really the exact pattern that I was looking for with this design
+here. So, let's go ahead and let's try that again. So, there is a voice mode here that we're going to try out.
+And I'll click on that. Hey, so I was hoping that the homepage and all the content that's on the homepage
+would look more like the design in image.png. Can you redesign the homepage so that it looks more like the
+reference image that I provided? So, I iterated a couple of times, and it was really having trouble with the
+top section here. If I zoom in a little bit, I ended up cutting the reference image short so it can focus on
+just the top section. And after a few times, it ended up with this, which it isn't perfect, but it's good
+enough for me. And what I want to do next is I want to delete the other ones cuz we're not going to be using
+those anymore, and we want to keep the one design pattern as well. And we're going to keep using this design
+pattern as well, the Alpine Heritage one. So, if we go ahead and speak into here, Hey, what are we designing?
+Hey, I like the design of the Hestra Refined Here section using the Alpine Heritage design pattern. Can we
+spin up a couple more pages that would be on this website so I can see what the design would look like for the
+whole site? Absolutely. That sounds like a killer idea for consistency. Let's create some essential pages,
+like a product listing page, detail page, and navigation, all drawing from the Alpine Heritage and the Hestra
+Refined Here section. All right, so use that theme, and it generated a few more pages for our website here. We
+got the story section. Looks pretty good. Kind of cool, it goes through the history of Hestra. Then we got the
+looks like if you just click on a specific collection, so the Alpine collection, what that looks like with
+multiple products on that page, and then an individual product, what it looks like for how you can add it to
+the cart, different information about it, and also some suggestions. So, that looks super good to me. I'm
+happy with it. One of the features I want to try out here is that you can create prototypes so we can see how
+the app would function without actually fully building it out. So, I'm going to go ahead and connect and
+preview it with instant prototypes. All right, so the prototype finished generating here, and you can see it's
+pretty cool. It's like an interactive version of the site, but just off of the designs that we made. So, you
+can test out all the different functionalities of the pages that we created. And there's our homepage here
+with the three different sections. We could keep going down, individual items, our story. So, let's go ahead
+and click on the Alpine section, and here's our page about the Alpine section. And we can click on an
+individual item and see what that looks like, too. So, super cool. It's pretty much all the functionality that
+Figma gives you, but a lot more AI-enabled, so we can see what the whole thing works and looks like before we
+build out all of the code for it. Now, one of the things I want to mention has to do with the design patterns.
+And if we take a look at the Alpine Heritage one that we've been using, there is a design.markdown file, and
+this is basically all the instructions and rules for how to use these designs with the colors and the fonts
+and all of that. So, you can just go ahead, copy that, and you could start using this in other places that use
+AI. So, for example, with Claude Code, we could pop in this design.markdown file, and we could allow it to
+create new pages based off of this design pattern. So, what I want to do next is open up Claude Code and test
+out creating new pages and code for this website. First, just using the design.markdown file, and second,
+connecting it to Google Stitch so that it's able to pull the code from these designs that we created, and use
+that to make a website, and we'll see what the difference looks like. So, first to do this, we will open
+GitHub. And if you don't know what GitHub is, it's basically just a code repository that stores all of your
+code so you're not just keeping it on your computer. And this is especially useful if you're working with
+other people, or if you want to deploy your website and make it live, like we're going to show in this
+example. And the reason is because we'll use something called Vercel that connects directly to GitHub. But
+what we want to do is go to repository, and we're going to create a new repository. I'm going to call this one
+Stitch demo. Call it Stitch demo. And we're going to add a readme file to initialize the repository. So, that
+should create the repo, and then we could just hit click code and this copy button. Then if we open up a
+terminal, you can put it anywhere you want on your computer. For me, I have a folder called GitHub that I put
+all of my code repos. And once you find that location that you want, you just need to type git clone and paste
+in that URL, and that will add it to your computer. Then you can open up in any code editor that you like to
+use. For me, I use Google Anti-Gravity because I'm pretty immersed into the Google AI suite at this point with
+Flow for Nano Banana and Vayo, now using Stitch, and then as well as Anti-Gravity. So, now a shortcut to open
+up Anti-Gravity for your repo is to type AGI and then put the actual repo name. What that will do is just open
+it up in Anti-Gravity for us to use. And there it is. Awesome. So, the first thing we want to do is open a
+terminal, do new terminal, and we're going to type Claude in here to start a Claude session. Sweet. So, now we
+have Claude open. And the next thing we're going to do is create this design file. So, we'll do new file,
+we'll say design.md, and we're going to go back over to our Stitch, and we're going to copy the design.md
+file. We'll go ahead and paste it in here. Like I mentioned, first thing I want to do is to create a website
+based on the design.md file. So, before we start typing into Claude, I also created this instruction.md file.
+And what it does is tells Claude code to use the design file that we gave it and use the reference website. It
+also is about 500 lines long of best practices to use when creating a modern website. So, best tech stack to
+use, how to do branding and language, and all things like that that you don't really want to think of every
+time you're creating a website. So, if you want this instructions.md file, I added a link in the description
+to all my free resources. You can go ahead grab it there completely for free. So, next steps we're going to do
+is actually ask it to create this website. So, what we're going to say is "Hey Claude, can you go ahead and
+create this website from the link that I'm going to give you as a reference? In order to know how to make it,
+use the instructions.md file in this directory." And then we'll go back to here. We're going to copy the
+Hester website. All right. And we'll paste that in right here. Cool. So, we're going to run that, and let's
+see what Claude cooks up just based on the design.md file. So, Claude just finished creating the website, and
+it started it here on localhost 3000. So, if we go back to the browser, I actually opened it up here. You can
+see it's using the colors from the design.md file that we gave it, and it's using the fonts and everything,
+but there's really not that many images here, and it's bland, you know? It works, but I don't love it. It
+needs some pictures, needs some more personality in here to really represent the brand. If we go back to the
+Stitch file, this is really a much better representation and something that I would want to build for myself
+or build for a client as well. So, what we're going to do is instead connect directly to Stitch. And the way
+that we do that is by using the Stitch MCP. And if you don't know what MCP is, it stands for model context
+protocol, and it's just how AI connects and talks to different systems. So, if you've familiar with Claude,
+that's similar to using connectors on the desktop app. But we're going to do it through the Claude code setup
+here. So, they actually have a section here for Claude code, and we first need to create an API key. So, if we
+head to our settings here, you can see the URL up here, we need to create a key. So, we'll create that, and
+there it is. I'm going to copy that, and what we need to do is paste in a certain command. Uh oh, here's the
+right command. So, it's going to be Claude MCP add Stitch with the transport here and the header. So, I'm
+going to copy this over. If we go back to Anti-Gravity in our terminal, let's open up a new one because we
+don't want to It's not in Claude, right? We're just doing it in the terminal. We paste that in, and what I'm
+going to do is delete this and run uh that API key that I did. So, I'm not going to include that in the video
+cuz I don't want you guys stealing my API keys and secrets here, but I will come back to you after I run that,
+and we'll see the result. All right. So, I just ran that command, and in order to take that into effect, we
+need to close Claude, and then we will open it back up, and we should start to see it in our MCP. And the way
+we can check is by typing {slash} MCP, and we should see Stitch right here, and it's connected. Perfect. And
+if we want to take a look at the tools, we can see creating project, getting a project, all these different
+functions that we can do now connecting to Stitch. So, what I'm going to do is I'm going to delete pretty much
+everything that we just made because it didn't even look that great to begin with. So, I'll delete those two
+folders, and we are going to rerun this now with the Stitch connection. All right. So, I just renamed the
+project to Hester here, and we're actually going to tell it to use the design.md file again because that's
+coming directly from this design template. So, let's go back to Anti-Gravity and where we have Claude open,
+and I'll say, "Hey Claude, can you use the Stitch MCP to access my Hester project, and I want you to create
+the designs that are in there, all the different pages. And for the design templates, you're going to use the
+one that's currently in this directory called design.md." Cool. Let's go ahead and run that, and it should
+start trying to use the Stitch MCP tools. So, Claude just finished creating the new site using the Stitch MCP,
+and you could see it's a lot better than the one that we had before. It actually copied the hero section, and
+it added in the three different sections that we had earlier, the Alpine, outdoor, and dress. And it looks
+just a lot more similar to what we had on Stitch. It's not perfect, you know? This one is a little bit larger
+up top here, and in my opinion it looks a little bit better, but it's pretty close. It's pretty close. And
+it's functioning, so we can go ahead and click on shop, and it will bring us to the Alpine collection here.
+Not everything's functioning, but just the ones that we built out already. So, I think also if we go to our
+story, we built that one out. Yep, that's what we had in the design as well. So, you can kind of see the
+vision here on how you can connect Claude code to Stitch to pull all that higher quality, more premium-looking
+front-end design as opposed to if you just built something in Claude code to start, or have something in
+Stitch that isn't actually deployable. So, we're combining the two together to get good quality design with
+something that actually works. So, in order to deploy, we first need to commit our code, which basically put
+it pushing everything back up to GitHub from our local computer. So, all we got to do is go into this section
+here in Anti-Gravity or whatever your code editor is, generate a commit message, and this should just describe
+everything that you're doing in this commit. Then we'll actually commit the code and sync it up to the Git
+repository. So, what I'm going to do now is show you how to actually deploy it. And to do that, we're going to
+use a site called Vercel, which makes it super easy to connect your GitHub and deploy your apps. So, if we go
+to the Vercel dashboard, we can add a new project here, and we should be able to link straight to the Stitch
+demo. All right. Looks good. And let's go ahead and deploy it. And it's simple as that, just one button. So, I
+will get back to you once finished deploying. All right. So, our app is deployed on Vercel now, and you can
+see it right here. And if we visit the site, you can see the actual URL is stitch-demo, bunch of
+characters.vercel.app. So, that's how we got it live, right? Now it's on a real URL that anybody can access.
+If you want to set your own domain, then you can go over here to the domains section, and you can go ahead and
+buy a domain if you want. You can search one in here. So, if you wanted to do like Hester or something like
+that. I mean, those are unavailable cuz they're taken, of course, but we can add one here, or you can add one
+that you already own from another source by doing add existing. And I go over this in a previous video that I
+made uh that I will link right here. So, my overall thoughts on Google Stitch is that it is pretty good. You
+know, if I'm going to be developing application and I want a nice-looking front-end, then Claude code on its
+own can get you pretty far, but to get it to the next level where it's super aesthetic and exactly how I want,
+then Google Stitch is probably a better way to go. And I can see myself using it for this purpose [music] in
+the future. So, hopefully you enjoyed this video, and you learned some things for yourself on how you can use
+these [music] AI tools. Again, all the free resources are linked down below in the description. If you're
+interested in using these Google AI tools along with Claude code, then I also created a video on how to create
+animated websites using Claude code and Nano Banana with Vayo, and the link to that will be right here.
