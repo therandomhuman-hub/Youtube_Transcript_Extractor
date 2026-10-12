@@ -1,0 +1,37 @@
+Title: OpenClaw just turned AI into a platform and launched what feels like the next App Store for AI
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: DNfnGNPXATE
+URL: https://www.youtube.com/watch?v=DNfnGNPXATE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:20:10+00:00
+
+Kind: captions Language: en In 2008, Apple revolutionized how we interact with our phones by introducing the
+App Store. That's because it turned it from something where you can only take pictures, send texts, or make
+calls into a platform where you can interact with anything at the tip of your fingers. Well, the same [music]
+thing just happened for AI in 2026 with Open Claw. If you haven't heard of OpenClaw, it's basically a personal
+AI assistant that runs on your computer and can do anything that you can do. The super cool part about it is
+that you can interact with it on any chat. So you can send it a message on WhatsApp and then it could reply to
+you on Slack [music] and then you could follow up with it on Telegram if you want. And it persists memory
+across all of those. So it always remembers what you're talking about and the kind of tasks that you complete.
+But the best part are these skills and plugins because [music] that's how you can interact with pretty much
+anything and anybody can create a skill and plugin that you can download for yourself. So, how does this
+actually relate to the app store and what Apple's built? Well, if we take a look at Apple's uh platform
+economy, it's broken up into kind of three different steps here. There's the underlying technology, which is
+the iPhone and what people actually interact with. At the top, there's the offers. In this case, there are the
+applications that people can make. And then in the middle is the platform, which is how they're distributed to
+people who use the iPhone. If we take a look a little bit further, instead of just Apple being able to post to
+the [music] app store, you now have independent developers who can make money and post [music] these
+applications onto the platform which can then be distributed and used by anyone [music] who has an iPhone. Now
+the same thing applies to AI and how it's working with openclaw right now. So the underlying technology is
+openclaw which you install on your machine. The platform is Claw Hub where you can find all the [music] skills
+and the top level offers are the skills themselves. So you can have it watch a YouTube video, get the
+transcripts, create a Google slide and put it in a drive and send it to you over Slack. If we take a quick
+look at Clawhub, [music] you can see there's actually a ton of different skills on here and they're super
+lightweight. So let's find one that is highlighted here. So let's take a look at the Slack one. Most of the
+time it's just one file, the skill.md file that has a name, a description, and then actual instructions how to
+use it. So, super lightweight, super easy to use, and you just take this and add it to your uh Open Claw so
+that it can now interact with Slack. Diving a little deeper, it's the same thing where now instead of open AI
+telling you what you can do with AI, independent developers can add their skills to Clawhub which can then be
+distributed and used by anyone who [music] is running Open Claw.

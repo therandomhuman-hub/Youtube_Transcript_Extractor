@@ -1,0 +1,16 @@
+Title: Fixing AI Agent Errors Like a Pro ⚠️🤖 | #Shorts
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: VdUTAt5cpK0
+URL: https://www.youtube.com/watch?v=VdUTAt5cpK0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:22:54+00:00
+
+Kind: captions Language: en So, if you're running into an issue where your AI doesn't respond because of a
+failed tool, I recommend making these changes. You can see here I'm calling my AI agent with these tools. In
+my tool, I implemented try catch where I'm trying the service, the API call, catching any errors, and then
+returning the message from that error. I also recommend in your system prompt in the tool section to include
+an a section where it says in the event of a failure respond to the summary of the error and explain it in
+simple terms. So that now when I provide the incorrect API key in my chat you could see it returns a response
+like this.

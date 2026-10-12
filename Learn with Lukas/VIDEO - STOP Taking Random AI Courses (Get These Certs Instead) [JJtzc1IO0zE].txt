@@ -1,0 +1,157 @@
+Title: STOP Taking Random AI Courses (Get These Certs Instead)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: JJtzc1IO0zE
+URL: https://www.youtube.com/watch?v=JJtzc1IO0zE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:51:11+00:00
+
+Kind: captions Language: en AI is moving quickly and universities can't keep up. Students graduate without the
+right skills, but anyone can learn AI and become job ready by taking the right certifications. Industry
+recognized certs that lead to high-paying AI jobs, jobs that are future-proof. Now, I'm going to show you five
+AI certifications for beginners from companies like Nvidia and Microsoft, real certs that you can proudly
+showcase on your LinkedIn or on your resume, and recruiters love these. So, let's begin. Now, first up is
+going to be Amazon's AWS Certified AI Practitioner. And this is kind of like the king of AI certs. Now, it's
+perfect for beginners, highly respected, and still pretty easy. Now, Amazon, full disclaimer, they have a lot
+of certifications, but this is their only real AI search, and it's made to, quote, "Unlock new career
+possibilities." And we'll talk about that. All you do is you head over to the AWS website, which I'll show you
+on the screen, and you will find the exam overview with some basic info as well if you're interested. The
+category is going to be foundational, meaning it is for beginners, according to Amazon themselves, and all you
+need is some basic training, which I'll show you as well. The exam takes about 90 minutes, or you have 90
+minutes to complete it, and it comes with 65 different questions. Now, don't panic here, it's mainly going to
+be these kind of multiple-choice style questions where you just pick one of the multiple choices. And the
+price is going to be $100, which could vary depending on your region, so do check that later as well. Now, the
+biggest question is who should get the cert? You don't have to be an expert, relax, but you should be kind of
+familiar with the basics of using AI and machine learning technologies on AWS. So, using AI and ML stuff on
+the AWS Amazon platform already. To make this extremely simple, you need to kind of learn the basics about AI,
+but you don't need to build any of the solutions or something like that yourself. You just need to have the
+knowledge of how it works. And that's why it's really good for beginners. It's about understanding AI, machine
+learning, and Amazon's ecosystem all in one, so it's perfect for lots of different people, and a lot of
+companies use that ecosystem as well. I'll give it a final score of 7.5 out of 10. Let's move on. Next up is
+going to be a certification by Nvidia. Now, these guys dominate AI, and they make the graphics cards and chips
+that the entire AI boom relies on. And literally, without Nvidia, no data centers, no AI, and I mean, the
+economy would collapse. And they literally control more than 80% of the market and became the first company on
+the planet to surpass a $5 trillion market cap, which is a lot of money, and it's more than Apple, Microsoft,
+Google, any of these guys. It's pretty insane. And they just launched Nvidia Certified Associate Generative AI
+LLMs. That's a long name. But all you need to know is the cert is going to be entry-level, and it validates
+basic skills for building AI applications, or so-called AI apps. And you're going to be using a generative AI
+and a large language models like ChatGPT, Claude, Gemini, etc. And it only takes 1 hour and costs $125 for the
+exam fee, which is going to be a one-time fee, so if you do fail it every single time, it's going to be
+expensive, but if you just listen up now, that's not going to be a problem at all. The exam contains about 50
+to 60 different questions, and all the questions are going to be multiple choice, which is really good for us
+because it means you don't need to, you know, reason a lot or build some applications or write lots of text.
+It's literally just multiple-choice questions, which is pretty simple if you have the knowledge. And the only
+prerequisites are a basic understanding of AI and large language models, or LLMs. And once you pass it, you
+will get a badge, and you can also print out the certificate if you want to. It's going to be valid for 2
+years, or I mean, your paper is going to be valid forever, but you need to be able to verify it, which means
+that if you, you know, if you want to apply for a job or something, it should be more than enough. And if you
+simply want to activate it again, you just take the exam again. But I think you do have to pay, so, you know,
+we'll see how that works. A bit further down on the page, you're going to find a couple of ways to prepare,
+and also a free study guide. Now, there are a lot of different topics in the exam, but it's mainly just
+fundamentals about integrating AI over here into applications over here. Basically, AI-powered or AI-driven
+applications, which are very popular right now. So, you're basically taking AI and throwing it into another
+application to make it useful. So, there's going to be some programming, some machine learning, but still kind
+of on a foundational level, and you're not going to have to build a lot of the complicated stuff yourself or
+something like that. And remember, the exam is multiple choice, so you're not going to be writing code or
+building an app on the exam. It's just about repeating knowledge, or hopefully understanding it, too. But who
+should take the certification in the first place, right? Why is it worth taking, in my opinion? Now, it's
+recommended for people working any of these jobs who want to get a better understanding of AI and also get
+certified, but it also works for beginners who want to enter one of these roles in the future. And just really
+quick, before we cover the next one, I do want to explain what the exam is going to be focused on, so you can,
+you know, have a good idea of how it's how it's going to work. So, 30% is going to be core machine learning
+and AI principles, and just basic understanding of the field. 24% is going to be software development with
+some programming as well. There's going to be 22% experimentation with AI and software. There's going to be
+14% data analysis, and 10% trustworthy AI, which I guess is kind of something about ethics or reliability, but
+it's only 10%. So, really, a great option by a well-respected company. I mean, just look at their CEO right
+here on the screen, the coolest guy in tech right now. So, I'll give it a 7.5 out of 10. It's a pretty good
+option, not perfect, let's move on. Okay, moving on to Microsoft, one of the biggest companies ever, and this
+cert is called Microsoft Certified Azure AI Fundamentals. And it's beginner level and for, surprisingly, the
+AI engineer role. So, if you want to become an AI engineer, it's a pretty good cert to take. Now, AI engineers
+are often misunderstood, and they're kind of mixed up with machine learning engineers and other forms of tech
+roles. But basically, a really simple explanation is that machine learning engineers build the underlying
+models, and the AI engineers, they take these models and they build functional applications using these
+already created models. So, keep that in mind because you don't want to spend time on the wrong career or take
+like an ML course if you're actually into this stuff or take like an AI course if you're into this, it's just
+a waste of time. Of course, it can overlap as well. It's just important to know what you're doing. And this
+cert is going to be about demonstrating fundamental AI concepts related to the development of software and
+services of Microsoft Azure to create AI solutions. And that's a long sentence, I'll break it down for you.
+So, what they basically mean is they'll test you if you know the basics of AI and you know Microsoft Azure.
+That's it. It's two things, AI and if you can do that with Microsoft's Azure suite or their tools. You don't
+need a technical background, you don't need data science or software engineering experience, and there is
+actually a free learning path here, which is about 11 hours long, as well as a free practice assessment and a
+free exam sandbox. So, you can kind of just dabble around and try it out for free before you take the exam
+because that's going to cost you. And the exam takes about 45 minutes to complete, which is very, very quick.
+It's one of the fastest certifications I've ever seen, and costs about 99 US dollars per attempt. Now, again,
+the price is going to vary a bit depending on your region, so some countries might have lower prices. I don't
+think it's going to be higher prices than the US, but generally speaking, it's just going to vary depending on
+the region and the country, so keep that in mind. And if you fail, you'll have to pay it again, so listen up
+now. Here are the five things being assessed. It's just five things, but, you know, it's quite a lot a lot in
+the five things. The first thing is to describe AI workloads and considerations. You're going to have to
+describe fundamental principles of machine learning, some computer vision, NLP, and generative AI. And all of
+these things, again, focus on Microsoft Azure, so you're kind of just doing and learning AI stuff with
+Microsoft Azure. That's it. This is how the exam is going to look like when you take it online, and it's a
+pretty simple window, and it's just primarily multiple-choice questions. You can see your time remaining on
+the screen, and you're being monitored by a proctor throughout the test, so somebody's going to be watching
+you, um, which might sound creepy, but it's just so they can know that you're not cheating. But I recommend
+just taking a practice exam first because it's free, and that'll give you a good understanding of the tools
+and kind of what you can expect on the exam before you take it. You don't want to jump into an exam and a
+certification too early, especially when you're paying for each attempt. You want to pass it on the first try.
+So, I'll give this one an eight out of 10. It's good for beginner level, so if you're kind of aiming for an AI
+engineer job, it's a really good option, but you are going to need one of their more advanced certifications,
+too, so do stick around because it's a great start, really good, but especially for these jobs that are very,
+very technical, you're going to need some more things, right? So, next up, we have BCS, which stands for the
+Chartered Institute of IT. And, if you have never heard about them, that's fine, but they used to be called
+the British Computer Society back in 1957 when they were founded. So, yeah, they've been around quite a while,
+especially in the tech space, which is reasonably new, especially the IT space, I should say. They're based in
+London in the UK, but they operate worldwide, and their certs are really, really interesting. I don't see a
+lot of people talking about them. They're a little bit hidden, but they are quite prestigious and well-known
+as well. They have a bunch of different AI certifications for all different levels, and on this page, for
+example, you can see their entire portfolio, which starts with something called an AI pathway. We also have
+the foundation level, which is a foundation certificate, and also a certificate focusing on the ethical build
+of AI. So, I'll be completely honest, when I look at this, I'm already confused, and I think a lot of us are.
+This page in general is just very confusing. Which one do you start with? What do you take? What are you
+supposed to do? But it's actually pretty simple after spending some time analyzing it, so it's not that
+simple, but I'll explain it now for you. The pathway is kind of like a longer mix of smaller certifications
+and different exams that all work together as a part of the path. So, it's kind of like if you're used to
+Coursera, it's like a professional certificate, but with more exams and a bit more formal because you can't
+just, you know, take them online super quickly like that. It's more scheduling and real exams and that stuff.
+Now, the other part, the essentials and the foundations one, are what I recommend for most people because
+they're more instead of like a really long complex path, they're you can either take directly or you can kind
+of pick a specific course or learning path provided by them. So, you can choose. I'm going to leave it there.
+I'm not going to go into more detail because honestly, I think it's a good option, but I don't recommend it
+for beginners and I don't recommend you start here. It's just good to know for later stages, but you should
+have a very specific reason to take one of these certs over the other ones which are more popular. They're
+just easier to get and in general, if you only have a limited amount of time which we all do, we're busy, I
+wouldn't recommend you to spend it here, honestly. And that's why I'll give it only a six out of 10. Next up
+is going to be Oracle. Founded in 1977 and based in Austin, Texas, it's one of the biggest tech companies in
+the world. Now, you probably recognize their name, but most of their products are kind of hidden behind the
+scenes and unless you're working in a company that's using one of them, you're probably not that familiar with
+these technologies because you just don't meet them in the wild unless you're working with them in
+specifically like bigger companies usually. They sell database software, cloud infrastructure, hardware, etc.
+Often for these business cases are kind of like enterprise and they have over 162,000 employees and they're,
+you know, a giant company. Anyway, enough rambling. They also have AI certifications now and free courses for
+literally all levels, whether you're a beginner, you're an intermediate, or you're an advanced, there's
+something for you. So, let's choose certification and here are the different options. The first category is
+very simple. It's just getting started with AI which is unsurprisingly just about introducing AI and about
+different Oracle softwares and it's called Oracle OCI Foundations Associate which is a learning path and with
+a certification at the end. Again, kind of like a professional certificate on Coursera or edX and it's about 6
+hours and 39 minutes. And the next area is going to focus on generative AI and of course, you know, using
+Oracle software again and this one is going to be 7 hours 40 minutes, so also pretty short. And then there's
+some other things about cloud applications, different advanced stuff, some intermediate, and it's just always
+going to be using Oracle software. And there's also category with some AI, machine learning in Oracle cloud,
+database certs, one about the, you know, for data science professionals and building apps with AI. A lot of
+different options and it really depends on your situation. It's hard to tell you which one is the best because
+if you're into data science, if you're into software, if you're into cloud, you're going to have a very
+different selection here and the best one for you is just going to vary depending on your situation, but
+there's a lot of options, so I highly recommend that you check them out. The best one for beginners, if you
+have no specific preference, is going to be the Foundations Associate which is basically tailored for complete
+beginners. So, it's a good resource where you can both learn and take certifications from Oracle online. Just
+make sure Oracle is the right option for you because everything focuses on Oracle just like if you're learning
+from Microsoft, everything's Microsoft. Google, it's all Google. Amazon, it's all Amazon. So, that's something
+to consider when you're taking a course from these companies is are you actually into their specific tools
+that they're using because if you want to learn something with Amazon, you should probably not take the Oracle
+course and it's just a waste of time, right? So, just keep that in mind which one you prefer, what the
+companies look for, but I'll give you this one an eight out of 10 and just keep it in mind. I also covered
+some AI certifications in detail for beginners as well as my personal preferences and my favorite ones, some
+advanced options too in this video right here. I'll see you there. Goodbye.

@@ -1,0 +1,155 @@
+Title: 8 AI Certifications You NEED To Take BEFORE 2027
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: WTsqxJYI5LQ
+URL: https://www.youtube.com/watch?v=WTsqxJYI5LQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:58:16+00:00
+
+Kind: captions Language: en Look, AI is infiltrating every single industry. People feel kind of powerless.
+Like, what the heck can you do? It's like watching your ship slowly sink with no life raft. But Lucas, what's
+the solution? Well, here's my escape plan. I have a plane [music] fueled and ready to take off before all the
+chaos erupts. And if you want to hop on, it's time to go. Because here's the good news, right? There's still
+time to get a job or launch an AI business, even from scratch if you follow the right advice. I've seen these
+AI avatars, fake people, grifters on YouTube telling [music] you what to do. It's always awful recommendations
+that just waste your time. And uh it's kind of bizarre trying to escape AI with the help of AI. Good luck. So,
+here are the top eight AI certifications that will be worth more than a PhD in the future. It's kind of sad,
+but you know, let's begin. So, first up is going to be certification for anybody, and that is Amazon Certified
+AI Practitioner. Now, truly a top-tier AI cert, highly respected, beginner-friendly, and relatively easy. Now,
+Amazon offers a wide range of certs. They're well-known, valued in the industry, but this is their only one
+true AI credential so far. And according to Amazon, it's designed to unlock new career possibilities, whatever
+that means. We'll take a look at that later. Now, getting started is easy. All you do is visit the AWS website
+where you'll find an overview of the exam with all the basic details. But let's address the elephant in the
+room. Somewhere here. Who is this actually for? And who's it not for? Maybe that's more important. Now, this
+certification is foundational, meaning it's meant for beginners and can be learned pretty quickly. Now, you
+can study on your own, you can follow a Amazon learning guide, and I personally at least recommend checking
+them out before you take the exam because you don't want to fail and have to do it all over again. It's just a
+waste of time. Now, the exam lasts about 90 minutes and consists of 65 different questions. It's generally
+going to be these multiple choice where you just pick and choose one of the options. And the cost is going to
+be around $100, but it can vary depending on your location. So, if I'm going to summarize this in like one
+sentence, here it is, okay? This is for people who are already a little bit familiar with AI and machine
+learning, but don't necessarily want to build these things themselves. It's more about kind of understanding
+the basics of AI, understanding the concepts without creating or implementing these solutions. It's more about
+the knowledge in the brain, the understanding, the knowledge. And that's why it's perfect for beginners. It's
+less about hands-on stuff and more about understanding AI, machine learning in Amazon's ecosystem altogether.
+So, I'll give it a score of, let's say, seven out of 10. Next up is going to be IBM AI Developer Professional
+Certificate. And IBM is like the king of computers. They were one of the first tech companies and they've been
+around for over a century. Yes, 100 years. They literally invented the ATM, yeah, the machine you withdraw
+money from. And they also created a floppy disk, the hard disk drive, relational databases, the SQL
+programming language, so much more. IBM employees have literally won six Nobel Prizes and six Turing Awards,
+which is like the Nobel Prize of computer science. And I think IBM is a great place to learn from. Their AI
+cert has over 200,000 students already. It is top-rated and only takes 6 months at 4 hours per week. But I've
+seen a majority of people finish in about 2 to 3 months part-time. So, you can definitely do it faster. Now,
+the goal is pretty simple here. It's to kickstart your career in AI. That's the quote. Build a job-ready
+skills in AI, learn AI programming, and build AI chatbots and apps. And honestly, I think it's a fantastic
+option, but we're going to talk a little bit about the, you know, intricate details as well. A lot of
+developers are scared how AI is replacing programming or at least changing the game entirely. But here, you're
+not just a programmer, a developer. You're an AI developer. You're building the AI apps, the chatbots, all the
+AI stuff that is highly in demand right now. Things companies are pouring their entire budgets and their
+entire futures into. So, opportunity as we know comes and goes and I recommend going where the opportunity is.
+So, especially if you're starting out as a beginner, right now it's kind of in AI development right here
+[music] or here. The courses will teach you the basics of software engineering, programming, and a lot of
+Python and then focus on mixing that with AI. Super valuable, I'll give it an eight out of 10 score. Next is a
+certification by Nvidia. And these guys literally run AI. They're probably the most important company in the
+entire AI space, in the entire AI thing, because they make the underlying hardware that powers nearly every
+modern AI system. So, basically without Nvidia, forget massive AI models, forget running AI apps, it just
+wouldn't happen. They literally control more than 80% of the AI hardware market and became the first company
+in the world to hit a $5 trillion market cap, which is a lot of money if you didn't know. It's bigger than
+Tesla, Amazon, any of the usual tech giants, absolutely insane. And they just released a beginner certificate
+called Nvidia Certified Associate Generative AI LLMs. Long name. Now, this cert is going to be entry level. It
+literally says so on their website, I'm not just making that stuff up. I could be doing that. This cert tests
+your ability to develop, integrate, and maintain AI-powered applications, which basically means you can make
+cool useful with AI. It only takes 1 hour and costs about $125, which is a one-time fee, and it's valid for 2
+years. The only thing required from you is a basic understanding of GenAI and large language models, like the
+thing you use in ChatGPT, and it's multiple choice. You're not writing code or building an app or building a
+large language model yourself, you're literally just answering questions. Now, I also found a content
+breakdown, which surprisingly breaks down the content of the exam. There's going to be about 30% of the core
+machine learning and AI basics and fundamentals. About a quarter or 24% is going to be software development
+basics, and about 22% experimenting, 14% data analysis, data stuff, and 10% trustworthy AI, so you can trust
+it. Good option. I really like Nvidia as a company, but it's a very broad kind of general AI cert, so it's not
+going to be the most useful on the job market. I'd give it like a 7.5. Next up is going to be Wharton. Yes,
+the number one business school in the world or something like that. You know how the rankings change every
+year, and who even decides what school is best? I like I don't know. But what I do know is this certification
+is really, really good. So, it's called AI for business, and if there's any place to learn AI and learn
+business, it's at a top business school, right? It was literally the world's first college-level business
+school, established in 1881. Now, they have an extremely low acceptance rate, and their tuition fees are
+honestly ridiculous. Most people never get to study at Wharton. I didn't get to, but anyone can take this AI
+certificate. It's only 1 month at 10 hours per week. Pretty short and pretty concise, but still enough time to
+make it useful for you. Now, it's not about learning tech or how to build AI and all that tech complicated
+stuff. It's about using AI in business to actually increase productivity, profit. Yeah, that's pretty much it.
+There's nothing else, etc. It's really good for managers or business people or just anybody looking to learn
+more about AI in business, which honestly everybody should. Even if you're working a normal job, even if
+you're not a boss, you will be affected. And you want to know how AI is going to change things in the future,
+in your business, in your market, so you can better prepare as well, because nobody's going to save you.
+That's the unfortunate truth. There are four different courses, and the first one is going to be AI for
+non-data scientist. Basically, AI without going into the techy and the data stuff. AI for everybody made
+simple. Next up is going to be AI in marketing and finance. A lot of things going on there. AI and people
+management and HR, you know those amazing ATS systems that reject you instantly without even reaching a real
+person because your resume is like formatted a little bit in wrong according to their system and then it just
+throws it out the window. And then AI strategy and governance, which is basically overall planning and vision
+in AI companies, whatever. Ignore that stuff. Easily an 8.5 out of 10 score. Super valuable for anybody,
+seriously. And then we have Microsoft AI and ML engineering. Now, this professional cert was just released and
+has over 40,000 students already, which should tell you something. Top rated and contains about five different
+courses. First, some fundamentals about AI, ML, whatever, some algorithms, techniques, building AI agents
+using Microsoft Azure. You don't need to remember all this stuff, don't worry. And some more advanced machine
+learning and AI stuff. But here's what you do need to remember. A little warning. This is going to be a very
+technical certificate and you will need some intermediate knowledge of Python and kind of like let's just
+Python basics, but you need to understand the basics of Python. Because if you want to implement these AI and
+ML things, Python is going to be used. Like they're not going to teach you the programming stuff. You're kind
+of expected to already know the basics so you can work with it yourself. Still nothing too complicated and you
+could learn Python really quickly. And there's also a bonus. This goes hand in hand with the Microsoft
+official certification for AI engineers called AI 102 certification and you get a 50% discount if you complete
+it on Coursera first. So a pretty good deal for aspiring AI engineers, but yes, way more technical than the
+other ones. 8 out of 10. Next up is a kind of weird AI certification, but it's legit and it's highly in demand
+so um let's cover it. PMP is the number one cert for project managers. It's industry recognized, all that good
+stuff. It stands for project management professional. Now, why are we talking about project management in AI
+video? You see all these people flexing, you know, PMP on their LinkedIn like it's a freaking PhD. Anyway, the
+Project Management Institute just released an AI search, and it's called PMI Certified Professional in
+Managing AI. So, it's kind of like managing AI projects, AI products, etc. as a project manager. So, there's a
+lot of opportunity because AI is a top skill for companies. It's how you future-proof yourself and how you
+increase your take-home pay. But, I would only recommend this if you're very serious because PMI and, you
+know, all their certs, um they make it a pain in the ass to get them. But, that also makes them more valuable
+on the job market, so it's kind of like a good thing. But, you need to take their specific pricey course and
+do all that So, honestly, like I don't recommend it for everybody. The exam itself is 120 questions because
+why not make it insanely long, I suppose. It's 160 minutes and only in English so far. And if we look here on
+step five, it says earn, and then you can actually like see the exam content simplified. So, it's about 15%
+responsible AI, whatever that means, 26% business needs, 26% in data needs, 16% AI, and 17% practical AI
+solutions. The prep course is only 21 hours, but it's very serious. And again, I only recommend this if you
+are directly in project management or have a very specific reason to get it. But, I still wanted to mention it
+because it's a good option. Otherwise, next up are two amazing certs. Six out of 10. Next step is going to be
+Salesforce. Now, they launched a free platform called Trailhead for some reason where you can learn a ton of
+stuff, but that doesn't matter, right? The only thing we care about is learning AI. They have trainings for
+all levels with hands-on practice and different badges and different certifications. And there are a couple of
+core trails or kind of like learning tracks. And the first one is called Agent Bleecher Champion 2026, which
+is a ridiculous name, but yeah, here here we are. And you're going to be learning the basics of AI and
+building AI agents, but in a very, very simple format for beginners. There's also one called Innovator 2026,
+which sounds really exciting, where you'll be defining AI goals and what the AI should do, and then
+customizing it and deploying AI agents yourself. Basically, the first course is going to be like the
+fundamentals and the second AI course is going more going to be building useful AI agents. So, further down on
+the page, we can see the certifications and there are 60 different certs. You don't need to get all of them
+and a few of these are going to be for AI-related stuff. Salesforce is a very strong brand. A lot of companies
+use them and they are respected, especially if you're in Canada industry, I think it's a good option. I'll
+give it like a 6.5 out of 10. You know, they're good, but these learning trails are honestly nothing special.
+It's just a good free learning resource. And then we have Microsoft. Microsoft makes some awful products and
+interfaces, but every company uses and you kind of are forced to use them, too. But yeah, Microsoft skills are
+objectively really valuable on the job market and so are their certifications, unfortunately. This cert is
+going to be called AI Transformation Leader and it's beginner level, as it says right here, somewhere on the
+screen. I'll just show you a picture of it. And it's for the role of business leader, as it also says right
+here, again. Enjoy. But you don't need to be a CEO for this to be useful, right? It's about recognizing
+opportunities to use AI in your company, like a business where you can plug in AI to make things more
+efficient. You can improve things. Um you can improve customer service or you can make it worse, like a lot of
+the customer services do nowadays, or you can drive innovation and just improve things, hopefully. It is
+designed for business decision-makers at pretty much all levels. So, even if you're a beginner, I guess you're
+making a decision in the business or if you're looking to get into management, it can help you stand out as
+everybody is looking for people who know AI skills right now. You can use that to get promotions, to show your
+skills, show you know AI, and that's really, really worthwhile. Now, the actual exam is going to be 45
+minutes, which is very quick. The price is about $99 in the US, but it varies depending on location as with
+all the Microsoft certs, so check that out. And there is a free course of about 4 hours to introduce you to
+the different areas of the test, which is going to be very simple, explore the business value of gen I
+solutions. Basically, what can you do, where should you look at AI, where is it worth implementing, drive
+business value with AI, very unclear what that means, but it's one of those buzzwords, and transform your
+business with AI, and basically, simply making AI useful for a company to improve things. Great option and
+very easy to get, not that technical, nothing special, but useful. So, 7.5 out of 10. Now, check out this
+video for more AI certifications and skills that are in high demand as we speak. You probably want to learn
+them before, you know, they go away, and they're pretty good right now.

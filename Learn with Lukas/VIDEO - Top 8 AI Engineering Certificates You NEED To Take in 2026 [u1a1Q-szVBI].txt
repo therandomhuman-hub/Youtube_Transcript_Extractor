@@ -1,0 +1,155 @@
+Title: Top 8 AI Engineering Certificates You NEED To Take in 2026
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: u1a1Q-szVBI
+URL: https://www.youtube.com/watch?v=u1a1Q-szVBI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:56:34+00:00
+
+Kind: captions Language: en The AI engineer is the job everybody wants right now. And [music] people in tech
+are getting laid off, but not the AI engineers. They're quickly rising to the top of the modern economy. Now,
+I've done a ton of research on the best AI engineering courses, and today I'll share my top eight so you don't
+have to waste your time or money on courses that don't even make [music] you job ready. I've been considering
+things like efficiency, how valuable the skills actually are, what they cost or if they're free. Nobody else
+ever talks about this. And I focus on beginner-friendly courses that give you actual [music] skills employers
+want on the job market. So, let's begin. First up is Microsoft AI, and it's perfect for complete beginners.
+Microsoft has a completely free training program with a certification to it, and it's very simple, and there
+are two different options. One is the self-paced training over here, which is completely free. This is a good
+option if you want to kind of brush up on a specific skill or just want to explore AI engineering, but I don't
+recommend you start over here. Instead, I recommend you start right there and look for option number two. Now,
+this is a complete course for AI engineers called AI 102 T00A. Thank you, Microsoft, for easy course names.
+But luckily, you don't need to remember any of that. Now, the course itself, the basic stuff you need to know
+is it takes 5 days to complete. You can do it for free online or you can go to an actual physical institute
+that offers this training, but I don't recommend that because it's [music] usually not free and you have to
+pay for the training there. So, I recommend just doing it online for free. It's easy. Now, there are five
+different in this course. The first one is going to be called develop generative AI apps in Azure. So,
+basically building AI apps. And there's building AI agents, natural language solutions, computer vision, and
+other AI solutions [music] and stuff. Now, they all have official certification, which I know a lot of you
+guys are interested in in certs certifications, and that's a good thing on the job market. Now, this one is
+called Microsoft Azure AI engineer associate, and it's a highly respected certification. It's specifically
+kind of designed for AI engineers to focus on Microsoft Azure, which makes sense. They test your ability to
+design, implement, and you know, in general, just deal with AI Azure solutions. Now, you do need some
+experience for this one. It's just a little bit of Python or C#, so you can kind of easily understand the
+course without worrying about the programming fundamentals. They're not going to teach you like the basic
+Python. You're kind of expected to know that for this course. But if you don't have any programming skills,
+that's completely fine, and we'll talk about that later, too, and courses that you don't need any programming
+skills or anything for it. So, how do you prepare and how do you actually get the certification? That's a good
+thing, right? Start by taking the course develop AI solutions in Azure, the one we just talked about. If
+you're really confused right now, that's totally fine. So am I. It's just kind of different ways of looking at
+the same course from one is a certification and one is kind of the learning path. So, don't worry about that
+at all. It's going to take you about 30 hours to prepare for this certification, especially if you have some
+programming experience. There are some great free resources, and it only takes 100 minutes to complete, and
+the price is 165 bucks in the US or lower depending on your region. Now, let's go to some more
+beginner-friendly options. I'll give this one an eight out of 10. Good option, but not the best for beginners.
+So, next up is going to be my favorite [music] free learning platform or one of my favorites, and it lets you
+learn AI engineering skills at no cost really, really quickly, and it's called W3Schools or W3Schools. [music]
+Now, normally courses include hundreds of videos and long lectures and all that crap. W3Schools basically do
+the complete opposite, and they focus on practical exercises and text only. [music] So, it's a little bit
+boring, but it's really, really useful. It's mostly about doing and actually writing code and getting [music]
+done, and I love this approach. So, if you're into data engineering, you should learn Python, by the way.
+That's a good thing to learn. >> [crying] >> Now, there are some other options. >> [music] >> Um, you can
+learn other things, but I recommend you start learning Python if you're a beginner. It's more versatile and
+just used in a lot of cases. Now, this course literally teaches you everything you need to know about Python.
+You can skip certain sections that are more for like heavy programmer type people or data analyst stuff, but
+it will give you a solid foundation and let you make other AI engineering courses useful because it's kind of
+like if you lack these basic programming skills, it's going to be much harder to implement and understand the
+complex things in AI engineering. So, highly recommend building that foundation as soon as possible. And
+that's why I'll give this course an 8.5 out of 10. Simple, practical, and affordable. I mean, it's literally
+free, so why not? Next up is going to be DataCamp. Now, these guys have over 19 million learners, and they've
+been teaching data and AI skills for years. And their approach is something we talk about a lot on the
+channel, which is learning by doing. You can watch videos all day, but if you actually want to build things,
+you need hands-on practice. GOD, PLEASE, NO! NO! AND THAT is especially true with AI engineering. Now, this
+field is moving extremely fast. It's not about, you know, who can recite the university papers or theory. It's
+about who can actually build things and actually get things working. And so, DataCamp has two AI engineering
+tracks including a real certification. And the first one is called associate AI engineer for developers.
+Despite the name, you don't actually need to be a developer to start. There are literally no prerequisites. It
+says so right on the course page. I'm not making this stuff up. Now, this track is going to teach you how to
+build AI-powered applications, integrate your AI things that you build into software, and also use AI to
+improve your applications. Basically, it takes you from zero to an >> [music] >> AI developer, which is a
+skill companies are actively looking for right now. And so, the entire track is only about 26 hours long, and
+it was updated just a few months ago. That's very important because you don't want to learn from outdated
+material when AI skills and stuff is, you know, evolving so quickly. And so, I'm not going to bore you with
+all the details, but I'm just going to show you a few of the secret gems or like the most important things.
+And so, the first course covers things like working with OpenAI API, for example, like [music] integrating
+ChatGPT into your apps. From there, you'll get on to tools like Hugging Face, LangChain, and Pinecone, which
+is kind of like basically the core stack that AI engineers use today. If you don't know what these are, that's
+fine. As a beginner, you're going to learn these things. You don't need to worry about [music] them now. Then
+you move into real projects and practical AI workflows, which we love on this channel as well. Now, the second
+option is going to be associate AI engineer for data scientists, >> [music] >> and this one is going to be
+similar, but instead of focusing on actually building the AI apps, it focuses surprisingly more on data
+science and machine learning. [music] That's why it's in the name. It's designed for kind of people that are
+interested or have a background in data who want to transition more into AI engineering and AI. >> [music] >>
+So, if you already have some machine learning or some Python experience or data science, this is where you
+kind of level up. You learn how to train and fine-tune models and kind of deploy them into production using
+MLops principles and integrate them into real applications with frameworks like LangChain. But also the
+underlying concepts and the theory that make everything work. Now, this track is going to be about 40 hours
+long [music] and is taught by machine learning engineers and data scientists from major companies like
+Microsoft, which you might know, and Eastman. And I'll be honest, this one is challenging. Some of the data
+concepts can definitely get a little bit complex, but the hands-on projects and kind of the more practical
+approach makes it much easier to understand. It's supposed to be a bit difficult, but it's worth [music] it.
+Data science roles are still some of the most high-in-demand and highest-paying data jobs or especially jobs
+in tech in general for people willing to put in the work. What the And also, we're going to move on, but just
+as a quick bonus, DataCamp recently launched something really interesting. They now have this kind of like
+AI-native course feature, which means that while you're taking a course, you can also get your free or kind of
+like integrated AI tutor built directly into the learning experience. So, instead of a, you know, rigid,
+boring, one-size-fits-all course, the system adapts to you and your learning. So, let's say you're struggling
+with something here, it kind of adds more explanations over here about it. And if you're moving fast, it lets
+you keep progressing, and it's pretty much like having a one-on-one tutor while you're learning stuff, which
+is honestly how education should work. And now, let's move on. So, next up is going to be IBM AI engineering.
+Now, this is a top-rated Coursera certificate with about 200,000 students. Takes about 4 months at 10 hours a
+week, and it's perfect for beginners in AI engineering. Now, the level itself says intermediate, but that's
+not really true. It's kind of more like beginner level for AI engineering. But beginner in this field still
+needs some basic programming and basic math, and that's why they call it intermediate. But really, it's for
+beginners. The goal here is to get job ready as an AI engineer and build [music] AI engineering skills. I feel
+like I said this word like a million times in this video. And the practical experience that you need to catch
+the eye of an employer in less than 4 months. Now, I completely disagree with what IBM is saying here, and I
+think it's a crazy statement that they're claiming that you can be job ready in 4 months for an AI engineer
+position. This course is, you know, going to teach you a lot of useful things. You will do projects, and you
+will actually develop a portfolio, and that's kind of the secret. But becoming job ready in 4 months totally
+depends on your prior experience, and I wouldn't make that claim at all. But if you look at the courses,
+they're still pretty interesting. And in the first one, they teach you ML with Python, very important, and
+then some deep learning, some more deep learning neural networks, and actually doing the stuff with Python
+yourself. There's a capstone project, some generative AI stuff, some large language models, fine-tuning these
+models, you know, actually making them useful, and some things about AI agents. But in general, though, I'll
+give this certificate like a 7.5 out of 10. It's pretty good at teaching you like the fundamentals, and there
+are many different projects in this one, which I like. That's a strength. But the issue is IBM's focus on
+their own tools, which, yes, IBM's tools are used in the marketplace, but they're definitely not the top and
+most useful skills, in my opinion, on the job market from what I've seen. Next up is going to be Microsoft AI
+and machine learning engineering. Now, I really like this one and it's built to prepare beginners for a career
+or a job in AI and ML. You're going to be building, deploying, and innovating, whatever that means, with
+advanced techniques and real-world projects. So, sounds great on paper. Sounds really good, right? It sounds
+like the perfect course, but let's investigate. So, for this one, you also do need some programming skills,
+[music] specifically Python for this one, but you can learn that pretty quickly, too, with another course like
+W3Schools that we talked about or [music] DataCamp, whatever. It's a 6-month or 7 hours a week course and
+top-rated so far, which, you know, it's a very new certificate, but that's a good thing because the earlier
+you are, the less saturated the skills are on the job markets. The courses are pretty simple and the first one
+is going to be AI and ML. I mean, they're definitely not simple, but they're going to be quite useful and the
+courses are relatively simply structured. The second course talks about algorithms, some troubleshooting, AI
+agents, and then it focuses on Microsoft Azure for AI and machine learning, and then some advanced concepts in
+the final part. Now, my honest recommendation, as with any Microsoft course, is to consider if you want to
+learn Microsoft Azure or not. If you're going to specialize in something else, you know, it's probably not a
+good option, but this one is definitely in high demand, but it's not the only option. You can build AI and
+machine learning solutions with other platforms like Google Cloud or AWS. Just make sure that you kind of in
+the right place at the right time. And if you're already familiar with Microsoft and their tools, I would say
+that it's a good idea to continue down the same ecosystem, in my opinion, but it really depends on what you
+want to do. This course also actually prepares you for an official Microsoft certification. Now, we talked
+about this one before. It's the Azure AI Engineer Associate. If you're getting really confused by now, that's
+completely fine. I would expect that. But basically, you can take this one and kind of prepare for it through
+this Coursera learning path without having to study for that one on its own. So, it's kind of like a bonus.
+And you also get a 50% discount on the exam, which [music] is a good thing as you can kind of just save money
+that way. So, if you are going to be taking any of the Microsoft certs, just keep in mind you can probably
+take them together with the learning paths and the certifications all in one to save time and just make it
+more efficient. I'll give this one an 8 out of 10 because it can lead to an official certification. And then a
+course I've never talked about before, and it's the new AI Engineering Specialization from Scrimba. What's
+that? Fair question. Scrimba is kind of like an interactive coding platform where people practice and learn,
+and now they released this new cert focusing on the coding side of AI engineering. Now, it's a great option if
+you want that practical focus on building and deploying AI solutions. It's pretty short, only 40 hours, and it
+covers the basics of AI, you know, deploying apps, open source models, AI agents, various different details,
+as well as kind of working with APIs and these models and actually building applications. We're talking about
+a lot of stuff now. >> [music] >> Relax. You don't need to remember all this crap. But honestly, I don't see
+why you should take this over any of the other certs, so I'll give it like a 7 out of 10. It's good. A perfect
+combination would be like this one and one of the other fundamental courses if you want like a little bit
+extra practice and real-world skills and programming stuff. So, now check out this video where I cover more AI
+certifications for beginners or only getting started. These are the top-rated right now, and I'll see you
+there. Goodbye.

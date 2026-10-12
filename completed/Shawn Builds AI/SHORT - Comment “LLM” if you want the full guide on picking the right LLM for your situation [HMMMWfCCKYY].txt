@@ -1,0 +1,35 @@
+Title: Comment “LLM” if you want the full guide on picking the right LLM for your situation.
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: HMMMWfCCKYY
+URL: https://www.youtube.com/watch?v=HMMMWfCCKYY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:20:45+00:00
+
+Kind: captions Language: en A lot of people want to know which LLM is the best. Now, the answer isn't simple
+because the question is actually asked incorrectly. [music] People typically think of the LLMs as different
+flavors of the same thing. When in reality, it's more like they're different tools in a [music] toolbox. Just
+like you wouldn't use a wrench to get a nail into the wall, you wouldn't use grock to do the job that Claude
+is best at. So, what are each of these actually good at doing? In my opinion, OpenAI GPT is a great blanket
+model to use for everyday purposes and it has a great context memory. So when I ask it something about myself,
+it knows all of our past conversations and it can bring up uh the relevant information. Google is great when
+you're referencing documents and [music] things that are part of the Google suite, right? So I asked summarize
+my emails from today [music] and it brought up when I did this and checked out all the different sources from
+my email. also has an awesome integration with Google's Nano Banana to create some [music] pretty stunning
+images. From my experience, Claude is great at writing and [music] for coding and doing technical work. So,
+Claude Code is my favorite and when you hook it up with different MCP endpoints, it's really viable to get
+tasks done across multiple different uh tools. Now, Perplexity has kind of been my replacement for Google when
+I'm trying to do some actual research on things that are, you know, relevant or recent. [music] It does a
+great job at scraping the web and providing sources that are actually relevant and up-to-date. So you can see
+here like this article is from February 11th. So that was 3 days ago. Grock is great for creativity and
+cultural relevance because it's able to scrape actual [music] posts from X. So when I ask about, you know,
+what people are thinking about AI commercials in the Super Bowl, you can see it references X [music] uh posts
+and gives me the general like consensus consensus from people. Now, Deepseek is great because it's actually
+[music] open source. You can get some really awesome models for relatively cheap. But the problem is that it's
+actually Chinese-based. So, it doesn't have great integration with other platforms that are popular. So, for
+example, with Cursor, if I want to use different models, you can see all the different options here. But
+Deepseek actually doesn't have that native integration. But, like I mentioned, it's open source. So, if you
+want to self-host it, you can. You can see on Hugging Face that they actually have all the latest models from
+Deep Seek on here. So go ahead and comment LLM if you want the full LLM toolbox which will give you pros,
+cons, examples, and usages for each

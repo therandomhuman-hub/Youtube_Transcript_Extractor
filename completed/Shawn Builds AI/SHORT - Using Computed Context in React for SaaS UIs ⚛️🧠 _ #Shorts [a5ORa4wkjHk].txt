@@ -1,0 +1,17 @@
+Title: Using Computed Context in React for SaaS UIs ⚛️🧠 | #Shorts
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: a5ORa4wkjHk
+URL: https://www.youtube.com/watch?v=a5ORa4wkjHk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:22:24+00:00
+
+Kind: captions Language: en Use this trick if you want to expose computed values and functions across your SAS
+application. You can see here I'm passing a raw data variable, a template to this form context provider.
+Within there, I'm using React context. So first in that context provider, I'm intaking that raw template
+computing things like a form schema, a form, an onsubmit function. And what I do is I'm using React context
+here to provide that those computed values, not just the raw template to all the children. Once I do that, I
+could then use this function, this hook use form context within any children element. So in the form, you
+could see all these values I created, I'm now consuming them with these form context. even deeper. If I go to
+a text field, I'm still able to consume those functions and variables.

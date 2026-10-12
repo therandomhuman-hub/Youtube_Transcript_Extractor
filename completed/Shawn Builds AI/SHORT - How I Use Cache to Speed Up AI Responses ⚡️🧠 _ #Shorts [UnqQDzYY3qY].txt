@@ -1,0 +1,15 @@
+Title: How I Use Cache to Speed Up AI Responses ⚡️🧠 | #Shorts
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: UnqQDzYY3qY
+URL: https://www.youtube.com/watch?v=UnqQDzYY3qY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:24:49+00:00
+
+Kind: captions Language: en So, if you want to use the same data in your AI responses, you can cache that
+information to use it multiple times. That way, you don't have to store it in your database or refetch it
+every time. For example, you could see I'm calling a tool and I'm passing it a cache key in this scenario, the
+chat ID. In that tool, I'm using a cache remember so it will grab that data from the cache. If it's not found
+there using that cache key or if one hour passes by the time to loop, then we'll refetch that data. That way I
+can use all that information about my workouts in that chat.

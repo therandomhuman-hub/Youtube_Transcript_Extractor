@@ -1,0 +1,19 @@
+Title: Automating Web App Deployments End to End 🚀 | #Shorts
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: hB2CByXFmBs
+URL: https://www.youtube.com/watch?v=hB2CByXFmBs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:21:54+00:00
+
+Kind: captions Language: en I just deployed my third web app to the cloud. And here's how I did it. I have a
+GitHub actions workflow that I used to check out my code, build my application, run a manual approval, and
+then deploy. In my application code, I have a YAML file with those same exact steps that runs when I push to
+the main branch. You can see that those files are stored in a separate repository that I have called DevOps.
+The build step involves downloading Docker, building my Docker file, and pushing it to a Docker repository.
+The manual approval works by calling an environment called production that I have saved my application. So, I
+must submit a manual approval for it to continue. The deployment step will connect my Kubernetes cluster, use
+the values for my application in a values file, and run a Helm chart to deploy my application. I could touch
+on how to do this in another video. That's how I deploy my application. Leave a like if you're interested in
+learning

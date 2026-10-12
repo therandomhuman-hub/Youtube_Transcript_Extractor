@@ -1,0 +1,30 @@
+Title: AI Inbound System for Real Estate & Solar Business: #ai #automation #aaa
+Channel: Udo Onyekwere
+Type: SHORT
+Video ID: P_QJNIGA4xk
+URL: https://www.youtube.com/watch?v=P_QJNIGA4xk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:26:45+00:00
+
+Kind: captions Language: en I'm going to take you through the process of helping a client set up an AI voice
+caller first I had to hop on a call and figure out his actual problem uh I've only looked at the first one so
+the inbound yeah I feel like the the general advice you'll give me is probably going to be these businesses
+have said hey I want you to uh run this script and then instead of being super fluid the AI is going like
+it'll stick to the script and then it will trip over itself or if someone says something that's not
+specifically what's in the script the AI will get really confused and start again from scratch or it'll just
+hallucinate random things hallucinates what's been said so I think that it's in the way that I'm I'm
+structuring it and writing it okay phase two I'm going to show him how to use these AI colors a little bit or
+just AI in general before I take over and just do it all for him I'm going to show him a little of my
+expertise in a sense so here's that this inbound anger you're on can you duplicate it under the selling
+selling put bracket user response then put a bracket again did I do it like like this no you put if positive
+response okay no so after the I'm sorry agent name is unavailable under that one you want to put the user
+response if positive response continue with script above scenario 2 could you put like dashes all the way
+across on the just to confirm I have caller name contact number all that under that one put user response
+continue uh continue with script so basically if the details of the variables are true it'll continue so now
+at the very end put end call immediately ah yes awesome that was another issue that it's just not hanging up
+exactly so now try to publish it and let's hear that one again oh cool exciting let's see now phase three I'm
+just going to do it myself after going to send him all the information to Google Docs then he can Implement
+himself and we'll see if it all works for him we finished phase three here's the problem we're fixing here's
+the reviews Nathan left me thank you Nathan from Australia hope this AI generates you all the profits and
+revenue ever hope we get to work again sometime you're great

@@ -1,0 +1,15 @@
+Title: Streamed AI Responses 🧠💬 | #Shorts
+Channel: Shawn Builds AI
+Type: SHORT
+Video ID: LB2PZhpYBKk
+URL: https://www.youtube.com/watch?v=LB2PZhpYBKk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T06:23:25+00:00
+
+Kind: captions Language: en So in your AI responses, you might run into a scenario where you send back one
+large chunk of text instead of an easy readable stream of text. And that could happen for a couple of reasons.
+First one is you need to disable buffering and flush in PHP. That looks like adding this as well as a header
+here. You also want to make sure to split up your text into smaller chunks. You see here I'm sending five
+character chunks. That'll turn your response to look from this one large chunk at once into this. A nice
+stream of text.
