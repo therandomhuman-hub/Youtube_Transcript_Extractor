@@ -39,3 +39,19 @@ def test_archive_collection_is_schedule_or_manual_only():
     assert "\n  push:" not in triggers
     assert "  schedule:" in triggers
     assert "  workflow_dispatch:" in triggers
+
+
+
+def test_channel_list_has_exactly_twenty_unique_channels_including_new_requests():
+    channels_file = ROOT / "channels.txt"
+    urls = [
+        line.strip()
+        for line in channels_file.read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.strip().startswith("#")
+    ]
+    normalized = [url.rstrip("/").casefold() for url in urls]
+
+    assert len(urls) == 20
+    assert len(set(normalized)) == 20
+    assert "https://www.youtube.com/@alexpdfbusiness" in normalized
+    assert "https://www.youtube.com/@iammoneyguy" in normalized
