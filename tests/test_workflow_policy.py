@@ -19,6 +19,10 @@ def test_archive_workflow_reports_failures_and_publishes_zips():
 
     assert "python scripts/finalize_run_report.py --status \"$ARCHIVE_STEP_OUTCOME\"" in workflow
     assert "python scripts/package_completed.py --root ." in workflow
+    assert "python scripts/package_all_channels.py --root . --expected-count 20" in workflow
+    assert "all-20-channel-archives-${{ github.run_id }}" in workflow
+    assert "${{ runner.temp }}/all_20_channel_archives.zip" in workflow
+    assert "if-no-files-found: ignore" in workflow
     assert "completed/*.zip" in workflow
     assert "last_run_report.md" in workflow
     assert 'python scripts/finalize_run_report.py --status "$ARCHIVE_STEP_OUTCOME" || true' not in workflow
