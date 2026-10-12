@@ -1,0 +1,121 @@
+Title: Top 6 DataCamp and Coursera Programming Courses You Need In 2026
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: MwliNTD4p4c
+URL: https://www.youtube.com/watch?v=MwliNTD4p4c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T16:17:05+00:00
+
+Kind: captions Language: en Programming jobs are amazing. They earn high salaries, have the option to often
+work from home and do interesting work. But times are scary. AI is here. Should you still [music] learn how to
+code? That's the question. Honestly, no. If you take random courses and follow old advice, you're going to
+waste your time. You're not going to get anything. But honestly, yes. If you take top courses from Data Camp
+and Corsera that actually teach in demand new skills that employers are actually paying for that are future
+proof even with AI. I'm going to show you the six best ones right now, even for beginners. So, let's begin.
+First up is Python data fundamentals. Now, Python is literally the number one skill for data jobs for software
+engineers. I'm not just making that up. This website actually analyzed millions of job listings on LinkedIn,
+Indeed, etc. And Python was actually found to be the number one skill in demand. Now, the best part is that
+Python is pretty easy to learn. You don't need to, you know, learn complicated syntax. You don't need weird
+rules. Python is kind of beginner friendly and just makes sense. But still, one big problem that people face
+when learning Python is they learn the wrong way. They take a generic course, they spend a few weeks on it,
+and then they give up and they quit because there's so much to learn and it just feels overwhelming. [music]
+I've been there myself in many things that I've started to learn. Instead, focus on the most useful things.
+And this includes working with data. Any programmer should know this whether you're a data scientist or a
+software engineer. And that is why I love this course and I recommend it. But also guys, don't just take my
+word for it. I'm just a random guy on the internet. I like listen to the facts. This course has over 350,000
+students and a 4.7 rating, which is pretty good. And it's also recently updated, which is very important in
+the age of AI when things are updating and changing so quickly. Now, the course is only going to take you
+about 28 hours, but it's very, very efficient. And I'm not going to bore you with all the details, but I've
+handpicked the best stuff. So, it begins with an introduction to Python, what it is, how it works, etc. And
+then it moves on to some more intermediate Python, a little bit harder, and then a project with Python, of
+course, because data cam focuses a lot on actually practical learning, which is [music] the key. I always say
+this, and it really is. You can spend months or years watching videos, or you can spend a few weeks
+practicing. And I think the second option is a little bit better for most people and you'll definitely get
+better results. Now, the projects here are pretty interesting, too. There's one about Netflix movies and movie
+data and one about analyzing crime in Los Angeles, which, you know, there's plenty of crime to analyze. And
+I'll give this course, let's say, a final score of 8 out of 10. As always, next up is going to be IBM Full
+Stack Developer. Now, these IBM courses have been getting a lot of hate recently, to be honest. courses that
+teach a lot of programming languages all in one and introduce you to a lot of different things. Lot of like
+very broad programming courses [music] because nowadays it seems like a lot of people prefer to, you know,
+focus on one skill or one job in the course. And [music] look, I totally get it. I talk about it all the time.
+Specialization is the key to success. If you, you know, want to get really good at something, you have to give
+other things up and actually focus and [music] do it. But here's the problem and why I hate this mentality,
+right? So for programming, the problem is that AI is scary. [music] Everything is changing pretty quickly. And
+if you're just focusing on one language or one small thing, I mean, you're absolutely screwed when the time is
+up. Now, this course by IBM is going to give you an introduction to everything. If you're like a super
+advanced programmer, this is not for you. But if you're a beginner, it's one of the best things that you can
+do. It begins with an introduction to software engineering, then cloud computing, front-end development,
+making apps and websites, back-end development, lots of different programming languages, blah blah blah,
+databases, AI, everything. And no, this course is not perfect, but it will probably not, you know, get you a
+job because for that, yes, you do need to specialize in something and, you know, learn a little bit more to
+become valuable, but it gives you a very good idea of the whole programming development space. So you can find
+your passion, you can learn a little bit of this, a little bit of that, find your area and understand the
+whole field as a whole. I think it's a really good place to start. So 7.5 out of 10 is my score. Now next up
+is going to be our programming fundamentals from data camp. And R is another programming language often
+compared to Python. It's not perfectly similar, but it's a little bit similar. And honestly, in my opinion,
+Python is better, at least for most people. But for some people, R is the best programming language to learn
+in 2026. And I'm going to explain why. If you want to be in, let's say, academia or research, R is often used.
+But I get it. Most of us don't want to be in academia or research. We just want to get a job. We don't care
+about all the details. So if we look at the FAQ section, it says which jobs will benefit from this track, from
+learning R. And a track is just data cam's name for a collection of courses, by the way. Kind of like a
+professional certificate on Corsera. And it says this track is most suitable for those looking to start a
+career in data science such as data analysts, data scientists, and software engineers. And yes, it is not as
+common as Python, but that also means that you can stand out. It opens you up to other opportunities that
+specifically look for skills in this language. And when the job market looks the way it does right now,
+anything that we can do to stand out is worth it. Now, this course is only 22 hours and has over 160,000
+students. And it begins with an introduction to R, including how it works and what it is. Then it goes on to
+some intermediate stuff. And if you already know how to program or how to code, it's going to feel like a
+breeze. You can just transfer over things from Python and other languages like loops, conditional statements,
+and all that fun stuff. And then of course number three is going to talk about writing efficient code. You
+write, you know, good code, not just code. And then of course writing functions to reuse code and some things
+about object-oriented programming and different programming paradigms in [music] general too. And so in the
+end there's going to be a skill assessment. You can get a certificate that you can put on your resume, your
+LinkedIn or wherever you want. And you may want to slam it on your wall and just stare at it in the morning
+for motivation. I don't judge. So 7.5 out of 10 just because I prefer Python myself. All right. Next up is
+Java programming and software engineering fundamental specialization from Duke University on Corsera. Did you
+catch all of that? Yeah, it's a pretty long name, but it's pretty simple actually. So, you're going to learn
+the basics of programming, software engineering, and also a little bit focusing on the Java programming
+language. That's it. But why on earth would you learn Java in 2026, a language that's been around since 1995?
+That's over 30 years, created by Oracle. Well, here's why it's still kind of worth it. So, over 90% of Fortune
+500 companies use some sort of Java in their applications. That's a crazy number. 90% of Fortune 500 companies
+because Java is powering a lot of the heavy systems, the large enterprise applications, finance, healthcare,
+e-commerce. It's in a lot of systems basically. And yes, there are lots of other exciting new programming
+languages and all that stuff, but Java has been proven over time. It's stable, scalable, and has a very large
+ecosystem with lots of big tech and big companies using it. And they're not going to switch anytime soon. So
+that is why Java matters. So yes, learn all the new frameworks if you want. Have fun. But start by learning
+the fundamentals in a stable, longlasting language. I promise it will give you more opportunities. This course
+has 4.6 stars and over 300,000 students for complete beginners and only 6 months at 10 hours a week. I'll give
+it an 8.5 out of 10. Actually, let's bring it down to eight because I don't like Java as much. And the next
+one is going to be Python programming fundamentals from data camp. Wait, again, am I repeating myself? It
+sounds like it, but this course is actually different than the other Python course that we covered in the
+past. So, the difference is instead of focusing on data, it's a pure Python, pure Python course, only Python.
+It starts by teaching you Python for developers and then moves on to intermediate Python, building your Python
+toolbox, giving you a lot of different skills and covering basic topics like data types, list, dictionaries,
+tles, all that stuff basically. Now, this course also focuses on data science, but not as much. And for the
+final project, you create a function to register app users and catch errors. So, it's a very short course.
+It's only 16 hours. And what I recommend you do is you either start here and then take the data course or just
+take the data course because that one contains more projects and more practice which in the long term is going
+to be extremely valuable for you. So still if you just want a quick start, I do think it's a good option. 7.5
+out of 10. And next up we have the IBM AI developer professional certificate. Another 200,000 students are
+already studying this one or a lot of them probably quit as with all online courses. Don't do that. With a 4.6
+6 star rating. We need to check it out. So, AI is everywhere right now. I don't need to talk about it. And the
+problem is how to join the wave and actually make it worthwhile for you and your career instead of just being
+replaced and uh trashed away by it. This is how to do it. So, this professional certificate contains 10
+[music] different courses, but it only takes 6 months at 4 hours per week. So, it's not that long actually,
+and you can learn as quickly or slowly as you want to or as much as you can handle. It is for complete
+beginners and designed to give you job ready AI skills whatever that means in six months plus practical
+experience and also an industry recognized certification employers are actively seeking at least that's what
+IBM claims now what you're going to learn is first of all just an introduction to software AI generative AI
+but it's also going to teach you a lot of the software engineering and programming fundamentals just like any
+other programming software engineering course we mentioned in the past it's going to focus a little bit on
+front end and then a lot on Python as well, but it's also going to throw in a lot of AI stuff. So, you can
+learn these fundamental software engineering principles while becoming an expert at using AI. Combining the
+fundamental principles with AI to make everything faster, easier, better, and I guess more fun. I don't know
+if that's true. And yes, you know, there's one thing that everybody's saying, and it sounds cheesy, and it
+really is, but you're not going to be replaced by AI. You will be replaced by somebody using AI. I guess some
+people get replaced by A anyway, but but if you are a developer or looking to become one, you should probably
+hop on and start, you know, integrating these things as soon as possible. And this course is an excellent way
+to do so. 8.5 out of 10. That's it. Now, check out this video for more certifications and courses that are
+toprated. Everybody loves them, I think, and actively land people jobs. So, you should probably check it out.
+Bye.

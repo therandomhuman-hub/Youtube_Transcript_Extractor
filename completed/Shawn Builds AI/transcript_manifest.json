@@ -1003,5 +1003,20 @@
     "discovered_at": "2026-10-10T13:07:36+00:00",
     "last_discovered_at": "2026-10-10T13:07:36+00:00",
     "updated_at": "2026-10-10T13:08:23+00:00"
+  },
+  "GYsC4Ttu4A8": {
+    "video_id": "GYsC4Ttu4A8",
+    "type": "VIDEO",
+    "title": "I Replaced My Salary in 4 Steps Without Quitting (Gemini AI Tutorial)",
+    "url": "https://www.youtube.com/watch?v=GYsC4Ttu4A8",
+    "channel": "Shawn Builds AI",
+    "status": "SAVED",
+    "source": "YouTube automatic captions",
+    "language": "en-orig",
+    "filename": "VIDEO - I Replaced My Salary in 4 Steps Without Quitting (Gemini AI Tutorial) [GYsC4Ttu4A8].txt",
+    "message": "Transcript saved",
+    "discovered_at": "2026-10-12T15:45:54+00:00",
+    "last_discovered_at": "2026-10-12T15:45:54+00:00",
+    "updated_at": "2026-10-12T15:46:38+00:00"
   }
 }

@@ -1,0 +1,1043 @@
+Title: App Expert: How to Build Viral Apps in 30 Days, Make Millions at 17, and Retire Before College
+Channel: Jack Neel
+Type: VIDEO
+Video ID: qDuzzrQKP_M
+URL: https://www.youtube.com/watch?v=qDuzzrQKP_M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T16:07:58+00:00
+
+Kind: captions Language: en Today's guest made $20 million before graduating high school. Last month, the app
+generated just over $2 million. At 13, he built a website that let kids bypass school restrictions and play
+games online, selling it for $100,000 a few years later. He then took the profits and created Cal AI, a
+revolutionary app that tracks calories simply by taking a picture. He quickly scaled the business to a million
+dollars a month and hopes to replace My Fitness Pal as the number one health app on the app store. The space
+is at least big enough where we could get to the 200 million my fitness fell is doing at least. In this
+episode, we'll break down his exact blueprint for creating viral apps, explore how AI is reshaping health and
+nutrition, and see just what it takes to create a billiondoll product at 18 years old. I probably shouldn't
+share much more about this because of the specific copycats that will see it and replicate the strategies that
+we have done. But Zack Yadagari, welcome to the Jack Neil podcast. Thanks for having me on. Yeah, of course,
+man. Um, we're in New York City right now, guys. I flew out here to see Zach and a couple other people. So,
+yeah, excited to talk to you, man. Um, a good place to start here. So, Zach, you're still in high school. Um,
+how much money did you make last month? Last month, the app generated just over $2 million in revenue. What is
+it projected to do by the end of the year? By the end of the year, it's projected to exceed $24 million in
+revenue. And you launched the app 10 months ago. 10 months ago, and you're still in high school. Uh you
+graduate in a few months, I'm guessing. So, what would that put your app valued at? With these things, it's
+always tricky. It's kind of subjective and different companies could value it very differently if they're
+looking to acquire it. But I would say without a doubt it would have to be in the range of 40 to 120 million
+which is kind of broad but it is more nuanced. Yeah, it's interesting multiples especially with a subscription
+model uh consumer app. But yeah, I kind of want to talk about uh let's just give people a taste of what your
+life looks like. Uh like what did you what were you up to before this podcast? Before this podcast, I went to
+school, high school today. And what did you learn? I learned about integrals and my physics teacher was
+actually absent. Learned about inflation and GDP. So some cool little takeaways. Interesting. Okay. Um, and
+then kind of give me your backstory on uh this app, Cali. You made an app that it's ranked number eight health
+app on the iPhone. You made an app that lets people track calories by taking a picture. I believe today it's
+actually ranked number six in the health and fitness section of the app store. It's always changing. The
+backstory to the app depends how far back you want me to go, but growing up I was always very skinny and I
+wanted to put on weight to impress girls at my school to be completely honest. And I started going to the gym
+but quickly learned the best way to gain muscle is to eat in a calorie surplus. So I started tracking my
+calories on one of the most popular calorie tracking apps at the time. This was about two years ago, but three
+days after getting started, I completely quit. It was extremely tedious to weigh my food on a scale, every
+single meal, type out each ingredient that I ate. I knew there was a better solution, but at the time, I
+wasn't sure what it was. The next year, all of these AI models started being released. OpenAI with Chat GBT,
+Anthropic with Claude, and I also started experimenting building mobile consumer apps. And so then almost a
+year ago at this point, I started speaking to my co-founder of Calai, Blake Anderson, and we decided to work
+on Cal AI. and kind of give me the process of how did you get to that point of like developing an app at such
+a young age? I was obsessed with video games. I wanted to play Minecraft, Roblox all day. And by the time I
+was seven, I actually wanted to create my own video games. So, I begged my mom to put me in a coding camp,
+which she did. And that didn't teach me much as a 7-year-old, the few weeks there, but it sparked the
+interest. And then for the next couple of years, I would binge watch YouTube videos all day, teaching me how
+to create all kinds of different games. By the time I was 12, I put my first app on the app store. It's a
+little soccer game where ball would fall from the sky. You would just tap to try to shoot in the goal. None of
+these projects really went anywhere, but they were filled with learning lessons, just how to build things.
+Then my freshman year of high school, COVID happened. Chromebooks were given out to all of the students to
+reduce contact. And unsurprisingly, students started playing games during school. So I saw a clear opportunity
+to capitalize on this. Basically, all of these game sites were scattered across different websites and they
+would have these obscure links be like qrstuv.com and that would have games on it or mathisfunxyz.com would
+have a game on it. So, I saw potential to combine all of these games onto one hub site. I called it
+totallyscience.co co so that it would be unblocked and within the next two years I grew that to 5 million
+users and then sold it at 16 years old. So when you were in middle school you made a company that you sold for
+$100,000. I started it the end of 8th grade and then it was making $60,000 a year my freshman year of high
+school my sophomore year and then I sold it my junior year. And what were you doing with the money at the
+time? At the time I saved it. I didn't spend it on anything. I actually didn't invest it either. So it was
+just sitting in a bank account losing value. But then when I started working on new projects, I reinvested it
+into marketing like Cali. So tell me about Totally Science. So you create this website uh and then all the
+games you kind of sourced from other code or how did that work? So these games were mainly ripoffs of other
+games. The popular games at the time. Fall Guys was one of them. Minecraft and people would publicly share
+this code on GitHub. So, we took those files and put them all on my site. And then how were you monetizing? We
+put banner ads. It was Google AdSense that supported it. And I think there was a lot more potential to
+monetize it. If I could go back, I would have tried to strike partnerships with a company like Voodoo, get
+their games up, and then have a QR code where people can download and then negotiate a deal where I would get
+paid X amount of cents per download. It was a good amount of money for a kid for sure. And you said we were
+you did you have a team at the time? So, it was mainly myself. I had one other friend who was a developer. So,
+the two of us. I'm curious like how did you know all this stuff? Like I understand some of the coding, but how
+did you know how to make a website, monetize it, run banner ads? Like were you just how did you know that
+something like that could even make money? A lot of learning on the go. I built the site and grew it long
+before I actually monetized it. So I left thousands of dollars on the table by not monetizing it sooner. I
+don't actually remember what exactly sparked me to put ads on the site, but I remember I had my first month of
+300,000 monthly active users and I thought maybe if I put ads I'll make I maybe like 20 bucks a day. I put ads
+on and the first day I made over $100. And how did you grow the site? I made Tik Toks myself. I would record
+my screen in class and the videos would be just text to speech. I wouldn't be in them and it would say
+something like, "I was bored in school, so I made this unblocked games website. Comment what game you want me
+to add next." And putting that the prompt to comment actually made it go viral because people would just
+comment games and it would be a loop where Tik Tok would see the high engagement and push it out to more
+people who would also comment. Got it. It's really interesting that you were able to grow something that big.
+What was like I guess the emotional factor, not the logical factor of I I want to do something cool. I'm
+solving a need as a business owner. Like did you want to look cool to your classmates and like everyone's
+using Zach's website in school? Like what was kind of the did you did that thought cross your mind? The reason
+I initially built Totally Science was not to grow outside of my school. I wanted to have the site used solely
+by people in my school honestly to impress girls and impress people in my grade. I was never really a cool kid
+and I wanted more validation and status. So that was how I thought I would fix it, fix the problem, gain more
+status. But it turned into something much bigger. When I made the first Tik Tok, I was not expecting it to get
+as many views as it did. The first video, I was just bored during a class. And so, I recorded the video and it
+got 60,000 views. It took me less than 5 minutes to record. The second video, it got over a million views. And
+you probably weren't even thinking from the perspective of I'm making this Tik Tok to grow this uh website
+necessarily. you were maybe thinking, "Oh, this is could be cool to get a viral video for status." Or was it
+to grow the website directly? Like how were you thinking about it? So the first video I made, I was making it
+not to get a viral Tik Tok. I don't exactly remember if I was even trying to grow the website because at the
+time I didn't think I could monetize it. I didn't even know that you could put ads on a website to make money.
+I really was just bored during my class and thought, hey, I already got everyone in my school using the
+website. Maybe more people would like using it. So, let me just show it to more people. And you know what? Now
+that I'm thinking about it, it was because I love when people use something that I have created and I
+maximized it in my school. So, to go even further, I decided to spread it outside of my school. Again, not to
+make money, but just to have other people using something that I created. It's a great feeling. Yeah. So, was
+that your first viral Tik Tok? That was Well, actually, no, that's not true. During COVID, I recorded skits
+and a few of them got over a million views. Gotcha. So, you were in in middle school during CO? Yes. That's
+crazy. I graduated uh senior year uh during co like we missed our whole senior graduation in prom and stuff.
+Um but yeah, that's really cool, man. Um so this leads into Cal AI. Uh I've seen people claim that like you
+use the money from uh Totally Science to fund Calai. Is that kind of the case? Yes. So I put everything I made
+from Totally Science. It was $130,000 that I put into Cali and Blake Anderson, one of my co-founders, also put
+a significant amount of capital. Gotcha. Okay. And then the project you were working on before it was uh what
+was it? Grind clock. That was the first app that I had built. It was a motivational alarm clock app where a
+motivational speaker like David Gogggins would wake you up screaming at you, "Let's go get out of bed. It's
+time to carry the boats, get to work." This app did pretty well. It got over 20,000 downloads in the first two
+weeks, but it was the first app I had ever built. I built it with one of my other co-founders with Cali Henry,
+and we had a lot to learn about app development. So, we didn't see that project out to its true potential. So
+it was totally science and then use a little bit of the money to make uh grind clock and then you went
+straight to Cali. So grind clock didn't cost us any money to make because we were programming it ourselves.
+But we made grind clock made a few other small projects and those were mainly just us learning app development
+because before that we had only ever done web or game development. And then Cali is the one that we decided
+let's put everything we learned to use. So tell me about some of those other projects before we get into the
+story of building Cali. Right after Grind Clock, we built an app called Flex. The idea was that it would be a
+social competitive fitness app. users would join a group with their friends, their gym bros, and every time
+one of them went to the gym, they would take a picture of them showing that they were there. You could take a
+picture flexing in a mirror, a pump pick, or it could just be a picture of the gym to prove that you're there.
+This was our second project, so there was definitely a lot about it. Even the idea that I would rework today,
+but I think that a variation of that idea could still work. We did a little bit of marketing there and we
+actually had a few groups of people using the app with their friends. So cool to see. But social apps, I
+think, are harder to take off than a utility app, which is really what I've become really good at over the
+past year. Why do you think that is? Because with a social app, it's almost like it needs to be well built
+enough to support tens, hundreds of millions of people or it won't work for anyone. And then as opposed to a
+utility app, yeah, utility app, you only need one person to get value because social apps, they have the cold
+start problem. You need other people on the app to provide value and make someone else want to join.
+Interesting. Yeah, I want to get into some of that stuff about uh just other apps in general and where there
+are uh gaps in the marketplace as well. But yeah, so Cali um how long did it take you to build a $100 million
+app? Well, the first version of Calai we spent a month working on before we launched it. We spent more like
+three weeks, but then the app store review process took another week. We launched and we launched with a few
+influencers to test out the product and saw that it worked. So, we kept going. But the first version was
+really simple. It had two screens, the settings page, and the calories left for the day page, one button to
+take a picture of your food. That was it. That was the proof of concept, the MVP. Gotcha. And then you said
+you launched with influencers. Uh where did that kind of strategy come from? Did you already know to do that
+or did your co-founder Blake uh kind of help you with that? So Blake before we co-founded Cali together had
+been working on two apps, RZGBT and UMAX. Both had amassed millions of downloads from the influencer marketing
+strategy. The pitch that I made him, he was very locked in on UMAX. He was full-time grinding on it. He was
+actually in a startup accelerator and I texted him, "Hey, I know you're locked in on UMAX, but if you could
+share the strategies that helped you grow those apps and could provide help with the marketing, I'd like to
+co-found an app. Henry, me, and you. We'll do all of the development. We'll do all the marketing, the
+groundwork, and he would just help with the highle strategy." And so that's what we did, and it's worked out
+very well. And those other apps by Blake, uh, UMAX and, uh, RZGBT, how successful were those? Those apps, they
+both were making hundreds of thousands of dollars a month. Calai has surpassed them, but they were an integral
+step to getting here. There were many lessons that we've taken away and that Blake has shown from those other
+apps that we directly put into this. Gotcha. And then Okay. So, you were kind of uh following Blake before and
+then you reached out to him. That's right. Um what kind of motivated him to do a project with you as opposed
+to just be a consultant for instance? The motivation was that I think he really believed in me. He knew about
+the website I built and speaking to him a few times, I think there was a lot of chemistry. So, we knew if we
+worked together, we could really make something big. And at what point did you reach out to him? Was it after
+the MVP of the product? No, he was actually involved in the ideation phase. Okay, gotcha. So, from the very
+beginning. And uh what was your decision to kind of co-ound this with a few different people? Because a lot of
+people are just kind of lone wolves. They do their project and hire teams underneath them. Why did you guys
+co-ound? We decided to co-ound together. Well, I think the whole thing about co-founders is that you are
+splitting the pie, but I think that working with really good people, you can go way farther than on your own.
+We have a really good team. We actually there are four co-founders total. Another one Jake who we brought on a
+couple months after starting Cali and everyone has been crucial to the success. Henry who's our CTO for the
+CTO if we want to move as fast as we are with development speed we need someone who actually cares about the
+future of this project. So him having equity is extremely important. He now leads a team and is pushing
+everyone. Jake, he leads our marketing team at this point and it's the same thing for him. He's incentivized
+to push everyone. Blake is no longer super involved as much as he was earlier in the company. He's now working
+on different projects. He's actually locked in an apartment for the next well, it's a 90-day challenge. It's
+already been 30 days where he's live streamed 24/7. It's called PMF or die. But he was very crucial him having
+equity. Without it, he would not have been willing to share as much. And for myself, I have worn many hats
+throughout this company. Early on, I was a programmer. Then I was our lead marketer. And then I was the lead
+product guy. And now I'm working more on the business rather than in the business looking for our next huge
+levers doing recruiting and talking to other founders. So I think each of these pillars it's necessary that
+everyone's incentivized and that's how we've grown so fast and why we've gone so far. And then do you mind me
+asking uh the equity splits is it fairly even or is it in your favor since you're the CEO or how does that go?
+It's 30 3030 10 jay caving 10 only because he joined a couple months after. Give me the step-by-step blueprint
+of idea to product to uh Tik Tok marketing. Uh just kind of blowing it up in general. Yeah, sure. I always
+like to think about things from a marketing first perspective. I like to find an idea that is eye-catching,
+that is captivating, that is useful, and then build a full product around it. With Calai, that was the take a
+picture of your food. It tells you the calories and the macros. So, we took that one aha moment feature and
+built the whole calorie tracking product around it that uses the same things existing apps would use like the
+whole food database barcode scanning, but that's the main feature that we market ourselves around. There are
+many other apps that do similar things. Turbolearn AI is a new AI app that just came out. Their whole thing is
+record a lecture and then it will generate notes from the lecture. So that was the aha moment part and then
+they built the whole experience around it where it's now quizzes that you could generate and it's a full
+immersive study tool. But that's the main feature. That's the framework I generally use to figure out an idea
+to work on. And then it's just about building the rest of the product, getting an MVP out, which I don't like
+to spend more than a month on, which should basically be that main feature, and then the minimum amount of
+components around that to still give a good user experience. After that, I usually reach out to the first
+couple influencers that I think are the ideal influencers for a project. People that have an audience in the
+niche of the product that's super super close together. In the beginning, you want to be very specific, but
+then you can start to become more broad as you expand. And after proving the proof of concept, then it's just
+about scaling up everything, the marketing, making the product better, finding the idea. And what does your
+target avatar look like? I know it's a fairly general product, but have you noticed that one type of
+influencer converts better or one type of audience uh downloads the app? Particular different influencers
+definitely have different returns of conversions. We This is the hardest thing about influencer marketing is
+predicting ahead of time how well an influencer will perform for your product. It's something that we've built
+out internal tools to help us with. It's also something where growing up on social media, I think we have an
+advantage. Like is it ages uh 18 to 22 female? Is it uh 65 plus? Like is there a specific range that outweighs
+the others? Yes, there actually is. We found that most of our users are between the ages of 15 to 25 years old
+and they're men. So, we're really hitting the newer generations that maybe haven't even tried calorie tracking
+in the past or haven't known about it. And do you think that is because of the uh UX of your product like the
+design? Do you think that's because of the utility of the product itself or is it possibly your marketing
+strategies have led to uh that demo? primarily the marketing strategies. The reflection of our demographic is
+analogous to the breakdowns of audiences of the influencers we're actually working with. We mainly work with
+bodybuilders and other people that post fitness content on Instagram. So, naturally, because it's social
+media, it's going to skew towards the younger ages. That's interesting. It's something I've given a lot of
+thought to making tons of content over the years is that I have no idea how to make a like I know how to make
+a video viral um for men, but I don't know how to make a video viral for women. I I've had some videos go
+viral like 50/50 split or some have been disproportionately appealed to women, but it's a hard thing to
+replicate as a guy because you know the kind of content you consume with a male brain and the kind of content
+females consume is a bit different. Um, and yeah, it's just something hard to play with that I've recognized.
+Have you worked with a lot of female influencers as well? We are starting to work with more because we
+definitely want to hit the female de demographic more than we are right now, but there are fewer female
+influencers in the fitness space than men for sure. And have you noticed that it's a different type of content
+they make as opposed to the men? They do make different content. Some are the same. A very common trope is
+just the what I eat in a day videos or my daily routine videos where they will show doing their hair, going to
+the gym. So those stay pretty constant whether it's a male or female bodybuilder. But then there are females
+who are more into the mindfulness, the talking to their girls straight into the camera versus the guys who are
+flexing and not talking. We have over 250 influencers right now that we work with. And at this point, I'm not
+managing most of them. So, there are so many influencers. I'll get texts all the time from people either in my
+school or that I'm friends with. They're like, "No way you signed this influencer. No way this just came up.
+That's sick." I'll be like, "Oh, sick. I didn't know you signed them either. That's pretty cool." Yeah. The
+team is just running. It's a welloiled machine. It's what I like to call our marketing team. What's the number
+one mistake brands make when working with creators? The number one mistake is that they can't accurately
+assess the ROI of the influencer ahead of time. They either don't know how or they think it's impossible. And
+so they will overspend crazy amounts on marketing. And it is hard to measure especially when you're massive
+scale. So companies like Coca-Cola, Pepsi, these billion-dollar brands, if they have an influencer post,
+they're not going to see any difference in their data of 10 million sales in a day to go from 10 million and
+one to 10 million and 100. They're not going to notice that. Why do you think that is? Uh do or let me ask you
+your strategy. Do you employ a creative for them to follow or do you specifically reach out to people with we
+have this idea for you or do you kind of let the creator take uh creative liberty? We give the creator
+creative liberty. They're the professional. They know what gets views on their account and we don't want to
+suggest a video that's just going to completely flop. And then your creators, do you pay them uh like flat
+rates or is it CPM model affiliate? The CPM model and affiliate model is every brand's dream. But that's the
+problem and how so many brands get it wrong is that no influencer will accept that deal because there are 50
+other brands that would just pay them upfront for the same thing, guaranteeing them a payment whether the
+video flops or goes viral. So that's why it's very important to predict the ROI ahead of time. So you know,
+okay, I can spend under X amount and it's going to be profitable. And many brands, like the big brands that
+are making these mistakes, they just throw a ton of cash and I believe they put it under the category of brand
+awareness. They don't know if it's profitable. They don't know, they can't measure the direct response. And
+that's what we do really well. That's how we've scaled so fast. Yeah. What's your secret there to knowing if
+an influencer is going to convert for the brand? There are many things. It's very nuanced. To explain our
+strategy high level, we have a few internal tools that we've built out which help us with this. We analyze
+influencer profiles. Followers don't matter at all. It's only the views they get. But then not all views
+matter equally. Not all views are valued the same. You have to also assess how strong their community and
+following actually is. You have to assess the niche, the gender, all of these micro factors that are at play
+with every single influencer, your demographics to really calculate a profitable ROI. And is it more so just
+are you thinking about who has a loyal audience that will do whatever this creator says or are you thinking
+about who is capable of making an ad creative that will go viral and convert. We don't necessarily care about
+virality. We do care about getting views but the way we usually structure deals is we expect the video to get
+just as many views as their regular videos will get. So we don't try to apply some crazy formula. We just want
+them to plug in our product into the content that already works really well for them and almost sneak it in
+there. Our integrations are extremely subtle for Cali. A lot of creators will make videos where they're just
+at the gym going about their day. That's their usual video. And so we'll just ask them to add in a screen
+where they sneak in Cali. Yeah, it's very good marketing. Um and then do you have them like disclose it as an
+ad? Well, some creators do. We have it in their contract that they are supposed to follow all laws around
+making content. So, the FTC guidelines, so you're not really involved in that. Um, you don't have to ensure
+that that goes well. It's interesting. So, I'm guessing that would convert fairly well because it's getting
+their normal audience. They're interested in the product. Uh, I'm guessing you probably have some accounts
+like commenting like, "Oh, you use Cali uh to do this." And it gets people looking at it. But um for your ads
+specifically, I know you've been playing with ads the past few months. Uh is it the same type of videos that
+are getting high rorowaz or like return on ad spend uh that do well on TikTok for you or is it a different
+type of video entirely? Are you talking about paid ads? Yeah. Yeah, paid ads. So I have to be careful what I
+say here because I know there are so many Cali clones that are going to watch this. Oh, that makes strategy.
+So many clones. It's very I I don't want to say random, but we found specific categories of videos that really
+do well and it's seemingly random. It's not necessarily the videos that go viral that have the best return on
+ad spend. That was my guess. Yeah, I was thinking that uh the type of videos that go viral or the ones that
+you're doing with these influencers where it's hidden integrations, they wouldn't do super well on uh paid ads
+because you kind of need congruency. Like when I was running paid ads uh for some different offers, I was
+realizing I was like, "Oh gosh, you literally have to be very direct about what this ad is." Um like you have
+to be like, "Want to track calories uh with a phone?" But I'm sure that won't work. All you Cali clones out
+there, um, don't do anything like that. Uh, but interesting, man. Uh, have ads been converting for you better
+than organic? We are very small with our paid ads right now. We What are you spending a day? If you don't mind
+me, right now only about 3,000. And at one point, we were at 5,000. Then we scaled down because we switched
+from no free trial to a free trial. So, we had to reset our campaigns. And then we started to really focus on
+scaling influencers more. So put paid ads to the side. And now we're finally dialing in on paid ads again.
+You're spending 100k on paid ads and you're making 2 million a month. The paid ads are by far the least of our
+marketing efforts. It's really our influencers organic videos that drive the traffic. That's insane. How much
+are you spending on influencers a month? we're spending in the six figures. So about 250 influencers. Are
+partnerships with big influencers worth it? They can be. I think a lot of people like to go after micro
+influencers and think that they'll get the better ROI. It's interesting because the smaller influencers, the
+ones with 10K followers, they'll actually try to charge you these absurd, absurd rates. Like 10K for a video
+that will get 1,000 views. 10K. Some of them will. It is insane. So, I actually prefer working with the bigger
+ones, but we will work with any size as long as we could calculate that it will be profitable at the end of
+the day. It's really interesting. Yeah, Zach, I don't know how much you know about my background, but I
+started as a Tik Tok creator uh and like had a brand agency and it was really interesting seeing the evolution
+of uh it was like there were Tik Tockers and you ran uh brand deals with them and it was like kind of a set
+rate like someone with 5 million followers maybe make like $5,000, someone with 10 million followers make like
+$10,000, something like that, maybe a little higher depending on the niche, but uh I think in 2021 one when
+the stock market crashed, like companies strategies just went completely to micro influencers uh because they
+were charging like a hundred bucks for a post and it would do pretty well and you could just test a bunch of
+them. But uh yeah, it's it's kind of weird that that strategy of working with large Tik Tockers isn't really a
+thing anymore. It's more like large YouTubers, large Instagram people, and there's not really a space for
+people with a million to 15 million followers. It's like people with 40 million followers, 50 million
+followers get all the brand deals, and then people with less than 100K get all the brand deals. Is that kind
+of what uh the strategy now that brands are using or you guys are using? For us, we will work with people in
+the middle range, that middle zone. We will also work with people under 100K in followers. To be honest, we
+don't care at all about followers. We only care about the views. And if we can negotiate a deal that's
+profitable, then they could have zero followers or 100 million followers, we'll do it. And then I'm not sure
+what you want to make public. I can cut it out if you want, but like what's your CAC or like cost of
+acquisition for So for influencers, we don't look at CAC. We don't calculate it that way or for for the app.
+Yeah. Well, for the app from influencers, calculating a CAC is not the best metric. The best metric is
+actually RPM versus CPM. So revenue per thousand views versus the cost per thousand views. And our RPM, it
+varies per influencer, but could be between $5 and $20. Got it. So 20 bucks for a,000 views. That's crazy.
+Well, 20 bucks that we would make from 1,000. Yeah. Yeah. And then Okay, so six figures on influencer
+marketing, 100,000 on paid ads. Uh where's the rest of the budget going to? Because I know you guys don't take
+any cash out, right? We have been reinvesting all of it. So, you've made like zero dollars. Well, it's
+interesting. Apple does payouts two months after you actually earn the money. So, we are scaling with the
+revenue we generated two months ago, but at our growth rate, the costs every month keep going higher and
+higher where we have very little left over after spending the money from two months ago. Even though if we
+waited for the payout from Apple, if we could fast forward time, we would be heavily profitable and have
+millions of dollars coming in in profit personally. So if you got the money faster, you'd be scaling faster.
+Is what you're saying? Yeah. Is there any other uh method you can go about that like getting bank loans or
+There definitely is. There's also services where we could get paid out and then they'll take a percentage when
+the Apple cut finally comes in. We haven't heavily considered any of those only because I think even if we
+could scale faster, it wouldn't be as efficient. So, it's not worth it. It's not worth the extra cash. We make
+good use and we're very resourceful with the money that we do have coming. Got it. So, Calai, uh, how long did
+it take you to hit a million downloads on your app? 1 million downloads. We likely hit that by late July. So
+that would be 3 to four months after launch. Jeez. A million downloads in three months. And what were the
+biggest contributing factors? Just influencer videos that went viral or influencers. We didn't even start paid
+ads at that point. What's the most amount of money you've made from a Tik Tok? From a single Tik Tok, we've
+made likely upwards of 50,000. Okay. Okay. So, it's just running it in mass. Um, and then this is a lot of
+recurring revenue. Um, is there high churn on the app? Because I know it's fairly common with uh subscription
+models to have extremely high churn, especially like ones that have a specific gimmick that what people want
+to try out, but yours is more of a utility. Like a lot of those apps that, oh, you could see what you looked
+like uh in your high school graduation photos. Like it's like you subscribe for a week and then you cancel it.
+Yeah, totally. We have not been able to see churn yet because 95% of our subscriptions are yearly
+subscriptions and so we haven't had a chance for any of them to renew. Oh my god. 95% of your subscriptions
+are yearly. How do you do that? Well, we give a very generous discount to yearly subscriptions. It's either
+$10 a month or $30 a year with a three-day free trial. And who came up with that offer? We AB tested so many
+different prices and pay walls and found that that was the highest converting. So that was the highest revenue
+offer or that was the one that led to the most amount of people subscribing for a year. That one led to the
+greatest amount of revenue per user per download. So, it had a mix of the most people subscribing to it. And
+even though each subscriber it was less money than when we tested the $70 a year subscription because more
+people would subscribe to the 30 a year, we would make more money on average per download. And then is it in
+the Android store as well? It is. And then does a large part of your revenue come from Android or is it mainly
+Apple? Android sucks, bro. That's less than a tenth of our revenue. Okay. So, if I wanted to do this, uh, I'm
+a 23-year-old guy. I know there's some young listeners of this podcast. What would be the first step to making
+a million dollar app? I would say that the first step is to find that aha moment, that cool, captivating piece
+of technology that provides value. So, for us, it was take a picture of the food and it tells you the
+calories. What are some other examples of that? um like what are some other AI apps that you're looking at? Um
+some other ideas you've had perhaps like of a aha moment. So I mentioned TurboLearn earlier which is cool. You
+just record, get notes. There's another app. Why is that viral though? It's viral because it's people don't
+have to listen to their lectures. They don't have to listen to it. Yes. The hook is basically I'm watching
+TikTok in class and then someone's taking notes taking notes for me. Some other ones I saw an app recently. I
+forget what it's called, but you go through a quiz and then it tells you when you're going to die and then
+after you subscribe, it will help you give you lifestyle tips to improve your lifespan. That's a good one. Do
+you think they have high churn though? Because most people are there for the when I'm going to die. I think
+they totally have high churn. What are some other things you've seen that have been successful? There's this
+app recently that came out by a friend of mine. It's called Quitter. It helps guys quit porn. It gifies the
+experience as milestones and streaks. And their aha moment is the panic button. So when you click it, it will
+pop stuff up on the screen like text yelling at you saying, "Do not give in. Remember why you started." It
+will show you a quote of your reason to get started, which you put in on the onboarding. There are just
+countless of these. I would, if I was looking for an idea, go on the app store and scroll through the top 200
+of different categories in the app store charts of the education space, health and fitness space, lifestyle,
+games, and find something that is appealing and then use that as inspiration. either find something that
+hasn't been innovated on in years. It's kind of like my fitness pallet stagnated for years or to create
+something completely new. Let's do that. Let's let's give people an exact what they would do. Um because
+you're a believer that anyone can do this, right? Yeah. Okay. This is a good one. Dolingo. How would you make
+an AI version Dolingo? It's funny you mentioned Dolingo because that's actually something my co-founder Blake
+is doing right now. a Duolingo where you could learn anything. So he's basically building an app where you can
+enter any topic you want to learn about, describe it, and then AI will generate the course material in a very
+dynamic way to learn anything you want. So do you think the most effective use of this AI version of apps
+thing is uh maybe researching what are some possibilities that uh GPT and these AI models can do uh and
+looking for gaps in the market there or do you think it's looking at uh pre-existing apps and just
+implementing AI? I think both looking at models is a good idea to do as well. There was a model that came out
+recently where you can upload an image of a person and an image of clothing and then it will generate you an
+image of the person wearing the clothing that you uploaded. So you could easily package that into its own app.
+It's virtual tryon closet. You could call it closet AI is probably what I would name it. Closet AI. So and
+that's already uh being built. No, no one has built that. Okay. So, so you just came up with this? Yeah. Okay.
+So, closet AI take a photo of someone, then take a uh then upload a photo of an outfit. Uh describe like the
+fit of the clothes, whatever, uh the background, and then how do you build that? So, there are APIs that were
+released, application programming interfaces where you can use this AI model. Right now I would build out I
+would use cursor which is very helpful for writing code with the assistance of AI to generate first before
+coding. It's important that you design the app. So I would use Figma to make the designs put buttons. I would
+keep it very simple for the MVP. something where the home screen you have the ability to upload any picture
+and see your past images uploaded and then it would I would keep it very just limited buttons on everything. I
+would go in cursor code it up. It wouldn't be anything too complex. Chat GBT could really guide you through
+it. I believe that right now there are a few limitations with the AI models where it can't do everything. I
+believe it specializes in dresses, shirts, anything for the upper body, but it's not as good. It can't do
+shoes, for example. But AI models will come out soon that can do shoes. So, it's the it's a kind of app where
+it will get better and better as AI progresses. So, it will grow with the technology, which is always cool and
+always a good idea to build something that will grow with the technology. And then I would I would probably
+try out a few get ready with me influencers. You said, "So, Figma, um, how do you like does that website
+automatically build you an a UI like an app interface without doing anything?" It does not. You have to do it
+yourself, but it's not super complicated. Watch a few tutorials. If you can get good at Figma, that's a very
+valuable skill. If you had zero coding experience, but you had a general idea of Tik Tok and like what looked
+good uh as an app, what would be your first hire? Like if you wanted someone to take care of that part of it
+and you kind of help them with it. I'm a believer that you don't want to hire anyone needlessly. Well, not
+just needlessly, but if I haven't found success before, if I'm just getting started, I would not outsource
+anything. You wouldn't even get a dev. I wouldn't even get a dev because how are you going to manage someone
+if you don't know how to do it yourself? You would just be trusting someone that unless they're a co-founder
+with equity, your incentives aren't really aligned. If you charge them project basis, then they're
+incentivized to get it back to you as quick as possible. write code that probably isn't scalable and long-term
+that is going to be very bad for adding on new features to the project. If you hire a dev and pay them hourly,
+then they're incentivized to over report their hours or spend excessive amounts of time getting the project
+out and you won't be able to launch it as quick as you could otherwise. So, how would I know then? Uh like do
+I need to learn some code? Are these softwares good enough for me to get an MVP up? Um, like what would I need
+to learn how to do? How long would that take? With AI, I'm very confident anyone, even with zero coding
+experience. If they put in the hours, can launch an MVP within a month. That would be spending hours a day,
+maybe four hours a day. If they aren't willing to put in the hours or fewer hours, they could, it would
+obviously take longer, but you definitely can with these AI tools super easily now. Okay. So, closet AI, we
+have the MVP. Uh, we have to get it approved by Apple first, I'm guessing. Or would you I you might not have
+learned this yet or you might disagree with the philosophy. If it were me personally, I would do the ad
+creatives uh before uh doing the product and maybe just make an MVP of it to show in the uh ad creative or
+just do an ad creative that doesn't even have the product in it. uh just to like test, you know, do you ever
+think about that or do you think there's like a reason you need to make the app before you test it? I have
+seen people do that. I don't think it's I think that strategy could work for some people. Whenever I build
+something, I'm very confident in the fact that it will be able to go viral on social media. So I go all in but
+I have seen people do that. The only argument against it is that you'll you will move slower if you need to
+first validate it works then go build it. If that's the one project you want to work on versus if you're just
+trying to experiment and find something then it could be a good idea to do that. Build out these test
+prototypes for a bunch of different ideas. see which one works best before investing the time to build it.
+Okay. So, you said influencer marketing. You would get a couple influencers in the niche. Uh where would you
+go from there? Would you think of would you steal viral Tik Toks from similar apps, similar niches, and kind
+of go that route? Or you know what? I actually have a friend that did that strategy you were talking about. He
+designed the app in Figma and then he made Tik Toks about it. The Tik Toks got millions of views. People were
+super excited about the app. Everyone in the comments, they would come back days after, ask when it was going
+to be released. But then it took him a few months to build the app, which is reasonable. First of all, he
+outsourced it, so it's going to take long. As I explained, incentives are not aligned. But secondly, it was
+also his first time building any project. So that also would add to the timeline. He launched the app finally,
+but when he made Tik Toks, the Tik Toks wouldn't break 1,000 views. He had lost the hype that he once had
+built up. So, that is one thing I would be wary of. If I You also give away your idea. You give away your
+idea. Yeah, he did that and then a ton of competitors actually released before him. So, if you're going to do
+that, you need to be ready to move extremely quick. As soon as the idea is validated, you need to get on that.
+Back to the uh once we have the app. Yeah. What What's the Tik Tok uh strategy that you'd go with as an MVP? I
+would find an influencer that is one of the top influencers in the niche and not top by followers or views,
+but one of the most closely related your ideal dream influencer for this product. Basically, who it was built
+for. And if it works with them, then that's great. You could expand outward. If it doesn't work with them,
+then you could usually scrap the idea or you'll have to refine something about it because if that's your ideal
+influencer for the product and it doesn't work with them, it's not going to work with anyone. And how do you
+know something works? One download, 10 downloads. I measure if something is successful if it's a profitable
+influencer promotion and has a good ROI, too. If I spend $100 to pay the influencer and then that generates
+$1,000, I'd consider that at least preliminarily successful where it's worth more investment working with more
+influencers, seeing how far it can go. And then after the influencer strategy, uh, is there anything left? Is
+it like, uh, you just continue working on the app, iterating? Well, by that point, hopefully whoever gets
+there will that's when it's more about scaling than anything else. You'll want to build the app, build out
+more features after validating it. You will want to contact and work with more influencers. You will probably
+want a designer to come on and make everything better. If it keeps going well, you'll want to hire as you're
+scaling. And to break down every step on this podcast would take hours, but I think if you can successfully
+get past the first steps of validating the idea and generating a profitable ROI, then you are smart enough to
+learn how to scale and build a team around it. Do you think you got lucky with Cali as the second idea of the
+app you launched or do you think you learned enough from launching uh Grind Clock to give you the information
+necessary to build Cali? Well, Cali wasn't the second app. Cali was probably the fifth app. Okay. We built the
+social competitive gym app after Grind Clock Flex and then a couple other small projects. What were the other
+ones really quick? So the other ones, one was a peer-to-peer payment platform. It was we briefly worked
+actually at another startup building it for them. We weren't the founders then. It was honestly a waste of
+time. Was it web 3 crypto stuff? It was not. It was mostly for it was basically Vinmo competitor kind of not.
+Well, it actually was a competitor to something they were working on, but it was Linkree for payments. So you
+could send someone a link that would have your Venmo, Zel, PayPal, and they could choose which one they want
+to pay you on. Yeah, that's needed for sure. And then what were the other two startups? The other two were one
+was actually a motivational wallpaper app where you can choose images, choose some motivational quote, and
+then generate a wallpaper for your phone. The other app we were working on, we were working on a breathing app
+like a calm competitor and was it integrated with AI? It was not. This one was not an AI app. We also played
+around with many other ideas like take a picture of your face, get the best haircut for you, see what you
+would look like with that haircut, for example. So, just constantly messing around. Some of these we launched
+the app store, some of these we never launched. But in terms of was Cali luck, what I kept saying to Henry,
+who is my co-founder on all of these apps, was that if we keep launching apps, inevitably one will succeed,
+one will take off. the extent that Cali took off, was there some luck in the spa that that was the app that
+took off and it's in a space that has a ton of opportunity? That's more debatable. But was it lucky that we
+had a success as big as we did or even to a big scale? I don't think so. I think it was inevitable because we
+were not going to stop until we found success. What was the most successful of the apps you launched before
+that one before Cali? Well, the most successful thing I built would have been Totally Science. Okay, so the
+other apps, which of those uh besides Totally Science, like got good downloads? Grind Clock, which got tens of
+thousands of downloads? And why was that not enough for you? Because, well, it should have been. That was the
+first app we had ever built. We didn't really know what to expect. And so after taking away learning lessons,
+we were like, "Okay, let's apply this to other apps. But in retrospect, we should have kept working on grind
+clock, kept updating it. There was clearly a lot of good feedback from users initially." Yeah. It just seems
+like the one like I think there's a world that exists where one of those other apps got to 100K MR and you
+were okay with it and you decided to work on that, maybe scaled it up to 200, 300K. It just seems like the
+fact that Calai is such like you were building um an app studio a few months ago like it seemed like you were
+going to focus on a bunch of different uh niches because you kind of had the marketing strategy but you ended
+up just honing in on Cali. Um so I guess that's the only thing that seems a bit lucky to me is that the market
+was maybe bigger than you thought and the interest was bigger than you thought. Um I guess how big do you
+think it can go? My fitness pal did 100 million in revenue last year. I believe it was actually 200 million.
+200 million. Okay. And then N is doing also hundreds of millions. Their company is valued at over1 billion
+dollars. There are a few other apps that are also doing tens of millions of dollars a year. So I know the
+space is at least big enough where we could at least get to the 200 million my fitness fell is doing at least.
+How far past that is the question. I think that may necessitate integrating physical products maybe like GLP1s
+is how N really scaled. Are those supplements? Those that's like ompic. Do you have any ideas for what would
+be the next thing after Cali? Any problems that you want to tackle? I definitely want to get into the hardware
+space. I don't know exactly what I want to build yet, but something physical makes you feel like Iron Man.
+It's so much cooler than software. Are you thinking you want to build an iPhone competitor? I don't think if I
+build something that would become the new iPhone. It wouldn't be a phone. It would maybe be glasses or a brain
+chip. So, I think the form factor would be entirely different. And I expect glasses will be the next big
+thing, the next iPhone. I expect it. And then after I expect it will be brain chips. So I don't know if I'm
+too late to get into the glasses. I may be too late. Maybe not. Maybe I'm at the perfect time where I just
+need to hire the right team and build off existing technology. And if we move fast enough, we could be the
+best product to go to market. But if I am too late, then maybe something with brain chips because that is
+fascinating to me, the brain and connecting technology to it. Something like a neural link. Um, yes, that is
+basically what I've thought about. Would you build a competitor or would you want to work on that project
+specifically? I would never not want to be the founder and CEO. So, it would have to be a competitor. I I do
+want to challenge you on that a bit because you'd kind of mentioned that after you have the cash out from uh
+Cali, it wouldn't really be about money. It'd be about changing. Do you think you would change more lives and
+position as a founder or do you think being a part of someone else's uh journey? I want to be the one at the
+wheel changing the world. I don't want to be enacting somebody else's mission. And part of that is because I
+also I am addicted to the idea of having ultimate freedom. Freedom to do anything I want, when I want,
+wherever I want, with who I want. Working at another company takes away freedom. The whole point of
+entrepreneurship is that even if I was only able to make $100,000 a year and if I can make $100,000 a year at
+a normal job but put in half the time because it's 9 to5 clock in clock out don't have to think about it
+versus the startup where I'm constantly working 247 as most founders are. I would take the startup every time
+just for the freedom of choosing what I can and cannot do. It's really interesting on freedom that you value
+that the most. Um I think most people should. Uh I wanted to say this about the uh iPhone just in general. You
+might have had this realization. I came to this recently. I was kind of getting into the uh high ticket space
+like thinking how could I charge someone like a million dollars for a product, right? And a lot of that's
+honestly my big recommendation. And that's something horos talks about is like go white glove uh go enterprise
+and then kind of uh scale it down from there. Like uh Uber for instance started as like you had a personal
+driver or chauffeur and it was only for rich people uh personal chefs kind of started that way and then you
+have Uber Eats and Uber uh the kind of commoditized version of that. Uh and what's interesting the richest
+billionaire in the world was uh the guy who founded the Louis Vuitton last year and it's because they do like
+high ticket products. uh that you like buy on repeat. And what's interesting about Apple is the iPhone is a
+high ticket product for everyone. So it's like a commodity. It's like a chocolate bar, but you're paying
+$1,000 for a chocolate bar and you're getting a new one every two years. Um so they have the repeat built in
+and then also all the stuff with the app store of them taking a percentage. Um that's just why the iPhone is
+such a good product. And I think if someone can make another thousand dollar thing that is purchased by
+everyone every two years. Um that's the thing about a brain chip though. You don't want to get it in and out.
+How would you monetize that? Well, people don't want to get it in until they know it's completely safe. and
+they won't do it until they are forced into it because the ones who don't have the AI chip, the brain chip,
+will not be able to keep up with people who do. They will fall behind because intelligently and everything
+within the body they will not be able to keep up with. But how could you monetize that? It's like do you make
+better versions of it for some people? Do you uh implant it in and then it stop your brain stops working and
+then you have to get a new one every two years? Like have you thought about that's a good question. I would
+have to that's something where with my limited knowledge of the technology it would be hard to say but it
+could be a subscription where you have to pay to keep it to keep it active and if it turns off nothing will
+happen but if you want to keep the benefits you have to pay the subscription. H subscription model brain
+That's interesting. Could also be a one-time payment. Yeah, but a lot of people couldn't afford like the 80k
+you go for it because that's the only way the business could be profitable. Um, but I think a subscription
+could definitely work. Kind of like an aura ring. You pay for that and then the subscription cost a lot of
+money actually. Um, let me just ask you this. Uh, what's the hardest part of being a millionaire at 18 years
+old? It's hard to relate to people my age. And so it makes some social situations difficult, becoming friends
+with new people. That's something I'm a little worried about going into college and it's going to be
+interesting to see how it plays out, but there are very few people I can deeply connect with. Have there been
+any other unexpected consequences of you being so successful so young? I'd say there's a lot of good that
+comes with it. More good than bad, I would take. There are bad things. The worst thing is making it hard to
+harder to relate, but it's a trade-off I would take every time. I think that there are obviously these stories
+where people are asking for money from someone that became successful and so far that really hasn't happened
+to me. At least not much. But I do expect I will eventually see there is a bad side to all of this. I uh we
+spoke about this off camera briefly that whenever I interview a guest or research a guest, I get kind of
+hyperfixated on uh the topic at hand and I was thinking what AI app could build um that would do a lot in
+revenue and I just want you to like tear it apart so if anyone else uh builds an app uh they kind of get what
+you think about first, you know. Um, so if I built an app, let's call it uh Roast AI or Roast GBT. That's an
+app. Or I Roast GBT is an app. I did see that. But um, so what does that one do to your knowledge? You take a
+screenshot of text messages and then it will generate you a reply that roasts the other person based on the
+context of what they could see in the messages. Got it. Okay. So, I I think my roast AI would be different. Uh
+that it would kind of be like the Mog AI where you upload a photo of yourself or someone and then it just uh
+sends a chat roasting the out of you. That's the MVP version of it. And then it kind of gets deeper that uh
+you have like the AI voice do it. Uh so like maybe there's an avatar and it like has a video where it just
+roasts you uh uh just roast the photo and then that video is maybe like a viral piece of creative you can use
+for Tik Tok. And then going past that uh you have like the paid version of it which is celebrities roasting
+you. Um so it's like celebrity generated AI with AI voice and that kind of roasts you. And then even past
+that, uh my idea for something viral was uh like fake FaceTime video where you show like I say I flipped the
+screen to you and it was uh who like Kevin Hart like a comedian and you're like, "Oh, what's up, bro?" And
+then it's just AI responses and it starts like roasting you and interacting with you in real time and it's
+like, "Why are you laughing? This isn't funny." You know what I'm saying? Um, and I think the technology is
+somewhat there for that. But like what would be your uh like critiques and good parts of an idea like that?
+Totally. So would that all be in one app or are these separate apps? Like ideally I would be testing it and
+then adding the features as it goes and then probably remove the like chat roast feature like Okay. Yeah. All
+of these apps, all of these separate ideas, these features, they are inherently viral. If you made Tik Toks
+about them, they would get views. However, the roast someone based off a picture likely isn't something people
+would pay for. The FaceTime idea that is very interesting. There's an app that came out recently called
+Parallel Live. It is a fake live stream where it looks like you are on Tik Tok live and you have thousands of
+followers, thousands of viewers right now commenting, reacting, sending hearts. So you could go up to people.
+This is what they do in the ads. And this guy will go up to girls be like, "Hey, I'm live." And then the girls
+will be all over him because he's some influencer or fake influencer. This is what the idea reminds me of the
+FaceTime. That is the thing that people are likely most likely to pay for. It's still not something that
+everyone would convert for. I think you keep this. You keep the FaceTime. You keep honestly the part where you
+upload a picture and you get roasted. I don't know if we need that. But the FaceTime, I like that idea as a
+viral hook. But then the app is built around an experience where you could generate celebrity videos. You
+could fake a FaceTime with a celebrity. And there are different modes. You could have it roast you and then
+show it to your friend. You could have a real conversation with the influencer. And you could also generate AI
+voices of the influencer or videos. And that is something where I think people would find use cases and
+actually pay for the FaceTime as the hook and then you could add on other features that are paywalled. That's
+interesting. So what I'm kind of getting uh maybe you're not implying this but it's something that is viral
+but maybe not something that people will use every single day. Um not that they won't you first of all yeah
+they probably won't use it every single day. It's kind of gimmicky to have like a FaceTime prank. Like, sure,
+that's a viral video, like Kevin Hart roasting your mom or something, but it's like how many times can you
+really do that to people? Um, like you might buy the subscription for a week, uh, let's say, because you just
+want to test it out. But I guess the real interest would be talking to someone on FaceTime that is an AI
+celebrity because that's probably what people would end up using. And that's my guess because of uh just the
+popularity of chat bots, like chat with your favorite influencer in general. Yeah, I think you could basically
+build character AI but for talking to celebrities and not these anime characters. Why do you think those are
+so popular? I believe loneliness. There was a recent graph I saw that showed how the amount of people the
+amount of time you'll spend with your friends as you get older. There's a very very steep drop off after the
+age of 18, 19, 20 all the way to 23. very steep and it goes from maybe 60% of your time is with your friends a
+very high number to less than 10%. And I think at this age people become very lonely very fast because of how
+fast the drop off was and they want some kind of friend to talk to. So they will resort to AI. Not everyone
+but enough people. And if you can make a friend in the AI, if the experience is convincing enough, which I
+think many of these chat bots lack many things that really make them convincing and addictive, the types of
+things that friends would actually do for each other, like start the conversation, not just wait for a
+message. I think it is something that's going to develop into something almost anyone can use and not just
+these lonely people. on virality. Uh you've made millions through going viral on Tik Tok uh or just getting
+videos that uh you pay for sponsorships with influencers. Uh what's your secret to going viral on Tik Tok? So
+with influencers, there's no secret to going viral. If the influencer averages 100K views, I'm going to expect
+the video that they include us in will also get 100K views. Unless it's a super obvious ad where they're
+literally saying, "Hey guys, video sponsored by Cali. Everyone go download." That's going to get two views.
+But if they're making their regular content, it's going to get the same amount of views. So that's the
+influencer side. It's not so much about figuring out a viral formula, more about not breaking what's working.
+For making actual Tik Toks, it's really about trends. Finding trends, finding hooks. when something works
+after ton of experimentation because any so many different types of videos can go viral. There's not one
+formula of how to go viral. You could figure out different ways. You could scroll the for you page for a few
+hours and then see here are all kinds of different hooks that are going viral right now. And then after you
+find something that works and replicate it, keep making the same video slightly changed until it stops
+working. And then it's about going to find the next viral hook to try out. You put a lot of emphasis on the
+hook. Um, is that just what you say in the video or is that the visual hook of the video? How do you think
+about it? So imagine the user scrolling through Tik Tok and then bam, something catches their attention. They
+stop scrolling to watch your video. That's whatever you do in the first 3 seconds. One of the most important,
+well, the most important piece of a short form video is the hook. the uh Calai success stories. Uh has anyone
+lost a significant amount of weight uh using the app? Yeah, people have messaged us that have lost over 50
+pounds. Are there any other tools you're working on? I don't know if you can talk about these uh but what
+would you be thinking about in terms of like improving the app? We are always working on improving the
+accuracy. So training the model on even more foods. We are always this is actually recent. So early on in the
+company everything was intuition. Myself being a user someone who wanted this app Cali after trying my fitness
+pal I implemented all of these features that I would personally find helpful. But now since we've scaled a lot
+we've built out a good team. we are starting to go about things in a more structured professional way where
+now we actually will AB test different features and so we are constantly just throwing out a hypothesis will
+this be something of value to the user and then assessing after a week do people that have this version of the
+app stay for longer than without the feature based on that we'll decide to implement it so that's really how
+we've evolved over time and where we are now trying out a ton of different features. Let me give you a big
+challenge to Cali. Uh so I'm someone who's fairly good just maybe above average at prompting on chat GBT. If I
+made a really good prompt uh took a photo of piece of pizza and then used Cali like how much of a difference
+would there be in Cali's like technology prompting uh and getting the calories accurate with a slice of pizza?
+It's very straightforward. I don't think there would be a big difference. When it comes to more complex foods,
+there will start to be significant differences. We do use existing LLMs and chat bots like Chat GBT from
+multiple companies all in a pipeline and we fine-tuned our model. Also brought in a food database rag model.
+So we don't just have one simple prompt. We have a bunch of different pathways and routes that the image can
+go down to have the best estimate of calories. Each different type of food will go down a different pathway to
+figure out the best estimate possible. I've actually heard that a lot. People saying, "Oh, let me just use
+ChatGBT. It's free. I don't need to download Cali." But do you want to manually add up how many calories said
+for everything? We give you the dashboard. So, it's a lot easier than typing in the prompt, putting in images,
+and tracking all of the total calories, total protein, etc. And what does your moat look like? Why can't My
+Fitness Pal just copy Cali? Right now, I believe our biggest moat is our influencer network because we have
+exclusivity deals with all of our influencers. So, very hard to break into. I think our technology can be
+replicated, but it would take an entire UI rehall of the My Fitness Pal app to get it to a place where it's
+userfriendly. It would require removing a ton of features. Their app is extremely bloated where they have
+sleep trackers, heart monitors, anything related to health. And you could respect what they're doing. They're
+trying to be the one app for anything health related. I think the beauty of Cali is that it's so easy to pick
+up and use because it's only for this one problem. We don't try to convolute it and include anything. Why
+should you just focus on the one thing? There are better apps for each other problem. There are better sleep
+trackers out there. There are better heart monitor apps. And focusing on this one thing, this is actually
+something from a guest you had on previously, Oliver Brocado, from many conversations with him. He used to
+always talk about how he never wanted to build something that was the one shop for all mediocre products. He
+wanted to be the stop for one great product. And I agree with him on that front where Cali, we want to be the
+best calorie tracker. We don't want to be just mediocre at everything. Yeah, it's really interesting how like
+watching all the social medias, it just seems so simple for there to be one social media that has all the
+features of the others, but it's really about the culture that is developed on each one. Um, do you think
+there's room for social apps to be disrupted? Do you think there's room for another social media platform to
+be built? I think there definitely is. I believe Bal was the most recent that came out and tried to disrupt
+everything. And I think more apps will be coming out soon that either replace or are used on the side of these
+other apps for sure. Do you think it would just take some primary feature that's a differentiator or so social
+apps are interesting because there are hybrid models where you build an app that is useful to an individual
+and then you build social features around it. So, for example, taking Calai and then building a community
+where people have a feed, they could see what meals other people ate in the day, text other people like, "Good
+luck on your weight loss journey. Congrats on losing 5 pounds." And then there are also social media sites
+where you only derive value from the other people on the site and it wouldn't be worthwhile to use if no one
+else used it. There are many of these hybrid models. So many. Saturn is one of these apps created by a friend
+of mine and it is a calendar app for high school or college students where they can see who's in their class
+and what their schedule looks like for school. So, by itself, it's useful because you have your calendar, but
+then it also has these social features where you could see friends in your classes, chat with them, and see
+upcoming events for the whole school. There are many of these hybrids. There are fewer where it is solely a
+social media platform. That is something that is much more difficult to break into. Dylan is the founder of
+Saturn. It's a cool guy. What's the next industry AI is going to disrupt? I think AI is disrupting and has
+already disrupted a bunch of industries. Every day new companies are being launched that are innovations on
+prior companies with heavy AI integrations. For example, the calendar simple calendar, the calendar app. How
+can you incorporate AI? This company Motion has done it where an AI will help you schedule all of your
+meetings and tasks for the day. And so it's happening so rapidly. I don't think there's necessarily one
+industry where it's going to revolutionize because it's it's happening as we speak. There's probably a new
+product in a whole new industry being launched. Why should you execute ideas over just brainstorming? Uh you
+mentioned a story of Thomas Edison, I think that I found really interesting. Yeah, I love Thomas Edison and
+his approach to creation. I'm a big believer in just getting started on something, not to sit there theorizing
+and reading so many research papers, but just to get into it. Thomas Edison was someone who would basically do
+that. He didn't have a traditional education, so he didn't know the scientific method. And it was very clear
+in the way he invented things. In the early early days of the telephone, it was Thomas Edison vers Alexander
+Graanbell. Basically, Alexander Graanbell created the first prototype for a phone, but it wasn't able to
+transmit the signal over long distances at all. It was very hard to understand what the person was saying. And
+so, there was a race between these two guys to create a better material to actually record voices and send it
+over long distances. Thomas Edison not knowing the scientific method just got started. He tried all kinds of
+different materials, any kind of metal and then crazy things. He tried pig frog guts as different materials to
+pick up sound. Alexander Graanbell on the other hand he took the more scientific approach. He took what was
+hypothesized, the materials that could work, probably read some research papers, and by the end, they both had
+their versions. Thomas Edison's was 100 times better than Alexander Granbell's. And his approach is just brute
+forcing things. And I love that Elon Musk is now doing the same thing with the Boring Company. He wanted to
+fix traffic. So he didn't start routing different highway maps, figuring out more efficient ways to route
+traffic. Instead, he just started digging tunnels. And as they've dug more tunnels, they've built out better
+technology and figured out better ways to do it. I love this approach and think it's a great lesson to not let
+yourself feel analysis paralysis to instead take action. Yeah, I I love that piece of advice. Um I think
+people often overthink things way too much. When you actually get into it, there are so many like problems
+that you would have never expected uh arose. What's been on your mind the past few weeks? It's getting close
+to the end of your senior year. You've made $20 million with your company. You're set to make uh 24 million by
+the end of the year. Uh or is that the end of the 12 months? 12 months from now. By the end from launching the
+company to a year to the year anniversary, we will have made maybe $15 million. Okay. So, $15 million in 12
+months. Um yeah. But what's been on your mind the past few weeks, few months in terms of graduating high
+school, uh issues with the company, scaling, that kind of thing. I'm pretty sick of being in school to be
+honest. Sick of taking tests, having to even show up, wake up early. I'm actually I'm going to skip a few days
+next week, fly out to San Francisco. I might start skipping a lot more school now. also next steps for the
+company. Things have really changed where early on and for the last maybe for the first eight months of the
+company, maybe even the first 10, I was very heavily involved in everything with the day-to-day. I was
+initially coding, then the main marketing guy, then the main product guy, and then spending all day
+recruiting. And now I'm in a position where I'm focused more on working on the business, not in the business.
+So talking to other founders, still doing recruiting that's very high leverage and figuring out ways to 10x
+the company, not boost 10% within the company. The company is going to grow regardless whether I keep working
+on it or not. The team is there. We have almost a 20 person team at this point and everyone there's a ton of
+momentum. Everyone knows their role. Everyone is pushing hard. So, I'm focused on the bigger picture thinking
+and strategy for what comes next. Do you think it'll come down to marketing, sales, or the product? All of it.
+If you had to give it, is it disproportionately one over the other? I don't think so. As we boost each of
+them, it will boost the company as a whole. They are all multipliers. As we increase the marketing funnel to
+get more users in, simultaneously we are increasing retention on the product and the LTV of each customer. So
+they will multiply each other and 1 plus 1 will not equal two, it will equal three. Same with all of it. I
+mean the main levers in the company that I see to work on are distribution, the onboarding flow and the
+initial conversion on the payw wall and then retention/LTV. Those are the three pillars. Is it a worry of
+yours uh that over the next few months you'll find that people do not resubscribe to the app and it kills the
+uh MR. So we can see the usage and we have people using the app since day one. So we know that there will be a
+significant proportion of users that do renew. Can you say uh like what is the negative usage like how many
+people are inactive? I can't say it here publicly. Gotcha. Okay. Um let's assume that number was high. What
+would you be thinking about to re-engage those users? We've already done a few of these things. So, recently
+we brought on someone who has helped us grow the LTV by doing things like figuring out if a user is using the
+app, but they're currently unsubscribed, which can happen for many reasons. Many people don't want their
+subscription automatically renewing at the end of the year. So, they'll pay for it, but then they'll turn off
+the autorenew. For those users, we now show a banner saying that they're set to lose their subscription after
+a certain number of days. So, we prompt them to actually renew, which should boost the amount of people. It
+should remind them to turn it back on. And then, how I I guess I have to ask, how are you combating copycats?
+Do you think you just have such a moat around the brand itself? You talked about some of the other uh things
+like have are copycats really taking up that much of your market share? Well, it's funny. There are a few
+things at play here. I think that first of all, because we have had the first mover advantage, that has played
+into something I'm about to explain. So, we've had First Mover Advantage and we've also moved extremely
+extremely quickly getting so many fitness influencers in such a short amount of time promoting Cali that now
+these copycat clone apps that make apps that look identical to our app, but they'll just change the name. They
+will have influencers make videos about them. People will comment, "What app is that?" and others will reply
+it's Cali. So their marketing is actually helping us. When you say others, who are the others commenting it's
+Cali? Well, these are random people in the audience that have seen it all over social media and just assumed
+that that is Cali. I thought you were saying it was something where you guys had rigged it to where you just
+went in and commented, "Oh, it's Cali." No, this is natural consumer psychology. That's crazy. And it's just
+because their branding looks so similar or just I guess the brand has just really gotten out there. Um yeah,
+it's the branding. It's the fact that every other influencer is promoting Cali. So they see this maybe they
+don't take a close enough look and they just assume oh take a picture get that's cali. H and then can you
+copyright or patent any of the technology? Patenting technology and software is always very difficult
+especially in the consumer app space. So we could but then there's always workarounds. It wouldn't do much.
+the best thing we can do is trademark it, which we're in the process of. And then in terms of 10xing, I just
+wanted to give my ideas or thoughts. Uh, have you considered like uh any kind of merchandising, any kind of uh
+events for people to go to or any kind of rewards like this person lost 100 pounds with Cali? I'm sure you've
+thought of doing that for long form YouTube videos or like Tik Toks, but uh like has there been anything like
+that? Do you think that would be big? It's interesting you say that. I've had a similar idea where after users
+lose their first 10 pounds, we send them a shirt, for example. I think that there are definitely ways that we
+can upsell these users. So whether it's a physical product like selling them a scale to weigh themselves
+because that's integral for losing weight or something within the app, maybe a higher tier plan for other
+features. These are all things that we are thinking about and things that we are going to test in the next few
+months. We have an experiment that should go live in the next two weeks. That is an upsell. It's a scale. No,
+it's it's not I can't say publicly here because of Is it a physical product? It's it's software. It's
+software. Okay. Hm. Have you considered something like uh you lose this much weight and the app becomes free?
+That's an interesting marketing hook. It would be a logistical nightmare to pull off and validate, but a very
+interesting marketing hook. Not if you had a scale. Yeah, that would be an interesting marketing stunt. Uh,
+Cali is paying out $100,000 to anyone who loses 100 pounds of their app. Um, or anyone that loses 50 pounds.
+Um, have you done any press or things like that? I know you personally have done press because your story is
+interesting, but as Cali, I done a lot of press like that. Like this person lost this amount of weight with We
+have not done much of that. That is interesting. Where do you think something like that would be posted to
+besides our own social profiles? Likely articles. Um, you can uh reach out to reporters. Say you have this
+story. Ideally, you just have this uh I mean the hook is I lost 100 pounds with AI. Here's how I did it. And
+uh it's Cali is one of the things if not the main thing. And then there are maybe some other things they did
+with AI. Um I think that's a good YouTube video in general. So maybe you plan that YouTube video and then some
+press pick it up because it's just catchy. It'll get them clicks and then it kind of gets pushed out there.
+And then have you done theme page marketing already? Yes. What has been your strategy there? So the theme
+pages we've done have mostly been meme pages. Mhm. So, not super on brand doing fitness pages and we've done
+things like for Thanksgiving. It was someone we created a meme where someone combined all of their
+Thanksgiving foods into a blender to make a smoothie out of like disgusting a terrible mix that should never
+be mixed. The turkey, the cranberry sauce, mashed potatoes into a smoothie. And then we scan the calories with
+Cali that was created into a carousel meme and did pretty good. We had different variations of similar
+Thanksgiving theme things. Have you done just this marketing ad creative of uh like Starbucks is lying about
+calories or McDonald's is lying about calories and then they take a photo of it and it's like this AI does it
+and it's 700 calories versus 1500 calories what they advertised. Have you tried that one? We don't usually
+make the videos ourselves, so we don't experiment too much with different hooks. That's not even a focus
+styles. It's mostly about letting the influencer do what they want. But that specific thing wouldn't work out
+well with Cali because it doesn't work as well with drinks. It doesn't know if you took a picture of a pink
+Starbucks drink, it wouldn't know every chemical and ingredient that was used, every syrup, because it's all
+blended. For all it knows, it's water with just pink dye in it. And that's something we've tried to do a
+better job of is educating users. A lot of people expect that Cali will be 100% accurate, that it will have
+X-ray vision, but it's important to know that if you take a picture of a sandwich, you need to open up the
+bread to make sure it can see the tomato inside. What happens if I take a photo of like a phone or like a It
+will tell you that no food was detected in that. Okay. Okay. Gotcha. I was curious about that. Um or like what
+if you take a photo of like a dog or like a chicken? We've had influencers make videos about that as a joke,
+but it will still say no food detected. It's a good marketing hook, though. That's interesting. And it's just
+photo scan, it goes in. There's no like live detection. There's no live detection. It's you take the picture
+and put it in your pocket. And is that better for any reason as opposed to say I had a meal and I go this and
+then it says 800 calories, this 300 calories. You know what I'm saying? I think it's a lot easier to simply
+take a picture and then it will analyze everything in the background rather than waiting holding up your phone
+to scan a meal for 30 seconds clicking confirm for every single ingredient. I asked you what you were thinking
+about at the moment. It seemed a lot of the company and a lot of you wanted to get out of school. Uh given
+that you've made $20 million at 18, has high school been useful? I'm grateful with what I've learned in high
+school. I think it's important to know certain mathematical principles, derivatives, integrals. So, at least
+knowing the basics of calculus. I am grateful for the knowledge I learned of physics, taking physics classes,
+the fundamentals of how the world works. Not enough where I can necessarily start a company where I'm building
+some a rocket ship company, but enough where I know the direction I will have to go toward to learn more about
+the topic and learn specifically catered towards what I'm trying to do. I'm also grateful for high school for
+the social life. Have you made any like uh has high school helped you make any money? Well, my unblocked
+gaming website, it was all around using it in school. So, I would say yes. I wouldn't have had that idea if I
+wasn't in school. So, how about college? Uh you and I actually chatted briefly about this. Uh you have you
+gotten the letter back from Stanford yet or I'm not still waiting for Stanford. I've just to give everyone a
+brief uh Zach here also has really great grades. Uh which is fairly rare in like young entrepreneurs. Uh he's
+like a 34 ACT, 4.0 GPA, 34 ACT is like standardized test, 98th percentile, 99th percentile. Um so what schools
+are the top ones right now for you? Stanford, Harvard, and Duke. Got it. And you haven't heard back from them?
+I've not heard back from any of those. I've heard back from a few schools so far. So, I have gotten into
+Miami, UT Austin, and Georgia Tech. I have been rejected from WashU. You got rejected from WashU. Rejected
+from WashU, rejected from UVA, and rejected from MIT. It was actually a weight list for WashU and then a
+rejection from UVA. rejection from MIT. That's wild, man. Uh like as someone with so much success, do you have
+any idea why that could be? I know you might have to give a fairly political answer to this, but uh I think
+there's a lot of inefficiency in the school system. I think they figured it out for athletes. They have scouts
+that find the best athletes and they'll give offers to them. They don't need to apply. They'll get the offers.
+I think they should have that for anyone that sticks out. It shouldn't just be star athletes. It should be
+star entrepreneurs, star I guess there are very few things. I was going to say star dancers, but I suppose you
+could still get a D1 offer for dancing. If you win awards from a research project, I think you should get
+offers for something like that. I don't think it should just be limited to athletics. Yeah, I guess schools
+are really just trying to build like who is going to uh give us the best chance at being an alumni. I mean
+that's what I would think of it at least like we can say that this person went to this college. Uh maybe
+that's not what they're thinking about. Yeah, I would assume that too. That's the logical thing. However, the
+people that are reviewing applications, they're just getting paid a salary. They don't have equity in the
+college. They don't care about the legacy of a school. And so I don't think they have that on their mind that
+this person will look great to have went to this school that I just work at for $50 an hour. I'd ask you what
+they do care about, but maybe I'll answer since you're still in the college process. I would assume that maybe
+there are some slight motivations for people to have uh if there if they don't have any incentive to get good
+college students, it's likely whose essay did they like the best or feel that they felt the most bad for the
+person or most emotionally resonated with. Um which kind of doesn't create the best base of students in my
+opinion. Uh would you say there's any truth to that? Totally. Completely. I mean this whole affirmative action
+thing I don't think it has stopped even though the policy has went away and I also think it is a competition
+of who has the worst SAB story from people like myself let's just assume I'm a above average successful person
+young age um and I'm know you know a lot of these guys uh like are most of people like me or like uh your
+co-founder uh are they telling you Zack what the hell are you talking about going to college Is that most of
+what you're getting? It's not. They're extremely supportive of whatever I want to do. I'm balancing this with
+high school, college. Everyone says you have more free time, so I should be more productive than I am right
+now, if anything. But it clearly has not slowed anything down. Well, maybe it slowed stuff down, but we're
+moving. We are one of the fastest growing startups of any company started in 2024 of any AI startup. So, but
+would you say most people are telling you not to go to college or so many people are telling me not to go? So
+many people are also telling me to go. What would you say the split is? Would you say it's like 80% are
+telling you not to go? Cuz it's interesting how cultures changed. When I was going to go to college, everyone
+was like, "You have to go to college." And it was like the uh contrarian thing to not go to college. But your
+age, it's like everyone's probably telling you not to go to college, and you're like, "Well, maybe I should
+go." You know, the entrepreneurs that haven't found success yet that I've spoken to tell me not to go to
+college. Most of them. And then most of the entrepreneurs who have been pretty successful will still tell me
+no, maybe that's more split. The entrepreneurs who have been really really successful, they tell me to go to
+college. And people who aren't entrepreneurs at all, they also usually tell me go to college. But everyone's
+reason I kind of have problems with the people that aren't entrepreneurs. They say go to college for the
+network. I met you on X. I'm meeting so many people on X. Well, actually it was Instagram, but social media in
+general. I've met so many entrepreneurs, so many of the best connections I'll have in my life, and I will
+continue to make some of the best connections I'll have for the rest of my life. my co-founder Blake on Cali
+social media. Jay Castillo another co-founder on Cali met him through Oliver Brocado who I met on social
+media. So I put network aside and then others say go for the academics. I put that aside. I'm confident I
+could learn anything on my own from YouTube or anything else. Maybe AI tools. I only want to go for the social
+life. And why is college such a big lever for social life in your opinion? It is the most concentrated place
+of people my age and if I pick right then also attractive girls my age. So you want to meet your wife in
+college? Yeah, that would be cool. That would make it worth going for sure. Yeah. So is would you say UT's
+your top option right now? Out of the schools I've gotten into. Yes. I tore Georgia Tech but I did not like
+it. Academically, it's great, but socially it was not there. UT is the best. Yeah, guys, I I think I've talked
+about this briefly. I went to UT, so I thought it was funny when Zach said that was the school uh he wants to
+go to. I dropped out after 6 months uh or so was going to do a did a startup in Santa Monica. Um and it was
+supposed to be a gap semester and uh that just turned into whatever this is now. Um, I don't think I'm going
+back to college, but yeah, UT is pretty cool, man. Um, I I What what is this emphasis on friends and
+connections? Is it just when you think back to or when you think forward to 80-year-old Zach uh and you kind
+of have this assumption that money will be taken care of, education will be taken care of, the only thing that
+you don't feel is that friends have been taken care of yet? Correct. I also am haunted by the story of Notch,
+the creator of Minecraft. He became incredibly rich and successful. But in the process of focusing solely on
+creating the best video game, he lost all his friends. He became extremely depressed where he would throw
+parties in his mansion, but after the parties, people would leave. He wouldn't have people that stayed and
+talked to him. It's very vapid, terrible lifestyle void of real connections. That is something I never want to
+happen. Why do you put this emphasis on connections? I I do want to challenge this a bit because uh well, I
+don't think connections in terms of or like connecting to other people on a deep connecting to other people.
+Why do you think that's important? Well, some of the most influential people in the world had very few
+connections who uh Sir Isaac Newton, inventor of calculus and a ton of other things. He died a virgin. I think
+he did. Yeah, he did. And so I've also been thinking a lot about what I should optimize for in my life. What
+is my purpose? Do I have a purpose? Does it matter what my legacy is? If a legacy is important, then
+theoretically I should optimize for having the best legacy possible, which social connections would be
+something that's irrelevant. I could be like Sir Isaac Newton, lock myself away and fully work on something
+without talking to anyone. If legacy isn't what's most important and happiness is, then some balance. I'm not
+convinced happiness is the most important thing in the world. Maybe it's to be religious. I'm not too sure.
+But I do want to have the most enjoyable experience while also establishing a legacy for myself. That may be
+ambitious because there are very few billionaires who have happy relationships with their family, but that is
+what I'm going to try to do. Zack, uh, you spent the majority of your high school career working on a hund00
+million startup. Uh, have you ever had a girlfriend? I have. Gotcha. Was that pretty tough building companies
+or It actually was balancing time. It It I definitely didn't I actually I think I gave enough attention or
+probably enough, but she was always complaining and eventually I ended things. Um, she definitely wasn't the
+right girl right now. So, the last six months or so, the since the start of the company, I was really focused
+and I was not looking for a girlfriend. Now that I'm more freed up and I'm working on the company and not in,
+I actually am placing more of an emphasis on normal things like finding a girl and not just working all day.
+What's the number one reason most people aren't successful? giving up too early. I think or not trying at all,
+which is another form of giving up early. I think anyone can do what I'm doing. I think anyone can do and find
+success in almost any business model if they dedicated enough time toward it, if they put in enough hours.
+I've almost been in the entrepreneurship game for a decade. I started tutoring kids with coding lessons when I
+was 10 years old actually is when I got started for $30 an hour. And so Cali is nowhere near my first
+business. There was Totally Science, but before Totally Science, I built many different apps and games. None
+of them took off. after totally signs as we discussed many apps that didn't take off. It's just about putting
+more shots up. And if you learn from each attempt, if you reflect on it and you can learn one thing and then
+apply it to the next thing you create, you will inevitably be successful with enough time. There's no way you
+could fail. Have you been close to giving up on Cali? Never. No. Why do you think that is? Just because you've
+seen success with it? Well, very early on, we did not see success. The first few weeks after launching Cali,
+we didn't have a single influencer respond to our DMs trying to get them to post about the app. Once we had
+things starting to take off, we built more and more momentum and really started rolling. But for the first few
+weeks, I would send maybe 100 DMs a day, nothing back. It was pretty difficult because it felt like everything
+I was doing was for nothing. To spend all of those hours, not get a single message back. But I didn't stop.
+Finally, I got my first message and then two and then three and then four and then more kept coming and the
+work started paying off. That reminds me of a another strategy that I've been thinking about is uh paying to
+use influencers accounts. Uh maybe if you guys have an influencer fitness person with 5 million followers on
+Instagram, uh just paying them on retainer to utilize their account for outreach. But is that something you've
+utilized? It's something we've done. Really? Okay. Um would you say you get most of the responses from email
+or Instagram? It's a mix. DMs are usually better because you can get better rates from the influencer. If they
+respond on a DM, it's likely not their manager, but there is a much lower response rate on DMs. For emails,
+there's a much greater chance that a manager will be the one that replies to you. So, it raises the rates
+significantly so that they get their cut. However, you have a higher response rate on emails. So, there are
+pros and cons to both. What are other ways teenagers are becoming millionaires that you've seen? Well,
+dropshipping used to be the big thing and now I think the new drop shipping is consumer apps. Many people are
+running marketing agencies, copywriting agencies. There are so many SAS platforms, websites, not just apps.
+Crayo AI, it's Daniel's platform. Seems like Tik Tok shop is where I've seen the most amount of young people
+making money. That's a good one, too. Tik Tok shop essentially drop shipping. Um, but why have you not gone
+that route? Just a natural interest in computers, programming. My advantage definitely lies in building actual
+products because that's what I'm good at. I could go all in into Tik Tok shop and I'm sure with enough time,
+with enough reps, with enough failures, I will be successful. But it would be starting over instead of leaning
+into what I'm already good at. If I had a million dollars to give you uh for let's say a couple hours of your
+time and I had a consumer app uh and you were like, "Ah, I really need to make this worth it." Like Jack gave
+me a million dollars for these three hours. What things would you likely be looking at? Like would you be
+like, "Let me get in on his uh marketing strategy and advise him on that." Would it be let me fix the product
+itself? Like what would likely be the highest lever? Let's assume they're all equally good or all equally bad.
+Well, if they're all equally good or all equally bad, I always believe the marketing funnel is the most
+important. And logically, you can deduce that because you could have a shitty product, but the best marketing
+in the world, and you will get sales or at least downloads, but with enough people coming in, you will at
+least get a sale. You could have the best product in the world, but if you have zero marketing, you will never
+get a sale. So that's what I would focus on. Interesting. I find it uh curious that you frame yourself as like
+uh really good at product, but you said marketing. Would you which one would you say your is your strong suit?
+Is it the coding or is it the marketing? Would you say they're about equally? I consider pro programming and
+product as different things. Anyone can code designs that were already made, but to intuitively design
+something knowing, I want to put this button here because it's closer to the user's thumb, that's something
+that requires a level of intuition, experience, and thinking from first principles. I think I'm very good at
+product. It's hard to compare the two, product and marketing. because they're very different. The skill that's
+most in demand is definitely marketing. So that is probably the more valuable one out of the two. But there
+are very few people who can get product right. It really comes down to understanding the user, putting
+yourself in the shoes of them and consumer psychology. And then on the question of uh we talked about selling
+earlier, but I was curious what is your goal for legacy? Uh maybe what is your net worth goal? My goal isn't
+to have a hit a cernate net worth. I do want to become one of the wealthiest people in the world, but that's
+not because I want the money. one of the wealthiest or the wealthiest? I haven't thought about that too much.
+I don't think I need to be the wealthiest person in the world. But you want to be at least top 10. But that's
+not because I want to be I don't want to be the top 10 wealthiest person or in the list in the top 10
+wealthiest people to be one of the top 10 wealthiest people. I want to be there because I think that's a side
+effect of having massive impact on the world. You can't have one without the other. And so that's just a
+measurement of the scale of whatever I do. And if I can't hit that, then my company likely is not as impactful
+as it could be or as I want it to be. I want it to be the company that changes everyone's way of living. So
+imagine there was a person who had become the richest human in history. uh 10,000 times, do you think that
+person would tell you to go to college? Probably not, because that person is likely optimizing for purely
+financial success or or success of impact and building the best company, which that's clearly what matters the
+most to them. And so they likely sacrificed everything to do that and would do it over and over again. And you
+don't think that's the case with you? Because it seems as though you're kind of torn between do I want this
+ultra extreme legacy uh or do I want this uh like connection with people, decent net worth, uh decent impact,
+that kind of thing. My vision, my ultimate vision is that the connections, the relationships will help me
+build the most impactful company, being around more people, helping me understand more of the human
+experience, and be able to build something that everyone in the world loves. So I want to have both as
+ambitious as that may be. It seems like you believe that one of those things is required to get the other
+thing um in a way that you need the right network of people around you uh to kind of get you to that point
+which is really interesting. Um somewhat I don't think it's necessary. It depends what I'm building. But I
+don't believe part of the freedom that I always strive for. I don't like to put myself I despise putting
+myself in a situation where someone else determines my outcome. For example, college. Someone has to say,
+"Yeah, this kid should go here. He deserves to go here for getting a job." They have to determine that I
+should be hired. That I'm worthy of the position. And in this case, it could be that I need these people to
+help me get some insight in order to build the company. The reason I am an entrepreneur and have gotten into
+it so young is so that I don't need people like that that are that can act as a wall and there's no way around
+it. If everyone in the world hated me, I could still become an anonymous founder and build something that's
+extremely successful and no one would know it's me. I think being an entrepreneur is one of the only fields
+where you can do truly whatever you want. You can just build and nothing can stop you except yourself. This is
+a bit off topic, but uh what's the scrappiest marketing method you've used to grow your product? This was for
+grind clock but we also did something similar for calai for grind clock. How we actually got the idea was that
+on motivational videos from guys like David Gogggins there would be hundreds of comments people asking how
+could I set this as my alarm clock. So we replied to every single one. I replied personally to thousands of
+these comments saying oh just download grind clock. just copied and pasted that to thousands of people and it
+it worked to an extent. We got downloads. Definitely wasn't scalable, but it it was the scrainess and grit I
+think required. Who's the most impressive person you've ever met? That's a difficult question. It's hard to
+measure because I've met CEOs and founders of public companies and if you just look at the numbers, they are
+extraordinarily successful. They were not necessarily all that impressive. I'm sure that there is a lot that's
+special about them, which is how they got into their position. The person who probably impresses me the most
+that I've met has to be my co-founder Blake Anderson. Why is he so impressive to you? He's young. Not as young
+as me. He's only 24. But he is extremely intelligent and he has amazing intuition. And I think intuition is
+That's a pattern I've seen from reading about some of the greats like Alexander Hamilton is that their
+intuition is always it's almost always on point and accurate. Where do you think that comes from? one,
+experience, but then secondly, mental frameworks and heruristics to help you go through decision-m processes
+and take somewhat unrelated information to come to a conclusion of something else that's unrelated. Uh, what's
+the most common framework you use to make decisions? So, if I'm testing out a feature and for a split second
+I'm I'm confused, I'm trying to understand this and then I'm like, "Oh, okay. That makes sense." I will
+multiply the time and effort it took me by about five or 10. And I found that that helps me capture how the
+general public will actually and the average consumers will react and interact with different things in the
+world. That's not necessarily because I'm five or 10 times smarter than everyone. It's just because I've built
+a lot of products. So, I know if if I don't understand something right away, that's usually bad design, bad
+product because this is what I do full-time. But then even going through the world, I remember seeing once a
+sign in a store and it was asking someone, well, it was asking everyone in the store to leave a rating, but it
+had an icon on it. It looked like it could only be scanned by Android phones, not iPhones, because it only had
+the Android icon. And so, for a second, I didn't understand it. And I was like, "Oh, I'm stupid. If I read
+closer, it it shows that it's an iPhone." But I would bet that the average consumer would never make the
+realization that it would work for iPhones, too. And so I try to exaggerate whatever feeling I had and apply
+that to how I assume the general public will feel about something. Why don't you just buy your competitors?
+Even if we wanted to, it would make more sense from a cash flow perspective to put the money towards scaling
+rather than buying a competitor. Assuming we had unlimited cash or a bigger surplus and couldn't spend it all
+on marketing efficiently, we could acquire competitors. There are so many that we wouldn't want to do it with
+all of them. But it feels wrong. I don't think I would want to give a payday to someone who just ripped off an
+app that I created with my team and they're doing free marketing for you as well. I think if you did buy
+anyone, it would be someone who has a feature that you want to implement. Just aqua hire that person. Um, but
+that's interesting. Um, last question, Zach. Uh, what's the best piece of advice you've ever received? They're
+good questions. They make me think. I'll give two. So, one is advice I received and then one is something I've
+realized. The one I received is that if you want to make the wrong decision, ask everyone their opinion. That
+was said by Naval. He posted that on Twitter X. And I received that advice when trying to make the college
+decision. I asked almost everyone I knew about their opinion. But it's very true. These people are not in my
+shoes. They're not in my position. They have different incentives for me. For example, my parents definitely
+want me to be less risky. They want me to go the safe route of, you know, security, having a degree, just in
+case things fall through, have a plan B. The second one, and this is something I try to live by now. I've made
+this realization recently. The only rule is that there are no rules with everything in life. I mean, who would
+think that an 18-year-old kid, a high schooler, could be running a company that's on track to make over $20
+million in a year? That's not something people think is possible. Almost everything in life especially with
+because we're humans we are complex creatures there is so much we are capable of and also the way we interact
+there's no right way to go about things necessarily we have vague principles of morality but even if something
+is logical even if the reason you do something is logical if it make someone feel bad, it's going to play out
+poorly on your behalf. I've always thought that if I was accused of something by someone, even if I proved I
+didn't do it, I bet that they would still and even if they completely agreed, okay, he clearly didn't do it,
+the fact that they accused me of it saved something in their mind where maybe subliminally they now like me a
+little bit less. And given these complex relationships, you can I think that the way you interact with the
+world, manipulating your environment and also interacting with other humans, there is no correct way to do
+anything. You have to constantly adapt and figure out on a case-byase basis the best way to live your life.
+all of these self-help frameworks and all of these prescriptive pieces of advice people say online. The only
+rule is there are no rules. These are just things people are saying, but there are plenty of cases where it
+can be proved false. I'm actually learning in my economics class right now about Keynesian economics and how
+many of the principles or relationships that are said in Keynesian economics are incorrect. They are just not
+things that actually happen in the economy. I'll give one example. This is actually not in Keynesian
+economics, but it's also in economics. The Phillips curve. The Phillips curve essentially says that when
+unemployment goes down, inflation will go up. And when unemployment goes up, inflation will go down. And this
+is something that economists use to make their decisions. This is something people in government use to make
+their decisions. But it's been proven that that's not the case. There are more variables at play. It's a more
+complex system than simply those two variables in isolation. There's no clear direct relationship between them
+that you can derive. I think the whole world is that way where anything you should take almost anything with a
+grain of salt. this podcast everything I'm saying I'm sure that many of the principles that I go by for Cali
+would be completely wrong in another field in another industry that it would be counterintuitive. So you have
+to brute force it like Thomas Edison and you have to always you have to always think twice about doing things
+and question why we do things. It's a really great response. Um I think a lot of people don't realize how
+dissimilar they are to other people. uh like even you and I being similar age uh living in similar states uh
+like there's so many things that are pretty much the exact same about us but we still couldn't give each other
+the exact answers to the things we're working on because of all the variables you're speaking about. So I do
+think that when people watch podcast uh they should really only apply the information that is directly
+specific to them and there's not as much of it as you think. Um, I think it's a good framework for opening up
+your mind, you know, uh, like really breaking down to first principles some of the things you talked about.
+It's like, uh, you commenting on those Tik Tok videos. It's like, okay, do I need to comment on Tik Tok videos
+for my brand or do I need to think about user interaction in a different way? Um, do I need to think about uh
+solving questions that people ask in a different way? You know, it's just so much people extract the wrong
+information out of things. You know, they're going to take what you said and some people will be like, "Oh,
+there are no rules, so like nothing matters." It's like, I don't really think that's what he was saying. But,
+um, well, everyone, this has been your guest, uh, Zach Yadagari. This is the Jack Neil podcast. Thanks for
+coming on, man. Thanks for having me.

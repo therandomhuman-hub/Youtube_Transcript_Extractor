@@ -1,0 +1,143 @@
+Title: I Replaced My Salary in 4 Steps Without Quitting (Gemini AI Tutorial)
+Channel: Shawn Builds AI
+Type: VIDEO
+Video ID: GYsC4Ttu4A8
+URL: https://www.youtube.com/watch?v=GYsC4Ttu4A8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-12T15:46:38+00:00
+
+Kind: captions Language: en In 1926, Henry Ford told his workers that they'd only have to work a five-day
+week. And now, 100 years later, most of us are still living inside that same system and calling it the safe
+choice. The thing is, you don't need another job as society has defined it. [music] What you need now is a
+one-person business. And in this video, I'll show you how to build one using the easiest AI for beginners to
+learn, Google Gemini. Now, I work a 9-5 as an AI engineer. And even before that, I was working at a finance
+firm in IT. And so, within that constrained schedule, I was able to build an $8,000 per month agency on the
+side. It took a few hours per week guiding AI from my laptop using the strategies that I'll show you today.
+So, in this video, I'll show you the exact four steps that I took, no coding required. Within this four-step
+process, the goal is to take the things that you've learned in your normal day job and leverage AI to not only
+land customers, but also deliver for them. Just like in baseball, where you start over on one base, as soon as
+you accomplish it, you can move to the next one. All the way from second to third, and then third to home
+plate, which is the fourth step. So, let's start over here at first base, which is the first step, and
+understand exactly what is my one-person business idea. There are four questions that we want to answer and
+find the intersection between to find our perfect one-person business idea. And that is the intersection
+between things that you love to do, the things that you're good at doing, the things that the world needs, and
+the things that you can actually get paid to do. Now, this isn't just a random set of questions. I actually
+got this from this book that I read that's called Ikigai. And on the back here, it shows the framework that I
+just spoke about. Let me pull it up on the screen to make it even more clear. So, it's really like a Venn
+diagram, where we have each of the four questions as the outermost circles. Now, there's intersections that we
+could find between each of them, but the goal is to find where they all intersect to find your exact Ikigai,
+which in Japanese means your reason for being and the idea that we want to build around for our one-person
+business. I created a skill that helps you do this. Once you download from the link in the description below,
+you can hop over to the Gemini chat. And in the settings here, there is a skills section, where you can just
+upload the file. Then back in the normal chat, you just type {slash} freedom founder builder. Then you can
+either drag in your resume or go to your LinkedIn profile and download a PDF of it. Once that's added here,
+you can add any more context that you think could be useful to know, and then click go. At the end of the run,
+it will create this code here that you just click this download button, which will allow you to open up your
+freedom founder builder personal dashboard. Now, this will take you through the five steps of building out a
+one-person business with AI. The area we want to focus on right now is the ideator stage. And if we scroll
+down, we can see the Ikigai alignment. It found the intersection between all these areas for me is doing
+Claude enablement, which is actually something I've done in the past and I was pretty good at and I really
+enjoyed doing and helping other people with. Not only that, but I know that it's my unfair advantage and that
+it is a validated offer, especially when looking at competitors and see what they're charging. Again, you can
+download the skill totally for free with the link in the description below. Now, if you want to skip the skill
+altogether and just want some personalized feedback on what your best one-person business idea would be, then
+I'm offering three free one-on-one coaching calls this week, where I'll understand your exact situation and by
+the end you'll walk away with your perfect one-person business idea and how you can grow it using AI. For
+that, you can click the link in the description below to book while spots are still open. The link will be
+right underneath the free skill download. Once you have your idea picked out, that moves us to second base,
+which is creating content about your idea. When I first graduated from college, I first started working at a
+Fortune 500 company called Estee Lauder, which is just a big makeup and cosmetic company that owns all these
+sub child brands. And what I did for them was a form of engineering called cloud engineering, working in this
+Microsoft Azure cloud. I know it's kind of like a super niche form of engineering, but at the time my idea was
+to help other people either become cloud engineers or help them with their own engineering. So, I created
+Instagram videos explaining different cloud engineering topics. Here's one example talking about different
+commands. This one here is explaining a roadmap to becoming an expert in a specific area. And even when I got
+into AI, I was talking about which LLMs are the best. Now, it doesn't need to be Instagram, it could be
+something like TikTok for example. But you just want to start with making some basic content around an area
+that you already have some level of expertise in. And it's not just me that was doing this. You can see that
+Gary V does the same thing and he even just does static infographic posts of some kind of motivational quote
+on a background picture. And Ali Abdaal does the same thing, even posting some carousel infographic posts like
+some tiny habits that saves him time since he's all about productivity. The cool thing about doing these kind
+of posts is one that they're not only effective and save-worthy. Like if you come across this, you're probably
+going to want to save it so you can watch it again later. But they're also pretty easy to make using AI. Now,
+you can set up all the connections yourself to try to get your AI to talk to Instagram, which is possible, but
+it's pretty difficult and will take a lot of time. So, what I recommend is connecting your AI of choice like
+Google Gemini to a platform that already does this. And my favorite one is using a platform called Bloatato,
+which is also the sponsor of today's video. Now, to do this, we're going to use a Google Gemini tool called
+Google antigravity. This was initially built for coding, but it's actually super non-technical and I'll show
+you exactly how you can use it like a normal chatbot interface. Once you download it to your computer, you can
+see it's just a normal chat interface like this. Then I just copied these instructions and pasted them into my
+chat to help me set up Blo teto in anti-gravity. The great thing about Blo teto is that you just connect to
+your Instagram from the website and all of a sudden when you do prompts like this, which will use a Blo teto
+connector to generate an Instagram infographic about three AI features to use for business, and then I give
+three different ones. It just works and connects. After I ran this, it took just about two to three minutes
+and all of a sudden I now have this infographic just like the ones that I showed. It goes over each of the
+points that I brought up. So, it doesn't matter if you want to make an infographic post like this or maybe a
+carousel kind of post, you can generate it directly within your AI chat. Then the cool thing is that I could
+say to schedule the image post for 3:00 p.m. on Friday and tell it exactly what to put in the description. And
+just like that, we can see that it was scheduled for that specific time. And when we scroll down, we can see
+the description that it generated and is adding right here. As we advance, there's ways to generate videos as
+well, but we want to start as simple as possible providing a ton of value about our area of expertise and just
+getting people engaged with our content. Now, real quick, if you like what you see with Blo teto, then you can
+sign up with the link in the description below and use the code Shawn 20 for 20% off. So, now that we've
+created some content, we want to move on to third base here, which is building and using something valuable
+within our content. Now, you'll see within all of the posts that I did here, I said to comment the word bash
+for the full free guide. In this one here, I said comment K8S for the full road map. And then this one here, I
+said to comment LLM for the full guide. But even if you look at Ali Abdaal here, he again, he says to comment
+super focus. So, the goal is getting people to interact with your posts and providing them something of value
+that was previewed in the post. Now, just to show you what that looks like on a different platform, like on
+YouTube for example, all of my posts are about AI and using Google Gemini. In the descriptions, I provide
+links to different free AI skills, which leads to this Gumroad page here that has a ton of different free AI
+skills and the business builder skill that we already looked at. But it's really as simple as creating some
+kind of infographic or carousel or even a short-form video talking about a specific topic, then in the
+description offer up a free item that you've created that helps with that topic just by commenting a specific
+word like LLM. All right, we are almost there now, building out a full lead generation system for our
+one-person business using AI. And rounding third base, coming to home, that is the last step here, which is
+driving them to sales. Now, the whole purpose of saying to comment a word is that you can interact with them
+in their DMs. You can even see here with Dan Martell, I commented something on this post here, which prompted
+him to send this message. Not only giving me a free resource, but then starting a conversation asking me what
+makes me considering getting some coaching. So, as he's talking about things like AI, he's getting people to
+interact and then asking them questions in the DMs to turn them into customers. Now, do you think he's the one
+going around and DMing everybody? No, of course not. There's ways that we can do this with AI. And
+specifically, we can set this up, once again, using Bloctato. Remember how in that post we created, I said to
+comment AI for the full business builder skill? Well, next thing we could do is tell Bloctato to create an
+automation rule that says to DM anyone on any post that says AI and give a link to this skill. And it creates
+this automation rule that will automatically say, "Hey, thanks for commenting. Here's the link to the skill."
+Now, the cool thing is you could also target individual posts, like if you have a different resource to give
+out on each post. I even created another automation rule that says just to target this one post here, and I
+said, "If someone comments the word link, to send them a message." And if you want to see what that looks
+like, I tested it out for myself where it provides the exact message that we just saw including the link to
+the resource that we created. I was doing this all manually before like you can see here. So, having something
+that does this automatically is literally going to save me so much time. And you're probably wondering about
+what about the rest of the conversations in the DMs after you send the link. And the really cool thing is that
+you can use Blotato with an AI agent to continuously respond to these messages and drive people to sign up for
+a call with you. Where you can offer them your service. So, while everything we've done so far has been in a
+chatbot interface, we want to move to an AI agent that runs automatically for us on a time interval. So, back
+in antigravity here, there's a sidebar where we can go on to scheduled tasks. And you can see one that I
+created here for Instagram DM replies. And all I said in here was to use Blotato to check all my DM
+conversations. Specifically the ones where I sent a link. And then to follow up asking them more about why
+they're interested in the resource with the goal of helping them build a business with AI. Where eventually we
+can send them their calendar link when they're ready. So, right now this is running daily at 9:00 a.m. but you
+can even move it to hourly and have it run every single hour checking your DMs. And just to show you what this
+looks like, I replied to the message here saying, "Thanks, man. This is cool." And automatically our AI agent
+responded using Blotato to say, "Hey, glad you found it helpful. What inspired you to check it out? And are
+you currently looking to build a business with AI?" So, driving people down a conversation funnel into what
+can eventually lead to some kind of call that you can talk to them about ways that you can help and they can
+even pay for your service. Then the cool thing within Blotato is that they have analytics for all the
+different posts that you've published. So, you can ask directly in the chat which of your posts led to the
+most people commenting for you to send your DM automations to. And then just make more of those kinds of
+posts. This is seriously an awesome tool that I can't recommend enough if you're doing any kind of social
+media automations, from posting to responding to comments. So, again, you can sign up with the link in the
+description below and use the code Sean 20 for 20% off. Now, you have the exact four-step process to ditch the
+job that you currently have and build upon those skills to create your own one-person business using AI. This
+is a crazy valuable skill set and I wish somebody showed me this a couple of years ago when I first started
+down this journey. Now, I don't just want to drop you off here with no more guidance on what else to do. So, I
+want to give you three more options. The first one is to download that free business builder AI skill with the
+link in the description below so you can find your exact perfect one-person business idea. [music] The second
+is, if you don't want to go through the hassle of downloading using the skill, then I have three free
+one-on-one coaching calls where we will discover exactly what your perfect one-person business idea is and
+you'll walk away with some concrete next steps about what you should do. Book that again with the link in the
+description below before spots run out. And the last step is if you just want to see some other ideas and how
+people have used Google Gemini to build a one-person business, I created a video that you can watch right here
+with 17 of my best one-person business ideas.
