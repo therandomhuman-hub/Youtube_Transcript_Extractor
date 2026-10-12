@@ -89,7 +89,7 @@ Add the secret under **Settings → Secrets and variables → Actions → New re
 - A newer scheduled or manually started run does not cancel an active collection. Only one collector uses the shared concurrency group at a time; GitHub can keep a single pending run.
 - The scheduled default is a 12-item attempt budget per channel. This keeps progress distributed across configured channels instead of allowing a channel with hundreds of pending items to consume the entire runtime. For an intentional full-channel test/backfill, manual dispatch can use `max_items_per_channel=0`; the job still has a finite runtime ceiling.
 - Collection is capped at 340 minutes inside a 350-minute job timeout. The run checkpoint and finalization steps record partial progress and package already-completed channels even when collection fails or times out.
-- The workflow no longer launches a new collection simply because only its YAML or reporting code changed; runner/engine or ZIP packager changes can trigger one.
+- Source pushes run the short validation workflow only. Full transcript collection is launched by schedule or explicit manual dispatch, preventing code edits from competing with the long-running backfill.
 - The publish step fetches and rebases against the latest `main`, retries safe pushes, and never force-pushes over newer commits.
 - Run JSON and Markdown reports record channel errors/auth challenges rather than calling a run completely clean solely because the Python process exited successfully.
 
