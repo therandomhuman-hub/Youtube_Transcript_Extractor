@@ -90,6 +90,17 @@ jobs:
       - name: Package completed channel archives
         if: always()
         run: python scripts/package_completed.py --root .
+      - name: Package all 20 channel ZIPs only when backfill is complete
+        if: always()
+        run: python scripts/package_all_channels.py --root . --expected-count 20 --output "$RUNNER_TEMP/all_20_channel_archives.zip"
+      - name: Upload all-20-channel bundle when ready
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: all-20-channel-archives-${{ github.run_id }}
+          path: ${{ runner.temp }}/all_20_channel_archives.zip
+          if-no-files-found: ignore
+          retention-days: 14
       - name: Upload run report and channel state
         if: always()
         uses: actions/upload-artifact@v4
