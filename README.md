@@ -11,13 +11,14 @@ Scheduled, resumable transcript collection for every channel listed in [`channel
 - Stores transcripts in a folder named after the channel while a full backfill is in progress.
 - Moves a channel directory to `completed/<Channel Name>/` when every known item has either a valid saved transcript or an explicit terminal `NO_CAPTIONS` outcome and discovery has no fatal errors.
 - Generates or refreshes a deterministic `completed/<Channel Name>.zip` beside each completed channel folder; the ZIP contains the transcript files, manifest, audit CSV, and collection summary.
+- When all 20 configured channels are marked `COMPLETED` and all 20 individual ZIPs exist, generates one `all_20_channel_archives.zip` bundle containing the 20 ZIP files plus a JSON manifest. It is uploaded as a downloadable GitHub Actions artifact (14-day retention); it is not generated while any channel remains incomplete.
 - Copies newly found transcripts into `updated/<Channel Name>/`, with a `new_transcripts.json` index.
 - Reports channel/video state in `channel_state.json`, machine-readable `last_run_report.json`, human-readable `last_run_report.md`, per-channel audit CSV and `collection_summary.txt`.
 - Persists rate-limit cooldown state to reduce repeat requests after HTTP 429 responses.
 
 ## Add channels
 
-Edit [`channels.txt`](channels.txt), adding one URL per line (for example `https://www.youtube.com/@yourchannel`), then commit. The next scheduled run includes it automatically. The initial file includes all 18 URLs from the provided channel list. You can also run now from **Actions → YouTube Transcript Archive → Run workflow**.
+Edit [`channels.txt`](channels.txt), adding one URL per line (for example `https://www.youtube.com/@yourchannel`), then commit. The next scheduled run includes it automatically. The initial file includes all 20 configured channel URLs. You can also run now from **Actions → YouTube Transcript Archive → Run workflow**.
 
 ## Folder organization
 
@@ -29,7 +30,7 @@ channel_state.json
 last_run_report.json
 last_run_report.md
 completed/<Channel Name>/*transcripts + manifest/audit/summary*
-completed/<Channel Name>.zip (generated ZIP snapshot of the matching channel folder)
+completed/<Channel Name>.zip (generated ZIP snapshot of the matching channel folder)\nall_20_channel_archives.zip (workflow artifact, created only when all 20 channels and all 20 individual ZIPs are complete)
 updated/<Channel Name>/*new transcript copies + new_transcripts.json*
 <Channel Name>/*working transcript backfill until complete*
 ```
