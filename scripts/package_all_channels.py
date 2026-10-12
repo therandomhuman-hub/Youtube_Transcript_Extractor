@@ -166,10 +166,9 @@ def package_all_channels(
             manifest_bytes = (json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
             bundle.writestr(_zip_info("all_20_channels_manifest.json"), manifest_bytes)
 
-        if output.exists() and output.read_bytes() == temp_path.read_bytes():
-            temp_path.unlink()
-        else:
-            os.replace(temp_path, output)
+        # Do not load large nested archives into memory merely to compare them.
+        # The runner temp directory is clean for each workflow run; replace atomically.
+        os.replace(temp_path, output)
     finally:
         temp_path.unlink(missing_ok=True)
 
