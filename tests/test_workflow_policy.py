@@ -23,6 +23,9 @@ def test_archive_workflow_reports_failures_and_publishes_zips():
     assert "all-20-channel-archives-${{ github.run_id }}" in workflow
     assert "${{ runner.temp }}/all_20_channel_archives.zip" in workflow
     assert "if-no-files-found: ignore" in workflow
+    assert "\n  bundle:\n    name: Bundle all 20 channels when complete\n    needs: collect\n    if: always()" in workflow
+    assert "timeout-minutes: 90" in workflow
+    assert workflow.index("python scripts/package_all_channels.py") > workflow.index("\n  bundle:")
     assert "completed/*.zip" in workflow
     assert "last_run_report.md" in workflow
     assert 'python scripts/finalize_run_report.py --status "$ARCHIVE_STEP_OUTCOME" || true' not in workflow
