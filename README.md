@@ -4,7 +4,7 @@ Scheduled, resumable transcript collection for every channel listed in [`channel
 
 ## Features
 
-- Automatically scheduled four times per day by GitHub Actions (00:17, 06:17, 12:17 and 18:17 UTC).
+- Automatically scheduled four times per day by GitHub Actions (00:17, 06:17, 12:17 and 18:17 UTC), with an hourly watchdog that dispatches a recovery run if no archive run has started for 8 hours and no run is active.
 - Tracks old and new uploads per configured channel, including Shorts.
 - Deduplicates videos, uses YouTube manual captions first and original-language automatic captions as a fallback.
 - Resumes incomplete work from each channel's `transcript_manifest.json` and skips transcripts already saved.
@@ -89,7 +89,7 @@ Add the secret under **Settings → Secrets and variables → Actions → New re
 - A newer scheduled or manually started run does not cancel an active collection. Only one collector uses the shared concurrency group at a time; GitHub can keep a single pending run.
 - The scheduled default is a 12-item attempt budget per channel. This keeps progress distributed across configured channels instead of allowing a channel with hundreds of pending items to consume the entire runtime. For an intentional full-channel test/backfill, manual dispatch can use `max_items_per_channel=0`; the job still has a finite runtime ceiling.
 - Collection is capped at 340 minutes inside a 350-minute job timeout. The run checkpoint and finalization steps record partial progress and package already-completed channels even when collection fails or times out.
-- Source pushes run the short validation workflow only. Full transcript collection is launched by schedule or explicit manual dispatch, preventing code edits from competing with the long-running backfill.
+- Routine collection is scheduled four times per day. An hourly watchdog dispatches a recovery run if the archive has been quiet for over 8 hours and no run is active. Narrow push filters also launch collection after changes to channel configuration or collector code; transcript/state commits are excluded from those paths, preventing recursive runs. Ordinary test/docs edits run validation only.
 - The publish step fetches and rebases against the latest `main`, retries safe pushes, and never force-pushes over newer commits.
 - Run JSON and Markdown reports record channel errors/auth challenges rather than calling a run completely clean solely because the Python process exited successfully.
 
