@@ -33,16 +33,44 @@ def test_archive_workflow_reports_failures_and_publishes_zips():
     assert "git push --force" not in workflow
 
 
-def test_archive_collection_is_schedule_or_manual_only():
+def test_archive_collection_push_trigger_is_limited_to_recovery_relevant_files():
     workflow = (ROOT / ".github" / "workflows" / "transcript-archive.yml").read_text(encoding="utf-8")
     triggers = workflow.split("permissions:", 1)[0]
 
-    # Source changes should run the fast validation workflow, not start a costly
-    # full-channel collection that competes with the scheduled backfill.
-    assert "\n  push:" not in triggers
+    # Changes to collector configuration/code recover the archive immediately,
+    # while transcript/state commits cannot recursively launch another collector.
+    assert "\\n  push:" in triggers
+    assert "branches: [main]" in triggers
+    for path in (
+        '"channels.txt"',
+        '".github/workflows/transcript-archive.yml"',
+        '"multi_channel_runner.py"',
+        '"youtube_channel_transcripts.py"',
+        '"scripts/finalize_run_report.py"',
+        '"scripts/package_completed.py"',
+        '"scripts/package_all_channels.py"',
+        '"requirements.txt"',
+    ):
+        assert path in triggers
+    assert '"channel_state.json"' not in triggers
+    assert '"last_run_report.json"' not in triggers
+    assert '"completed/**"' not in triggers
     assert "  schedule:" in triggers
     assert "  workflow_dispatch:" in triggers
 
+
+def test_archive_watchdog_recovers_missed_schedule_without_duplicate_runs():
+    watchdog = (ROOT / ".github" / "workflows" / "archive-watchdog.yml").read_text(encoding="utf-8")
+
+    assert 'cron: "43 * * * *"' in watchdog
+    assert "actions: write" in watchdog
+    assert "thresholdHours = 8" in watchdog
+    assert "activeStatuses" in watchdog
+    assert "github.rest.actions.listWorkflowRuns" in watchdog
+    assert "github.rest.actions.createWorkflowDispatch" in watchdog
+    assert 'workflow_id: workflowId' in watchdog
+    assert 'max_items_per_channel: "12"' in watchdog
+    assert "cancel-in-progress: false" in watchdog
 
 
 def test_channel_list_has_exactly_twenty_unique_channels_including_new_requests():
