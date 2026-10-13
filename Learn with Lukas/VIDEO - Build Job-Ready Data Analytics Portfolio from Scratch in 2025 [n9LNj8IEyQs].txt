@@ -1,0 +1,143 @@
+Title: Build Job-Ready Data Analytics Portfolio from Scratch in 2025
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: n9LNj8IEyQs
+URL: https://www.youtube.com/watch?v=n9LNj8IEyQs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:25:24+00:00
+
+Kind: captions Language: en I often get asked what project should I put in my portfolio to become a data
+analyst it's a tough question but in this video we're going to break it down step by step and make it easy and
+I've got four questions to help you out what projects should I include how to do projects how a portfolio
+works and finally I'll give you four of my best portfolio project ideas and your portfolio is your most
+important asset as a new data analyst and this video will explain it all so the first question is what
+projects to include and I think the best way to figure this out is by kind of looking at what companies
+actually include in their job descriptions all right so now I'm going to show you how it actually looks like
+on the real job market and I just searched for data analyst United States and these are the jobs that we got
+so as you can see um the first one is a junior position and these ones are kind of just data analyst jobs but
+important thing here is to understand that not all are the same um as you can see this one doesn't have any
+crazy requirements but this one for example requires you to have 5 years of experience which they only list
+down here actually you cannot see it until you got all the way down there so this one is 135 150,000 a year
+which might be an indication that it's not supposed to be a beginner level position so just keep that in mind
+as well so what we're going to do now is we're just going to click on one here for example and as you can see
+what they're looking for is they're looking for somebody to uncover business needs to properly frame your
+analysis right so they want to basically help the business and uncover what the business actually needs you're
+going to be using SQL and python skills to acquire and organize data so basically work with data using SQL and
+python that's pretty expected as a data analyst the next part is to discover insights through data exploration
+quantitative analysis and creative problem solving basically trying to both explore data to understand it
+better trying to analyze it and then trying to solve problems with your data and basically discover useful
+insights by doing all of these things they also want you to develop solutions to address the opportunities
+uncovered within your analysis they also want you to assess the quantitative and qualitative impacts of
+possible outcomes basically what could happen if you do certain things that you're planning to do and also
+influence decision- making in the company through effective verbal presentation written communication and
+intuitive data visualization so basically what they're saying is when you've done all of these things they
+want you to communicate your insights throughout the company and also coordinate with different stakeholders
+to help and Implement and monitor recommended actions that you've already recommended from your previous steps
+and also build relation ships with key stakeholders across the organization now if we focus more on the actual
+skills themselves the specific skills that you learn we're going to take a look at data analyst on this
+website that's actually analyzed job listings and you can see that SQL is the most important skill at 47% of
+job listings 540,000 jobs analyzed at this point and uh this is the result excel at 32% and python at 30%
+Tableau 24 powerbi 20 are at at 16% and then some smaller skills over here SAS of course included but
+generally speaking these are going to be the key skills that companies are looking for so if you know these
+ones you of course don't need to know everything because for example Python and R kind of replace each other
+and Tableau and powerbi do the same but these are kind of the main skills that companies are looking for
+moving on to part two which is how to do projects and like most things in analytics there's not just one
+perfect way to do something it depends entirely on the situation and the project but I'm going to show you how
+I recommend that you start a way that often works it's about choosing a data set that you can work with and it
+can be a data set that you're particularly interested in or just a data set that would answer some of your
+questions or help you solve your problems you're picking a data set and then getting to work but how do you
+actually pick a data set then and your choice is incredibly important it's going to dictate literally
+everything else because if you pick the wrong data set you're not going to be able to do a good project now
+you can choose any data set from literally anywhere as long as you get it ethically of course but I'm going to
+show you three different ways that I recommend and the first one is heading over to kaggle which is kind of a
+data science platform where you can find data sets and projects that people have uploaded just click on data
+sets and then you can start exploring on the site and you can even see ratings and stuff like that so you know
+that you're picking something that already works and if you then just click on a data set find the download
+button somewhere on the screen and just enjoy it really is that simple and you'll have a working data set
+ready to play with in no time now the other option is to head over to data.gov which is a US government
+website that literally provides open data for just about anything there are around 300,000 data sets available
+at this time you can choose from completely for free and you can click on the most viewed data set and then
+find one that you like and then just download it there are many different formats but I recommend downloading
+it as a CSV file in most cases now I do want to say that as a warning not all of these are going to be great
+for your project but there are some good ones here on the site and you can literally find data sets on crime
+air quality economy real estate and just about anything that the government collects on you know their
+citizens and on the country you can also select a specific category on the site or a specific type and you can
+also use their search features so it's really convenient if you click on a data set you can actually also read
+more information about it and for example if we click on the National Student Loan Data System you have kind
+of a brief description about what it is access and use information which says that it's made for public use
+and also some different download options and resources because this is a database of many different data sets
+now the final way that you can find a data set is just by exploring online using your own data or scraping it
+from the internet but we're moving on to part three which is what is a portfolio and you kind of have to
+understand what it actually is a portfolio is not a collection of projects nor is it some beautiful Art
+Gallery where you showcase things it's simply a place where recruiters see your skills before you even get to
+meet them and think about it your recruiter is going to meet your portfolio before they ever get to meet you
+and your recruiter has a certain thing in mind they're looking for someone with specific skills so if you can
+show that you you have these skills the recruiter will want to move forward and schedule an interview with you
+and that's actually all a portfolio is so the most important thing is the projects that you create and they
+should match the skills that employees are looking for and show your abilities now to help you out I've got
+four portfolio projects that you can do this with so let's begin with number one but before that have you
+heard of data Camp the sponsor of this video they've helped over 15 million Learners in data analytics since
+2013 and I've recommended their data analyst certification several times on the Channel with great feedback
+from you guys alongside a strong portfolio a recognized data analyst certification like data Camp can help you
+stand out in front of recruiters here's how to become a certified data analyst with data Camp it consists of
+two tests which one is practical and one is theory and once you pass both you'll be certified now the
+certification is available both in r or python so you can pick your favorite programming language and to
+prepare you can start by taking one of their data analyst career tracks the main data analyst track takes
+roughly 36 hours to complete and requires zero experience to get started now data Camp also offers real life
+projects that you can use to build up your portfolio and these are fantastic opportunities to practice your
+skills and build up your experience for your next data analyst job all of this is included in their
+subscription so check the link in the description to learn more and try it for free the first project might sh
+you up a bit and it's a global happiness analysis now it's not an industry specific project unless you want to
+work in like psychology or research but it's a fun project that allows you to show your skills and basically
+what you'll do is you'll analyze factors associated with happiness scores across different countries and the
+goal is kind of to do Eda or exploratory data analysis and better understand these different factors that make
+people happy it's interesting because there's not just one solution here and you're going to realize that
+there are different relationships between happiness and economic social and even Health factors of course to
+help you out we've got a data set that's called World happiness report which you can start with and you can
+get the most recent Edition on kaggle for 2024 completely for free you already have your fundamental question
+or questions and your focus for the project and the rest is kind of up to you you can try creating
+visualizations to better understand your data try to analyze it and find correlations and uh connections
+between different factors of Happiness the next project is a more traditional project and it's called
+e-commerce user Behavior Analysis and spoiler alert you're going to be working with e-commerce sales data now
+while the data set that I'm showing you on the screen isn't exactly new it's very interesting and usually
+retail companies don't release their data for everyone to see because it's kind of confidential and you know
+they don't want to share everything they're doing but this is actually a data set with real transactions that
+you can work with and it sets you up for success to work with sales data in the future your goal is to better
+understand user interactions and their purchases and of course you want to make the company more money in the
+long run I mean that's the entire point right so you might start with cleaning the data set and making sure
+that everything is correct exploring and really understanding your data that you're working with and also
+creating data visualizations to detect Trends and find the most popular products and purchasing behaviors you
+can then bring some actionable insights to your stakeholders and for example in the form of a presentation
+overall going to be a really good project now the next project is also about analyzing customers but rather
+for a subscription service and it's called Telco customer churn and the data set can be found on kaggle as
+well completely for free the focus here is to understand different factors that can influence customer turn
+and create visualizations to better understand these and here it's not about you know getting new customers
+and making more money but rather about keeping your existing customers and for many companies especially kind
+of subscription services like Netflix and Spotify it's really important to keep your customers perhaps even
+more so than acquiring new ones and the skills you want to showcase in this project are your ability to
+explore the data your Eda and to really understand it and you want to analyze the differences between customer
+groups as well as create visualizations to Showcase and present your findings ideally you'll figure out some
+high-risk segments and customers that are more likely to turn and leave as well as some strategies to improve
+customer retention based on what you found in your analysis now the next project is going to focus on air
+quality and here you can either find a data set on kaggle you can also go back to the USG website that we
+talked about before which also includes many data sets on air quality the focus here is to examine air quality
+Trends across different cities or countries if you're working with a global data set and also identify
+different factors affecting air pollution levels if you can now as usual you can kind of choose what skills
+you want to show for this project but some possible options are data cleaning data exploration as well as kind
+of analyzing the data and also creating visualizations dashboards reports and you're really trying to extract
+insights about pollution Trends and you want to try to compare different regions or cities or even countries
+if you're doing that try to figure out some reasons behind air quality differences and recommendations to
+improve and while you're probably not going to be working with air quality in the future the project can show
+many of the key skills for data analytics now let's move on to part number five which is so important and it's
+creating a portfolio and uploading your projects now you already have the project so what do we do with them
+right there are plenty of ways that you can do this but two of the most common options are using GitHub or
+kagle and both platforms allow you to upload your projects and your information and just try to kind of
+document the steps as you go through so that it's retraceable for your project rather than just uploading some
+random information that nobody can read Now to create your portfolio you don't need to do anything crazy and
+you can just kind of showcase your projects and write a quick summary I think about it like a front page more
+and it should explain what projects you've done and the key things and perhaps something to visualize it most
+people are going to stop there but if they want to continue they'll just read your complete documentation you
+can also create your own portfolio website like on wigs or WordPress and there are even template websites out
+there and it doesn't have to be that hard remember to keep your portfolio simple clean and focused on what the
+employer actually cares about which are your skills so good luck and I hope to see you in the next video soon

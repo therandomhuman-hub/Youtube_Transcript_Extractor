@@ -1,0 +1,105 @@
+Title: Etsy Ai Art Tutorial to Build a Digital Colouring Book That Makes $5k/month
+Channel: Alex
+Type: VIDEO
+Video ID: QoceqQ8mD2A
+URL: https://www.youtube.com/watch?v=QoceqQ8mD2A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:51:13+00:00
+
+Kind: captions Language: en a lot of you guys have been asking me for a tutorial about this I made a YouTube
+shorts earlier this month talking about how to make a coloring book with mid Journey that you can sell on Etsy
+and the response was crazy and I'm not just saying this a bunch of you guys really made it clear that you
+wanted to see a video on how it's done and by the way the listing that I showed on the YouTube shorts video
+was able to make two million dollars doing this a bunch of people have been literally printing money out of
+thin air with this and it's actually pretty simple to do so it's obvious that you guys want to know how it's
+done so here's a full video going over how to start an AI Commerce business selling coloring books on Etsy and
+we're going to go over everything from mid-journey prompting to selling the product on Etsy so be sure to
+watch until the end and be sure to subscribe so you can be first to learn more AI Commerce strategies like
+this one okay let me show you how it's done the first thing we need to do is think of a niche that we want the
+coloring book to have designs for best free tool to find good ideas is e-rank find a niche that has good
+monthly search volume and that has competition that is not too harsh for this video I'm using cows after
+searching the keyword cow on e-rank I see suggested keywords such as cow print we will use this keyword cow
+print a better idea of what we want to rank for since we're selling coloring books here are some great
+keywords I found cow print cow spots SVG cow head SVG cowhide SVG SVG stands for scaled vector graphics so now
+we have some low competition keywords with high volume searches and that validates the niche remember it's
+important to validate the niche to confirm that this is something that people actually want now it's time to
+make our mid-journey prompts and to make them effectively we'll be using Chad GPT so here we want to tell Chad
+gbt to give us 50 cal breeds since our Niche will be cows but obviously you can do any animal now that we have
+50 breeds we can now start generating images with mid-journey here's the mid-journey prompt template you will
+need coloring pages for adults mandala insert animal type white background clean line art fine line art hdar23
+so the prompt mentions that we want a coloring book for adults in a Mandela design we want to insert the
+animal design the background of the book is white a clean line art style and AR stands for aspect ratio so two
+to three which stands for two by three by the way I left a copy of this prompt in the description just copy
+paste it into mid journey and plug in your animal type so you just need to enter the niche you chose in the
+prompt it should look like this coloring pages for adults Mandela cow image white background clean line art
+hdar23 now we can go enter this into mid journey and as you can see it worked now we can start generating
+multiple cow breeds so I use the same prompt template as usual but I replace the word cow image with the breed
+Aberdeen Angus cow image it works fine but we want to optimize everything so we want to go on Chad gbt and
+make a better prompt write the following now write me a prom for an image generator to make a coloring book
+out of these cow breeds and as you guys can see you can just copy paste this and they will have given me an
+output of the following so background is white subject cow head style mandala line art clean and precise
+details create and as you guys can see it goes from there so now that we have a better prom we just need to
+replace the subject line with the cow breed generated from before here we want to make sure to have a specific
+prompt that is going to give you a uniform result in order to have all similar Pages for The Coloring Book
+you're making so if one design has a Mandela circle around the cow make sure to have that circular mandala
+design shown across the book okay so now we're going to repeat this process 20 to 50 times for all the
+different breeds you have for your book and once that is done you can piece your coloring book together on
+canva so now let's go on canva and on canva you need to resize the dimensions to make sure the dimensions are
+two by three which is 720 by 1080 pixels to match our pictures from mid-journey now you can upload to canva
+all your designs you should now have a bunch of pages now what you want to do is download all the pages from
+canva as a PDF and we're almost ready to sell this is the fun part A bunch of people say this is the hardest
+part but it's actually the easiest and most fun part we're going to make a top ranking listing that's going to
+convert really well on Etsy first thing we need to do is make a thumbnail or you can call it a listing image
+to make a good listing image find similar listings on Etsy for coloring books and for the best results find
+the best seller badge on a listing and take inspiration from that listing and make it your own on canva using
+the designs you made we're taking inspiration from a bestseller because we know that they have a good
+conversion rate and that they are seeing good results remember first impressions are very important so listing
+images are crucial to see good results if people don't click on your listing you won't have any sales no
+matter how good your designs are okay now that the book and the listing images are completed the next thing
+you want to do is sign up for an Etsy seller account and create a listing for your coloring book I'm already
+signed up so we can skip that step to make new listings click the add new listing button then where it says
+add a photo you want to drag the listing images that you made in canva to add them to your listing and where
+it says primary image that's the image that is going to be that all the buyers will see immediately when
+coming across your listing there's also also a preview of how the thumbnail will look and you can press adjust
+thumbnail button to crop tier liking and now for the title it's important we use good SEO keywords and like we
+did with the listing images we can also take good SEO keywords from competitor listings or even by using
+e-rank again remember it's important to use keywords that have low competition and a high search volume now
+Etsy is going to ask you a couple of questions to know exactly what you're selling first thing is who made the
+product select I did because we made this next select finished product because this is a finished product then
+it's asking us when was this made and here I'm going to select made between 2020 to 2023 after that it's
+asking us for categories here just give a two to three word description and it will find the category for you
+for example you can type in coloring book and then you will see the drop down knowing if it's in the digital
+categories and then you can choose the correct category and by the way do not choose a physical book category
+a lot of people get in trouble with Etsy because of that if Etsy thinks you're selling a physical book but
+you're not giving a physical book to your customers it's going to be a mess next for the attributes section
+there's this section here about the primary and secondary colors that's completely optional if you want to do
+it it's just a plus it's a feature on Etsy for people that are shopping by colors now for the subject in this
+example I'm going to select animal animal and cartoon and Abstract you want to choose three subjects that best
+describe your coloring book now we're almost done for the rooms section just pick kids and nursery and this
+will basically act as a additional tag you can skip all the other boxes now once you get to the renewal
+options here you want to make sure to keep the listings on automatic renewal so sales are automated without
+issue and that your listing is automatically renewed when it sells out the important part here is this where
+it asks if this is a digital or physical product and obviously we want to select digital now for description
+you can use Chad gbt to write a good listing description you can tell chatbt about your coloring book being an
+Etsy listing and make sure to mention on the section what is included in the purchase of your coloring book
+such as instructions you can skip all the other options except section and tags for Section you want to select
+the most accurate theme of your listing and for tags you want to take the most commonly used tags from other
+listings you can grab those using everbee or you can go and find a listing and scroll to the bottom of it and
+under where it says explore related searches you can see tag names under each circle just copy those and paste
+them into the tag box of your listing for price you want to always price it slightly lower than your
+competition so if everyone is selling it for four dollars you can price your listing at 380. for quantity put
+it at 2 in stock as that will create scarcity and tell buyers if it's about to sell out this will help making
+the first sale fast at the bottom of the edit listing page you will see the digital file section this is where
+you'll upload your products but listen in closely because this part is very important you need to upload the
+PDF book file into a Google Drive which will then be shared on a Google doc that customers will receive after
+purchasing as the instructions file from there they can access the Google drive with the coloring book inside
+upload to the Google Doc as a PDF now to get attention to your new coloring book listing I recommend starting
+Etsy ads at five dollars a day and the goal is to have ads off after a week of running ads because if you did
+everything correctly which is using low competition keywords you should then be organically ranked to continue
+making sales at 100 profit so that's how you can start selling digital coloring books on Etsy and make crazy
+high profit margins if you want to be like the top sellers I mentioned in the YouTube shorts that made two
+million dollars just from a digital coloring book I have a super in-depth training going over how to build a
+passive AI Commerce business that makes three to five k a month and if you want to check that out I left a
+link at the top of the description I hope you guys enjoyed this video and if you watch till the end be sure to
+subscribe because I drop a video like this every week

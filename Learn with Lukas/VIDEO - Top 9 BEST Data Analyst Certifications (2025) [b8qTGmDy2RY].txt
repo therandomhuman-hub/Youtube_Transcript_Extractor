@@ -1,0 +1,186 @@
+Title: Top 9 BEST Data Analyst Certifications (2025)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: b8qTGmDy2RY
+URL: https://www.youtube.com/watch?v=b8qTGmDy2RY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:28:01+00:00
+
+Kind: captions Language: en everyone who wants to become a data analyst should consider a certification
+because if Done Right is one of the easiest ways to get a job without experience you're stuck why should they
+hire you over someone else and that's when a certification comes in it's a way to show that you have the
+skills and that you're employable now I'm not pretending a certification gets you a job just like that I've
+seen people lie about this and it makes me angry but I do think that it's an untapped opportunity and with so
+many people looking to break into Data this can actually help you stand out and be the thing that helps you
+get an interview and hopefully land a job so what's the ceric ification well you study you take a test and
+then you're certified it's not one of those courses online with a completion certificate but now I've got nine
+search for beginners to get their first job and we'll cover them in no order because they're all unique and so
+first up on the list we have the Microsoft certified Azure data fundamentals it's a beginner level search and
+the role is for data engineering but it can also be useful for data analytics it's been recently updated and
+you'll focus on databases and working with Azure Azure is Microsoft's cloud computing platform and it's one of
+the most popular out there and knowing Azure as a data analyst can help you stand out for this test you're
+going to be focusing on working with relational and non-relational data as well as different types of data
+workloads like transactional or analytical data and the real skills measured are describing some core data
+Concepts identify considerations for relational data on Azure describe different things to consider when you
+work with non-relational data with Azure and describe an analytics workload on Azure and how you do that so if
+you have no idea what they're talking about that's completely fine they do have a learning path that you can
+take called Microsoft Azure data fundamentals as well as a practice assessment and an exam sandbox where you
+can literally practice the exact type of questions that they're asking you on the exam the exam is going to be
+45 minutes to complete Max so it's very quick and you don't really need to stress about that and if you do
+fail your certification exam you can retake it within 24 hours after their first attempt and so the exam is
+going to be proctored which means that you'll be watched over for example if you're doing it from the comfort
+of your own home but you can also take it on a physical test location and it's offered in many different
+languages and the price will vary depending on your country but in the US it's about $99 it's a good search if
+you just want to focus on cloud Technologies which are very prevalent in data in general but to specifically
+become a data analyst there are some ones that are going to be better specifically for that Ro and so the next
+one we got is the powerbi data analyst associate certification also by Microsoft and in this one you're going
+to be demonstrating methods and different breast practices that align with business and Technical requirements
+for modeling visualizing and analyzing data with Microsoft powerbi that's a lot of stuff but we're going to
+break it down real quick so this one is intermediate but if we actually look at this it's pretty good for
+somebody looking for their first entry level role it just means that you need to study a bit for it you're
+going to be focusing on The parbi Suite and their product which is a data visualization software very common
+in data analytics and the role is focusing specifically on data analytics it was also recently updated and the
+skills measured in this exam will be your ability to work with powerbi and prepare data with powerbi model
+data using powerbi visualize and analyze your data in powerbi and also manage and secure powerbi as well as
+working with power query and data analysis expressions in powerbi so everything is basically done in powerbi
+they do also offer a course to start learning this which gives us a good indication of what they're actually
+going to be testing you on and it starts with an introduction and preparing data for analysis modeling data
+creating visuals and reports and managing workspaces and data sets in powerbi so really useful stuff for a
+data analyst they also offers some practice assessments and prep videos and exam sandbox and during the exam
+you'll have 100 minutes to complete the assessment and it's also offered online with the same policies and the
+price is $165 in the US but it will vary depending on your region but a bonus for this one is you can actually
+prepare for it on corsera because Microsoft created a professional certificate which literally prepares you
+for this exact certification it's about 5 months at 10 hours a week so similar to the original Google data
+analytics certificate and at the end there's also a specific exam preparation and practice course which I
+highly recommend you take even if you don't take the entire certificate you will also get a 50% discount on
+your certification exam which can also be quite useful this is a great option but assuming you want to work
+specifically with powerbi and there are still some other skills like SQL and python Etc so and that's just one
+data analytic skill we'll cover some more certifications for other skills upcoming next and so the next one is
+the comta data sis plus and it's one that you probably never never heard about because it's not a complete
+data analytic certification but it can be very useful if you use it in the right way comta is a very famous
+certification provider offering Tech certifications in all sorts of areas and these certifications are very
+well known which is a plus when you're looking for aert you might have heard about their it certification A+
+which is one of the most famous it Sears now this one is a foundational level management certification
+focusing on the logistics of data Administration and security and you're going to be learning about database
+fundament mentals how to deploy databases database management and maintenance and also data and database
+security as well as business continuity and this one has been developed together with a couple of different
+companies that you might recognize like Cisco and IBM it'll have 90 minutes to complete the exam there are
+going to be multiple choice and performance-based questions and there are no real prerequisites but they do
+recommend 2 to three years of experience in a database administrative role but if you do prepare for this exam
+specifically you can do that even without that experience for the price of this one you'll have to buy one of
+their training bundles and the price will depend on this specific shirt and the package that you want to buy
+but they're a little bit more expensive than the other shirts on the list now as a data analyst this is good
+if you specifically want to learn more about data management and you want to get really strong in that aspect
+but it does lack the normal data analytic skills so I think the next one is going to be better for you and
+that is their compta data plus certification which is an early career data analytics certification for
+professionals task with developing and promoting datadriven business decision making when when it comes to the
+skills you'll learn you'll learn about data Concepts and environments as well as data mining some things about
+data analysis visualization and data governance quality and control which is also very important and the jobs
+that this one is associated with would be the data architect data analyst business analyst reporting analyst
+and just different data analyst roles because for example a marketing analyst is a form of a data analyst that
+focuses on marketing and a HR analyst focuses on HR and you can also see that it's vetted by some of the top
+companies it's 90 minutes and a maximum of 90 multiple choice and performance-based questions so it's pretty
+simple to fill in and you don't have to write that much and you can either do this one at an online testing
+center or you can go to one of their physical locations if you do prefer that they do recommend 18 to 24
+months of experience in a report or business analyst job rooll exposure to databases and analytical tools and
+a basic understanding of statistics and data visualization experience but again if you do prepare specifically
+for this exam you can do this without because there are no requirements it's just a recommendation they don't
+want to get somebody into the exam that has no idea what they're doing especially considering that it is a bit
+pricier than the other options so I would only recommend this if you're actually ready the other options are
+going to be better if you're not completely sure that you're ready for the exam and you don't want to pay
+multiple times cuz it's going to get very expensive and again the actual experience level listed is beginners
+so even if they're asking for some experience they are listing it as a beginner certification now for this one
+the training is going to be quite expensive if you buy their packages so I would recommend checking out some
+free resources you can find a lot of things online nowadays and for the renewal the only thing you'll need to
+do is every 3 years complete a learning course getting 20 of their points kind of which makes you eligible for
+a renewal of your certification you don't need to take it again which is quite convenient all right so the
+next one is one from Google and they're usually offering more fair price than good certifications they're
+famous for it so this one is going to be the associate data practitioner and as I'm recording this it's
+actually not even been released but for this one you're going be preparing and ingesting data orchestrating
+data pipelines analyzing and presenting data and it's a search about securing and managing data on Google
+Cloud so Google cloud is a cloud computing platform which is commonly used in companies and this just means
+that you can do different data tasks using their specific platform which is good to have on the job market the
+exam length is going to be 2 hours and the fee is $125 to complete the exam way more fairly priced than the
+comta option especially considering that the learning path is free free and the language is going to be
+English they might add some more languages in the future it's still a very new one and there are 50 to 60
+multiple choice and multiple select questions and you can either take it online from the comfort of your own
+home or you can take it at an on-site Proctor exam testing center now there are no prerequisites at all for
+this one it's a beginner seert but they do recommend 6 months of experience working with data on Google Cloud
+which you can get by doing projects or just taking courses on Google cloud and working with data and even even
+though I don't think you'll have to take the certification again because it's not going to be a very relevant
+one once you actually get a job you can renew your certification by just retaking the exam during a
+recertification time period and achieving a passing score which you can start to do 60 days prior to your
+certification actually expires and it does stay valid for 3 years from the date of the certification so it's
+nothing to worry about they do also offer an exam guide which I recommend you check out as well as their free
+training because Google does offer a lot of that and this one is focusing more on using data with Google Cloud
+for General use cases and a part of it is going to be data analytics it's similar to Microsoft's entry level
+search that it's not specifically for data analysts but it can definitely be useful as a data analyst but
+Google is actually not the most popular cloud computing platform and companies actually use AWS and Microsoft
+Azure more so the next one is a similar certification but for AWS and if you do like working with Amazon's
+cloud services then this one is going to be a better option it's 90 units and very similar it's also
+foundational level and you'll validate foundational high level understanding of AWS cloud services and their
+terminology this is a good starting point on the AWS certification Journey for individuals with no prayer it
+or Cloud experience switching to a cloud career or for a line of business employees looking for foundational
+Cloud literacy which would be similar to a data analyst where cloud is not the key skill but it can be an
+important skill to make you stand out which is the point of the certification anyway the cost is $100 and you
+you can take it online or at one of their physical test centers the exam format is 60 Questions in over 90
+minutes and they offer a lot of learning and preparation resources like their exam guides as well as their
+knowledge and their different courses and also their exam prep and other resources and finally like a practice
+exam to test your Readiness which I do think is really good and they're offering a lot of things to help you
+prepare for the certification good option assuming that you do want to focus on AWS and so the next one is a
+tableau certification now Tableau together with powerbi are the most popular data visualization softwares and
+getting certified in Tableau can help you stand out on the job market it's provided by Salesforce and they
+offer entry-level certifications all you do is you click on resources and learning Tableau and then Tableau
+certification which will take you to all of their certifications their most popular one is the Tableau
+certified data analyst but they also offer a couple of other options like the tblo desktop specialist and
+server certified associate but that's not going to be very relevant for us this one is to get CER ified in the
+hottest role in data analytics so obviously the data analyst and a tableau data analyst Ena stakeholders to
+make business Decisions by understanding their problems identifying data to explore for analysis and
+delivering actionable insights there are no required pre-requisites for this exam but they do offer a learning
+path and also a prep guide which I highly recommend that you check out and they do recommend that you have
+like six months of experience working with Tableau that doesn't mean that you have to work specifically for a
+job it just means that you've done a few projects with Tapo and you know you explore the platform you know how
+it works before you try to get certified in it the exam prep guide looks something like this and it's pretty
+long and there are different things that you can see about it the time limit is 105 minutes and there are 60
+multiple choice questions and you'll need a score of 65% to pass which is not too bad it's pretty 65% is
+reasonable it's not like 90% or something you'll get your results within 48 Hours of completing the exam and
+the fee is $250 you can either take it online or on site through your Tableau certification account and they
+do offer the learning path as I said and you can see this over here the analyst learning path course is about
+Tableau desktop and also a preparation course for the exam the exam outline shows that it's first about
+connecting and transforming data and then it's about exploring and analyzing data using Tableau and then
+creating content with Tableau and then publishing and managing content on Tableau server and Tableau Cloud so
+basically sharing your projects and your resources created using Tableau there's also details about the
+content which you can check out and they do actually offer a pretty good preparation guide with a lot of
+information and certifications are valid for 24 months from the date you pass the exam and to recertify you're
+going to have to take the entire exam again but it's a pretty short one so it's not that big of a deal great
+option for those who prefer working with Tableau over powerbi and they want to focus on getting certified in
+it it's a very useful skill and many companies are looking for it but for those of you who are just getting
+started with Tableau but you still want to get certified they do also offer a tableau desktop specialist CT
+which is a easier certification and it's also much more affordable at only $100 instead of$ 250 which does not
+focus on data analytics but just focuses on improving your basic skills and product knowledge of Tableau and
+the platform so you're not going to be focusing on analyzing data or something with Tableau it's more just
+about learning the fundamentals and showing that you can work with the platform they also offer an exam guide
+and some learning content and it's a good option if you just want to do it quickly but for most people I do
+recommend that you go all the way and to the next certification as it's going to be more valuable to get the
+data analyst search versus just the general Tableau desktop specialist beginner certification and so the next
+one is going to be a Cloudera certification Cloudera is a very famous platform that offers a lot of different
+services such as Enterprise Ai and data lales and just a data platform and they're also offering
+certifications for example the Cloudera data analyst certification This Cloud era data analytic s tests the
+required Cloud era skills and knowledge required for analysts to be successful in their roles and you're going
+to be working with different Cloud era tools so you do need to be aware of those and specifically learn them
+if you don't as well as Apache Hive Impala Rangers and Atlas And if you've never heard about these that's
+completely fine they do offer some learning paths and there'll be 50 questions in the exam you have 2 hours to
+complete it and you'll just need 60% or higher to pass the exam and it's delivered online as well and this is
+how it actually looks like right there's a 10% focusing on clera data visualizing ations and just creating
+dashboards and what data this actually means then 20% of the exam is going to be about using Apache Hive and
+Impala 10% will be about using Apache Ranger and Atlas 8% about Impala SQL and Apache Hive 20% about aggregate
+statistics and working with aggregate function 12% about Hive and Impala optimization 10% about data
+management and storage which might sound more familiar compared to all of these things and then 10% about
+working with Cloud era and their data warehouse platform now they do offer a lot of different training that
+you can check out and I would say that if you're a beginner and you're not really sure if you want to focus on
+this specific platform I don't recommend it it's just a good option if you are sure that you want to work with
+these tools but it is a much more specialized exam covering their specific things rather than some of the
+Microsoft and powerbi and different things that we talked about which are more popular tools and it's a good
+option but definitely not for everyone and also make sure to check out the video on the screen where we cover
+more things to help you become a data

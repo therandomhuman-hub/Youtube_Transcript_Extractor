@@ -1,0 +1,70 @@
+Title: Top 10 Data Analyst Skills for 2025
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: m9dFzevTN_M
+URL: https://www.youtube.com/watch?v=m9dFzevTN_M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:26:56+00:00
+
+Kind: captions Language: en today I'm going to talk about the top 10 data analytics tools that you should know
+in 2025 and I'm not pulling this out of thin air this is from job listings and what employers are actually
+looking for and I'm by no means saying that you should know all of these but combining a few will give you a
+very comprehensive skill set now I'm going to start with a really obvious one but some of these actually
+surprised me and I don't think people are learning all of these skills even if they really should so first one
+is of course SQL and structure query language is used for basically dealing with relational databases and it's
+it's a very important skill the reason why almost everyone should learn SQL is because it's used in so many
+different companies and it's been around for over 50 years which means that it's definitely stood the test of
+time the second one is going to be Microsoft Excel now Excel usually gets kind of a bad rep because it's not
+as complex or as cool as some of the other options but Excel is still the best one to begin with because you
+can learn the fundamentals play around without complex syntax or having to learn programming you work with
+functions you work with formulas and you create visualizations different things Excel is also awesome because
+you can work with non-technical people most people in a company are not going to be that technical but they
+can still understand Excel so that is a huge plus now number three is going to be python but here's a Twist
+right so the moment python becomes the most powerful is when you add libraries things like numai and pandas
+extend the traditional Python language giving it much more features that are very important for data analytics
+they can help you create better visualizations or data frames to work with your data data and python is the
+top programming language apart from SQL which I guess is a query language all right so skill number four is
+going to be Tableau and Tableau is a data visualization software you can create basically anything from graphs
+to charts to interactive dashboards and generate reports for those of you considering if Tableau is worth
+learning then let me tell you that the company itself was created in 2003 and in 2019 it was purchased by
+Salesforce which is a mega software company and they're kind of trying to integrate it into their ecosystem
+which could be a good sign for the future of Tableau number five is powerbi which is another visualization
+software now I'm not going to you know repeat myself here and explain what these things can do but powerbi was
+initially released in 2011 and it's owned by Microsoft it is therefore part of their Microsoft Power Platform
+which is great if you're already using the Microsoft ecosystem I'm not going to pick between Tableau and parbi
+in this video as there are many personal preferences that play a part but let me know in the comments which
+one you prefer all right so number six is going to be the R Pro programming language and for those of you
+wondering why we need another programming language I mean we already have python it's a very fair question but
+they offers some unique functionalities and R is specifically designed for statistical Computing and databas
+whereas python is a versatile kind of general purpose programming language R also offers plenty of extensions
+just like python does but here they're called packages instead and for example we have DLI and ggplot 2 now
+the downside of R is that it's not as popular as python in job listings but on the other other hand there are
+plenty of jobs that ask for it and R is also very common in research and Academia so that's worth considering
+if you're interested in those kind of jobs in kind of those fields but now we're going to move to some more
+exotic options and we've kind of already covered the basics right so number seven is going to be SAS and if
+you haven't heard about this one you're not alone SAS or spelled SAS was first called statistical analysis
+system and it's basically a software system for analytics released in 1976 so it's not a new player on the
+market at all it is very popular but it's not nearly as popular as some of the tools that we mentioned so why
+should you learn SAS then and why is this even on the list right it's because quite a few companies still use
+it now do be cautious here because if you don't have a plan I don't recommend you learning SAS it's wiser to
+spend your time on more common tools but if you do like SAS and you want to work with SAS in the future there
+are plenty of companies looking for these skills and it can also help you stand out of course now number eight
+on the list is going to be a little bit of a price but it's actually PowerPoint what what the [ __ ] now
+you're wondering how a serious video about data analytics tools is talking about PowerPoint right but from the
+job listings PowerPoint was actually a skill that appeared quite a few times it's not a surprise considering
+the communication aspects of the job you'll have to present your findings and that sometimes involves making a
+presentation for example in PowerPoint now I think it would be very false to kind of say that PowerPoint is
+going to be a game changer on your resume but it does indicate that these skills are valuable as well so make
+sure that you learn how to create presentations and also not just create them but also conduct them too number
+eight on the list is going to be Azure and if you've been around data analytics you've probably heard about
+this one before but you might not really know what it actually is used for Azure is a platform by Microsoft
+for cloud computing cloud computing is kind of like providing Computing resources and services via the
+Internet like storage or processing power in some way but these platforms offer a lot of different Data
+Solutions too nowadays they offer things like Azure dat databases analytics and business intelligence tools
+and being familiar with cloud computing is a very strong boost to your resume now the next scale on the list
+is unsurprisingly AWS and this is another cloud computing platform but by Amazon together AWS and Azure are
+the two most popular cloud computing platforms out there now we could always create a debate here which one is
+the best but if you want me to cover them in detail in another video make sure to leave a comment and
+subscribe and now you know what tools to use but you actually know how to learn them well check out this video
+on the screen for more on that and I'll see you soon

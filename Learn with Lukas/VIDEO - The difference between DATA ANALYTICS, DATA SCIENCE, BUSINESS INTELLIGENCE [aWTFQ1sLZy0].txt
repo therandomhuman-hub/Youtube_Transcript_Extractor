@@ -1,0 +1,52 @@
+Title: The difference between DATA ANALYTICS, DATA SCIENCE, BUSINESS INTELLIGENCE
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: aWTFQ1sLZy0
+URL: https://www.youtube.com/watch?v=aWTFQ1sLZy0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:24:15+00:00
+
+Kind: captions Language: en what is the difference between data analytics data science and business
+intelligence and which one should you choose if you want to work in data starting out with data analytics the
+focus here is on extracting insights from existing data to make decisions and solve problems the core tasks of
+a data analyst would be cleaning data performing statistical analysis and analyzing data creating different
+data visualizations such as charts and graphs and Reporting on these findings to stakeholders and basically
+they're trying to improve the business with data they'll usually work with Excel the spreadsheet software SQL
+for relational databases Tableau for data visualization dashboards and Reporting and powerbi for the same
+thing it really doesn't matter that much and then also python which is a programming language that can do a
+lot of different things depending on how skilled you are I guess now there's not just the data analyst role
+but also many more specific analyst roles that apply the skill set for example marketing analysts in well
+marketing analytics and HR analysts and financial analysts and really the goal is to provide insights that
+businesses can use to improve now let's tackle data science in general the focus is on building models and
+algorithms to predict future outcomes and automate or help decision-making processes now it's very challenging
+to Define data science because it depends so much on what you're focusing on data science can be a very
+general field which even includes data analytics but it can also be the tasks of a data scientist which even
+then can vary some data scientists focus more on machine learning whereas others operate more like a technical
+data analyst so make sure to read the job description but the core tasks in general would be data modeling
+machine learning statistical programming Big Data data analysis and more an example of a data science sline
+learning project would be developing a model to predict how many customers will stop paying every month for
+example Netflix could use this to see how many customers they can expect to lose the next month and how they
+would plan their marketing efforts you could also use it to create Netflix actual recommendation system to
+recommend personal content depending on what people are watching now as you realize to work in data science
+you will need more technical skills than in data analytics and some common skills include python R programming
+SQL tensor flow and Big Data tools like Hadoop or spark but now let's talk about business intelligence and I
+would say the just first thing is that it's more similar to data analytics than to data science you'll be
+creating dashboards visualizations like graphs and charts you'll be reporting on key performance indicators
+and different metrics and for your tools you might use powerbi Tableau looker and more and the goal here is to
+help businesses track and measure performance by providing clear and actionable insights through data
+reporting your tasks could be to create a dashboard to monitor your company's performance across different
+departments like sales marketing and operations and how your company's doing there are many similarities
+between these fields so let's try breaking down some of the differences right usually data analytics will
+focus more on analyzing historical data to provide insights into performance and Trends and data science has a
+more technical toolbox or skill set and they can go one step further using algorithms and machine learning and
+other techniques to also predict outcomes and automate tasks now on the other hand business intelligence is
+going to focus more on the actual reporting and presenting of data through visualizations and dashboards and
+as a name might suggest they also focus more on kind of the business side so which one is right for you I
+guess that's the most important thing if you like the technical stuff I recommend data science if you like
+focusing more on interpreting data and going through the data analytics life cycle I obviously recommend data
+analytics and if you do like focusing more on the business side creating reports and dashboards and kind of
+integrating data analytics into the business then you might want to check out business intelligence there's
+often an overlap between some of these tasks and I recommend looking at a beginner course for kind of each one
+to see what things you'll be doing and if it's something that you are interested in thanks for watching and I
+wish you all the best on your data Journey

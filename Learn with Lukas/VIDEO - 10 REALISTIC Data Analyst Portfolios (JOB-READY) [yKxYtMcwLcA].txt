@@ -1,0 +1,132 @@
+Title: 10 REALISTIC Data Analyst Portfolios (JOB-READY)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: yKxYtMcwLcA
+URL: https://www.youtube.com/watch?v=yKxYtMcwLcA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:30:54+00:00
+
+Kind: captions Language: en look I'm not going to tell you how hard it is to get a job in data science and
+analytics everyone knows that it's competitive at the entry level and instead I'm going to show you how to get
+a job anyway by building the perfect portfolio we'll take a look at 10 data portfolios from real data
+professionals so forget Theory everything in this video actually works and we'll look at real portfolios we'll
+start with some GTO portfolios which are simple and very easy to set up and then we'll cover some personal
+portfolios meaning on your own website and these take more time but they give way better pay offs as well and
+I'll show you examples of a third way to make a data science portfolio which is the fastest and easiest way
+out of all of these ways while also making a wonderful job ready portfolio this video could be a UD Demi
+course but I'll show you everything for free in this quick video so let's begin this video is going to be a
+bit unscripted because I want to explore the portfolios with you so this is our first example and shout out to
+Katie here this is how our profile looks on GitHub and you can see on the side it's the name it's a quick
+description as well as you know followers and things like that location company links Etc and now on the
+overview section you'll see a basic read me document which includes a quick Banner a little text about herself
+some of the things that she focuses on doing as well as a link to her actual portfolio with her projects and
+how to contact her as well as hire her directly on upwork which shows that she's probably working as a
+freelancer as well and that's why she's focusing so much on contact and that presence now you can see that
+there are a couple of projects that she's actually pinned which you can go ahead and look at if you want to to
+but what we're going to do is we're going to click on her projects and you can see now we're being sent over
+to her actual portfolio that she's created and she's focusing more on data engineering it seems but there's a
+table of contents a quick description here are some of her projects we can scroll down here now obviously when
+you're getting started you're not going to have as many projects as Katie she's pretty Advanced but it's still
+a good thing to look at she's also done some guides and other resources that she's including it's a perfect
+time to include it at the end all right so the next one is Tena and she's a global Analytics an agile leader
+and you can see that she lists her certifications her tools some of her Awards and a quick description as well
+as the basic things on the side here and you can see some of her pin projects right here which we can go ahead
+and click on for example budget highlights which seems to be a upuper notebook and a public one you can see
+that she includes a read me file as well as some more project files which we can also click on and get some
+more information and she's including a lot of the information of how to start this and how to actually go
+through the entire process if you want to recreate the project and kind of learn from from it to get an idea
+of what you can create even with just a simple GitHub page or read me file because it does look much more like
+a portfolio than you would expect on GitHub and so the next one is going to be Khloe who's a product data
+analyst you can see some information here as well as some of the pin projects now these ones for example if
+you want to click on this you would click on the Twitter TV show sentiment analysis which is a public project
+and this one is going to be much better for us to analyze and learn from so you can see that there's a quick
+read me file which just includes the project history and overview and if we scroll down here we'll get some
+information about what was happening some highlights of the project and she's been analyzing a TV show that
+she likes and then analyzing the sentiment in that TV show and it's one that involves a lot of drama and
+things like that and over here you can see all the resources that she's used to create the project you can
+click on this file for example to see some actual information about the data set and the contestants you can
+also see an R file as well as another R file that she's upload to GitHub now we're going to move on to some
+more personal portfolios on ass seate website and these ones are going to be more unique and interesting but
+they're also harder to create simply because it's more customizable and there's also more things that you can
+do wrong when it's more customizable either way this is a fantastic portfolio by Hannah and of course she has
+way more projects than somebody starting out would have but it's still a very interesting thing to take a look
+at if we go up here for example we can see Happiness by region made in Tableau 2017 we can click on the
+project or we can get more information about a project which she's actually decided to upload to medium that's
+another option and she's written like a full article about this which you can then go through you can see what
+she's created their findings and things like that now for other projects you can select on the category
+because she has so many projects that you have to kind of select between the different category so the way
+that she's kind of doing it is she has this main website and then she links out to her medium articles perhaps
+some other option but generally speaking it seems to be medium articles where she has the full kind of project
+step by step with some more information about it and this is definitely a way that you could do it as well so
+she's kind of starting with this foundation and then linking out to some more full articles about her project
+now what she also does is that if you do want to look at the full code she's sending you to her GitHub page so
+she's kind of making a little bit more complicated uh to go to your GitHub but she's probably doing it for
+some good reason and I mean she's focusing more on the writing aspect and that can probably be very
+advantageous for her as well the next one I'm going to show you is a portfolio from Marco who's a PhD so
+obviously some things are not going to be relevant for us and most things aren't but there's still some
+valuable lessons that we can get from this portfolio so you can see that it's a separate portfolio that's
+posted on Squarespace and he has a lot of different things like papers and things like that that most people
+aren't going to have but he also has a portfolio section focusing on projects and you can see the pictures
+that he has are very good they're interesting he keeps the titles pretty interesting for example painter
+identification with convo something and then you click and you get more information about this full project on
+this GitHub page with a lot of information about this project and here he gives you kind of a goal he gives
+you an overview he gives you some information about this and then of course also in these folders he includes
+more information if you want to go in and look on that you can see everything from the scripts to The
+notebooks to the resources that he used to create this and you can also take a look at here to get more
+information about this so even though it's a pretty complicated thing he's made it very organized and easy to
+access for somebody that's interested in learning more about it now do be aware of this very advanced level
+and he's not really looking for an entry-level job or something like that so I just really want to emphasize
+this if you are doing that you have to adapt it the next portfolio I'm going to show you is from Katie was
+focusing on Geographic data science and she has a portfolio SL like a freelance website with a lot of
+information about her as well and you can see some of her main projects right here she has plenty of projects
+available and for example here you could see a project that she's created about the Ohio precincts so let's
+click on that and we can see more information on her GitHub as well as a quick summary over here if we do go
+to the GitHub page you'll see a lot of different files it's a pretty comprehensive project it's not something
+that started just really quickly but you can see a read me file it's very structured very nicely organized as
+well as a kind of overview here if you go to the read me file you ination some notes some changes and things
+like that and so now we're going to move to the site called data science portfolio. and it's a free site I'm
+not affiliated with them in any way whatsoever but I want to include it because it's a good way to get kind of
+a templated view of what the data science portfolios can look like as well as a pretty easy way to create it
+now is it a perfect website for everyone definitely not and I still think that you should have your own
+portfolio but it's a pretty nice way of learning and seeing how it works and I've kind of picked out some
+portfolios at random and we're just going to analyze them and so the first one is Briana who's a data
+scientist and you can read some information about her on the side here you can see the skills and these ones
+are much more optimized for jobs they're going to be better for a recruiter because it's very clear what
+skills you know it's very clear like what you view project rather than the previous portfolios that we looked
+at that were more customized but also less clear on how they're actually supposed to help the company so we
+can see a lot of the projects and just like a quick description a title as well as an image both to attract
+attention but also to kind of visualize what the project is about for example here she's actually taken like
+some visualization from the project itself we can click on this one domesticated animal image classification
+with python and we can see a project linked to GitHub as well as the skills and just the overall summary that
+we talked about but the full information is going to be hosted on another platform just like when you're doing
+your personal portfolio on a website you would still keep the actual information on GitHub or kle or something
+like that and then kind of summarize it on your own profile which is like your front page your front portfolio
+and then if they do want to go ahead and look at it deeper they would click here go on the link and then take
+a look the next one I'm going to show you is metadot who's a data analyst and he has a basic description some
+contact options as well as the skills over here and he's done a pretty good job of these ones they do look
+very interesting and he also put his experience here which you can also add to this profile as well as
+education and if you do click on one you would see the basics of the project and just like here he's also
+sending you to another page which is on GitHub for example here for the full code or you could go to medium
+and probably read his article about this one that he's created similar to one of the previous ones that we
+looked at which is pretty cool that he's turning it into multiple things he's both turning the project into a
+GitHub folder he's turning it into a medium article he's uploading it here that's just going to make it more
+visible and give him more opportunities to show his skills which is pretty cool as well and the next one I'm
+going to show you is f Ami who's a data scientist and machine learning engineer and he's done a very good job
+of his portfolio as well and you can see here some basic skills that he's included as well as an about section
+and he's then including a lot of different projects here now obviously more projects than you would have when
+you start but what you do just click on the project for example here go to his GitHub for the full information
+and a brief summary over here very nicely done if somebody's really interested they're just going to go to the
+GitHub page and read all the information about the project like this which he's put on GitHub and the next one
+is going to be Thiago who's a data engineer and has a description his core data science skills as well as just
+the projects on the side and if you want to click on them you can see there's some skills here some
+information about the project and then of course the get to profile as well which you can go ahead and look at
+with a read me and more information about the project itself very interesting now one thing that's really
+important when you do create your portfolio is that you focus on the key skills because you can add a lot of
+different skills and a lot of projects right but you don't want to add a lot of skills that aren't exactly
+relevant to the thing that you're applying for you might have more skills but it doesn't mean that you should
+include them because that's going to take away attention from the key skills that are the most important that
+you also have make you seem like a generalist that's not entirely focused on data jobs and so that is pretty
+much it I hope you enjoy this video and learned something from these 10 portfolios that we took a look at and
+I'll see you in the next one and also check out the next video somewhere on the screen right here because the
+YouTube algorithm thinks that you would like it so why not

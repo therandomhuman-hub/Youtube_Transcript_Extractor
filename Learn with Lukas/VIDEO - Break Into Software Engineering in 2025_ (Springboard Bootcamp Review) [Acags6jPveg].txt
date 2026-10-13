@@ -1,0 +1,120 @@
+Title: Break Into Software Engineering in 2025? (Springboard Bootcamp Review)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Acags6jPveg
+URL: https://www.youtube.com/watch?v=Acags6jPveg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:28:32+00:00
+
+Kind: captions Language: en becoming a software engineer is harder than ever but people are still getting jobs
+while starting from zero there are various ways and some decide to tackle a challenge alone they study and
+learn when they can and others decide to go all in and take a boot camp they get a curriculum coaching and
+real mentorship and both ways work but just take a guess which way is faster doing it alone is hard let's be
+realistic and with the help from people that have already done it a clear path and real accountability your
+chance of success is much higher it's that simple this video is sponsored by springboard and I'm going to
+review their software engineering program I think it's a great option but of course I'm biased so let's look
+at the numbers they have a 4.6 rating from over 1,600 verified students on course report they have another 4.6
+rating from around 600 reviews on Career Karma and they also have a rating of around 4.7 from over 1,700
+reviews on the switch shop.org if we look at their students they've helped over 40,000 people switch to their
+careers we have Julia for example who went from a front desk work at a hotel to a software engineer and we
+also for example Have Bryce who you can see right here who went from an undergraduate student to a full stack
+engineer and plenty of more success stories that you can look at yourself and as a bonus springboard actually
+offers a job guarantee which we'll talk more about later all right so let's move into the details and we're
+going to cover everything in this video from how the program works to things you must consider before starting
+but first let's look at the curriculum the program is designed to help you become a software engineer as fast
+as possible and graduate in as little as 13 weeks with a full-time schedule but you can also study part-time
+with full flexibility which is other responsibilities which a lot of us do so here's what you'll learn right
+you'll be coding in the most in demand programming languages you learn about software development theory tools
+and build different skills and the most important things and you will also do projects to learn and of course
+prepare for jobs and you're going to be using some common tools and languages like JavaScript HTML CSS SQL
+react and of course also learn git this is a complete program so I'm not going to be able to explain
+everything and you know each individual thing that you will do but here are some sample units some of the most
+important things that you'll cover in the program the first part is understanding web development where
+they're actually going to teach you web development and everything that you need to know you learn how to
+become a better programmer by learning the command line operations and the M Stack including for example how
+to troubleshoot and understand systems on a deeper level you'll then move into working with JavaScript and
+apis to work with backend components of your web application and connecting it and the great thing here is
+just how to make applications work by combining front-end and backend technology and of course we're skipping
+over a lot of different parts as these are just some sample units but one part that they highlight is your
+focus on AI for engineers and a lot of people worry about Ai and its impact on developer and sure people that
+just know how to write some code are quite replaceable and you know what they say AI is not going to replace
+you but somebody using AI will so they're going to teach you how to integrate AI into your workflow and how to
+teach you how to become a better and faster programmer and there will also be a couple of different portfolio
+projects that you'll do over the course of the program as well as career support which we're going to cover
+later now the reason why portfolio is so crucial is to show employers that you have the skills you'll do six
+mini projects and five portfolio projects which also includes a final Capstone project where you'll put all of
+your skills together nicely into a final portfolio project as well as of course building a complete portfolio
+these projects are tailored to what recruiters are looking looking for and the most in demand skills and you
+can see some examples of previous students and their portfolio projects right here like Juan here who made an
+app comparing credit card rewards and having something like this to show is going to be a game changer when
+you're actually looking for a job if you want to go ahead and explore these projects more yourself feel free
+to do so and creating these by yourself is going to be quite difficult it's of course possible with some help
+from your mentors it's going to be a lot easier speaking of mentors let's go through who the mentors actually
+are and how they can help you and instead of just having some support person to contact you actually have real
+mentorship with people from day one and here's how it works right so you'll start with being assigned a
+personal Mentor who's a software engineer with real experience who knows exactly what to do and they can help
+you for example you can meet Eddie who's a software engineer at Amazon or Jessica who's a software engineer at
+Airbnb or Roy who's a senior software engineer at 23 and me and all of these are mentors that can actually
+help you oneon-one throughout this entire process and if we take a look at the actual springboard method and
+how they work you'll see that you will get to have regular sessions with your Mentor oneon-one ensuring you
+stay on track and know what to do and I mean let's be honest right wouldn't it be easier if you had somebody
+to help you somebody who's already done it with personalized guidance accountability at every step and also of
+course industry insights from somebody that's actually done it I mean that's going to be one of the most
+important things of this program but you're also going to have more help which includes a dedicated career
+code these people are going to focus more on resumés and finding jobs and that stuff and you get to meet with
+them oneon-one as well as in a group setting and they're going to be refining your resume helping you fix your
+portfolio and even help you negotiate for salaries when you're applying for jobs to make sure that you're
+always getting the best compensation and the coaches worked with companies like LinkedIn Cisco and McKenzie
+now you're also going to have a student advisor who's going to help you stay on track and achieve your goals
+and this is kind of like your support person at springboard who you can reach out to about just about anything
+related to the program and they're going to help you and something I nearly forgot to mention because there's
+just so many things provided you do also have a private Community only for students of springboard where you
+can connect with others and learn from people going down the same path and I do really enjoy this aspect
+because when you're learning and doing things online it can be quite isolating but it doesn't have to be and
+when you have a community there with people that are like-minded doing the same thing to support you it's just
+a lot better but now for all of us Geeks out there what do the numbers actually say are people getting jobs so
+according to springboard's own data and you can actually download the the outcomes report if you want to the
+average salary increase from before and after taking the program is around $25,000 and this is an increase of
+25,000 per year after completing the program now this might sound a bit insane right but it's quite reasonable
+considering a lot of the people go from average paying jobs to very high paying where software is going to be
+one of the highest paying jobs in Tech just as an example right here's Alysa and she went from a music
+composer to a software engineer at progeny saying that I love spring board I recommended it to a few friends
+and they've signed up and it's an amazing experience and she really made a pretty big shift going from video
+game audio composer to a software engineer which also might explain the big salary difference now back to the
+data right they have an average job placement rate of 88% meaning that nearly 9 out of 10 students received a
+job offer within 12 months of graduating from the program and from the data from December 2023 they had nearly
+3,000 students of course a lot more now meaning that n out of 10 students got a job offer within 12 months of
+graduating from the program now let's of course talk about the job guarantee right so this means that if
+you're not able to land a job within their specified time frame you will get your money back and they're
+basically taking on all the risk here and for that reason they do also require you to actually apply you
+cannot just sign up for the course you need to apply and they need to check if you're eligible to start the
+program which is also good because they're not just signing up just about anyone they want to make sure that
+you can succeed but as a disclaimer I do recommend reading up on the specific of the job guarantee as there
+are some certain requirements that you must fulfill to be eligible and this is going to depend on the specific
+program that you're taking at springboard you must also complete all the cours work of course and do
+everything that's required to see success to be eligible for the year so it's not available for everyone but
+it's a great thing and I recommend you look into it now something that you must consider is if this one is
+actually right for you and if you're at the right level to start and this program is actually not for complete
+beginners you do need to know some JavaScript fundamentals and you need to be able to write simple functions
+loops and conditional statements as well as declare variables so very just the basics of JavaScript you also
+need to be familiar with the basics of programming and ideally have some basic understanding of HTML and CSS
+but it's not required so what do you do if you don't have any of these things right well that's not a problem
+they do offer a foundations program which includes three different units for complete beginners to make sure
+they actually ready for the pool program and then you can just transition into it after so no worries anyone
+can start regardless of your EXP experience and they actually work in different cohorts so when you do start
+you need to start a specific cohort so make sure to send your application in time so that you're able to sign
+up for the next cohort all right so here's my conclusion about who this program is good for and who should
+avoid it boot camps are not for everyone they are more expensive but you do get a lot for it springboard
+offers different payment methods such as upfront payments monthly payments as well as deferred tuition and
+this actually means that you don't have to pay until you start the job and you're already making a high salary
+from your software engineering job but I of course still would not recommend it to anybody in a bad financial
+situation boot camps do also require commitment from you and even if you stack all the odds in your favor you
+will have to learn and put in some work and nobody is magically going to make you a sof engineer now I've
+partnered with springboard in the past but today you're not only going to get the previous discount of $1,000
+but another ,000 off for a limited time until January the 7th with my code Lucas 2025 which I'll leave in the
+description you'll also get their AI course for free worth $2,499 and this applies to the software engineering
+as well as the cyber security boot camps so first consider if a boot camp is actually right for you and then
+if it is then I do think the springboard is the best option out there but don't just take my word for it just
+look at the reviews and what people actually think because I do think that that's the thing that matters the
+most

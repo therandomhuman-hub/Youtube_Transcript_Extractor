@@ -1,0 +1,97 @@
+Title: 15 Questions To Crack Data Analyst Interview
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: KRjJsLU4Ptk
+URL: https://www.youtube.com/watch?v=KRjJsLU4Ptk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T23:29:35+00:00
+
+Kind: captions Language: en 15 data analyst interview questions and this is a step that people often struggle
+with they study hard to get a job and they just imagine how painful it is to follow on the finish line and
+fail the interview but it doesn't actually have to be that hard and if you just learn what questions they ask
+in the interview then you can crush the interview and become a data analyst So today we're taking help from an
+article by corsera and we're going to go over these interview questions step by step with some bonus tips and
+tricks as well and the first question is very simple and it's just to tell me about yourself now for this
+question even though it's so simple it's your chance to explain why you're here and what made you choose data
+analytics and also set yourself up to be a good potential candidate you have the opportunity to build some you
+know connection and some Report with the interviewer before you get into all the technical stuff and data
+analytics itself so don't waste this moment it's a pretty important question now next what does a data analyst
+actually do and here the important thing is not that you understand every single thing but rather how you're
+going to be operating and what you'll do to add value to the company because you can analyze plenty of data
+and do all sorts of cool stuff but it has to be useful for the company and bring them benefits whether it's
+increased revenue or better customer satisfaction the article says that you should combine the tasks like
+identify collect clean analyze and interpret data and explain its value in decision making the next question
+is what was your most successful or most challenging data project and it's a really important question because
+while you think they're only judging your project they're actually judging your entire character the article
+says that what they're really asking about is what are your strengths and your weaknesses and they want to
+know that you can actually identify your strengths but also identify your weaknesses in the project and how
+you're able to learn from them if you had a problem with your project but you're not able to identify them
+then that's a very problematic thing from the interview's perspective but if you can talk clearly about the
+things that you do differently in the future and how to correct it then that's great for this step the
+important thing is that you've prepared a portfolio with projects and it doesn't have to be huge again they're
+not asking you what are your 10 best projects but you need to understand your project so you can talk about it
+or else it's pretty suspicious because you're supposed to have made the project in the first place and you
+know understand it better than anyone so it's a pretty bad look overall now question number four is what is
+the largest data set you've actually worked with and this is actually a question that you know has a hidden
+meaning and they're trying to understand if you can handle large data sets data can come in massive quantities
+nowadays and there's even a field called Big Data that was created because our conventional tools just
+couldn't handle it and basically they want to see that you're not only comfortable working with Excel but that
+you can use other tools like SQL as well now moving over to data analysis process questions and the first
+question is to explain how you would estimate something they're basically giving you a problem to solve
+without exact information because that doesn't really matter the thing they're looking for is your ability to
+problem solve and understand the different steps of starting a data analysis project and the article says that
+questions might be like what type of data would you need where might you need to find that data and once you
+have the data how could you use it to calculate an estimate it's all because you need to have an analytical
+mindset and be able to break problems down analytically to become a data analyst question number six is what
+is is your process for cleaning data now this question is not specific to one tool although you could mention
+specifics but the goal here is just to explain briefly the steps of how you would deal with missing duplicates
+problems of integrating with different sources structural errors outliers and more data cleaning is so
+important because without this step all of your results are going to be skewed again you're kind of setting up
+for success by cleaning your data properly all right so next we have how do you explain technical Concepts to
+a non-technical audience in a company most people are actually non-technical and will still need to be
+involved in the project unfortunately somehow so you'll have to communicate with these non-technical people
+and this question is trying to understand your communication skills and how well you can communicate with
+other people now you don't have to be a natural born Communicator or some expert speaker you can learn how to
+properly present your ideas and tailor it to the people that you're presenting it to you kind of need to
+approach it with a different vocabulary and focus if you're talking to your data scientist colleague versus
+your non-technical manager because they have completely different viewpoints this question is actually
+particularly important because the interviewer themselves might not be familiar with data analysis very well
+either and the article says that you should think about it as if you can of presenting it to a friend or a
+family member now number eight is tell me about a time when you got unexpected results and the reason why
+they're asking you this is because a data analyst should not let assumptions dictate the outcome everybody
+goes into a project with certain ideas of how it's going to be but sometimes we're wrong and we need to
+understand that the data should drive the analysis not just our own opinion question number nine is specific
+to the company and the article says that you should do some research on the company beforehand and it shows
+that you're kind of more dedicated to the job and also allows you to answer the next question how would you go
+about measuring the performance of our company now we're moving into the technical scale questions and this is
+where kind of things like SQL Tableau and python come in so question number 10 what data analytic software are
+you familiar with and here they're just looking to see how easy it's going to be for you to get started in the
+company and what tools that you already know the problem is where we Define being familiar with something
+because if you've taken a course of like 5 hours do you really know power bi no but you're familiar with it so
+you could kind of say it anyway so here's where I recommend that you kind of highlight which ones you have
+some experience in and which ones you are the strongest in next is what scripting languages are you trained in
+this basically means do you know SQL r or python in another video I covered the skills in detail but SQL is
+the most important skill for a data analyst and you need to know SQL and you'll talk about this when it comes
+to r or python you can kind of choose to talk about the one that you prefer and have experience with you could
+be asked to do specific technical question about the language and kind of explain how you're using it and
+which one you prefer so make sure that you are ready for this now question number 12 is going to be what
+statistical methods have you used in data analysis and the underlying question here is do you have basic
+statistical knowledge again you don't need to be like a statistician to become a data analyst but you will
+need a basic understanding of stats and the article says you should be familiar with Concepts like mean
+standard deviation variance regression and sample size and the basics of descriptive and inferential
+statistics have you used a Excel for data analysis in the past and the reason why they're asking you this is
+that Excel is still one of the most common tools even with the more advanced options available and you might
+be asked different Excel questions to show your level so for example how do you make a pivot table and what is
+one and also what is vlookup and its limitations and how do you deal with duplicates index and match functions
+and what is the difference between a function and a formula in Excel if you can answer all of these you're
+very well set if not then check out my other Excel video now question number 14 is about explaining a term and
+there are certain words that sound strange to people outside of data field but can play a key role in the
+field and this can be used to kind of test your knowledge for example you could be asked what data wrangling
+is now it's completely fine to forget words here and there but you want to know kind of the general
+terminology and it's um of course in interviews you're going to be forgetting stuff that's how it is but just
+have the overall Concepts down and question number 15 is to describe the differences between certain concepts
+for example qualitative versus quantitative data or variance versus co-variance in statistics it's hard to
+give an example but this is what the article says so I hope this video was helpful and if you want more help
+then check out my other videos somewhere on the screen I really enjoy making these types of videos and I would
+love to see you in the next one thanks for watching
