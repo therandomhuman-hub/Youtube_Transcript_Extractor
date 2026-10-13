@@ -1,8 +1,20 @@
 name: YouTube Transcript Archive
 
 on:
-  # Keep long-running collection on the schedule or explicit manual dispatch.
-  # Code changes are covered by the short validation workflow.
+  # Routine collection is scheduled; manual dispatch remains available.
+  # Narrow push paths provide immediate recovery after changes to collector configuration.
+  # Transcript/state commits do not match these paths, preventing recursive archive runs.
+  push:
+    branches: [main]
+    paths:
+      - "channels.txt"
+      - ".github/workflows/transcript-archive.yml"
+      - "multi_channel_runner.py"
+      - "youtube_channel_transcripts.py"
+      - "scripts/finalize_run_report.py"
+      - "scripts/package_completed.py"
+      - "scripts/package_all_channels.py"
+      - "requirements.txt"
   schedule:
     # Four runs per day at 00:17, 06:17, 12:17, and 18:17 UTC.
     - cron: "17 0,6,12,18 * * *"
