@@ -1,0 +1,105 @@
+Title: how i make $800 per day selling boring digital products + claude
+Channel: Alex
+Type: VIDEO
+Video ID: frDbrv74Mns
+URL: https://www.youtube.com/watch?v=frDbrv74Mns
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:47:26+00:00
+
+Kind: captions Language: en You know, no one wants to believe this, but people are making a full-time income
+selling boring digital products. Those people being me. Look at the proof on my laptop. We're at 800 bucks for
+the day, looking real juicy, and transactions are coming in real nice. So guys, I'm going to break down my
+workflow for selling boring digital products using AI. One of the top sellers that I sell are what I call
+planners and trackers. Here's an example of it. This is a $10, as you can see here, ADHD life planner. People
+buy this with ADHD they want to organize their life. If your digital product can simplify someone's life or
+organize their life, they'll pay for it. So, this is an example on Etsy. This store is making about $3,000 a
+month selling this product, but I'm going to actually show you the way I do it. I actually have my own website
+and we use Meta Ads to get sales. So, the first thing you're going to want to do is you're going to want to
+find the niche that's proven to work because you can blindly create a digital product, but if there's no data
+behind the niche, it won't make sales. So, that's why I recommend Niche Trend Hunter. Now again, you don't
+have to use this, I just recommend it. And for this example, because I am Gen Z, I typed in for a niche Gen Z
+budgeting because I'm going to make a planner like this. So, upon typing that in, it gave me some really good
+niches here, as you can see, and some really cool things that I like about this Niche Trend Hunter tool is it
+gives you the ability to just copy paste a prompt to either build an app for that product or just to build a
+generic PDF. So, upon copying, as you can see here, you're going to want to use an AI app builder to build it.
+So, whatever product you take, you just copy it, you open the AI app builder, which I use as Base 44, and I'll
+put the Oh, by the way, guys, I'll put a link for this AI app builder and this tool Niche Trend Hunter link in
+description for those, but literally I will build an app like so here, and I actually already did that. And as
+you can see, this is my Gen Z tracker. It tracks spend. Really cool little tool that people could use. It's
+also mobile optimized. They could put it on their app. I have a bunch of pages, which is really cool. As you
+guys could see, this is for Gen Z. Now, here's the cool thing. I can sell this app actually for a subscription
+because even here, according to Niche Trend Hunter, it's telling me for all these app ideas, some are one-time
+payment, but the one I built, it's recommending a subscription to build the app. So, what's actually really
+cool about this is I can actually make this into a subscription. So, down here I can say um create a sales
+page for this at We can choose, guys. We can do 27 a month with selling points and FAQ. And by the way, guys,
+to show you like how easy this is, I'm literally doing all this with one hand. With one hand, I built the app.
+With one hand, I built the sales page, which is going to be our website to drive traffic using meta ads here.
+I'm going to show you guys how it's actually, you know, build these ads and run them. A lot of people ask,
+"How do you do this?" Well, I'm going to show you how we do that. So, as you can see here, we're building a 27
+a month sales page for our Gen Z forecasting app. Something similar to this, but we're niched for Gen Z
+because Niche Trend Hunter is recommending this. Okay? And by the way, guys, if you're wondering like who buys
+these so-called digital products that are planners and trackers, this is a store right here. Look, in 2 years,
+59,000 sales. If you do simple math, $10 * 59,000 sales, that's 594K this store made selling $10 budgeting
+apps. And to this day, if I filter by most recent sales with reviews, people are still buying them. So, it's a
+very good niche, very good market. As you guys can see here, our sales page is live. 7-day free trial. You can
+choose if you want to do free trial or directly 27 a month. As you can see, I'm going to press publish, and
+this will be the sales page, okay? If I just copy-paste this, this will be the sales page for where we're
+going to run ads. We're going to run ads here on Meta. So, when you have a Meta Ads Manager account, you're
+going to want to collect sales. You're going to have a page like this, campaign level, ad set level, ad level.
+Then you're going to want to go down. A lot of people recommend campaign budget. When you're starting out, you
+need Meta to figure out where to allocate the spend for the algorithm. So, you actually want to be on an ad
+set budget, which is known known as an okay? Uncheck this. Then we're going to go down here. As you can see,
+this is for this specific ad set. You're going to want to make sure your conversion is website, and we're
+going to want to have maximizing sales, okay? So, as you guys can see down here, we have maximizing the
+optimization goal, which is really important. So, click show more settings. Conversion count, that looks good.
+Standard looks good. Maximize number of conversions. We have our pixel here. Conversion event, you're going to
+select purchase. Now, as you guys can see on this page, you can just press create new pixel. You're going to
+need this pixel to then put it here, okay? You're going to want to paste the pixel here so that Facebook
+tracks all the sales that are being made here. For this example, I'm not going to connect everything. Now, as
+you can see, the AI even knew to set up Stripe. But, once you set up Stripe to this button, you then want to
+add your Facebook pixel like this, this pixel here. I can just press finish pixel setup, and I can literally
+take the code, set up integrations. I can literally grab the code, let that load in, this code right here, and
+I can go and paste it into my landing page. But, we're not going to do that now cuz I'm showing you guys the
+ad setup. So, once that's set up, scroll down. Budget, usually budgets I recommend to start 25 to 50 It's on
+CAD, but I recommend 25 to $50 a day to really get an idea quickly of what's what works. And then down here,
+locations. Normally, for locations, I like to put all the top five tier one countries. So, I would do Canada,
+USA, United Kingdom. Let that load in. And you can even throw in Australia if you want if you want, which is
+really good, too. So, we have our countries all selected. We have review requirements here. Everything looks
+fine. Minimum age. So, let's just find that here. Right here. Minimum age. Normally, I I I would do 25. People
+under 25 are going to have issues spending unchecked people with WhatsApp. Languages. I would just keep it
+really simple. If you're an English app, put it in English. If you're a different language, put that language,
+whatever it may be. Everything is set up. And by the way, guys, there's no interest targeting, there's
+nothing. The algorithm is going to get trained on the sales ad page here. So, whatever we put here, right?
+This is where we're going to put either an image ad or a video ad. The link down here is where we can put the
+base 44 app. Obviously, you want to buy a domain, so when you press publish, you're going to want to publish
+and buy a domain before you actually put a link here, but your link is going to go here. Scroll down. And your
+pixel will be tracking set up. And then we're going to want to put an ad image here as well. Also, guys, some
+really important things you should know. You always need a Facebook page to run ads, so you can just choose a
+page. I made one here really quickly. You can also make your own here if you want. Scroll down. Here is where
+we're going to upload our images and ads. Always turn this off. Multi-advertiser ads is an excuse for Meta to
+spend more of your money than you don't actually need. Put our website, and then we're going to also need to
+set up the creatives. Using Hixfield.ai, I made here an African-American female recording herself saying,
+"Here's a day in my life budgeting." I can basically make an ad of a girl using a budgeting tool, and as you
+can see, check the results out. >> Okay, guys. Here is a day in my life budgeting as a business owner in her
+20s. >> Really good. Really hyperrealistic. And then right here, I can actually have a close-up of this tool
+right here showing off I can filter by the pages, the homepage, right? Showing off this here. And when I'm
+happy with that, all I got to do is basically click on the download button. And we can upload that directly
+here into our page. Lookload to write me meta ad copy for my Gen Z budgeting planner app. And as you can see,
+these are all copy that I could use to direct So, as you guys can see, each of these copies can go here into
+our primary text. We have our headline, call to action we can do sign up. Boom. Press next. Next. Next. Done.
+And we'll see that our ad is right here. Looks really, really good. And that's pretty much it. And we can
+press publish, and our ad is ready to go. So, guys, that's the workflow for running ads to our sales pages
+like this. And if you want to use this AI app builder, link in description. If you want to use this niche
+trend hunter, link is in description. And one last thing, guys, even if you're not making money, okay? So, you
+let's say you charge 10 to 30 bucks a month, right? Your goal is actually to just break even on ads. Because
+even if month one you make no money, don't kill the ads. Month two, month three, because you're charging
+subscription, okay? Like what Niche Trend Hunter recommended, okay? Subscription. You're going to actually
+make your money month two, month three, and you're building subscription income. So, you're just investing
+into those users month one. So, don't turn off ads if you break even, okay? You make money on the subscription
+charge. Just remember that. Really important stuff. Now, something else you can do, too, is all these extra
+recommendations, like product to build, PDFs. PDFs are still great products. You can still take these and
+paste them into Meta to build little um PDF bonuses, which make your overall offer and your overall ad here
+better to have a higher conversion rate. So, guys, those are really important tips you should know before you
+run ads, and that's pretty much the video. Anything I use in this video, link is in the description. That's
+the video. Take care.

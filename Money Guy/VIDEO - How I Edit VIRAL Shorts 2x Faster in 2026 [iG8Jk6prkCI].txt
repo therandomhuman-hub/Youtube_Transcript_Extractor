@@ -1,0 +1,121 @@
+Title: How I Edit VIRAL Shorts 2x Faster in 2026
+Channel: Money Guy
+Type: VIDEO
+Video ID: iG8Jk6prkCI
+URL: https://www.youtube.com/watch?v=iG8Jk6prkCI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:55:01+00:00
+
+Kind: captions Language: en In 2024, I figured out a set of editing tricks that took my shorts from nothing to
+millions of views a day with one short alone making me $1,000. But, the only problem in 2024 was that every
+single short was taking me two, sometimes three hours to make. Finding clips, editing, fixing bad quality
+footage, every day, no days off. But, now it's 2026. AI is progressing faster than ever, and my mission was to
+figure it out how to optimize it to the max. So, in this video, I will not only show you what editing
+strategies I used to go viral, but how to do everything two times faster and with more quality using AI. Quick
+backstory because you need to understand where those editing secrets came from. Back in 2024, I grew a
+football shorts channel header to 100,000 subscribers, and I was making $2,000 every month just uploading one
+short per day. But, to make that one short per day, I was spending one hour just searching for the right
+clips. Then, one to two hours editing, and half of the clips I found were terrible quality anyway. So, I had
+two options: spend another hour digging for a better version, or use the bad clip and just pray. So, in 2026,
+my mission was simple: find a way to get clips faster, improve the quality of them to make better videos in
+less time. And honestly, the tool I found might change shorts editing forever, and I'm not exaggerating.
+Nobody is talking about it yet, and I'm sure that after this video, it will change. So, before I show you the
+editing strategies behind my engaging and viral videos, let's download everything we'll need. And I'm going to
+say this right now, uninstall CapCut, please. Seriously, if you actually want to improve instead of relying on
+templates and one-click effects, start learning a professional editor. I use Premiere Pro, but since it's
+paid, I'd recommend DaVinci Resolve if you're just starting out. It's free, incredibly powerful, and teaches
+you the same professional editing skills you'll use as your content and your channel grow. Even if you plan to
+hire an editor down the line, knowing Premiere or DaVinci will make working with them much easier since those
+are the tools most professional editors use. But, the biggest reason for this video is that the AI plugin
+we're about to install, which speeds up the editing process dramatically, is only available for Premiere Pro
+and DaVinci Resolve. Now that you've made the right decision and downloaded Premiere Pro or DaVinci Resolve,
+the next step is installing the AI plugin. This is honestly one of the biggest productivity boost you'll get
+as an editor. It can upscale low-quality footage, generate images and b-roll, help you find the exact clips
+you need, and much more. When I was editing football shorts, my biggest bottleneck was finding the right clips
+and making them look high-quality. But, this plugin solved both problems and cut my editing time dramatically.
+So, the plugin is made by Higgsfield, and you can download it through my link in the description. Let's just
+install it together step-by-step. Just click the green download button, and you will see this ZXP file. To
+install it, you'll need to install ZXP installer. So, go to zxpinstaller.com and download it, and after
+installing, open it. Drop the file inside, and watch your plugin being installed. Then, restart your editing
+software, and after restarting, you can open it by going to window, extensions, and clicking on Higgsfield.
+Here, you'll need to connect it to your account. After connecting, you're done. So, now, since you have
+everything set up, here's my five-step editing process that will actually make shorts go viral in 2026. This
+is the part that got my shorts to millions of views every day back in 2024, and these rules haven't changed.
+The only thing that changed is the way you do it, which now is 10 times easier with this new plugin. So, the
+first step is to find your visual hook. The first 3 seconds decide everything. You need at least an 80% swipe
+through rate to go viral, and your voiceover alone won't get you there. The first clip on the screen has to be
+the most eye-catching visual you have. What I used to do in 2024 was I would go on social media to find
+something eye-catching or hilarious. But, the problem was that you couldn't always find something like this.
+So, this is honestly where the generation feature inside the plugin becomes a cheat code. You can literally
+create your perfect first frame instead of hoping to find one. That's exactly what this channel used to do.
+Just look at his most popular video. He copied an idea from my channel that got a few million views and made
+it himself and got 22 million views. And at first, I couldn't understand why. It was same idea, same niche,
+similar storytelling. What was he doing differently? But, then it clicked. His first clip, he was generating
+it. Funny visuals that literally don't exist anywhere because he created them. While I was limited to whatever
+footage I could find online, he could make the exact eye-catching visual his script needed every single time.
+That's a massive advantage. And back then, I didn't have access to anything like it. Or, I was just dumb. But,
+that proves only one thing. The first clip is very important to hook people. And this doesn't only work for
+football, by the way. Whatever your niche is, the creators winning right now are the ones whose visuals match
+their script perfectly instead of settling for close enough footage. So, here's how to do it like a pro with
+Higgsfield's plugin. For this example, I'm taking my own video called is there any actual gold in Ballon d'Or
+trophy? And since I want my video to get a lot more views, I will remake the first clip with a funny AI clip
+like my competitor did and got 22 million views. So, to make the first clip really hard to skip, I want
+Ronaldo eating his Ballon d'Or trophy. And if I had to find a real footage of something similar, that would be
+impossible. But, thankfully, we have AI that can do the job perfectly. I'll just open my Higgsfield plugin and
+go to image generation section. I'll include reference of Ronaldo and the trophy. I'll write that I want him
+to hold the trophy and open his mouth as if he was trying to eat it. And here's the image. Just click this
+button on the top left corner of the image and your image will land into your editing software. And the
+quality of the image is honestly insane. That might feel like it is enough for you, but for the first clip,
+ideally you should have something that moves. So, let's drop this image into video generation section. Here,
+you can pick your model. I chose clean 3.0 and click generate. And here is the result. Also, you can see that
+I forgot to change the video format to 9 by 16, but it still turned out really good. And if we would compare
+this video to what our competitor used on his video, this is a day and night difference. Mine is in way better
+quality. Just look at the details. No blur, everything is clear. Now, with this footage you can do whatever
+you want. You can speed the clip up, scale up, or anything else you need. But that's pretty much how AI now
+helps to complete the first editing step process to go viral, which is getting a good visual hook. Now, after
+getting a good eye-catching first clip and after hooking people, the second step is to keep people watching
+with the remaining clips. The reason I'm emphasizing clips is because it's editing. You already have the
+script and everything. Now, you need to present it visually so people would keep watching. So, here you need
+to find real footage that matches your script. For example, talking about Ronaldo being injured but showing a
+clip that isn't providing proof is a big no-no if you want to go viral. Also, here you can't rely on
+AI-generated clips throughout the whole video. People will feel it and they will start getting negative
+feelings when watching. Real footage and good quality real footage is a must. And in 2024, this step wasn't
+super hard, but it was harder than it is now. Let me show you how you can find them fast now with Hicksfield's
+plugin. So, let's say now I need a real clip of a player holding Ballon d'Or. So, I'm going on TikTok. I write
+in the search bar what I need. I take the clip. I open my 4K downloader and paste the link. And when the clip
+is finally in my timeline, simply what I need to do to make the clip better quality is click the upscale
+button. And you'll get more smooth and less pixelated version of clip. Basically, same style every football
+edits channel use, but it's just way faster and way cheaper. Because to make it yourself, you would have to
+use a video enhancer tool like Topaz, which costs like $300. So, press that like button, guys, because I just
+saved you $300. This is not even the best part. You can see there's also a tool reframe. And this one
+genuinely surprised me. So, let's say you found a clip, but it's horizontal and just doesn't fit to your
+shorts format. Well, it's not a problem as well anymore. I took this football footage that is bad quality and
+horizontal, clicked reframe, chose the usual shorts format 9 by 16, and clicked generate. And just look at the
+result. It reframed perfectly, and it looks like it was always supposed to look like this. It even reframed
+and made better angle for this next shot of Messi running. This is honestly insane, and this is what will make
+your videos viral. Footage that is good and nobody has used before. Because people like to see something
+fresh, not just repetitious clips that people already used hundreds of times. So, this is your advantage in
+2026. To use AI the right way. To use it to get better clips and get them faster. Well, the third video
+editing process step is background music. This is very underrated, guys. Music has one job, enhance the
+emotion of your video, not confuse it. My 9 million views short why Ronaldo doesn't do as many skills opens
+with a question people badly want answered. So, I put mysterious music under it to build that exact feeling.
+My every club betrayed Keylor Navas short has sad music because it's a sad story. So, match the music to the
+emotion, always. Fourth step is sound effects. A riser builds tension before you pay off. A hit lands the
+moment. These small details separate amateur shorts from ones that feel professional. And actually, I put
+together a free pack of the exact sound effects I use in my videos. It's in my newsletter. You can find the
+link in the description. Grab it if you can't find sound effects yourself or just want to have a few sound
+effects that I use myself. And fifth, this one might sound weird, but hear me out. Put your thumbnail inside
+your short as a frame just for a second or a fraction of a second because later you can select that exact
+frame as your actual thumbnail. You don't understand how much this can affect your short. I have shorts with
+literally millions of views that didn't come from the shorts feed at all. They came from people clicking the
+thumbnail like a normal video. This way you have two traffic sources instead of one for one second of war. So,
+that's it. That's the full editing playbook. Clips, music, sound, thumbnail. And I genuinely couldn't believe
+nobody was talking about this Higgsfield AI plugin, which does such a good job in making work better and
+faster. So, if this video was informative and helpful, consider subscribing and sharing this with your friend
+who also tries to make viral content on shorts or on YouTube. But remember one thing as well, editing is not
+enough. It's maybe 30% of the game. The other 70% is picking the right niche, finding video ideas that are
+[music] proven to blow up, and turning views into actual money. Because millions of views with bad
+monetization is just a fun hobby. I broke down the entire system from zero to first payment in my how to make
+money with YouTube shorts in 2026. It's basically a free course. So, it's right here on the screen. Click it
+right now and see me there.

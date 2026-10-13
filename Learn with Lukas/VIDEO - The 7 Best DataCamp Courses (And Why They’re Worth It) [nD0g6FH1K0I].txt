@@ -1,0 +1,147 @@
+Title: The 7 Best DataCamp Courses (And Why They’re Worth It)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: nD0g6FH1K0I
+URL: https://www.youtube.com/watch?v=nD0g6FH1K0I
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:27:44+00:00
+
+Kind: captions Language: en Thousands of people have landed the data jobs using data camp's courses, but they
+weren't geniuses or lucky or otherwise wouldn't be making this video. They simply chose the best courses. They
+learned the right skills and then they got hired. And data camp is actually the biggest platform for learning
+data skills with over 15 million learners. They've been around for over a decade focusing on learning by
+doing. And if there's any place to learn data skills, it's with Data Camp. But with 540 courses available,
+most people waste time on the wrong courses that never actually lead to anything. So what I've done is I've
+actually handpicked the seven best courses to help you land a job in data. Whether that's data analyst, data
+scientist, data engineer, or more. And what I did is I actually analyzed course quality, job relevance, and
+whether these skills will still be valuable in the future. And one of these courses is even better than
+expensive boot camps. So let's get into it. And here's what I found. And just really quick, this video is not
+sponsored and I can say whatever I want, but if you're signing up, you might as well use my link in the
+description to get a discount, which also gives me a small commission so I can keep make videos like this.
+That's all. Number one. Okay, so we're going to start with data analytics. So, if you want to become a data
+analyst, this is how you do it. The first one on the list is the associate data analyst in SQL. Now, SQL is
+the most important skill for aspiring data analysts by far, and it's in more than 50% of the job listings. So,
+if you want to get a job in data, you should probably learn SQL. Data Camp actually has a certification,
+meaning that you'll be certified in SQL from Data Camp. And while that's not magically going to get you a job,
+let's be realistic, it can definitely help. So, here's the course, and let's take a quick look together. You
+will gain the SQL skills that you need to query a database, analyze results, and become a SQL proficient data
+analyst with no prior coding experience required, which is pretty good as well. Though, it's going to be about
+39 hours long. It's not the longest course, but that also gives you time to learn other things like Tableau or
+Python, which can help your resume a lot. So, it's definitely worth learning as well because while SQL is
+really important and helpful in this competitive landscape, you're going to need to have some more skills as
+well. So, the course covers a lot of different things about SQL and also two different projects where you'll
+be working hands-on with SQL. Now, it's going to be beginner level and I did take a look at these specifics.
+So, if you already work a lot with SQL, you could probably skip over the first few parts of the course.
+Otherwise, it's really good repetition because with SQL, it's really the fundamentals that matter the most.
+All right, so number two, and that's going to be data analyst with Python. Now, Python is a really popular
+programming language in data. And if you haven't heard about this one, you're literally living under a rock
+because it's actually the most common one except SQL itself, which is technically a query language, but with
+details, whatever. So, here's exactly what you need to know. Data Camp has an official Pythonert for data
+analysts. And once you get this one, you're going to be a data camp certified data analyst with Python. And
+this course is going to show you how to prepare for that certification. So, it's kind of like a learning
+track. That's what they call it. And here's what it says. Develop your data analytics skills in Python. Gain
+the data analyst skills to manipulate, analyze, and visualize data with no coding experience required. Now,
+it's going to take you about 36 hours to finish. And in my mind, that's almost too quick because there are
+actually multiple projects in the course. So, I don't see how the average person would finish it that quickly.
+Maybe I'm wrong, but I'm just a little bit suspicious about the time frame. Anyway, I think it's a really good
+course because the more practice that you get with Python, the better you'll become and surely this course
+includes a lot of practice. You start by learning the basics of Python. You do a project, learn some pandas,
+which is a very popular library for Python in data analytics. You do a project, you do some more Python,
+applying it to data analytics because there's a ton of stuff that you can do with Python. And this course
+focuses on data analytics stuff with Python, not web development or machine learning. You do some more
+projects, you learn some statistics and things like that and finally a capstone project which I think was
+about football games which is pretty cool. And if you don't want to take the certification, you'll already
+have a credential for completing the course. But I highly recommend taking the certification as it's free and
+included in the subscription. So if you already have that, then why not take dessert? All right, so number
+three is up next. And here's where it gets really interesting. I'm gonna get so much hate for saying this from
+both sides because the next one is data analytics with R. R is a programming language like Python, but it's
+mainly used for statistical computing and data analysis. So, here's the thing. You don't need to learn the
+skill to become a data analyst, and you might as well use Python to do the same things. Python is also more
+versatile and more popular, which is why I kind of recommend most beginners to focus on Python. But R has its
+place and it's used more in academia and the original Google data analytics certificate actually decided to
+use R for some reason. So there's a lot of people that know the basics and there are many jobs and people
+still using this language to this day. But in the future I don't know what the future is going to be for R to
+be honest. And this course is basically the same thing as the previous one giving you the basics of data
+analytics while integrating R into everything that you do. And there's a certification for this one too. So,
+if you're now thinking, Lucas, which one do I pick? Do I go for Python or do I go for R? I would say straight
+up go for Python. I don't care. I'll take all the hates. Unless you have a specific reason to pick R, which
+there are some good reasons to pick the language. But if you haven't thought about this, you're probably not
+in that position. So, then I wouldn't recommend you to start R, I would just say go with Python. It's easier.
+Just get started with it right away. All right. So, now we're moving to some data visualization. And this
+course is a data analyst in PowerBI. Now, if you don't know what PowerBI is, you've been literally living
+under a rock. Again, seriously, man or woman. Shout out to our about 10% female viewers working on these
+numbers. So, share it with your friends. Anyway, let's get back to it. This is by far the longest course on
+the list at I think about 50 hours so far. And I still don't know who's counting these hours because when I
+look at this list and I see 17 different modules, I'm just thinking, how am I going to finish this in 50
+hours? The original data analyticsert was about 6 months at 10 hours a week which was surely more than 50
+hours but I guess they made the calculations somehow. Now PowerBI is Microsoft's database software and it can
+be compared to Tableau which is owned by Salesforce and it's kind of like the battle between the giants of
+Salesforce and Microsoft. This course is going to help you prepare for the official Microsoft certification
+called PL300. And if you haven't heard about this one, you're not living under a rock because it's Microsoft's
+only certification for data analysts. And Microsoft is kind of the king of these types of searchs. So I'm
+going to spare you all the details of this course. I'm not going to bore you with that. But let me just tell
+you the most useful things. It's going to give you an introduction, show you how to do some database, prepare
+data, transform data, model data, as well as some more in-depth stuff and also generating reports at the end.
+I try to be unbiased before I start reviewing these courses and I already assume that you know SQL if you
+start this one but if you do then it's probably like the best thing that you can do like literally it's going
+to help you directly prepare for Microsoft and it's from data camp giving you some nice practical stuff and
+just a really good experience overall so I can't promote this one enough that's my final opinion it's a really
+good and a really good course but don't leave yet because you're still going to be missing the best things and
+these are data science data engineering and ML learning tracks but even if you want to make data analyst.
+These are really good, too. Why? Because the landscape is pretty competitive and it can make you stand out.
+It's going to teach you just a bit more than the average data analyst would know. And in this competitive
+landscape, you know what looks good on your resume? Well, more skills. So, this is exactly what you need. Now,
+the first one is going to be the associate data scientist in Python. Now, here we're really breaking the scale
+because this one is about 90 hours long. And I mean, it's still pretty modest for learning all of these things
+and definitely worth it. And I've spent hundreds of hours just on video games. And what did that give me? I
+would say a lot of enjoyment, but certainly not something I could get hired with. So 90 hours on this is worth
+it. Let's take a look. But the problem is the curriculum is too long to even take a look at. There are 37
+modules. Like where do you even start with this? Well, you start with an introduction to Python and then it
+just goes on from there about everything to do with data science and Python. If you're going to be a data
+scientist, you should obviously take all of it. But if you want to become a data analyst, you can kind of try
+to nitpick some of the key things like more practice in pandas, more Python projects, and more of database.
+You're not going to benefit that much from some advanced data science stuff or machine learning, especially if
+you're not done learning data analytics already, which can you ever be. Anyway, really good course. All right,
+so the next one is the Python for data engineering course. A data engineer is kind of the backbone of data
+roles. And even if you're not going to become a data engineer, it's really good to understand what they do and
+have the basics. A data engineer is entirely dedicated to getting data ready so that a data analyst or data
+scientist or a machine learning engineer can actually work with it. And that includes moving it to the right
+places, cleaning and preparing it, and just making it useful for the company. It's definitely not as fancy of
+a role because you're not going to be doing some cool visualizations. You're not going to be doing the cool
+analysis. And for that reason, it's not as common to hear about data engineering. But it gets paid six figures
+and there are lots of positions available. And honestly, I think it's one of the best opportunities in data
+because with more AI and things like that, data engineering is only going to become more important as data
+quality and everything is going to become more complex. Now, this course is only 40 hours long, but I will
+warn you, becoming a data engineer is significantly more difficult in terms of skills than, let's say, a data
+analyst. It's simply a lot more technical. So, you're not going to land a job from this course. No way
+whatsoever. But it's still going to be a great way to start. And it begins with cloud computing and then
+Python. And you'll be doing all sorts of data engineering tasks in Python, which is the key language for data
+engineers. And it also includes some projects, some ETL, extract, transform, load. I'm not going to bore you
+with all the details, but it's another key skill for data engineers. And so, I always want to be honest with
+you guys. And here I have to say that if you just want to get a job quickly, this is not going to be the
+course for you. Data engineering is definitely worth putting your time into. Again, with really high salaries
+and interesting work. But if you have no experience in data and no skills when you start, you're going to need
+so much more than this course. So, if you're already a data analyst, for instance, this could be a great way
+to boost your skills and break into data engineering. But still, these skills are not going to hurt you. So,
+if you want to get into any data role, it's always going to be good to have. And finally, this might be the
+most interesting one on the list, and that's going to be the machine learning in Python course. Now, machine
+learning usually scares people away as soon as you mention it, but this one is only 85 hours long, which is
+for machine learning pretty short. It's some advanced stuff, so let me just make that clear. And the course
+works with Python, but for machine learning, as well as some other skills you need for an ML position. It also
+includes various code challenges and hands-on projects, which is my favorite thing about it. But again, we're
+not going to get into like the details details. And the big question is who should take this course? I would
+say that if you're starting from zero and you just want to break into data, you should probably think about
+data analyst or something like that and probably not machine learning. But if you want to get into ML, this
+could be a really good option. And just know that kind of like data engineering, ML is quite difficult and
+requires a lot of skills and when you start, you're not going to have these. So you'll have to learn a lot.
+What I will say though is that if you're coming from a data or from a programming background or something like
+that, this might be the perfect course for you to just boost your skills a bit and get closer to the ML
+position. And even if you don't want to work in machine learning, these skills are really valuable as well,
+whether you're looking for data jobs or software jobs. And having these on your resume can make you stand out
+a bit. So I always want to give you guys a broad understanding and also a specific understanding so you can
+understand how these things play a part and which one you should start with and take because again, you're
+going to be spending quite a bit of time on these courses. So it's very important that you take the right one
+for you. And everybody's situation varies. That's the important thing as well. But these are some of my
+personal favorites. And I'll leave a discount link down below. And check out this video with more certificates
+right here.

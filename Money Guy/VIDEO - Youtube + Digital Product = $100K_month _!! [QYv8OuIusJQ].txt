@@ -1,0 +1,109 @@
+Title: Youtube + Digital Product = $100K/month ?!!
+Channel: Money Guy
+Type: VIDEO
+Video ID: QYv8OuIusJQ
+URL: https://www.youtube.com/watch?v=QYv8OuIusJQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:51:52+00:00
+
+Kind: captions Language: en So, this right here, that's over 8,000 American dollars that I made over the last
+year from one digital product on a faceless YouTube channel. And that's just the small version of what's
+possible. A few weeks ago, Andrew broke down a guy running an AI avatar channel who pulled over 138,000
+dollars in 30 days from one single ebook that didn't require any inventory, shipping, or customer service. You
+build it once with AI, upload it once, and it keeps paying you every single day after that, whether you're
+filming, sleeping, or doing literally anything else. So, in this video, I'm showing you what a digital product
+actually is, the types you can build depending on your niche, how to build one with AI in an afternoon, how to
+publish it for free, and some psychological tricks as a bonus to sell more and start collecting money from it.
+So, first, let's actually define this because half of you are picturing something way more complicated than it
+actually is. And if you get this part wrong, you either start or you build something that doesn't fit your
+niche at all. A digital product is just something you make once and sell an unlimited number of times. No
+factory, no warehouse, nothing physical involved. That's why I like digital products so much. There are a
+bunch of formats depending on what you already make content about. First, ebooks and guides. Think of a
+step-by-step manual for something people are already Googling how to do. Second, templates. Notion templates
+for productivity, spreadsheet templates for budgeting, Canva templates for content creators. Third, presets
+and filter. Lightroom presets for photographers, CapCut presets for editor. These sell like crazy because
+people want your exact look without doing the work, or they just want to save time. Import, paste the preset,
+and don't make the edit themselves. Fourth, printables. Planners, worksheets, [music] checklists. Anything
+someone prints and uses. And fifth, mini courses. A tight video series that solves one specific problem, not a
+full masterclass. So, that's the basic most common menu. Pick whatever one fits your niche best, and remember,
+whatever product you pick, it should either solve some kind of problem or save time for people. But, how do
+you build it? Don't worry, because in a second, we're going to build one of these from scratch. But, before we
+jump into building process, I need to slow down for one segment, because most people skip straight to making
+the product, and that's exactly why theirs flop while someone else did six figures. Three things decide
+whether a digital product actually sells. Psychologists call it a six-figure triangle. I'm joking, I came up
+with this triangle myself. But, to make a six-figure digital product, you need three things. First is the
+problem. A painful, valuable problem people are willing to pay to solve. A product that fixes something urgent
+solves itself, but a product that's just nice to have needs convincing. So, before you build anything, ask if
+this actually gets someone unstuck right now, or if it's that kind of thing people bookmark and never open.
+Second part of the triangle is the audience. And this is the part almost nobody talks about. If your audience
+is mostly from the US, the UK, Canada, Australia, or Germany, you're sitting on people who are used to paying
+for things online, have a card saved, and actually have the income to spend on your product without blinking
+twice. Build the exact same thing for an audience with less spending power, and you can have the best idea in
+the world and still barely sell it. And the third part of the triangle is the content. attracts those people
+and naturally leads them to your product. You don't just post a product link and hope. You don't need to run
+paid ads, either. You pick one problem, and you make content around that exact problem over and over. That's
+it. Get those three right, and that's the difference between a product that just sits there and one that
+actually pays your rent. So, now that you know what makes a product sell, let's actually build one. To build a
+product today, I won't use ChatGPT or Claude like I usually do. I'm going to use Abacus AI and if you haven't
+heard of it, it's basically one subscription that gives you access to everything. No juggling five different
+tools, five different subscriptions. First up is Chat LLM by Abacus AI. This is their chat interface, but
+here's the thing, it's not just one model. It's got every major AI model in one place. Plus, all the top
+released agents. So, instead of hopping between apps for different tasks, it's all sitting in one chat box.
+So, on how to build a six-figure digital product, I started by picking the root LLM model here because it
+automatically figures out the best model for whatever I'm asking it to do. I dropped in a prompt explaining
+how many pages I wanted, how I wanted the structure to look and that was basically it. The prompt wasn't long,
+not overly detailed because the first draft is never perfect anyway. We still need to go through it and fix
+it. For example, now I've got just the text and content of the book in the chat. So, I asked it to turn it
+into a PDF, make it aesthetic and add illustrations. And after this, it finally looked like an ebook. Inside
+the PDF, there are cool illustrations and a warm design. The only thing I don't like is that it's just
+soulless tips without any more text. So, before actually starting to sell this ebook, I'll probably give
+examples of other ebooks and add some more detailed instructions of how the structure should look in each
+chapter. Before publishing it, I would also need to check the actual tips if they're actually useful and good.
+If not, we should do additional research and ask it to put better tips or even buy or find some kind of ebook
+ourselves and see how other people do it and give it as an example to our chatbot. And that same applies to
+building other types of digital products like guides and templates. Once your draft's cleaned up, this is
+where it gets fun, the cover. And for this, I switched over to Abacus AI Studio. This is basically their full
+agentic production powerhouse. Every top video, image, and voice agent out there, all built into one platform.
+So, instead of hunting down whatever image generator is trending this week, it's already in here. I went to
+the image generation tab, wrote my prompt, picked my model, I went with auto, chose my image ratio, and
+generated a few covers to pick from. I asked it to add the book title right onto the cover, and that was it.
+Honestly, the pricing is what makes this a no-brainer. It's just $10 a month for everything I just showed you.
+And if you sign up through my link, the first month is just $7. So, now you've got a finished product ready to
+sell, built in an afternoon, and not in a month. And to do it, go to a free platform called Gumroad to publish
+it. Take note before we publish, because Gumroad isn't the only option, and I don't want you thinking it's the
+only way to do this. There are paid platforms out there, too, and you can build your own websites and sell
+directly from it. But at the start, you don't need any of that. You don't even know yet if this product has
+real demand. So, paying for a website or fancier platform before you've made a single sale doesn't make sense
+yet. Gumroad costs nothing to set up, so you're testing the idea for free. There's also School, which I
+actually use for this channel's community, but School is a different animal. It's built for recurring monthly
+revenue through a community, not a one-time product sale. And it's honestly not that passive, because you have
+to show up and interact, which I do every single day in my community. I'm not going to stretch this video
+trying to cover it. If you want a full breakdown on making money with a School community, let me know in the
+comments. I'll make it. So, let me show you how to do it on Gumroad fast. And wait, because I will share a few
+psychological tricks to make more sales. So, first, create an account, then write your product description,
+and actually spend time on this part, because it's what does the selling for you. Now, here's some pricing
+psychology nobody tells you about. First, setting the price too low can actually hurt you and get you fewer
+sales than pricing it higher. Who could have thought this, right? How this happens? Well, when people see a
+low price, it signals the product is cheap and low quality. If you make the product price higher, they
+associate with something worth having. Second is the classic trick. End your price in a nine. 19 instead of
+20, 39 instead of 40 because our brains read that first digit. So, 39 feels a lot closer to 30 than to 40 even
+though it's basically the same money. It's called charm pricing and it works because we anchor on that left
+number. Third trick is to never show your price alone. Show it next to a higher on its beating like 39 down
+from 59 this week only. Suddenly, 39 doesn't feel like spending money. It feels like saving money. That's why
+showing the old higher price next to the new one works so well. You're not really selling the book for 39.
+You're selling the discount. After using these tricks, upload your file, set up your card for payments, and
+you're ready to publish. One more thing before you publish and this one actually matters for how much you sell
+long-term. Gumroad lets buyers leave a star rating and a review. And your rating is one of the first things
+people check before they trust a product enough to buy. Now, bad reviews are going to happen sometimes no
+matter how good your product is. Somebody's always going to feel disappointed. So, if that happens, you refund
+them. Full refund and Gumroad automatically removes the rating along with it. This way, no one loses money.
+They ask for the refund, you gave it back, and your storefront still looks clean and still drives new sales.
+Just be clear though, this only works long-term if the product's actually good. You're not tricking anyone
+into buying junk and refunding your way out of complaints. Build something that genuinely saves people time or
+gives them information that they struggle to find elsewhere. In this way, bad reviews become rare in the first
+place. The refunds just your safety net for the few people who slip through. And this is the exact dashboard
+from my own account. That's real money. Not from Gumroad, but from School from one product on a face slash
+channel. So, that's the full playbook for building the product itself. Taking the idea, knowing why it
+actually sells, building it with AI, and getting it live on Gumroad. If you want to try Abacus AI, link is in
+the description.

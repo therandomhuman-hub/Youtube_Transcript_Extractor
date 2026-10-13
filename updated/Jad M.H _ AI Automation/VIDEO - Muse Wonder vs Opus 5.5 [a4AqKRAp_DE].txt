@@ -1,0 +1,66 @@
+Title: Muse Wonder vs Opus 5.5
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: a4AqKRAp_DE
+URL: https://www.youtube.com/watch?v=a4AqKRAp_DE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T00:38:08+00:00
+
+Kind: captions Language: en Okay, Meta's just dropped a frontier model officially today and it has surpassed
+ChatGPT for the first time. It's called Muse water. Meta says it's their biggest strongest model ever and they
+put it right next to Claude and GBT on their own charts. But when I actually read the charts, something's off.
+So today, I'll show you what Muse water is, what it costs, what the Meta's own numbers really say, and whether
+you should switch. Be sure to subscribe because I drop skills every single week. So let's get straight into
+it. So there are two models. Muse water and Muse water full. Muse water is the one that you can actually use.
+It's on Meta's API and Muse code. Muse water full is the bigger one and it's only for Muse code subscribers.
+You can't get an API on it. And this is a big deal for Meta. This is their first real frontier model. Their
+first one since Alexander Wang took over Meta's AI. And he literally opens the launch video. They trained it
+on their giant data center in Ohio and they call it quote our next step [music] towards personal super
+intelligence. The whole pitch is memory. They call it active memory. It's supposed to remember what matters to
+you over days, weeks, months, your habits, your preferences, random conversations you had with it. And the
+second thing is active focus. It's trained not to give up if it hits a blocker. It tries another way. And Meta
+showed some demos of what that looks like. Quick heads up, Meta says these were shortened. First, someone
+asked it to plan a next Saturday's run. It checks their calendar and their health app, maps the routes with
+marker every 5 kilometers and puts it in their calendar. [music] Second is make a birthday t-shirt for Coco,
+the black cat on Instagram. It goes in Coco's Instagram, picks a photo, designs a black tee with Coco in gold
+like like a vintage band shirt. And then it actually orders it. Third, an insurance claim. You send a photo of
+of an urgent care bill and your insurance card. It finds the billing year, writes you a script to call [music]
+them. You say you don't have time to call, it writes an email and sends it over to them. And the decline gets
+submitted. And the last one, a wedding seat chart, a guest list full of notes. Who needs an accessibility
+seats, who has allergies, who can sit together. It turns every note into a rule and seats everyone table by
+table. So, that's kind of like the vibe. Not a chatbot, an agent that does your boring stuff. [music] Now,
+let's talk really the price. $4 per million tokens in, $20 out. That's exactly the same price as Claude Opus
+5.5 to the cent. And here's kind of what's funny. Meta used to be the open source guys. Lama, free weights for
+everyone. This one closed. Same as everyone else. Now, let's talk about charts. And this is where it gets
+super interesting. [music] Meta compares Muse Wander and Wander Full against Opus 5.5 and Fable 5.1 and GBT 6
+Astra on 14 benchmarks. >> [music] >> And yes, there are some wins in here. Legal work, Muse Wander scores 10,
+Opus 5.5 scores 4.2, more than double. Remember, that's their whole pitch and they win. Long coding projects
+on deep SWE, Muse Wander gets 78.8, Opus 74.2. So far, so good, but look at who has the top score on each row.
+Opus 5.5, Claude's model, [music] has the best score on six out of 14 rows. On Meta's own chart, health,
+computer use, terminal coding, building a program from scratch, where Opus gets 70.5 and Muse Wander gets 50.
+And here's the part most people will miss. The model you can actually buy, Muse Wander beats Opus on only five
+out of 14. The one that looks really good on this chart is Wander Full and Wander Cool is not on the API. And
+two more things, straight from Meta's own fine prints. The memory benchmark, the one they say that's their own
+internal test. Same with their big personal super intelligence index at the top. And Meta literally writes
+that the competitor runs our best efforts [music] and may not be optional tuned. So, where they tested Claude
+and Gemini T themselves, they're telling you it might not be their best. Okay, so now obviously we have to
+look at what independent people say. Artificial Analysis, they run the same test over on every model. News
+Wunder scores 52. >> [music] >> That's number nine out of 219 models. Really good, but Opus 5.5 is number one
+with 58. Fable 1.1 [music] and Gemini T6 Astra are 53. And what are full scores at 56. But fair is fair. News
+Wunder is cheaper per task, [music] same price per token, but it uses half the tokens. So, running their whole
+test costs $4.52 per task with News Wunder and $5.98 with Opus. That's about 25% cheaper, but Opus is still
+faster though. One thing from the model card I found funny, Meta says in themselves 3D and spatial reasoning
+is still known as a weakness. So, all those Claude next demos going around the 3D scenes are made with code.
+They wouldn't be with this model. So, I don't really see editing anything so far [music] if that's what you
+were wondering. My personal take, Meta's back for real. Number nine out of 219 models on the independent
+leaderboard. A year ago nobody puts Meta in the same sentence as Claude and Gemini T ever. So, they're doing
+something right and memory is the right bet and agents that actually remembers your life is what most people
+really want. And if News does it really well, that would be huge. But for what I do personally, coding,
+editing my videos, building skills, I'm staying on Claude. Same price, higher independent score on Meta's own
+charts, Opus still beats News Wunder by 20 points on building a program program from scratch. And honestly,
+the question that I keep asking myself, would I let Meta remember everything about my life? I'm not sure yet,
+but of course it depends what I feed it. Tell me in the comments, would you trust Meze with that? And what do
+you think of the new model? I'll put Meze Wonder through the exact same room quote test I gave on Opus and
+Soul, same price, and we'll see who performs better. Subscribe if you don't want to miss that. Thanks for
+watching, and I'll see you on the next.

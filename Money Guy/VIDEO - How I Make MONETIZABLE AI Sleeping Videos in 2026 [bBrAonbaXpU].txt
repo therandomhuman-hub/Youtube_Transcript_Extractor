@@ -1,0 +1,83 @@
+Title: How I Make MONETIZABLE AI Sleeping Videos in 2026
+Channel: Money Guy
+Type: VIDEO
+Video ID: bBrAonbaXpU
+URL: https://www.youtube.com/watch?v=bBrAonbaXpU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:53:53+00:00
+
+Kind: captions Language: en You've probably seen these channels already. 2 hours AI history videos that people
+fall asleep to that allegedly makes insane amounts of money with high RPMs. And you probably had the same
+thought as me. Is it actually monetizable? It's an image slideshow with an AI voice. YouTube probably kills
+this stuff. And that's what I thought as well until I dug into it. Turns out some of these channels are fully
+monetized because of things most people never bother to check. That's why in this video I'm breaking down
+exactly how these sleep channels work, everything you need to know about them, and how to start your own
+monetizable sleep channel. So, on the surface, the logic makes sense. YouTube has been publicly cracking down
+on mass-produced AI content. People saw slideshow channels getting rejected from the partner program, assumed
+the whole format was done, and left. But channels like Sleepless Astorian keep pumping their videos, meaning
+they're doing specific things that keep them on the right side of the policy. The question is, what exactly?
+So, I started digging, and I found the reasons why this works, and one big trap that kills most beginners. So,
+here's the thing. YouTube's policy doesn't say what you think it says. In July 2025, YouTube renamed its
+repetitious content policy to inauthentic content. And everyone panicked thinking AI content was dead. But
+read what YouTube actually targets. Channels that upload narrative stories with only superficial differences
+between them. And channels that upload slideshows that all have the same narration. In other words,
+duplication, not AI. If every video has a unique original script about a different topic, it's original
+content with simple visuals. That's exactly what Sleepless Astorian does. Every video is a completely
+different 2-hour script. YouTube even said that AI tools are totally fine as long as the final video has
+unique value. But then, why some of the channels doing the same thing are still getting demonetized? And this
+is where I found a big problem. There are now dozens of nearly identical history sleep channels. And remember
+what the inauthentic content policy targets? Videos with only superficial difference between them. That's why
+the copycats are exactly who gets demonetized. They don't add any additional value to the niche and format.
+Moreover, they make the content with less quality. Even worse, the quality is slipping. One journalist
+literally woke up at 3:00 a.m. because the AI voice on Sleepless Historian video glitched and started to make
+strange sounds for 10 seconds. And moments like this let people realize that it's AI-generated content and
+they don't even want to watch it anymore. But the good thing is that there's still demand for this ultra-long
+form sleep content. The problem is that supply is full of trash content, so it's not that hard to stand out.
+You just need to put in some actual human effort. Like there are new channels that put disclaimers in the
+video that there was no AI used in their script writing or voice-over process. And yes, that might take
+longer, but that's the way to stay authentic. As for the actual editing and visuals, you can make your life
+way easier by using AI images or even animated clips to stand out from channels like Sleepless Historian.
+Because on his channel, he's using just static images. And no, YouTube doesn't demonetize you just for using
+AI on your footage. In fact, for these types of videos, I'd argue it's actually better because there's
+basically no real footage from prehistoric times. So using AI to recreate those scenes and show how the world
+looked thousands of years ago is kind of magical. And the best part is you can now do it in a fraction of the
+time generating visuals straight from your script with a single prompt. Let me show you exactly how I'd make
+the visuals for a sleep channel right now. The ones that keep it monetized. The biggest visual weakness of
+every channel in this niche is that they're all using static images. So what if instead of still slideshows,
+parts of the video were actually animated scenes generated from the script? This is where I will use Claude
+and Higgsfield's MCP. To set it up, you need to download Claude on your computer and connect Higgsfield's
+image and video generator so it could work inside Claude. Just go to connectors, copy the link, log in with
+your account, and that's it. Now, let's say you already have a script and voice-over for your video. You can
+put it through a transcriber that generates transcription with timestamps. Those timestamps will be an
+indicator for Claude and Higgsfield where and when to generate new visuals. You can generate images for the
+whole video with one prompt. I already showed a step-by-step guide on a few of my previous videos where I
+replicated 2D animation shorts niche and paint style long-form niche. And then, to add extra colors to your
+video for key story moments, you can ask to generate moving visuals. Maybe you could use them in your hook or
+beginning to keep people watching. So, here's what I did. I just copied a Sleepless Historian animation prompt
+from my AI school community, which is free right now, and I pasted it into Claude. I pasted my transcribed
+script version with timestamps. And Claude, together with Higgsfield, started working. Firstly, they generated
+images, as you can see with these beautiful borders that just match the history videos vibe. And after the
+images were generated and I confirmed that I like those images, Claude and Higgsfield started generating
+animations and motions on these images. And as you can see, they look great. These are just simple animations
+on campfire, on the smoke above the chimney, and just in general on people moving their hands and heads. And
+that's already enough to stand out from those channels that copy each other. My tip would be to make the
+motion slow and calm so it still works for a sleep content, but visually it's a completely different level
+from every slideshow channel. And this solves three problems at once. One, you're visually unique, which is
+exactly what the authentic content policy rewards. Two, it looks way better on TV screens where a huge chunk
+of these views come from. And three, when YouTube reviews your channel, you're clearly not the guy uploading
+the same slideshow as 50 other channels. So, you can click the link in the description and try Hexel yourself.
+Now, of course, if you would like to generate more images and videos, you would need a paid plan. So, is it
+even worth spending money? Well, I'm not a money advisor, but what I can say is that every business requires
+expenses. And if you don't want to spend money on visuals, you can try to paint them yourself, but that will
+just take longer. On the other hand, you can also try other sleep niches. Like recently, a lot of gaming
+channels that just record their gameplay and upload as a video marketed for sleep started blowing up. They're
+getting a lot of views, and I think it's also a good potential niche to go into. But, that would be way harder
+to outsource in the future. I would say it's impossible. You just can't outsource personality. So, the
+decision is yours. Just one more recommendation from me would be to don't stop at YouTube. Like there are
+other platforms like Spotify, who now pays creators for video content, too. And depending on your niche, some
+creators are finding it pays even better than YouTube. So, if you're in on one of the eligible countries, you
+can take that same video, upload it to Spotify as well, and basically get paid twice for content you only made
+once. Do whatever you want, guys. Like it's still monetizable. You just need to put a little more of your
+brainpower to it, and don't just copy-paste AI slop. Add a bit of uniqueness and work, and everything will be
+good. And if you want my personal help with your channel, check my private community. Good luck, guys.

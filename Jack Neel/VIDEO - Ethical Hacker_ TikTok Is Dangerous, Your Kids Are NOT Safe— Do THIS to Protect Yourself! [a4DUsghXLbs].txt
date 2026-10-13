@@ -1,0 +1,1312 @@
+Title: Ethical Hacker: TikTok Is Dangerous, Your Kids Are NOT Safe— Do THIS to Protect Yourself!
+Channel: Jack Neel
+Type: VIDEO
+Video ID: a4DUsghXLbs
+URL: https://www.youtube.com/watch?v=a4DUsghXLbs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:14:19+00:00
+
+Kind: captions Language: en today's guest is an ethical hacker who hunts down child Predators if somebody has
+an illness or sickness they're attracted to little boys or little girls the only solution to that is to end
+them at just 9 years old he began exploring the world of computers and quickly became a self-taught prodigy I
+didn't get into hacking just to buy drugs I got into hacking because I was in the communities and then I was
+fascinated with computers already I used the hacking abilities to fund the drug addiction he now uses his
+unique skill set to expose criminals online infiltrate their secret networks and protect the public from those
+with evil intentions how many predators have you sent to prison I don't know an exact number on that one but
+uh a lot in this episode we'll uncover his journey from Young Tech enthusiasts to a leading figure in cyber
+security the devastating ways hackers can exploit vulnerabilities and how he turned his battle with addiction
+into a Relentless pursuit of Justice Ryan mcgomery welcome to the Jack nil podcast hey how you doing jack yeah
+so Ryan um you're an ethical ER with access to some of the darkest parts of the internet what was the moment
+that made you focus on catching Predators so going back to the story that I've told many times I got a text
+message from my friend's wife with two horrible screenshots that uh that you know I they're not they're not
+illegal screenshots but they're very disgusting and uh one of them included a child in a bathtub where you
+could see their back and you could tell that they were they were naked and the title of this post on this
+horrible website that she sent me was um they have no idea what's going to happen to them tonight meaning like
+what this Dad I'm assuming dad was going to do to the child and then underneath of it there were people saying
+what they were going to do to this person's child which you know obviously broke my heart and was disgusting
+something I've never seen before in my life um and there were other you know there were other screenshots I
+believe it you know was one or two I have to go through the text text I'll show it to you um you know I was at
+a friend's house I left and uh and my goal was to just take this website down because it was on the clear web
+it wasn't on like what people consider the dark web or tour the onion uh the onion router uh it was on the
+regular internet for anyone to access and read and and view this content and um I thought well the the easiest
+possible thing I could do is a denial of service attack or distributed denial of service attack which just
+means a Dos yeah just shut the site down and uh if that's all you know that's all I could accomplish I'd be
+happy with just doing that because I'm taking the site down making some sort of an impact and uh and you know
+doing something and I and I don't know you know what what in me had me want to leave where I was at to go do
+that but I literally left that person's house I went home with the goal in mind to just dos the site um
+skipping all of the technical details because I was you know I was told after a couple other podcasts to not
+get too deep into how I did this but I exfiltrated all of the data uh well the user data meaning like the
+usernames the emails the uh the private messages the threads all of the text based cont content on the on the
+website and I made sure to redact uh or not include or exclude the photos or attachments on the site so I was
+in possession of all of this user data from this extremely graphic horrible website and um you know I had no
+illegal content that would be considered am I allowed to say it on this show yeah you go for it we'll it out
+material okay um I uh you know so before I say some words I might just clarify with you because I don't know
+what Tik Tok or any other platform is okay with they they can get a little touchy with these topics but I
+wanted to make sure that when I downloaded that database that there was no material and um you know a lot of
+people call it and in my opinion you know and going back to the story in a second but my opinion when I hear
+the word I I feel like when when you say the word pornography you imply in some ways consent and I don't think
+a child can consent I know it's just a word but I like to call it and uh I think that's a better way of
+putting it after you know being in this field for all the years I've been in it now but that was the beginning
+of when I got started in the field um going a little deeper into that story the person that was running this
+website uh which you know like I said I'll show you some stuff in a second the person who was running this
+website was the first user in the database you could tell based upon the the output uh you know of that
+database that he was the administrator he had more permissions than other users and he used a Gmail address to
+sign up and I'm thinking there's no way that the administrator of a website that's talking about the worst
+stuff you can imagine uh would use their real Gmail address to to to run this thing that's just what I was
+thinking at the time but doing some digging and the guy's name was Nathan lson I was digging into him he was a
+politician that ran for congress twice in Virginia and uh you know I'm not some politics guy I'm not a
+conspiracy guy I'm none of these things but I just happen to stumble upon uh you know a politician a crazy
+politician by you know even prior to know seeing this website just looking into his previous life he's got
+some really interesting past that's weird weird beliefs that's for other words um like white supremacy he he
+made an official statement as a politician that he believes that that should be should be legal um he hor
+horrible things this guy stood for prior to this website being exposed but at the time nobody knew that he was
+running this website somehow some way he was a politician in Virginia and um so after you know extracting all
+of that data I had at at the time I believed it was 3,000 users on the site when I realized later on after
+going through you know a ton of investigation with a journalist Group which that that I'll get to that in a
+second I realized there were 7,000 users in that database because there were these backups that were on the
+server that I was you know I just never I never loaded those backups in and I realized there were 7,000 users
+on the site instead of three what do you mean by backups so you can use uh tools like for example MySQL dump
+which is a way to dump data out of your database and store it into a file and you know maybe you want to store
+it as a CSV file like a like a Excel document or maybe you just want um you know a SQL file just so so later
+on you can rebuild that database with you know whatever was in your database so there were uh a total of four
+files that were just from prior backups and I just assumed you know at first glance without going into them
+that that was just backup of previous websites when the investigative journalist group and I started digging
+into it we found out that there it wasn't just it wasn't just old websites because you know I'm kind of
+jumping all over the place here but he he had these other websites before that I didn't know about you like I
+said I never even got involved in this industry or knew anything about these horrible websites until I saw
+these screenshots so when I started seeing these other websites like uh something about incels and weird weird
+names like that I wasn't familiar with those terms at that point and he ran some site about uh in incels which
+means involuntarily celibate yeah and that could mean many things it could mean you're just too ugly to get a
+girl it could mean that you're you have a fantasy that is you know not realistic like maybe you're attracted
+to cars um or you know maybe I guess you could do something with a car who knows but you know just something
+like something or let's just say for for just you know like a mental image let's say somebody's attracted to
+dogs unless they want to break the law and do something disgusting they're not going to you know do something
+like like that with a dog so they're involuntarily celibate in this case they want to do something with
+children and there are people that have these fantasies and don't act upon them and then there are people that
+have these fantasies and they do act upon them well go skipping a lot of the details which which I mean I'm
+sure you'll have questions because like I said I'm all over the place this politician that was running the
+website um gets arrested six months later in Denver Colorado with a 12-year-old girl that he and kidnapped and
+um I at that point you know after I didn't explain what I did but I I reported all of this data that I found
+to the National Center for missing and exploited children which the acronym Nick Mick is how people call it in
+this field but uh I reported it to them first then I went to my attorney in Florida he reported to a local
+task force and then I called an attorney in Virginia because I didn't really know what to do at this point
+that's where that politician was and it was a woman she didn't know what to do so then I was like okay well
+let me go to the media because there's a change.org petition about this webs where there's over a 100,000
+signatures to get it taken down so maybe just talking to the media the website you hacked into was rape. yeah
+so there there the name of it yes and he had a couple mirrors of it as well but essentially all the same
+website um and uh yeah so so reporting that to you know there was a like I said change.org that you could
+probably still find the the petition now there were a lot of people that wanted to site down but not everybody
+know knows about it you know not everybody knew that website existed including myself I get a screenshot first
+time I ever heard it or sell it and um you know I I think okay let me reach out to the media and see what
+happens so I talk to a bunch of news reporters or you know just reaching out through the general ways to
+contact them through their websites or going to an article where they've talked about something child safety
+related before seeing an email or a social media profile click it get in contact with them every one of them
+and the total number is 11 I have a timestamp I have notes of exactly everything that I did um all 11 of these
+these uh these reporters were excited to run the story like they wanted to run it they wanted details from me
+they wanted me to send you know little bits of information they they all wanted to run it it was almost like a
+done deal with every conversation that I had and all of them came back with the exactly the same answer that
+their legal team was not willing to run it for you know various reasons but mostly liability and I said my
+rebuttal to that was okay well then let's not have any legal risk or liability let's just let people know that
+the site exists because there's also CH well people that are claiming to be children and children on this
+website that are selling their bodies to these weirdos um so just let parents know the site exists on the
+clear web and that that way they can maybe monitor their kids devices whatever whatever the case is whatever
+they're going to run the story on but none of them R it anyway and then going back to what I just said Nathan
+at that point it was 6 months after I already reported already reported all of that information um Nathan at
+that point already kidnapped and the 12-year-old and and was caught like you know if he lives in Virginia on
+this side of the country gets arrested in Denver Colorado on the other side of the country he took a
+12-year-old from their family and got caught at an airport but guess what and in all of those articles not one
+of them mentioned his websites so that never no action was ever taken on that until years later I I partner
+with a friend of mine who's a professional MMA fighter we're sitting in my friend's garage and I was you know
+talking to him about somewhat about this story but in general just how bad this situation actually is and um
+you know I was I could show you so I pull up this teen chat website which is what I my kind of go-to when I'm
+trying to show somebody if they want to know because I don't have to create an Instagram account or a Tik Tok
+or any other platform where I'm decoying as a child which you know I don't want I don't want to decoy in the
+first place but just you know it takes time to create a fake social media profile and then have these guys
+reach out so the easiest solution for me was to you know just Google search teen chat there's a guest button
+on all of the there's a ton of these teen chat websites hit the guest button name myself Ashley 13 female
+whatever state which is like something old school ASL I don't know if that it's even done anymore but age sex
+location that that's used that used to be what everybody said as like after you said hi they'd say ASL so I
+made my username Ashley 13 female Florida in this case and um or FL and the chat would just blow up with
+private messages ding ding ding ding ding ding and inside of them you know there'd be a couple actual
+teenagers and a teen chat as expected but you know quite a lot of them were you know grown adults not just and
+18 is bad but some of them you know 30 40 50 year olds that want to talk to what they believe is a 13-year-old
+girl he sees this like my friend Scrappy he's a he's a pro MMA fighter never seen anything like this in his
+life uh either and I was like well we could we could actually start catching them right now so like if you
+want to do this like you know he he fights his entire job is training at the gym preparing for fights he has
+the availability you know to to just dip out of the gym and go go on a catch is what what it would be called
+at any time so we decide okay we're going to do this together he's going to be the face of it and because
+think of it like this you know MMA fighter yeah MMA fighter vers is just an attractive title that people would
+want to click on it's the Internet it's all about what clickbait and people want to you know that's an
+attractive title and not only will it be something that people will watch but him and I both have passion for
+it we want to help and he's he's a guy has a big heart have to Market it as well for of course so but but him
+being a marketed he was on The Ultimate Fighter reality show he's already a known person um these podcasts
+start reaching out to him because they want to know like hey why are you catching predators and and why let me
+know the whole story and he brings me along on these podcasts so that I can answer the more technical
+questions like how do you investigate them and what is the laws that that are surrounding these specific uh
+these these these cases and um and I went on a relatively small podcast you know I think I think it was only a
+couple hundred if not a thousand followers at the time and uh we we did some bigger ones but that was one of
+the smaller ones they're bigger now but um I went on there and they asked me the question that you just asked
+me how did you get started but they were directing it at me not at him and you know this was supposed to be
+about him I just happened to be there and um I answered the question and I ended it by saying yeah I reported
+everything I did all of uh you know I reached out to the media I tried everything I possibly could and
+nothing's happened so from there you know I that that clip goes up on Instagram and I see it gets almost 10
+million views in one night on this small Instagram Channel and in my I'm getting blown up my inbox is
+absolutely flooded with people that want to talk about this story which I I was getting the opposite response
+from the major media in the past you I and I couldn't tell you why but that's you know I was get other than
+the liability that the the lawyers were saying they weren't willing to run it so I uh I I reached out to I'm
+sorry I didn't reach out they reached out to me project Veritas which I'm not like I said I'm not a political
+guy so I didn't understand their political you know beliefs or any of the drama going on with their their
+group at the time but they they did have quite a bit and I didn't know anything about it nor did I really care
+I just wanted a group that was interested and helping and wanted to get the message out there I saw they had a
+million followers on I believe it was Instagram what are their political beliefs I think that they're like uh
+like right-wing type you know people that's what they're portrayed to be but at the time the the drama was
+their CEO was uh James O'Keefe James O'Keefe either left or got fired that's kind of Up For Debate nobody
+really knows but for me I didn't even know who James O'Keefe was I just knew they were investigative
+journalists and I wanted somebody to help me to get this database you know do to to have some sort of justice
+and that they were the ones that did it so within 24 hours after this one clip goes viral project veritos
+shows up and uh and they want to go through the data they take the data from me I sign some documents they go
+back to New York is where they're they're based and we're going back and forth on a chat application and we're
+investigating each individual person in in these databases which you know I just call the database but in
+these multiple databases um from this one you know exfiltration for other words yeah and um and these users I
+hate to stop you but what did they look like like were there other politicians like what was the common age
+demographics any job similarities so there wasn't a job similarity but there definitely was you know from like
+30 to 5050 was the was the age bracket mostly male um yeah but there was quite quite a lot of females that be
+which we were we even have a video uh when I was when I was working with project verit on it we have a video
+of us confronting a female that was on the website who claimed she found it in a Facebook group and that you
+know she just was trying to shut it down or something I forget all the words she said you'd have to look at
+their video on it but it uh it it was it was odd because usually females are not you know the ones that go out
+and and try to meet with children but I guess a lot of them like to fantasize about it online which is just a
+weird thing but it's it seems to be the case well while we're investigating these users there's there's like I
+said 7,000 users and the we get to about 500 of them that we are 100% sure that we know are the people behind
+that username and that email address and we find out from that that 12 of The 500 uh have been charged with
+crime against a child after I reported it to Nick Mick and and the media so I believe that there's many more
+cases that we don't know about and like I said that's 500 of the 7,000 that we we got to before project
+Veritas shut the story down which I can explain why that happened in a second but I believe there would be a
+lot more you know a lot more cases number one that haven't been caught and number two that uh you know just
+there's there's 6,500 other people that we that at that time were not looked further into you said there were
+multiple cases that happened after you found this data yeah after I after I exfiltrated they weren't before
+like you didn't like look into their criminal history and they happened before it happened after it happened
+after it was reported yeah so it could have been prevented is what I'm getting yeah okay so why they shut it
+down uh because of their owner James o'keef uh either either leaving or getting fired nobody knows the true
+answer to that one at least right now I don't know the guy nor did I ever care I just like I said I wanted a
+journalist group to do it um they brought in an interim CEO named Hannah Giles which I don't know her either
+but she gets on the phone with me in the middle of this investigation where they're all of their journalists
+are like super motivated they're they're all pumped up everybody's working as a team on trying to investigate
+as many of these people as possible and I I you know I can't I can't speak on their business because I don't
+know all the financials I don't know their their situation at that time but their CEO got on the phone and her
+biggest concern was she said this is that they didn't want to run didn't want to run the story anymore because
+it was not a title way like TI d a l wave like not a TI t l e a tit like a tital wave you know um and then it
+got shut down it was done it was dead in the water for other words um and uh but the journalist at project
+Veritas all reached out to me individually saying like hey let's keep doing this I would love to keep doing it
+but when you don't have the the equipment you don't have the spy cameras you don't have the the budget to be
+flying around to meet these individuals and confronting them with cameras like as much as they wanted to help
+they just didn't have the the resources do it so that had to stop in that process then you know this is
+supposed to line up to where project varitas releases this bombshell situation which I didn't get into this
+and I want to get into it as well that the Nathaniel Larson guy Nathan Larson the politician was the website
+was hosted by Frederick n one of the co-founders of the Pirate Bay so I have messages from him which is also
+on Project Veritas The Pirate Bay The Pirate Bay yeah what's the Pirate Bay so the Pirate Bay is a very
+popular torrent site from back when I was younger still exist current day I believe where you can download
+movies music and videos just you know and and software uh where other people are it's a p a piracy website but
+it's like an Infamous piracy website so for one of the three owners who a lot of people have respect for
+especially in like the hacking Community for one of them to host a website like that and to uh and I have
+messages where he says that he got he got a report from whatever company reported it or whatever agency
+reported it he replies to Nathan I have the private message it says to uh he says I reviewed this site it
+looks like troll comments and holiday photos of children meaning holiday meaning like vacation in in other
+countries so I can't understand how somebody like Nathan I'm no I'm sorry I can't understand like somebody
+like Frederick goes through this website and says this is troll content and holiday photos of children and I'm
+going to show you why in a second so you understand why that makes absolutely no sense but nobody's ever asked
+Frederick like hey why did you host the site why did you allow it to stay on your servers after you reviewed
+it and you were helping him troubleshoot it and there's screenshots of those messages on online that you can
+find why was why did nobody say a word to Frederick like still current day nobody said a word to the guy um
+you know I I let me pull up these just something so you can get an idea of why I even acted on this in the
+first place uh because I think that's kind of important I mean here is here's one of the screen the one of the
+original screenshots right here okay uh JB pill says who wants to these little and then there's a reply I've
+got first dibs on the little in the middle at Joseph fritzel maximilan Von owitz pick a [ __ ] for yourselves
+and then it's a photo of little girls and like bikinis and such Jesus man that's just one I mean I I can show
+you more but it's is that show me show me some more can can you while seeing that horrible screenshot this the
+F like this is what got you know flipped the switch in my brain why I wanted to take this site down um which
+like I said there not that screenshot the the bathtub one was the one that that uh you know they all they all
+are disgusting but that was just one example but does that to you appear to be troll content or holiday photos
+or vacation photos of children no yeah so I would like to know what Frederick has to say this one so like I
+said there were people on there that were children that were selling themselves to adults and the reason I
+could confirm that without doubt is because when we started to invest investigate it it was more than 2 years
+um after I originally exfiltrated the data and some of the users that we were we were identifying the 500 of
+the 7,000 with project Veritas at least um were now 18 19 years old so that tells me they were children at the
+time because you know of their age when we started to look it up but some of the users and including this one
+that uh that you can read if you want they they're pretending to be a 16-year-old and just just read what they
+had to say here God I really want to be a mom I need someone who wants to my little 16-year-old when I have
+our daughter I'd let you do whatever you wanted from whatever age make me watch as you her making her scream
+or if you prefer to gently her teaching her how to lovingly suck on your don't worry if it's a boy you can
+watch me our little boy off teaching him how to properly a woman teaching him how to slap and hurt me to face
+me he'd be so cute trying to face me hard but barely pushing because he's so little so this is was confirmed
+to be like that's an adult that's an adult and they're pretending to be a child but there were many children
+on this website yeah yeah yeah yeah like and I'm I'm saying many with only at this time that the public knows
+about 500 being confirmed you know like I only know like what I'm trying to say is there more has been done
+with the database I just I'm not allowed to talk about that anymore um but 500 of them I I can because it was
+with a journalist group who also has that data but there you know that was not a child uh but there were many
+children on this website for real which you know there there are that's not the only website that exists
+there's still websites out there just like that and worse um on the clear web on I mean Mo yeah I'm sure on
+the clear web I don't know any off the top of my head right now but I plenty on on tour on the on the dark web
+so uh yeah it's it's it's really disgusting to me and um I uh I I don't know I mean that that's kind of what
+ignited my passion into doing what I'm doing and and going back to the story with uh with Scrappy or Dustin
+the MMA fighter um we decided Well like because at that moment when when they did nothing about it at the time
+I'm I'm thinking that I I I feel like these children were being failed by the media they're being failed by
+the by the authorities nobody wants to take this seriously like what can I do about this right well years
+before I even talked to the the scrappy the MMA fighter about uh catching them locally I I found these YouTube
+groups that were catching them online and nowadays like you know anybody that's watching this video they
+they're going to they're going to think you know Predator catchers they've seen video after video of that
+recently in the last couple years well there this was not popular back then there were only a few people that
+were doing it and uh like in total it wasn't like all of your favorite content creators were catching
+Predators it just wasn't a thing at this time this is 5 years ago um approximately and um I reach out to all
+of the channels that I could they had a relatively small following except for one or two um and uh and I said
+hey well you know I watch a lot of your videos and I see you're confronting these people and you don't know
+anything but their username and that's it you don't know where they live you don't know where they work you
+don't know anything about them um I'd be happy to take your chat logs between the decoy and this predator and
+I will uh you know I'll send you a full case file on the person as long as I can find out who they are so I
+would uh you know who's going to say no to that I don't want my name in the video I don't want credit at in
+the description I just want to help out for free volunteer and nobody needs to know that I'm doing it so like
+you know a lot of them agreed to allowing me to do that and for a couple years I did that until that one
+conversation with Dustin and um and then we were like okay well let's start a group around here and we're
+going to catch them locally I'll start finding them for us uh I'll pay the decoys you know out of my own
+pocket and um I'll pay the video editor cuz I I suck with video editing and and you just you know you catch
+them you read the chat logs and and of course he was reading all he he was as involved as he possibly could be
+um leading up to these catches but you know some of the stuff like open source intelligence just wasn't
+something he was interested in which I understand you know um but long story short we we end up you know both
+of us actually the first night that we decided to do it both of us go on grinder and nothing against gay
+people or anything like that but grinder it's just an app where people meet very fast and not only do people
+want to meet within like you know minutes but it tells you like this person is 10 ft away from you or 50 feet
+away from you like it's a pretty transparent app for hookups and so Dustin and I download that app and we use
+uh an app to make ourselves look younger so we look like kids I actually still have the decoy photos on my
+phone and um we were telling people that we were teenagers a guy eventually does want to meet up and he he
+basically says um how long did it take to find not even an hour not even an hour on grinder the guy wanted to
+meet and he wanted to meet in a busy area it's Atlantic AV delr Beach which is like it's kind of like meeting
+Hollywood Boulevard yeah yeah you want to meet in public gosh and uh with with it what he believed to be a
+child and uh we we go out we go and meet this guy and this is his his and his and my first time ever
+confronting a predator face to face I've done many of these from behind the computer screen but not where I'm
+holding the camera in my hand or a phone in my hand and uh in his first time ever confronting somebody with
+the like you know some pretty bad chat logs like hey what were you here to do man this is really disgusting
+what were your intentions with this child and the guy as soon as we say his name and and you know personal
+details about his life he starts walking really fast and I'm following them and I'm screaming at the top of my
+lungs like this man was here to meet with blah blah blah blah blah and uh you know here to meet with a child
+and I'm embarrassing the crap out of him in public he starts walking into restaurants the way Atlantic go is
+there's like Club bar restaurant restaurant restaurant club bar it's just you know a very busy area so he's
+walking into a restaurant then walking out the other door and I'm just making a huge scene and it's like the
+least professional thing you can imagine but it's our first time ever doing it and I was pissed off it just
+you know this stuff you know it should piss you off but I was pissed off and and so was was Dustin I was just
+being a little louder than him and um eventually he makes into this one restaurant and he goes into the
+bathroom which was in you know if you want to say smart it was the smartest thing he could have done cuz I
+can't record him in the bathroom and uh you know that he just waited for the cops to get there so the cops got
+there they didn't know what to do because it's considered vigilante justice and none of the evidence that was
+gathered is considered uh at least at in that specific case it wasn't considered um evidence so the why was it
+not considered evidence it wasn't collected by the police so they consider it vigilante like a you know if the
+Decoy for example was a police officer that's evidence but the decoy was somebody that I was paying well two
+different people that I was paying out of state and they were not officers so whatever the laws are on that
+it's consider vigilante justice and I uh you know I'm waiting outside this guy's just scared in the bathroom
+and the cops finally get him out of the bathroom I record him coming out the cops let him go and that was it
+so that was our first catch which you know was a little bit of a mess but we did it and then we came up with a
+better plan for the next time like let's do this out a Walmart or do it at a at a place where you know we have
+a plan in place and they you know they don't have anywhere to really run other than to their cars and in that
+case we're just going to get their license plate and if the cops don't get there in time well you see a lot of
+these people now doing in catches where they like you know make fun of them or make them do like weird things
+and stuff but they try to do that for the content the reason we were trying to do it the original goal was hey
+do 20 push-ups or 20 situps while saying I'm you know I'm here to meet with whoever or this year old person or
+I'm never going to talk to a child again and do it you know this many times it's just a diversion tactic you
+know waiting for the police to show up and we told these guys every single one of them that if you tell us
+we're not going to tell your wife we're not going to tell your job we're not going to tell you know your your
+family we're not going to call the police you you know you you talk to us you can go home no problem which we
+can't tell them that they're there against their will but we can make them feel a little bit intimidated
+because they know their whole life is on the line because of a mistake or I don't even know if you want to
+call it a mistake but an action that they made and um you know a lot of a lot of them you know they would sit
+there and and do the push-ups and and sit-ups and you could find those videos online if you looked for them
+the group's called 561 PC which stands for 561 Predator catchers you know Dustin has caught a ton of them
+since you know since I I I'm no longer involved with 561 PC not because of Any Fallout or any negativity it
+was that I got involved with an organization called sentino Foundation which is a nonprofit that uh that's
+that is full of you know Green Berets and Delta Force operators and you know Homeland Security invest you know
+all kinds of different federal agencies retired or and working in parallel with federal law enforcement and
+they said to me they were like hey if you want to make an impact and do you know the counter human trafficking
+side of things or you want to work on the violence against children's side on a bigger scale like you know and
+try to get more convictions you're going to have to stop doing the Vigilante stuff because it will discredit
+you in court and then we you know I I never got in that situation so I don't know exactly how that would have
+played out but I I was told by two different people that were non-biased basically where they you know they
+weren't associated with Sentinel Foundation I I was just told not to do it and I I had a conversation with
+Dustin as hard as it was because we started that thing together um I was like look man like we're in the same
+fight we're just doing doing it in different ways and you're going to be a lot more public about it than I am
+like I'm not going to be posting me catching these predators in other countries and shutting these websites
+down publicly but you know you could still do everything you're doing and he's killing he's doing such a great
+job on his own had nothing to do with me he just has that charismatic like you know really intelligent person
+when it comes to making content but then also the heart to you know to want to go after these guys and he he
+figured it all out on his own without without my help including the investigative part so you know props to
+him on that and then you know for myself it's you know I'm not on video anymore catching these guys like
+people aren't seeing a lot of the stuff that I'm doing but that was never my goal in the first place my my
+goal in the first place was to just do something about it um Ryan how many predators have you sent to prison I
+don't know an exact number on that one but uh a lot you know quite a lot hundreds thousands I would say
+hundreds not thousands yeah I'm I'm hoping for hoping for tens or hundreds of thousands but uh yeah I would
+say hundreds have you gotten anyone like the death penalty as of right now no you said uh once that you don't
+believe there's a cure to you believe it's only the death penalty can you kind of explain your take on that I
+mean yeah I kind of I think it kind of speaks for itself you know it's a I think that that if somebody has an
+illness or sickness if they want to call it that where they're attracted to little boys or little girls and
+they know it's going to traumatize them for the rest of their life or even physically harm them um I feel like
+the only solution to that is to is to end them um and I'll give you a reason for that as well outside of just
+anger and passion here's a logistical reason because one and four girls are sexually abused in their lifetime
+one in 20 boys are sexually abused that's a fact that anybody can look up prove those statistics that's that's
+what we know that's what's reported so if that's the case and let's just say a very large number of people
+that were abused end up offending later in life I don't know if you know that but that a lot of them end up
+offending unfortunately later in life it's a cycle what happens after a couple Generations that number goes
+from one in four girls and one in 20 boys to one in two girls and one in 10 guys and then where do we stop the
+issue where do we we have to eradicate it completely we have to get rid of it and that's why it's the a more
+logical answer answer to the death penalty is get rid of them so they don't become a bigger issue than they
+already are which is a humongous issue so that's that's why I feel that way and also you know just just to end
+that off like just seeing the worst of the worst stuff every single day seeing the worst in the world and and
+as you asked like the demographic where you know is there an age is there a look is there a face or a job like
+no no it could be anyone you know could be you would have no clue just looking at somebody or having a
+conversation with somebody you know other than some common grooming signs and stuff like that when they're in
+interaction with children no they don't have a face like the these people are evil and they're everywhere and
+you know it's a it just yeah it's it it breaks my heart and it gets I don't know it aggravates me to even talk
+about so I apologize if I'm all over the place totally fun it uh I used to do a lot of crime videos about
+crimes against children and that was like the one topic I would hate doing cuz like it just it's more
+emotional than crimes against adults for whatever reason um since the Shawn Ryan podcast and I've seen you on
+the Patrick met David one and uh pb's friend as well but those podcasts didn't give me like a clear picture of
+kind of what you're doing now so like what is the current Mission like what's kind of changed since you went
+on Shawn Ryan's so what's changed is now I have connections with a lot of government agencies that I had no no
+way of communicating with before um I have you know organizations like Sentinel foundation and others that you
+know that are do similar things where if I am submitted a case or I find something I can do something about it
+not just report it and hope for the best um and then doing stuff with Sentinel foundation and and another
+organization I cannot name um I I'm able to do a lot more now so it's just uh that is that's the best thing
+that's came from it is is being able to actually do something whereas before it was just I could provide
+information and people could confront one guy at a time but that was it that was as far as it could go which I
+believe has impact I don't think that that mean is meaningless but I'd prefer to do what I'm doing now which
+as much as I would love to explain that in detail to you I'm not I just can't yeah I'm not sure if you can
+talk about this but during the project Veritas uh time period uh you said you reached out to Candace Owens so
+I reached out to Candace Owens and Ronan faraoh but at that time you know I also didn't like right now I have
+a million followers on Instagram a million something plus on Tik Tok half a million on YouTube I didn't
+realize what it was like to have a million followers on platforms and what your inbox looks like and
+especially doing what I do there's a lot of people that reach out to me that have that have you know issues
+with cyber security or issues with you know they're looking for a person that the police couldn't help them
+with that hurt their their child or hurt them as a kid and they want they come to me with these questions and
+I'm only one person I can only do so much as much as I want to help every single person I can't you know it's
+just not real istic well when I made those comments about Candice and uh and Ronin I I just I was I guess I
+would say the word would be uneducated like I didn't realize what they had to go go through on a daily basis
+when it came to people messaging asking for things yeah so I can imagine that there was just they just didn't
+see my message you know it's as simple as that and then in my brain I'm thinking like Kansas could definitely
+she could have definitely done something about this or Ronin you know he could have definitely done something
+about this so I don't have have any hard feelings it's you know Candace was just at an event that I was at
+that I was at but you know she's probably a great girl great woman I I've no idea I just uh I never never had
+a conversation one-on-one with her but we were we were in the same room a couple weeks ago um and then we're
+on the same app together where where we yeah man and uh you know we we answer questions from people so we're
+we're going to intersect at some point and uh and I'll you know I I want to ask but you know if she did see
+the message or not but I uh I don't you know think that she did so I need to kind of just let that one go I
+think but I can confirm the other stuff I mean the the the police the like the well the task force the Nick
+Mick you know and all the other agencies that ignored me completely that's Undisputed I I don't have a better
+answer other than I know that things take time in law enforcement whereas before I didn't realize I was fully
+expecting them to come kick my door down take my computers and or at least knock on my door take my computers
+investigate the data that I had which I had nicely timed up for so they knew every detail of everything that I
+did so you know so I could protect myself in the process but also make their job easier on getting some
+convictions um knowing what I know now it just takes time for that to happen and I was being unrealistic but
+the I don't have an answer for the media why they wouldn't want to run it I that makes zero sense to me Ryan
+from a legislative point of view like is there any laws that you think we should change to kind of eradicate
+predators and stop this issue like is there anything we should change legally I mean I guess a question back
+at you is like do do you think the criminals file follow the law that's true I mean it's it's the same thing
+like I don't have any strong opinions on like gun rights or uh abortion or all these topics that poit like
+certain sides have these you know strong beliefs I just I'm kind of neutral on a lot of things but when it
+comes to guns for example like you could take guns away from people and you can make them illegal and the
+people the law abiding citizens will hand in their guns the people that don't follow the law are going to
+continue to have guns because criminals don't follow the law they're criminals so now when somebody breaks
+into your house and your law-abiding self doesn't have a gun what are you going to do so it's just it I I I
+don't you think it's more about protecting yourself right I think it's more about protecting your children
+monitoring their devices and uh and I'll get more into that later but uh you know I think that preventing it
+is the number one thing that you can do which you you know isn't it it isn't always preventable so don't don't
+think that I mean it that way but just knowing about a lot these things and knowing where to where your
+children should be avoiding or how to monitor their devices is like 80% of the battle um the other 20% is well
+I don't think there's a law you can put in place that's going to stop these guys like we have in death the
+death penalty in Florida for these guys in certain cases and they're still meeting up with Dustin every other
+night so if not every night like they're not scared of that so you know me I no I don't think there's any law
+that's going to change these idiots Minds so all of this is a lot rotten uh for your mental health and I kind
+of know this do like researching uh cases myself and like seeing some horrible things like how do you take
+care of yourself with this and does it ever slow you down to see so much Darkness online so that's something
+that I've actually been exploring lately is um is there's what I've been told and and I'll get into this as
+well is I owned three mental health and substance use facilities in the past and 144 beds approximately and uh
+I'm you know I had a lot of therapists working at my facilities you know I I dealt with a ton of doctors I
+with a ton of people that worked in this space for mental health Disorder so you know you'd think that I would
+have the resources to to at least you know know about this topic and to act on it right so dealing with this
+for about five years now and seeing the worst of the worst and hearing the worst of the worst all the time
+literally every single day I I'm good at compartmentalizing my emotions I grew up you know pretty rough I had
+a prettyy rough upbringing and I and I've done it my whole life and I used it to make myself stronger like I
+used it as a as a you know as almost like a like an accelerator for myself and um in this case though I just
+compartmentalize it and I feel like it doesn't affect me but then I have some personal things in my life that
+you know I don't want to talk about on here but I have talked about with some other people in the field and I
+asked them like does this same thing happen to you or do you have this physical issue happening to you that
+you know like and you don't know why and like you know and they said yes and it was it was like in a way nice
+to hear that it's not just me CU I went and got blood work done and I got all these things done just to see
+like you know I'm I was really hoping that there was going to be something specific low in my in my blood work
+right and um it wasn't it was perfectly fine so I was like wow this must be a subconscious thing that's
+causing trauma that is affecting my my like you know I guess relationship or or uh you know I don't even know
+how to I don't want to go into the details of it but it's affecting my life and not and and I'm not thinking
+about thinking about the actual topic actively but my subconscious mind according to the the people that I
+talk to is what's getting me and it's so hard for me to comprehend that because your subconscious mind you
+have no control over at least at least you know like directly and um I'm in I'm in my journey right now trying
+to figure out what to do about it because I don't feel like it affects me but I know that it is affecting me
+based upon physical problems so yes it is affecting me I just need to figure out how to fix it do you struggle
+with nightmares um I don't dream very often but when I do dream it is it is yeah bad really yeah so it's it's
+kind of rare that I dream but yeah that's a good point no one's ever asked me that it's just more of a night
+terror situation which I never had before but it's not always night terrors about this this topic it's just in
+general it started to happen what would you say is the most disturbing thing you've seen while hacking while
+hacking overall are you talking about just in child crimes and trafficking I guess maybe on the dark web I
+mean I would say I would say the the most disturbing would have to be you know what it it's better for me to
+just just stay on the one topic so I'll say I'll say uh the the worst things will probably you know I I don't
+want to go into detail about these things it's a like horrible horrible conversations or videos or or just
+here's one I can tell you about so you know a story that I heard from somebody else about somebody paying to
+watch a live stream of a baby getting their skull uh stomped on and crushed you know while the baby was alive
+of course and people paying to watch that live stream on a on a website which I don't think it was a dark
+website it was it was just a live stream uh but yeah I mean that that one for whatever reason although not
+related to crimes was just as disturbing if not more to me than than most so that was on the clear web it was
+it was a protocol on the clear web yeah how was that possible I mean you can put anything you want on the
+internet so yeah yeah I mean the there were I think it was a uh if I if I can remember correctly it was an
+rtsp stream which is like what cameras use in most cases like a old school surveillance camera would use to
+view footage but like I said I didn't directly see this happened I just heard about the story so I can't give
+you every detail because I wasn't wasn't there is the dark web really as scary as the kind of Internet uh
+portrays it to be or is it like like how would you describe it I would describe the dark web as as a buzzword
+that people created about something called The Onion router which is a different segmentation of the internet
+where it's just you know you're you're visiting websites that are not accessible unless you're connected to
+that specific Network um that they call that the dark web you can you can go go on Facebook Tik Tok Instagram
+on the dark web and it doesn't mean that it's going to be the dark web version of Instagram Facebook and you
+know it's just going to be behind a different network but it does allow you to visit websites that you can't
+visit in your normal browser they end in onion and um and that's you know some of those websites are
+informational sites where there's nothing wrong with them at all and then there's other ones that are
+extremely horrible like with child related stuff there's Hitman Services there's organ harvesting sites
+there's uh you know Sim swapping for phones and you know there you know things that are less less uh vile but
+still crime and um you know some of them are fake some of them are real it's hard to know what's real and
+what's fake on some of these sites but what is real like the drug marketplaces you know some of them they they
+sell weapons and and also you know photos of children and situations and some of them don't allow for guns and
+that like a back when the the quote unquote dark web was becoming popular and Bitcoin started to become
+popular I think it was like 2011 or 12 if if I'm correct uh there was one called The Silk Road which was the
+first of its kind it was a dark web marketplace where uh Ross alri who's currently serving two life sentences
+plus 40 years um he's about to be pardoned though by Trump by Trump yeah um he's about to be pardoned which is
+you know hopefully the right thing to do but from what I know about Ross and and I actually I know his mom I'm
+in contact with his mother what I know about him is his goal was never to create a Marketplace to you know
+have any type of violence or any anything of that sort it was to create a free marketplace where people sell
+what they want to sell and it turned into the largest drug Empire in the world basically like so who knows
+what his real intentions were I couldn't tell you that but I can tell you that since Ross went to prison and
+the Silk Road shut down it's only gone downhill in in uh in like more graphic content and people being more
+open to allowing weapons and you know even bombs crazy stuff that are being sold at grenades like stuff that
+that would that Ross would never have let happen on the Silk Road do you think it's like a multi-billion
+dollar industry oh yeah yeah it is that where countries get their drug imports from like from the dark web or
+I would say that there yeah I mean you can buy a kilo of fentanyl on the dark web for a pretty affordable
+price in in comparison to what you you know what you would imagine and uh people cut that into their their
+drugs or selling it to people on the street including you know these young teenagers that are all hooked on
+fentanyl right now and uh and they're you know people are dropping left and right because it's cheap and
+they're buying it online so like I I also have a a different opinion on that though so being into drugs myself
+as a kid and you know we could talk about that in a second but I you know I know quite a lot about drugs I did
+pretty much every one of them you know it's a I think the only drug that I haven't done other than like if you
+count research chemicals is PCP I've pretty much done everything else and um is PCP it's not bath salts is it
+no no it's some it's a it's like a hallucinogen that makes you like you know feel like you're strong and you
+can like I don't know this just something I just never ran into I probably would have tried it but uh the dark
+web wasn't around there wasn't dark web marketplaces when I was a kid I had to go to Kensington you know every
+single day which is a bad area of Philadelphia that there's drugs being sold on every corner and that fentanyl
+just wasn't a thing back then like if you were if you were going to if you were going to buy fentanyl back
+then you'd have to find an old person that was prescribed to fentanyl lollipops because they couldn't swallow
+pills or fentanyl patches like that it just really wasn't much of a thing when I was younger but now these
+kids are buying Xanax they're buying heroin they're buying Coke they're buying adero and they're buying all
+this stuff but and a lot of it's pressed or or oxycodones they call them blues and you know and they're
+pressed pills that are either fully fany and you don't know what the actual dosage is or it's a you're getting
+a tiny bit of the real drug and the rest is fentanyl so like if you Google search cocaine fentanyl overdose
+you're going to see you know article after article of people dying from snorting cocaine and dying from an
+opioid over do it's like it's because it's cheap it's accessible and I don't know if that's another country
+that's you know like like you know China being a huge producer of fentanyl uh which I believe there's a lot of
+analoges the ones I know of are like car fentanyl futral fentanyl acetal Fentanyl and just regular fentanyl
+but I'm sure there's more of them out there um it killed my best friend it killed almost everyone I grew up
+with literally except for two people like no exaggeration half of my dad's side of the family is dead from it
+like Fenty is K almost everyone in my life so it's uh it's yeah and it's easily accessible on these dark web
+marketplaces so I don't know I I kind of went off on it a little bit there but that's that's uh that's I just
+have a strong feeling against using Fentanyl and then to end off that topic like I said I owned three mental
+health substance use facilities or rehabs for other words with all levels of care like if you realized how
+many hands I've shaken and said good luck or God bless and shook their hands and found out you know they not
+even days later or just days at the most how many people died because they chose to go back on the streets and
+overdose from fentanyl it's it's sickening and and sad and and to just you know talk to a parent after they
+lost their child over and over and over and over again because you know somebody did something they didn't
+even realize they were doing and you can't turn back it's like what what addicts you know they do understand
+but they they can't stop is they do they do a drug whether they snort it or they inject it or smoke it they do
+whatever once you you know once you nod out from let's say an opiate overdose or an opioid overdose in this
+case you you fall asleep and you don't wake up if you don't have people around you checking on you and
+checking your pulse and seeing if you're still breathing you're dead like you don't get a chance to realize
+you're overdosing you're already asleep while you're dying and not and you're not just you like a lot of
+people think heroin or fentanyl overdose is your body being poisoned it's your your body goes into what's
+called respiratory depression and you're almost drowning while you're sleeping so you you your your brain's
+involuntary motion of breathing is is interrupted by opiates and even more so with the very strong ones like
+Fentanyl and while you're knotted out of sleep your your lungs stop functioning so no no oxygen goes to your
+brain and you suffocate to death while you're while you're unconscious although what makes me a little feel a
+little better about it is I know they weren't awake or suffering from it they didn't feel they didn't feel it
+happen to them that like it wouldn't make sense if they were unconscious to feel that happen so they you know
+died peacefully I guess but just to think about that knowing that every single time that you take a drug that
+you buy off the street um or or online but more so off the street you could you could be in a situation where
+you're just going to fall asleep and never wake up again like it's it's a it's a risk that like I know sounds
+like common sense but really think about that you know ran how many times have you administered norcan so not
+as many times as you'd think uh only twice in my life um because you know I had I had uh physician uh I'm
+sorry uh like nurse practitioners and nurses and uh you know like people like the clinicians that were working
+at the facility if if someone was overdosing and someone snuck drugs in or something um they would handle
+those situations so I didn't have to deal with that as much when I was younger there weren't as many opiate
+overdoses like when I used drugs I'm 31 now I stopped using drugs when I was 17 years old so when I was
+younger there wasn't really a ton of people spraying Naran up someone's nose or hitting them in the leg with
+the Naran needle but you know I can tell you a story of my best friend in the world that you know I did use
+Naran on and if you want me to tell it to you I will of course um I talked about it on the Sha Ryan Show uh
+and and I'll talk tell you again but his name was Ricky he was uh you know my best friend I spent every single
+day with him um for for a long time and uh he worked for me and you know every every business that I ever
+started uh not only did we we hang out every day but we work together every day and um he was clean he wasn't
+on drugs and I was always close with his his mother and father and so Ricky Ricky's parents called me one
+night and they say hey can you go check on Ricky and this is about 8:00 P.M on a Friday and I um you know I
+was like yeah sure cuz he didn't answer them all day I guess so I was like all right he's probably with some
+girl or maybe he did do drugs and he just say he's nervous to call his parents doesn't want to get you know
+like reamed out by his parents about it so I'm not thinking anything about that right so I I show up at his
+house uh his condo and I pull into his parking garage and I see his cars parked in um in like the there's a
+spot where you only park for a short period of time like if you have like let's say you went to the grocery
+store his car was parked in that spot and it's 8:00 p.m. and I know that he hasn't talked to his parents since
+the morning so I wasn't instantly thinking that was a b I was thinking oh he just got back from somewhere he's
+fine he's he's here so I go upstairs I open his door was open I unlocked the door I walked in I look to my
+left and I see his uh you know his face um you know like he he was he had his his body tilted all the way to
+the right like like that and um he had his pants on he was sitting on the toilet like but with with his pants
+on there was a a needle there was some you know capsules which in Florida there's capsules for heroin
+Pennsylvania where I grew up there's bags and he was unconscious so I go over there and I'm smacking him in
+the face I'm like Ricky Ricky wake up you know I'm trying to wake him up and he's got his like I said he's got
+his face on on the vanity and he's sitting on the toilet with this you know this horrible image I have in my
+head and I call 911 immediately but I didn't have Naran in my pocket I didn't think there was anything I
+didn't think he was overdosed or anything so I get back in the elevator cuz I'm in a condo like I said go back
+downstairs run to my car like as fast as I can I grabbed the Nar can I'm still on the phone with one somehow
+the call doesn't end while I'm in the elevator I get back into his uh into his bathroom I hit him in the lake
+with the Naran the 911 operator tells me to bring him onto the floor and start giving him CPR until the
+ambulance gets there and I move him from the toilet onto the floor and his face is still in the position that
+it was in on the vanity from what's called riger mortis and I find you know at that time you know I'm in
+denial like it's is my best friend um you know I hit him with Narcan I I I'm waiting for him to wake up I'm
+giving him CPR he's got you know stuff coming out of his mouth I don't want to get into the details of that
+but just know that you know his face how it was on the vanity all pushed up sideways was in the same position
+as well as his legs from sitting down when I brought him to the floor and I'm giving him CPR still in denial
+not thinking that he's like I know what rigor mortise is like okay or rigor mortise whatever you want to say
+and I was in complete denial of it and then eventually you know I realize he's he's not waking up the
+ambulance shows up and they're talking I'm out in the hallway and I'm losing my mind like I'm not a very
+emotional guy like when it comes to like getting you know real sad or happy or I'm just a pretty monotone
+person and like I always ball in my eyes out crying and I'm heing this ambulance and police officers they're
+not joking about him but they're just talking like it's a normal day joking with each other like while they're
+cleaning up my my dead friend you know like and I'm I'm like this is like the I I don't know I'm I'm losing it
+in that in that uh condo hallway after all said and done they roll him out in a bag basically and um the
+detective comes out to ask me some questions and I answer all the questions and instead of the detective
+calling his parents the detective asked me to call his parents so I call my best friend in the world's parents
+to tell them that their only son is dead and uh and I don't understand why that detective thought that was a
+good idea but uh I did and I'm glad to now I'm glad that I did because I was the one that was able to break it
+to him not some stranger that didn't care but uh but just thinking about like what what was going throughout
+detective's mind when he thought let's let's get this devastate devastated kid to call this kid's parents and
+say he's their child's dead I don't know I just that's just a ridiculous thing but my point how old were you
+this was uh I think I was 25 25 yeah 25 or he was the same age okay um no may I I don't remember it was around
+that time I I'd have to I'd have to I don't know the exact age one of one of those two but sorry it's just a
+tough topic for me um I'm trying to hold it together on that one but uh like I said I lost almost everybody in
+my life to this stuff that was one where I personally went in there hit him with Naran I still remember
+hearing the it was an auto injector Naran where when it's a like when you un undid it you pulled this tab off
+of it it would say like insert needle and then when you did it would say like 3 2 1 injection complete compl
+that's what it said and then when I was in the hallway I guess this is to alert EMS that Naran was
+administered but it went like and I remember hearing that every like 10 20 seconds or whatever it was and uh
+like that image and those The Sounds will just never leave my mind and I just the thought you know of and I
+still was running running a a treatment facility and just hearing the person die you know dead dead person
+after dead person and and people's families just losing their children left and right in current day F
+fentanyl is more of an issue than I believe it was back then but I could be wrong on that I think it I think
+it is but I don't know and I just I just really want people to understand how dangerous it is to do anything
+like if you're going to do drugs like if if you really have if you're really dead set on doing drugs get them
+from a doctor like I'm not saying to do drugs but buying them off someone on the street like you're asking to
+die like if that if that's what you want that's what you're you're going to probably end up getting like you
+know I I don't I recommend nobody does anything it's not worth it but would you say most things are liced with
+fentanyl from your experience I don't think most like I I don't know I actually don't know like I I know a lot
+of stories of of all kinds of drugs being laced with it but I don't know if most things are what do you think
+or I guess um like not most of the drugs you get but like is every type of drug like uh cocaine weed like
+susceptible to being Lac with fentanyl anything it can be yeah because you can smoke it snort it or shoot it
+up so you can put it in anything okay yeah or swallow it of course but but to your drug experience personally
+um you did heroin when you were 13 yeah for the first time no not for the first time I started injecting
+heroin at 13 when did you do it for the first time probably like 11 12 okay so how did you kind of get to that
+point so I grew up in a pretty rough situation um you know I was I was kind of the outcast growing up and you
+know I looked different I dressed different I uh I hung out with different people um like you know just
+meaning like I had long black hair and piercings and tattoos at like 11 years old like it just wasn't a normal
+thing your had tattoos at 11 years old too yeah really yeah not not like not not like I do now but I had
+tattoos and like you know the kids at my school knew that I just was very different and uh and I got bullied a
+ton and um you know just never really felt like I fit in so my my default there was to hang out with older
+people and and uh I I felt like I could get along with older people better and the older people I chose to
+hang with were just not really the best of people and um at least in my brain they were the coolest people
+ever because I was having fun with them they wanted to do things they had cars they you know there was no
+limitations for me and I you know it felt like it felt like the right thing at that time and then I got
+introduced to other drugs and I started going to Raves as as I'm sure you saw on some other podcast started
+going to raves in in Philadelphia and and that was a ton of fun for me I had I I really liked that I wasn't
+into like the whole dancing aspect but I definitely like going and doing ecstasy and listening to the music
+and doing ketamine and Coke and and all the other drugs you do it out at a rave well doing that for quite a
+while as a young very very young kid which is is crazy I have some a picture of myself I could show you it's
+like it's so weird to see me as a kid on drugs and even myself looking at it um somebody tells me like hey you
+don't like the feeling of ecstasy when you're coming down it's a crappy feeling when it's a ecstasy considered
+a stimulant when you start to come down you feel really bad and um like the meaning like when the drugs
+starting to wear off you start to feel bad and someone said if you take uh this they called them 30s when I
+was younger they're called Blues now oxycodone 30 milligram pills if you take one of these it'll make that
+feeling go away so I tried that and it got rid of the feeling completely so I was like okay well now I'll just
+take one of those after I'm done partying for the night and I would do that and then I started to realize well
+I kind of like the feeling of these oxycodones better than I like the Ecstasy so I started just taking those
+but then the Raves weren't as fun anymore because you know what are you going to do while you're nodding out
+or you know all on a bunch of opiates at a at a rap it's just not the same you don't get the same Vibe doing
+that so I kind of fell in love with opiates at a super young age and the problem is those pills are not cheap
+and not everybody had a ton of them so and I was a kid you know uh so trying to find them was tough but what
+wasn't hard to find was heroin or any other heroin or crack which was the two things that were popular in
+Philly at that time and uh and I was more into the heroin so I would get on What's called the market Frankfurt
+line or the L and uh I would take the L to Kensington and alany every single day which is a corner in
+Philadelphia where there's you know it's basically an open air drug Marketplace and um me being a young child
+but looking a little bit older than my age because of the hair and the piercings and blah blah blah like
+you'll see you'll see why these dealers weren't like what the heck is this young kid doing here you know I
+mean not that I believe they have much of a heart anyway um you know I I don't think that I I think I would
+have you know at least had some questions but I don't even remember anyone questioning my age back then um you
+know I would buy by heroin it was only $10 a bag and I was snorting it at this time so like in the beginning I
+was only snorting it and that doesn't mean it's okay but there was no fentanyl in it and I wasn't really at as
+much of a risk of dying I could have overdosed but I you know way less of a risk of dying as it would be
+current day and you know you heroin is pretty cheap in the beginning like I went from spending a fortune on
+these pills to spending $10 for an entire day worth of not being sick is is the better way to put it not being
+high and um then I started to do more and more and more just like most people know this this story eventually
+it ends up where you can't even fit that amount of powder in your nose anymore like seriously you just can't
+fit it like it's you need so much heroin that it's crazy so going to injecting it which I remember being at
+this party this guy uh I was on I was prescribed to a ton of Xanax from this one psychiatrist a whole another
+story um so I'm already not thinking properly guy at a party says to me uh or if you want to call it a party
+but he he tells me um you know to try the try shooting up and um he has these bags and I remember it being a
+Darth Vader logo and that's how the dealers would stamp their stuff so the addicts would be like have you
+tried the the strong man's which would be like some guy flexing his muscles or something on the bag or or or
+the The Hulk like you have a picture of the Hulk in this case it was Darth Vader so he asked me you know about
+shooting up I remember him pouring out the uh the Darth Vader bag into a spoon and since in Philly the heroin
+is powder uh you just pull it through cotton so like we would take take a little piece of a cigarette filter
+off the back of a you know just a filter take like a little pinch like turn like turn it into a ball with your
+fingers pull the the drugs through that piece of cotton which is what would um you know essentially get rid of
+the the hard particles and at least try to in that in that case and then he he shot me up and I remember
+feeling my whole body and I don't want to glorify this so I'll just stop there but it was like the best
+feeling I've ever felt in my life and um that was the beginning of you know an absolute disaster of my the
+future teenage years that I not only you know had to go through myself but you know I put my mother through my
+grandma my grandpa you know the people that cared the most about me uh you know I I I put them through a lot
+you know one thing I didn't do I was never disrespectful to them I never stole from them I never like they
+never didn't know where I was but I was definitely not controllable like I wasn't listening to anything
+anybody told me to do like they there was no grounding me I was just going to walk out the door but you know I
+tried my best to be as respectful as I possibly could and I am proud that I was able to do that because I know
+a lot of addicts screw their whole family life up I didn't do that but um I I'm blessed to to have my mom in
+my life and my my grandparents I lost my grandfather which you know I don't even want to get into that cuz
+that was like my second or that was basically my father growing up and I lost him not not that long ago now
+but um uh losing you know losing him with t and my mom's like my best friend and I put her through a lot as a
+kid you know a lot more than I'm even saying uh I have a lot of half brothers and sisters from my dad okay but
+um my mom and dad are not together and um are you close with your father uh sometimes yes and other times no
+so it's a but I wouldn't say like sometimes we communicate more often than other times is the best way I could
+put that one but I have six half brothers and sisters that two of which I am close with h like that I talk to
+frequently but I am you know I have a bunch of cousins on my mom's side that I look at as brothers and sisters
+as well and I'm close with all of them your family growing up uh did you guys have a lot of money or no no so
+I I didn't come from any sort of money I didn't come from any business background where you like a lot of
+people think because I you know I drive a Lamborghini event toor I have all these successful companies I did
+this I did that like you're only seeing what what came from it you're seeing the the the positive outcome
+you're not seeing all of the times I failed you're not seeing all the businesses that that I've started and
+lost money or or didn't work out or the you know the the trials and tribulations you know in in between so a
+lot of people just instantly assume that I have Rich parents or I came from some upbringing where I was taught
+some of the things that I learned and I I know my mom worked her butt off as a bartender for most of my life
+and um my dad you know was wasn't really around my grandparents worked you know at Catholic Social Services in
+Philadelphia and my grandfather worked for a cemetery um somewhere in outside of Philadelphia and they weren't
+making a ton of money so it was I didn't come from really much money at all and with I'm trying to keep the
+personal details out you know their stuff but uh you know no no I it was pretty rough where where it came from
+in school as a child were you uh ever noted by teachers as particularly gifted no no so I was I mean well not
+in if you're asking in a way of being smart um yeah it was so I was always looked that as when I was younger I
+had an IEP and do you know what an IEP is it's an individual education plan which means that either you have a
+learning disability because you you know you can't retain information mine was for emotional support So based
+on some of the traumas and situations I I was in the school mandated that my mom you know show up and and go
+through these things and me in these special classes because I have you know some traumatic events in my life
+like from you know it so you know because everyone's going to instantly assume that I was because of the space
+that I'm in I actually was not um other things that have happened in my life that I've never talked about that
+uh that why I ended up on an IEP in school and and I was you know I was yeah I was singled out in certain
+cases because yeah I've always had a different way of thinking and and teachers definitely saw a lot in me
+that I wasn't I wasn't shying my full potential because I was doing heroin and and many other drugs like I it
+just was hard to hard everyone know you were doing heroin eventually yeah so when I like I got arrested a
+million times as a kid after that fact like I didn't get into any of that but after I got arrested um and I
+was on probation you know going to these rehabs and inpatient programs and alternative schools and all these
+things yeah everybody knew I was on drugs at that point but um prior to that no I mean it was it was long
+before I got caught doing dumb stuff let me show you real quick a picture of me at like I couldn't have been
+older than 15 in this picture I don't have uh actually I might have been 13 and I also wouldn't uh I I
+wouldn't be questioning if he was buying heroin or not this is you that's me at 15 at yeah 13 or 15 Jee you
+look like a rocker well it look I mean to me it looks like my my lips are you know it looks like I have
+lipstick on in this picture like my face is so sunken in you know you can see my nose was pierced I just you
+know I I would I was a mess I was an absolute mess but like I'm 31 now that was basically half of a lifetime
+ago and I feel like you know I either look younger or about the same as I do there like just not as as much of
+a junkie so um you know that's I don't know that's why I'm not super surprised that people sold me drugs and
+hung out with me as a kid cuz I didn't look like I was that young so the getting started into hacking um was
+it to make money to buy drugs yes okay yeah well that no no I didn't get into hacking to just just to buy
+drugs I got into hacking because I was in the industry and in or in the communities for other words and then I
+I was fascinated with computers already I used the hacking abilities to fund the drug addiction but that was
+not why I got into hacking cuz the normal addict just robs robs people and steals money out of cars or robs
+stores for baby formula and resells it to other stores for half price or gets food stamps and sells them for I
+mean that's the normal approach for me it was you know the internet affiliate marketing to be more specific I
+have you made you made $30,000 at 14 with Affiliates yeah I did yeah I made I made a lot of money doing
+affiliate marketing through I mean I have a big spammer tattoo on my arm so you just spam emails and spam text
+and yeah a combination of spam email spam text media buys uh finding vulnerabilities and websites black hat
+search engine optimization uh just a what vulnerability would you find in a website that would allow you run
+an ad on it so I'll give you one example let's say someone was running WordPress which is a very common
+content management system and there was a plug-in that was vulnerable to a you know remote code execution
+vulnerability I would try to finger print that WordPress site so try to find as many of them as I possibly
+could and then throw my my pixel like you know or whether you know my affiliate it's called a creative thr my
+creative on their site and then maybe I would set a uh like I would go into VAR log and then check out their
+who was logging into the server and figure out an idea of which IPS to Blacklist make sure that when those IPS
+visited the site it didn't load the creative but then any other IPS that loaded it they would see that the ad
+would pop up on the S so you got free ad space on websites oh many times yeah over and over and over is that
+still a thing you think oh yeah I'm sure people are still currently doing exactly the same thing and I wasn't
+the only one doing this this was I was part of a community called digital gangster which is a was a forum back
+then which great friend of mine white t cracker like the the letter y t and then cracker he's a nerdcore hipop
+artist he he he's an awesome guy Bryce case Jr is his real name um he was a good friend of mine he was an
+administrator of digital gangster he created the site I was an administrator but didn't create it from the
+ground up uh we all were spamming and hacking and doing blackhead SEO and a lot of us what is black hat SEO
+like utilizing Google's algorithm to uh at at the time to rank websites that were not supposed to be ranked
+just you using methods that wouldn't work current day but I'm sure there's still blackout SEO methods I'm just
+not aware of but yeah that digital gangster site was a combination of hackers affiliate marketers addicts and
+just trolls like like it was it was just a really good spot for me as a kid like I loved it and uh and a lot
+of those people ended up being my mentors one of them being Whitey cracker or Bryce case and um you know if
+without those people being in my life and and uh spending time with me to teach me methodology not just about
+marketing about hacking and cyber security and even programming for that matter uh I would know nothing
+because I don't have a college degree I dropped out of high school going into 10th grade um I don't have I
+don't have any crazy uh you know educational path to talk to you about but I I could tell you that without
+those mentors I I would know nothing and then the trial and error that you learn in that process you learn a
+ton and as long as you know the questions to ask and you know where you went wrong um you know you have a
+pretty good head start so something to think about where doesn't matter what field you're getting into whether
+it be cyber security or or you know uh you know building houses like whatever it is just make sure you know
+how to ask the right questions and that's that's the that's my number one piece of advice I'd give anyone cuz
+that's what I did so you haven't always used hacking for good no um when was the transition whenever the
+statute of limitations was when it ended so I I don't know I mean I was young either way I know for sure I was
+young I know I I didn't do it like as a conscious sober adult I wasn't messing with people or trying to mess
+up people's lives I I I know that for a fact I just don't remember the exact age I was never officially
+charged with a cyber crime although I did have a ton of uh you know police encounters I've had a ton of FBI
+encounters I had somebody swapped my house before you hacked a hospital right oh no you're talking about an
+electronic medical records platform yeah yeah so that's not a hospital that that's a medical records platform
+that hospitals or rehabs would use so they came in for a training and this this is actually a cool story so
+they came in for a training at one of my rehabs and I'm in the room and I'm young and they didn't even know
+that I was the owner they thought I was just one of the employees there they're training the clinicians on how
+to use this medical record software and I started talking to them at the end I told them I'm the owner they're
+like you know they they were respectful to me but they didn't know who I was at that time like they they
+didn't know I was the owner so of course they just weren't paying much attention so at the end of that
+conversation I explained that I'm a hacker and uh or a cyber security professional is what I would actually
+say I'm just on camera so I'm saying the word hacker but uh whatever I tell them that they said they just got
+a a $40,000 penetration test done and a penetration test is just like when you get a bunch of hackers to try
+to find vulnerabilities in your in your system or company um they paid $40,000 for that and said well do you
+mind if I take a look because I'm about to use their medical record platform for my rehab I want to make sure
+it's safe so they leave and they're confident because $40,000 are just spent on it being secure and before
+they even got back to their office I sent them support. zencharts it was just a picture in my face so I I you
+know I subdomain hijacked them basically is what the vulnerability would be called and from that point on they
+hired me as a security consultant to help them you know tighten up things that this $40,000 pentz company
+couldn't find for them and uh year the years go by just me staying in contact with those guys at zencharts
+which that company's been sold it's you know over with now but um I get involved with those guys after I sold
+the rehabs and uh then we started a company called pentester decom which is a cyber security company and you
+can put in an email or a website it searches over 150 billion records the light scan which I can show you on
+camera here will give you some of your passwords your usernames your phone numbers addresses which you can
+check that for free like people can go to pentester decom type in their username I'm sorry their email address
+or website just hit enter you don't even have to sign up you just get a preliminary report there um or if you
+pay the 19 bucks which is what people are paying for lunch basically nowadays you pay $19 uh will not only
+show you 150 billion records that you can search through for your data um we also will find your public
+records that are out there on all these data broker websites and automate the removal to the best of our
+ability so like you know we we we're offering it nationally for the United States and internationally the
+price is the same though uh so 19 bucks for one account and then an additional $5 per family member or
+employee that you add in for data removal but you'll be the first to know about like a data breach that
+happened or an account that pops up with your email address um or sensitive info like your credit card your
+license plate your your address any detail that you you put into our system you'll be alerted that you know it
+was in a breach and you can take action on it from our dashboard the last thing about pent testure which is
+what like I said Zen charts the people from zencharts the company I hacked the medical record platform are now
+my partners in pentester and um that would have never happened unless I hacked their website when I own the
+rehabs so it was just a pretty cool process but just real quick thing about pentester is you can even search
+that 150 billion records which is uh a great way to find out everything out there on yourself that's on the
+dark web and then you can do reverse facial recognition on yourself or uh someone's face that you have you
+know explicit permission to run it on and um you know find where photos on the internet may be including
+photos of you your face or our loved ones but that's a that's a whole topic I'm not trying to turn it into a
+sales pitch I'm just trying to explain I will say guys that Ryan I asked me the email that I used to sign up
+for a website we both knew about and he was like oh you're still using this password and then read out uh one
+of my current passwords so yeah probably won't be including that in here right so something so basically what
+you know that that Segways into just something that a lot of people should understand that is common sense to
+most but not not to all is that you know you should not be reusing credentials across websites you should and
+if you are reusing credentials you know obviously change it but a lot of people what they do is they'll
+they'll see okay my password that was password one two3 got breached now they make it a capital P and they put
+an exclamation point at the end and they think that that's that's good well that's the first thing a hacker is
+going to think to try as well so my suggestion there is to use a password manager so there's two options what
+what I like is one one called one password which is just the digit one and then password and it's a password
+manager that will generate passwords for you store them and then you save it on your phone whatever and you
+can use it anytime you want um or you could just use Google Chrome Google Chrome has a password manager built
+into it that will generate passwords St them and as long as you have a device that has Google Chrome on it you
+always have access to the passwords the benefit and that one's free so the benefit of that is you don't like
+you know you never have to worry about somebody guessing a password based on a database B breach that happens
+um and you you know if it's it's just one of those things it's actually kind of convenient too because as soon
+as you go to a website it you can autofill and log in and you don't even know what the password was in the
+first place I thought one time you said um like why why should you never use autofill so that is another thing
+so autofill you should yes and no because autofill could can be dangerous cuz you can like you know when you
+type in your name um and then it says says like it'll say Jack Neil and then it'll tell you like the rest of
+the fields it wants to fill out well not everybody pays attention to that and if you were trying to be
+malicious I have a demonstration in a video of it there uh like I have an autofill form that just says what's
+your name you you know you put your name in there and I then steal all of the information that autofill was
+going to fill out but you just don't see it happen because the fields are hidden on the website um it's kind
+of hard to explain that though without you seeing it but yeah autofill can be dangerous if you don't know what
+you're doing if you don't know what you're looking at that that doesn't actually apply to one password one
+password it has its own autofill that is not going to be vulnerable to that specific thing so that makes sense
+so one password's probably the way to go yeah it's just a p it's a paid option but not everybody has the money
+for stuff like that so Google has a password manager built into it you talked about Sim swapping earlier what
+is Sim swapping SIM swapping is when you take somebody else's phone number away from them with the intention
+of logging into their accounts as them like if I wanted to sim swap you my goal would be to uh let's just say
+I have a contact at AT&T let's say that's your provider and that contact allows me to activate your sim card
+uh on my on my phone so now I have your phone number on my phone and then I request a reset of your password
+for Tik Tok it comes to now me instead of you and now I'm authenticated to your account maybe that's your Tik
+Tok your bank whatever whatever account I want yeah well coinbase you know depending on your security settings
+that you may need more than that maybe you need Google Authenticator which a Sim swap is not going to get you
+but it uh it's very frustrating and the only way to fix it is to reach out to the provider and have them
+switch it back so it's just it's a tough one but people you know charge1 to 15,000 some of the the Insiders
+that work at these carriers that are willing to do a Sim swap for you they charge a lot of money to to do that
+and I'm sure there are people that do it for cheaper but the stories I've heard of they make a fortune doing
+it down here in South Florida how dangerous is Tik Tok I think the Tik Tok could be great if you know if
+you're if if the parent knows how to monitor the child correctly um I I think they're Al gu not for children
+specifically maybe from a data perspective from a data perspective um I couldn't tell you all the details of
+what they're harvesting because I don't know every detail but I do know they got caught at some point with you
+know stealing your clipboard data meaning like whatever you had copied would just be stored you know and they
+that's why I think Apple introduced I don't know if it's why exactly I know they did introduce it if you
+notice when you go into an app it'll say do you allow this app to paste um which you didn't even try to paste
+it just is taking your clipboard data um I know Tik Tok did that at one point uh I know that they try to take
+as much demographic information as they can because these are social media platforms and people wonder like
+how do they these companies make money I'm not paying to be on there well if uh if if you if you you don't
+know what the product is then you are the product and uh that's that's what Tik Tok is is I mean you are the
+product you whether you're a content creator or a consumer of content they are using you to you know make to
+monetize their ad content they're getting paid for so a lot of people think they understand that concept but
+these algorithms are Way Beyond my comprehension as well it's a they they know like you how many times have
+you thought about a topic and then you didn't even say anything about it you didn't Google it in nothing and
+then it just pops up in your feed the next day like there's a lot of money and a lot of bright Minds that are
+that are coming up with these methodologies yeah it makes you wonder if uh the algorithm's based on you or you
+are based on the algorithm you know what I mean I think yeah that's a cool way to put it yeah who knows do you
+think they're tracking our key logs key log meaning like just like what you're typing into the app yeah um I
+would say it's a possibility you could confirm that though by proxying the traffic so like you could let's say
+you connect the Wi-Fi in your house you set the proxy address to be your computer you run something like a web
+debugger or or something like that you're going to see all the traffic coming in and out of the phone and you
+know from the app to the internet and if you type a character and you see that packet being sent to the server
+and we could confirm it literally like we could do it right now with the laptop but I believe you brought some
+other cool devices for us to check out as well I brought a bunch of cool stuff I got something cool it's not
+really hacking related but kind of a ancient artifact in the realm of Bitcoin mining ever seen one of these
+this is called a block Eruptor block Eruptor yep so that was the first USB Asic minor so application specific
+integrated circuit and uh that right there at one time you could make hundreds of Bitcoin a day with just that
+you plugin a day hundreds of Bitcoin per day because that was mining at faster rides than any graphics card of
+the time any processor that little thing right there current day is like 3 to 400 meah houses per second mhm
+which is nothing in comparison to what is out there now but that thing was insane and what people would do
+they'd buy them they think they were like $40 a piece and they'd buy a ton of them they'd buy like a like a
+whole crate of them and then they'd get these USB docks and they would uh they plug a bunch of those into it
+connect them to a pool and then just make a fortune you know in comparison to now you not you you're not
+making millions of dollars with these now you're going to make Penny maybe a penny a year with that thing but
+that was uh let me take it out so you can see it but yeah yeah like this thing if I plugged it into my
+computer right now it uh it would get so hot that you could feel the heat just putting your hand near it and
+you can leave it like that it's built for the heat when did you first start mining Bitcoin um probably 2012
+2012 yeah like early early I have a Bitcoin tattooed on my side so what how much would that have been at the
+time $100 no when I started it was like $2 $3 a coin maybe at the most you're mining Bitcoin then okay at$ two
+to3 yeah but I was more more interested I wasn't really as interested in mining Bitcoin as I was in just
+acquiring Bitcoin but acquiring Bitcoin um like this thing was more like I couldn't I couldn't get this like
+there was no way people were buying these before I could even have a chance to buy them and like I I really
+wanted one back then but I have one now and it's just more just a memory type of thing but Mount goau was the
+only way at that time where you could even buy Bitcoin through an exchange and it wasn't like what you guys
+know about now where you you know you're putting your bank account information in you're verifying your
+identity you know all of the different steps that these exchanges make you go through Mount goau you would get
+uh this piece of paper they would have two numbers on it and you'd go to a Walgreens or a CVS and You' do what
+what's called a MoneyGram you'd give them cash at the red register and you would along with the money gram
+you'd give those two numbers and I remember the company's name was called zipzap and uh you would send the
+money to zipzap in New York and then within a couple hours the Bitcoin would be transferred to your wallet so
+Mount gox was it would you could then trade it on Mount goau back and forth like like an exchange nowadays but
+just what it was back then it was just significantly cheaper and Bitcoin wasn't worth as much so that that was
+the method of buying it then there was this website called local Bitcoins where you could meet up with a
+stranger essentially hand them a bunch of cash transfer Bitcoin and then you leave and that was that was how
+you bought Bitcoin back then unless you you know had a friend that had it and you were you know you trusted
+them but that was the two ways you could do it without having the whole trust Factor they're uh they're both
+gone Mount goau had some crazy stuff associated with it where the guy went to prison and stole a bunch of
+money and it's it's a big mess but um that that was the only site and then there were the second site that I
+was on was BTC which I think was a russian-owned crazy website but um they got breached and uh and they're
+actually in our database now on pentester so it's a a lot of the older stuff just isn't existing anymore how
+much Bitcoin have you mined in your life it wasn't more about uh like are you talking about mining with miners
+or mining with a bot nut because there's two different I guess total yeah yeah I I you know that's something I
+never gave a real answer for for because you've kept a lot of it no no didn't keep a lot of it I don't I don't
+have a ton uh from any of the crimes or or any at all from from things that I did in my past but uh I did
+explain on a podcast that I had a crypto botnet and um and how that worked which I never really got into
+detail about how that worked but I don't mind explaining um there was a very popular Forum back then called
+Bitcoin talk and on that Forum when you signed up you became a newbie member and there were these other users
+that were senior members that you were more trustworthy so if you clicked on their profile you know you uh and
+you could go through the threads that they were posting you could trust pretty much what they had to say but
+if you're a newbie on there posting links like a newbie according to their their ranking system nobody was
+trusting you were clicking your links so I thought to myself well I have this exploit called a Java drive by
+and at that time browsers would allow you to run these Java applets web applets in your browser imagine going
+to to a website and it says on the top of the screen it'll say run once or run always um and then when you
+click that button your computer gets infected with malware well I had one that was an undetectable Java
+driveby that as soon as you went to the website there was no button pressing whatsoever it would automatically
+infect your machine so on bitcoin talk I couldn't just post as a newbie saying hey go check out this website
+and one of the websites was I I said it was a browser Miner because mining wasn't super easy before it was
+something you you you either use the Bitcoin client to do it or you uh you know you had to go through a little
+bit of a technical process to get a minor set up so when I was on that forum and I said I I created this
+project uh where you could go to browser minor whatever and you put in your your wallet address you press go
+and then it mines Bitcoin in your browser people believed it they clicked it and they didn't they weren't
+getting anything but what what happened was I was waiting for people to go to the site and then I then
+accumulated some senior user accounts from them going to the link now I started posting as the senior users in
+my thread saying this is awesome thanks and all these you know positive things uh to validate that that these
+these websites were legitimate you had access to their accounts their passwords I had access okay I had access
+to their entire computers they you know so I not only their accounts but yeah full access to these senior
+members on bitcoin talk and um that went on for a while where just had control over all of the accounts that
+were commenting on it and I uh you know infected a ton of machines and there's a lot of things that you know
+I'm I'm not proud of that I did in that process but did you learn anything about the origins of Bitcoin
+through that process the origins yeah no I don't know who created bitcoin no you don't have any idea I mean
+there's there's a speculation for sure but uh you know I I don't know who Satoshi Nakamoto is I don't think
+anybody does I mean and if they do I don't think we're going to find out about it anytime soon but there yeah
+there's I mean that's a whole different topic with hail finny or Finley I can't remember his last name but
+there's a whole whole Theory there and then there's a guy Craig who claims that he created it which is not
+true for sure the Australian gu uh I don't know if he's Australian or not but he claimed that he created it
+but then the font he used in his white papers didn't even exist when like it didn't exist yet so it was just
+clear he's not him um and then uh another thing the NSA created um the same encryption that Bitcoin uses so
+it's just a a correlation but who knows if it's actually the NSA that created bitcoin it's kind of up in the
+air so I don't really know you know I don't think anybody does do you think that's the most likely theory in
+your head the NSA which is I'm sure that would be great content I don't think so I I don't think it's NSA yeah
+yeah yeah that makes sense and then yeah that that wasn't really a hacking Gadget though that was more of a a
+minor and a lot of you know I I did a lot of stupid things as a kid hacking related and you know like I said
+I'm not proud of a lot of the things that I've done but something that I can say with confidence as I didn't
+do anything that physically hurt anybody or permanently hurt anybody uh I definitely did things that I'm not
+proud of though and I uh I've changed a lot as an adult and I was a young kid a young teenager and I mean I
+guess a young a young adult at at one point because you're a teenager till you're 19 right but um yeah I uh I
+just I don't know I don't know what I was thinking back then you know I I guess you could say at one level it
+was smart like I did things that would be you know considered to be smart but not morally correct you know so
+I don't know it's easier to make money in an ethical way or an unethical way absolutely I think that if I knew
+what I knew now I would be telling myself that I'm an absolute [ __ ] for doing what I was doing because doing
+things the right way and doing things ethically I've made tenfold the amount of money and you know and I'm not
+risking going to jail I'm not looking over my shoulder I don't have to worry about who I'm talking to or who
+I'm doing you know whatever I'm doing with I don't have to worry about anything like that anymore because
+everything I do is on the up and up back then you know I I you know Not only was worried about the dealing
+with drugs and and all these people at all times but uh I had to worry about the individuals I was associated
+with on the internet and if they knew who I was you know it's called operational security or obsc like do they
+know who I am like is did did I am I using an alias to talk to this person but he's talked to me before and he
+knows that I'm using an alias because I'm a dumb kid and I made a mistake like who knows you know but
+thankfully nothing came from that legally and uh it's been long enough to where I can talk about these topics
+I just don't feel comfortable talking about some of them because it's just it's in the past didn't hurt
+anybody permanently and uh I want to leave it at that you know what other device we have in there one I'm
+interested in is knowing if there's a like a camera in this room that we don't know about yeah yeah we got I
+got a bug bug finder in here somewhere and this is this is a cool one looks like a mint container right I
+can't oh you're actually not joking with me yeah yeah open it up this is a vent container it looks like ice
+breakers can I open it that's a small side yeah got to go do the big one what is this Ryan so so that is an
+esp32 that has the ability to replicate Network names ssids and shut down you know Wi-Fi networks so for or
+devices on Wi-Fi networks so let's say I wanted to disable your ring cameras uh or any any uh wireless camera
+and all of your iPhones in your house um I could plug that thing into this power brick over here and just
+start dropping people off the network if they're connected to the Wi-Fi if they're connected to the Wi-Fi but
+for example with ring cameras they uh other than I think some new ones but most of the Ring cameras that exist
+rely on Wi-Fi solely so if for example I walk up to your house and I de authenticate which is what that thing
+does your your ring doorbell or your ring cameras there is no evidence I ever was at your house and there's no
+local storage on that device that will have a recording of me being at your house so just that little thing
+alone right there would make me essentially a ghost when it came to your cameras H that's just one so you turn
+off everyone's cameras theoretically and you wouldn't be caught yeah with if they're Wi-Fi cameras yeah and
+then this this the pag GOI I made a video on um this it does essentially the same thing where it de
+authenticates all Wi-Fi devices at the same time it tries to knock as many as it off it looks like a tamagachi
+to some degree yeah but uh what it does is that device's entire goal is to to eat Wi-Fi networks so like if
+you remember the old tamagachi from you may not even but when I was a kid they were a thing you fed this
+little cartoon that was on a little device like that but circular like an egg shape and you fed it and if you
+didn't feed it it would die that thing it eats Wi-Fi networks so you have to keep it alive by feeding it
+networks and what it does is it de authenticates the same way that other device does but it tries to find
+what's called a four-way handshake and that four-way handshake is something that you would load into your
+computer later on and try to throw a bunch of passwords at it until it cracks it so you don't have to be in
+the location anymore now you know that let's say we're at this studio we see that there's 10 secured networks
+that thing's captured eight of the 10 handshakes of those 10 networks and now I can try to crack one of those
+eight at from home and then I can come back here because I know the password from cracking those handshakes
+but that thing it lives off of eating those handshakes so could you crack a password here I mean I could try I
+have this lap we could try if it's we'd be breaking the law you know maybe not this top then unless it's not
+that bad I mean it's federal crime anything related to computer hacking is technically federal or do you yeah
+I made that one but I didn't create the pagi I uh I I made that one though huh like I didn't create the
+concept are these things commonly used by people you believe no I mean you you got to be a nerd you know it's
+like the people who can do them likely yeah but most people make money some other way that's exactly right so
+like that's why I try not to get too technical because I don't want to teach the intricacies of how you can do
+some of this stuff and then criminals that would otherwise never have a clue or even put the time into
+learning how to do it they could watch a video from me I might say like well you need to buy this thing this
+thing and this thing and then install this firmware and then just smash it together because this is three
+different devices on top of each other and now you got a device that's dangerous I mean I don't I just don't
+want to be the guy that teaches them that what do we have here that is an RFID or NFC detector so when I'm uh
+like let's say I'm trying to break into your house or your office or your hotel room I I need to know if I
+should be walking past you reading NFC which is one protocol or RFID I can go up to the lock with that and
+that will literally flash a light because it uses a the fre like the frequency or the like it's
+electromagnetic frequency basically it comes out of or the radio that comes out of these devices will make the
+lights on that flash which I'll show you the the two different lights but there as you can see there's no
+battery in that um so the actual lock on the door itself will illuminate that that way I know what I should be
+stealing from you what frequency to be on okay that's more of a detector rather than a stealer got it can you
+scan an actual Hotel key or would it have to be the lock itself yeah yeah the hotel Key so not not with that
+that thing's not going to light like light up from a hotel Key but the lock will light that up gotcha okay so
+this this is how we would detect the camera in the room but it's going to go crazy with all the equipment in
+yeah yeah yeah I'll turn it on anyway this is good for uh this is good for airbnbs and finding like you know
+it has this little thing here this finds hidden cameras in airbnbs well anywhere yeah um but you know it has
+this red filter and then there's a light see how this red light comes on and you look through this thing and
+if I look at the cameras if you look through it you'll see that there's a little you can see where the camera
+like look into the camera lens you can see that it's pretty evident that it's there I mean I can see it
+without the lens so when if it's a tiny little microscopic camera you'll see just a little red dot this makes
+sense yeah and I could just see it without the you don't even need that filter really but what we could do
+with the uh I'll show you with is that a camera up there where yeah you see it oh cuz it's making it you can
+literally see it that would be something cool to get a closeup on cuz that we're looking at it through
+something that's covering it h would you care to or I I don't know if we'll be able to yeah if not it's all
+good I can just get it off my phone no wores that is pretty cool that's a great example and yeah that's that's
+actually the best example ever yeah I'm uh I'm jealous that you have that I don't so now this is going to go
+nuts but let's just say I want to look for a microphone right um should be I'm trying to keep the Sens yeah
+there we go so like being near it then if I try to get away from devices yeah it's just probably not going to
+work in this room yeah cuz there's so much stuff yeah huh yeah it's just it's bugging out but yeah these
+things are these are like I think they're like 20 30 bucks uh they're worth having I mean I think the most
+valuable feature on them is going to be for the uh you know Finding hidden camera have you found a hidden
+camera that you were surprised about no I haven't but I I want people because a lot of people go to airbnbs or
+hotels and they're they're scared and they're looking around with their eyes it's like all right well just buy
+buy a device that will make you feel a little better this thing's going to detect electromagnetic frequencies
+it's going to detect electromagnetic fields it's going to detect GPS and it also uses light to find these
+hidden cameras so it's just a good thing to have in your pocket like I personally am not too concerned about
+it but some people they really worry about that especially women you know it's like they're renting a house
+from somebody how do they know he's not some creep that happens all the time if you look in the news you see
+it happens a lot what a bunch of stuff is at one time do it quick did you bring these for the interview or do
+you always I always have them you just always have them yeah and then this is the lock picks and then this we
+can get this thing to oh that's a flipper zero yeah flipper zero zero most people do know what these are
+thankfully where's that little reader at right here so let's say I want let's say I'm walking up to a door
+that has NFC if I put it up there see how it lights up blue lights up blue for NFC and then if I switch this
+to RFID and read now you see how it's red so what's the difference between those they're two they're two
+completely different frequencies and protocols so let's say I'm trying to steal your ke fob and I and let's
+say you have an apartment somewhere I go up to your door this thing lights up red now I know to be reading on
+RFID when I walk past you and steal your key I'm reading all see I'm not going to pick up on your key that
+makes sense yeah so that's that's the that's what this thing does it's basic but useful um what's the most
+interesting thing you can do with the flipper zero I mean if you want to get into the the key hacking stuff I
+can I can show you like that might be hard in here um I can show you what it looks like on a screen that could
+be kind of cool on a screen yeah like I could show you what when you click your key fob what happens so this
+is the key to my appartment okay I'm going to show you deleting it too so you know that I don't have it but
+I'm going to assume that it's RFID at first now it's in read mode so I put it yeah so see how it says generic
+hid procs and then you have you know obviously the numbers there if I do this and I hit save I can save it or
+I can do emulate now if I go to your door I can get into your apartment right now just from that that's it
+yeah now I can say which if I hit save I can save this Jack needle house and then go to your house later in a
+month from now and get right into your door H what's interesting is I'm not going to say deleted if I if I
+lose my key and they replace it um and I find the old one it still works for my door but not like all the
+amenities so does that mean there's like two frequencies to it does that make sense no that means that they're
+removing that key from their database for the other stuff but they're not doing it for your door got it okay
+so that just give you full access that gave me if that key has full access I have full access okay but you saw
+that ID that was on the screen they put that in their database in their key system like their lock system it's
+a and then like they're they they are not doing it for your door and your and your house for the important one
+but they're doing it for the amenities which is odd so do you even re use a real key or do you just flip or
+zero all your well for for things that you like I have them all stored on here for things that that I can get
+into with a with a badge or with a key like can you get into your Lamborghini for instance can you get it
+started up I can't get it started up but I can you know I've showed an example of that on my own pages of how
+I can jam the frequency that the key fob is on capture some valid because they're they're on rolling codes
+which the rolling code just changes every time you click the button um but if I Jam the key the frequency um
+then and and you know I capture a couple unlock attempts then I can uh then I can I can capture on the the the
+key fobs range um and then as long as I'm jamming on that range and I'm and let's say you're standing here I'm
+jamming here and the car is here I can capture all the unlocks you're pressing and then later on since your
+car is not going to react to you pressing the button because I'm jamming on it but I'm receiving all of it
+which I'm going to show you on here how that works and now I have however many times you clicked unlock I have
+that many attempts to unlock your car later even though that it's a rolling Code system because I'm jamming
+and the car is not saying that code's been used before because the car never sell that code like how a jamming
+this this key fob right here is you know is using a rolling code this is a lamborghini key fob every single
+newer age key is going to use a rolling code which means every time I click this lock button or unlock button
+it's going to generate a new code every time so for me to record that with a flipper or with the hack RF which
+I'll show in a second um and then go and try to use that later if my car was was here my car would know that
+that's a bad code because it's already been used before if I was jamming on the same frequency as this key fob
+the car would never receive that code which means that uh you know I can use those codes later as long as I'm
+recording with them um so let's say you know like I said I'm standing here you're the Jammer is here and the
+car is here and then you're you know right here trying to you know unlock your car I'm capturing all those
+attempts and then later on I can go and unlock your car so I'll I'll explain how that works so with the with
+the key fob I'm going to press this and you're going to see it's either going to be 315 or 433 which is what
+all key fobs are 315 so it popped up on the screen just took a second and then I'll show you because it's a
+lot more it's a lot oh I'll show you because it's a lot more visual on the hack RF so I'm going to put this
+thing on 3155 megahertz and you can see that there's a bunch of blue coming down the screen here and if I hit
+lock see how you can physically see it happening on the screen unlock unlock lock lock and I can save this are
+they different frequencies that since it's a rolling code each time it's going to be a different code okay
+since since my car is not outside uh these codes will will work if I went home right now and replayed this if
+I just stopped this saved it and replayed it it would unlock my car because I the car didn't know that these
+codes were ever used got it so that's how a rolling code it's it's called a roll Jam attack um you can do the
+same thing with a flipper but this is more of a graphical way to look at it like if you want to click the
+button from even over there you'll see watch so this is unlock yeah this is lock huh yeah so that's that's the
+roll Jam attack that's really interesting I mean there's so much more have you ever pranked your friends with
+with this kind of thing um yeah I play with my friends all the time what's something that's a cool one that's
+just a device to detect uh like if someone's wearing a bug or if there's electricity coming from a device
+another like bug sniffer type of tool but like a lot more precise what is a bug Bounty a bug Bounty is a
+service that a company's going to allow you to hack their their systems with you know things that are in scope
+and out of scope like you can hack this but you can't hack this and you submit that report to the company and
+the company will pay you for finding that vulnerability it's a great thing for hackers you know that that want
+to get a little wild and want to start attacking things that are that they're not allowed to usually touch bug
+bounties have allowed that you know for that to be a thing without you going to prison for it yeah so bug
+bount is cool have you done bug bounties before yeah what's the largest bug Bounty you get paid right if you
+could succeed something yeah but sometimes you do bug bounties with teams too which is you know like people
+will work on a project together and you know so if you're counting that there's some pretty big ones one was a
+credit with a with a a big company I'm not allowed to disclose with bug b there's there's disclose and
+non-disclosed when you when you report these bugs and um one specific company I had an option either to take
+cash or take uh credit for for using its services and uh it was a a pretty pretty large chunk of money like
+over six figures a a little bit yeah it's a little bit over six figures and how long did that take you to uh I
+don't remember the exact time frame over a week though it's about a week yeah huh yeah it adds up math math
+maths though so yeah you made six figures in a week discovering a bug within a certain company yeah exactly
+yeah it's cool stuff and but don't be don't don't be thinking that you can just jump into bug Bounty and make
+a ton of money because there are many hours and many bug bounty hunters that have tried and made nothing so
+it's there's a lot of people that think like oh this is a great way to make a ton of money the way to make bug
+money in bug bounties is is get in get involved start doing some of their their public programs and then once
+you're around long enough you'll start getting invited to what are called private programs and those ones have
+way more vulnerabilities because there's not a bunch of people just trying to attack them all day with the
+same tools and same methods and you'll make a fortune when you start to get into the good private programs but
+that's a topic for another time go ahead and show me another one of those devices uh this one it's a is a
+smart key logger device this is called a land turtle this is a cool one that I like a lot a land turtle a land
+turtle Yeah so basically you plug this into USB you plug an ethernet cord into it put it in the back of their
+computer they'll have no idea what this thing is they'll still have access to the internet but as soon as this
+thing is plugged in I'll have a remote connection from anywhere in the world onto their local network at their
+house so this will connect back to me and I can control their local network and if they have devices in their
+house that I can pivot onto I can use this device to do it a comp someone's laptop and then you could get onto
+their phone if it's connected to the same Wi-Fi I mean it's not there's no guarantee you're going to get onto
+their phone but you know you're you have a better chance of getting onto their their laptop or computer than
+you would a phone but the the whole point of this is to have a mini computer implant in somebody's house or
+office without them having any clue that it's there that you can control from anywhere in the world and what
+can you control with that I mean the this is a computer so anything a computer can do I can run commands on
+this to try to enumerate vulnerabilities on that Network can you get access to their webcam of course if I got
+access to their computer I could get access to their webcam yes H yeah which it depends every every system is
+different yeah but you know if let's say a more realistic scenario where looking you know using one of these
+which I've shown before but I'll show you again is like this I showed on a different podcast but people really
+need to know about these because they're dangerous I have a little uh a little orange thing on here that I'll
+take off because you know so you can see that's not permanently on there this to any person if you look at
+this Jack this tell me that's not a real iPhone charger yeah I would think that was an iPhone charger yeah I
+mean if you were to match it with a real one I don't know if you have one with you but that looks pretty
+identical yeah yeah you can plug it into a phone and so you could plug this into a phone and then get power
+from it or you can plug it into a computer and get power but as soon as this plugs in I'm trying to get this
+orange thing back on there as soon as this thing and the orange thing is there because you you'll lose it
+because it looks the same as a regular charger but when you plug this part into the computer inside of this in
+literally inside of here is uh is like a little computer as well and it emits a Wi-Fi signal that I can
+connect to from my phone or a laptop from a distance and I can type keystrokes at 800 characters per second so
+I could run whatever payload I want at a distance on your computer and you could be charging your phone with
+it at the same time um this is a very dangerous device and I have a bunch of them with me of all different
+types iPhone Android um laptop you connect it to uh iPad yeah yeah yeah you'll try it can yeah if you want to
+I've seen you run this before so do I need to open anything um yeah you just I mean in this case I don't know
+your PIN so I can't automatically unlock it but if you let me plug it in I'll show you how I can run a payload
+all right so now it's plugged in now it's plugged in but you can see that it's not um I don't have the other
+side plugged into anything right correct oh so it's just one-sided one side it needs to be plugged in yeah and
+now you see on my network I have a network called OMG huh yeah so I'm going to connect to the OMG Network um
+I'm just going to you know this that looks like a charger you could be charging your iPad with it but you know
+watch this so 3 2 1 one thanks for having me on the Jack Neil show that's crazy man pretty cool stuff right so
+you can control this whole iPad just from yeah as long as I have access to it like if I don't know your PIN
+then I'm kind of stuck at that point but yeah I as soon as as soon can you run anything that will like get the
+pin or is that a whole other process no not I don't I don't have any payloads that will get the pin from this
+cable um but uh you know I I can't say that will never happen I isn't something that I have with me or the
+ability to do right now this is by the way just just a part I want to include for the people this is called a
+data blocker this company doesn't matter I don't know who the this company is so it doesn't matter which one
+you buy but this data blocker itself if you plug in your USB to this and then you plug it into a computer or
+your device this stops any data from going through so you uh you can spend a couple dollars on this doesn't
+matter what the brand is just make sure you you get one if you're worried about that attack you just sell on
+the iPad cuz more importantly on a laptop or computer that that could be really dangerous for you so um this
+stops that from even happening from being even a possibility for a couple dollars yeah what's the most
+interesting thing you've done with chat GPT with chat GPT um I guess creating uh my own gpts and you can
+customize your prompt so it knows a little bit about you so my prompt is pretty pretty specific I can ask chap
+GPT anything I want and it will give me some really verbose output like I could say give me a payload for a
+reverse shell and right malware that includes it um and it won't say like due to my ethical guidelines I can't
+help you it you know it will give me anything so you jail broke chat gbt basically yeah well there's a ton of
+ways to jailbreak it but my specific method is uh is is my own so it's a it has not been patched and I I I use
+and you don't share it because you need it probably yeah I use it I mean chbt is super helpful to me
+personally and um it uh it helps it saves a ton of my time uh and that jailbreak yeah I I would much rather
+not argue with the thing about ethical guidelines so yeah of course what's the best prompt hackers use that
+you could share well there's a website for uh for just all different prompt bypasses so you can I can give you
+that website if you want I just don't remember it off the top of my head but I can give it to you and it's
+updated like do you want me to find it uh sure yeah if you know it yeah here it is uh jailb chat.com and that
+gives you prompts that currently work Miss see when the last one was oh no the site's down oh no uh let's see
+there's another one so I guess I'll give you a different piece of advice look for um for if you because that
+website's down uh one that you can look for it that people update a lot it's called Dan D an and it stands for
+do anything now so just Google search uh chat GPT Dan GitHub g t hu B and um and look for the most recent Rec
+uh recently updated Dan prompt and that will uh unlock it to to some degree I'm curious if you know about this
+what does TSA do when they scan your devices so in the United States they they usually don't give me a hard
+time when I leave the United States and I'm dealing with Customs there has been some incidents where they you
+know they go through everything because I bring this whole bag with everything and um surprisingly the one out
+of all of the countries that I've been to the thing they care the most about is my laptop which if you see on
+the bottom of my laptop here this is not from my own doing which makes zero sense to me at all uh you can see
+it's dented there and then there there was a sticker on top of one of these screws where my warranty was
+actually voided from the the the border patrol going through my laptop like what am I going to fit in this
+laptop it makes no sense to me whatsoever they didn't go in any of these bags or try to look at any of the
+gadgets or ask me any questions they opened up my laptop like what am I in here do the machines they have take
+your data um not not it's never happened to me but I'm sure that they do I mean there there's devices out
+there like cellbits are you talking about I guess I've just seen that like when they scan your phone that they
+can get access to some data yeah so if you unlock your phone or you have an older phone uh for the most part
+then sellbrite you can put the phone in the dock and it will just pull all of the data from your phone text
+calls photos contacts um sometimes even deleted data or artifacts they call them and um you know certain
+agents and I'm sure countries have those celebrates on hand but if you have a newer phone that's up to date
+they need your pin yeah gotta so keep that in mind it's interesting always get a pin on your phone keep a pin
+on your phone and and you don't need to give the pin up you know especially when you're in the United States
+you you know you you have some Freedom here what's the best piece of advice you've ever received the best
+piece of advice that I've ever received was if you're the smartest person in a room then you're in the wrong
+room and uh and that's what I truly believe to this day so I you know when I surround myself with people and
+you know I and I don't feel like I'm learning from them or they're positive people um I try to to change where
+you know my trajectory or who who I'm around because you know I I think about it like this if you hang around
+a bunch of people that you know sell drugs every day or they or they're committing crimes every day you're
+going to turn into you know to some degree what they are or you you hang around uh drug addi every day you're
+going to end up being a drug addict if you hang out with alcoholics you're going to be an alcoholic well it
+works the same with positivity and good things um so I I try to surround myself with people that are that are
+not only intelligent but if I can wealthy and um and those things have benefited me a ton and you know I I
+believe it's just the atmosphere and and what are you going to gain from being the smartest person in the room
+other than be people being impressed with the stuff that you have to say you know not much eventually there's
+only so many times people can tell you how smart you are you know that's a that's so I would recommend if you
+if you personally feel that way and you feel like your friends are you know all dumb and you and you just
+happen to be the smartest one make some new friends it's interesting you've kind of been you're you seem to be
+a bit of a secretive person when it comes to your finances what's your reasoning for that because I like to be
+honest with you it's it's personal you know in in general and then secondly I think that uh you know that I I
+volunteer for Sentinel foundation and I create all of my content as you know without I don't monetize any
+content for child safety or even even on man if someone mans me for and pays to talk to me about child safety
+I donate that money to a charity and like I said it's not for a padd on the back it's because I have personal
+reasons for it um I think that if you know if I start to talk about certain dollar amounts it's more like
+bragging rather than me just saying hey I'm 31 years old I been successful financially since my early 20s I've
+been you know I I drive my dream cars I I I live in a very nice house I I I there's not much that I want for
+in life and I grew up with nothing and um you know to some degree absolutely nothing and and you know I know
+what it's like to not have anything and I know what it's like to have something so for me to tell you how much
+money I made doing this and how much is in my account here and that like that just sounds like bragging to me
+I want to motivate people to be in the same position without committing crime start a business business and
+and that you know you'll figure out for yourself what what having you know quot quote unquote wealth is so I
+think that's I think that's my main reason I don't think there's any like actual agenda to it other than it's
+just kind of like I have I have what I need and if you can't tell like I don't need to tell you the number you
+know you just you know that you know you know I got it I guess for other words do you value money I value it
+to some degree you needed to live you need to pay your bills you need to pay like to eat you need you you know
+to have experiences to travel but uh there's a point where where money is no longer going to make you happy
+and you know I I get that uh I get the a lot of it's easy to say that when you have money but like I just said
+I've gone through life with without money and not and knowing what it's like to struggle so I could tell you
+from firsthand experience that once you hit a certain point and you're not worrying about money anymore you
+start to worry about who you're around and and being alone and worrying about who to trust and who to who in
+relationships who you should be dating and you know what businesses should be started what like who you should
+affiliate yourself with it's it becomes a like the more money that you have the more expensive your issues
+become and the more complicated your issues become so it's a it's all relative you know it's just a weird
+weird thing who's the most impressive person you've ever met the most impressive person I've ever met um I'm
+going to go with and this is probably not as cool but answer as you're thinking but I'm going to go with my
+grandfather I think that he's the most impressive person I've ever met and not only because he's family
+because he passed away and if you told me I'll give you1 billion to tell me something negative about him I
+couldn't even think of a single thing in every year of my life I couldn't think of even the slightest negative
+thing to say about that man not one thing so and so much more that we could go on for hours but nobody wants
+to hear about that it's my own personal life but yeah my grandfather is the most impressive person I've ever
+ever met and he yeah he was great man was there something specific that you think he taught you he taught me
+everything as a child like you know prior to the drugs and you know he he just was there for me when and my
+mom was there for me but there for me when nobody else really was outside of my family and he did so much so
+much for me that he did not have to do he went out of his way in so many scenarios um that uh that I you know
+I'll be forever indebted to him for and and I know that he wanted to do them um but I I just I want to be like
+him when I have a child I want I want to be able to do I want to I want to be a tenth of him if I could so
+yeah I love him to death yeah and um yeah so on a different topic real quick just I know we're ending here um
+a lot of people ask a question that and I don't read my comments because comments you know are all like 99% of
+them are positive but then you see that one negative comment it's like somebody's talking crap or whatever um
+and I learned you know just from other content creators to just not read the comments because it'll get to you
+you know so I uh one thing that I see though sometimes cuz cuz you load in an app you see the top comments
+that just uh just happen to be there and people will make a comment about like my jaw or my teeth and
+something that most people don't realize is it's not that I can't like it's not that I'm like talking with my
+mouth not all the way open on purpose I have a thing called tmjd which is a joint dysfunction where I cannot
+open my mouth wide so for the people out there it's not about you hating on me that I care about I just want
+you to understand why why my mouth doesn't open all the way when I talk yeah yeah yeah I know it has nothing
+to do with anything we just said but it is one comment that doesn't bother me I just want people to get it cuz
+it seems like nobody understands and it's so obvious that I have TMJ but people don't get it yeah my mom has
+that pretty bad yeah as well does she have like the lock or she's not like locked but like it's like pretty
+consistent for her um I'd say like once a week it happens but I get it too sometimes but I'm sucks that it
+never goes away yeah it's it's permanent for me like I can that's as far as I can go have you had it since you
+were young uh yeah jeez man yeah and then I did a a full mouth reconstruction with uh like these aren't
+veneers these are crowns so like I did a real like real redo of your whole mouth which is not cheap and the
+goal of that was to fix my bite which could have potentially fixed the TMJ D it's not TMJ TMJ is the name of
+the joint D is for dysfunction and um and you know it didn't help or make it worse it just didn't work but you
+know I ended up with with white very white teeth out of it but uh that was uh that was the only benefit so
+hopefully one day I can get this fixed but uh for anyone curious to know why I talk the way that I do it's
+because of a dysfunction in my joint cool man um is there anything else you want to tell the audience about
+what you're working on now future I want parents to know like like I say all the time I want parents to know
+that it's very important in 2024 and future years that it's not like when you were younger or when I was
+younger or when even when you were younger Jack phones devices iPads anything that is connected to the
+internet to a child is like having a third arm it's an appendage of their body it's their connection to the
+world so when you take that device away from them for whatever reason you're taking it away from them you're
+taking away in their brain their connection to the world that was not what it felt like for me as a child or
+what it would feel like to most older people so it's hard to relate to that but you have to understand that
+your kid could be talking to strangers on apps like like Jack and I spoke about earlier fortnite or Minecraft
+or Roblox or any of these games that match you up with a stranger and your kid needs to understand that they
+can tell you about somebody being inappropriate even if they feel like it's going to get them in trouble they
+know they're not going to lose their device in that process because you you could potentially prevent a
+tragedy if your child feels comfortable coming to you with these topics I don't have a kid but I've seen
+enough cases to know know what where the common denominator is and it's that so I would highly recommend that
+as one and number two is to create some sort of monitoring you know regimen in your life uh with your child so
+I'm not sponsored by this company but I really like their app it's called bark b a r k you install it on your
+kid's phone and it looks for you know like you know not only predatory behavior but it looks for bullying it
+looks for self harm and it will alert you of that when it happens and then for the things that cannot monitor
+you plug the phone into a computer and it backs the phone up onto the computer and it will scan it and look
+for those things as well so bark will is just a app that I really like and like I said I make no no no benefit
+whatsoever being even shouting them out but any type of monitoring software is better than nothing and I
+highly recommend you do it because the world is an absolutely vile place and not everyone but there's a lot of
+these weirdos out there so just you know remember that and if anyone has any questions you can reach out to me
+on man on Instagram um and I'll be making content you know like videos and and uh and you know short clips and
+maybe some longer Clips in the future uh you know for the foreseeable future I don't plan on changing and if
+any topics become a you know a reality or something I run across seems to be important just know I'll be
+posting about it right away and that's that's the most that I have to say at this point awesome well thank you
+for coming on man um everyone this has been the Jack Neil podcast this is your guest Ryan Montgomery at zero
+day yeah the number zero d a y not not the letter not z r o the number zero Dy it's a very different person on
+that other one awesome thank you guys peace

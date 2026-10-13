@@ -1,0 +1,87 @@
+Title: how i create digital products people actually need
+Channel: Alex
+Type: VIDEO
+Video ID: 7uYVe1LkV98
+URL: https://www.youtube.com/watch?v=7uYVe1LkV98
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:42:30+00:00
+
+Kind: captions Language: en So, guys, this is exactly how I create digital products people actually need.
+Really simple process, okay? So, the first thing is you need to solve a real problem that people actually go
+through, not what you think is good. A real problem someone is facing, right? And then they they can relate to
+it, and they see your digital product as, you know, a realistic outcome. They can actually achieve the
+transformation that they're, you know, desiring, right? So, the way you do this, if you want to actually do
+this, you base it on data, okay? You don't want to blindly just what you think is good. How do we actually
+find it? We use real search data to find the type of problems people are actually facing. And to make this
+easy, I actually created a my own digital product to help you guys do this, and that is Niche Trend Hunter,
+okay? So, if you have an idea, but you don't know how to find the problems in that niche people are facing,
+you just come here and you type in that niche. So, let's say it's fitness, okay? Let's find the problems that
+people actually have within fitness, and these digital products will speak into their soul. It's in their
+buyer language, right? So, it makes them unreasonable for them to not want to buy, right? So, let's see what's
+in fitness, see what we can find. Actual problems that we can build a digital product around. So, as you guys
+can see, it's looking for trends. Give it a second. By the way, if you want to use this, I'll put it in the
+description, but really useful tool. You don't have to use it. It just makes it easier to find the problem,
+because if you can find the problem someone's facing, and there's data showing a lot of people go through that
+problem, you build your digital product around that. So, as you guys can see, here are actual problems people
+are facing just based on the broad term of fitness, okay? So, we can see here, we have let's take a look
+Fitness pal. We have how to fitness cut, how to get a fitness certification. There is a pain point. People
+want a way to get a fitness certification. This is a career roadmap app. We have structured daily fitness, how
+to journal, how to fitness journal. People want to be accountable. They want to know how to journal properly.
+This is a daily fitness journal habit tracker. We have how to do fitness tests and also it's based on real
+search data. So, 2,000 people a month on Google approximately want to be better at journaling their fitness.
+So, let's say we want to make this. As you can see, it gives me a proven prompt to build the digital product
+because guys, if you don't We're using AI to build these digital products. If you don't have the right
+prompts, you're going to build a bad product, which means if people buy a bad product, even if they do buy it,
+you might first of all, you might not make sales and if you do and the product isn't built well because you
+have the wrong prompts, they're going to lose money, they're going to complain, they're going to ask for
+refunds. That's why I created Niche Trend Hunter so you have proven problems people face and proven prompts to
+build products around those problems. So, let's go back to the fitness journal. I'm going to press copy for
+the prompt to build this proper workout journaling app. Then we're going to use a vibe coding tool. I'm using
+in this example Base 44. You can use Lovable, you can use Claude Code, any single one. Paste your prompt into
+the AI app builder and it will build it in real time. So, let's just wait for that to get built here. So, as
+you guys could see, our app is now built. Okay? Our journaling fitness tracker, it's a digital journal, pretty
+cool. You can see for Friday, September 25th, we choose the workout split, we choose the RPE, the energy, we
+could add exercises, we could add notes, we We add tags, we could save the entry. Really cool features. We
+have our calendar, habits, progress. So, this app, okay, is now optimized. It's good. There's no glitches. If
+there is glitches, we can do it here, but all of this is now built from Niche Trend Hunter. And the same thing
+goes for the sales page. I can just copy the prompt and get an optimized sales page built. Because, guys, if
+you would use bad prompts, again, for the sales page, your customers are going to view, they're going to see
+the problem they're facing on how to journal fitness. If the If it's not being communicated correctly, or the
+sales page isn't good, you're not going to make sales. So, we have a proven prompt to build a nice optimized
+sales page. I'm going to go here, paste that here, and we're going to get that built. Like so. Okay? And let
+this load in here, and we'll see how that turns out. And as you guys can see, the sales page is now built.
+It's called FitNote, a distraction-free digital journal built for serious lifters. Very specific
+problem-solving for lifters who want to journal. Okay? As you guys can see, it's $24. And it's it's addressing
+a problem targeted for lifting. So, we took the prompt, and we're now we're laser-targeted for lifting. Not
+just fitness journaling, but now for lifters. Okay? And as you guys can see, this is now our sales page. It
+looks amazing. I can press publish, and then we have the product. Okay? Now, step two is we're going to
+validate the problem. Now, as you guys can see here, I built an MVP. I can Before I press publish and actually
+make an effort pushing traffic to to sell this, we're going to validate it. So, as you can see here, some
+simple validation tactics to make sure there's actually a market. If I go on Google Trends and I write how to
+fitness journal, you can see there's a huge spike here. So, there is now demand for people that want to be
+organized in their fitness journey, let alone lifting. Same thing if I type on YouTube how to fitness journal,
+for years people really care about, you know, journaling their workouts. And, you know, there's actually this
+outdated method in the market that people are physically journaling, right? Same thing if I open TikTok,
+everything we can see with views are physical journals. So, we can actually stand out in the market with our
+unique digital product, which is a digital journal. You see how I'm building specific products addressing
+problems, right? And we got this all from Niche Trend Hunter, as you guys could see. So, that is now
+validated. We then go to step three, which we technically did. We built the MVP, and we can press publish and
+go live. So, even though it's not perfect, right? You will go You go You learn as you go, right, guys? So, you
+go live with this, and as customers buy, they'll have questions. You'll read the data and see what people are
+saying. And if people do want refunds, give them the refunds and explain to them, you know, what is the
+feedback? How do you make it better? Something cool about Base 44 and other apps. Look, the AI now knows what
+I built, and it's giving me suggestions down here, right? It's suggesting to give workout templates. It's
+suggesting to sync the to your Google Calendar, right? Volume analytics and more suggestions. I can even ask
+it for suggestions how to make my optimized digital product better. As you can see also, it's mobile
+optimized, right? And then, the last step, right? When we go live, we choose the marketing channel, okay? Do
+we want to go the faceless route, which is running paid ads to like AI static images, or basically, you know,
+organic faceless content? I actually did a challenge doing this. I'll link the link in It's a challenge video.
+Link in description for that. I'll put that there. It worked out well. Or you can go the show your face route,
+which is exactly what I'm doing now. I'm showing my face. I'm talking about my products. That route is really
+good if you want to build a brand. Both routes work. I'm just showing you what's possible. And in a nutshell,
+that is the four-step process of how we how I would create a digital product people need. Really emphasizing,
+okay, on products, okay? So you have a broad niche, fitness, and you go and you niche down. What do people
+need? Here's another idea. How do you fitness cut, okay? People who want to be cutting fat at home. Be really
+specific. So again, if you want to use Niche Trend Hunter to build digital products around real problems
+people have, this will be in the description as well. And guys, that is the video.

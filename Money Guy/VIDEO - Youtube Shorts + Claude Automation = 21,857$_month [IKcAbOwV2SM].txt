@@ -1,0 +1,115 @@
+Title: Youtube Shorts + Claude Automation = 21,857$/month
+Channel: Money Guy
+Type: VIDEO
+Video ID: IKcAbOwV2SM
+URL: https://www.youtube.com/watch?v=IKcAbOwV2SM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:54:26+00:00
+
+Kind: captions Language: en There is a short niche making 2D animated content for sports that is pulling tens
+of millions of views on his videos. And from experience with my own channel, I can say that one video with
+that many views can make you from one to even $2,000. But this channel is making one mistake, and because of
+that mistake, he's leaving billions of views and money on the table. Yes, I'm not exaggerating because this
+guy basically took Zach D. Films format and made it 2D applied it to sports. But he missed one essential
+thing, which is uploading consistently. He uploads just once every 5 days, but still gets 22 million views a
+month. If he or you could upload these types of videos every single day, you would blow up even more. So, I
+gave myself a challenge to find a way to create these types of videos in less than 20 minutes. Sounds
+impossible? That's what I thought in the beginning as well, but just look what I managed to create with AI
+eventually. >> At 15, Cristiano Ronaldo was 5 ft 9 in. His son just hit 6 ft 3 in. Cristiano Ronaldo Jr. has
+grown a full 26 cm over the last 3 years and reached 6 ft 3 in at the age of 15. And because males height
+growth can typically continue until the ages of 18 to 21, [music] Ronaldo Jr. could end up being the same
+height as LeBron James by the time he turns >> 21? >> You stupid. >> This footage was created with AI, and
+surprisingly, I used just one prompt to create it. I did it with Claude's newest fable 5 model and Higgsfield.
+Everything was generated and downloaded straight to my computer. But the craziest part is that when errors
+were popping up during the generation, the AI spotted them himself and fixed them. I literally just watched
+and pressed buttons to continue. And that was honestly fun to watch. I think it will be extremely valuable for
+you as well because you'll be able to apply it to any niche and create content way faster and efficient. So,
+stay watching because I'm going to show you the full process step-by-step. So, before the magic happens,
+there's a setup part. And don't skip it because if you make this wrong, nothing after will work. First, you'll
+need to install Claude on your computer. So, just open Claude website, download the Claude, and that's it.
+Then, you'll need to connect Higgsfield to your Claude. So, just go on settings, connectors, add custom
+connector, name it Higgsfield, and here you'll paste MCP link, which you can find on Higgsfield's website. Go
+on Higgsfield MCP, copy the link, paste it right here, and press add. I already added it, so I won't add it
+again. Then, you'll just have to connect your Higgsfield account, and that's pretty much it from the Claude
+side. However, this is not finished yet. Now, we need to add Higgsfield MCP to Claude code, and I already
+showed this step in my previous video. So, if you haven't watched it or watched it but don't remember it, I
+will play now that part of the video, so so you could follow the step-by-step process because it's not that
+easy to do. So, pay attention and do everything step-by-step. In order to actually automate the image
+generation, we need to install the Higgsfield skill to Claude code. I know it might sound complicated. It was
+the same for me, and it is the same for me now. But since I've already gone through it, I'll show it to you.
+So, go back to your browser and search for Higgsfield. Once you log in, find the section for MCP and CLI, and
+click on CLI. Here, you can see three commands that we'll need to paste into your computer's terminal, which
+sounds easy to do, but here is where I faced with a lot of issues. So, I'll show you how to fix those in case
+you come up with them as well. So, open your terminal, then paste the first command and hit enter. That should
+install the CLI, but for me, it showed an error that most of you probably going to face as well. After some
+research, I figured out that I needed to download an additional program called Node.js, which lets your
+computer run these JavaScripts outside the web browser. After installing it, I pasted the command and got
+another error. And to fix that error, all I had to do was add a simple .cmd text to my command. I don't know
+exactly how that helps, but [music] at least it does. So, then go back, copy the second command, and paste it.
+If the same error happens, just add that .cmd text again, and it will work. At least that's what worked for
+me. After hitting enter, it'll ask you to authorize access with your account. And then the third and final
+command actually installs the Higgs Field skill that generates the images. I can paste the command, and if the
+same error happens, include the same .cmd. But, after this, your installation might still fail, cuz that
+that's what happened for me. So, again, I did some research and found that you'll need to install one more
+program. So, you'll need to install Git, but you don't need to actually go to any website. You can just type
+this command, and it installs automatically. So, after installation, I retried the third command, and it
+finally worked. Now, after completing this step, you'll need your voiceover to be transcribed with timestamps.
+This is what the AI uses to know exactly what needs to happen on screen every second. So, go to the tool like
+Turbo Scribe or any tool that transcribes your voiceover with timestamps. I did it with my voiceover right
+here, and as you can see, I got this short voiceover with timestamps. And now, the most important piece, the
+prompt. I uploaded my big and very detailed prompt together with realistic reference images of the main
+characters I need in the video. [music] And this prompt is super long, and it basically commands the whole
+operation. First, it has to generate characters and character sheets based on the script and the reference I
+gave. And it can only use them after my approval. So, if it shows me a generated character and it doesn't look
+how I want, I can freely ask to change it before anything else gets made. Then, it analyzes and generates the
+backgrounds the video will need. And this part is also very crucial because this is what keeps characters and
+backgrounds consistent through the whole video instead of your character or background changing every shot.
+So, everything is uploaded, reference are in, let's see what actually happens when you click enter. And this
+is where you either save credits or waste them. So, watch closely. The first thing it gives me is a shot list.
+It analyzes the script, picks the best images and video generation models for the job, and tells me
+approximately how much it will cost. Right here, you can see it's 500 credits. But, don't worry, it will cost
+you way lower. For some reason, the shot list wasn't showing for me, so I just confirmed the Nano Banana Pro
+and models, uploaded my reference image again, and just look how clear this is. Three main backgrounds. For
+every single shot, you can see which characters it will use, what action they'll do, what graphics will be
+shown, even the framing. Everything laid out before a single credit gets spent. So, if something looks off,
+you can change it now instead of paying for a bad generation. For me, everything seems fine, so I write
+approved and continue. And now the magic begins. It starts generating the character sheets, and as you can
+see, it immediately runs into a problem. It can't generate. Maybe it's copyright, maybe it's because it's a
+famous celebrity. I don't know exactly. But, what I do know is that AI will find a way and keep going until it
+works. And you'll even see it fixing major mistakes in the photo himself. Just look at this. LeBron is wearing
+number 44 on his shirt, and the text says veterans, which is complete nonsense, right? After the generation,
+the AI explains everything itself. The safety filter blocked all photo reference conversions. So, all three
+sheets were built from the appearance locked text description instead. But, this is the part that surprised me
+the most. I already caught and fixed two problems myself. Full text frame and fake team name on LeBron's first
+version. It caught its own mistakes. No, like nobody told it to. So, now I look at the images and they're
+exactly the way I wanted. Yeah, maybe Ronaldo Jr's hair is a bit too big. But, honestly, for me, that's even
+better because from my personal channel and experience on going viral multiple times, I can say that it gives
+that wow factor and people will comment about his hair. And comments boost engagement and views. So, I will
+leave it like this. If you wanted to change it, you just write in the chat and ask to regenerate. That's it.
+It also shows how many credits it used so far. For me, everything is okay, so I just press approve. And with
+that one word, it starts generating the backgrounds. And after that, the shots themselves based on the script.
+After generating, it even flags which shot might be bad and asks if I want to regenerate. For example, here,
+the second shot. But, for me, it looks fine, so I'll just keep it. I kept approving and after some time, I had
+all nine shots. There was one shot I wanted to regenerate. LeBron James was generated standing in front of
+basketball rim and covering it, so I asked for a new one and got a good clip. And remember that 500 estimate?
+The whole thing cost just 103 credits because it switched the model to cling. I don't know why, maybe AI just
+analyzed and thought it will be better. But, these 103 credits is basically $5 for one video. And some people
+might complain that it costs money, but just look from the other perspective. If you will have to hire an
+animator for this job, you would spend 50, maybe even $100 for one video. Now, you just spent $5. I don't know
+if you can get it any cheaper. So, the AI part is done. I asked it to download every video to my folder, and
+here they are. Now, the last 15 minutes is putting everything together. I put everything together in my
+editing software the way I want. I added my voice over, simple arrows, sound effects, some memes for
+engagement, and background music that I used from Epidemic Sounds. I zoomed in some funny faces, and I got
+this final result that you already saw in the beginning of the video. That took me an extra 15 minutes, but
+I'll be honest with you, that's because I already know how to edit fast, and I have all my keybinds and
+shortcuts set up. And the 20 minutes of real work doesn't count the waiting time while things generate. I'm
+not going to pretend that the video makes itself while you sleep. You still have to confirm things and write
+extra one to two words, you know? But, 20 minutes of actual hands-on work for an animated video that used to
+take days for animators, that's just unreal. So, that's the full system. Apply to your niche and create your
+own unique style to stand out, find gap in the market, and go viral. Create your unique prompt, or if you want
+mine, I'll leave my exact prompt in my school community along with everything else about growing with shorts.
+But, I know some people can't afford spending money and still would like to look at the prompt fully. [music]
+So, here's the deal. If we reach 2,000 likes on this video, I will give the exact full prompt I used to my
+newsletter subscribers, which which is free to subscribe. So, like the video and subscribe to the newsletter
+and this channel if you actually need it. I'll see you in the next one. Peace.

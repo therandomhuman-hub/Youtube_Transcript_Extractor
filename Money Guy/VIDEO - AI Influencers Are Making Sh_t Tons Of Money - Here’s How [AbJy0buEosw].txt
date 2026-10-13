@@ -1,0 +1,124 @@
+Title: AI Influencers Are Making Sh*t Tons Of Money - Here’s How
+Channel: Money Guy
+Type: VIDEO
+Video ID: AbJy0buEosw
+URL: https://www.youtube.com/watch?v=AbJy0buEosw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:51:16+00:00
+
+Kind: captions Language: en Should I text him first? >> know that so I'm >> AI influencers are taking over
+social media and are making more money than most real influencers you follow. You don't believe me? Then just
+listen to what this reporter said when she met one of the creators of a 2 million follower AI influencer. >> a
+mysterious invite [music] to a mixer where they said I was going to meet some of the creators behind big
+[music] popular AI accounts. So, the first creators I met were the guys behind Granny Stills. They're from
+Florida, and one of them, Eric, is already a content creator on his own. Together, they started creating this
+account that [music] is an AI generated grandma. The big idea, they said, is to eventually sell brand
+sponsorships on Granny's account. And already, >> [music] >> they've sold five-figure sponsorships. >> Yes,
+you've heard that right, five figures. What's even more astonishing is that this happened in like 3 months
+from starting the account. And that's not even counting the money coming in from birthday wish orders. So,
+today, I'm going to build an AI influencer from scratch, show you exactly how to monetize it by breaking down
+a few accounts making real money right now, and share the system I use to stack a month of good ideas so I
+never have to sit there wondering what to post next. And trust me, that system is a game-changer for
+procrastinators like you. So, how do AI influencers actually make money? Because brand deals are just the tip
+of the iceberg. The accounts making real consistent money don't rely on one stream. They stack a few. So, let
+me go through each one properly because if you skip this part, you're building the whole thing on the least
+reliable income source there is. Let's start with exactly brand deals. This is the classic. Believe it or not,
+but brand deals can actually make a big part of revenue. A simple post promoting a brand could make thousands
+of dollars depending on your following. Do not waste time talking about which following rage makes how much.
+Here on the screen you can see and pause the approximate amounts on how much brands pay depending on your
+follower count. Keep in mind that followers alone isn't enough. Your account should get a normal amount of
+engagement as well, not be some dead account. I'm going to show you what actually matters on Instagram if you
+want viral videos. And spoiler alert, it works a bit differently from YouTube. Plus, I'll walk you through the
+exact content plan I built to make it happen. But, brand deals shouldn't be the only way you monetize your
+account because it's the one that depends entirely on someone else reaching out to you first. So, the second
+way is affiliate marketing. Take a look at this account. It's an AI influencer that shows how to create
+content with AI, and he has his website where he links all of his tools that he's using. If people buy
+subscriptions through his link, he gets a small cut as well. And it works from day one before a single brand
+even knows your account exists, which makes it the easiest one to start stacking immediately. The third is
+launching your own digital or physical products. Brandi Spills creators are selling birthday wish videos
+directly to fans. This AI Amish influencer sells his own beetroot supplements. This way you don't need to wait
+for brands and sell your own product. And the fourth darkest method to which I don't want to even go deep
+because I don't want to associate my channel with it is subscriptions and fan platforms. There are AI
+influencers that sell ability to chat with them or watch private content that's behind a paywall. I don't want
+to go further because for me this money-making method doesn't feel ethical. But, since on my channel you learn
+money-making methods, I had to include it at least in some way. So, now you know how these AI influencers make
+money. But, how to create one that makes five figures every month? If this space is already producing
+five-figure deals, doesn't that mean it's too crowded to even bother? Well, no. I've got the hundreds of
+millions of views on short-form content, and I know that whether you'll have a successful channel that gets
+millions of views or you get buried depends on what niche you go in and how you position yourself in that
+niche. Those two guys that built Granny's Pills were genius. They didn't try to build another version of the
+perfect 20-year-old AI model that's already everywhere. They built a 75-year-old grandma that pretended to be
+20 year old. >> We've all been called crazy by men who deserved worse. >> Everyone was fighting over the same
+crowded corner, so they walked to the empty one instead. That's the whole trick. It's called niche bending.
+You're not inventing a new format, you're taking a proven one somewhere it hasn't been yet. Instead of
+grandma, you could do grandpa and go into some kind of niche like cars. Like a lot of open gaps are still
+open, and that's why without waiting any longer, we'll go to create our AI influencer. Normally building one
+of these means jumping between a dozen tools. You research what's trending on one side, you plan your content
+in another place, you generate images in one tool, video in a completely different one. Then you're dragging
+it all into an editor to put it together. Can feel overwhelming. So, I think I found something better. The
+tool I will be using today is called TopView. It's an AI video creation tool that now can be put as an MCP
+inside Claude. So, I created my AI influencer from scratch along with a 32-video idea plan for the month to
+stop procrastinating and overthinking, all inside Claude with that MCP. And the whole process was super smooth
+and easy. Let me show you how I created the character and the whole content system that is actually a
+game-changer. Firstly, I connected TopView MCP in the connectors tab of Claude with this link. And after it
+was connected, I opened a new chat in Claude and wanted to come up with my niche for the influencer. I
+explained that I need niches where I can have characters that have potential to sell digital products and gave
+an example. Also, I included a sentence at the end use top view MCP for research because top view comes with
+data built in from places like Amazon, YouTube, TikTok Shop, and Shopify. So, instead of me manually scrolling
+those platforms trying to guess what's working, it pulls that for me directly and knows what sells. After
+going back and forth with AI asking questions, I decided to pick cars niche with a grandpa character. And for
+the product, top view pulled data that headlight restoration fluid sell the best on TikTok Shop. And that
+would be a good way to fit in either an affiliate link or build your own product. With niche, character, and
+product ready, I started generating visuals, which was very simple. In the same chat, I just asked to generate
+my character and his character sheet using top view MCP. For those who don't know, a character sheet is super
+important because with it you generate the character from all angles and will use it as a reference in all
+future generations. With the character ready, I needed video ideas to generate content, and that's where a lot
+of people break. Trust me, I know you. You watch a similar video to what you're watching now, you get
+motivation, start with the first video, it doesn't work, and then you stop. And it's partially because it
+didn't work, but mostly because you don't know what to post after. You start to over analyze what can work and
+what won't work. You don't have a plan. And recently, I've been struggling with this over analyzing myself.
+But luckily, I found a solution, and I won't gatekeep it from you. Basically, with the help of Claude, we'll
+create a banger content plan for a whole month. To create it, you need to write four banger formats that you
+think work best in your niche. For example, it could be tier list format, reaction format, and so on. And you
+need to write eight topics. For my niche, it could be talking about car bits, interior, and so on. After
+having these formats and topics, you end up with these 32 beautiful squares. And in each of those, you have
+each topic made with each format. This way, you plan different content with different topics and formats for a
+whole month. After a month, you'll see what worked best and what didn't work. And with the plan ready, I asked
+it to create the first video. And after going back and forth, fixing mistakes, chatting with Claude, I created
+this video. >> Sit down, kid. These headlights, they look like two cups of cold diner coffee. And your dealer
+wants 150 bucks to replace them. That yellow ain't just ugly. At night, you're driving half blind. That's a
+real problem. Here's what 45 years in the garage taught me. $10 bottle, little bit on a rag, couple passes,
+and [music] would you look at that? Clear as the day you drove it off the lot. That's not a new headlight,
+kid. That's 10 bucks in 5 minutes. Links in the cart. Now, go take care of your car, and don't let them rob
+you. >> I don't think I need to explain everything I wrote, because it was just basic chatting and asking to
+fix things that I didn't like or a simple request to keep character consistent. The point was not to show
+every little chat I wrote to get this result, but to show how simple and easy the process is when you can do
+it in one place with simple requests to change what you don't like. It's like working with a real person, just
+with way faster turnarounds. So, for those who are planning to try TopView, they have an offer to get 60 days
+of unlimited SeeDance 2.5 generations for ultra annual users. Now, I wanted to say that they are sponsoring
+this video, but I wouldn't promote it if it wasn't something useful. If you want to try it, you can find the
+link in the description. So, you've got your influencer and a month of content ready. Now, how do you actually
+get views on Instagram? Because if you post this the way you'd post a YouTube short, you're playing the wrong
+game. Instagram's algorithm cares about three things, and this comes straight from the head of Instagram
+himself, not some guru guessing. So, it's watch time, how many people like it out of everyone who saw it and
+the big one sends how many people share your video to a friend in their DMs and sends aren't just one signal
+out of three. They're worth roughly three to five times more than a like when it comes to reaching people who
+don't follow you yet. So, what does that mean practically for your AI influencer videos? First 3 seconds
+decide everything. If they scroll past, nothing else matters. Keep them short enough that people finish them
+because completing is what watch time actually measures. And make sure every video has at least one part that
+makes people go, "I need to send this to my friend." Something funny enough or useful enough that a viewer
+instantly thinks of one specific person. That's what grows the account. Now, turning those views into actual
+customers, there's a trick you've probably seen a hundred times without clocking what it's really doing. The
+influencers usually say something like, "Comment the word glow and I'll send you the link." Once people
+comment it, an automation tool like ManyChat catches the comment and fires off the message automatically.
+You're not chasing customers, they're raising their hands. You've got that 32 square plan, so the what is
+solved. Now, it's just consistency. Post on both Instagram and YouTube because there's no reason to let one
+video work on only one platform. And if uploading everywhere manually starts eating your life, there's a tool
+called repurpose.io that posts to multiple platforms for you. So, you can find the link to it in the
+description. Now, you know how these AI influencers make their money. And you've seen the whole system to
+build one yourself. Honestly, showing you how it works and proving it works are two different things. So, I'm
+going to do it myself. I will start my own experiment to make money with Instagram and when I've got real
+numbers, real results, whatever they end up being, I'm making the full guide on this channel. Everything that
+worked and everything that flopped. So, subscribe if you don't want to miss it because I'm trying to reach
+100,000 subscribers as well and honestly watching someone actually test it beats another theory video any day.

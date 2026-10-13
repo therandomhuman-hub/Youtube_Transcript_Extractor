@@ -1,0 +1,73 @@
+Title: How  To Make VIRAL Vox Style Animations
+Channel: Money Guy
+Type: VIDEO
+Video ID: ueLvotGDWQg
+URL: https://www.youtube.com/watch?v=ueLvotGDWQg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:53:19+00:00
+
+Kind: captions Language: en Guys, just look at what I created with AI in a few minutes without any prompts. If
+you want to stand out from other channels and start getting more views on YouTube in 2026, you need to put
+more quality into your videos. So, today I'll show you how you can level up your videos to the next level with
+these walk style animations. They look clean and aesthetic and it can fit in almost any niche. They are time
+consuming and hard to make manually. So, I worked to build a file that lets you generate it with AI. With this
+file, you don't need any prompts, scripts, or voiceovers. It knows the whole workflow and handles everything
+itself. So, if you're wondering how it's possible, how much it will cost, and if you want the file yourself,
+keep watching. So, I created two paper style animations about Egyptian pyramids. One is based on a script and
+the other is just based on the topic and generated the script itself. And what you see now wasn't created by
+animators. I didn't need any editing software as well. The voiceover, the script, the animations were all done
+by that Claude skill file. Now, what a lot of people would do is go to a video generator and generate each
+scene one by one. But, if you do this a hundred times, by the end of the video, the style has changed five
+times and that's not the quality we want. To make it good quality, you'd need to spend a lot of credits and
+time just generating all the assets before you even start the generation process. But, you don't need any of
+that because today I'm giving you a Claude skill that has everything inside. It knows the workflow, it knows
+how to maintain this paper animation style, and all you'll need is a simple sentence. So, the first step is to
+download Claude on your computer. Now, with it installed, Claude alone can't generate images or videos. So,
+we'll use the image and video generator Higgsfield, which needs to be connected to Claude to generate the
+visuals and audio inside. So, just quickly go to Higgsfield, click MCP and CLI, copy the MCP connector link,
+go to the Claude code settings, click connectors, and add the link. That's it. Hicksfield is connected to
+Claude. Now look at this. I'm just pasting this Claude skill into the prompt bar of Claude code to show you. I
+just wrote that I want a 1-minute hook intro for an Egyptian pyramids topic. I didn't need to write a script,
+didn't need to prepare any assets, or generate additional images for the style. And I didn't even need to look
+for an app that would generate the voice over. The Claude skill knows everything. Just a few seconds later, I
+was given a tab with a lot of AI voices to choose from. I was able to listen to how they sound and pick the
+one I liked. After clicking, the text was automatically pasted into my prompt bar, [music] and I just hit
+enter. And as you can see, the first scene was already generated. Now I forgot to mention that you need to
+specify the video format. Since I didn't, it was generated in 9 by 16 phone format. But despite this, other
+aspects of the animation looked fire. It had sound effects and looked smooth. And that's because the skill
+uses the new Gemini Omni flash model, which does a really good job replicating these animations. And it's way
+cheaper than other models, meaning we shouldn't spend a lot of credits and money on the style. After waiting a
+bit more, it started generating the voice, and ultimately it gave me a finished 1-minute video with all the
+scenes and voice combined. And here's the full version of it. >> 2.3 million stone blocks, each weighing tons,
+stacked without cranes, wheels, or iron tools, 4 and 1/2 thousand years ago. For centuries, the explanations
+ranged from armies of slaves to visiting aliens, but the real evidence was buried in the desert all along. In
+2013, archaeologists opened the diary of a foreman named Merer. The oldest inscribed papyrus ever found in
+Egypt, his logbook describes paid professional crews ferrying limestone down the Nile on wooden boats >>
+[music] >> through canals dug right up to the pyramid and physicists solved the desert halls because pouring
+water on sand in front of a sledge cuts the friction almost in half. So, [music] no slaves and no aliens, just
+water, boats, and thousands of paid workers. >> Now, here's my honest opinion on this video. You can see that
+in some parts the text in the subtitles cuts out, but that was my mistake for not mentioning that the video
+needs to be horizontal. Also, the sound effects that were in the separate generations somehow didn't end up in
+the final version. Of course, that's not that big of a deal and could easily be added back in editing
+software, but I wanted to try it out one more time and generate visuals based on a script and not just any
+script, a script from Fern's video to see and compare how and what footage AI would choose. So, I took a
+minute of Fern's transcribed video about the Egyptian pyramids and pasted it into Claude. I got it back
+shortly after and here's the comparison between Fern's 3D animation and the AI paper animation. >> This is the
+Great Pyramid of Giza. For over 4,600 years, it has endured in the Egyptian desert. For most of human
+civilization, it was the tallest building in the world. Built to last for eternity, meant to house a god. It
+has survived earthquakes, erosion, [music] and wars, countless plunderers, British explorers blasting their
+way in with dynamite, even Mr. Beast. [music] It is one of the heaviest human-made objects ever, yet its base,
+seven New York City blocks wide, is [music] almost perfectly level. The sides align to the cardinal directions
+thousands of years before the compass existed. To this day, no one knows exactly how it was built. >> Now,
+again, I won't say anything new about the voice and sound effects, but the level of the actual animations is
+more than enough to go wild, especially among all those paint style videos made with just 2D drawings. So,
+it's insane that with one sentence, you can get animations this consistent. Talking about the cost of the
+actual animations, the 1-minute animation costs 193 credits. Depending on which subscription you take, $1 is
+around 25 credits. So, the cost per minute of this animated paper style is about $7.7. So, that would cost
+about $77 to make a 10-minute video, which is wild when you think about the time and money it would cost if
+you hired a real person to do this work. The close subscription also adds another $20 a month, but yeah,
+that's the reality if you want to make high-quality videos. On this current channel you are seeing right now,
+I spent even more than that on a single video just to get it edited. So, $77 for one edited video doesn't
+sound like a lot to me. If you want to try that Cloth Skill yourself, I'll leave a link for it in the
+description.

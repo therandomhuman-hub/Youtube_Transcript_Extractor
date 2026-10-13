@@ -1,0 +1,87 @@
+Title: how i made $27,000 in a month packaging apps inside digital products
+Channel: Alex
+Type: VIDEO
+Video ID: IO12ThOJXeo
+URL: https://www.youtube.com/watch?v=IO12ThOJXeo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:41:15+00:00
+
+Kind: captions Language: en might believe it. You might not believe it, but last month, take a look and see
+how much we sold in digital product sales. Refreshing my stripe here. We can see in the last four weeks, we
+did $27,000. Guys, how's it going? In this video, I'm going to break down exactly what I did to make what I
+made in the last 30 days selling digital products. Now, look, they're not just your average digital products.
+I'm not selling a PDF or a course. What we're actually selling are AIM made apps as a sellable digital
+product. And I follow a pretty simple workflow. Okay. So, first we want to identify a problem and build a
+digital product around that in the form of an app that solves that problem and then we market that. That's
+literally the three-step workflow that we do because look guys, people pay for solutions, not random info
+packaged into a PDF or some generic info. Now, before you start, you have to validate what niche has problems
+where you can position yourself and build a digital product around that. So, we want to basically make sure
+when we do our niche, our niche research, step one, that it's based on real data. Okay. Now, I'm going to show
+you what I use to do that. And what I use is an AI tool. And that AI tool not only finds what you can sell,
+builds the product, but it also builds the sales page where you're going to be selling that product. Okay? And
+the tool we use for that is Niche Trend Hunter. You don't have to use it. I just like basing things on data so
+I can have a stronger approach and build my digital products around that. So, if you want to test this out,
+I'll leave this link in description. But, as you can see, it has recommendations for niches where there's
+problems where you can basically build a product around. And I went ahead and actually pulled an example here.
+I typed in dog training. As you can see, I pressed discover trends. And right away, it gave me some ideas in
+the dog training niche where there are problems where there's an opportunity to build a digital product
+around. Right? So, for this example here, we have dog training certification study guide. People that want to
+be dog trainers, they need to basically pass an exam. So, this is a digital product. As you can see, there's
+already a demand. People want to get their dog training certification programs. 5.4K,000 people a month on
+average look for this kind of problem. And as you can see here, it's giving me a recommendation on a digital
+product that we could build. As you can see here, so guys, the prompt once we take it from here, digital
+product to build, press copy. you're going to want to put it into an AI uh vibe coding building platform. As
+you can see, I'm using Lovable. This is a really good platform for building AI apps. So, I'm just going to
+take it directly from Nichron Hunter and I'm going to paste it right here and I'm going to press launch.
+Really straightforward process. So, let's get that built and see how it turns out. As you guys can see, this
+is my digital product that's now built thanks to Niche Trend Hunter. We can see here this is the path
+certification exam simulator. We can simulate things, begin exam, I can basically like do a practice run,
+submit, see how things are. Really cool digital product. I can do my flash cards here. I can do a lot. Look,
+see, pretty cool for studying. So, the digital product is built. I can press publish when ready. Now, we go
+back here. We're going to need the sales page. So, we're going to go back to niche trend hunter where it says
+sales page to build. I'm just going to copy it and I'm going to go back into lovable and I'm just going to
+paste it down here and press enter. So now let's use AI to build that sales page. As you guys can see, we now
+have an optimized sales page to sell our dog trainer certification exam study guide. As you can see, get exam
+instant access, onetime payment, all the details we need. Scroll down here, $49. So now we have the optimized
+sales page. As you can see with the breakdown here, we have our sales page and then we have our actual
+product. So when people pay, they get connected to the actual digital product. And then down here, you can
+just tell Stripe to be connected to your app and you can start selling it right away. Now, we move on to the
+part that everyone seems to struggle with, the marketing, right? Because yes, you can have a digital product,
+but if you don't have the marketing downpacked, you don't make sales. So, the way we do this is we actually
+are building Instagram and Facebook accounts and we're basically building an audience because guys, at the end
+of the day, you need attention. And when you have attention, you make sales. So, how do you do that? You build
+an audience. And there's two ways to do that. You can either show your face like I'm doing right now or you
+can go a very popular route now which I've tried and it's working which is faceless but you basically create
+AI avatars to represent your brand and you sell through that. Now what do I mean by that? I'll show you an
+example. This right here is a huge account with millions of followers. It's basically a monk, hyperrealistic
+monk. And basically, he is the face of the brand. And the owner of this account is completely faceless. And
+basically, they're these are all made with AI, as you can see. Really cool brand. So, to do that, we're going
+to basically need an Instagram account. And I actually did this basically making content like this. I just
+started, okay? And I used Instagram edits app to publish to my brand new account. And here are some actual
+real results as you can see. So, I made a brand new Instagram account. You can see here. And by the sixth
+video, so first video, 191 views, 2 3 4 5 6. By the sixth video, I got 14,000 views. And I gained about 200
+followers. So, it kind of shows you on a brand new brand new account, post every day. And if you do it right,
+usually by the fifth or sixth video, you can basically blow up and and hit the algorithm and eventually be on
+your path to at some point grow to a wide account like this. As you can see, they have a link in bio for their
+digital product. That's basically where we would put our sales page for an education product like this. So
+now, let's say we want to basically make content for this dog training exam product, right? So to do that,
+we're going to basically use you can use a few tools. You can use Gemini or you can use a tool called
+Higsfield. So as you can see here, I actually have a Higsfield account and I basically told it to make a guy
+in in his late 20s trying to study for a dog exam. He's struggling. his dogs aren't listening to him. And then
+he discovers the tool that we built from Nichron Hunter, which is a certification study guide. And let's see
+how AI turned out for my first piece piece of content. Take a look. >> Two weeks till my dog trainer exam and
+every dog hates me. Hyperrealistic. Looks really good. >> Switching to an exam simulator. Links in bio. >> So
+at the end, you see he says going to an exam simulator. He's referencing the exam simulator here and he's
+basically saying link in bio. So as you post these every day and the end of your videos saying link in bio,
+they're all going to click on your link to your dog simulator. So that's pretty much how you do it. And again,
+this is a great tool as well. I'll link all of this in a free resource group in the description as well. And
+that's pretty much how you do it, guys. Like this actually works. You just got to be posting every day, making
+content, and of course using Niche Trend Hunter to build your product, identify your problems, and build the
+content, right? So guys, I have a pretty simple challenge for you. It kind of shows you anyone can do this.
+It's a 30-day challenge, okay? To build a faceless Instagram page like this with AI avatars and have your
+digital product app in the bio. Okay? So, I challenge you guys to do this and there is a free group in the
+description. I want you guys to start. I want you guys to make your Instagram account, you know, make your
+product with Nichun Hunter. Post content like this with Higsfield. Start posting and document the results in
+this group. Let's all build faceless brands like this, guys. And that's pretty much the video showing what's
+possible,

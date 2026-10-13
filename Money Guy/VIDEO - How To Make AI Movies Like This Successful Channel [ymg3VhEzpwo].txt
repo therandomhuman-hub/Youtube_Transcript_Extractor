@@ -1,0 +1,117 @@
+Title: How To Make AI Movies Like This Successful Channel
+Channel: Money Guy
+Type: VIDEO
+Video ID: ymg3VhEzpwo
+URL: https://www.youtube.com/watch?v=ymg3VhEzpwo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T01:56:33+00:00
+
+Kind: captions Language: en In just one week, this YouTube channel blew up out of nowhere. And within 3 weeks,
+it already has over 100,000 subscribers. But the crazy part is that even though every single video is fully
+generated with AI, you'd think that people would call it AI slop like they usually do, right? However, they
+actually love it. They love this kind of content. You could see comments like greatest use of AI ever, would
+actually pay to see this. There's AI slop and AI gems, this is a gem. And one of the reasons why people love
+this AI content so much is because the newest AI video generation models are just genuinely insane. The
+quality you can get these videos to is genuinely out of this world, especially with the new video generator
+that I will show you today. And with so many people loving this type of content, this guy is building a loyal
+audience that watches and will watch his content for months. That will help him to make a real income. And
+talking about loyal audience, you have the proof already. A video uploaded just 18 hours ago already has over
+150,000 views. For a new channel, that's more than impressive. So this is genuinely impressive and exciting
+for where AI generated content is heading in the near future. So if people love it this much and keep asking
+for more, it raises a big question. How do you do it yourself? I'm talking about standing out and blowing up
+in your first week, keeping your characters consistent across generations, and pulling it off without draining
+your credits. So I gave myself a few days to crack all of it. And I built one video myself with the new Higgs
+fields AI model. And the result genuinely surprised me. So here are some previews of what I managed to
+generate. So if you want to do it yourself, keep watching. So before we create anything, the first step is to
+understand how to actually go viral so you're not wasting credits for content that nobody will watch. And
+lucky for you, I know one strategy that works 90% of the time, and I'll share it with you right now. It worked
+for me not once and not twice, so listen up. So, you take the channel and break it down into pieces, just like
+a puzzle. What is the niche? What is the format? And so on. Let me show you how I would do with this channel.
+So, we can clearly see that the niche right here is Minecraft. It's Minecraft series, Minecraft movie,
+something like that, right? So, we already broke down one piece of the puzzle, right? What we're looking now
+is format. What's the format of this channel? The format is basically the way he presents his niche. Here we
+can see that the format is basically just Minecraft turned into more realistic version, into more realistic
+series using AI. Why do I even bother doing this? One of the main reasons is because it's really hard to
+compete against a channel that already has attention. In this specific scenario, it's possible because the
+channel is still pretty new. It's only 3 weeks. But even if it works, you won't pull the same level of
+attention. So, instead, once you broken it down, we swap out one piece of the puzzle. In this way, you create
+a brand new niche where you have zero competitors. In this example, we'll change Minecraft to something
+different, like Fortnite, since it's pretty wild game as well. But it doesn't have to be a game. You could go
+in a completely different direction. But for this video, I'll take Fortnite. So, now that we have our channel
+and we've got a real shot at going viral, the second step is the tool, because this exact quality is only
+possible to recreate with the right model. And I have to be real with you, not every platform can do this.
+Just look at the quality of these videos. Yes, they have a bit of film grain and all of that stuff, but it's
+only because it's supposed to look like that. This guy is trying to replicate Minecraft in 1980, something
+like that. But just look at how the character sits in the boat. Honestly, doesn't look like it was generated
+with AI. And it's crazy, like just a few years ago, we were looking at Will Smith eating spaghetti and we were
+just laughing, yeah? But fast forward to now, you can create AI movies that people actually appreciate.
+Honestly, I looked through a lot of websites, a lot of video generators, and burned the credits so you don't
+have to. And I found that Higgs Field and its newest SeaDance 2.0 model is by far the best at this job. So now
+the only problem left is the actual video generation. You probably already know that videos like these aren't
+made in one single prompt. You have to generate them scene by scene, and the problem with that is that your
+character and your background often comes inconsistent between scenes. So in this first step, I will show you
+how to generate these videos like a pro. So there are basically three things you need to get right: a
+consistent character, consistent backgrounds, and not wasting credits while you do it. First, the character.
+We need to create our character's portrait. So open Higgs Field, you can find the link in the description.
+Just click image, pick your model. For my generations, I chose Nano Banana Pro, and just write a prompt for a
+photorealistic image. You can also include reference, like here I included a Fortnite skin, and just wrote
+this long prompt. So you need a character and white background, but this is not enough. So let's continue.
+What we also need is this character sheet. Why? Well, the AI doesn't actually know what your character looks
+from behind, from the side. So it has to guess, and that's when it actually starts getting inconsistent. So to
+prevent this, we need our character from all different angles. And to generate this image, I took the previous
+image that I already generated, place it here, and wrote this long prompt. So by including this reference in
+our prompt, we'll always have a consistent character. But one problem still remains. How do you generate
+consistent backgrounds, avoid wasting credits, and get exactly what you want? Well, for that, I recommend
+using a storyboard technique. So before we even touch the video generator, we'll need to generate a
+storyboard. And for those who don't know, a storyboard is basically just a series of still images that map out
+your video scene by scene. It's like a comic strip of what's going to happen before you animate it. So, this
+is a storyboard of my first 15 seconds scene. And here's what I included in the prompt. Build a six-panel
+storyboard for a 15-second sequence laid out in a 2 x 3 grid, 16 x 9. Then, in the prompt, I included the
+character sheet as a reference and a background. I wanted the character to be in this exact background, so I
+generated it and included it as a reference. And then, in the prompt, I basically just explained what I want
+in each panel. So, I generated, and if you see in your generation that you don't want certain image or didn't
+turn out the way you wanted, like this first image, you can just take this generated image and just ask AI to
+replace the first panel with something different. This way, you save a lot of credits because generating new
+image is way cheaper than generating a full video. Now, to keep your backgrounds and storyboards consistent,
+what I also recommend is when you generate a storyboard, for your next storyboard, include your previous
+storyboard as a reference. So, here I even included a few storyboards, as you can see. And I also wanted my
+character to hold a blueprint, so I added a photo of how the blueprint looks as a reference and included it in
+the prompt. Of course, not every image was generated the way I wanted, but by using the storyboard technique,
+it was way easier to replace something that I don't want. For example, here, I replaced that sixth image with
+this image. Then, when every image looks good, you can finally move on to the most exciting part, which is
+video generation. And this is where that Higgs field C-Dance 2.0 4K model comes into help, because it
+recreates emotions and movements much better than any model out there. And it can now generate in 4K and up to
+15 seconds long video. And the way some of these generations look is why I think this is the beginning of AI
+being introduced into real movies and films. And if you learn how to do it, you can create movies yourself for
+a fraction of the usual budget. So now with all these images generated, with all these assets ready, let me
+show you how I generated my mini realistic Fortnite movie. So again, I went to Higgsfield. Now I went to the
+video section and C Dance 2.0 4K. Now I have to admit, the 4K model is pretty expensive. You can see that by
+choosing 2.0, selecting 4K and 15 seconds, you get the price of 330 credits, which is about 10 to 15 dollars.
+So yeah, it's pricey, not going to lie. That's why for today's video and for my generation, I used C Dance 2.0
+fast 720p. And as you can see, it only costs 53 credits, which is six times cheaper. It gives the same
+realistic movements, the same expressions, just a bit lower quality, which is still pretty good. So the way I
+generated these 15 seconds videos was basically, I just dropped the storyboard that I generated previously and
+dropped a prompt which was very similar to what I put in the storyboard prompt and the image prompt. With all
+the clips ready, I went into my editing software, put all the clips together, and now I think let's just live
+react the video and see the end result. So let's watch it. So as you can hear, this model actually generates
+the the sounds as well. So the first 15 seconds storyboard is just my character sleeping. After the shot, you
+wouldn't get this bruise, but that's my mistake. That's what I wanted. I wanted him to to have the bruise. And
+I think it might look a bit weird, but that's what I wanted. The character sees the the enemy and starts
+running, and the scene just ends. Now here, I don't know why this this part wasn't generated with sound, but I
+just didn't want to regenerate it again, so I just left this this part without a sound. It's basically the
+character finding a pickaxe and picking it up. And what I think about the sounds is you shouldn't let AI
+generate the soundtracks, the the music. Maybe give a prompt where AI just generates the sounds of I don't
+know, walking, of punching, you know, these these sound effects, but not the soundtracks because you will have
+a bigger control over what soundtracks you can add yourself. I really liked how this part turned out. I really
+wanted to make it as much similar to game as possible and to have these materials appearing while cutting the
+tree. As you can see right here, they were even glowing. Now it's the building process. The character builds
+the the house, he builds the roof and goes into the woods to open a chest. In the chest he finds this blue
+giant big shield or call it however you want. He brings it home, drops it without realizing, without thinking
+about the consequences and he breaks it, smashes the the walls and just breaks his house as well. The end
+could be smoother, but it's again because of lack of time making this video. But yeah, I think the the video
+turned out pretty good. So yeah, that's how you create quality AI videos from scratch. But what if I told you
+that you could automate the entire process? And with just one prompt have AI generate the storyboards and the
+clips for your whole video based on your script. That's actually possible right now as well and I showed
+exactly how to do it in this video right here. So if you haven't seen it, give it a watch because you'll learn
+how to make AI videos way faster.

@@ -1265,14 +1265,14 @@
     "title": "How to create a digistore24 account from Nigeria or any not allowed country",
     "url": "https://www.youtube.com/watch?v=r4hUO2HEmAQ",
     "channel": "Victor Bigbro",
-    "status": "DISCOVERED",
-    "source": "",
-    "language": "",
-    "filename": "",
-    "message": "Discovered; waiting for transcript",
+    "status": "SAVED",
+    "source": "YouTube automatic captions",
+    "language": "en-orig",
+    "filename": "VIDEO - How to create a digistore24 account from Nigeria or any not allowed country [r4hUO2HEmAQ].txt",
+    "message": "Transcript saved",
     "discovered_at": "2026-10-10T06:46:30+00:00",
     "last_discovered_at": "2026-10-10T06:46:30+00:00",
-    "updated_at": "2026-10-10T06:46:30+00:00"
+    "updated_at": "2026-10-13T01:06:03+00:00"
   },
   "pTFRpt5tV7k": {
     "video_id": "pTFRpt5tV7k",
@@ -1280,13 +1280,13 @@
     "title": "How to create a paypal Account  in Nigeria that receive money Victor bigbro",
     "url": "https://www.youtube.com/watch?v=pTFRpt5tV7k",
     "channel": "Victor Bigbro",
-    "status": "DISCOVERED",
+    "status": "NO_CAPTIONS",
     "source": "",
     "language": "",
     "filename": "",
-    "message": "Discovered; waiting for transcript",
+    "message": "No parseable YouTube caption tracks were advertised",
     "discovered_at": "2026-10-10T06:46:30+00:00",
     "last_discovered_at": "2026-10-10T06:46:30+00:00",
-    "updated_at": "2026-10-10T06:46:30+00:00"
+    "updated_at": "2026-10-13T01:06:13+00:00"
   }
 }
