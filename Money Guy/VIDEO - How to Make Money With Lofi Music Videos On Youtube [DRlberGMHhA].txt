@@ -1,0 +1,124 @@
+Title: How to Make Money With Lofi Music Videos On Youtube
+Channel: Money Guy
+Type: VIDEO
+Video ID: DRlberGMHhA
+URL: https://www.youtube.com/watch?v=DRlberGMHhA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T15:20:50+00:00
+
+Kind: captions Language: en Just look at this channel. Consistent views, ultra long lo-fi content, basically
+printing money from a background and some music. And this isn't just one channel. There are dozens doing the
+exact same thing across completely different niches. But here's what nobody tells you. If you do this wrong,
+you won't get views, and even worse, you won't get monetized at all. So today, as someone who has actually
+made money on YouTube, I'm going to build a lo-fi channel from scratch with the mission to show you exactly
+how money is made in this niche. How much work it takes, how to stand out, and reveal the one strategy that
+most of these channels are completely sleeping on, and it's costing them a lot of money. To be honest with
+you, when I first looked at this niche, I thought there was no way it could be monetized. Like, how do you
+take background, slap some music on it, and actually make YouTube pay you for that? Isn't that too easy to get
+monetized? Honestly, that's what I was thinking. I thought it was impossible. But then, I kept seeing these
+channels blow up in different niches, too. For example, friends of mine were making Minecraft ambient videos
+and genuinely making money from them. And if people are uploading every day, they wouldn't do it if they
+didn't get paid. And there's actually one more niche I've been watching that's quietly exploding right now,
+completely under the radar, and almost nobody is talking about it yet. I'll show you exactly what it is and
+how you could take advantage of it at the end of this video. But first, let me show you why most people fail
+at this and can't monetize it. If you steal a background clip and show copyrighted music on top, you're done
+before you even start. No monetization. I've always said this, and I'll say it again. Making money on YouTube
+is not a get-rich-quick scheme, and it's definitely not a copy-paste work. You have to put in the effort.
+However, the tools I'm going to show you today don't just minimize the effort, they actually increase your
+views and your revenue at the same time. And I'm going to tell you what those tools are right now, because I'm
+not here to waste your time. One of the most powerful tools I will mention today is 24/7 live streaming.
+That's the strategy. If you're running a faceless YouTube channel and you are not doing this, you're leaving
+serious passive income on the table right now. Sleep channels, ambient sound channels, entertainment channels,
+and even big creators with fully on camera channels, they're all using this exact method or at least it could
+be used on all channels. And the reason it works so well is simple. You take content you've already made, loop
+it, and stream it 24/7 and it generates income on top of what your regular videos are already making. The RPM
+is higher on streams. People engage through live chat and that little live badge next to your thumbnail pulls
+more clicks than a regular video thumbnail. And before you ask, no, you don't have to leave your computer
+running at 3:00 a.m. praying it doesn't catch fire. That's not a thing anymore. There are tools that handle
+the entire technical side for you so your computer can rest just as peacefully as your viewers. I'll show you
+exactly which one I use and how to set it up, but first, let me show you how to actually build a lo-fi channel
+for streaming because without the right foundation, the streaming strategy won't save you. Now, I looked at
+what our competitors are doing and most of them, and I mean most, are not using the 24/7 streaming strategy.
+That's a massive gap and that gap is our advantage. So, here's what we need to do. Step one, create branded
+visuals and background music. And I want to emphasize this. Everything here has to be planned and consistent.
+You can't just make a random background one week and a completely different vibe next week. Your brand needs
+to feel like a place people want to come back to. Some lo-fi channels go for a Tokyo aesthetic, others lean
+into gaming. I'll show you exactly what direction I chose and why, but first, let me explain you how I came up
+with it. So, I brainstormed ideas on my own, then used AI I push those ideas further. What I landed on was
+historical lo-fi channel with ancient Rome and Greece as the visual backdrop paired with lo-fi music that
+actually fits that atmosphere. And that last part matters more than people think. The music has to match the
+vibe. So, I went to ChatGPT and asked it to generate a prompt for lo-fi music that would suit the atmosphere
+of ancient Rome and Greece. It gave me a few options. I picked the best one and then I took the prompt
+straight into Suno AI and pasted it into the style field. I left the lyrics completely blank because the last
+thing you want is AI-generated lyrics ruining a perfectly relaxing track. And the result I got was stunning.
+Just listen to this. It's calm, atmospheric. It actually sounds like something you'd put on while studying or
+working. To be real, I generally listen to this myself. Now, to be transparent, Suno AI is a paid tool and
+they are not sponsoring me. I just couldn't find a free alternative that came close to this quality. I also
+tried Artlist's music generator, but it's even more expensive. And I think free tools might exist, but if you
+want content that actually competes, you're going to need to invest a little. So, the only good news is that
+Suno is cheap compared to most other tools out there. Now, here's what I would also recommend. Don't just
+generate one track. Give it a few similar prompts, generate multiple tracks in the same style so you have
+variety. Then, bring all of them into your editing software. From there, you need to make the audio at least a
+few hours long. You can either stack enough tracks to get there, or in Premiere, you can actually extend and
+loop the track. On top of that, I would layer in some subtle effects to make it feel unique rather than just
+repetitive. Once the audio is sorted, it's time for the animated background. And this is where a lot of people
+overthink it. I went back to chat GPT and simply asked it to give me a background prompt that would match the
+music style it had already suggested. And I also told it something important. I'm going to turn this image
+into a loop animation, so it needs to have elements that can move continuously. Things like rain, fire, or
+flowing fabric. That detail alone saves you a lot of headaches later. Take that prompt, drop it into an image
+generator, and test different models, different styles, different variations until you find the one that
+clicks. Don't settle on the first result. Now, here's where it gets interesting and where most people make a
+critical mistake. Once you have your image, you take it into an image to video generator. Ask chat GPT to
+write you an animation prompt based on the original image prompt, specifying that only loopable elements
+should move, the candle flame, the rain, whatever fits your scene, and generate a 10-second clip. We don't
+want to waste hundreds of thousands of credits to create animation that would last a few hours. So, we'll
+create a 10-second clip animation that we can loop smoothly into 2-hour clip. And it's very important to make
+it loop smoothly so that it doesn't look like every 10 seconds the video starts over. Now, I'm also listening
+to your comments and I've seen people complaining that I don't share exact prompts I'm using. So, I prepared a
+PDF with all the step-by-step prompts I used in this video to get the results. So, if you want to get the
+step-by-step prompts I used, subscribe to my free newsletter and I'll send it to you. Drop that clip into your
+editing software, and here's the problem you're about to run into. If you just duplicate the clip and stack
+it, you'll see an ugly hard cut every time it loops. It completely kills the atmosphere. So, you must fix it,
+and here's how to do it. When you duplicate the animation, reverse it. Now, it plays forward then backward,
+creating a seamless loop with no visible cut. Simple, but most people don't know it. On top of that, I'd
+recommend adding a particle overlay, dust, light rays, whatever fits your scene, and layering in some subtle
+ambient sound effects to make it feel real and alive rather than like a generated clip on loop. Once all of
+that is done, upload the final video to YouTube. And here's where we bring everything together with that
+strategy I mentioned at the start. Take that same video and bring it into Gyre Pro. And this is where things
+get serious. Gyre Pro is an officially certified YouTube live streaming service listed directly in the YouTube
+service directory and trusted by broadcasters like BBC Studios and NBC Universal. So, this isn't some sketchy
+workaround. It's legitimate, it's professional, and it runs completely without your computer needing to be on.
+Before you even start the stream, there's one thing I want to show you that most people skip, and it causes
+95% of the technical problems people run into. Gyre has a built-in converter that automatically optimizes your
+file before streaming. Bit rate, frame rate, resolution, it adjusts everything to meet YouTube's exact
+requirements. You don't have to touch a single setting. Just run your file through it and you're good to go.
+Now, to set up the stream, go to YouTube Studio, hit go live, choose schedule stream, fill in your title and
+description, select streaming software as the method, make the stream public, then go into stream settings and
+copy your stream key. Guard that key because anyone who has it can go live on your channel. Open Gyre Pro,
+click add stream, paste your stream key, add your YouTube Studio URL, upload your looping video, and save. Hit
+start and you're live. Now, go back to YouTube Studio, and if you see the live badge, it's working. Now,
+here's something most people don't realize. You don't have to be around to manage any of this. Gyre has a
+stream scheduler built in, which lets you schedule streams months in advance. And it goes even further than
+that. Jar lets you create playlists. You can also run vertical streams, which is huge if you're a targeting a
+mobile first audience or experimenting with different formats. And it lets you run multiple streams
+simultaneously on the same channel. We're not talking two or three. I've seen channels running over 100
+concurrent streams using Jar Enterprise Plan. The ceiling is basically whatever your content strategy demands.
+That's it. Rain and music, animated background, seamless loop, automatic file optimization, schedule streams,
+and 24/7 income running without you touching a thing. A massive thanks to Jar Pro for sponsoring this video.
+If you want to try it, you can sign up through my link in the description and get a 7-day free trial. And I've
+also negotiated a 15% discount code for you. You'll find it in the description as well. And one more last note
+before we end the video. Don't just try it for a week. Give more time for the strategy to actually refine
+what's working for your specific audience. Enough time for YouTube's algorithm to recognize your content
+format and start pushing it properly. And enough time to collect real analytics that you can build a long-term
+strategy around. The channels making serious money with this aren't the ones who tested it for one week.
+They're the ones who committed and let the system do its thing. What's up? It's Money Guy from the production.
+I'm a bit sick right now, but I'm here because I almost forgot to show the niche that's currently popping and
+going viral and that you can take advantage of. So, here's one of the channels. It's called Rothy and it's AI
+music for productivity. So, basically you just find your style, find your aesthetic style that you can use as
+your thumbnails and backgrounds in in the videos and generate music that's useful for people who want to be
+productive and and use that music while working. And there's this another channel, Productivity FM, who
+started just 3 months ago and already has videos with over 100,000 views. It it's minimalistic, it's targeted
+towards productivity. So, I wanted to show this niche because nobody is talking about it yet, and I'm sure you
+can get inspiration to start a similar channel or use this format or this niche and add your own spin and
+print in this niche. Okay, see you. Take care.

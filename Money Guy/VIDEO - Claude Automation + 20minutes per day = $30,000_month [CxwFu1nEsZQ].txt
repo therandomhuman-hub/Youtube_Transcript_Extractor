@@ -1,0 +1,127 @@
+Title: Claude Automation + 20minutes per day = $30,000/month
+Channel: Money Guy
+Type: VIDEO
+Video ID: CxwFu1nEsZQ
+URL: https://www.youtube.com/watch?v=CxwFu1nEsZQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T15:17:44+00:00
+
+Kind: captions Language: en This 2D animation format has been working for almost 2 years now. And with each
+new channel going viral, it proves that it's not going anywhere and that it's still one of the best formats to
+make money. However, the only problem is that to create a good video in this niche, you need a lot of images
+for every single video. But, it's not a problem anymore because before you had to generate each image
+manually, download each one separately, and spend a ton of credits in the process. But now, with Cloud Code
+and the new Higgsfield MCP, you can literally create these videos and automate the whole process in basically
+5 minutes. And no, I'm not saying that by following this video and copying everything I do, you'll make
+millions. That would be ridiculous, right? My job with this video and with this channel is to educate you and
+show you the newest technologies so you can be one of the first to learn it and apply it yourself. So, if
+you're ready to learn it, apply it to your style, your niche, or even your current channel, and maybe even
+make some money, let's start. So, how do you generate all those images efficiently, fast, and cheaply? Well, I
+dedicated an entire day looking through the internet, testing different tools to finally find the answer. And
+honestly, the end result just blew my mind because now you can see over 100 images in one folder. And these
+images were generated with just one prompt. And I wasn't able to just generate them. I was able to
+automatically download those images to my folder with that one prompt. And on top of that, each image has a
+timestamp, meaning when I'll go to the editing software, I can just check the timestamp here and put that
+image on the timestamp without worrying or having to figure it out myself where that image needs to be. So,
+how I made it? Well, for this to work, we'll need a Claude code and a Higgs Field plugin. And the step-by-step
+process is really simple. To illustrate how simple it is, I made this step-by-step guide document with all the
+steps that we'll make during this video. So, we'll set up Higgs Field account, install Claude code on
+computer, connect Higgs Field to Claude, add Higgs Field MCP to Claude code. This might sound a bit confusing,
+so don't worry about that because if you don't understand what some of these steps mean, that's completely
+fine. We'll go through everything step-by-step because when I tried it, I went through a lot of errors and I
+don't want that to happen to you. That's why I made this video so you could figure this out faster. So, the
+very first step is to download Claude code onto your computer. Go to your browser, search for Claude, head
+onto the page, and download it for whatever system you use. While Claude is installing, create a Claude
+account if you don't have one already, and once the installation is done, go to the Claude code section and
+we'll use it later during this video. But for now, let's connect our plugin, without which the magic would be
+impossible. And this is where most of the challenges began for me when I wanted to try this out myself. You
+see, recently I saw a video from Danny Whizzo, shoutout to him, and in that video he basically showed how to
+create images for a video using Claude and Higgs Field like I do right now. But that video lacked more
+information when it came to setting this thing up, you know? So, first go to settings on Claude and click
+connectors. Here, press the blue customize text and you'll land on a new page where you'll need to press the
+plus icon and press add custom connector. Name it Higgs Field and paste the link. After this, connect it with
+your Higgs Field account and click allow. If you don't have an account, make one. So, we've successfully
+connected Higgs Field to Cloud, but now, in order to actually automate the image generation, we need to
+install the Higgsfield skill to Cloud code. I know it might sound complicated. It was the same for me, and it
+is the same for me now. But, since I've already gone through it, I'll show it to you. So, go back to your
+browser and search for Higgsfield. Once you log in, find the section for MCP and CLI, and click on CLI. Here,
+you can see three commands that we'll need to base into computer's terminal, which sounds easy to do, but here
+is where I faced with a lot of issues. So, I'll show you how to fix those in case you come up with them, as
+well. So, open your terminal, then paste the first command and hit enter. That should install the CLI. But,
+for me, it showed an error that most of you probably going to face, as well. After some research, I figured
+out that I needed to download an additional program called Node.js, which lets your computer run these
+JavaScripts outside the web browser. After installing it, I pasted the command and got another error. And to
+fix that error, all I had to do was add a simple .cmd text to my command. I don't know exactly how that helps,
+but at least it does. So, then go back, copy the second command, and paste it. If the same error happens, just
+add the .cmd text again, and it will work. At least that's what worked for me. After hitting enter, it'll ask
+you to authorize access with your account. And then, the third and final command actually installs the
+Higgsfield skill that generates the images. I can paste the command, and if the same error happens, include
+the same .cmd. But, after this, your installation might still fail, cuz that that's what happened for me. So,
+again, I did some research and found that you'll need to install one more program. So, you'll need to install
+Git, but you don't need to actually go to any website. You can just type this command and it installed
+automatic. So, after installation, I retried the third command and it finally worked. And just like that, we
+are done with the fourth step. Now, if you have your script ready, which you should have, go and make a
+voiceover. And from someone who's made some kind of money from faceless YouTube, from different channels, what
+I would recommend is to use your real voice. That way you'll just stand out more. But, there are still tons of
+channels that are using AI voices to this day and it's not blocked by YouTube, so you can use it. Just make
+sure that the voice you're using hasn't been used before. Don't use the same generic voice everyone else does.
+So, maybe you can even clone your own voice to to be 100% sure that no one has used that voice before, you
+know? And if you want, you can use 11 Labs for that. I will leave the link in the description. They're not
+sponsoring me. It's just an affiliate link that will that will help me to get a few extra pennies if you
+decide to use 11 Labs. But, why am I even telling you this? Well, for the automated image generation to work
+flawlessly, the fifth step cannot be avoided. And it is to get your script ready with timestamps because those
+timestamps will tell Claude and Higgs Field exactly when, at what timestamp, to generate each image. It will
+also help us to navigate better and know where to place each image on the timeline based on the name of the
+image, which will be the actual timestamp, as you saw in my image folder where I generated my images. So, go
+to the Turbo Scribe AI or any transcribe tool and paste your voiceover. You'll get the transcript, as I said,
+with timestamps, and that's the fifth step done. Now, the sixth step is to use the one and only prompt we'll
+need for this video. And I didn't paste it into this document because that prompt is 11 pages long. But, I'll
+show it to you right here. Well, one more thing, you don't necessarily need to copy my exact prompt right
+here, if especially if you're trying to generate images in a completely different style. But, what you'll need
+is this structure and detailed instructions because you don't want to generate 100 images at once that doesn't
+match your style. So, if you want, you can copy this prompt one to one, or you can take it as a base, as a
+structure, and write your own prompt, yeah? So, I'll leave this prompt for my newsletter subscribers. Don't
+worry, it's completely free. You can just go to the description, press the link, subscribe to my newsletter,
+and you'll get this prompt to your email. So, first, what you'll need in your detailed prompt is to explain
+that your script is timestamped and that you will need an image for every single timestamp. As you can see,
+exactly one separate image for every timestamp in the script. And we want our images to be consistent and
+actually match what we speak in the voiceover. So, for that, we give some extra instructions to read the
+script first to understand the overall story, recurring characters, recurring locations, recurring objects. We
+have some more information about the timestamps. Make sure the AI doesn't miss any timestamps. So, you can
+pause and read it yourself if you need, or as I said, download it. We also describe our style. So, in my
+example, I'm using MS Paint style, very little artistic skill, poor mouse control. We also describe the
+format, horizontal, 16 by 9, describing the style even more, character design, objects and environment, color
+palette, text inside image. This is important because sometimes AI just decides to write a lot of words, you
+know? So So, you need to give clear instructions what he can do and what he cannot do. As you can see, do not
+include subtitles, captions, and so on. Composition rules, strictly forbidden styles, and that's pretty much
+it. So, now copy your prompt, paste the prompt into Cloud Code, paste your script at the end, and hit enter.
+Here, you'll be asked to pick a folder where you want the images to be downloaded. Then, just allow everything
+Cloud asks. For example, here Cloud asked me if it could check my Hicksfield credit balance. And it also
+calculated how many images there would be and how much it would cost with different image generators. I picked
+a more expensive one, but you can try a cheaper one. Maybe the result will be the same, I don't know. I
+honestly haven't tried it. I just know that Nana Banana Pro is a good option, so I chose it. And I clicked
+enter again, and the images started generating. And I was super excited to see the final result. And to be
+honest, it took a while until all those 100 images were downloaded onto my computer, but during that time you
+don't have to manually write the prompts because everything is done for you. You can do whatever you want in
+that spare time. Your input here, your work is literally just paste the prompt and then take those generated
+images into editing software. That That's it. After everything was done, you could see all the images were in
+a folder in a chronological order and named with the timestamps. So, I knew where each image should start on
+the timeline. So, now go to your editing software, add all your images and the voiceover, and just start
+placing the images. For example, I see the number six, that means this image has to start at the sixth second.
+Number 13 starts at 13 second and so on. So, I placed all the images, and for those who are curious, my script
+was on fishing topic. So, it took me 20 minutes to put it all together and here is the end result. >> There is
+a small carton sitting in your tackle box right now. >> I added a background music and as you can see the
+style is replicated perfectly. As you can see the images are consistent in terms of style and they illustrate
+exactly what the voice-over says. Most of the times the timestamps also were exactly on spot where it needs to
+be. 1920s as you can see based on the on the prompt the images don't have a lot of text as as the as in the
+prompt I I asked to have the text only if it's necessary. So as you can see here the text explains that here
+are worms. So that's it the step-by-step guide is done. We finished all the steps and this exact video took 20
+minutes of work to make. So so it really is a game-changer in the video creation process. I think it can even
+be used for not faceless channels. If you if you use images as a b-roll it will definitely make your video
+production faster. So if you want to try it out yourself you can click the link in the description and try
+Higgs Field. I believe you'll get some free credits when you join and I don't know I'll maybe try to get some
+discount code for you if if I'll be able to. So yeah just check the description if the and if there is some
+discount code use it. And if you struggle to find your niche or get views this video might be helpful for you.
+So give it a try. Let me know if you would like to see more videos in this simple editing style with my face
+and subscribe to this channel and to my other channels if this video was helpful. Peace.

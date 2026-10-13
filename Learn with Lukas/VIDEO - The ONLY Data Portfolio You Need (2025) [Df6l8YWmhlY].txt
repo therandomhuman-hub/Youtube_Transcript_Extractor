@@ -1,0 +1,82 @@
+Title: The ONLY Data Portfolio You Need (2025)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Df6l8YWmhlY
+URL: https://www.youtube.com/watch?v=Df6l8YWmhlY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T14:56:29+00:00
+
+Kind: captions Language: en I'm going to show you how to build a data science portfolio quickly one the
+companies love that can actually get you hired because while a portfolio is incredibly important and one of
+the most useful things to get a job in data science most people are doing it completely wrong they're
+basically just doing projects and putting them in a portfolio and then they send them to recruiters and this
+is not enough anymore and if you do this you will be lost without a job like so many people right now I'm
+going to show you a simple way with five different parts that will go over step by step to take a complete
+beginner to someone with a job ready portfolio that actually Works to become a data scientist and the first
+step is to just forget what you've been told and start over from scratch basically when getting a job it's not
+just about knowing data science or being able to solve complex problems it's not even about having all the
+skills because you're going for an entrylevel job what you need to do is match the skills that companies look
+for and most people get this completely wrong they spend time on skills that don't gain them anything in the
+eyes of a recruiter and after analyzing over 600,000 job listings here are the skills employeers actually look
+for from least important to most important and basically at the bottom here you'll find certain libraries and
+tools and they're usually quite specific and that's why only a fraction of the jobs include them now if we
+just go up a little bit you'll find Excel and powerbi here along with pytorch and Java at roughly 10% we then
+have tensorflow and Azure as the more important skills at around 20% of the job listings you'll then find taow
+and then you'll see that the next skill is our programming at roughly 40% of all the job list ings this is
+starting to look really interesting and even more important it's SQL at nearly 50% of all the job listings so
+if you don't know SQL you're basically not even qualified for 50% of the jobs but the most important data
+science skill out there right now is python which is mentioned in roughly 70% of all the job listings that's a
+very high number and it just means that python is probably worth looking into so what can we actually learn
+from this data right like our portfolio should include these skills again you don't need every single one and
+you're going for an entry-level job so it's better to specialize in a few but it does give us a pretty good
+indication of what we actually need now let's move over to creating some projects and it can be pretty hard to
+do a project in the beginning when you're just getting started as there are so many moving pieces to a project
+and that's why I recommend guided projects for example on corsera or on YouTube where you can just basically
+follow along here's a python example where you're going to be using Python and its library numpy and it's
+roughly 2 hours and you'll basically have your first produ project ready to go but eventually you want to
+start moving to creating your own portfolio projects and you still don't have to start from zero you can get
+inspiration from other people or other projects or even take a guided project and give it your own twist
+making it more unique to you and better for employers which will cover later once you have a few projects it's
+time to move on to creating your portfolio and also remember that quality always beats quantity here because
+recruiters are just human and they're short on time and they're only going to look at a few of your projects
+anyway having many media ocre projects can also ruin your chances of getting a job as it shows that you cannot
+focus on one task and do it well I would say that while there's not going to be any perfect number here two to
+four projects can be enough when you're getting started the best place to start your portfolio is either on
+kaggle or on GitHub and both are free but kaggle is kind of exclusively for data science and GitHub is more
+for developers than just about anyone but GitHub also has some more features so keep that in mind all you do
+is basically upload your projects with code your process your summary and then you're basically good to go
+something that's pretty important about kind of Simplicity and how you should structure your project is that
+if you as the Creator cannot understand what's happening in the notes by just glancing over it then you would
+assume that the recruiter is probably going to be left clueless so make sure that it's understandable and that
+it's simple and once you built some projects and kind of laid the foundation you can then move on to creating
+your actual personal portfolio website now this is going to be kind of a site that you own which you can
+present your projects in a more clear and customizable way on that kind of site I like to use platforms like
+Wix because they have some free templates but any site is going to do find the templat click edit and just get
+to work you don't even need to have any programming skills for kind of be a web developer to get this started
+now about the actual specifics you would usually put kind of a summary of the project including the core
+skills and perhaps some kind of visualization or image and then if they want to read more about the project
+they'll just click on the project and go to the full project description as before for example on GitHub or
+kaggle so keep it simple and it's a pretty easy way to just kind of get started have this beautiful storefront
+and then just kind of have your projects wherever it's most practical for you to store them now I also like
+this new portfolio site or I think it's pretty new and I'm not sponsored or affiliated with them in any way
+but it's free and you can basically upload your projects quite easily with a simple but beautiful portfolio
+template and it's going to take like 10 minutes and you can include your projects and even some information
+about you on the side as well and I think that even if you're not going to be using this specifically it can
+still be worth looking at this to kind of see how other people are structuring Ing and managing their
+portfolio now don't get caught up in the design yet because I don't recommend starting with your portfolio
+before you have some projects ready since that's what actually matters the most you don't have a good
+portfolio if you don't have good projects right but once you're done with your portfolio and you're done with
+your projects you'll need to understand how you can actually use and talk about your projects too because it's
+not all about just having a simple website right for example you could be asked questions about your projects
+how you did it what the idea was and the things you learned and learning how to present your project projects
+for example in an interview is a core part of your success the best way to do so is just by understanding what
+the recruiter is actually looking for they're not looking for the most beautiful design and they're not
+looking for the absolute key details of the project right they're looking to see how you're problem solving
+and applying your data science skills and it's completely fine to be honest about things that you struggle
+with what you learn from it and what you would do differently next time this makes you more likable and
+trustworthy and getting hired is not all about your technical skills it's also how well you would work with
+the team they're looking for all that stuff too too I'm going to leave a link in the description to my free
+data analyst road map including some guided projects for you to start with and also check out this video
+somewhere on the screen if you want more help to become a data scientist I think you do I mean that's why
+you're watching this video I think so so you might be a good fit for it

@@ -1,16 +1,16 @@
 Channel name: Money Guy
 Channel URL: https://www.youtube.com/@IamMoneyGuy
-Last updated UTC: 2026-10-13T01:57:05+00:00
+Last updated UTC: 2026-10-13T15:26:17+00:00
 Discovered in current scan: 42
 Manifest total: 42
-Transcripts saved: 12
+Transcripts saved: 24
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 12
+Resolved items (saved transcript or explicit no-caption outcome): 24
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 30
+Still discovered/pending: 18
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

@@ -1,0 +1,105 @@
+Title: How To Make Viral Skeleton Shorts With AI
+Channel: Money Guy
+Type: VIDEO
+Video ID: cAQeyRgQ48Q
+URL: https://www.youtube.com/watch?v=cAQeyRgQ48Q
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T15:23:33+00:00
+
+Kind: captions Language: en I found a brand new shorts niche that's widely pulling in millions of views using
+a genius strategy. Started just 2 months ago, this channel already hit 180 million views in a single month.
+And it's not the only one. New channels are blowing up in this niche right now. As someone who's made
+thousands of dollars with YouTube Shorts, I can tell you this is a perfect opportunity to go viral if you use
+the right strategy. So today, I'll show you how easy it is to create videos like these using AI. And I'll also
+break down the exact strategy I would use to start a brand new [music] channel in this niche, make it blow up,
+and start making money with YouTube shorts. When I first saw this niche, I was really surprised. The
+animations were weird. The scripts felt very robotic, like everyone could feel that it was done with AI, but
+surprisingly that still brought millions of views. How? Well, first of all, the unique branding of a skeleton
+covered in glass makes the channel instantly memorable. It stops people from scrolling and helps it stand out
+among all the other commentary style shorts. However, this is just the tip of the iceberg. The clever hook and
+actual content is what makes it go viral. The channel targets a broad audience by picking relatable ideas. One
+of which is stop wearing caps every day. This video got 13 million views in 8 days and the clever hook helped
+to achieve this number. Because as the voiceover says, the hookline clips show the bad consequences of wearing
+a cap every day. And if people wear caps, that makes them fear and wonder if you can really get bald and why
+you can exactly get bold. But even if you don't wear caps, you still want to see the progression, the
+day-by-day transformation of what can happen from the simple everyday and harmless looking action. Combine
+that with mysterious suspenseful music, and it makes it even more serious and engaging, making it impossible
+to skip. But the best part is that once you find a working pattern like this, you just need to replicate it
+with different ideas. What braces actually do, what if you never stop laughing, what if you never cut your
+hair? Are just a few examples that brought millions of views with the same format. But how do you actually
+come up with viral ideas like these so consistently? Well, if you're completely stuck, your head is empty, and
+you can't think of ideas on your own, that's completely normal and happens to all of us. So using chubby to
+generate ideas isn't a bad solution at all, but you have to train CHBT to give you solid ideas by feeding it
+your competitors viral videos and asking it to come up with new ideas using the same format and structure. I
+did the same for the show that I'm about to create in this video and got a really cool idea what would happen
+if you stopped blinking. But this isn't enough. You need a good script as well. And at this step, you can
+either spend 3 hours researching and writing it yourself, or you can use AI to do 80% of the boring work for
+you. Don't get me wrong, it won't replace you. You'll still need to review it and even rewrite parts of it
+yourself, but it gives you a strong starting point. So, for this short, I'm using today's sponsor, Tube Magic.
+To get the best scripts possible, I gathered transcripts from my competitors and added YouTube links as
+context directly into Tube Magic so it could analyze them. After that, I simply entered my topic and selected
+how long I wanted the script to be. The range goes from 100 words all the way up to 3,000 words, so you can
+easily match the length to your format. I chose 100 words because I didn't want the script to be longer than 1
+minute. What's also great is that the engine is powered by Claude, which is known for producing very natural
+human sounding writing. And here's the result I got. Yes, it wasn't perfect. I still had to tweak it a bit
+like with any AI tool, but it saved me how compared to writing everything from scratch. So, if you would like
+to try two magic yourself, click the link in the description. But now comes the fun part. The script was the
+last thing I needed to start creating the animations. So, leave me alone for a bit. I'm going to experiment
+and come back in a few hours. >> 2,000 years later. >> Okay, guys. I finally figured it out. When I started
+experimenting, my biggest question was, how do you create consistent characters that actually look real? When
+I looked at my competitor's shorts, the characters looked ultra realistic and always consistent. And I
+thought, I will never be able to make these myself. But after giving some time and testing multiple tools, I
+got results that looked identical, if not better. And now I'll show you the exact step-by-step process that I
+did to make the animations and the actual video. First, I went to Chad GBT to generate one main image of my
+character. This image becomes the foundation, the reference I use for every future image. That's what keeps
+the character consistent across all clips and all videos. So, I started by writing a long detailed prompt to
+make sure I got a good result. And the third generation wasn't exactly what I wanted. So, I added a photo
+reference for Chad GBT. And on the second attempt, I finally got the result I was looking for. With that image
+done, I now had my foundation. The next step was generating images based on the script. At first, I tried
+using a single prompt to automatically generate image prompts from the script. But I quickly realized that
+wouldn't work if the goal is to create viral videos. Chad GPT just isn't creative enough on its own to come up
+with funny, dramatic shots that spark engagement. And that's when it clicked. The creative part has to be done
+by you because the videos should always be by humans for humans. Only we can understand the best what viewers
+might enjoy and what would feel like a garbage content. So instead of relying on automation, I started writing
+prompts for each individual shot describing the idea and exactly how I wanted it to look. This way I had
+control over the creativity part, but AI did the boring work to make the prompt look clean and understandable.
+Within a few minutes, I had all the image prompts ready. Next, I needed a good image and video generator. My
+first thought was to use Cling AI, but after testing it, the results didn't look the way I wanted. The
+generations weren't very realistic. They felt more cartoonish. So, at that point, I had to take a step back
+because I still couldn't figure out how those clips were being made so realistic. But then I found Open Art.
+And one thing I liked immediately was that it lets you choose different models. So I selected Nano Banana Pro
+and used the exact same prompt I had used in Clingy just to compare the results. And when the generation
+finished, I was honestly amazed. It was a night and day difference. So I continued using Open Art to generate
+the rest of the images, always applying a reference image to keep the character consistent. Once I had all the
+images, it was time to turn them into videos. I stayed inside Open Art and switched to the V3 model. From
+there, I experimented with different start frame and end frame images to get the exact motion I wanted. For
+example, in one clip where the camera zooms into the skeleton's eye, I used a wide shot of the skeleton as the
+starting frame and a closeup of the eye as the end frame. Then I described the motion again in the prompt.
+After generating all the clips, I dropped everything into my editing software, added sound effects, text, a
+strong hook at the start, and dramatic music. And this is how the final video turned out. >> What would
+actually happen to your body if you stopped blinking? Minute 1, the moisture on your eyeball starts
+evaporating immediately. That slick protective layer, it's thinning out in real time. Minute 10, your tear
+film starts breaking up. Dry patches form like cracked paint. Your vision gets slightly hazy. Minute 30. The
+burning sensation increases quickly. Your eyes turn red. Every speck of dust feels like a shard of glass. Hour
+one. Your corneas are drying out. Micro scratches start forming every time you move your eyes. Light turns
+hostile. Screens look like headlights through fog. Hour two. Welcome to the blur zone. Your eyes start
+watering, but it doesn't save you. Those tears spill out like an emergency leak. Hour eight, your vision
+doubles and smears. [music] Your brain can't stabilize the image without blinking. You get a headache, feel
+nauseous. Hour 10, the damage isn't tiny anymore. You're entering infection territory because once that
+surface breaks down, bacteria don't knock. They [music] move in. Hour 24. Congratulations, you're vegetable.
+Your brain forces a shutdown. Involuntary blinking, tearing, eyelid closure, anything to protect the eye. >>
+Could it be better? I think yes. The voice over could be a bit more energetic. or maybe the main character
+could be a little bit different from the main competitor to stand out more. But this is exactly what's driving
+millions of views right now. And if you're going to create these to increase your chances of success even
+more, you can blend niches just like the creator scalped did. He started with the same format but added a
+twist. Instead of generic content, he focused on animal facts. That way, he targeted a different audience and
+didn't have to compete directly with already established channels in the same niche. If this was valuable and
+you want to learn more about YouTube, how to make viral videos and make money from it, you can click the link
+in the description to join my private community, YouTube vault. That's where I share all my strategies, my
+channels that I don't share publicly and new niches. In fact, this niche was first shared inside my school
+community, and you've only seeing it now because it takes time to create these videos. In those weeks, you
+could have already built a monetized channel with my help through the weekly calls I run there. But you don't
+have to join. In fact, I would even recommend to first try it out yourself because maybe it might work out.
+Who knows? But if you want to shortcut the process or if you have any doubts or questions that you want to ask
+me directly, the option is

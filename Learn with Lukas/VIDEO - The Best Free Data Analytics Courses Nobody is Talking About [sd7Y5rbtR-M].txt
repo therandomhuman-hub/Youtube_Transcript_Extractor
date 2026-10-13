@@ -1,0 +1,83 @@
+Title: The Best Free Data Analytics Courses Nobody is Talking About
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: sd7Y5rbtR-M
+URL: https://www.youtube.com/watch?v=sd7Y5rbtR-M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T14:55:58+00:00
+
+Kind: captions Language: en You're wasting hours searching for the right data analytics course and there are
+hundreds of options and it's just exhausting. But I found the best free courses that nobody really talks about
+and they're all you need. So course one and I visited this popular data website hundreds of times without
+noticing this feature and it's not even secret but no one knows about it. When I told people of this they all
+stared at me and the question is how do we all just miss this opportunity right in front of our eyes? Let's
+head over to Kaggle. And this community platform allows users to upload their projects, their data, join
+competitions, and much more. But at the very bottom of the page, it says learn and nobody ever goes there. But
+take a guess what's in there. There's actually courses. Because of the nature of the website, Kaggle has some
+very unique insights into what's going on in data. And they were quite disappointed in other courses and then
+decided to create their own Kaggle courses. Hear this. Gain usable skills in a few hours instead of a few
+weeks or months. The courses are provided at no cost to you and you can earn free certificates. Yes, free
+courses with free certificates. Like seriously, where else can you find that? Aspiring analysts can take their
+courses on, for example, Python, pandas, SQL, database, and much more. So, I do think it's a really good
+option, but here's my kind of final rating. Getting free certificates is extremely unique, but the courses are
+too short to actually become job ready. and the other courses in this video are more in-depth. So, Kaggle gets
+a seven out of 10 from me. Course number two, what if there was a platform allowing you to practice all of the
+key data analytic skills including SQL, Python, R, Excel, and more with a mix of tutorials and hands-on
+practice, and do it 100% free. That's Wii3 schools. Now, the site looks very outdated and that scares people
+away, including myself at times, but it's really a hidden gem with hundreds of lessons and even more hands-on
+practice for all areas of analytics. This website alone is actually practically enough to learn all data
+skills completely for free. But yes, I'm going to be honest, it's not the best website from a design or from a
+usability standpoint. Still, just from focusing on the learning, my score is really, really high. 8 out of 10
+in my opinion. Course number three, AI has actually helped me learn faster than ever before. And I know that
+we're all kind of annoyed and just there's just so much talk about AI, but AI is literally like having a
+private tutor that never gives up, never makes you feel stupid, and knows literally everything for free. But
+no, this is not some kind of new AI hype scam new bot thing. And I think that many new AI tools are overly
+complex and often requires paid subscriptions. Instead, you actually only need the free version of chat GBT or
+something similar to learn data analytics. What you want to do is you want to open up a prompt and you want to
+write, "Hey, I'm learning data analytics. I'm a beginner looking to learn the exact skills and get a job fast.
+I will ask you questions as I'm learning. Can you please help me out and be concise?" Now, once you've written
+something like that, you've got your tutor pretty much good to go. And here's where it becomes really
+powerful. So, you can now tackle any YouTube course or advanced project or anything that you want to do with
+the help of your AI tutor. You can ask for help. You can ask for more complex problems if you want to solve
+them or just bounce ideas back and forth. I do this all the time and I think it's really one of the best ways
+to learn. So, this is not an actual course and I don't really have an rating for this one, but there's a clear
+difference between kind of tutoring somebody, which the AI should be doing, and just handing you the answer,
+which is a really bad thing. So never rely too much on it or it's going to harm your learning. Of course, we
+need to embrace AI, but at the same time, we don't just want to give it all the problems and ask them to solve
+them. Course number four, and this is for all of you students out there. Money is often tight, but no problem
+because you can get Data Camp premium for free as a student, and it's the most popular place to learn data
+skills, and you have the premium subscription, so it's a pretty good deal. If you want to know how to do this,
+GitHub actually has a free package for students called the GitHub student developer package. And to get it,
+all you have to do is you sign up with your educational email on GitHub. And then you get verified. And once
+you're verified, you can access a lot of different freebies. And one of these free things that you can get as
+a student on GitHub is going to be Data Camp Premium. And there's literally no risk. No credit card is
+required whatsoever. And once you're just verified on GitHub as a student, you just want to link your account
+with Data Camp and you're pretty much good to go. Because after you link your accounts, you can sign up for 3
+months of full premium access at Data Camp with no charge and no cost whatsoever by just completing their
+simple checkout form. I do want to note that this offer can only be used for students and can only be used
+once per user. And your GitHub email address should be the same as on Data Camp. Simple as that. Enjoy. Course
+five. Harvard University actually made free data courses. Yes, the top university that charges students a
+ridiculous 54,000 per year to hear professors ramble on site. It's giving it for free. Now, there is of course
+other advantages to going to Harvard like the networking, but you can actually get the same quality education
+for free from the comfort of your own home. On their website, Harvard actually offers you three pages of data
+courses. most are kind of focusing on data science and not really data analytics. You can still use many of
+them as many skills are going to overlap. For example, their course on R programming even though I personally
+prefer Python. But here's my secret when learning from universities. So, universities usually focus more on
+the theoretical side and that's why so many graduates feel quite lost. The skills aren't directly applicable
+to their day-to-day job tasks. But at the same time there's a very strong benefit because suppose that you
+found a difficult concept that you want to learn and really understand better. Then learning from a research
+university like Harvard is literally perfect and these professors know all about the theoretical stuff. All
+right, so course number six and sometimes the opportunity is right under our nose. And I couldn't believe it
+when I was told that there's a platform with over 8,000 free courses just waiting for you to start learning.
+And that's actually Corsera. There are going to be some exceptions, but 99% of the courses on Corsera are
+completely free to audit. And this means that you get access to all the material except the final exams. And
+you can also not get a certificate, but they do offer some financial aid things which gives you everything,
+including a certificate if that's of concern to you. Now, my big warning here is about motivation and focus
+because I've been struggling with this a lot when dealing with Corsera. Corsera has a course about literally
+everything or probably 10 courses about everything and that's really good and it's a great to have you know
+all the amazing selection but it's also really easy as a distraction. I've started probably 100 well not
+really 100 but almost 100 courses and many of the courses I didn't finish because I got distracted and I tried
+something different. So decide on the best course for improving your skills and then complete it step by step.
+Now for the best data analytics certificates, click here to watch this other video somewhere on the screen.
+And I wish you all the best on your journey learning data analytics.

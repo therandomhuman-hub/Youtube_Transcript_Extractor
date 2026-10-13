@@ -1,0 +1,82 @@
+Title: The End of Data Analyst Jobs (What No One Is Telling You)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: nplotMcMZJE
+URL: https://www.youtube.com/watch?v=nplotMcMZJE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T14:54:28+00:00
+
+Kind: captions Language: en The data analytics job market has collapsed and not for the reason you might
+think. Everybody's blaming AI and competition, but that's not the entire problem. The truth is much worse. And
+the people at the top, they don't want you to know about this stuff. But here's the crazy part, right? So,
+even as jobs disappear, beginners are still landing data analyst roles, even remote, by doing something
+different. The year is 2021 and Google just launched its first data analytics certificate. Learning has
+changed forever, they say, and thousands of people enrolled to prepare for their new careers. But some people
+are panicking, saying, "Google, do you realize what you've just done?" And they were right. Because since that
+day, data analytics has never been the same. Now look, Google had good intentions. They launched their course
+to bring more talent into the field because universities weren't giving people the right skills. So, Google
+came to the rescue. But then it suddenly went way too far and other companies started to join the game. They
+launched courses, boot camps, and they all promised to make you a data analyst. The promises got more and more
+extreme. And at first, it was get a data analyst job in 6 to 12 months if you're good at it. And then it was
+do it in four months and 3 months without a degree, without experience, without anything, without a brain. And
+suddenly a niche filled with data nerds became very mainstream. And it brought us to today with tutorials on
+YouTube how to work 2 hours a day in Bali as a data analyst, working from the beach, earning six figures,
+living the life because everybody now wanted to become a data analyst. But what's the reality actually like?
+Well, surprise, surprise, people had very unreal expectations. hearing lies about this perfect career for
+beginners. And here's the first problem, guys. So, remember that everybody has incentives. I'm talking about
+companies, core sellers, and influencers. And people whose entire YouTube channel is all about analytics have
+no reason to tell you the truth whatsoever. They're always going to say that data analytics is the best
+career, that it's the way for success. Even my own videos and partnerships would perform a lot better if I
+just kept my mouth shut. And that's a problem. But here's the real problem. Okay, so AI has not replaced data
+analysts, at least for now. Even though you've likely seen a 100 videos talking about AI, and it's always 20
+minutes of talking or rambling, ending with, "Keep up skilling because I know as little about the future as
+you do. So, let's calm down, okay? There are still jobs in data analytics. The jobs haven't disappeared." So,
+why does everybody feel like data analytics is dying? Well, back in the good old days, and these are just made
+up numbers. Let's say that a 100 people were applying for a job, and the company was hiring three people. That
+means that 3% of the candidates were getting a job and they were getting hired. These three people are very
+happy while the others continue looking for jobs. And many of them will eventually find a job, too. But some
+are going to be really angry. They'll be loud and they'll complain. And even if only 10% are very upset, these
+10 angry people will make the most noise out of all these people. The ones with a job are already busy
+working. So 10 people complain and the rest are just silent. So everybody's now thinking that it's impossible
+that nobody's getting hired thanks to these people. And now imagine today when that number is tripled or more
+with more than 300 people now applying for the job. There are still only three people getting hired, but there
+are now 30 angry people. So, yes, the level of competition has tripled. It's been a lot harder than before,
+and that's a fair thing to say. But people are still getting jobs. The jobs themselves didn't vanish. The
+competition just increased. And that's the reality. But look, there's another problem, and I hate to break it
+to you. Most people are not made for data analytics. And yeah, I'm sorry, but somebody had to say it. you
+might be a great fit yourself, but people should reconsider if they're only doing it for the remote job for
+the other benefits because that was a good incentive when the job wasn't very competitive. But when a job is
+competitive and when it's entry level and you'll fight for a position against really passionate people, it's
+going to be quite hard and passion always wins in the end. So, if you do want to become a data analyst and
+you're ready to go all in to achieve that, then here's exactly what I would do. Number one sounds really
+simple, but it's quite hard to do in practice. So first of all, ignore all the noise. If you made the decision
+that you will pursue data analytics, you don't need to read negativity or listen to those complaining. Stop
+scrolling completely. Block it out and surround yourself with ambitious, dedicated people. Number two is to
+accept the reality. Right? So while negativity is of course bad, extremely false positivity like we see online
+sometimes is just as harmful. The reality is that it's pretty challenging and that's how it is. You can still
+do it, but it's going to be much more demanding than in 2019 or 2017. So, accept the reality and be ready to
+face it with all of your power. And number three is to focus on the basics, but do it better. Learn, build a
+portfolio, iterate, do it better than before, because it's going to take more than before, and it's still the
+way to go. You'll just have to do it a little bit more and a little bit better. Getting a certification can
+also be quite helpful. The risk here is focusing on the wrong certification or thinking that it's magically
+going to get you a job, which is not the case. Here's how to get a valuable certification. And it should focus
+on the data analyst role or a key skill like SQL. That's pretty much the secret. It should really focus on
+something that they're actually looking for. All right. So, where do you start? It's quite simple. Company's
+priority is not how much SQL syntax that you've memorized. It's whether you can think and operate like a data
+analyst. So, I recommend that most beginners take a general course or a kind of general certification. But
+there are those that offer both. For example, the Tableau and PowerBI data analysts are very good options
+because you're going to be focusing both on the core skills of data analytics in addition to specializing in
+either Tableau or PowerBI. The skills required for data analysts have mostly stayed the same over recent
+years. But everything's moving to the cloud, meaning platforms like Azure and AWS. So, I recommend using some
+of these in your project to show some basic proficiency. It's a good way to let recruiters know that you're
+actually passionate, that you're not just learning the basics, but you're also ready to keep up with any
+changes in the field. And then let's move on to number four. So, it's quite easy to feel helpless, like your
+career is like a lottery ticket, and there is luck involved, but you can also 10x, 20x, or even 50x your
+chances doing the right thing. And it's free, which sounds pretty cool. One way is to start a blog in any
+form, whether it's video, audio, or writing. share your projects and talk about it, for example, on Medium,
+because 95% are still not doing this. And you're going to stand out from the crowd, guaranteed. Because just
+think about it, right? What's going to make you stand out if there's a 100 candidates that have a simple
+portfolio? Could it be your unique dedication to writing a data post once a week? Or your magnificent
+portfolio that just beats the competition, or your personalized letters and your strong networking skills, or
+some experience that might actually be quite valuable? Whatever it is, find your edge.
