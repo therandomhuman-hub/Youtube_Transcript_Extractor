@@ -1,0 +1,96 @@
+Title: Do THIS instead of endless tutorials - how I’d learn SQL FAST in 2025
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: aH0moEMsIRU
+URL: https://www.youtube.com/watch?v=aH0moEMsIRU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:32:42+00:00
+
+Kind: captions Language: en the fastest way to learn SQL is not what you might think but why even care well
+with SQL you can stand out and get a job in data it first appeared in 1974 over 50 years ago and wow time
+flies we use SQL to manage relational databases and imagine massive spreadsheets that store data in a
+structured format with rows and columns now here's a word for you syntax refers to the rules of a language and
+SQL has an easy syntax that you can pick up quite quickly and it's like basic English you select data from a
+table where certain conditions are true simple right so why is everybody struggling to learn a SQL well the
+short answer is they lack a clear plan or their plan just sucks they dabble around and get stuck in a loop of
+learning but not you after watching this video so back to SQL in Excel you can modify your data manually you
+just select one of the cells anywhere on the sheet and change it manually but SQL is different and it's a
+query language used to communicate with your database indirectly where you'll write SQL code when instructions
+which then tells the database what to do and why is that the case right I mean it sounds like you're over
+complicating things yes at first it is more complicated to write SQL you have to learn a whole new language to
+do basic stuff but in the long run SQL becomes way more efficient because first of all it can handle larger
+data volumes and once you know the syntax you can do some really cool stuff quickly so now the first step in
+learning SQL is to install it on your computer really and you're going to need a software called dbms or
+database management system to do so there are four main dbmss and it's postgress SQL myql SQL light and
+Microsoft SQL server and while that's confusing which one do we choose but it actually gets even worse because
+each database management system has its own type of SQL as well and you cannot run the same SQL code across
+different database Management Systems so if you think it sounds like a mess then yeah it very much is but
+here's why there's a reason so back in the 1980s when SQL was first developed each vendor already had their
+own type of SQL to manage databases and they' created this SQL for themselves to just fit their system and
+these were very different compared to each other and pretty hard to switch in between so some smart people
+decided to create a standard form of SQL which later became the official SQL language so great now we can
+switch to a universal form so you don't have to learn different types of SQL or so we thought the problem is
+that no vendor is entirely following it what but thanks to the SQL standard the differences are quite minimal
+nowadays and it's pretty simple to go between them and today each version is called a SQL dialect so back to
+the question right which one should you choose according to data from stack Overflow reporting on the most
+popular database Technologies in 2024 number one was postgress SQL reported at 48% we then have MySQL at 40%
+and sqlite at 33% and finally Microsoft SQL server at 25% so I recommend postris SQL because of X Y and Z okay
+no it's just popular it's also close to standard SQL and it's going to be pretty easy to learn any form of SQL
+if you just need to my SQL is also a great choice a very popular one for ERS and it doesn't really matter too
+much just get started with one moving to step two and the next big mistake people make is studying like you
+have an upcoming exam let's say that you're learning Spanish with a friend and your friend is going to read
+the textbook repeatedly practicing every word of the textbook and spending hours and hours on grammar that's
+going to be a really terrible experience but your friend has decided to do so and you on the other hand will
+put yourself out there talking to native speakers you'll sometimes struggle and feel stupid ending up in
+awkward situations but you'll use the language in real situations watch movies and Google up grammar or words
+when you need to who's learning faster do you think you don't need to remember every word or Syntax for SQL
+and you're going to learn this stuff automatically as you practice because you have to so instead I would
+focus on the fundamentals of databases and SQL Theory when you get started which includes how databases are
+made up and how SQL actually works how do you store data properly in your database so that it's easy to
+retrieve while taking the least amount of space and you could probably learn the basic theory in in a couple
+of hours all right so now you've got the database fundamentals down and then you may proceed with the next
+step which is learn basic SQL commands and how to interact with the database now we're still not cramming any
+SQL syntax but you'll of course need to understand how SQL statements work to be able to achieve anything this
+is where we start and writing and customizing actual queries like select everything from table where X is
+greater than five you'll query data from your database which means retrieve it and manipulate or edit tables
+you'll Implement some filters and recing work with multiple tables and try to join them together and playing
+around to really understand SQL is great so don't be afraid of making mistakes and figuring things out as you
+go and that brings us to step four and I've analyzed how people actually learn SQL and the number one thing
+that people regret that leads to wasted months with no progress is that they didn't practice soon enough and
+when they did practice it wasn't the right way there are great SQL courses both paid and on YouTube for free
+but practice is about problem solving an imperfection so start doing projects ideally start with an idea and
+go through it yourself and when you don't know something you'll have to find it and so you will and you're
+going to learn so much from doing this you can also do a guided projects as it's quite easy to start where
+it's kind of like a project where the steps are already laid out for you and you can follow along with the
+instructor over video now I also like following a learning path and having a very clear goal and hands- on
+practice is really the key when learning SQL and that's why I choose data Camp data Camp's SQL fundamentals
+learning path covers everything you need to to master squl from beginner to Advanced all in one place what I
+really like about the platform is that it's fully interactive so you're not just watching tutorials but you're
+actually working real projects and coding directly on their site helping you learn by doing and really
+building confidence data Camp is sponsoring this video and if you're serious about SQL I highly recommend
+there SQL associate certification which is going to test your skills in SQL with a timed exam and also a real
+world project to complete in 30 days it's the perfect way to prove your abilities and take your SQL
+capabilities to the next level so check the link in the description to join data cam for free and start
+working on your SQL certification and now we're moving to part six and I'm going to answer the most important
+question ever to learn SQL when is it enough if you don't know when you've learned enough SQL you'll never be
+done you'll always be learning SQL and you'll be stuck learning SQL forever and I mean it's quite fun to
+practice SQL but that doesn't sound so great so I'm going to give you the best answer that I can if you know
+the fundamentals you can pretty much Google just anything you don't understand except for in the interviews so
+here are three things that you'll be asked during interviews and you need to know these three things number
+one is going to be database fundamentals do you understand the theory and how databases actually work you
+don't have to be an expert but you should be able to at least understand everything in a beginner course about
+databases and SQL there are great options on YouTube to test your knowledge and brush up on any areas where
+you're lacking number two do you know the SQL syntax I know that I spoke about well it's not a great idea to
+memorize everything but for interviews you're going to have to memorize some of it do you understand the SQL
+language and its features from select statements to window functions but again like when you practice you're
+naturally going to learn this so I would avoid cramming too much and just focus on solving problems and number
+three is going to be SQL application can you apply SQL to whatever you're doing if you're a data analyst can
+you independently clean organize and analyze data with SQL this is job specific and requires a understanding
+of the other two and you need database fundamentals and SQL syntax and specific problem solving skills for the
+case that you're using SQL 4 to make it really effective remember that companies don't really care if you know
+SQL they care that you can do the things that they want to do to help them improve their business so being
+able to apply it to the specific use case is very good if you're on the fence I would also review some
+interview questions to see if you're ready but also check out this other video recover another sequel course
+that you might be interested in in detail and it's helped a lot of people learn sqls so you might want to
+check it out and uh if not thanks for watching and I'll see you in the next one

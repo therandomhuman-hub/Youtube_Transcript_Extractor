@@ -1,0 +1,62 @@
+Title: Can You Become Data Analysts Without a Degree?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 1V3bvccOHx4
+URL: https://www.youtube.com/watch?v=1V3bvccOHx4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:31:40+00:00
+
+Kind: captions Language: en can I become a data analyst without a degree and the answer is yes but most people
+don't realize that you must do things differently to succeed in this video I want to show you exactly how you
+can become a data analyst without a degree but if you already have a degree I mean this is going to make it
+even easier so first we need to understand the purpose of a degree and it's just for employers to filter
+applications it's really as simple as that they get a ton of applicants and they're asking for a degree to
+kind of reduce the workload it's not a bulletproof strategy by any means and we can discuss that later but
+it's the one they use but degrees aren't always necessary and deep down employers don't really care about the
+degree it's just a way for them to see that you can do the job and they're actually looking for your skills so
+if you can focus on learning the key skills you'll go a long way I cover it in another video but just quickly
+it's sequel python Excel and a visualization software learn the key skills and to think like a data analyst
+and actually learn it don't just watch videos but actually apply it there are plenty of resources and honestly
+universities are not able to keep up with the changes while a recent graduate might be better at certain
+theoretical stuff you can become an expert at the Practical real world analytics and stand out that way try
+competing where your strengths LIE there's so many online resources that you can use nowadays like corera
+YouTube and plenty of other free platforms as well but unfortunately what's going to get you a job is not just
+knowing the skills you'll need a way to be a credible candidate to be able to show that you can do the job the
+best way to do this is by doing projects which I've talked about a million times but it is the best way to
+both learn and showcase your skills in a relatively realistic scenario if you want to break into a certain
+industry I recommend you do projects from that industry as a company can just look and see oh wait he's
+already doing the things that we're doing day to-day that's incredibly valuable now this video is not just
+about projects you can also get a certification and I would personally go for projects first as some people
+make the mistake of thinking that assert is going to fix every single problem it's just like a quick fix or a
+booster but it's not the complete solution there are courses with certificates of completion that you get
+after finishing them and these are good but it's mainly for your own motivation right the real certifications
+are those that you get from taking an exam for example from companies like Google and Microsoft I've made a
+video on these which I'll link you to at the end now the goal of a certification is just like with projects to
+show that you're proficient in skills that employers are looking for so make sure that your certification
+actually overlaps with the key skills that we talked about now if you're starting without a degree you're
+going to be facing some challenges that people with a degree can avoid right your applications might sometimes
+get stuck in the automatic resume scanning system and it sucks because you might just be as qualified or even
+better than somebody else with a degree something you can do is leverage your transferable skills from other
+position even if it feels completely irrelevant it might not be if you could frame your experience and kind of
+extract some experience in a way that could boost your profile such as being Solutions oriented analytical
+creative or a great communicator that could actually boost your profile even if it's not like you worked with
+SQL or python the next thing is something that you can do just as well if you don't have a degree and it's to
+network I know the word just sounds scary like you have to go and put yourself out there but really you're
+going to learn a ton meet some nice people and perhaps find some opportunity that way if you know the right
+person you can actually skip the traditional hiring process and get straight to an interview and this can be
+made easier by building a strong online presence as well something to make you stand out now I don't recommend
+you start posting content and get distracted from your actual journey of analytics but rather what you can do
+is when you create a project or something like that you could share it on medium and you can make a post about
+it on LinkedIn just showing the world that you actually did something we like to think that other people track
+us but in reality everybody's busy with their own stuff and if you start sharing your things nobody's going to
+judge you you're going to learn a lot and perhaps get new connections and honestly even if they do judge you
+then who cares the most important thing is that you stay consistent though and this is the number one problem
+that I see because it's pretty hard to be establish a routine that's going to work for you long term and don't
+get stressed over it try to make a habit of studying and practicing regularly at a pace that's okay for you if
+you have a full-time job or a family then don't expect to study like 6 hours a day it's just not going to work
+long term and it's much better to be a realistic and set a schedule that you can actually stick to but I do
+want to leave you with some encouraging words because know that it's absolutely doable it's of course way
+easier to get a job with a degree but plenty of people have transitioned into data analytics without formal
+education and they're doing it every single day if you're you're dedicated then you can do it all right that's
+it bye

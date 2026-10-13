@@ -1,0 +1,102 @@
+Title: I Made These Motion Graphics Videos Inside One Claude Chat
+Channel: AIpreneur
+Type: VIDEO
+Video ID: upmuvx_hrns
+URL: https://www.youtube.com/watch?v=upmuvx_hrns
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:01:33+00:00
+
+Kind: captions Language: en YouTube's algorithm has never watched a single one of your videos. It cannot see
+your edit, hear your voice, or read your script. It watches one thing, what people do the second your
+thumbnail appears. Scroll past and the video is dead before it exists. Everything you just watched was made
+inside one claw chat. No After Effects, no image generator, not a single video credit. In my last video, one
+30- secondond clip cost me a batch of flow credits and two or three days of waiting. This one took a few
+minutes. Every word is drawn by Claude, so it's spelled right every time. And it comes in different styles
+that I call by name. Today, I'll show you how to build the same thing. You fill in a few blanks, Claude builds
+the skill, and you make a full video with a voice over all inside one chat. and at the end I'll use it to make
+a full video about the one thing YouTube's algorithm actually watches. Welcome to AI Prreneur and let's get
+started. First thing, open your Claude account. In the left sidebar, click on your profile, go to settings,
+then capabilities, and turn on code execution. Without it, Claude can write the code, but it can't run it. So,
+you get no video. Now, before anything, we need to build a skill that will enable us to produce videos within
+Claude. So, open a new chat and paste this prompt that tells Claude to write the master prompt that builds
+your skill. Now, change the blanks with your own styles and hit send. And in a few moments, you'll get a
+master prompt built on your instructions. For me, AI and YouTube videos, a skill called motion graphics, my
+five styles, every style with its colors, fonts, and motion, and the whole workflow around them. Nothing is
+built yet. Now, copy that build prompt, open a new chat, and paste it. that directs Claude to build your
+skill. Hit send and let it work. In a few moments, Claude starts writing files, running code, and rendering.
+This part takes a few minutes, so let it work. And here's what comes back. A 4-se secondond sample in each of
+the five styles. A contact sheet with all five side by side, and one file, motion studio.zip. And look at
+these five completely different styles with a clean white grid with a red video card, a torn paper collage on
+cream, a glowing glass panel on a night sky, a grid of tiles with a lime highlighter, and a bold neo brutal
+card with everything slammed onto yellow. That zip is your skill. Now, let's put it inside Claude. In about a
+minute, it becomes a command you can type. First thing, get the file out of the chat. Click the Motion Studio
+zip and hit download. Now, here's the one rule. Don't unzip it. Claude wants the zip exactly as it is. Now,
+look at the left sidebar and click customize. Inside, you'll see skills. Click it and you'll land on the list
+of every skill in your account. Next, click add. Then, upload a skill. A file window opens. So, find your
+downloads folder. Pick motion-studio.zip and hit open. And watch what happens next. Claw doesn't install it
+straight away. It shows you a preview of what's inside. and it runs a security scan on the files. Then confirm
+the upload. Now the skill opens on its own page. Take a second to look around. You'll see the instructions
+file, then the scripts folder, then the engine, and one file for each of the five styles. That's the whole
+skill and nothing in it is hidden. And make sure the toggle on this page is on. If it's off, Claude won't see
+the skill. Now, let's check that it actually works. Open a new chat. In the message box, type a slash and a
+list pops up. pick motion graphics from it. Then right after it, type list styles and hit send. Look at this
+loaded skill motion graphics. And under it, all five styles, each with one line telling you what it's for. So
+the skill is alive. Now let's order something from it. I'm going to test three of them. And you can follow
+along with the same prompts. We're starting with the bento grid style, which is made for numbers and lists.
+So, open a new chat, type a slash, pick motion graphics from the list, and then paste this prompt under it.
+This time, we're just asking for a video without a voice over, just a script. Now, hit send. In a few moments,
+Claude starts processing and returns a 9-second short video with a keywords highlighted in Lime. And since my
+script has no figures, the tiles show step numbers, not invented stats. Next to it, there is an SFX cues
+table, every sound effect with its exact timestamp. Now look at this short video. Each line builds in tile by
+tile, a step number, the sentence, a mini chart. Then the board clears for the next one, and the last line
+stays on screen until the very end. Clean, right? Now watch the same skill. Do the exact opposite. Next, Neo
+brutal. Same thing. New chat. Type a slash. Pick motion graphics and paste this prompt and hit send. A few
+moments later, Claude starts rendering and comes back with a 7-second short video in four bold cards, and Q's
+SFX table that match this style with a heavy thud on every keyword. Look, each keyword slams on as a colored
+sticker. And the last line, boring is what works, freezes until the end. Now, the last one, editorial collage.
+Same thing. Send this prompt and hit send. In a few moments, Claude will return with a 7-second short one torn
+paper card per line. Look at this strip of orange paper sweep in. And each line lands on a torn card with its
+keyword fading in orange. And the last line, they'll come back, stays until the end. And Claude even suggest
+the sound effects for you in the Q's SFX table with every sound matched to a moment in the video and its exact
+timestamp. Short silent tests are easy. The real question is, can it handle a full video with your voice, your
+script, and a scene you want to change? Let's find out. For this one, I'm testing the YouTube clean style
+because the video is about YouTube itself. So, open a new chat. This time, let's call the skill a different
+way. Click the plus button at the bottom of the message box. Go to skills and choose motion graphics. Now, add
+your voice over. Click the plus button again. Choose to add a file and pick your audio. Mine is 27 seconds on
+how the YouTube algorithm really judges your video. A quick honest note, the longer your voice over, the
+longer the render takes. This one took a few minutes. Then paste this prompt that tells Claude exactly how you
+want to see your story. Now hit send. In a few moments, Claude measures your voice over, times every line, and
+comes back with a storyboard table plan. Look at this. Seven scenes, each with its timing, its voiceover line,
+the text that goes on screen, and what you'll see, nothing has been rendered yet. This is where you change
+anything you don't like because changing a row here costs you nothing. And read the note under the table. The
+standard YouTube clean style has no closed eye and no full screen feed. So Claude builds a version of YouTube
+clean just for this video with the same colors, cards, and transitions. Now, if the plan looks right, type
+approved. A few minutes later, here's what comes out. An SFX Q's table with a soft swoosh when a card enters,
+a click when the keyword lands, and a scrub swipe on the way out. Each with its exact timestamp, and a
+27-second video with your voice. Look at this. The red card sinks under a stack of gray ones, never buried for
+a bad video. And the last frame brings it all back. The closed eye, the red card with a red frame around it,
+and buried for a bad first frame, holding until the very end. Now, what if you like the video, but one scene
+isn't quite right. Watch this. Scene five is click and leave after 4 seconds, and Claude drew it as a card
+with a clock on it. I want it to look like a real video player timer. So come back to the same chat and paste
+your fix prompt and hit send. In a few moments, Claude rerenders only scene five and saves it as version two.
+Version one is still there. And look at this. A big timer counts up while the red bar fills. Then the bar
+snaps back to empty and the whole card fades to gray and the other six scenes are untouched. In a 27-second
+video, this didn't save much time. The real win is control. You change exactly one thing and nothing else
+moves. And on a longer video, rerendering one scene instead of all of them saves real time, too. The visuals
+are done. Now, one quick pass in Cap Cut, and this goes from good to premium. Open Cap Cut, start a new
+project, and drag in your video. Your voice is already inside. Open your SFX table next to it and pick just
+three moments. The click when watched lands, the ticks on the timer in scene five, and the swipe into the last
+scene. Move the playhead to each time. Go to audio, then sound effects, search the name, and drop it in at
+around minus12 so the voice stays on top. Add a soft music track under everything around minus 18 with a fade
+in and a fade out. Then some small touches like cutting the music half a second before the last line. So
+buried for a bad first frame lands in silence. And add a slow zoom on that final frame. No captions, no extra
+transitions because Claude already did that part. Export at 1080. And here's the finished result. YouTube's
+algorithm has never watched a single one of your videos. It cannot see your edit, hear your voice, or read
+your script. It watches one thing. What people do the second your thumbnail appears. Scroll past, and the
+video is dead before it exists. Click and leave after 4 seconds, and that is worse than dead. You were never
+buried for a bad video. You were buried for a bad first frame. >> That's the whole thing. One prompt to build
+a skill, a few clicks to call it, one sentence to fix a scene. If you want the exact prompts from this video,
+just type skill in the comments and I'll send them to you. And if you missed part one, the flow version or my
+other way to make motion inside Claude, both are right there on your screen. Subscribe and hit the bell so you
+don't miss what's next. Thanks for watching. See you there.

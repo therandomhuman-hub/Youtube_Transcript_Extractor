@@ -1,0 +1,141 @@
+Title: How to make faceless Youtube channel with AI (free guide)
+Channel: Money Guy
+Type: VIDEO
+Video ID: mI4i35Mxi8s
+URL: https://www.youtube.com/watch?v=mI4i35Mxi8s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T18:02:41+00:00
+
+Kind: captions Language: en This might change the way you look at making money with YouTube because I bet you
+didn't think what this channel did was still possible in 2025. I don't want to waste your time anymore. So,
+just look at this channel. 2 million views and at least $10,000 made from just one video that you can create
+in 1 hour. You don't believe me? Look, the hardest part here is getting the clips. But after this video,
+you'll realize that even this part is way simpler than you think. you'll see exactly how easy it is to create
+these type of videos and make money yourself. And you might be wondering why I'm sharing this for free. Well,
+I've already monetized multiple channels myself and also helped others to do it too. But trust me, it's way
+more fulfilling to help others and see them change their lives. So, in this video, I broke this channel down.
+I showed everything I used to make these videos 10 times faster and easier. I've even uploaded the video to a
+channel with zero subscribers and started getting impressions in a first hour. So, I'll show what I did to
+achieve that and even more valuable tips that you'll only get by watching this video. And disclaimer, this
+video is not what you've seen before. This video is not to entertain you or get the highest watch time and get
+a lot of views. This video is to educate you and give you value. So, if you can't focus, it's not my problem.
+But for those who are, good luck and keep watching. Now, to start, you first need to create a channel. But to
+avoid all the zero views jails and all the shadow bands, you need to do it the right way. So let me show you
+everything you should and shouldn't do when creating a channel. First of all, create it with an HGmail. But
+because I already did it, so the next thing we will do is go on settings and adjust a few key things. So in
+general settings, we can see the currency and and there is no difference if you will make it to dollars or
+euros. It's up to you and your own preferences. The same as with country of residence. It doesn't impact your
+audience. What actually impacts your audience is the content you create. So even if you live like for example
+in Brazil but you create content for a American audience, you will get viewers from America. Now for the
+channel keywords, don't add the keywords that doesn't match your content. To add the right keywords, you can
+use your competitor's channel as an example. I have a Vid IQ extension and when I press on view channel stats,
+I see all the keywords this channel has. So I can copy the keywords and just paste them here. So what these
+keywords do is help you to better understand who your content is for and whom to recommend it to. So don't
+miss this part and write at least a few of them. Now in the advanced settings said that this channel and the
+content you are making is not made for kids because you don't target the kids audience, you target the older
+audience. And if you'll press that your content is for kids, your videos will end up in YouTube kids section.
+It will be recommended for kids and it will have way lower RPMs. And here you can see if you are eligible for
+some of the features on YouTube. For example, here as you can see that I'm eligible to create videos that are
+over 15 minutes and add custom thumbnails and make live streams. And I enabled it with verifying my phone
+number. So I would recommend to do it the same for you and verify all of those three features. and that will
+earn you trust points from YouTube showing that your channel isn't just some random bot or spam. So that's
+pretty much it. Now you can also see that I already created a logo and a banner and you can create it with
+Canva, Photoshop or even Chad. Honestly, I wouldn't recommend for you to waste a lot of time on logo and
+banner in the beginning. Just create something simple, match the colors to create your own brand just like I
+did. Because at the end of the day, the content is what makes your videos viral and not the banner and logo.
+But if you want to see how I created this minimalistic, simple and clean banner and logo, let me show you how
+I quickly did it in CHBT. So I found a picture of plane on the internet. I dropped the plane to CHBT and gave
+this prompt. Uh the CHBT generated this logo and I didn't like it. So I gave another prompt and adjusted some
+things. I asked it to make black and yellow and then and then after a few prompts I also created the banner.
+Unfortunately, Chedubet wasn't able to create it in the same exact size. So I dropped it into Photoshop and
+adjusted it quickly and yeah, that was pretty much it. It took me like 5 minutes and I'm happy with the
+result. Now that the channel is created and since we don't have any videos yet and are still in the early
+phase, there's no need to overthink things. You don't need advanced strategies for brainstorming viral ideas
+just yet. Remember, you're just starting out. You're experimenting to see if the algorithm responds well to
+your content, if viewers enjoy it, and most importantly, if you enjoy the creation process yourself, because
+at the end of the day, that's what matters most, enjoying the process. So, I don't want you to overload your
+mind with too much information. I've saved the deeper strategies for viral topics for those inside my private
+community, people who are sure they want to pursue YouTube, make viral content, and make money out of it. But
+for now, we'll use a method that might work even better than those fancy strategies, taking ideas that are
+already proven to work, and making them your own way. And my eyes immediately go to his most popular video
+that is uploaded 1 month ago, and it has over 2 million views. So, it's called Airport Secrets Airlines use to
+trick passengers. So, I'll open a new Google document page. I'll write the title and I think I will tweak it a
+bit. I don't want it to be just copy and pasted. So, I created this title and I think it's even a a better
+one. It's also a strong good hooking title. And now we need the script from the words, the phrases, and the
+sentences. I can comfortably say that this guy uses AI to create his scripts. But the worst thing you can do
+when generating a script is to just give one sentence prompt like this and paste the title. You might ask why,
+and it's simply because JGBT has no idea what style you are aiming for or how to craft a viral script without
+detailed instructions. When done right, it can generate a full viral script with 90% less effort. And I
+experienced it firsthand. I uploaded a YouTube short using a CHBT script that I showed how to make inside my
+school community. And when I uploaded it, it got over 1 million views. I have this full recorded lesson in my
+school community. But now I'll show you one method that gives pretty good results too. So just take a few
+scripts of your direct or indirect competitors and just paste the script with similar prompt like analyze the
+script phrases and the strategies this creator uses to keep people watching. Now we need the actual secrets
+airlines don't want you to know. So for that we can go to Facebook, Instagram, Google and even search for
+articles that have all the information inside. So I found this article and now what I will do I will just copy
+and paste it to Google Docs. Now we have a full article. So now you can write this prompt and paste the
+articles and all the information you have and just paste it. Okay. I actually didn't want it to write the
+script yet because we need to change the CHBT model from 40 to 03 because 03 model is the best for script
+writing. What also we can do is use the tool web search and ask CHBT to research the web and find the the
+airport secrets himself. So I'll do just that. Now with the script ready, we need to copy it and paste it to
+words counter to see how many words the script actually has. Since we are aiming for a longer videos, we need
+at least 8 minute video and and ideally it should be at least 10 to 15 minutes. So for that we need at least
+1,300 words. And as you can see it's not enough right now. So what we can do is to ask to expand the script.
+Okay. So we have a longer variation of our script. Let's copy and paste it now. And let's see. Now it's 2,500
+words. And that's very good. So now we can paste our script. So to make a good video that has high attention
+and is watchable by your audience, first of all, you need a good hook. So after pasting your script, check if
+your hook is good. If it sparks curiosity for your audience to watch the video from the start to the very end.
+If not, adjust some things. And if everything's all right, we can move on to the next step, which is voice
+over. For the voice over, you can either record your own voice to stand out from the competition or use AI
+voices. Just a quick tip. If you'll use AI voice, don't use all the voices that other people use. And to make
+sure that you aren't using something that's been used a lot before, you can look at the number near to the
+voice over right here. And it shows how many people are using this voice. So, if it has like 30,000, I
+wouldn't recommend to use it because it's already been used by a lot of people. So, pick something that it's
+around 10,000 2,000 and you'll be great. Now to generate the voice over properly, don't copy paste the wool
+script because it will ruin your voice over. Instead, paste paragraphs. It will provide a much clearer and
+better voice. So let's do just that. Now this is all the paragraphs turned into voice over. So I'll put them
+into my editing software. Okay. So I'll put everything together and we can see that we have a 13-minute video
+which is very good. Now what we have to do is look at the voice over and see if there are silent parts like
+this silent gaps and we need to cut them out because it gets boring pretty quickly if there are a lot of
+silent parts if the voice actor speaks too slow. So we need to make sure the voice over is also entertaining
+and pretty fast. So after we finally prepared our voice over it is finally time for the most fun part looking
+for the clips. But we can see that most of the clips on this channel are just a simple stock footage. So for
+this I found a cool tool that finds and places you stock footage based on your script and it's called Vid AI.
+So here you can see I can create a long form video and I can generate the video either from prompt or from
+script. I wouldn't recommend to generate a video from prompt because you don't have a lot of control over it.
+It's way better to do it with scripts since you can generate the script with CHBT or write it yourself. So
+with the script ready, we can paste it right here. And we can see that the duration is 15 minutes right here.
+As you can see, we can also like choose a voice over, but I will use a voice over from 11 Labs. I just need
+clips from this app. And I can click generate video. Okay, so it finally generated the video. And as you can
+see, it also generated captions and and you can use the captions. You can change the font, the style, but what
+I will use, I will I won't use captions from here. I will put the captions myself on the editing software. So
+now I will export just the clips and I will drag them into the editing software. So after the video is
+exported, add it into your editing software. Here I will remove the sound and leave just the clips. As you can
+see, it's a bit longer than our voice over because I cut out the silent parts and made it speak quicker. So,
+I'll make the speed of the clips faster as well. And most of the clips fit perfectly. You can leave it as it
+is, but in the intro, I will add a few transitions and quickly add my own unique editing, a few GIFs, and
+unique clips to hook people more. Also, you should add background music to make it more entertaining. And when
+the fact changes, I change the music as well and add a transition so it wouldn't get repetitive and boring.
+And that was it. But now we need a good thumbnail because even if the video is the best, people won't see if
+they won't click on it. So the question is how to do a good thumbnail so people would click on it and watch
+it. Use Photoshop, Canva or Photop. But first go to the Chad and generate a photo that you need. This example
+I needed a picture of a person placing a luggage to be scanned. Now copy the picture and go to Photoshop. Here
+resize the photo. Take a yellow box and write something hooking with black color. I wrote, "Don't put it
+here." You can make one word red to highlight just like I did. Add an arrow if needed and add shadows. And
+that's it. I uploaded it to the channel we created, the one with zero subscribers and no videos. And it
+started getting impressions within the first hour of uploading. So, let me show you what settings I used to
+upload the video correctly. So, as you can see, I added a description with keywords and tags. And the
+description it's quite big and there are quite a lot of tags as you can see. But we are doing this because
+this helps YouTube understand who the video is for which increases the chances of it being pushed to the right
+audience faster. That's why it's important to write a good description that matches your niche and content.
+And in the tags section I added a few relevant tags. And for the category, I selected entertainment. And that
+was it. Now what to do with this information? You can either create a similar channel like I did or look for
+different niche that also targets older audience like this niche. And I would recommend to do the second
+option because if everyone will do the same thing I showed, if they'll pick the same niche and do everything
+exactly like I did, the niche will be flooded quickly and only the ones who will be able to start the channel
+the quickest will be able to make the money. Especially with this formula that lets you create the videos that
+fast. And if you can't find a good one, in my school community, I have prepared over 70 untapped niches for
+both long- form and short form content. I also have a lot of lessons and breakdowns for my other successful
+channels. And of course, 24/7 support from me and like-minded people to guide you to the right direction. So,
+you can check the link in the description. I'll see you inside.

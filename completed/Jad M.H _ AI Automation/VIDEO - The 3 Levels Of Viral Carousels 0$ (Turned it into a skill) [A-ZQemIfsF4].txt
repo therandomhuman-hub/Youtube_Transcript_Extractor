@@ -1,0 +1,126 @@
+Title: The 3 Levels Of Viral Carousels 0$ (Turned it into a skill)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: A-ZQemIfsF4
+URL: https://www.youtube.com/watch?v=A-ZQemIfsF4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T16:48:02+00:00
+
+Kind: captions Language: en This is a $0 carousel. And I would say 90% of people are posting this. This is a
+$100 carousel. Maybe half of people get here. And this is a $1,000 carousel. Motion graphics. Every single
+slide moves. Only 1% of people are making these. And here's the crazy part. The $100 one, it cost me $0. No
+APIs, no credits, not a single dime. And the $1,000 one isn't really a carousel. It's a system. And it's one
+that businesses actually pay for. And if you're wondering why carousels, because carousels are one of the best
+performing posts on social media right now. Buffer, a company, compared every format on Instagram. Carousels
+got an engagement of a rate of 6.9%. Reals got 3.3%. That's more than double. Reals still get a bit more
+reach. Carousels are what people actually stop and interact with. And here's the part that most people don't
+know. If someone scrolls past your carousel, Instagram can show it again later on starting slide two. So your
+post gets a second chance and a real doesn't get that. So today I'll show you all three how each one is made
+and what it really costs and which one you should be making. And as you know me, I'm not geeking any of this.
+I keep dropping skills and I give them away for free every single week. Everything you need for the $100 one
+is already actually in my school community. the skill, the styles sheet, and the exact prom I used. Links in
+description. And honestly, I'm making this video to say thank you. Not even two weeks ago, I had around 400
+subscribers. Today, we're at 5,600. I really can't thank you enough, and for all the love you've been giving
+me in the comments, it means a lot to you. So, I'm going to keep doing my best and keep putting skills away.
+And one more thing, just to thank you more, just added something new in school. If you have a problem with
+this skill or you don't know how to install it, we now have weekly calls in school to help you set it up. And
+if you have any questions about the system, we're here to help. You can grab the link right now, but I would
+rather you stay all the way to the end to understand how it works. And it also helps my channel. I'm not
+asking for money. What I am asking is way more important than money. It's your attention. And I'll try to give
+you as much value as possible. And if it feels too long, speed it up. put it at 1.1 or 2x speed, whatever
+feels right to you. And I put timestamps actually on the video so you can jump straight to the part that you
+actually want. If you're new here, leave a follow because I drop scales every day as I mentioned multiple
+times. Let's get straight into it. Quick thing first, the price tag is not what you pay for, it's what it
+looks like. The $0 one looks free. The $100 one looks like a paid designer. And the $1,000 one is the kind of
+agencies would charge for, not her one carousel for never having to think about Instagram again. Okay, so now
+let's start at the bottom. The $0 carousel Canva. I'm sure you know this one. Pick a template, change the
+color, type your text, export, done in 10 minutes. I'm not hitting on Canva. Canva is actually great tool.
+It's fast. It's free. And for a quick post, it's fine. But here's the problem. The template made every
+decision for you. The layout, the fonts, the spacing. So your post looks like 50 other posts using the same
+template. So here, let's try to run a little test. Cover the username. Can you tell who made it? With most
+Canva carousels, you actually can't. And that's why 90% of people are here. It's easy. But easy means
+everyone's doing it. And when everybody's doing it, it doesn't really stand out. So then people try AI. They
+open chbt and type make me a carousel. Make it modern. and they type a purple gradient, a glowing brain, and a
+different font on every slide. And honestly, that's not really a level up. I would say it's kind of like worse
+than Canva because AI was never the problem. Nobody told it what good looks like. So now, let's kind of tell
+it. The $100 carousel. And this one I'm most excited about because it costs $0. And when I say 0, I actually
+mean it. I made it in two ways. And this is the first time that I'm going to be talking about it in this
+channel and and I haven't seen a single video online about this way. Number one, Muse Meta's app. It has a
+free tier. You can either drag in your two images or you paste the prompts. That's it. And here's the cool
+part. You can tell it to make this a daily thing. Every day a new carousel. You pick the topic, you pick the
+style, you picked everything, and it's really good at it. Completely free. And Meta just dropped a new model,
+Muse Wonder. They say it's their strongest model ever, so they're clearly investing a lot into this. There is
+a caveat. Muse isn't available in every country yet. If it's in yours, perfect. If it's not, just use some
+VPN. Or you can go the second way. Way number two, a local Chinese model. Rent 3.5 from Alibabang 9 billion
+parameters. I run it with Olama right here on my Mac. Just the base one, 16 GB of memory. The download is 7 GB
+and it can see images so you can drag the stylesheet straight in. No API, no credits, nobody counting your
+tokens. It lives on your laptop. So if you can't use Muse, this is the way. Same idea, no limits. Now, how
+does it perform good carousels? We have a stylesheet reference that we create in Hicksfield. With that
+stylesheet, AI will understand the guardrails and what it's supposed to look like. So it already has the
+fonts, the colors, the pallets. It will respect every single guardrail there is there and that's how it will
+perform consistently good carousels. Now I know what you're thinking Jad a free billion parameter model I
+can't make that. And you're right on its own it can't. The model is not the secret. The secret is what you
+give it. So let's let me make it more clear in a way. I give it three things for muse and the Chinese AIW.
+Number one, a style sheet. This is one image with all the design rules on it. This one that you can see here
+pop up. The exact colors with the hex codes, the fonts, and the rules are what makes it look expensive. Like
+teal is lights, never paints. It only glows. The colors stay as they're supposed to be, and it will stay
+consistent for every slide. And honestly, that's what you're paying a designer for who you pay $100 a brand
+guide rules. Somebody deciding so every slide looks like the same post. Number two, an example, a finished
+carousel made with a stylesheet. So, it doesn't just read the rules, it sees what the results is supposed to
+look like. Number three, the prompts. And this is where most people kind of like mess up. They write one line.
+Mine is a full page. So, you kind of give it like one single prompt. your researches first for the official
+sources. Every number needs a link. Don't invent it. Don't round around it. Show them the plan before you
+build anything. And then a checklist at the end. Is there exactly one highlighted word per slide? Is any text
+in the wrong color? Is the top black? So, it checks its own work before it hands it over. And it doesn't draw
+the text inside an image. It writes the whole carousel as a web page. So the text is real, always sharp,
+always spelled right. You open it on your browser and you screenshot each slide. So test number one, I gave it
+the stylesheet, the example, and the topic. I said Claude HighQ 5.5 in three slides. And if you look at the
+image, it came consistently to the stylesheet reference. So this model is not able to create images. But the
+way I prompt it in the zip is it takes screenshots online and it puts them in the carousel and then it adds
+the color fonts and the guardrails that it's supposed to do. The second test I gave it my actual picture. It
+had to build the carousel around me, my photo edited into the style. And this one is the one that matters for
+most of you because if you have a business, you already have pictures, your products, your shop, your face.
+You don't need AI images. You need a layout that makes your pictures look premium basically. Now, I'll be
+honest about the limits because I'm not going to pretend it's perfect. The local model, I can go on the
+internet so it can grab sometimes a real screenshot. And in the prompts, I say if you can't do this, just let
+me know and never fake a screenshot. So, if you're using a Chinese model, it's better to give it images than
+you let it screenshot. But Muse is completely free. And I do want to mention a 9 billion parameter model is
+not opus level. It's slower and sometimes you have to ask it twice. That's the reason why it cost $0. But if
+you have a little bit of a budget or you want to sell this, this one is definitely for you. The $1,000
+carousel motion graphics. Every slide moves, sync the music, and when someone swipes, the whole pose feels
+alive. It's interactive with the first slide to the second slide all the way to the end. Almost nobody is
+doing this yet. And I gave the skill away for free. And I'm giving this skill again for free. And this one is
+different because the thou $1,000 carousel is not just for your page. It's for agencies, people who want to
+sell this as a business because a business doesn't want one carousel. A business wants post going out every
+week on brand and they don't want to touch anything. So, you're not selling carousel, you're selling an
+automation. Here's how it works. The brain is cla 5.5 and it runs the whole thing. Step one, it finds the
+niche. You tell it who the business is. A dentist in Austin, a coffee, a brand, a gym, and it figures out the
+whole thing for you. That's the way I put it into the zip. Step two, it finds the ideas. It goes online what's
+working in that niche right now and comes up with the topics for the week, not random topics and it will not
+take from you. It will say here's what I believe are going to perform better in content. So it has a step
+ahead. Step three, it writes the carousel, the hook, every slide, the call to action, the CTA. Same rules as
+before. One idea per slide, one action at the end. Step four, the images. Hicksfield is connected right inside
+Claude. So it makes the images itself GBT image 2.5 player the product the scene or the avatar like me that
+you can see here my character same face in every post because I have created a stylesheet reference if you
+want to up your level. I was able to get an offer from Hickfield. There's a link down in the description with
+a promo code. just click it, look at the offer, and if it looks interesting, go for it because honestly, this
+is what's going to level up everything for the motion graphics or if you want also to have an avatar. Step
+five, bring it to life. This is the motion graphic sport and it's not an AI video. It's real motion design
+written in code. Every slide animated and synced to the music. The music also is made by code. Step six is
+blow. I'm not sure if you know this, but this is what posts every week and every day. It will not affect your
+Instagram or your Tik Tok. And you don't have to maintain the automation anymore because Blow will just post
+for you in your account with the description, the hashtags, and the slides. That's the difference. The $100
+carousel is something you make. The $1,000 carousel is something that makes itself. Now, this one does cost
+some money. You need Claude plan to run Opus Hicksfield, credits for the images, and a blow t plan for
+posting. But think about it from the business side. They're not paying for the tools. They're paying for the
+results. Fresh carousels every single week that looks like a designer made them with motion and they don't
+have to log in to check or to post themselves. And that's why only 1% of people are here. It's not that it's
+hard to make, it's that most people never think of it as a business. And most of the pieces are already in my
+school. The motion carousel skill, the avatar part, the stylesheet prompt, and it will be running itself. And
+now we'll be making this as a skill also. So, which one would you actually make? If you're a creator, you have
+a business, and you want your page to actually look like you, I would definitely just go for the $1,000
+carousel. And it does not cost $1,000. It's what you could potentially sell it for or more. Everything is in
+the link in the description. And I want to thank you again. That's why I'm making this skill. I hope I give
+some value. Thanks for staying all the way. Subscribe if you want more skills like these. I drop skills every
+week. and I'll see you in the next

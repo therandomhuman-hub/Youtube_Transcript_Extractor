@@ -1,11 +1,11 @@
 Channel name: Jad M.H  | AI Automation
 Channel URL: https://www.youtube.com/@JadM.H
-Last updated UTC: 2026-10-13T14:08:35+00:00
-Discovered in current scan: 188
-Manifest total: 188
-Transcripts saved: 187
+Last updated UTC: 2026-10-13T16:48:02+00:00
+Discovered in current scan: 189
+Manifest total: 189
+Transcripts saved: 188
 No captions: 1
-Resolved items (saved transcript or explicit no-caption outcome): 188
+Resolved items (saved transcript or explicit no-caption outcome): 189
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0

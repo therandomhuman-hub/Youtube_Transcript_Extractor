@@ -58,5 +58,20 @@
     "discovered_at": "2026-10-10T05:38:05+00:00",
     "last_discovered_at": "2026-10-10T05:38:05+00:00",
     "updated_at": "2026-10-10T05:41:02+00:00"
+  },
+  "C2jJnndQAn0": {
+    "video_id": "C2jJnndQAn0",
+    "type": "VIDEO",
+    "title": "I Tested Every Viral Shorts Format With AI",
+    "url": "https://www.youtube.com/watch?v=C2jJnndQAn0",
+    "channel": "Everygen AI",
+    "status": "NO_CAPTIONS",
+    "source": "",
+    "language": "",
+    "filename": "",
+    "message": "No parseable YouTube caption tracks were advertised",
+    "discovered_at": "2026-10-13T16:49:49+00:00",
+    "last_discovered_at": "2026-10-13T16:49:49+00:00",
+    "updated_at": "2026-10-13T16:50:10+00:00"
   }
 }

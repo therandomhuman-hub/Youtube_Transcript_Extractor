@@ -1,0 +1,104 @@
+Title: How To Start a Faceless Youtube Channel with AI
+Channel: Money Guy
+Type: VIDEO
+Video ID: ryuG9j7k9jg
+URL: https://www.youtube.com/watch?v=ryuG9j7k9jg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T18:06:41+00:00
+
+Kind: captions Language: en If you're using AI tools for your YouTube channel but not seeing growth, the
+problem isn't the tools, it's how you are using them. While you are still struggling to make even one decent
+video, your competitors might be producing twice as many viral videos using the right AI tools, prompts, and
+techniques. And I know this because I am also using AI to run faceless YouTube channels that have generated
+hundreds of millions of views. It might be hard to believe for you. So, here's one of my channels. You can see
+all the analytics and the channel itself. I have nothing to hide from you. So, in this video, I'll break down
+the best AI tools for idea generation, research, script writing, recording, and editing. Not enough that I'll
+show you exactly how to use them properly for faceless YouTube automation because most of you are using them
+wrong. You don't even realize it, and it cost you growth and most importantly, your time. So, let's start with
+an example. I found a short channel with over 200,000 subscribers and 600 million views. Translating that to
+revenue, it's somewhere around 60,000. And what's surprising is that most of it can be replicated using AI at
+the same level of quality. So, I'll share the best prompts and tools for writing scripts, editing, generating
+ideas, and even provide a prompt document during the video. Let's begin with idea generation. For this, we are
+going to use Chad GBT, but not in the basic way most people do. There are lots of way to boost your workflow
+with Chad GBT. But when it comes to finding higherforming video ideas, you need to be more strategic. Here's
+how. Use a powerful and detailed prompt that explains who you are, what kind of content you make. Explain how
+the best ideas looks like in your niche. Include your target audience. If you already have videos that
+performed good in that same niche, include your own channel and add a link to your competitor's channel. So,
+please don't overlook any of these steps in this prompt. Later, I'll give you a document with a few examples,
+so you will be able to check it out yourself. But I want to emphasize how important it is to tell the AI who
+you are or who it should be. Like listen, this is what most of Chad GBT users doesn't know. Chad GBT doesn't
+actually think. It predicts the next word based on patterns it learned during training. And it was trained on
+data from all kinds of jobs. When you say act like a YouTuber, for example, or roleplay as a professional
+script writer, you're guiding it to follow the patterns of how that type of expert would respond. That makes
+the answer more focused and much more useful. So, in this case, we'll use this example channel I mentioned.
+Then ask JGBT to do deep dive analysis of your competitor and deep dive research on the web and YouTube to
+find and generate 10 video ideas. Also, don't forget that you must enable search with web and use the GBT3
+model. Without this, you won't get accurate and wellressearched results. When used correctly, Chad GBT will
+not only give you strong video ideas, but also give the websites it pull data from. So, you can dive even
+deeper and make higher quality content. As you can see, we got 10 wellressearched ideas even with links to the
+articles. Now, if you feel that you want or have a need, you can go to the article and find the missing
+information or the most interesting facts yourself. But this is just a beginning. To create good video, we
+still need techniques and tools to make good scripts, get best voiceovers, and even a method to find clips for
+your videos in seconds that most people don't know about. Listen, that tool saves a lot of time in most
+situations. But let's move on to script writing because even if you have the best video ideas on the planet,
+if your script is weak, you won't achieve anything. And I can say that because I've experienced it myself. You
+can see two of my videos on the screen right now. One has 129,000 views and the other has 6,000 views. Now,
+try to guess which one I spent more money on. It might surprise you, but for the video that got 129,000 views,
+I didn't spend a single dollar. I wrote the script and edited it myself using all the knowledge and techniques
+I've learned. Yeah, the editing wasn't insane, but it was enough. But now for the other video, the one with
+only 6,000 views, I actually hired an editor to make it look better. Ironically, it flopped. Editing and a
+solid idea help a lot, but without a good script, it means nothing. Oh, and by the way, I explained in detail
+why that video didn't work and the exact steps I took afterward to blow up my next videos in my private
+community. But anyway, let's move on. To make things easier, we'll stick with Chad GBT again. Now, if you
+think a simple write me a script prompt will do the job, you're completely wrong. To generate a solid,
+highquality script, you need to put in a bit more effort. I've already prepared a powerful prompt and clear
+instructions for you. First, take transcripts from your competitor's video and paste them into Chad GBT. Ask
+it to analyze the language, tone, common phrases, and structure. With that analysis, you can now feed in your
+chosen topics. For example, I asked it to write a script based on the sixth idea it previously suggested. And
+what it gave me was a script that closely matched the style and structure of his videos. Now, we could add our
+own twist and tweak the script a bit more to make it even better. And that's what I always do. But since we
+are saving time and the current variation is already miles ahead of 90% of current shorts creators, let's move
+to a very important section of the video that can make or break your video and it is voiceovers. For this, we
+will use the well-known tool 11 Labs. But once again, let me show you the way you should do it correctly. So,
+let's break down all the problems and I'll show you how to fix them. First of all, you have to pick a voice
+that fits the wibe. You can't choose an audiobook style voice for an entertaining short, right? Second of all,
+viewers want to feel and hear emotions. If I'm hearing the same monotonous AI voice over, I'll skip the video
+immediately. So, with this information in mind, let's paste our script that we got from Shia GBT and paste it
+to 11 Labs. To pick the right voice over, head over to voices. Turn on voice filters and try to look for
+younger English speaker in a entertainment and TV or social media category. I managed to find the exact voice
+over that our competitor used. So for this example, I will use the same. But I would highly recommend for you
+to find something unique to stand out. Anyways, this is in the end because now we have to fix the monotonic
+slow voice. You feel now why we have to get rid of it. To remove the monotonic slow voice, first of all,
+remove all the dashes in your script. And for the sentences and words where we want more emotions, we will
+turn caps locks and use question and exclamation marks. I'll also move the speed bar a bit, make it a bit more
+variable because that's what makes it less monotonic as well. And this is the first result we got. In 2003,
+LEGO was $800 million in debt just weeks from I don't really like it, so I will try to regenerate for a few
+times. In 2003, LEGO was $800 million in debt just weeks from bankruptcy. Now it's better. So, by now we've
+already saved a lot of time, but a thing that still takes a lot of time is editing, especially finding the
+right B-roll clips. And for that, I also have a good solution. Now, we are going to the editing part. To make
+the video really viral, we also need a ton of good clips, right? For that, we will be using Chad GBT and one
+secret tool that nobody's talking about. Now, I know how frustrating it is to research and find clips on your
+own. So we will go to chat GBT and write this prompt in which we will explain that. I explained that me and my
+editor need clips for the following script. I gave the example for him and turned on the deep search and O3
+model. It think for a while and gave these 10 clips with the links and timestamps and it did everything in 55
+seconds. However, sometimes there are no good clips for specific segments of the video or the clips are poor
+quality. So for that we can use a tool called Craya AI. Nowadays, there are a lot of separate tools that help
+you generate videos. And for most of us, it's hard to pick the best one. But what Craya does is it has almost
+all AI image and video models in one place. It has tons of models and even explains which model is the best
+for the type of image or video you want. And no, Craya isn't sponsoring this video. I'm just sharing a tool
+that I honestly found interesting. For example, I need a Lego scene for our short because our idea is about
+Lego. So what I will do, I will type a prompt in the image set. I'll select the ratio and the image generator
+model that looks good for me. After creating, I can select the one I like and press create a video. Write a
+different prompt for a video, explain what I need, and press generate. Now, I didn't put any effort into the
+prompt I wrote. I just made it quickly to test it and show it to you. But the result and the quality is pretty
+good. I'm sure that if spent a bit more time and giving a better prompt, you can generate really good B-roll
+clips. With all of these clips that Chad GBT found and B-roll footage that Craya AI generated, you can save a
+lot of time. And basically, with the right techniques, we did half of the work in minutes. The only thing left
+is to combine everything in the editing software. Now, as I said, to make the video outstanding, you would
+still need to add your own touch, improve the script a bit by yourself, and so on. We could just generated the
+base of the video in a few minutes. From this point, it's much easier and faster to polish your current video
+than to start from scratch. But if you're finding it difficult to improve your video and make it truly stand
+out, check out my private community. The link is in the description. But for those who want the prompts I
+used, join my Discord group and head over to the resources tab. And if you're looking for even more value,
+watch this next video where I show how to upload shorts the right

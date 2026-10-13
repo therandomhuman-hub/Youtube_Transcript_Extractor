@@ -22,5 +22,13 @@
     "channel_url": "https://www.youtube.com/@BahaaAI",
     "new_transcript_count": 0,
     "new_video_ids": []
+  },
+  {
+    "checked_at": "2026-10-13T17:28:34+00:00",
+    "channel_url": "https://www.youtube.com/@BahaaAI",
+    "new_transcript_count": 1,
+    "new_video_ids": [
+      "WKXq7pKZGjY"
+    ]
   }
 ]

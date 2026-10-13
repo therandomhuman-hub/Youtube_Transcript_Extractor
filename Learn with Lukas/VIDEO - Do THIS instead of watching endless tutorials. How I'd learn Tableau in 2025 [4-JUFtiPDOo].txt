@@ -1,0 +1,102 @@
+Title: Do THIS instead of watching endless tutorials. How I'd learn Tableau in 2025
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 4-JUFtiPDOo
+URL: https://www.youtube.com/watch?v=4-JUFtiPDOo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:30:03+00:00
+
+Kind: captions Language: en most people trying to learn Tableau make the same mistake and they get stuck
+watching endless tutorials and if that's you stop right now because there's a faster way and by the end of
+this video you'll know exactly what to do if you just follow this one plan you'll literally be better than 90%
+of Tableau beginners within a week of getting started so let's begin right away and before anything else I
+mean just go ahead and install Tablo on your computer because trying to learn Tableau without installing it is
+like learning to write without a pen and paper now luckily Tableau public is entirely free to use so just
+download it and get started now next I'm going to tell you something that goes against what every tutorial is
+telling you and it's to download a data set right away so you can get started working with it but first I
+would spend a few seconds exploring the actual Tableau interface now don't get stuck or spend too much time
+here because just click around and get familiar with the different buttons the goal is not to learn what every
+single button is offering or what every part the interface is doing that's not really necessary for us at this
+point and it's more just dipping your toe to get a feel for what Tableau is actually offering because the only
+way to make something really useful is to know what it can actually do for you but make sure to set up quickly
+install the things you need and don't overthink it because there are a lot of people that just spend weeks
+doing this stuff and then never really get started and that brings us to step number two I hate to be the
+bearer of bad news but today we have an endless amount of learning resources and with this comes a lot of
+great things but also new challenges which is finding the right thing and actually sticking have you ever felt
+like you're drowning in too many tutorial well most of us have and I feel like that all the time and most
+beginners cannot prove this correct because they get stuck starting new courses without actually finishing
+them and did you know that the average online course completion rate is only 12% you don't need to be a data
+genius to understand that that's a really bad number so instead of getting stuck in that mess focus on
+learning these core skills start by learning how to connect data sources with Tableau and that means working
+with different sources like Excel CSV files and SQL and your goal is going to be to connect these data sources
+to your Tableau setup so that you can make the data from these sources useful and vice versa then you'll want
+to start learning how to build the core charts which include bar sharts line charts pie charts Scatter Plots
+and map charts and there are literally an end less number of things to do in Tableau and to learn but if you
+can do these simple things that I just mentioned you already know about 80% of what you're actually going to
+be using for jobs because most of the features that you learn are not going to be job applicable so here's
+what to do right start by recreating simple dashboards using these Basics that you learned that's going to be
+the fastest way to build your skills incredibly quickly now I promise you and this is the series warning
+you're going to get the urge to go back and watch more videos and drop the Hands-On approach and that's
+natural because watching videos is so much more comfortable than doing things yourself and working hands- on
+but you must resist the temptation because instead of watching endless videos pick a simple report and try to
+just build it yourself you're going to learn literally 10 times more in a fraction of the time now moving on
+to step number three and uh it's time to learn the real Tableau skills that employers actually want most
+beginners stop after learning some simple charts or learning the basics but the real tblo skills do you go a
+lot deeper even though you're not supposed to spread yourself too thin and learn everything but here's how to
+make your skills extremely useful for companies to the point where they really employ you and that's the way
+to get hired is to become really useful and employable simply put and it's going to be three different things
+that you should learn the first is going to be anything to do with interactivity a significant part of
+creating visualizations in Tableau is going to be the interactive aspect users are not limited to a single
+view created once and instead they can actually interact with the Tableau visualization they can sort filter
+and find the insights that they hope to get from the data as needed and do these things by themselves it's
+going to be super valuable because when people are working in a company they might need different aspects of
+the data and you're not exactly sure what they need to look at when you're creating the dashboard so instead
+you're giving them the option to choose for themselves by adding things like filters slicers and different
+dashboard actions to your data visualization this part is huge and it's also really fun because you're
+creating something something extremely useful that's going to be useful in the future as well so try making
+for example a dashboard where users can filter by region date or category as these are some of the often or
+most required things in real world reports and just showing employers that you can do this is going to be
+incredibly valuable the next part is data cleaning if your data contains errors everybody in the company could
+literally get incorrect insights and you would be responsible because you created the incorrect insights
+that's why data cleaning is so important and then there's also speed which can be achieved by optimizing
+performance of your dashboards and of your data visualizations so people can interact with them in the manner
+that they want to and not be limited by the actual speed of the program if you can build an interactive
+dashboard you can clean messy data and you can make it fast and easy to use and then by going all in on hands
+on practice you could start literally doing this within week one while everybody else is still learning the
+button names of the Tableau Software but dashboards aren't just for fun even though they are fun and that
+brings us to step number five which is to focus on solving business problems because that's what they need to
+do so find public data sets and try to answer actual business question how do sales change over time which
+products perform best in different regions and what's causing customer churn if you can build dashboards that
+answer these types of questions then you're ready for an actual job where you're going to be using Tableau and
+here's the secret to making really good portfolio projects to help you stand out on the job Mark instead of
+focusing on which cool charts to make or how to make it as beautiful as possible ask ask yourself if I were a
+manager for this company what decisions would this dashboard help me make now we're moving really quickly in
+this video but next we're going to cover when is it actually enough like when can you stop learning and feel
+job ready and if you don't know this stuff you're going to keep learning forever and you'll never be done but
+first I want to give a big shout out to our sponsor when I first started learning Tableau I struggled with
+scatter tutorials and no real structure I wanted a clear learning path that would take me from beginner to
+Advanced without wasting time time and that's why I wish IID started with data Camp earlier and why I still
+recommend it to this day data Camp's data analyst and Tableau career track gives you everything you need to
+master data visualization in one structured path instead of just watching tutorials you'll be Hands-On from
+day one analyzing real data sets creating reports dashboards and solving two real world case study and one of
+the best things about data Camp is that it's fully interactive and you're not just learning by watching but
+actually working on projects in your browser that makes learning way more effective and helps you build real
+confidence Plus data camps also partnered with Tableau so by following this track you'll be fully prepared for
+tableau's official data analy certification a massive boost for your resume and job prospect so if you're
+serious about learning Tableau the right way don't waste time and start for free today the link is at the top
+of the description now finally step six most people never really feel ready for a job but here's how to check
+if you are and if your skills are enough start by considering this can you build a dashboard from scratch
+without a tutorial can you go through all the steps solve a business problem and finish with a good end
+product it can be hard to decide for yourself so asking somebody for feedback and for their opinion is a good
+option just make sure that it's somebody qualified and not your random friends and family even though they
+could probably still help you trying to show on your visualizations but usually you're creating something for
+a specific audience now if you built a portfolio which you should then there's almost always a guaranteed
+question can you confidently explain your dashboards and if you can focus on the reason and the benefit of
+your dashboard and how it can impact the company and then finally can you answer commment Tableau interview
+questions and I'm going to give you some quick example what's the difference between a join and a blend and
+how do you optimize the slow dashboard and can you explain level of detail or LOD calculation if you can do
+all of these things and plenty more then stop learning and just start applying for a job right away there's
+always going to be somebody less intelligent and less experienced getting a job and getting hired right now
+because of the courage to just try and go for it so don't get stuck behind just go for it and give it a try
+thanks for watching

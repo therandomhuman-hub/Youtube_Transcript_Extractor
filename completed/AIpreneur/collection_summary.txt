@@ -1,11 +1,11 @@
 Channel name: AIpreneur
 Channel URL: https://www.youtube.com/@AIpreneur2176
-Last updated UTC: 2026-10-13T14:20:47+00:00
-Discovered in current scan: 55
-Manifest total: 55
-Transcripts saved: 54
+Last updated UTC: 2026-10-13T17:01:33+00:00
+Discovered in current scan: 56
+Manifest total: 56
+Transcripts saved: 55
 No captions: 1
-Resolved items (saved transcript or explicit no-caption outcome): 55
+Resolved items (saved transcript or explicit no-caption outcome): 56
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0

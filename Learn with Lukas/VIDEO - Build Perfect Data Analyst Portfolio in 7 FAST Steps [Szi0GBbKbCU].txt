@@ -1,0 +1,76 @@
+Title: Build Perfect Data Analyst Portfolio in 7 FAST Steps
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Szi0GBbKbCU
+URL: https://www.youtube.com/watch?v=Szi0GBbKbCU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:37:49+00:00
+
+Kind: captions Language: en everyone should have a Daya onist portfolio but just having one isn't enough
+recruiters literally scream seeing people make the same mistakes every single day and a job ready portfolio is
+the fastest way to get hired as a due data analyst so here are seven key things to help you build a really
+good one right now starting with the first key which is diversification it's important to create a diverse
+portfolio that can show your skills in multiple ways if you only have projects about data cleaning it ises not
+show your ability to go through the entire data science life cycle but that's pretty obvious right you want to
+show multiple aspects of your data skills in your portfolio but here's where people screw up all projects are
+not equally important even though you should diversify and include various projects you should focus more on
+certain aspects which we'll cover later in this video moving on to number two you'll want to focus on context
+frame your projects around real world business questions because the goal isn't to create some fancy graph
+it's to make data useful for companies for example you might be trying to understand your customers better to
+see what makes a loyal customer or you want to improve your marketing and and see what you should avoid in the
+future the idea is that you must remember why are you doing this project and why are you putting it in your
+portfolio in the first place if you can't answer these types of questions then it's probably not a good
+project for your portfolio just keep business context in mind all right so now we have key number three create
+visualizations now wait a second because every visualization should have a clear purpose whether it's a shart
+a graph or a dashboard they should tell a story and give useful insights recruiters are not going to look at
+the entire project they'll focus on certain Parts like what Insight you actually got from the project and this
+knowledge shouldn't stay in your head other people need to know about it but the problem is also that a
+visualization can be terrible even if it's beautiful and it's it's using the correct data because you might
+not even need to visualize it in the first place focus on first defining what you actually need to visualize
+and then what to skip and then you can start thinking about how you can visualize that in the best possible
+way but not all visualizations are actually worth it and you need to prioritize so let's move to Key number
+four this happens so often that I can't going to be called a mistake anymore and it's actually really easy to
+fix data projects may include code whether it's SQL python or R and when you're working in a company you're
+not doing it all alone most of the time somebody else must be able to look at your work your code and jump in
+and help you creating a project without proper documentation is like telling the recruiter that you can't work
+with other people and it's really damaging I know I'm being harsh but it's better to hear it from me than from
+the recruiter or actually they're not going to tell you they're just going to decline it so write readable
+reusable code with clear comments and then upload your projects to a platform like GitHub with clear
+explanations showing how to follow along and use the code that you've actually written the key idea here is to
+never assume that other people know something clarify it's the easiest way to avoid misunderstandings and this
+actually goes for way more than just coding by the way a portfolio can never be good without good projects
+simple as that and I know it sounds a little bit too obvious but there's a catch because this realization
+often makes people stress when they begin they think that creating good projects is so hard that they never
+actually get started Ed so here's how to create the best portfolio project to actually land a job in just 3
+minutes all right that's not possible but if I do find a magic solution I promise to tell you guys first okay
+but here is the good news right so you actually don't need as many projects as you might think the best
+portfolios include fewer but more polished projects that align with your interest this means that you don't
+have to do as much work and about random projects and you can focus on things that actually interest you which
+is better avoid generic projects that everyone is doing as well they can be pretty dangerous and even if
+they're great to practice with they're not always the best at portfolio projects simply because the recruiter
+has already seen them a thousand times but I would say that even the most overused projects can actually be
+made better if you do personalize it if you make a project more unique you add some of your own touch to it
+you add some things you modify things it can be a better portfolio project even if it's one of the classic
+ones and regardless of what you do don't be afraid of adding your own touch to the project because that's what
+really makes it your projects and makes it easier to talk about and more unique but now we're ready for key
+number six all skills are not equal in data analytics skills like python SQL Excel and more all have a set
+value to employers on the job market and to increase your value as a candidate you want to show your in demand
+skills through your portfolio now you can choose your path here because you can either use one skill per
+project like for example cleaning and doing some visualization with powerbi or Tableau or you could try to
+incorporate multiple skills into one like for example using SQL for acquiring and cleaning data Excel for
+creating pivot tables and python or R for automation or visualization but as a warning if you do decide to do
+multiple than one just make sure that you use them in a way that makes sense and for what they're actually
+good at because if you just use SQL for random use cases it might be a little bit weird and like don't use
+Excel for cleaning a huge data set when you have other tools to do so and key7 is where most people fail
+because you can create a really good portfolio but it's actually what you do with your portfolio that matters
+the most having a portfolio is not going to be helpful it's not going to get you a job it's not going to do
+anything you need to share it get feedback let people know that you're working on a portfolio that you're
+focused on data science and analytics and you can also go beyond just creating a portfolio because some create
+more like a personal blog like on medium and some make posts on LinkedIn and this can be as simple as sharing
+what you worked on this week like kind of think about it right if you're hiring someone step into their shoes
+of you know of the recruiter would you hire the guy with zero activity about data analytics on their profile
+or the guy that's posting about it every single week doing his projects and things like that and actually
+being open about it I think it's always worth considering the recruiter's perspective when we are essentially
+looking to well make them happy so it's a pretty good thing to do thanks for watching this video and hope to
+see you in the next one somewhere on the screen for more things about data analytics I'll see you there

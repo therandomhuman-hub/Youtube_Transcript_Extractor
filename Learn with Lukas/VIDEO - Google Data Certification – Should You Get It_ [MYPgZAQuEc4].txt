@@ -1,0 +1,77 @@
+Title: Google Data Certification – Should You Get It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: MYPgZAQuEc4
+URL: https://www.youtube.com/watch?v=MYPgZAQuEc4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:36:06+00:00
+
+Kind: captions Language: en Google's releasing a new certification in 2025 for aspiring data professionals
+like data analysts and data scientists this is a real certification an exam that you take and get certified by
+Google this can help you land a job it's made for beginners and I'll explain everything you need to know but
+it is urgent and if you're early you can take advantage of this opportunity before the competition arrives and
+it becomes overly saturated so let's begin before we can start I do have to kind of introduce you to what the
+Google certifications are and what the program actually looks like so the Google Cloud certification ations
+are supposed to help you demonstrate your Knowledge and Skills and Google cloud is basically Google's cloud
+computing platform which is quite popular amongst others like AWS and Microsoft Azure now there are a couple
+of different categories of certifications and it's important that you understand these so you know which one
+is the right for you and if this one is a good option so the first ones are the foundational certifications
+which validate broad knowledge of Concepts in cloud computing and use cases of Google cloud and there's
+actually only one certification of ailable which is the cloud digital leader and it's not so relevant for us
+in this video next up we do have the associate certifications which validate fundamental skills to deploy and
+maintain Cloud projects and the recommended candidate for these ones have some experience working with cloud
+and managing Cloud Solutions and then there's also the professional level certifications which requires that
+you do have in-depth experience setting up Cloud environments for an organization and in-depth experience
+deploying services and solutions based on business requirements so generally those are going to be more
+challenging but the one that we're looking at today is going to be the data practitioner which is launching in
+January 2025 and it's an associate level certification so starting with the basics now this certification is
+about securing and managing data on Google Cloud the individual has experience with Google cloud data services
+for various different tasks and they have a basic understanding of cloud computing Concepts like
+infrastructure as a service platform as a service and software as a service so if you don't know what any of
+these mean right now don't worry there's also a learning path for you to actually learn these things before
+you get certified and you don't need to know any of this stuff right now so the actual certification itself
+includes an exam which is 2 hours to complete and there's a registration fee of $125 which might vary
+depending on the country so do check that out as well and I have also seen them offering discounts and things
+like that so it's currently only available in English but they usually release it in multiple language and the
+exam format is 50 to 60 different multiple choice questions and multiple select questions that you have to
+fill out and you can take this exam either from the comfort of your own home through an online Proctor exam or
+you can go to a physical location if you do prefer that and if there's one near you in your local area so
+about the prerequisites you actually don't need anything to get started but they do recommend 6 months of
+experience working with data on Google Cloud but if you're able to take a learning path and actually prepare
+for these ones then you can definitely take this one even without the recommended experience it's just a
+baseline to kind of make make sure that people are not just taking the exam after 2 weeks of studying and once
+you do take the exam it's valid for 3 years and to get recertified all you'll have to do is retake the exam
+during those 3 years so they do recommend that you get some real world experience but what I think is more
+important is that you understand what's on the exam and you can actually prepare specifically for that and the
+things that are going to be on the exam because if you don't have any real world experience you're not going
+to spend 6 months getting that experience before you start right you want to take the exam right away and you
+can do that you can kind of reverse engineer it by looking at the exam guide and then determining what skills
+that you need to learn specifically to be ready for the exam the exam guide looks like this and it's a simple
+document but they're also going to be updating it since it's a new course and so the next thing they recommend
+is that you round out your skills with training by actually preparing for it and that's when they recommend
+this learning path it's called the associate data practitioner and there are seven different activities and
+it's by Google Cloud officially and so now you're going to see more of the things that you need to learn
+specifically for this exam so it starts with an introduction to data engineering on Google Cloud at about 9
+hours and 30 minutes you'll then learn about the Big Data tool called Big query you'll work with preparing
+data for look your dashboards and reports so different ways of dealing with data preparation learn a little
+bit about Ai and machine learning on Google Cloud now you don't need to be some machine learning engineer
+they're just teaching you about how the different concepts work on Google cloud and as you can see it explores
+their Technologies products and tools available for you to use for AI and machine learning and the next course
+is teaching you about infrastructure and then optimizing costs with Google cloud storage and finally
+implementing Cloud security fundamentals on Google Cloud so it is going to give you a comprehensive
+understanding of different areas of Google Cloud so at this point you might be thinking like who should get
+the certification and why should I take it so if we're assuming that you're a data professional looking to for
+example become a data analyst it's important to understand how this certification could play a part in your
+overall learning strategy so what I'm going to show you is an example from the Google data analytics
+certificate which is incredibly popular if we take a look at the curriculum you'll see that there are many
+things here that overlap such as preparing data which you can see right here and you also work with big query
+in one of the courses what this certification and learning path can do for you is that you'll still have to
+learn data analytics but it's just a way of showing that you're proficient in the cloud Technologies by Google
+this search does by no means replace learning data analytics you're not going to get a job just knowing Cloud
+but cloud is becoming a more and more important skill in data analytics as more companies decide to use cloud
+services and so if you're able to combine data analytic skills with working on a cloud platform like Google
+Cloud that's a great thing on your resume you of course have to decide if you prefer AWS or Google cloud or
+Microsoft Azure as they're very similar but they can do slightly different things and they're also by
+different provider but I hope this video was able to give you a quick understanding of what this shirt can do
+and what the purpose is and I wish you all the best preparing for this one in the future

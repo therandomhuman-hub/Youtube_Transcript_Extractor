@@ -823,5 +823,20 @@
     "discovered_at": "2026-10-10T05:47:27+00:00",
     "last_discovered_at": "2026-10-10T05:47:27+00:00",
     "updated_at": "2026-10-11T22:09:42+00:00"
+  },
+  "upmuvx_hrns": {
+    "video_id": "upmuvx_hrns",
+    "type": "VIDEO",
+    "title": "I Made These Motion Graphics Videos Inside One Claude Chat",
+    "url": "https://www.youtube.com/watch?v=upmuvx_hrns",
+    "channel": "AIpreneur",
+    "status": "SAVED",
+    "source": "YouTube automatic captions",
+    "language": "en-orig",
+    "filename": "VIDEO - I Made These Motion Graphics Videos Inside One Claude Chat [upmuvx_hrns].txt",
+    "message": "Transcript saved",
+    "discovered_at": "2026-10-13T17:00:54+00:00",
+    "last_discovered_at": "2026-10-13T17:00:54+00:00",
+    "updated_at": "2026-10-13T17:01:33+00:00"
   }
 }

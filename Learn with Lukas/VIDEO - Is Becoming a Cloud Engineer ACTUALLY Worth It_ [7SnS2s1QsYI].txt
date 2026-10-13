@@ -1,0 +1,69 @@
+Title: Is Becoming a Cloud Engineer ACTUALLY Worth It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 7SnS2s1QsYI
+URL: https://www.youtube.com/watch?v=7SnS2s1QsYI
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:37:18+00:00
+
+Kind: captions Language: en is becoming a cloud engineer actually worth it this could offend some people but
+instead of just saying yes like everyone else we're going to take a closer look in this video and see if this
+job really is so great or if it's overrated and something that you should avoid we're going to start with a
+breakdown of the job responsibilities and then we'll talk about different salaries the job outlook the future
+growth as well as job satisfaction and how real Cloud Engineers feel about their jobs finally we're going to
+talk about the pros and cons and I'm not going to hold back in this video at all so drop a like And subscribe
+if you want more honest videos like this and let's get started first what does a cloud engineer actually do
+well they typically handle the design management and maintenance of cloud computing systems when it comes to
+the systems they need to be designed and planned to meet the organization's needs they will also need to be
+implemented and deployed according to the design that you made then they'll need to be maintained and
+monitored so that everything runs smoothly as well as optimized to make sure that it runs in the best possible
+way that costs are minimized and that everything is secure it also has to be integrated with other systems to
+make sure that the cloud Technologies are useful where possible now we're going to take a look at the salaries
+and according to indeed the average base salary for cloud engineer is around 124,000 per year in the US there
+is a wide range of salaries so do keep that in mind because on the low end we have about 82,000 per year and
+on the high end about 187 ,000 per year and as you can see the range is very wide and the main factors that
+will influence your salary will be your experience level your company of course as well as your location there
+can actually be a significant salary difference depending on what city or what state you're located in but of
+course some places also have higher cost of living different tax rates and other costs that you might want to
+consider so it's important to be aware of multiple factors and consider them if we compare the salary with
+some other te jobs we have the software engineer with around 105,000 per year but of course it can also depend
+on the company here there are many software Engineers that are making way above that as well we have the
+systems engineer at around 109,000 and a development operations engineer at around 124,000 moving on we're
+going to talk about the job outlook will there even be jobs in the future in let's say 5 years or 10 years or
+even further is it actually worth learning these skills is it something for the future now cloud has been
+growing at an insane rate for many many years now and for that reason there's all sorts of different
+predictions that we can make in general as the market grows well more Cloud Engineers will be needed and
+according to Grand View research this is how the projected growth looks like until the year 2030 and it's
+expected to grow at a compound annual rate of 14.1% from 2023 to 2030 that's a pretty good rate and there are
+many different reasons mentioned why it's it's growing this fast but it all comes down to cloud computing
+becoming more and more important for companies due to lots of benefits such as on demand availability pay as
+you go models and just improvements in the cloud space in general what's very interesting is this cloud
+computing Market map here we can see some Trends by region and North America is the largest market and is
+expected to be so however the fastest growing Market is actually Asia so whether you're from North America or
+some other region chances are that these skills are going to be high in demand even outside countries like the
+us but perhaps most importantly are people actually happy with their jobs if they could choose again would
+they still become a cloud engineer and how are they actually feeling about their career according to 9,000
+reviews from cloud Engineers they rated their work life balance at a 3.9 out of five that's pretty good the
+compensation and benefits received an average score of 3.7 and different career opportunities got a 3.9 out of
+five as well well but numbers don't tell us everything so let's take a look at some of the pros and cons of
+becoming a cloud engineer first as a disclaimer these are not my experiences and I've read different reviews
+gone through forums discussions and just gathered things that people find to be pros and cons of this job
+these are really important things that you should know before you get started and if you don't know this then
+you might end up going down the wrong path and doing something that's actually a terrible option for you so we
+should probably be aware of this stuff before we get started let's begin with the pros there is a high demand
+across various Industries for these Cloud skills as they are very necessary for companies right now and that
+is also reflected in the job market if you have the right skills then you have the opportunities available to
+you for that reason the salaries are also very competitive even compared to other popular tech jobs like the
+software engineer and it's also a job that you can do from home of course depending on the company the field
+is also really exciting with new technologies new ideas and new progress being made all the time so if you
+want to be at the Forefront of this then Cloud can be a good field to get into let's talk about some of the
+downsides now it does require learning to stay up to date and that can be a downside for some people because
+when new technologies come out you'll have to learn them and understand them to be able to use them it can
+also be really exciting if you are interested in the Technologies itself so keep that in mind as well next
+your work is really important and you need to maintain High system availability and security this could get
+stressful if you're dealing with critical tasks and errors that could affect the entire company with all the
+clients and staff and customers and everybody and these are just some pros and cons to get you started and if
+you're a cloud engineer I would really like to know your experiences in the comments below here's another
+video I think you might like somewhere on the screen I have no idea where it is but it's somewhere there and
+check that out and I'll see you over there

@@ -1,16 +1,16 @@
 Channel name: Deven Seenath
 Channel URL: https://www.youtube.com/@DevenSeenath
-Last updated UTC: 2026-10-13T14:20:23+00:00
+Last updated UTC: 2026-10-13T17:00:30+00:00
 Discovered in current scan: 732
 Manifest total: 732
-Transcripts saved: 232
+Transcripts saved: 244
 No captions: 0
-Resolved items (saved transcript or explicit no-caption outcome): 232
+Resolved items (saved transcript or explicit no-caption outcome): 244
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 500
+Still discovered/pending: 488
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

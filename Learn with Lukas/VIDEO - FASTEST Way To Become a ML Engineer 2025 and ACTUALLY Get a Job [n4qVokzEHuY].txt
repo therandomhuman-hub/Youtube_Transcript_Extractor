@@ -1,0 +1,90 @@
+Title: FASTEST Way To Become a ML Engineer 2025 and ACTUALLY Get a Job
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: n4qVokzEHuY
+URL: https://www.youtube.com/watch?v=n4qVokzEHuY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-13T17:33:13+00:00
+
+Kind: captions Language: en if you want to become a machine learning engineer in 2025 it's going to be hard
+and people are actually lying to you while the job is a high salary future proof and ever growing field
+exciting work and even remote job opportunities it's not all perfect because most people never actually get a
+job in the first place they do the wrong things and waste months if not years of their life studying without
+anything to show for it look I don't want you to fall in that trap and that's why I've made a simple proven
+and fast ml road map for beginners to get jobs if you just follow it step by step it's proven to work and if
+you're early you can use the strategy before other people so you have even more to gain from it this is a
+simple six-step process and you'll need all of the steps to succeed Skip One and it's pretty much guaranteed
+failure so let's begin now first we need to kind of learn two fundamental things and the first one is that
+python is a very versatile programming language used across machine learning you'll need a fundamental
+understanding of python and its Basics but you don't need to learn everything about python to become a machine
+learning engineer you only really have to focus on the certain parts that machine learning applies to next
+what while machine learning does not require you to be a professor in mathematics there will be some math
+required you'll need to know the basics of Concepts like linear algebra statistics and calculus and if you
+don't know these then take an online course like this one on the screen which is going to teach you these
+Basics pretty quickly step two is also essential and here's where you'll start learning the actual machine
+learning Concepts themselves you'll have to learn about supervised learning and unsupervised learning and
+these are different ways that the machine can learn simply put other key Concepts include how to evaluate a
+model count for biases and overfitting now I recommend the machine learning specialization on corsera since
+it's going to teach you exactly this it begins with supervised learning covering algorithms and finally
+unsupervised learning and it's also made for beginners and top rated so it's a pretty good option to try now
+moving on to the next step which is crucial to getting hired and you'll need to be credible to get a job this
+means that you don't just have the skills but you can actually show them to employers there are actually a lot
+of people with the right skills who can still never get hired because they're not able to look credible on
+paper and there's actually some candidates that are not as good as the other people but that just look better
+on paper so they get hired and the first step is to head over to kagle and this is a data science platform
+where you can find small real world data sets that you can work with and see how other people are doing this
+will allow you to start doing your own projects and a project is just something that you're working on that
+tests your ability to apply these Concepts to real problems for example you could build a recommendation
+system or a classification model I actually recommend just free YouTube tutorials when you get started because
+they're free and eventually you can do your own projects independently guided projects are pretty affordable
+and they're on corsera or data camp and they're very nice too now step four is returning to learning because
+you're not really done yet you know the basics of python but you'll need to know some specific libraries which
+are basically ways of extending the normal python functionalities adding some useful things for machine
+learning for example SCI kit learn and tensorflow the best way to find out which ones are important is just by
+looking at Job descript descriptions which is going to give you an indication of what the actual skills
+employers are looking for they'll usually put some sort of variety of skills as you can do the same things
+with different programming languages and tools so don't get discouraged if you see many different skills
+because you don't need every single skill and they can often kind of replace each other if you know one of
+them now step five is to learn how to deploy your models and a core part of machine learning is actually
+working with the actual machine learning models while this is vastly oversimplified you should learn how to
+deploy your models using flask or fast API you could also use hero or Google Cloud for certain deployments and
+I actually recommend the introduction to machine learning and production course by Deep learning AI it's a top
+rated course and it's going to teach you the basics or you could take the deploying machine learning models
+course by UC San Diego and all of these courses are actually available for free they do have some specific
+things if you want certificates but everything is actually accessible for free which is quite convenient so
+now let's take a quick break and step back to answer the question of degrees right do you need a degree to
+become a machine learning engineer and what does the reality actually look like here's the thing many job
+postings do require a degree especially for larger companies or traditional Industries the main reason for
+that is that they use degrees as a filter right machine learning requires a lot of skills and most people that
+don't have these skills yet they would sometimes still apply for the position that's not to say that the
+people with a degree always have the right skills but generally speaking they're going to be more likely to
+have the skills which is why the companies are requiring degrees companies get a lot of candidates and they're
+basically able to screen these candidates by raising the bar a little bit and demanding a degree but it's
+important to understand that experience can also outweigh degrees especially at startups or smaller companies
+that focus more on the actual skills rather than the bureaucracy itself that's not to say that it's not going
+to be harder of course it's going to be easier if you do have the right sort of theoretical Foundation like a
+degree but there are actually machine learning Engineers without a degree they do exist however the path for
+them has been much more complex than for their peers with a degree that's pretty much the thing that I've
+found online is that they've been able to do it but it's been a much more complex Journey if you still want to
+go for it here's what you can do right so you can build a very strong portfolio with different projects which
+we're going to discuss later and you can also earn a certificate from Google Microsoft Etc which is going to
+give you a little Edge as well but the most important thing is networking if you're able to get referrals and
+network with people you can actually bypass the degree requirements in some instances and get hired even if
+you don't meet the typical applicant profile it actually seems like from the testimonials that I've read
+online that most people that get hired without a degree they don't really go through traditional approaches
+they usually go through some sort of networking either internally or you know with other companies and then
+moving on to step six which is where you'll get hired start building out your portfolio for example on kaggle
+or GitHub and once you've uploaded some of your projects and you're familiar with the process you can also
+build your own personal portfolio through your own separate website you don't need to be some web developer or
+even design your own website there are free templates available for example on Wix WordPress or even some
+other portfolio websites nowadays you can then send this link to recruiters either directly or through your
+resume it's just important to have your portfolio project somewhere so they can go one step further and see
+the work that you've done not just your resume itself and again this is also particularly important if you
+don't have a traditionally strong resume like with a lot of experience or education and now you're ready to
+apply for a job but remember that most people actually fail on their first attempt keep learning improve your
+skills and your portfolio and try again join different communities engage in the field and network and don't
+be discouraged from applying to jobs obviously you shouldn't apply for something that you completely
+unqualified for but don't be afraid of applying to a job just because you're missing a few skills because the
+only way to get lucky is you put yourself out there in the first place thanks for watching and I wish you all
+the best on your machine Learning Journey
