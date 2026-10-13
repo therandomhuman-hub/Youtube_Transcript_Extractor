@@ -39,7 +39,7 @@ def test_archive_collection_push_trigger_is_limited_to_recovery_relevant_files()
 
     # Changes to collector configuration/code recover the archive immediately,
     # while transcript/state commits cannot recursively launch another collector.
-    assert "\\n  push:" in triggers
+    assert "\n  push:" in triggers
     assert "branches: [main]" in triggers
     for path in (
         '"channels.txt"',
