@@ -3,6 +3,7 @@ name: YouTube Transcript Archive
 on:
   # Routine collection is scheduled; manual dispatch remains available.
   # Narrow push paths provide immediate recovery after changes to collector configuration.
+  # This trigger also starts a fresh run when the workflow is manually repaired.
   # Transcript/state commits do not match these paths, preventing recursive archive runs.
   push:
     branches: [main]
