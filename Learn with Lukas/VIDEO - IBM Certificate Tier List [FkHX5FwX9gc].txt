@@ -1,0 +1,92 @@
+Title: IBM Certificate Tier List
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: FkHX5FwX9gc
+URL: https://www.youtube.com/watch?v=FkHX5FwX9gc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:26:59+00:00
+
+Kind: captions Language: en in this video we'll cover the seven best IBM certificates this year and most
+people just talk about the Google certificates but miss these insane opportunities IBM searchs are
+well-renowned and have a lot of benefits associated with them and they validate skills of your existing job
+and can help you get a lot of new in demand high paying jobs in Tech as well but with so many options to
+choose from which ones should you pick I've done a deep dive into these programs and found the seven best IBM
+searchs in no particular order the first one is the IBM product manager and it's supposed to help you well
+become a product manager and the course sets you up by providing the basics of product management letting you
+get into a field that pays around 128k per year in the US that is kind of the mediate range product managers
+can earn upwards of 200k if you're working at the absolute top companies the certification contains seven
+courses and the last one being a practice exam and averaging around 16 hours per course by the end of the
+program you'll be equipped to step into an entry-level product manager role with a solid foundation in product
+strategy development and life cycle management you will also get to work on some projects and build your
+portfolio and by the time you will apply for a job you'll have made many great portfolio projects that you can
+show now one of the things you have to consider is the job market and while recruiters are actively looking to
+hire a product managers the competition can also be pretty intense for this role especially for beginners they
+did create some specific resources like interview prep and other career support things but you will have to
+put in the work to succeed overall if you do want to work in this field in the long run run this course is
+worth considering next up we have the IBM project manager certificate considering the previous certificate
+it's easy to kind of mix up product and project manager and in essence a project manager deals with managing
+and overseeing projects whereas a product manager focuses on product development and release so don't let the
+similar words kind of mix it up for you based on the current market Trend the demand for project managers is
+expected to bump up to nearly 88 million roles in 2027 worldwide of course if we had 88 million in the US that
+would be about a quarter of the population but I guess at least the products would be really good now while
+being a high earning career the role has the added benefit of requiring a human touch so it's not going to be
+easy for AI to replace this anytime soon at least since it evolves many different and dynamic factors and you
+have to deal with different stakeholders clients projects and more and all kind of manage it together the
+average salary is around 96,000 per year which is awesome and to get a feel for the job I think the IBM CT is
+a good option because it's going to introduce you to all sorts of aspects of project management and if you
+still like it after you take this course then it's probably something for you the eight courses are designed
+to be completed in roughly 3 months assuming you pay it at 10 hours per week but at the same time getting a
+project management role can take years due to the experience required in most of them so depending on your
+qualifications you likely have to start as an intern or assistant next up on the list we have the IBM it
+support which is among the best on corsera and it even has a better rating and more reviews than Microsoft's
+course but first why should you become an IT support so although the US median salary is less than other
+courses we'll be discussing landing at around 59,000 per year on average it's still amongst the most in demand
+jobs with over 300,000 jobs in the us alone it support is not a field where you have to gamble with your
+future and there are plenty of opportunities available although the course itself is great I would like to
+state that the top rated course for it support would be Google's option which is called the Google It support
+certification but the Google certificate is also twice as long as the IBM so if you're short on time I would
+opt for the IBM certificate at number four we have the IBM cyber security analyst and this career is very much
+in demand as responsibility of the role is towards monitoring analyzing and responding to security breaches
+and threats you may believe that it must be a highly demanding role which is true but it's also a good option
+to get a certificate and kind of get gently introduced to the field and because there are so many different
+sub fields in cyber security and job that really people don't even know about I think it's a great opportunity
+for you to be introduced to different areas of cyber security and I almost forgot that the entry-level salary
+as a cyber security analyst is around 880,000 per year but cyber offers some really steep salaries later the
+US Bureau of Labor Statistics predicts a 31% growth in the next 10 years compared to a 4% growth on average so
+getting an entry-level job or an entry-level path into a career like this might be a pretty good option for
+the future the next certificate we have is the IBM data analyst C certificate and in this first course you'll
+dive into the fundamentals of data analytics setting a solid foundation and from there the program takes you
+on through a journey of python and other tools used by data analysts and the thing I really like the most
+about this one is that it focuses entirely almost on python it's a highly in demand skill and many other
+courses don't go as deep into python as this one they're basically having you apply and work with python in
+almost every course and that's a huge Advantage for your learning the entry level salary is around 60 to
+70,000 per year but you can make way more at senior levels as well and with over 19,000 reviews and a 4.7 star
+rating it's clear that this course is highly valued by its Learners and as a bonus if you are considering
+getting a degree you can actually earn up to 12 college credits from this certificate because it's actually
+been verified by an official body recognizing the value of this CT and that could save you a lot of time and
+money intuition fees if you do decide to get a degree in for example analytics later moving on to number six
+we have the IBM data science certificate which has over 72,000 reviews the most on our list a bit of confusion
+might arise for those who don't know the difference between all of the different data roles so let me just
+briefly explain that a data analyst usually uses tools like Excel and SQL to analyze data that's already been
+collected to help businesses make smart decisions on the other hand a data scientist will often create complex
+models and predict what's going to happen in the future but the rule is very Broad and you can do a lot of
+different things but they need to know more technical stuff and more programming languages like more Python
+and machine learning techniques and with a median pay of around 117,000 per year it's a great field to break
+into a friend of mine actually took this one while he was learning data science and it created a solid base
+for him before he was able to kind of build up all the other tools and enter and succeed in this field now
+most data science jobs will require a degree and it's also a pretty competitive field already there are some
+other alternatives to a degree but just know that you know if you're just expecting to get right into the
+field with zero experience zero education after this one sech I wouldn't really be super positive about that
+all right next up is the IBM AI developer professional certificate and as Ai and generative AI reshapes our
+world around us the need for AI developers is skyrocketing if you're looking to dive into this exciting field
+this sht is a great tool in Your Arsenal and it's going to help you do this in around 6 months with no prior
+experience needed this one will focus on prompt engineering software engineering AI or kind of generative AI
+HTML python JavaScript all through a series of Hands-On labs and real world projects now it's not an easy
+field to break into and you also need some other skills so it's not really entirely a one you know one
+certificate you take they are focusing on blending different skills so if you depending on your previous
+experience it's going to be harder or easier to actually leverage this course and for beginners in coding this
+course can be a bit overwhelming but if you do have an idea of coding or ideally kind of a software
+engineering background then this course would be perfect for you and I also made another video covering the
+best Microsoft Sears and perhaps the Microsoft ones would be better for you so you can check this video
+somewhere out on the screen and I would love to see you over there thanks for watching

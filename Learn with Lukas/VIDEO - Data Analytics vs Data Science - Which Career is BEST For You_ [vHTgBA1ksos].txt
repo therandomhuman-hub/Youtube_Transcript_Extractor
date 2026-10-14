@@ -1,0 +1,87 @@
+Title: Data Analytics vs Data Science - Which Career is BEST For You?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: vHTgBA1ksos
+URL: https://www.youtube.com/watch?v=vHTgBA1ksos
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:24:49+00:00
+
+Kind: captions Language: en should you spend your time on data analytics or data science if you want to get a
+high-paying job as a beginner and you kind of have to make a choice right and if you pick the wrong field you
+will struggle you'll hate it and you will probably fail but the problem is that both fields are great they
+have high paying jobs and the option to work from home but they are very different we're going to cover the
+roles and responsibilities the skills and knowledge you need to get a job the actual job market and the future
+of each field because you don't want to break into a field only for it to be replaced by AI right so first
+let's talk about data analytics and this is all about using using historical data and analyzing it to find
+patterns detect Trends and gather useful insights that we can use to make decisions when I make these YouTube
+videos I can see that the number of likes were great on some videos and worse on others and then evaluate if I
+should make more videos like this because people find it more helpful that is one form of data analytics as a
+data analyst you'll often do data cleaning organizing summarizing reporting you'll be using different tools
+like Excel SQL Tableau and python now what about the data scientist well technically data science is a pretty
+broad umbrella term which can even include data analytics so it's confusing right but often people refer to
+the role of a data scientist so simply put a data scientist will focus on predictive modeling and building
+algorithms to help businesses use data they will do things like collecting data cleaning data applying machine
+learning algorithms statistical techniques building models and communicating results and some of these things
+sound pretty similar right and the difference is that data scientists will usually deal with larger more
+unstructured data sets and use more advanced ADV techniques and programming to solve complex problems data
+scientists might for instance build a machine learning model to predict whether customers will return in the
+next quarter of the business whereas a data analyst would focus more on analyzing the data to see what they
+can improve a simpler approach but the main difference can be seen in the skills and the tools which we'll
+cover next now a data analyst will need basic skill sets including Excel SQL visualization tools like powerbi
+and Tableau and also some kind of programming like python or R the tasks can usually be accomplished with a
+variety of different tools and you also need to understand statistical Concepts and kind of understand the
+business itself to be able to understand and use your data to bring up some useful insights for your business
+now data scientists will need to have similar skills but much stronger programming skills and they'll often
+use Python and different libraries like pandas num pites like it learn tensorflow or pytorch they will also
+need a stronger background in math and statistics and the reason for that if you're wondering is because
+you're doing more complex tasks like designing machine learning models which are kind of built on these
+Concepts fundamentally speaking data scientists will usually also understand a big data platform and the
+aspects of cloud computing for working with large unstructured data sets they will also need a basic
+understanding of machine learning including algorithms and building models but the trick here is that not all
+data scientist roles are identical and I know it's kind of confusing but it's a pretty broad vague job
+description and some operate more like a technical data analyst whereas others operate more like a machine
+learning engineer so that's why you need to read the job description to avoid confusion and make sure that
+you're applying to something that you want to do now what about the actual learning curve and how fast you can
+learn this stuff and get a job so if we start with data analytics It's relatively easy to get started the
+barrier to entry is not that high and if you're already comfortable with Excel you have a basic statistical
+understanding and then you can focus on mastering SQL a visualization software and python or R and that skill
+set is actually strong enough to land you an entry level job more important than these skills is your ability
+to actually take these insights and translate them into actionable insights for the business no matter what
+tool you're using to accomplish it but for data scientists the learning curve is much deeper let's just be
+honest right that's not to say that it's a bad decision but it's going to be harder you'll need more technical
+skills and more programming machine learning and stats and it also requires more continuous learning as more
+techniques are appearing more frequently you will probably start learning the fundamentals of python SQL
+machine learning and then progress to more advanced concepts like deep learning and big data so yes the
+barrier to entry is going to be higher for data scientist but it also means that the salary and opportunities
+are different which we'll talk about next so for a data analyst the job market looks both good and bad they
+are in high demand across various Industries because everybody needs to improve using data and entry level
+salaries are typically around 60 to 80,000 per year in the US and if you get senior jobs you can make 90 100
+or even way above that especially if you do become a manager or you're from a high-paying location now on the
+other hand data scientists are also required in many businesses and they earn roughly 90 to120 ,000 per year
+but for more senior roles or top companies you can make way more and some are making 200,000 per year or above
+if senior at top companies what I need to say is that both jobs are competitive but data analyst jobs perhaps
+slightly more and I would say that it's because a lower barrier to entry meaning that more people are
+competing for the same number of jobs but I wouldn't be scared just because of that and both fields are
+growing rapidly but competition is of course worth considering even if it's easier to get the skills for data
+analyst job it might be hard to land a job due to competition that's why you kind of have to put in some extra
+effort and make sure that you can stand out now what does the future look like for these jobs and will they
+still be around in the age of automation now when you become a data analyst you open up many more doors you
+can become a bi analyst you can move to a data scientist or a data engineer later assuming that you kind of
+improve and gain skills along the way you can also grow into a management role where you oversee the team and
+you're more focusing on the business than the actual data data scientists also have a broad range of
+opportunities usually in more technical Fields like ml AI data engineering and even research but data science
+is a very broad field and as a data scientist you can also specialize further to increase your pay and your
+opportunities and for example you could focus in MLP or deep learning computer vision and many more things now
+it's hard to say precisely how AI will impact these roles and people that are saying that they know it they
+probably don't really know it but the work responsibilities will change because technology does not actually
+matter the goal is to use data to improve businesses in whatever way you can and this is why you will need to
+be a constant learner or willing to do so or you'll become obsolete in either of these fields it doesn't
+really matter both fields are just using tools as a way to use data to improve things so if you want a quicker
+entry to the workforce and you enjoy focusing more on the less technical stuff and more on business problem
+solving and data then I would recommend the data analyst but if you are more interested in technical stuff
+like programming machine learning and so on and you don't mind a steer learning curve that will give you a
+higher salary later then you should probably become a data scientist both jobs are great but they're kind of
+unique and I'll leave a beginner road map for each career in the description including specific courses to
+take and thanks for watching check out this video somewhere on the screen next YouTube has a lot of data and
+their ml models things that you would like it so it's probably a good idea

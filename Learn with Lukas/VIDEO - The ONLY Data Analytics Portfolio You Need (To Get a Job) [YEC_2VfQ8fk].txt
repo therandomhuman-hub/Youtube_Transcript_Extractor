@@ -1,0 +1,78 @@
+Title: The ONLY Data Analytics Portfolio You Need (To Get a Job)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: YEC_2VfQ8fk
+URL: https://www.youtube.com/watch?v=YEC_2VfQ8fk
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:27:28+00:00
+
+Kind: captions Language: en this is the fastest way to build a data analyst portfolio a portfolio that can
+take a beginner starting from zero to their first data analyst job and it's a portfolio that's tailored to
+what recruiters really want instead of just playing a guessing game if you don't have a portfolio employers
+are going to laugh at your application and even then most people have no idea what they're doing just having a
+portfolio is not enough so today you'll learn how to create a portfolio recruiters absolutely love and it's
+actually pretty easy you don't need to spend months doing projects and you do not need any coding or design
+skills whatsoever to set it up if if you follow the simple strategy you can have your first portfolio up
+within a few days for free and I'm not just going to ask you to blindly trust me I'm going to show you a fstep
+process to create this portfolio the first thing we're going to do is look at the data and I'll leave all the
+resources at the end so don't worry this site has gathered data from real job listings to see what skills
+employers actually look for we're going to select data analyst and take a look at the skills around 50% of the
+job listings require you to have some SQL skills and around 30% look for Microsoft Excel another 30% on python
+and around 24 and 20% on Tableau and powerbi each and R the other programming language alternative to python
+gets 16% and these are the most important skills next we'll need to have something to put in your portfolio
+before creating it right there's really no reason to have a house without rooms or Furniture in there and the
+portfolio is only a structure itself now we already know the skills that employees are looking for and this is
+a step I call becoming credible it really doesn't matter how good you are unless you can show it and it also
+means that if you can present your skills in a fantastic way you can actually get get the job instead of
+somebody with even better skills than you and that is why we do projects I'm going to make a detailed video
+but let's cover the most important things right now you can start doing guided projects which are available on
+sites like corera for a small fee or on YouTube completely for free nowadays you can even ask chbt for some
+ideas and just get started that way once you understand the fundamentals then move on to creating your own
+projects this is where you decide the actual problem or objective and how to approach it yourself are you
+going to use SQL or Tableau or both that's for you to decide now if you only done guided projects you can
+still use them if you add things and make it more personal to you it could still suit very well for your
+portfolio just don't add a basic project like everybody else I'm sure the recruiter has seen it a thousand
+times already so the next step is critical and most people actually fail at this step which is why they're not
+able to get a job it is building the portfolio itself but there are many different ways to do this and I've
+seen many people waste time on the wrong type of portfolio we're going to clear everything up the first type
+can be created on GitHub GitHub is a platform for Developers but also for data analysts you can upload your
+project your code and your documentation and it's free to use and you can then share your projects through a
+simple link or even your entire profile if you have more projects on GitHub but it's not the best way another
+option is to use kagle and the site is similar but tailored to data science and analytic it has some
+limitations but it's also free and whatever you choose is up to you but there are two more ways than what I
+just mentioned and they're actually much better as well I want you to understand all the options and then
+we'll pick the one that's best for you at the end so the next portfolio is something that you build yourself
+and this does not have to involve any coding you're not applying for a developer job but you can use a website
+builder or WordPress to start creating a basic portfolio I personally recommend Wix because they have some
+templates that you can start customizing really quickly and it's super simple to set up now your site is not
+supposed to contain your entire project rather a common approach is to keep your code and details on kaggle or
+GitHub your site is just like kind of a storefront or Gallery where you summarize the project you add some
+nice visuals and some other information about you if people want to dig deeper into the project and its code
+just link them to the other site now in 2025 you don't even have to do all this stuff if you don't want to we
+have a lot of new technology and there's a way that's even easier so let's head over to another website that's
+completely free I'm not sponsored or partnered with them in any way I just think it's a pretty cool platform
+to build your portfolio with these you can use their portfolio Builder input your project information and boom
+you have a portfolio ready to go it also looks really nice it contains your projects summarizes the skills and
+a quick description and a button to read more if they want to you can also add other things like your
+experience your education and your contact information and there are roughly 30,000 people using the site at
+the moment and that's only going to grow but again the site you choose is up to you now how many projects do
+you need well there's no perfect number but less is generally more keep them high quality rather than adding
+too many as the recruiter is only going to look at one or two anyway I would say that two to four projects is
+a good way to start but wait we're not done and if you screw up this last part nothing else matters it would
+be so sad to see you go all the way there through the steps we covered only to fall on the Finish Line you're
+so close just get this last step correct and the job is yours so during an interview you may be asked to
+present one or a few of your projects and this is a great way to show your communication skills but also that
+you made the project and that you really understand it that it's not just something that you copied or quickly
+from a tutorial you see if you cannot talk about your project how can they even know that it's yours so here's
+a quick way to present your project and impress the recruiter start with mentioning the problem or the goal of
+the project why have you decided to do this there must be some good reason for it right if you find this part
+difficult I would pick a better project that's more personal to you that you can motivate and that you can
+reason about next mention the data source where you retrieved your data from as well as the tools you used you
+can say that I used SQL to aggregate some data and I used Tableau to visualize my findings that's a simple
+example the most important part is yet to come so you want to highlight the key insights how you got to them
+and how your insights can help solve the problem or the goal of the project this is assuming you're doing an
+endtoend project otherwise just pick out the relevant parts of the project that you're going to be talking
+about now you know what skills to focus on and how to do projects build your portfolio and even how to present
+your portfolio if you're asked to but I also made another video somewhere on the screen that's going to help
+you do this even faster so thanks for watching and I hope to see you over there

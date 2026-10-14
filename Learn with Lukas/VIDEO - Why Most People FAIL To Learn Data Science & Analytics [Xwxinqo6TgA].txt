@@ -1,0 +1,80 @@
+Title: Why Most People FAIL To Learn Data Science & Analytics
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Xwxinqo6TgA
+URL: https://www.youtube.com/watch?v=Xwxinqo6TgA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:28:56+00:00
+
+Kind: captions Language: en there are a lot of people trying to learn data science they set a goal feel really
+motivated and tell all of their friends but most people never make it past the first month and I find this
+really fascinating they're so set on starting a career in data science yet completely fail and it's not
+because they're not smart enough it's actually quite the opposite they just got into a bad situation where
+learning data science becomes really difficult and today I'll show you these six critical mistakes to avoid if
+you want to learn data science and get a job fast these things have been proven and I've analyzed how
+successful the dat scientists got to where they are and also perhaps more importantly the pitfalls that make
+people struggle and never reach data science jobs so first there's a huge mistakes that so many people make
+including myself and actually I make all of these mistakes I'm not perfect by any means and that's why I
+wanted to make this video so I could learn from it as well data science is about using data to extract
+insights simply put and this is not easy it's not always clear how to do something or even what to do in the
+first place and there are often multiple ways to accomplish the same objective one problem here when learning
+is not allowing yourself to problem solve and play around and everything does not have to be perfect and you
+don't need to know everything before you start solving a problem because in the real world the circumstances
+are never perfect either data is missing requirements may be vague or the deadline is too short and even then
+you don't know exactly where to start which is completely fine but when it comes to learning we want it to be
+super smooth we just want to take a quick course and for everything to work and here's what I say Embrace
+errors and learning opportunities now it sounds boring but if you're not getting stuck frequently when
+building projects taking courses then you're not really challenging yourself enough or you were just born a
+data science expert and you don't need to watch this video the next mistake people make is way worse because
+when learning data science there are a ton of things that you can learn even the term data science is very
+Broad and in the beginning it's completely fine to explore and kind of see what things you like to do but then
+you have to focus and ideally on the things required for the job that you're looking for now we don't have
+time to learn 10 different programming languages tools techniques and prepare for 10 jobs we're all just human
+so focusing on one area and ignoring the rest can accelerate your learning significantly you'll be able to go
+further and actually learn enough to where it starts to become fun useful and you feel like you're progressing
+now am I telling you to put your head down in the sand and just ignore everything yes but in a smart way so
+first look around observe your environment learn the basics and then specialize if you're really good at
+getting things done and you know the basics and even if you don't know all the new Frameworks languages tools
+and stuff like that you can still get hired now reason number three why people fail and this one is critical
+I'm going to show you how to fix this one of course as well and the best way to learn something is by
+practicing and applying it yourself now you've heard this one a 100 times already right it's fantastic to
+watch videos and read stuff it's very enjoyable but it should only be a part of your learning and the key
+thing here is to implement regular practice for example if you're doing a project or something work on it
+every single day or at least a few times a week you don't have to spend hours every day but it's important to
+build a routine of learning data science and after a while it's not even going to feel that difficult because
+you're already kind of used to the routine think about waking up early in the morning the first time you do it
+it's going to be hard okay it's probably hard every single day but it just get easier a little bit at least a
+good way to get started here is by journaling or at least noting down what you've done every single day this
+is going to help you track your progress and also stay motivated because we often forget how far we've come
+because we don't really see the journey we just see everything as it happens day by day when we start learning
+we're usually really really motivated and we're all dialed in we established a pretty good routine but
+eventually everything just starts to fall apart slowly and you might miss one session a week two sessions the
+next week and then suddenly three sessions and you're not even learning at all we've all been there and one
+issue that we often set and I've made this mistake so many times is that we set unrealistic expectations and
+if you're working a full-time job you're most likely not going to have the energy to study like 6 hours a day
+you have other responsibilities and things going on and if you set unrealistic expectations at the start
+you'll just be discouraged and you'll drop it completely try to make your schedule work for you and the
+awesome thing is that if you actually do this right you don't need as much time as you might think when I'm at
+my desk I often find myself doing completely useless things and I have to remind myself that just because I'm
+at the computer there not mean that it's helpful for me in any way actually quite the opposite and one good
+way to do so is by establishing a tracking system and setting specific learning objectives so track the time
+you spend on tasks and be completely immersed in the task not doing anything else multitasking is not good for
+anybody it's not good for productivity and it's been proven to be so it also comes down to habits if you're
+stressed you don't sleep enough like me or you have too much going on it will be harder to learn I know that
+it's not possible to remove all of your responsibilities and you know life comes in the way sometimes but the
+key here is to eliminate waste where possible one step at a time now reason number five is to accept that you
+won't know everything and you'll always kind of feel like you're faking it to some extent because no matter
+how much you learn the thing is that if you're like 100% confident about what you're doing in data science
+you're doing too little and too easy things believe in your ability to learn more overcome frustration accept
+challenges and setbacks as a part of learning and this really integrates into all of the other things that I
+mentioned but it's super important now reason number six if you're self-studying this one is particularly
+dangerous for you and it could completely kill your data science journey and it is doing things alone now I'm
+an introvert and even though I like talking to you guys I love my personal space and my time alone but I've
+also realized how important have a community can be now you don't need to sign up for some kind of boot camp
+or such you can just join groups or online communities and find your way of becoming a part of something this
+will help you build connections which might get you a job in the future get inspired and also just learn from
+others which will significantly accelerate your own learning because we don't have time to make all the
+mistakes ourselves right good luck with your data science Journey I'm sure you'll do great and also check out
+the next video somewhere on the screen it covers some more data science stuff that I think you might be
+interested in see you over there

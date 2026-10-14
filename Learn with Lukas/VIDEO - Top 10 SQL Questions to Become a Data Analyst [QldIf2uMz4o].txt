@@ -1,0 +1,91 @@
+Title: Top 10 SQL Questions to Become a Data Analyst
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: QldIf2uMz4o
+URL: https://www.youtube.com/watch?v=QldIf2uMz4o
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:21:23+00:00
+
+Kind: captions Language: en I've got 10 SQL interview questions that every data analyst needs to know and SQL
+is the most important skill for data analysts and when you do get an interview you have to be ready to face it
+imagine learning for months only to fail at the last step it's kind of like running a marathon and failing on
+the finish line and when a company invites you to an interview you don't have time to learn then no chance so
+now is the best time to prepare if you want to be ready for an interview and actually become a data analyst
+and these questions are based on an article from interview query claiming to be easy SQL questions let's see
+how easy they are first up how would you use the group by statements now Group by is one of the first things
+that you'll learn about SQL and you use it to group rows that have the same values in certain columns for
+example if you're dealing with an employee data set and you want to count how many people are in each
+department at the company you can group them by the respective department and then calculate it question
+number two is what are the most common aggregate functions in SQL and what do they do and first you kind of
+have to understand what an aggregate function is and basically aggregate functions in SQL help us combine data
+in different ways and the most common aggregate functions in SQL are count which counts how many rows or items
+there are sum which simply adds up the numbers in a column to get a total for a sum and you can also use
+average or ABG which surprisingly calculates the average and then we also have Max and Min which are used to
+calculate the largest and the smallest value in the column number three what is a unique key in SQL now a
+unique key should not be confused with the primary key although they do have some things in common but rather
+it ensures that all the values in a column are different from another now a unique key can also have a null
+value but only one per column so now you're kind of asking why should you use these ones right it's basically
+to make sure that there are no duplicates and this is important for certain columns like if you're dealing
+with email addresses you don't want to have the same email address signing up to multiple accounts when you
+only allow one user to have one account per email address now question number four is what is the difference
+between union and Union all do you know the difference first we should understand what a union actually is and
+then compared to a join so a join is basically when you combine data from multiple tables based on the related
+columns but when you do a union you're instead combining the results from separate queries and then you're
+stacking them together so now for the basic Union operator you're going to combine results from two queries
+and remove the duplicates so if you're combining customers from two different countries you'll make sure that
+each customer appears only once but if you're using the union all statement instead you're keeping the
+duplicates which means that they'll appear twice in your results simply put the differences is the way of
+dealing with duplicates Union will remove all of the duplicates and Union all will keep all of the duplicates
+now question number five is what is the difference between a right join and a left joint all right so for this
+question you need to be familiar with joints and what they are and they're basically a way of combining rows
+from two or more tables so when you have one table that's called customer and one that's called addresses and
+you have some information that you want to take from customer and put together in the other table then you
+would kind of use a join and the specific join joint type refers to the way that you actually connect these
+tables and the key difference is about which table is prioritized for keeping unmatched rows so left join will
+return the rows from the left table and the matching rows from the right table and the right join will return
+them surprisingly from the right table first plus matching The Columns from the left table now what is the
+difference between a view and a table so a table is going to store actual data in rows and columns and you
+could for example have an employee table that stores Name ID salary and more information about employee and
+this is where the information is stored permanently in your table in your database but when you want to view a
+certain part of the table again view a certain part of the table without creating an entirely new permanent
+table you can use something called a view so for example you might want to display only the employee names and
+their departments by gathering data from two different tables employee and departments and you wonder why this
+is necessary if we already have the data why do we want to create a view well it's basically because it
+simplifies complex queries and can limit access to certain data you don't want everybody to have access to all
+of the data so you can create a view with the data that you want to include it's basically like a saved query
+showing some data from a table without the actual data itself now question number seven is what SQL operator
+is used for pattern matching and this one can be a little bit confusing because here you need to understand
+that it refers to the like operator if you want to find a pattern in a text with SQL this is the way to do it
+for example if you're selecting all data from employees or name like John which will give you all of the
+records where the name is drawn but you can also use wild cards to customize this search feature using like
+and if you want to search for a more specific letter in a word a certain ending a certain beginning and more
+for example Find all names that start with b where you would simply put like B and then a percentage sign now
+question number eight is what command would you use to update data in a table now this one might come as a
+surprise but it's the update command but more importantly for this question is how you actually use it cuz
+it's pretty straightforward to just say update update is a way to modify existing records in a table and
+instead of selecting the table at the beginning you'll type update table name and by doing so you're basically
+telling SQL that you've entered the update table mode but we need to actually update the table right to make
+some changes so after you use your update statement you'll use the set Clause to make changes in your columns
+but if you want to make more specific changes and you want to customize it a bit more you can use the where
+Clause to only update where certain conditions are true so for example where the employee ID is for if you
+only want to update the salary for your fourth employee using update now question number nine is going to be
+which operator is used to select values within a range and what types of values can actually be selected right
+so for this question they're testing you on your knowledge of one specific SQL operator and if you're familiar
+with this one you can already tell it by the question because it says select values within a range so we're
+selecting between something and therefore we're going to use the between operator if you're doing a normal
+select statement you're selecting something and you want to find a product between $10 and $50 you would write
+where price between 10 and 50 so it's actually quite intuitive you're literally selecting the price between
+the numbers 10 and 50 and remember that the 10 and 50 are numbers for values in the price column so it all
+makes sense you can also use this for dates and more so it's not only for numbers and it's a really valuable
+operator when you're trying to select a part of your data something between another now question number 10 is
+to write a query that outputs a random manufacturer's name so for this question they're asking you to write
+some stuff and we're going to start by writing select manufacturer name from manufacturers of course inputting
+the actual name but we want to order it by random manufacturer's name and here it kind of depends on the SQL
+version that you're using but I'm going to focus on my SQL here and you'll write order by R and which simply
+put orders the selection randomly shuffling the rows and then we'll write a limit one to select only one of
+the rows this is how simple it was we selected everything as usual we ordered it Rand rly and we limited the
+result to one answer to get one manufacturer's random name if you want more interview questions then subscribe
+to the channel and I'll leave some of my other resources in the description and plus check out this video
+somewhere on the screen to keep practicing SQL because that's what you're here for right see you in the next
+one

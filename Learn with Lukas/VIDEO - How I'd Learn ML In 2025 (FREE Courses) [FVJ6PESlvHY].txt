@@ -1,0 +1,59 @@
+Title: How I'd Learn ML In 2025 (FREE Courses)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: FVJ6PESlvHY
+URL: https://www.youtube.com/watch?v=FVJ6PESlvHY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:26:30+00:00
+
+Kind: captions Language: en it's never been harder to become a machine learning engineer but still the salary
+is incredible at around 160,000 per year you can often work from home and the work itself is interesting and
+the field itself is also growing but machine learning is becoming more popular and there are a lot more people
+to compete with nowadays and things that could get you a job before will not work in the future it's just not
+enough if you don't fix this and you have an updated strategy the honest truth is that your chance of success
+is about 1% by the end of this video you'll know exactly how to become a machine learning engineer starting
+from ser today even with no prior experience or education and there are five levels to this starting with
+level number one which is building a solid foundation you'll need to have certain math skills to dig into
+machine learning as it's actually built on these Concepts but this should only be the first part and shouldn't
+take too much of your time now I recommend the mathematics for machine learning specialization and all you
+need to get started is basic high school math and after three concise courses you'll be much better prepared
+for the next steps as a slightly shorter option you can also take this course by Imperial College London now
+the main thing to get hired is to fulfill the criteria and you'll need to be qualified and you have to be
+credible as an ml engineer qualified simply means that you have the right skills and credible means that you
+can show it to employers when they're looking for it if you miss one of these parts it's not going to work but
+it's easier to achieve than most people think so how can you become a qualified machine learning engineer well
+if you know the fundamental skills and you can do some real world machine learning tasks successfully without
+being an expert then you qualified for your first job in machine learning we've used a site called Data nerd
+that scanned thousands of real job listings to find out what companies actually look for so that we can learn
+the right skills this will save you time and ensure that you can put the most useful things on your resume so
+step two is to Learn Python and python is the most in demand skill for ML it's actually in over 70% of the job
+listings so for complete beginners I recommend python for everybody's specialization a more specific course
+that's technically better is to apply the data science with python specialization and this program will give
+you Hands-On skills working with python specifically for ML and data science python is a very versatile
+language and you really only need to focus on machine learning so move it to a specialized course as fast as
+possible the next step is to take a certificate and you've now built a solid foundation and it's time to dig
+deeper into machine learning and the best course out there is the machine learning specialization is provided
+by Stanford one of the top universities together with deep learning AI a lead ing ML and AI education provider
+and it's insane the course has half a million students and a near perfect 4.9 rating you learn the most in
+theand skills tensor flow and other top skills like psyit learn and numpy and while you're not going to become
+an expert because it's so short you'll be introduced to many different areas and again you don't need to be an
+expert in the beginning another option is the IBM introduction to machine learning or just free YouTube
+tutorials combined with some Hands-On practice that works great too so now step four for machine learning
+there are certain tools and libraries that are more important than others and if you have these once on your
+resume you'll be much more likely to get a job and chances are that at least a few of them are going to be
+required the two most in demand ones are tensor flow and pytorch and I recommend spending some time on one of
+them or both the course introduction to tensorflow will help you dig into it in roughly 20 hours or so and
+IBM's deep learning with pytorch will help you do so in roughly 19 so pretty much the same step five now you
+have the basic skills down but we're not done yet you'll need to start applying your knowledge both for
+yourself and for your learning but also to show to employers and I recommend starting with guided projects
+either free on YouTube or on corsera and you can try these ones they're like three projects that only take you
+a couple of hours and you'll be guided step by step learning the entire process and eventually you can start
+doing them yourself so now you've got the basic skills down and you can start applying to jobs once you've set
+up a portfolio with your projects just showing pretty clearly and made a good resume but recommend that you go
+back do projects add more skills and if you for instance add big data to your skill set you will instantly
+have more jobs available to you so check the top skills from machine learning engineers and simply start
+stacking them over time this will make your resume an absolute Powerhouse and eventually you'll get a job and
+remember that you only need one job offer to succeed I'm going to leave a free road map with all the courses
+in the description and I made another video covering the other steps to become a machine learning engineer
+like building a portfolio which you can check out somewhere on the screen right here thanks for watching guys

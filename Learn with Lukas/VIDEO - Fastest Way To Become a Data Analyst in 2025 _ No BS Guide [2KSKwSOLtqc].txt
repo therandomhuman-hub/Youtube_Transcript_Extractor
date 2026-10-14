@@ -1,0 +1,61 @@
+Title: Fastest Way To Become a Data Analyst in 2025 | No BS Guide
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 2KSKwSOLtqc
+URL: https://www.youtube.com/watch?v=2KSKwSOLtqc
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:26:00+00:00
+
+Kind: captions Language: en there are more and more people looking to become a data analyst than ever before
+just like you you want a 70k per year ENT your level salary work from home and do this without experience or
+even without a degree all of that is possible as a data analyst but in 2025 everybody's thinking the same
+thing I've seen people try for 6 months or even years before getting a single interview this video is based on
+last year's with my updated strategy for 2025 proven to work if you want to stop struggling and become a data
+analyst fast this is the best way guaranteed so first first we're going to identify the key skills last year I
+found five core skills that companies were looking for and these were SQL structured query language used to
+work with databases Microsoft Excel the spreadsheet python the programming language and R the other
+programming language and also Tableau a visualization software and Microsoft powerbi now how's that changed
+well here's a site that actually scans job listings and we can see what skills employers look for without
+guessing we're going to select data analyst and the most important skill is seek just as before now Excel is
+next and python Tableau powerbi and R so it seems to be kind of the same as before but some other critical
+things have changed now you don't need to learn all skills you can choose between Python or R for programming
+python is more popular but R is more common in research and Academia you can also choose between powerbi and
+Tableau and the difference is pretty small and you can always transfer your knowledge and both are just as in
+demand now the next step is becoming trustworthy and employers don't really care about people people with
+skills but those who they trust to get the job done they're just not willing to take a chance here's a
+four-step process to ensure that you become a strong trustworthy candidate that can send an application and
+get hired when people tell me that their applications are getting no responses this is almost always the
+problem first you'll need to create a project and don't be discouraged this part can actually be pretty easy
+and fun Define a business question that you're trying to solve find data that you can work with and pick
+suitable tools for example Python and SQL and then clean prepare and an Anze data gather insights and present
+them now that's easy to say right so it's a pretty big thing to do when you're getting started and what you
+can do is follow along on somebody else's guided Project without having to go through all of this yourself
+there are free guided projects like these on YouTube so just start customizing these and then adding stuff to
+make them more unique once you're comfortable you can move into creating your own projects but you can still
+follow guides access online resources and even some use of AI cuz you're not alone in this but projects mean
+nothing if you don't have a portfolio to show your employes you don't need a lot of projects to start building
+a portfolio either so try selecting around two to five of your projects that's all you need to start you can
+upload your projects for free on GitHub or kaggle but once you're more serious I recommend creating a personal
+portfolio as well this is a separate website that you often own the most important thing whatever site you
+choose is to make recruiters happy and for that reason keep it simple highlight the core aspects of each
+project the skills include a nice visual or image you can then customize your site and make it look
+professional and there are also some sites with templates like this one making it really easy for you and I'll
+include a detailed video where I go over this at the end sometimes people consider getting certified which is
+kind of The Next Step but if you get the wrong certification you can do more harm than good because passing a
+certification exam can take a lot of time that you could have spent on projects or just applying to jobs but
+some can be worth it though and they're generally from Top providers like Microsoft Google and Amazon
+Microsoft has a powerbi data analyst search called pl300 and Tableau also has a popular certification they're
+not free but if you're Cera or data Camp user you can get a 50% discount if you complete certain learning path
+so how do you put all of this together on your resume then we've gone through so much stuff but again keep it
+simple and remember that less is more focus on your strengths and if you have some relevant experience then
+include that if you don't pay more attention to another section think about the skills and what the recruiter
+is looking for and every single line on your resume should have a clear purpose to show that you're a good
+candidate for a data analyst job don't just put something on your resume for the sake of it and you can create
+your actual rume on canva or resume IO or some other site they have some free data analyst templates over
+there as well now you're ready to go out and face the job market knowing that you're ready and this is going
+to make you more confident it's going to allow you to get an interview faster and if you're not getting an
+interview right away then do not worry go back improve your portfolio consider a certification and try again
+and if you spin the wheel enough times and you keep improving it's going to land on your number I'm going to
+leave a free data analyst road map in the description but you also need a portfolio and I did not forget this
+video so check it out right here this is the secret to become a data analyst sh

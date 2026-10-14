@@ -1,0 +1,78 @@
+Title: How Anyone Can Become a Data Scientist And Make $123k/yr
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: EIHOTtX2mI4
+URL: https://www.youtube.com/watch?v=EIHOTtX2mI4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:23:48+00:00
+
+Kind: captions Language: en becoming a data scientist is more challenging than ever but it's still a fantastic
+career to pursue and it's highly in demand allows you to work from home and offers High pay with a median
+entry level salary of 113,000 per year but jobs are becoming increasingly competitive especially at the entry
+level and taking a certificate course is not going to be enough if you live in this false reality you'll be
+surprised after spending years with no progress and by the end of this video you'll know exactly how to land a
+data scientist job even without experience or education I've analyzed exactly how beginners become data
+scientists to find out the proven blueprint and at the end of this video I'll also give you a full road map
+with exactly what to do and what courses to take step by step so let's begin the first step is becoming
+qualified and to be qualified we need to identify what to learn there are a couple of key skills that we need
+to have as a data scientist and a fantastic way to begin is by taking a general data science course this will
+allow you to get a light introduction to the field and the main benefit is that you'll figure out what to
+specialize in later but let's not get ahead of ourselves the IBM data science professional certificate is a
+great beginner course to achieve this the next step is probably the biggest challenge for most people and if
+you can get through this step the rest will not be a problem it's because we need to build a solid foundation
+so it's time to dig into some math and statistics now if you have a degree in a quantitative field you've
+probably already taken some courses and learned the basics but regardless it's time to learn how to apply and
+use math for data science now you don't have to love math and the math in school is really nothing like
+applying it to real Concepts and making useful when data science and from what I've seen people tend to find
+it way easier simply because it's more useful and more fun and here there are two Great Courses mathematics
+for ML and data science and there's also intro to statistics by Stanford both are available for free and I'll
+include them in the road map that I give you at the end now these courses do by no means replace math at
+University but regardless of your situation they can help raise your level fast now the next step is to learn
+programming and there are hundreds of languages and things to learn and most should just be avoided because
+it's just a waste of time this website has actually collected data from millions of job listings and it shows
+that employers primarily look for Python and R skills for data science now there are some other skills and
+programming languages but to get a job you want to learn one of these languages that employers highly desire
+now don't just take any course on python or R because there's too much to learn especially for Python and you
+only need specific skills so you can take a python for data science course like this one it's a fantastic
+combo kind of combining python Basics with applying it to data science and the next step is to learn SQL now
+SQL stands for structured query language and it's used to manage relational databases and it's super important
+so learn it I'm a proud long-term partner of learn sqls so I obviously recommend their platform but there are
+free options like wii3 schools as well all right the next step is to learn big data so big data is literally
+just what the name suggests it's big data and large data sets that are conventional tools cannot handle so a
+new field was created and today data can come in such huge quantities and Spark is one of the most popular
+tools here and this course by IBM will introduce you to both in just about 18 hours or so all right so now
+we're getting into some more delicate steps we've gone through the basics but now it's time to boost your
+profile and actually get a job so some data scientists will focus more on machine learning than others and
+it's a very broad role but you should definitely add some learning to your skill set now you've already been
+introduced to it in earlier courses but now you can give that a boost ml is a big area but of course like this
+one will give you a good introduction to the field then you can decide where to go from there and in the first
+course you took you've already learned some data visualization but here you'll have the option to go even
+further and you can either do this using a skill you already know and continue learning it like python or R
+but you can also do data visualization with a specific tool like powerbi or Tableau the tool is not the deal
+breaker well kind of for employers but you can use different ones and accomplish basically the same thing now
+cloud is also an essential skill in data science nowadays and you don't need to learn every single Cloud
+platform like Amazon Google and so on one common strategy is to focus on learning one which then helps you
+transfer your deep knowledge to the rest if necessary and if your company are using some other platform and
+the most popular platforms are AWS Azure and Google Cloud platform all right so now we're moving to the next
+section which is section two and here it's all about becoming credible because you have the skills but now you
+need to be able to show that right and courses and certificates are not enough to show your skills you must do
+this through projects and projects are essential for learning because after a certain point courses will only
+give you like diminishing returns and projects are also awesome because they can help you build a portfolio
+and that is the secret start with simple guided projects such as a guided project on YouTube or some kind of
+walkthr and once you've seen some examples you can then start doing your own projects it's going to be a lot
+of trial and error but that's how you learn and it's it's kind of the point the next step is to upload your
+projects to a site where you can create a portfolio like on kagle and you can create a notebook and just make
+your projects public and this profile can then be shared on your LinkedIn or on your resume when applying for
+jobs and once you have a few projects you can also create a dedicated portfolio website but the important
+thing is just that you have a place to show your project somewhere where it looks kind of nice and it's easy
+to get a quick overview of them to make sure that you're getting hired you can also boost your profile with
+getting certified and this is different from a course that you take where you kind of get a piece of paper
+saying that you did it this is basically when you take a dedicated proctored exam and when you pass boom
+you're certified now both Google and Microsoft have their own data scientist certifications but this one Azure
+data scientist associate is very popular and useful if you want to work with Microsoft Azure and they're sweet
+it's not too expensive and you can also renew it for free which is very nice don't stress about this yet go
+through the other steps carefully before considering a certification there are many different options once you
+get to that stage in the description you'll find a full road map with the exact courses I recommend and to
+learn about the best certifications check out this video next which I made dedicated to explaining all the
+best search for data scientists pretty good deal right
