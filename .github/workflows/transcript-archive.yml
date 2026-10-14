@@ -102,6 +102,17 @@ jobs:
       - name: Package completed channel archives
         if: always()
         run: python scripts/package_completed.py --root .
+      - name: Package combined ZIP when all 20 channels are complete
+        if: always()
+        run: python scripts/package_all_channels.py --root . --expected-count 20 --output "$RUNNER_TEMP/all_20_channel_archives.zip"
+      - name: Upload combined ZIP when ready
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: all-20-channel-archives-${{ github.run_id }}
+          path: ${{ runner.temp }}/all_20_channel_archives.zip
+          if-no-files-found: ignore
+          retention-days: 14
       - name: Upload run report and channel state
         if: always()
         uses: actions/upload-artifact@v4
@@ -149,26 +160,3 @@ jobs:
               exit 1
             fi
           fi
-
-  bundle:
-    name: Bundle all 20 channels when complete
-    needs: collect
-    if: always()
-    runs-on: ubuntu-latest
-    timeout-minutes: 90
-    steps:
-      - name: Checkout latest committed archive state
-        uses: actions/checkout@v7
-        with:
-          ref: main
-          fetch-depth: 1
-      - name: Create combined ZIP only if every channel is complete
-        run: python scripts/package_all_channels.py --root . --expected-count 20 --output "$RUNNER_TEMP/all_20_channel_archives.zip"
-      - name: Upload combined bundle when ready
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: all-20-channel-archives-${{ github.run_id }}
-          path: ${{ runner.temp }}/all_20_channel_archives.zip
-          if-no-files-found: ignore
-          retention-days: 14
