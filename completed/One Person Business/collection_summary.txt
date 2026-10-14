@@ -1,11 +1,11 @@
 Channel name: One Person Business
 Channel URL: https://www.youtube.com/@One-Person-Business
-Last updated UTC: 2026-10-14T11:48:09+00:00
-Discovered in current scan: 124
-Manifest total: 124
-Transcripts saved: 123
+Last updated UTC: 2026-10-14T16:19:04+00:00
+Discovered in current scan: 125
+Manifest total: 125
+Transcripts saved: 124
 No captions: 1
-Resolved items (saved transcript or explicit no-caption outcome): 124
+Resolved items (saved transcript or explicit no-caption outcome): 125
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
