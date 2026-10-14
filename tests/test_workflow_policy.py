@@ -65,9 +65,9 @@ def test_archive_collection_push_trigger_is_limited_to_recovery_relevant_files()
 def test_archive_watchdog_recovers_missed_schedule_without_duplicate_runs():
     watchdog = (ROOT / ".github" / "workflows" / "archive-watchdog.yml").read_text(encoding="utf-8")
 
-    assert 'cron: "43 * * * *"' in watchdog
+    assert 'cron: "13,43 * * * *"' in watchdog
     assert "actions: write" in watchdog
-    assert "thresholdHours = 8" in watchdog
+    assert "thresholdHours = 5" in watchdog
     assert "activeStatuses" in watchdog
     assert "github.rest.actions.listWorkflowRuns" in watchdog
     assert "github.rest.actions.createWorkflowDispatch" in watchdog
