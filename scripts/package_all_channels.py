@@ -129,6 +129,20 @@ def package_all_channels(
 
         entries.append((url, record, zip_path))
 
+    # Only spend time on full CRC/content verification after every channel is
+    # otherwise ready; incomplete backfills should exit quickly on their first
+    # unresolved channel instead of re-reading old ZIPs on every scheduled run.
+    for _, record, zip_path in entries:
+        try:
+            with zipfile.ZipFile(zip_path, "r") as archive:
+                corrupt_member = archive.testzip()
+        except (OSError, zipfile.BadZipFile, RuntimeError) as exc:
+            not_ready(f"cannot validate {zip_path.name}: {exc}")
+            return None
+        if corrupt_member:
+            not_ready(f"corrupt member {corrupt_member!r} in completed/{zip_path.name}")
+            return None
+
     fd, temp_name = tempfile.mkstemp(prefix=f".{output.name}.", suffix=".part", dir=output.parent)
     os.close(fd)
     temp_path = Path(temp_name)
