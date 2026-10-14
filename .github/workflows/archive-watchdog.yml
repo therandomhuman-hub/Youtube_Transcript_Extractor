@@ -3,7 +3,8 @@ name: YouTube Archive Schedule Watchdog
 on:
   # Runs between the archive's four main schedule slots and recovers missed triggers.
   schedule:
-    - cron: "43 * * * *"
+    # Retry the health check twice per hour if a hosted runner fails to start.
+    - cron: "13,43 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,7 +26,7 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const workflowId = "transcript-archive.yml";
-            const thresholdHours = 8;
+            const thresholdHours = 5;
             const activeStatuses = new Set([
               "queued", "in_progress", "requested", "waiting", "pending"
             ]);
