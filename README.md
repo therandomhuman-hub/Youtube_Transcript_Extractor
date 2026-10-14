@@ -39,7 +39,7 @@ updated/<Channel Name>/*new transcript copies + new_transcripts.json*
 
 ## Schedule
 
-The workflow uses UTC cron `17 0,6,12,18 * * *`: 00:17, 06:17, 12:17 and 18:17 UTC (four runs per day). That is 05:47, 11:47, 17:47 and 23:47 India Standard Time. GitHub may delay scheduled runs during periods of high load. Manual runs support an optional `max_channels` test limit and `max_items_per_channel`; the scheduled default is 12 attempts per channel per run to balance channel coverage against job timeout. Set `max_items_per_channel=0` for an explicitly unlimited manual collection run.
+The workflow uses UTC cron `17 0,6,12,18 * * *`: 00:17, 06:17, 12:17 and 18:17 UTC (four runs per day). That is 05:47, 11:47, 17:47 and 23:47 India Standard Time. GitHub may delay scheduled runs during periods of high load. Manual runs support an optional `max_channels` test limit and `max_items_per_channel`. The scheduled default is `max_items_per_channel=0` (unlimited): the collector attempts every pending item for each channel in configured order, subject to the collection job's finite runtime ceiling. Set a positive value only for controlled test runs.
 
 ## Install and run locally
 
@@ -87,7 +87,7 @@ Add the secret under **Settings → Secrets and variables → Actions → New re
 
 - The collector is scheduled four times per day: 00:17, 06:17, 12:17 and 18:17 UTC.
 - A newer scheduled or manually started run does not cancel an active collection. Only one collector uses the shared concurrency group at a time; GitHub can keep a single pending run.
-- The scheduled default is a 12-item attempt budget per channel. This keeps progress distributed across configured channels instead of allowing a channel with hundreds of pending items to consume the entire runtime. For an intentional full-channel test/backfill, manual dispatch can use `max_items_per_channel=0`; the job still has a finite runtime ceiling.
+- The scheduled default is unlimited per channel (`max_items_per_channel=0`). It processes pending items in configured channel order until channels are resolved or the collection step reaches its 340-minute timeout. A long channel can therefore consume most of one run; per-item checkpoints preserve progress for the next run.
 - Collection is capped at 340 minutes inside a 350-minute job timeout. The run checkpoint and finalization steps record partial progress and package already-completed channels even when collection fails or times out.
 - Routine collection is scheduled four times per day. A watchdog checks twice per hour and dispatches a recovery run if the archive has been quiet for over 5 hours and no run is active. Narrow push filters also launch collection after changes to channel configuration or collector code; transcript/state commits are excluded from those paths, preventing recursive runs. Ordinary test/docs edits run validation only.
 - The publish step fetches and rebases against the latest `main`, retries safe pushes, and never force-pushes over newer commits.
@@ -113,7 +113,7 @@ Every scheduled archive run now refreshes deterministic ZIP snapshots for comple
 
 ## Long-run safety and completion policy
 
-The scheduled archive attempts a bounded number of transcript items per channel (default: 12 per run), so a large channel cannot monopolize a run. Adjust the workflow-dispatch input `max_items_per_channel`; `0` means unlimited and is intended only for controlled runs.
+The scheduled archive uses an unlimited per-channel attempt budget (`max_items_per_channel=0`). The GitHub Actions collection step still has a 340-minute timeout; checkpoints preserve completed work so later runs can resume.
 
 Run reports are checkpointed after each channel. Channel state, transcript manifests, audit CSV, and collection summaries are checkpointed after each attempted item. A finalization step records the collection-step outcome and preserves partial checkpoints on timeout or failure. Run reports and channel state are also uploaded as a GitHub Actions artifact for 14 days.
 
