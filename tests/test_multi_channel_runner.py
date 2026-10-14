@@ -269,3 +269,42 @@ def test_per_channel_budget_checkpoints_partial_progress(tmp_path, monkeypatch):
     assert result["status"] == "IN_PROGRESS"
     checkpoint = json.loads((root / "channel_state.json").read_text(encoding="utf-8"))
     assert checkpoint["channels"][channel_url.casefold()]["saved_total"] == 1
+
+
+
+def test_unlimited_channel_budget_processes_all_pending_items(tmp_path, monkeypatch):
+    import youtube_channel_transcripts as engine
+
+    root = tmp_path
+    completed = root / "completed"
+    updated = root / "updated"
+    completed.mkdir()
+    updated.mkdir()
+    channel_url = "https://www.youtube.com/@UnlimitedExample"
+    items = [
+        {"id": "abc12345678", "url": "https://www.youtube.com/watch?v=abc12345678", "title": "One", "kind": "VIDEO", "channel": "Unlimited Example"},
+        {"id": "def12345678", "url": "https://www.youtube.com/watch?v=def12345678", "title": "Two", "kind": "VIDEO", "channel": "Unlimited Example"},
+        {"id": "ghi12345678", "url": "https://www.youtube.com/watch?v=ghi12345678", "title": "Three", "kind": "VIDEO", "channel": "Unlimited Example"},
+    ]
+    monkeypatch.setattr(engine, "discover_channel", lambda *args, **kwargs: ("Unlimited Example", items, [], []))
+
+    def fake_process_item(item, folder, manifest, manifest_path, *args, **kwargs):
+        filename = f"VIDEO - {item['title']} [{item['id']}].txt"
+        (folder / filename).write_text("Transcript text. " * 20, encoding="utf-8")
+        engine.update_manifest(manifest_path, manifest, item, status="SAVED", source="test", language="en", filename=filename)
+        return True, filename
+
+    monkeypatch.setattr(engine, "process_item", fake_process_item)
+    result = runner.process_channel(
+        channel_url, root, completed, updated, {"channels": {}},
+        "deno", "/usr/bin/deno", set(), False, "small", None,
+        max_items_per_channel=0,
+    )
+
+    assert result["attempted_this_run"] == 3
+    assert result["saved_this_run"] == 3
+    assert result["batch_limit_reached"] is False
+    assert result["status"] == "COMPLETED"
+    assert result["known_items"] == 3
+    assert result["unresolved_items"] == 0
+    assert (completed / "Unlimited Example" / "transcript_manifest.json").is_file()
