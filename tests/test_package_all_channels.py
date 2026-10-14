@@ -89,3 +89,13 @@ def test_incomplete_state_removes_stale_bundle(tmp_path):
 
     assert package_all_channels(tmp_path, output, expected_count=20) is None
     assert not output.exists()
+
+
+def test_bundle_rejects_corrupt_channel_zip(tmp_path):
+    make_fixture(tmp_path)
+    corrupt = tmp_path / "completed" / "Channel 07.zip"
+    corrupt.write_bytes(b"not a valid zip")
+    output = tmp_path / "bundle.zip"
+
+    assert package_all_channels(tmp_path, output, expected_count=20) is None
+    assert not output.exists()
