@@ -1,0 +1,151 @@
+Title: 19 BEST Data Analyst Courses To ACTUALLY Get a Job
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Y6Q7sI35WFo
+URL: https://www.youtube.com/watch?v=Y6Q7sI35WFo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:33:14+00:00
+
+Kind: captions Language: en the 19 best data analyst courses in 2024 now how did I make this huge list well I
+just checked what skills employers actually look for on the real job market and this site has analyzed
+millions of job listings and these are the top skills that you need to learn so first we'll cover SQL courses
+the number one skill for data analysts and then we'll move over to Microsoft Excel and then we'll cover Python
+and we'll also cover R and we're going to talk about Tableau and powerbi courses as well and with this
+complete skill set set you'll be job ready and good to go and we'll cover at least one free course for every
+single skill that anyone can take so first we're going to cover SQL as it is the most important skill for data
+analysts with around 50% of job listings mentioning SQL as a necessary skill it's highly in demand so we
+better learn it now SQL is used to manage relational databases which are kind of those classic ones with
+columns and rows and the first course up on the list is the SQL for data science course now this one is only
+15 hours but will teach you all the SQL fundamentals and there are over 600,000 people enrolled and it has a
+4.6 rating so it is safe to say that this course gets the job done it is also a part of a more timeconsuming
+certificate to learn SQL but for data analysts this is a great start and the first part of the course covers
+how to retrieve data using select and how to filter sort and do calculations module three covers subqueries
+and joints and module four goes deeper into kind of modifying and basic analysis on data using SQL the course
+is by a well-known University it's top rated and a very good course overall next up on the list we have the
+learn SQL from a to c Track by learn SQL decom and in this case I am kind of biased I am a longtime partner of
+learn sequel but I do think that their site is absolutely fantastic because they focus entirely on practicing
+SQL with Hands-On exercises and real world problems it's quite often that we take a course and after the
+course we don't really learn anything or at least we cannot apply it but that's not the case here this track
+contains seven different courses and takes you on average around 91 hours to complete with over 41,000 people
+enrolled and it's received a rating close to five out of five stars which is pretty good as well and it does
+also include a certificate that you can put on your profile after just like all the other options that will
+mention they also recently launched another track called SQL for data analysis now this one is still very new
+so it doesn't have that many reviews or enrollments and it is for courses at 48 Hours instead so about half
+the time of the original learn sequel from a to c track now this one is shorter because they focus more on
+these specific things that you actually need as a data analyst and they kind of skip other part which can be a
+very good option if you're short on time or you just want to get started quicker more specifically it does
+cover the SQL basics for beginners and you know different statements creating SQL reports and also window
+functions in the final course great site overall but let's move on to the next one so the next one is going to
+be a 100% free option because I know a lot of you guys want that and it is kind of helpful as well and that
+would be the learn sequel for data analytics course on YouTube and this one is very new it is 4 hours and
+completely free by Luke on YouTube so I think it's a great option as well the main difference between this one
+which is kind of like a YouTube video and the other one is that well it's a video format and some people love
+this but if you do just prefer doing exercises then I would go with either learn SQL or you can look into
+another free practice alternative which we're actually going to cover when we talk more about Python and
+different skills like that later so next up we have Microsoft Excel now this skill is mentioned in over 30% of
+job listings for data analysts but I would actually assume that it's way higher I think most companies don't
+necessarily put Excel because it's kind of assume that you have these knowledge already and it is a very
+important skill So today we're going to check out the best courses for it first up we have the Excel basics
+for data analysis and I've actually recommended this one before it is very popular and a great option this is
+a course that's also a part of multiple other programs but it does work great as a kind of Standalone course
+for learning Excel fast specifically for data analysis as well it has a 4.8 rating with over 300,000 people
+enrolled and it's only 12 hours but will give you the absolute Excel Basics the most useful things that you
+need they're going to cover getting started with Excel Cleaning wrangling data analyzing data and also a final
+project at the end which I think is a great addition cuz you can kind of put everything together in a project
+now next we have the Excel for business specialization and this is probably the highest rated Excel course
+I've ever seen I've recommended it before and it's gotten a lot of positive feedback from you guys and this
+one has a 4.9 rating with over half a million people enrolled it is absolutely insane now it is pretty long at
+3 months at 10 hours a week but what I would do is just kind of focus on a specific part of the course if you
+want to become a data analyst or you are a data analyst then the first two courses are going to be the most
+useful and yes you could take all of them but it is going to be pretty long and it could still be pretty long
+even if you only take the first two courses about 50 hours or so in total but that's why we also have the
+shorter option that I mentioned before if you just want to learn it in around 14 15 hours or so and now for a
+free option I would recommend this YouTube tutorial which is actually over 7 hours available for free on
+YouTube and it's called Excel data analysis full course this one actually has a ton of views and a lot of
+positive feedback and I do think that it's a great option if you kind of like the video format once again it
+covers excel in detail because it's 7 hours of content and it is completely free now it's time to move on to
+python did I scare you so our first option here is the python for everybody specialization and it is one of
+the most popular courses on corsera in general with over 1.6 million people enrolled that's almost too many
+people for a course but I want to offer you a new perspective on this one so it is very popular and celebrated
+and has a 4.8 rating of over 200,000 reviews and it is pretty short as well at only 2 months at 10 hours a
+week you can actually make it way more efficient as well if you want to you see in these courses some of these
+ones are not necessarily going to be the most relevant for you as a data analyst python is a very versatile
+language and you can literally do anything with python So You Don't Have To Learn Python for all use cases
+rather what you have to do is you have to kind of focus on data analysis with python and the most relevant
+courses here will be the first one if you're a beginner and you might learn some data structures in the second
+course and then kind of using databases with python now what I would do is I would actually supplement my
+learning with wii3 schools which is a completely free platform for learning python or just about any
+programming language that they offer they do have some learning tracks with kind of Hands-On practice for
+python but also libraries like numai and pandas which are very important for data science and highly in demand
+and you can actually go through these tracks and learn it all for free on this site it is completely for free
+they do offer some kind of paid certificates or whatever but I would kind of skip them to be honest and if you
+are a more visual learner and you kind of prefer staying along with a video and that helps you stay motivated
+then I would also recommend the python for data analytics course by Luke again and it is pretty new and over
+10 hours of content for completely free and it's getting a lot of views so I do think that people are really
+enjoying it and one advantage of either taking a YouTube video or taking a course is that you will kind of
+stay motivated and actually go through it and you want to make sure that you have a clear path and that you
+know what you're going to be doing it's very hard to go up and study if you don't have a clear path and you
+don't know what to do it's much easier to just follow along with the course and you know do something every
+single day now if you're somebody that prefers to learn R which is another option to python then we've got a
+couple of courses for you as well the debate is always whether one should learn python or R and python is a
+more versatile language it is actually more popular and used for more things basically and it's very easy to
+learn for beginners as well now of course you'll still need the programming fundamentals but it's a good way
+to learn them through python now R is actually popular as well specifically for statistical Computing and also
+very popular in Academia and research and so on and some really high paying job opportunities will ask for r
+as well so it is worth checking out a few courses if you're interested the first one is going to be the data
+analytics with Excel and R course from IBM now this one actually combines two skills and can you guess what
+they are it's Excel and R wow and I think this course is quite underrated and doesn't actually get the
+appreciation that it deserves it only has 30 ,000 people enrolled but their views are top rated and if we
+actually look at the courses it does cover a lot of different exciting stuff and even some sequel in this
+course but the main focus is going to be on learning Excel and learning R programming for data analytics
+another free option if you do prefer that is going to be the r programming full course Again on YouTube by
+simply learn and it has hundreds of thousands of views and has over 10 hours of free content included now this
+one is good because it's free but I would definitely prefer the IBM course which covers things a lot more
+focusing on data analytics rather than just a long you know General R course for programming it is way more
+exciting to learn something and apply it to your specific thing directly rather than to kind of take a general
+course which can get pretty boring but I'm sure that you could find some other free alternative as well now
+we're moving on to some data visualization softwares and the first one is going to be Tableau which is in
+around 24% of all job listings and as you can see when you kind of put these skills together in your toolbox
+you will be eligible for so many more jobs if you're missing one of these skills like Tableau or powerbi some
+employers will instantly throw your resume out so our first option here is the data visualization with Tableau
+specialization by UC Davis it has a rating of 4.5 stars of over 100,000 people enrolled and the shirt itself
+is pretty short at only 1 month at 10 hours a week there are five different courses included in the package
+and the reason why I like this one so much is because first of all the ratings are very good but also the
+content specifically you see you're actually learning everything you want with Tableau you're learning the
+basics you're doing some visual analytics you're creating dashboards and you're doing storytelling and finally
+you're doing some data visualization project with Tableau at the end which is great for your portfolio as well
+now that is a great course but I would also recommend the Tableau certified data analyst on data camp and this
+is the first time that we mention data camp in this video but I have mentioned it many times before and what
+this track actually does is that it helps you prepare for a certification as well in the process which is
+quite nice and data Camp is also pretty affordable and you can get so many different courses and other tools
+in the package included in the subscription but once you learn the basics you might want to do a project and a
+free option is going to be this Tableau project on YouTube which is kind of like a tableau and to end project
+by data with Barra it's on YouTube at around 2 hours long for the entire video and has fantastic feedback from
+Learners and a lot of views people in the comment section are actually saying that it's the same quality as a
+paid UD Demi course but that it's for for free which is a pretty crazy thing so I wanted to just share it with
+you guys because I think you might find it helpful especially because it's a project and many people are
+looking to do some more projects and cannot build a portfolio now there's always a constant debate about
+Tableau versus powerbi but the truth is that both are great data visualization softwares but if you do prefer
+the Microsoft Suite then powerbi is a Microsoft product so you may want to learn powerbi you can pretty much
+do the same thing with these tools and if you learn one you can also learn the other but let's look at some
+powerbi courses because these skills are in incredibly high demand as well so the first course is probably one
+of my favorites on this list and it is the Microsoft powerbi data analyst professional certificate it has a
+lot of people enrolled and for good reason and it's actually pretty new but there's still so many people
+enrolled it is beginner level and 5 months at 10 hours a week and will basically cover everything a data
+analyst would do but focusing on doing it with powerbi specifically you'll be doing all sorts of stuff with
+powerbi and you will actually kind of become an expert because they will also help you prepare for a real
+certification by Microsoft which you might be familiar with and it's called the pl300 certification now if you
+do get this certification you are officially a Microsoft certified data analyst which is pretty cool to put on
+your resume and it also includes a Capstone project in the course as well now if you do prefer learning on
+data Camp they also offer a short introduction to powerbi or a longer learning path called data analyst in
+powerbi and I'm mentioning this one because these ones can actually help you prepare for the same pl300
+Microsoft certification so you can kind of pick and choose if you want to go with data camp or you want to go
+with corsera they're both great platforms and they will help you prepare for the same pl300 exam as well now
+as a free option because I want to make sure to include that as well you could always look into the powerbi
+playlist on YouTube by Kevin Stratford it has millions of views and will teach you all of the basics of
+powerbi in roughly 2 hours or so which I think is a pretty good opportunity for free now one of the best ways
+to build a stronger resume and make you actually job ready for employers is by getting a certification in this
+video on the screen I talked about the best certifications for data analyst and it's a topr rated video and
+went viral so I do think that you would find it helpful somewhere on the screen just click it out and I'll see
+you over there

@@ -1,0 +1,120 @@
+Title: Become a Cyber Analyst in 2024 (Springboard Review)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: _CZ3lWZRLI4
+URL: https://www.youtube.com/watch?v=_CZ3lWZRLI4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:35:51+00:00
+
+Kind: captions Language: en cyber security is one of the best fields to break into with the average
+information security analyst making $112,000 per year the growth is 32% in the next 10 years which is way
+faster than average as well and if there's any time to get into cyber security it is right now but where do
+you begin you can learn everything yourself but it will take work and you're doing it alone that's just how it
+is but it still works and that's completely fine and another option is to take a boot camp where you get
+access to mentors coaching accountability and guidance this can be better for some people today I'll review
+the springboard cyber security boot camp and it's one of the few if not the only boot camp with a 100% job
+guarantee and if you don't land a job you don't pay now I firmly believe that you can learn everything
+yourself so I usually avoid partnering with the boot camps but springboard is an exception because their
+student results are excellent I partnered with them many times before and the feedback from you guys have been
+great it does not take years it only takes a few months and they have real one-on-one mentorship plus
+graduates of this exact boot camp have been hired by companies like Cisco Walmart CVS and also the US
+Department of Defense so it is a recognized program in the field and as I said the even offer job guarantee
+which we'll talk about later I also checked the reviews online to see what people actually think because
+that's what matters the most they have 4.6 from over 1,500 graduates on course report and they have a 4.5
+rating from over 500 students on Career Karma and they have another 1,600 reviews on Swit shop.org with a 4.6
+out of 5 rating now let's begin by just talking about springboard they have different career boot camps to
+help you quickly transition into a new tech job including cyber security if we take a look at some statistics
+you'll see that the average salary increase of a springboard graduate is around $23,000 per year now that
+might sound like an unreasonable amount but jobs in Tech Fields like cyber can pay really well so it's not
+that surprising to see a considerable salary increase if you're transitioning into the the field springboard
+also has an 85% job placement rate within 12 months and this means that nearly all of its graduates have a job
+within 12 months these statistics are really important because we want to know if it's worth our time this is
+also based on over 18,000 students who have taken the springboard boot camps since they launched them back in
+2016 so they've also been around for nearly a decade at this point now we're going to focus on the Cyber boot
+camp itself and it is for complete beginners and assigned to help you become a cyber security analyst and land
+your first job we're going to start with the curriculum there are 50 different Hands-On Labs or kind of mini
+projects and yes I said 50 not 15 we also have one Capstone project which is kind of like your final portfolio
+project that you do the actual course content is structured into 17 topics and we'll go through them quickly
+together first we have an introduction to Ai and its applications in cyber security and it's just about
+understanding how Ai and what it will do for cyber security in the future which is a very relevant way to
+begin the course then we'll go over the cyber security fundamentals where it's just teaching you the
+fundamentals of computers and the security field in general then AI for threat detection and incident response
+we'll talk a little bit about cyber security attacks the different attack types and host based security and
+then getting into some security and different types of threats they'll also cover network security and AI for
+these purposes and also identity and access management and if you're still following then I can say that
+they're also moving on to a really interesting topic called cryptography and in the last few topics they'll
+cover security architecture operations application security and a topic called explainable AI or AI for
+predictive security analytics as you can see they are integrating AI a lot into this curriculum which is
+highly relevant because there will be a lot of new AI based threats and also ways to use AI to protect and
+defend against threats and next they cover security assessment and testing and then AI in malware analysis and
+NLP for cyber security and that's pretty much it for the course cont the final three topics in curriculum will
+be the comta Security Plus exam preparation this certification is well known in the industry and recognized by
+employers and springboard is actually a partner of comta so when you complete the springboard program you will
+also become a comta Security Plus certified this is the one that employeers are looking for on the job market
+and you don't need to go and get certified on the side because you'll already do that as a part of the
+springboard program now we also have the Capstone project which is kind of a portfolio project that you'll be
+building it is in five different phases and you'll be doing pen testing on a hypothetical scenario the five
+different phases are reconnaissance identifying targets and run scans identify vulnerabilities threats
+assessment and finally reporting the goal of the Capstone project is kind of to bring all of your skills from
+the boot camp together into one final project and then you can actually show this project to employers when
+you're looking for a job so it's going to be immensely helpful and especially if you combine that with your
+certification because you can kind of put all of this together into your portfolio which you'll also get help
+creating and and the final topic 19 is career support it includes tips on understanding different jobs job
+searching strategies for cyber security and how to kind of build a network to get better job offers they also
+cover the basic things like creating a resume a LinkedIn profile and such and a really crucial part is also
+preparing for interviews so make sure to to make sure that you feel comfortable and that you can succeed and
+actually land the job they also cover things like negotiating salary to make sure that you're getting the best
+deal and I really think that this career support is one of the most critical parts of the program because
+anybody can have a course and teach you stuff but the important thing is actually being able to transition
+from the course to a job and helping you get to that next level now there's one part that we completely forgot
+about and it's probably the most important part so before we get into the pros and cons I want to talk about
+mentorship having a mentor can be an amazing way to avoid mistakes and get closer to your goals significantly
+Faster by learning from somebody else and from their experience and their mistakes and there is a reason why
+every great athlete has a coach they know that doing it alone will be absolute Madness so let's cover the
+springboard system and how mentorship works for your cyber security boot camp now there are four different
+pieces of mentorship here the first one is going to be your kind of main Mentor you'll have contact with this
+person during your entire study period and you can reach out to this mentor and get help and they will also
+hold you accountable and ensure that you see the success that you're looking for in the field now they have
+different mentors and I cannot tell you exactly which one you'll have but here are some of their mentors that
+you can see on the screen one is a senior manager one is a cyber security architect and one is an mssp or
+managed security service provider manager and you get direct access to these people who are your mentors who
+are there to help you now there's also the career coaching and these are kind of people that help you prepare
+for the job search specifically they spend all of their time doing this stuff so they're pretty good at it
+they might show you new tactics for applying for jobs give you some personal advice help you prepare for
+different interviews or just fix your resume and in general their objectives are kind of to help you gain
+confidence on the job market the mentors focus more on the cyber security specific things and these guys focus
+more on the career aspect and becoming job ready there's also the student advisers and these guys can help you
+with anything that you need and they're kind of like your springboard personal contact they're not really
+focusing on the course itself they're more focusing kind of on you as a learner and there's also of course the
+community itself and here you can network with other people or other graduates and gain a valuable cyber
+security network that's one of the main benefits of boot camps you're actually getting mentors you're getting
+a little bit of accountabil ability and some Community as well and you can see how they're getting jobs what
+they're doing and also what mistakes they're making of course and kind of be part of a group coaching and
+networking events as well and just in general learn from each other now I want to move over to some of the
+pros and cons of the cyber security boot camp and at this point you already know that I think it's a great
+program but I don't think it's for everyone and I want to be clear about that it is more expensive than
+learning through lowcost online courses but that's expected as well and you're getting a very different
+experience they do offer different payment terms but it's it's meant to be something other than a quick course
+that you take and never think about again this is a complete six-month program with real mentorship full
+support and actual accountability and a community and you have real people there to help you succeed and these
+are things that you don't get in other places and for that reason I think it's more justifiable but there are
+two types of people that I would not recommend this program for and those are either people in a very bad
+financial situation and you must also be very serious because it does require a significant investment both
+time and money and they're goal is to get you a high-paying cyber security job the goal is not just to play
+around and see if you want to be in the field so you have to make a decision first they also have a job
+guarantee which I think is definitely worth mentioning but as a disclaimer you will need a bachelor's degree
+or one year of relevant work experience before you can access it so you also have to send some kind of job
+applications you have to follow their procedures and actually make sure to put in all of the work that they
+ask you to so there's going to be some requirements but nothing really extraordinary I think but just be aware
+of that there are some requirements for the job guarantee that you need to to fulfill for it to be active and
+nothing really unreasonable in my opinion of course you'll have to put in some work yourself to see success
+now my conclusion for this one is going to be that boot camps are certainly not for everyone but for the right
+person this boot camp can really be the difference between Landing your dream job and never getting any job at
+all it has accountability real mentorship actual coaching and a clear path to getting a job in cyber security
+and I think springboard offers some of the best if not the best boot camp on the market I also made a deal
+with springboard to give you guys $11,000 discount if you sign up using my link in the description and this is
+a significant discount and it's not going to be available forever so if you do want to get your first job in
+cyber and learn more about the boot camp then check out the link in the description you'll get to a website
+where you can learn more and you can sign up for free and get all the important information sent to you right
+away and whatever you decide to do I wish you all the best

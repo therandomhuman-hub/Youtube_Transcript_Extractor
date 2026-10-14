@@ -1,0 +1,107 @@
+Title: CourseCareers vs Google Data Analytics Certificate
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: HDkyz6DWQ0A
+URL: https://www.youtube.com/watch?v=HDkyz6DWQ0A
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:32:43+00:00
+
+Kind: captions Language: en in this video I will compare the Google and the course careers data analytics
+certificates and this has been a highly requested video and more and more options are appearing for new data
+analysts so I wanted to check them out and compare and see which one is the best now as a disclaimer this
+video is not sponsored but I will leave a discount link to each of the courses in the description which also
+gives me a small commission and this also means that I don't really care which one you take I'm just going to
+show you the similarities the differences and what to actually consider and I've reviewed literally hundreds
+of fores at this point and I'll will make sure to review this objectively and authentically so let's begin now
+I've already made detailed videos about these so the focus here is going to be on comparing them but let's
+just begin with a brief introduction so that we're on the same page starting with the Google data analytics
+now this one has been around for a long time with over 2 million enrollments and it is 6 months at 10 hours a
+week and it will cover the basics of data analytics by teaching you each step of the data analytics life cycle
+you'll work with the r programming language getting introduce to a little bit of SQL work with Tableau for
+visualizations and of course use Google Sheets their own product which is similar to Microsoft Excel it's
+included in the corsera Plus subscription and there are also ways to get it for cheaper such as by applying
+for financial aid or just taking a free trial or doing something like that now next up is course careers and
+this data analytics program takes around 8 to 14 weeks depending on the pace that you completed at it is
+completely self-paced as well or at least the course aspect is self-paced and there there is also some
+coaching and some other stuff which we'll cover later as well now this one is supposed to teach you enough to
+give you the basic skills and knowledge to land an entry-level position in data analytics now we're also going
+to talk about how realistic these goals actually are later but we'll get to that as well now just like the
+Google program it is completely beginner level however it does state that it works for people from all
+backgrounds whether you're just getting started or you're looking to make a career change so it really does
+not matter now if we take a look at the course we'll see that it's actually very different from the Google one
+there are five different modules or courses in this program the first one is called the data analysis Project
+Life Cycle and here you'll learn about the basic tasks a data analyst would do and then we have the next
+course which covers Excel where you'll do all sorts of tasks working with Excel the next course will cover
+Tableau the data visualization software and course number four will cover SQL another key data analytic skill
+often seen as one of the most important skills when looking for jobs and the final course is going to be
+python which is another key skill on the job market but there's something that we missed and four out of five
+of these courses actually contain a portfolio project which means that you'll put your knowledge together kind
+of into a final project in each of these courses and then you can just add this to your portfolio and this
+means that after you complete these five courses you will have four different portfolio projects that you can
+show to recruiters right away you will also get access to some coaching it does not include one-on-one
+coaching sessions and if you do want that you will have to pay but they do offer weekly group coaching s
+sessions with industry experts as well and now let's move on to some of the differences between these two to
+kind of give you a good understanding of the differences I'm going to talk about three core areas first we're
+going to talk about kind of the general differences and then we're going to move over to the skills and
+finally talk about the portfolio differences so one of the first differences is actually the instructor and
+Google is obviously a very reputable company and they have a ton of skilled individuals that can teach you the
+right skills that people look for such as Google but I wouldn't really say that course careers is lacking here
+either funny enough their instructors is actually called Lucas this is not me just a disclaimer but he is a
+very well-known instructor in the analytic space he's actually made one of the top rated and most popular
+Tableau courses on udemy with over 70,000 paying learners for just his course now I need to warn you that he
+sometimes sounds a little bit robotic when he speaks which I would understand for sure especially in the intro
+course but he definitely knows his stuff he is a very passionate instructor and there is really no question
+about that so in Google's course you'll have different instructors usually for each course and in this course
+you'll only have one instructor which would be a pro and a con depending on your preference of the instructor
+of course next we're going to talk about the career resources and these are also really important to keep in
+mind because the goal is just not to be just learning right and I will say that I think course careers wins on
+this one because you get access to a community as well as a lot of resources to kind of prepare for jobs such
+as resumé templates interview guides and different checklists but corsera actually offers quite a few things
+too although most most people forget about it now the main benefit of course careers compared to corsera would
+be their actual coaching sessions and corsera does not offer any coaching which is completely reasonable
+considering the price but here you actually get weekly coaching sessions and a community that you can reach
+out to and they do kind of create this Learners group where you can connect with different coaches ask them
+questions or talk to some other people if you want to they don't offer oneon-one coaching like I said as that
+would be super expensive to provide and they would have to raise the price by like 10x but you can also buy
+that if you do want to have access to that as well now let's talk about the skill section and this is going to
+be very interesting because this really matters when you're picking a course to determine this I'm going to
+use a site called Data nerd which shows the most in demand skills based on real job listings because if you
+want to get a job then you should probably look at the real skills that people are looking for on the job
+market right now the most in demand skills would be SQL Excel and followed by python for visualization tools
+it would be Tableau and powerbi at around the same percent now the Google program covers some Tableau which is
+great and you will use some SQL which is also fantastic you will use Google Sheets and not Excel but they are
+very similar and if you learn one you can just learn the other one now Google does not cover python but they
+do cover R which is more used in Academia and research and you can still find a lot of great job openings if
+you know R although it's not as versatile as python but what people often do is they Learn Python on the side
+as well and that works great too and after finishing the Google course you will definitely have a solid skill
+set but if you really want to know these skills you should probably keep learning them anyway now for the
+course careers program you're going to learn SQL which is perfect you will learn Excel Python and Tableau and
+this will actually give you a complete skill set of in demand skills but again let's keep our expectations
+real if you want to become a SQL expert or you want to become a python expert you will still have to keep
+studying them outside of this course or supplement with with some other things on the side and both of these
+programs are good but they are too short to teach you all of these skills in depth but it will give you a very
+nice introduction to each one and canot teach you the basics while showing you how to apply it to practical
+scenarios now the next part is going to be the portfolio and a portfolio is such a good thing because you can
+actually show employers that you've been doing something that you have the skills and that you're qualified
+practically representing you because companies will look at your portfolio before they ever decide to meet you
+so you better put some energy in into it right now the Google data analytics certificate does come with one
+final portfolio project and if you want to learn more or you want to do more projects you will have to do
+something on the side and a good option here is to take the next course the advanced data analytics
+certificate where you will focus on Python and do some more projects but you can also find a lot of great
+projects online for free and if you just want to get started you can just go to YouTube or guided projects on
+corsera and search for some basic projects now course careers has four different projects and one for each
+skill so you'll do one project in SQL one in Python and one in Tableau and also one in Excel that is very
+convenient but I'm not going to be too biased here and say that it's the best way or that it's better because
+if you do find great projects and you do them even whatever you find them it might just be as good or even
+better but it is a pretty convenient approach to kind of have it all bundled into the same course and just
+kind of connected when you're doing it and it just depends on what you're doing both are great options now if
+we move over to the actual pricing there's going to be a pretty big difference here and the fact is that
+course careers is way more expensive now don't get me wrong you also get a lot more stuff but with corsera
+they do offer some other options like a subscription a financial aid system and some other things so just
+price based and if you're just focusing on that corsera is definitely going to be the cheaper option but of
+course I completely understand that price can also be a deal breaker it just depends on what you're focusing
+on here now thanks for watching this video and I will leave a link to both of the courses where you can try
+them out for free in the descript description as well as any ongoing discounts that I can find and it is
+really up to you both are great Alternatives it kind of depends on what you prefer and it's more about what
+you do with the course rather than what course you actually take good luck

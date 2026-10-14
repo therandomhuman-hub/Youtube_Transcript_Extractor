@@ -1,0 +1,103 @@
+Title: DataCamp Certification - Is It Worth It? (2025)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 8s5o-Y6QOwA
+URL: https://www.youtube.com/watch?v=8s5o-Y6QOwA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:34:19+00:00
+
+Kind: captions Language: en a certification can help you get a job in data science but the most important
+thing is picking the right one or it can just be a waste of time so which ones are the best that's hard to say
+and it depends on your goals but one certification that's gotten a lot of positive attention recently has been
+data Camp they offer many career certifications for people looking to become data analysts data scientists and
+data engineers and more and they even offer some certifications specifically for SQL Tableau and other skills
+there're also providing this together with Microsoft and other top companies which makes it even better I've
+used data Camp before and I talked about it on the channel and your feedback has been amazing so I reached out
+to them and I'm now making a sponsored Series going through the ins and outs of their platform to help you
+find the right CT but I'm going to do my best and show you the pros and cons because while it is a great
+platform nothing is perfect for everyone in this video we'll cover everything about their data certifications
+in detail and they have a lot of learning material that you can go through and when you're ready you can take
+the exams and receive aert but we'll get into exactly how that works later the main reason to get a
+certification is not for a nice piece of paper but rather it's to make you look credible you can have all the
+right skills in the world but if you don't have a way to show that to an employer You're simply not going to
+get hired now I'm by no means saying that a certification is the only way of doing so but it is one way and
+it's a good way especially as a beginner if you do it properly now let's focus on the data cam certifications
+according to themselves their goal is to be able to differentiate yourself and get an industry recognized
+credential then they also claim that they've upscaled 13 million people globally and that's important because
+you don't want to get a certification that nobody's heard about that's not going to be very helpful I also
+like that they partner with some companies like Microsoft to provide these searchs because that actually
+increases the perceived value and the industry recognition significantly now they have three categories of
+certifications and the first one is technology ctts where you focus on a specific technology like SQL or
+python the next ones are the career CTS and here you'll focus on a particular role like the data analyst or
+data scientist it includes different skills for these jobs in one certification to really make you prepare for
+that specific role and then we also have the fundamental certifications which is kind of like a more basic
+shirt where you put together data science stuff into one so how does a certification actually work on data
+Camp you Begin by registering and then you're going to have 30 days to complete the necessary examinations
+kind of like a timed exam and a practical exam usually they do also offer a Readiness quiz before you actually
+get certified so it's kind of a good option to take this one to see if you even should begin this process in
+the first place or if you're very far away from it you will usually be graded by an automatic system meaning
+that once you complete your exam you should have the results pretty much immediately and after you're done
+you'll receive a certification match from data Camp which you can print out or put on your wall or just do
+whatever you want with it you can put it on your LinkedIn profile put it on your resume and it kind of looks
+like this and once you're certified you're also going to get access to the private Community now I don't know
+how good this is I have not tried it out but they do claim to offer different events with different industry
+experts and kind of like a forum and you know helpful career resources but again I've not tried it out so you
+would have to see for yourself now we're going to dig into each of these shirts that they actually offer on
+the platform and these are of course going to be updated all the time but these are going to be the main key
+ones that are active right now and the most important ones that most people tend to get and these include the
+data analyst the data scientists the engineer Sears and there's also one for SQL there's one for powerbi one
+for Tableau and one for Microsoft Azure I'm going to tell you everything you need to know about these so that
+you can find the best one for you so first up on the list is the data analyst search it's going to show your
+ability to do common data analyst tasks like going through through the data analytics life cycle communicating
+your results and using relevant tools to do so for example SQL or powerbi the language is English and you'll
+work in SQL n r or python it's up to you so you can choose between r or python depending on which one you
+prefer and you don't need to learn both of them the search is available at two different levels and it's the
+associate and the professional level the associate level focuses on validating the foundational skills and
+meanwhile the professional level search covers some more complex skills and in general more advanced tasks
+with these skills and tools that you've already learned so simply put I would say that associate searchs are
+great for beginners who are just stepping towards you know entering the data world and professional level is
+better for those with some experience looking to more validate their skills and prepare for jobs next we have
+the data scientist and this one focuses on your ability to collect analyze and interpret large amounts of data
+using machine learning and AI when needed and also communicating between stakeholders similarly to the
+previous Sears it's available in English and you can choose between r or python depending on what you prefer
+and it always includes SQL and is available at the associate or entry level then we have the data engineer and
+you allow to collect and pre-process large amounts of data to convert it into a suitable format for future
+steps and organizations to use the next certification is the SQL associate certification and unlike the career
+track certifications which cannot provide a track specifically for one career this one is going to be focusing
+more on a specific tool which is structured query language or SQL SQL is the backbone of relational databases
+and is essential for anyone who wants to extract manipulate and analyze data stored in these types of systems
+and having SQL skills is invaluable for many data roles like the data analyst data scientist and data
+Engineers the next ones are slightly different and we have the powerbi the Tableau and the Azure
+certifications but these ones are actually not available on data camp and rather data Camp offers a variety of
+resources and a learning path to help you prepare for these searchs which are then offered by other companies
+like Microsoft for the Tableau one it's offered by Tableau and the Azure and powerbi searchs are offered by
+Microsoft and supplementing your learning with these specific CTS is a great idea because these skills are
+what employeers are really looking for and they're also quite powerful CTS by top companies which I highly
+recommend that you actually take or at least look into especially if you're interested in a certification it
+might be good to go to one of these companies since they are very well known and their tools are widely used
+in the space if you take certain career Paths of data Camp you can also get a discount on some of these ones
+and an example is going to be the powerbi pl300 data analyst exam and if you do take certain career paths
+including the standard data analyst exam or career path you're going to get 50% off the pl300 exam which will
+also help you prepare for that one as part of the data cam program so it's a huge plus because you're both
+getting the standard data cam certifications and the top industry recognition such as Microsoft so now how do
+you actually prepare for these ones effectively and it really depends on the one that you're taking but the
+underlying principle is that it's up to you if you already have the skills take the Readiness test and see if
+you feel confident and then you could just go for the shirt right away but of course if you're learning you
+want some kind of path to go down and that is why they offer different career tracks and skill tracks and some
+of these will directly prepare you for certifications they also recommend specific learning material if you do
+go to the search page because they have an extend save library of learning resources that you can access for
+free if you're a member and you can prepare with these resources until you feel ready for the exam that brings
+us on to the pros and cons and one of the main benefits is that everything is included in the same
+subscription and whether you're looking to just learn something or you want to get certified or follow a
+specific learning path everything's included and if we do compare it to other options data Camp is actually
+quite affordable they do also offer some discounts some student things and some promotions where you can sign
+up for a year and kind of get access to everything they have for different sales so just make sure to check
+that out there are of course always different ways to show that you're credible candidate and assert from data
+Camp is one such way but it's not the only way but if you are going to go down this path it's even more
+powerful when you do combine it with projects and building a portfolio which you can also get help doing at
+data Camp they have a ton of other resources as well including some projects that you can do and everything's
+kind of included in the same subscription so you can really just pick and choose between what you like without
+additional costs which I think is a huge plus and if you do feel like data is something for you I'm going to
+leave a link in the description where you can learn more including any ongoing discounts that I can find and
+thanks for watching and good luck on your Learning Journey

@@ -1,0 +1,115 @@
+Title: Top 6 BEST Data Analyst Certificates In 2025
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: z3-MGqgqnl0
+URL: https://www.youtube.com/watch?v=z3-MGqgqnl0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:37:43+00:00
+
+Kind: captions Language: en what data analytics certificate should you pick there are so many new options and
+people are really confused there's just not enough time to take them all so when you pick a data analytic
+certificate you're actually taking a huge risk because without proper research about all the new options
+you'll likely make the wrong choice and that can cost you months without seeing any progress so which one
+should you take if you want to get a job as fast as possible in data analytics starting from zero in this
+video we'll review all of the data analytics certificates to determine which one is the best the answer
+depends on many factors so don't just look at this list that's not going to be helpful at all you need to
+understand why and see the big picture and this 5 minute video could save you months and help you get a job
+way faster because if you learn the right skills that employeers are looking for and you take the best courses
+to do so you'll be more employable but I promise I'll be as quick as possible so let's begin the first one on
+the list is the new metad dat analyst certificates it is for complete beginners 5 months at 10 hours a week
+and as I'm recording this the final course is is not even available but when you're watching this it's
+probably not going to be a problem there are five different courses and the first one is an introduction to
+data analytics and then it moves over to spreadsheets and SQL and then a little bit about Python and course 4
+is about statistics and finally course five is about data management this one is supposed to be metas
+equivalent to the IBM and Google data analytics certificates but we still have a lot to cover so will so we'll
+compare them more later next up we have the Microsoft power powerbi data analyst professional certificate this
+is a very interesting one and it's a great option but not for everybody now it's a beginner level search 5
+months at 10 hours a week so it's just as long as the previous one it is also pretty new but has an insane
+amount of enrollments for being so new and it's really popular and there are fantastic reviews which is not
+surprising considering how it's from Microsoft there are eight different courses in this certificate and the
+first one covers data preparation using Excel and then harnessing the power of data with powerbi so basic data
+analytics with powerbi and then we have ETL with powerbi there's also data modeling data analysis and
+visualization and creative designing in powerbi and this basically means creating reports dashboards and
+different visualizations and finally we have deploy and maintain assets as well as a Capstone project for
+those wondering a Capstone project is basically a final project that you do under their guidance and it's a
+very good way to start building your P folio with some projects in this certificate there is also a final
+course which focuses entirely on exam preparation and practice it is supposed to help you prepare for the
+pl300 exam which is Microsoft's own data analyst in powerbi certification I know that it can get messy with
+certificates and certifications but pl300 is basically a formal exam that you take either online or at home
+and once you pass you're officially a Microsoft certified data analyst this is one of the Main benefits of
+this professional certificate and it's a normal course but it will also help you prepare for one of
+Microsoft's certifications pl300 is industry recognized and will look very good on your resume and as a bonus
+you actually get 50% off the pl300 exam fee once you complete this certificate on corsera I still want to
+mention the downsides to this course because I think it's important to consider all of the sides and here the
+only bad thing is that it only focuses on powerbi so if you're looking to learn things like SQL and py on
+which you should then you're going to have to learn them on the side or using one of the other courses that
+will cover up next number three is a perfect course for those looking to focus more on python it is the Google
+advanced data analytics certificate it is 6 months at 10 hours a week and they claim that it's advanced level
+but if we actually look at the details it does require prior knowledge of foundational analytical principles
+and tools so it's definitely not advanced level but I think you could take this one starting from zero if you
+want to but ideally you would have some experience and it's probably a better idea to take one of the other
+courses first to give you that foundational knowledge to make the most out of this course it focuses on
+teaching you skills like statistical analysis python regression models and machine learning in less than 6
+months although most people complet it way faster looking at the curriculum you will see seven different
+courses the first one is kind of an introduction to data science and then an introduction to Python and then
+of course about data analytics and translating data into insights which is what they're actually claiming the
+course is about but as you can tell it's a lot of machine learning and data science things as well the next
+course is about statistics which is very interesting many courses will skip statistics but they actually give
+you this foundational knowledge and I think it's going to be very helpful and make you stand out there is also
+a long course on regression analysis and of course machine learning as well and then they finish off with the
+Capstone project so how can this course help you and who is it really for I wouldn't say that it's really a
+data analytics certificate and I mean sure many things are going to be useful and many things are related but
+when it comes to the machine learning course for example it's not relevant for entry-level data analysts at
+all so if you're limited on time then you don't want to take all of these courses but if you're looking to
+move more towards data science later this could be a really good way to become a more technical data analyst
+and explore those areas as well while learning data analytics in the first place so you can also see if this
+is something for you I also want to give a big shout out that they do teach python in many of the courses
+which is very very good but unfortunately not SQL so make sure that you learn SQL on the side as well number
+four on the list is also very exciting and it is the IBM data analyst certificate it's very popular but is it
+still worth it now it's for complete beginners and you'll have to spend 4 months working 10 hours a week and
+it also has a 4.7 rating out of five from nearly 20,000 reviews which is absolutely amazing there are nine
+courses in the certificate and the goal is to help you begin your career as a data analyst so in the first
+course it's basically just an introduction to the field and then you move into Excel in the second course and
+then start working with data visualizations and creating dashboards and both using Excel and cognos and if you
+don't know what cognos is it's basically IBM's version of powerbi or Tableau you could say there's also a
+python course as well as a python project and then you'll have to learn a little bit on databases and SQL and
+combine that with python as well well and as you might have noticed there's also a lot of python in this
+course which I think is a plus especially because it's so useful and many employers are looking for python
+skills the next course is data analysis and then data visualization and then finish up with the Capstone
+project and all of this with python as well and then you're done so how can this one help you well I would say
+that it's a great one if you're looking to learn the basics and focus on python it's known to be more Hands-On
+and more practical than Google's version at least referring to the original certificate maybe not the advanced
+certificate but would also say that it's slightly less polished than the Google version the videos are not as
+nice but they're focusing more on the concepts they're basically just slide presentations and very basic but
+in my opinion it really gets the job done and IBM's course has really good reviews and it's been around a long
+time even before Google so there's definitely a lot of good things to learn from this one number five is the
+data Camp data analyst certification now data Camp is a platform offering trainings and courses for data
+science and this one is different and it's not on course sah but I wanted to include it as a bonus because
+it's very popular for a good reason instead of taking a course you can take their exam whenever you're ready
+and you basically just join data camp and you get access to all of their courses and all of their resources
+all at once when you're ready to sign up for the examination it's actually two tests one is time based and
+you'll have to answer questions that test your knowledge with a time limit and the second part is a practical
+test where you'll be tested on your ability to implement a working solution for a data problem you're
+basically doing some common data analyst tasks and then you'll be tested on your ability to do so and for this
+one you can always choose if you want to focus on python or R and take the test using one of these languages
+you don't have to take it in both but SQL is always going to be included now the main advantage of data Camp
+is that it's actually very affordable and a quick way to boost your resume especially if you've taken courses
+in the past you can literally just sign up take the test and be done or use the resources to study if you need
+to but now let's move on to the final certificate and I'm going to compare this one to the other as well and
+I'm of course talking about the Google data analytics certificate this is the classic one that everyone's
+heard of and it's brought so many people into the field of data analytics but is it actually the best option
+it's really a personal preference I do like it a lot but there are some people that just don't like it and I
+understand why as well it's not the most practical course and it's 6 months at 10 hours a week so it's pretty
+long even if it is for beginners if you do look at the courses there are eight different ones and many of
+these don't use python or something and focus on a specific tool it's more doing a lot of things in Excel or
+just listening to presentations and understanding the theory and for being so unpractical it does get a lot of
+hate but I would say that if you go in it with the right mindset it can be a very useful course it helps you
+get into thinking like a data analyst and it takes it very slowly sure it's not going to prepare you for jobs
+right away nor are you going to know exactly how to do everything but if you do start with this one and then
+you apply your skills in a more practical course you have a really solid understanding both of the theory and
+the actual practical aspect as well when it comes to these specific skills it's also teaching you R and not
+Python and that can be a downside depending on your preference but you also get to try R and it's pretty cool
+as well I've shown you many Great Courses but the most important thing is just to get started and if you're
+confused just pick one and give it a try and I'll leave a link in the description where you can try them out
+for free thanks for watching and good luck on your journey

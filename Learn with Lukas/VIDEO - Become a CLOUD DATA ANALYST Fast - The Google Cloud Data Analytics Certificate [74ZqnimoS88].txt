@@ -1,0 +1,75 @@
+Title: Become a CLOUD DATA ANALYST Fast - The Google Cloud Data Analytics Certificate
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 74ZqnimoS88
+URL: https://www.youtube.com/watch?v=74ZqnimoS88
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:37:14+00:00
+
+Kind: captions Language: en is the Google data analytics certificate finally dead people have been wondering
+this for months now but Google just released its new cloud data analytics certificate which is an absolute
+GameChanger and if you're considering getting the data analytics certificate then wait because things have
+changed in this video I will explain everything about this new course and how it's going to impact you and
+whether it's still worth taking the old shirt or if you should just go with this new one and forget about the
+Google data analytics certificate once and for all so as usual we're going to start with a summary before we
+get into all the specifics and it's a five Core Series for complete beginners with no previous experience
+required it takes around 2 months at 10 hours a week so around 80 hours to complete the entire certificate
+which is pretty short if we compare it to the traditional Google data analytics which is around 6 months at 10
+hours a week so we can see that this new course is actually three times faster for you to complete but we'll
+talk more about that later now the goal here is to help you launch a career in cloud data analytics and build
+the in demand skills and gain credentials to go from beginner to job ready in 10 weeks or less that's at least
+what they claim and I'll break all of this down later in this video including what cloud data analytics
+actually means so let's start with cloud computing and what that actually means so cloud computing refers to
+the delivery of Computing Services over the Internet such as servers storage databases analytics and more and
+companies use this because it can save them money they can buy exactly the resources that they actually need
+and it's really easy to get started with instead of having to set up all the infrastructure and things
+themselves they can actually buy them from companies like Amazon or Microsoft and this is why it's growing a
+lot and companies are using Cloud more and more since I know you guys like numbers according to Grand View
+research the cloud computing Market size is expected to grow at a compound annual growth rate of 21% within
+the next 6 years which is pretty solid and with this course you combine data analytics with cloud computing to
+give you an even stronger skill set that is highly in demand by employers now in the actual course as I
+briefly mentioned you'll explore the benefits of data analytics in cloud computing and why it's so valuable
+and you will apply transformation strategies to data sets to solve business needs so simply put transform and
+work with your data sets to solve business problems you will also describe key aspects of managing and storing
+data in Google cloud and this course really is all about using Google cloud and its cloud computing platform
+to work with data and finally you will develop skills in the five key stages of visualizing data in the cloud
+so data visualization but just working with cloud computing but now we're going to examine the course
+curriculum more in detail to better understand what you're actually going to learn and as they are focusing on
+beginners the first course is just a general introduction to data analytics although they do focus on cloud
+right away the next course is going to cover data management and storage in the cloud of course using Google's
+own cloud computing platform and if you took a Microsoft course they would definitely teach you Azure and if
+you took an Amazon one they would teach you AWS that's just the way it is and the third course is just data
+transformation in the cloud and then storytelling how to visualize data in the cloud and I did actually take a
+look at the course description and they're talking about you know creating different reports creating
+dashboards and creating different forms of data visualizations to present your data to stakeholders in an
+efficient way and in the final course they're just trying to help you prepare for a job by putting it all
+together in the final course now I also checked the details here and there is kind of a preparation for job
+module and there's also a Capstone project that you'll do at the end which is like a final project at the end
+basically and there's also a module about AI for some reason and a little bit about how to deal with LinkedIn
+and resumés and all that stuff but now let's get into the pros and cons of this certificate and I do think
+that it's a very good option I really like that they focus on cloud computing competition can be very intense
+especially at the entry level but the more kind of specialized you are the easier it is going to be to stand
+out and actually compete as in any field and cloud computing is actually growing at a very fast rate as a
+field and there is going to be a lot of job opportunities in cloud computing now if we talk about the course
+itself I do really like that it's by Google it's nice overall and all of their other programs have been top
+rated and I've actually not seen a single bad Google course at least from these certificates now it is pretty
+short but I think that's also fine and you'll learn the fundamentals and have more time to practice and learn
+other skills and there are a lot of courses out there that could save a lot of time they're kind of just
+wasting time and this one seems to be more concise and straight to the point in a way that's better than the
+original Google data analytics certificate which some people thought was pretty slow that's both a good and
+bad thing it just depends on where you're coming from again the pricing is pretty good as well and it's part
+of the corsera Plus subscription so you can access different free trials financial aid and other options as
+well to help you out now a downside is going to be the same thing as the upside which is that it's shorter and
+that it has less content and the claim that you'll be job ready in 10 weeks or less is actually pretty much
+incorrect if you study a lot and really go through everything and do things on the side sure there might be
+some way that you could do this but to actually become a data analyst you'll need way more stuff and I become
+quite tired of these descriptions that claim to make your job ready in like 5 weeks when you're even doing it
+part-time it's just not possible so how does this one compare to the original Google data analytics
+certificate and there are so many things we can talk about here it's the length that it's shorter it's that
+it's focusing mainly on cloud data analytics instead of just being a very broad course covering data analytics
+and it's also a much newer course which is both good and bad you'll stand up more from the crowd if you
+complete this but it's also less welln and there are a lot more differences including the actual skills which
+I'll talk more about in this video up next somewhere on the screen and I did actually compare these two
+certificates in more depth so if you are interested in a complete comparison of both of these click the video
+on the screen to check it out and I'll see you over there

@@ -1,0 +1,155 @@
+Title: Top 10 Computer Science Courses You NEED To Take in 2025! (Google + IBM Certifications)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Ls3MypHh9p0
+URL: https://www.youtube.com/watch?v=Ls3MypHh9p0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:29:58+00:00
+
+Kind: captions Language: en computer science skills are some of the highest paying skills on the job market
+they open you up to many opportunities and high paying jobs in many rapidly growing Fields you can often work
+from home and experience some of the best benefits on the job market and while a degree certainly will be very
+helpful you can now learn many of these things for free or at a low cost online and corsera is a great place
+to do this they partner with companies like Google and Microsoft as well as top universities and you also get
+certificates after taking courses which you can print out add to your LinkedIn and show to your future
+employers today I'll cover the top 10 computer science courses on corsera and let's just get started so first
+up on the list we have the Google cyber security professional certificate now cyber security is a rapidly
+growing field with high paying jobs and where people are actually needed now the issue is that many people
+think that it's super hard to break into cyber and that you have to be some kind of Genius now it is very hard
+but that's not true and with this course Google is trying to make it more accessible for people to learn the
+fundamental skills of cyber security to help them break into the field now I don't think that this course
+alone is going to get you a job in cyber security but it is going to be a great start that can be the thing
+that pushes you towards a new career now if we take a look at the certificate itself it is a beginner level
+certificate with no prior experience or education required it is 6 months at 7 hours per week but I have heard
+people complete it faster so depending on how fast you are you might be able to do it faster as well there are
+over 400,000 people enrolled with a average rating of 4.8 from these people so people definitely love it if if
+we take a look at the courses there are eight different courses in the certificate and the first one is called
+foundations of cyber security it is 21 hours and you will be introduced to the foundations of the field the
+next course is about managing security risks and about networks and network security and then Linux and SQL
+which are essential tools for cyber security and then assets threats vulnerabilities and then detection
+response and finally some python specifically for cyber security purposes and in the final course they do also
+help you prepare for jobs and do some kind of interview practice and learn how you can then continue from
+after the course because that's the most important thing right now cyber security is a great field and a
+fantastic course but it's not for everyone and I do think the next one will be better for most people who
+don't want to specifically break into cyber security all right so next up on the list is the Google It
+automation with python professional certificate now this one is beginner level and 6 months at 10 hours per
+week and you'll basically learn how to use Python to automate tasks focusing on real world problems and this
+is definitely a high paying skill now let's look at the first course and we'll see that it's actually 39 hours
+of a crash course kind of on python Basics and then we have another pretty long course and they're actually
+only getting shorter from here this one is called using python to interact with the operating system and then
+we have an introduction to git and GitHub which are absolutely essential if you're going to be working with
+programming and then troubleshooting and debugging techniques and then configuration management and also a
+little bit of working with Cloud which is really popular and useful right now and finally automating real
+world tasks with python which is kind of like a final old Capstone project for this one python is a really
+valuable skill it is one of the most popular and in demand programming languages out there it is relatively
+easy to learn for beginners and very versatile and used for literally in all sorts of Industries and it
+automation skills with python will open you up to a ton of New Opportunities even if you don't want to work
+specifically with that it's still a great skill to learn and for that reason I would highly recommend this
+certificate all right so next up we have the IBM backend development professional certificate now this one is
+also a really UNT opportunity and I actually wonder why people are not taking advantage of this one or
+actually I do kind of know why because first of all back in development isn't as kind of sexy as frontend
+development and secondly because it is 12 months at 10 hours a week so it's a much lengthier course than the
+other options on this list and I even think it's one of the most extensive ones on corsera but I think that's
+a good thing as well because you want to go through all the stuff and you want to get all the stuff you really
+need and come out on top and not just learn two new things and kind of just learn few new skills you actually
+want to go all the way right now this one is also beginner level but only about 5,000 people have actually
+enrolled which is pretty crazy it's a very low amount compared to the other courses and the first thing you're
+going to learn is an introduction to software engineering and how it works and next an introduction to Linux
+and shell scripting and then an introduction to GitHub and some python for data science Ai and development
+which is also part of their data science program and next AI applications with python and flask and then D
+Jango application development with SQL and databases and next application development using microservices and
+serverless and then a couple of more courses that just focus on these skills and then finally a Capstone
+project now I will say something that this is actually going to give you a fantastic introduction to many
+different areas but it is not the most specific course so if you're kind of looking to take this one to get a
+specific job so I wouldn't take this one if you're focusing specifically on a job right away but if you're
+looking to learn the basics and kind of build a solid foundation I do think that it's a good option now next
+up on the list we have the Google It support professional certificate and everybody's heard of it and the goal
+is to help beginners break into it and land their first job now it is a beginner level certificate which is
+surprising right and it is 6 months at 10 hours per week with again a flexible schedule and actually over 1.5
+million students in rolled with a 4.8 rating now it's really important to kind of emphasize that all of these
+people have definitely not finished a course so you're not really competing with 1.5 million most are just
+trying out the course and if we actually look at the courses and the reviews you will see that there are a ton
+of reviews but it's still pretty little compared to the people that enrolled it's only like 150,000 but if you
+look at the final course it's actually only around 20,000 or just above that so it's really important to know
+that most people are never finishing the course and that is why you should also really know what you're
+getting into before you start because most people they never actually complete the online course that they
+start and they unfortunately never get to where they want to be either anyway the first course is going to
+teach you about the technical support fundamentals and kind of how to work as a support person and then about
+operating systems and then about system administration and then it infrastructure services and finally on the
+list it's going to be the it security course now I think it's a great certificate for people looking to break
+into it and you may need some more studies as well you always have to kind of be cautious when they say that
+you'll get a job right away but I seriously believe that it can help a lot of people progress forward in their
+careers at least all right so number five and next up on the list is the Google ux design professional
+certificate and I do want to highlight that ux is slightly harder to get into than other fields on this list
+you'll often need a solid portfolio and it can be pretty competitive because it's very popular and I just want
+to give you kind of realistic expectations before I say all of this now I still think that it can be really
+beneficial and it is one of the best ways to actually begin a career in ux so we're going to cover it anyway
+now this course is 6 months at 10 hours per week and it's really focusing on giving you a solid fundamental
+understanding and also working some Hands-On practice with ux design you're going to be following the ux
+design process and learn all about it as well as actually how to do your yourself and you'll also learn the
+basics of ux research and finally in the last course you'll complete three different ux projects and also
+build a portfolio and this is going to be really helpful for those looking to kind of break into the field
+after and I do like the fact that they actually cover some Hands-On practice and you building some stuff
+yourself that is going to be very helpful especially for ux which is such a practical field where you kind of
+have to you know break into it there's not just one degree or something that you study and then you instantly
+get a job you actually have to put in some more effort next up on the list we have the data structures and
+algorithms specialization by UC San Diego and it is actually only 5 months at 10 hours a week and also a very
+popular course data structures and algorithms are some of the most fundamental concepts of computer science
+and very useful and applicable in roles like the software engineer but also a ton of other jobs if you've
+already you know gotten a computer science degree and you've already studied these Concepts or you're
+self-studying and you just want to kind of brush up on these things I do think that it can be a good option to
+take this course it's also something that companies actually test you on for example in interviews for
+software engineering roles now this is actually a course that's taught at the University itself it's not just
+online course it's kind of the same course that they're offering their own students so I don't think that the
+quality is going to be a big factor that you have to worry about but I also think there's quite a few
+university courses that aren't that good either anyway you're at least getting the same experience as the
+people that are studying on site and actually taking their courses the first course is called algorithmic
+toolbox and then we have data structures algorithms graphs on strings Advanced algorithms and then finally we
+have kind of a final project or Capstone project project all right so we're going to continue with number
+seven on the list right away which is going to be kind of the more programming specific courses and this one
+is going to be Java programming and software engineering fundamentals it's by Duke University on corsera
+although it is a beginner level course and it's 6 months at 10 hours per week Java is actually still one of
+the most well-known and most in demand programming languages and while it certainly isn't a new fantasy
+framework it is very applicable and very useful to know on the job market it is also a great language to kind
+of learn the fundamentals of programming especially object-oriented programming and different approaches for
+programming in general which is why quite a few universities actually teach Java as their kind of fundamental
+computer science course where they teach you the programming stuff now this course is actually not entirely
+about Java it is also about covering some fundamentals with JavaScript HTML and CSS and then you'll kind of
+get into the Java programming later and finally there's also a Capstone project in the course now I do think
+that it's a great course for those who to learn Java it is from a very well-known and reputable institution as
+well one of the best ones in the country and actually around the world and I've taken courses from duke before
+and I've been very impressed with the quality so yeah just give this one a try if you're looking to learn Java
+and software engineering now going back quickly if you are still looking to learn algorithms there's one
+course that you cannot miss and it is the algorithms specialization by Stanford University it has over 4.8
+from over 100,000 students and the benefit here is that it's very specific and focuses entirely just on
+algorithms it's also pretty short at only 2 months at 10 hours a week and you'll get all the basics done but
+now let's move on to the ninth course on the list and number nine is probably one that you've already heard
+about because it's one of the most popular on corsera don't fact check me on this but I do think so but I'm
+going to offer you A New Perspective now so this is the python for everybody by Professor Chuck and it is a
+beginner level course at only two months to 10 hours a week and the focus of this one is to teach python for
+literally everyone so I'm going to show you a small trick and you don't actually need to take all the courses
+in this one because if you already have some experience whether whether it's with programming or python
+specifically you don't have to take all the courses they really start slowing in this one and then it kind of
+accelerates later so you can just actually hop to one of the later courses and that's going to be completely
+fine as well I do think that some people unfortunately underestimate this course they think that it's only for
+you know literal beginners but as long as you get past the first few courses it can be really useful for
+people that already know some programming and they just want to focus on learning more python I also like that
+they have an integrated environment where you can kind of practice with their course but I do prefer platforms
+where we can practice a little bit more so I would recommend using a site called Learn Python which I'm also
+partnered with but I would recommend them any day of the week and I'll leave a link to them in the description
+as well if you want to try it out in a more Hands-On way where you can kind of just do exercises just learn
+and you don't have to watch any videos just actually practice and make sure that you remember the stuff that
+you're learning python in the most efficient and useful way which I also think is the best way cuz it's the
+most fun to just actually do some Python and apply it all right so course number 10 is going to be the web
+applications for everybody specialization and it's also by the same professor at the same University and this
+is kind of like a follow-up course on the python one but here you focus more on the web applications and it's
+for anyone as well now some people are not going to agree with all the tools that are used you know all the
+programming languages because in the first course you're actually using PHP to build web applications and then
+you're going to learn all about SQL or I mean in only 15 hours so not all about SQL and then you'll be
+building a database application in PHP and finally there is a course on JavaScript jQuery and Json now it is
+not as famous as a python course course simply because I think there's more competition in the web application
+space and perhaps not everybody is as interested in learning PHP as other languages nowadays but if you are I
+think it's a great course to take it has a 4.8 rating and it is very popular as well now I also made a video
+with the top 10 corsera courses that you need to take and it got a lot of positive feedback and went viral so
+check it out somewhere here on the screen if you're interested and I hope to see you there thanks for watching

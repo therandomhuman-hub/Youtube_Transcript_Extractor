@@ -1,0 +1,101 @@
+Title: Top 10 Careers For Computer Science Majors
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 7j74IBi5k5M
+URL: https://www.youtube.com/watch?v=7j74IBi5k5M
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T12:32:13+00:00
+
+Kind: captions Language: en putting in the time and effort to earn a degree in computer science can pay off in
+a big way the earning potentials for computer science Majors is basically unlimited and the number of career
+opportunities that are open to you is awesomely diverse we spent hours sifting through computer science
+related careers to find the ones with the highest pay and we narrowed down to a very quick list of top 10
+careers for computer science Majors there's a ton of information here but make sure you stick around until the
+end for one awesome career that you might even have considered and the career that you pick is very important
+and you will spend a lot of years going for that so if you do pick the wrong option you know it's not the best
+situation to be in let's just be honest so let's just clear everything up in this video the first one on the
+list is going to be the software quality assurance or quality assurer and it is an essential department for
+any tech company quality assurance workers analyze and test software through various stages of development to
+make sure that the product is safe that it's secure and that it it's complete I with various regulations and
+Company standards positions in this field will make good use of these skills that you pick up as a CS major
+including some coding skills in different languages being able to understand existing code and document
+changes and a debugging software the software quality assurance field is projected to grow as much as 25% by
+the year of 2032 which means that there will be a steady need for software quality assurance workers in the
+future and with an average salary of around $10,00 ,000 per year there's definitely some incentive to look
+into this career now of course the salaries will depend a lot on what you focus on you might make less and you
+might make more than this depending on the kind of software that you do and for the specific company number
+two is going to be the database architect now all companies need a way to securely store their data and it's
+the job of a database architect to design and build those Solutions once the systems are built they then set
+these standards to follow for operations programming and More in order to ensure the health of the database
+for the long term so it's a very important job there is an ongoing need for database Architects with around
+10,000 job openings every single year projected over the course of the next 10 years which is pretty good as
+well now database Architects do carry a lot of responsibility which means that they will have to have the
+skills to pay the bills like knowledge of python you might work with C Pearl Java and in general it's just the
+skills to actually manage the database that you're working with and speaking of paying the bills database
+Architects have an average salary of around 117,000 per year which is really good as well now number three is
+going to be the computer network support specialist now any job with the work supporting it probably turns
+your stomach with the thought of dealing with calls from Angry clients and angry people but don't count out
+computer network support Specialists because it is a pretty good job this is a role that works to keep the
+networks running by analyzing testing and kind of troubleshooting them while performing different basic tasks
+like backing up data and configuring permissions and we're not going to say that it's an easy job but it is a
+pretty relaxed job compared to some of the other careers as long as you have a solid understanding of network
+systems and good problem solving skills this is an awesome career that is also projected to grow at around 5%
+by 2032 now what kind of pay can you expect for such a job and it's actually around 122,000 per year the next
+one is going to be the software engineer and if you're looking for a great career with an awesome title after
+you get your CS degree then I would look no further than the software engineer and while the field is actually
+pretty competitive and especially more competitive than before there are still quite a few jobs and they have
+really high salaries and there's both the software developer and the software engineer which are similar but
+the software engineer is usually a bit more advanced than has a more technical toolkit I do need to emphasize
+that while you learn how to create software and maintain software in CS it's not necessarily the focus of your
+degree and many people are getting two different programming jobs and software engineering and many people
+when they are looking for a programming job after their CS degree or kind of in software engineering realize
+that they need to actually study quite a bit on the side and you might have to you know learn the programming
+aspect yourself if you want to have the sufficient skills to actually get a job as a software engineer the
+average salary in the US is about 129,000 per year year but at top companies you can make a lot of money and
+there are people making multiple six figures a year as a software engineer at the top companies again I really
+need to just say that competition can be really Fierce for these jobs and it's not necessarily the best option
+if you're just looking for you know a relaxed job because you are going to be competing with absolute Geniuses
+that are spending 24 hours a day doing lead code problems so it just depends on what you're willing to get
+into basically now the next one is going to be the computer hardware engineer and if you do love the internet
+well we all do but we wouldn't be able to access it without our computers and other devices which makes the
+career of a computer hardware engineer so incredibly important and valuable computer hardware Engineers are
+the ones who basically design and develop the hardware that makes our computers work some important skills
+computer hardware Engineers need from their CS degree are critical thinking Advanced analysis and
+communication skills although you know it depends on how well you have those after CS degree and if you do
+pursue a career as a computer hardware engineer you can expect an average salary of around 113,000 per year
+the next one is going to be probably my personal favorite on the list which is the cloud engineer and while
+physical Hardware will always be important the desire for smaller lighter and more efficient devices has
+created the need for increased cloud computing capabilities and when a company needs to up its cloud computing
+game or they need to kind of integrate it with different products they need a cloud engineer and this is
+basically a person who knows how to migrate computer systems to the cloud configure its many protocols and
+create applications to monitor its performance Cloud Engineers will need to have knowledge of cloud computing
+platforms or at least one like Amazon web services Google cloud and Microsoft Azure in addition to skills in
+data storage programming and networking and for this career you can expect an average salary of around 102,000
+per year but these salaries are actually increasing and there are going to be a lot of opportunities in the
+future as well the next one is AI machine learning engineer and some people think AI is going to take over the
+world and other people think that it's just going to make their jobs a lot easier and either way the world
+needs Ai and machine learning Engineers to design train and maintain the models and data sets that keep them
+running for possibly contributing to the downfall or the advancement of the human race you can expect an
+average salary of 114,000 per year and of course a lot more if you get more senior the next one is going to be
+the mobile app developer and we all use apps every single day and businesses as well as entrepreneurs are
+always looking for someone to build their ideas into successful applications and that's where an app developer
+comes in now to be an app developer you'll need a knowledge of various Fields including UI design coding in
+different languages crossplatform development and Agile development and as an app developer you can expect a
+salary of around 103,000 per year and the next one is going to be R&D scientist and while all of the previous
+careers on this list focus on the computer part of computer science this one is more focusing on the science
+aspect when companies like apple Google and Microsoft want to put out new products the first step in the
+process is to create a department called the R&D department and this is where research and development
+scientists take Concepts and ideas and use them to plan design Hardware they then test iterate and retest
+their Creations until they're ready to be manufactured and as a person who could possibly have a hand in
+creating the next iPhone you can expect an average salary of around $999,000 per year now next up on the list
+is going to be great for any Gamers out there and this one is going to be the video game developer if you love
+playing video games the skills that you pick up as a CS major make you perfectly suited for actually creating
+them yourself programming problem solving the sign and sometimes even Advanced knowledge of mathematics is
+going to be very important here and even though it sounds playful with just working with the games it is
+actually one of the most difficult careers on our list but it's also one of the most rewarding in addition to
+the average salary of 108,000 per year you can play an important role in the creation of awesome gaming
+experiences especially if you're interested in the field I do think that it might be a great option as well
+now I also made a video with some courses and certificates that you can take to actually reach these careers
+and do it faster which I recommend you check out on the screen the video got a lot of positive feedback and I
+would love to see you over there
