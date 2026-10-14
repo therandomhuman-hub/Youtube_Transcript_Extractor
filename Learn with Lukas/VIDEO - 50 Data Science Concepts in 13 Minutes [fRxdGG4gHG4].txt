@@ -1,0 +1,146 @@
+Title: 50 Data Science Concepts in 13 Minutes
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: fRxdGG4gHG4
+URL: https://www.youtube.com/watch?v=fRxdGG4gHG4
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T06:27:46+00:00
+
+Kind: captions Language: en I'm going to give you 50 data science Concepts and explain them all in just a few
+minutes and I'm going to assume no prior ack knowledge of data science whatsoever and knowing these things can
+help you stand out during a job interview or just help you perform better in your role and therefore be
+promoted we'll cover Concepts from all aspects of data science and I guarantee that there will be terms that
+you've never even heard about even if you have some experience in the field let's begin training your neural
+net when working with data you need a few basic skills to be able to deal with it this is called data literacy
+and it's basically the ability to read understand create and communicate data as information now once you have
+some data you can apply statistical methods to analyze this data for example using the mean median mode to
+understand the results of a customer satisfaction survey this is called statistical analysis a good way to
+both present and understand data is to do it graphically through data visualizations for example using a pie
+chart to display sales across different regions and compare what regions are responsible for the most sales to
+work with databases we need a language to query the data that's why we use SQL or structured query language to
+for example extract a list of our customers from our customer table in our relational database to be able to
+use the data we of course need to collect it first but the second and really important step is called Data
+cleaning where we remove errors and fix inconsistencies in the data if we have bad data this can skew our
+results which can be very harmful for our analysis and lead to bad decision making most of our data is there
+in a raw format and it's not really usable but with the help of data wrangling we can turn it into a usable
+format for example we might have different spreadsheets with data all over the place that we turn into a
+structured system in our database to understand data sets we need to explore them because we don't always know
+what they're trying to tell us right away to achieve this we can use different analytical techniques and this
+is a part of Eda which stands for exploratory data analysis we could for example use a histogram to explore
+the distribution of a variable now what about business intelligence well it is a field where we specifically
+use data to inform and improve business decisions we may want to analyze customers and their buying behaviors
+so that we can improve our marketing and make more sales by making specific promotions and time them properly
+now let's talk about the next one which is data quality while it might seem obvious I mean it just says what
+it is right data quality but it can often be a timec consuming and difficult process because you want to
+ensure that the data is accurate and that it's relevant for our use cases there are different ways to verify
+the quality of the data depending on the data that we're working with storing and using data comes with many
+many risks for example somebody might steal our data and use it for malicious purposes and if we don't secure
+it properly it could actually end up being our fault because it's our responsibility to protect it so data
+security is really important protecting data from unauthorized access we want to implement encryption where
+necessary and only give the right people access to our data as well as any other measures we can take to keep
+our data secure but it's not just about security it is also about how we use the data because we don't need
+the data to get stolen or exposed for it to be problematic if we use data in a wrong way we could break data
+ethics it's important to prioritize ethical behaviors in data analysis ensuring that customer data is used
+responsibly respecting privacy and consent and there are also regulations nowadays that you have to consider
+it is relevant for example when it comes to data visualizations and not fooling people using our data but
+that's for another time now let's talk about data governance which is about managing data availability
+usability integrity and security it is basically an overlying concept covering all of these things next data
+is often coming from many different sources and we may have to merge the data to combine it into one single
+place both for efficiency usability and security and this by basically getting all the data into one place is
+called Data integration now data warehouse ing is very Central to this which means storing data effectively
+like in a warehouse to kind of centralize business data for reporting and Analysis but the actual term when we
+talk about the process to bring data from multiple sources into a new place is called ETL which stands for
+extract transform and load basically we extract data from the sources we transform it into our structured
+format that we need and then we load it into our warehouse but sometimes we don't want to deal with the data
+and transform it and all that stuff and we just want it into one big place where we can store a huge amount of
+data in its original form until we actually need it because it might not be worth spending resources
+processing all the data right away if we're not going to be using it and that's why we have something called
+Data Lakes an example is storing a lot of different data types from various sources in the cloud now let's
+talk about the fancy term machine learning and it's basically training computers and their algorithms to
+improve automatically through their own experience and for example the computer might be able to predict
+future purchases in a store at a given day depending on previous purchasing behaviors at the store there are
+different types of machine learning and one of these forms work with label data which is like using historical
+sales to predict future sales and this is called supervised learning I'm also dropping some free data
+scientist and data analyst road maps in the description which you can check out and also make sure to drop a
+like And subscribe to the channel and we'll meet again in a future video but now let's continue number 19 now
+we also have the other aspects which is machine learning from unlabeled data to find patterns an example could
+be segmenting or audience based on purchasing Behavior even if we never Define categories then we can let the
+machine do it for us this is called unsupervised learning all right so that was a lot of stuff but we have
+just a few machine learning Concepts left the next one is about categorizing data into predefined classes for
+example if you have an email system like Gmail it can automatically tag certain emails as spam and others as
+priority or even warning you about potential viruses whatever it is it is a form of classification and it's
+something that you can train machines to do for you another important concept is regression or regression
+analysis which is about estimating relationships between a dependent variable and one or more independent
+variables one way to explain this is kind of for example in forecasting house prices based on different things
+like size location and just what's going on in the economy and in the country overall now what about when we
+have many different data points that are similar can we group them together well of course we can we can
+actually segment customers into groups based on their shopping habits some customers might buy every single
+week whereas others buy every you know once a year and we may want to focus our marketing span on certain
+types of customers the process where we group similar data points is called clustering now let's talk about
+dimensionality reduction it basically means that we try to reduce the number of variables in the data using
+different techniques to simplify large data sets there are a variety of reasons why we do this and different
+ways to do this as well and you can look into it further if you're interested because we still have a lot of
+Concepts to go now what is feature engineering well when we create machine learning models we create
+predictors like for instance we may want to create new variables from existing data like the age of a building
+from its construction data and perhaps the most important thing is selecting the right model for example for
+data analysis like between linear regression and decision trees for a prediction task now number 26 is going
+to be cross validation and when we have different predictive models we can evaluate these models by
+partitioning the original sample into a training set that we can use to train the model and then a test set as
+well that we can use to evaluate it and this is called cross validation all right now when we try to optimize
+the parameters of a machine learning algorithm we go through something called hyperparameter tuning it could
+be about adjusting the number of layers A in a neural network for better performance now let's talk about
+neural networks they're basically a set of algorithms supposed to model and work like the human brain it's
+used for recognizing patterns and to train machines to do so like recognizing people on an image by just
+looking at the image but there are a ton of other terms as well and they can end up being a little bit
+confusing so if we have a subset of machine learning that involves neural networks with many different layers
+we call this deep learning it is often used for complex tasks like translation we also have a specific type of
+neural network that we can use for analyzing visuals like automatic photo tagging in the system we mentioned
+before these are called convolutional neural networks another form of neural networks are suitable for
+processing sequential data this can be text as an example for NLP tasks and these are called recurrent neural
+networks or rnns but what about NLP tasks well NLP stands for natural language processing it's basically about
+the computer and its ability to understand human language as it is spoken and written that is why it's called
+a natural language it refers to R the human language now we have different languages like English and French
+but for the computer they're all a part of the human language because computers actually have their own
+language and they operate in zeros and ones so for the computer our languages are kind of like different
+programming languages for us now we don't just want our model to learn something we actually want to make it
+really useful therefore there are different ways to apply the knowledge we gain by solving one problem to a
+different problem that related and this is where it gets really interesting because we don't need to show the
+computer the exact problem beforehand it can actually use a similar problem and solve the next Problem by
+itself the first time in the real world we could pre-train it on image recognition and then use it to identify
+specific objects in satellite images for example and this concept is called transfer learning because it
+basically transfers its learning to a new problem now another form of learning is when we combine a multiple
+machine learning algorithms to improve the performance of our algorithms for example if we have a
+classification task we can use different types of algorithms and we don't just need one this is called emble
+learning now number 35 and next up we have random forests this is also an assemble learning method useful for
+classification and regression like predicting a lone default risk based on our existing customer data now we
+can use svm or support Vector machines for classification or regression like to classify emails into spam and
+non-spam categories then we have gradient boosting and this is a technique for regression and classification
+problems such as improving the accuracy of a prediction model next we have PCA or principal component analysis
+this is a technique that's used to emphasize variation and capture strong patterns in a data set we also have
+methods for cluster analysis in Data Mining and one of these are called K means clustering it can for example
+be about segmenting retail customers based on their purchase history and this brings us to KNN or for K
+nearest neighbors this is a non-parametric method used for classification and regression like when Netflix
+recommends you movies based on similarity to previous watched movies which can be very helpful now there's
+quite a bit of math and statistics in data science and one of these concepts are about applying base theorem
+with prior knowledge to study different parameters this is called basian analysis and an example would be with
+predictive modeling like updating the probability of having a disease based on test results now if you're a
+beginner you're probably not familiar with all of these Concepts and that's completely fine but the next one I
+think you might get it now we also have something called sentiment analysis and it's all about classifying the
+emotional tone behind a series of Words which we can use to better understand attitudes opinions and emotions
+it gives us a more complex picture rather than just relying on the words being said now let's move fast for
+the last few ones anomaly detection is about identifying unusual patterns that don't conform to our expected
+behaviors basically identifying something strange it could be the detecting unusual or fraudulent transactions
+on a bank account now we can find associations and relationships among large sets of data items and this is
+called Association roles collaborative filtering is all about predicting users interests based on the interest
+of other users just like with a recommendation system for Netflix but here we focus on what other similar
+users enjoyed time series analysis is all about analyzing data points collected over time for example we can
+collect or predict different stock market trends in the future based on historical price data at 47 and
+predictive modeling is very useful for example to use past data to predict future sales we create test and
+validate a model to best predict the outcome data pipelining is the process of moving data from one place to
+another often through a process called ETL extract transform and load data analytics is kind of like a
+subfield of data science where we more focus on using data to improve business decision and decision- making
+overall and finally data science is the study of data to extract meaningful insights for businesses using all
+sorts of methods of course that is incredibly simplified but thanks for watching this video I hope it was
+helpful subscribe for more videos like this and also check out this one on the screen I do think that you
+would enjoy this video as well as it's kind of tailored for you now

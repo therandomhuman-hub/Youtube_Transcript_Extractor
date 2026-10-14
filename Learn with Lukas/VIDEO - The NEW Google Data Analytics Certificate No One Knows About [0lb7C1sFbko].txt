@@ -1,0 +1,64 @@
+Title: The NEW Google Data Analytics Certificate No One Knows About
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 0lb7C1sFbko
+URL: https://www.youtube.com/watch?v=0lb7C1sFbko
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T06:23:39+00:00
+
+Kind: captions Language: en Google just released its cloud data analytics certificate so which one should you
+take people have been talking about the Google data analytics certificate as being kind of overrated for a
+long time now and with this new Option directly from Google it's safe to say that things have changed in this
+video we'll do a detail breakdown and comparison of these two certificates and I will show you which one is
+the best for you if you want to become a data analyst and actually get a job fast so the Google data analytics
+certificate really does not need an introduction but I'll just catch you guys up in 15 seconds and so that
+we're kind of on the same page it's a beginner level course at 6 months at 10 hours a week and eight different
+courses to help you become a data analyst from zero it's incredibly popular with over 2 million enrollments
+and it's kind of the course that people think about when they hear data analytics in the first place and
+you'll work with spreadsheets SQL or structured query language R programming and Tableau so four kind of main
+skills in the certification now what about the cloud data analytics certificate and this one is also beginner
+level but it takes only two months months at 10 hours a week and it's a five course series to help you become
+a data analyst specifically focusing on cloud data analytics and that's basically what it is you'll be a data
+analyst but you'll focus on cloud computing or working with data in the cloud cloud computing is the delivery
+of Computing Services over the internet and this could be a Google Drive where we store some documents and the
+reason why it's so effective and why companies do this is because companies like AWS and Google cloud or
+Microsoft Asia they focus on delivering these services so so that other companies can get exactly what they
+need when they need it and they don't need to build everything themselves and they only need to pay for
+exactly the capacity that they actually want and they avoid a lot of Hassle and they can just get what they
+actually need really fast and as you might guess cloud is rapidly growing and employers are actually looking
+for these skills now the course itself is going to first focus on an introduction to data analytics in Google
+Cloud which is Google's cloud computing platform and it's also known as gcp and then we'll move on to data
+management and storage in the cloud and then data transformation in the cloud and then storytelling and
+visualizing data in the cloud you'll create data visualizations design dashboards and generate reports and
+finally you'll do kind of a Capstone project to help you prepare for jobs it's kind of like a final project
+that you'll do at the end now this course is actually similar to Google data analytics in many many ways and
+they are kind of teaching you the same fundamental skills the main difference is that they're applying data
+analytics specifically to cloud computing and the courses they do teach you how to store and manage data they
+teach you how to transform and make data useful for analysis and to solve business problems and they talk
+about data visualization so many things kind of overlap between these courses but now let's talk about the
+differences because that's why you're here and yes there are many differences to consider before picking one
+of these courses or maybe you want to pick both we'll see so the first difference is about the actual course
+itself and it's way shorter and you are going to get a less comprehensive learning experience on the other
+hand some people did complain that Google's initial course was too slow and not that practical and could be
+more Hands-On so it's likely going to be more efficient as well which means you'll have more time to spend
+doing projects or just learning the important skills by practicing the other thing is the actual skills and
+Google's original data analytics certificate covers spreadsheets SQL our programming and Tableau and this
+cloud data analytics course is very new but if we do take a look at the actual skills we'll see that SQL is
+going to be covered as well and data visualization is also covered which the other course uses Tableau
+specifically for but it does also focus more on specific Cloud tools from Google such as big query datax
+looker modeling language and more and these are things that you don't get in the traditional data analytic
+certificate except for some big query if I remember correctly but I can't find any programming so if you do
+want to learn r or python you may not find it in this course but again you can learn these on the side it's
+completely reasonable since this course is so much shorter at 2 months instead of 6 months so you'll also have
+way more time to learn things on the side so I wouldn't really just focus too much on that my final opinion
+about this new course is that it is a great option if you want to learn data analytics as long as you want to
+focus specifically on cloud and it's a rapidly growing field and these skills are in high demand and it is
+still a very new course so we'll see more as the time goes on but it's by Google so I don't really think it's
+a problem it is shorter but regardless of which course you take you'll kind of have to supplement your
+learning on the side and it's still a great way to progress and these courses are top rated for a reason and
+the question that you might have is could I take both of them yes absolutely they do overlap on a few things
+especially on a high level but they also cover things from a different perspective which can be very valuable
+as well I'm going to leave a link to the course in the description including any free trials or ongoing
+discounts at the moment which you can check out if you're interested and thanks for watching this video and
+I'll see you in the next one

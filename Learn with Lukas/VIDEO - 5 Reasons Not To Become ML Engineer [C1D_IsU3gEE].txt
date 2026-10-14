@@ -1,0 +1,73 @@
+Title: 5 Reasons Not To Become ML Engineer
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: C1D_IsU3gEE
+URL: https://www.youtube.com/watch?v=C1D_IsU3gEE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T06:28:18+00:00
+
+Kind: captions Language: en becoming a machine learning engineer is awesome the pay is fantastic the job
+opportunities grow every single year and it's a interesting field for those looking to be at the Forefront of
+Technology but here's the truth everyone should not become a machine learning engineer or actually most people
+should avoid this career and it's not just because it's hard there is more to it in this video we're going to
+discuss the five best reasons not to become an ml engineer now I gather these Reasons from talking to ml
+Engineers from different companies forums surveys and more and these are not my experiences but rather those
+of lots of people in the machine learning space and if you don't have 5 minutes to watch this video I think
+that's crazy because the other option is wasting years and then finding out later that this career isn't for
+you after you spent so much time trying all for nothing or perhaps it's going to be the best one for you we'll
+find out now we need to start with the basics so the first reason why you should consider your Ambitions to
+get into machine learning is that it is complex and this one is the most obvious reason ml requires a deep
+understanding of complex mathematical Concepts algorithms and programming skills and more and for many of
+these things the learning curve is very Steep and this can be highly discouraging if you're not very
+passionate about continuously learning and problem solving and about using these Technologies I would also
+like to kind of highlight the math aspect and the main warning that I've seen from people is regarding the
+math now math can be very fun if you enjoy it especially when you're applying into something rather than just
+doing some boring high school math but there are people who just hate math and from what machine learning
+Engineers are saying I do think that they would have a very hard time enjoying this role and this brings us to
+reason number two and this field has changed a lot and it's not looking to slow down anytime soon the field is
+in general changing quickly and there are new technologies tools and Frameworks appearing all the time and
+while you don't have to learn everything this can also be highly highly stressful but I do also want to note
+that you don't need to you know learn every single new thing and when you know the basics of something you
+will be able to learn another tool or just build on top of your existing skill set faster reason number three
+is related but it's more focusing on the personal side and I've made videos on other roles and one common
+concern that appears is high pressure and expectations and here it is just the same for the machine learning
+engineer role you'll work on critical projects with really high stakes and your work is very important not
+just that there's also the fact that this role is really in Focus right now and this means that managers are
+kind of keeping an extra eye on you now the salaries are very good so it's not all bad but what I have noticed
+for some people is that they felt periods that can be really intense and stressful and I would say that most
+roles kind of have these types of periods but the complexity and the Ever Changing field combined with these
+types of periods can make it even more noticeable this also really depends on the person and I have heard
+people with completely different experiences it's very hard to kind of summarize some personal experiences it
+really depends on who you are reason number four is really really important as well and now we're kind of
+talking more about the job side because so far it's mainly been about how you'll feel on the job but to do
+that you will actually have to get a job in the first place now this field in general is growing at a fast
+pace and many companies are looking to implement machine learning and therefore they need these types of skill
+sets but it's also very popular amongst applicants and this means that there will probably be more and more
+competition As It Gets even more and more popular I do suspect that the situation will be slightly similar to
+software engineering or data science in general where there are a lot of people who are just looking to become
+software Engineers or data scientists because it's kind of a buzzword and they've heard that it's such a
+fantastic career with amazing pay and those things are true but it also leads to immense competition
+especially from people that weren't even interested in this field in the first place and the good thing is
+that most of these people are not passionate enough and it means that if you are are very passionate about
+what you're doing you will be able to outcompete them and defeat them relatively easily the important thing
+here is to consider that all competition is not the same but on this point I do also have another thing to
+mention which is both a positive thing and a negative thing depending on where you're starting from and it's
+the fact that competition is not the same for all levels now I made another video going into this in detail
+and I think for the data science role and I kind of checked out some data and what we found out was that there
+was an incredibly small port portion of the roles that were entry level or within one or two years of
+experience and when you were able to get past those initial entry-level jobs and you got some more experience
+you were accessing a lot more jobs because companies don't really want to higher entry level people they would
+rather put up a job listing to hire somebody with a bit more experience and I think we were talking about
+three times more jobs at that point so at the entry level it will be very competitive but then it should kind
+of get better and better as you access more of the jobs available in the overall job pot by getting more
+experience all right so let's move to the final reason and we're going to address the elephant in the room are
+there actually any entry level jobs in machine learning and it depends on how you look at it the barrier to
+entry for machine learning is very high and if you compared to other careers it's not really an entry-level
+job let's just be honest to get a better idea of what they actually look for I would just check out some job
+listings yourself and that's going to give you a very good idea of where you can get started and what kind of
+skills you'll need and also how to progress as you go further along just one final word do your own research
+and don't base your entire decision on some YouTube video The Machine learning engineer is a fantastic role
+for the right person and if you are interested in becoming one I wish you all the best I'm sure that you'll
+succeed thanks for watching this video and be sure to drop a like And subscribe for more and also check out
+the video somewhere on the screen if you're interested in watching another video

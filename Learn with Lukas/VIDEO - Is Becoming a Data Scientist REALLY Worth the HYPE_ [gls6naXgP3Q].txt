@@ -1,0 +1,90 @@
+Title: Is Becoming a Data Scientist REALLY Worth the HYPE?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: gls6naXgP3Q
+URL: https://www.youtube.com/watch?v=gls6naXgP3Q
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T06:26:32+00:00
+
+Kind: captions Language: en have you seen videos about why you should become a data scientist that the
+salaries are high that you can often work from home and that it's just the best job of the 21st century well
+that's not the reality for everyone and today we're going to get straight to the point and talk about if it's
+actually worth becoming a data scientist or if it's just too competitive is it going to be replaced by AI or
+is the job perhaps not just as good as people might think I'm curious about this myself so I've done a lot of
+research which I'm going to present to you in this video and we're just going to start with a breakdown of the
+job responsibility then we'll talk about more the salaries job outlook and future growth as well as job
+satisfaction and how real data scientists feel about their jobs finally we're going to talk about the pros and
+cons and I'm not going to hold back at all in this video I want to share the reality so drop a like And
+subscribe to the channel and let's get started first we're going to start with taking a look at some common
+job responsibilities and I want to show you the reality so we're just going to head over to indeed the job
+searching platform and I'm going to show you two jobs and see if you can tell the difference here's our first
+data scientist job and as you can see the responsibilities listed include analyzing data for patterns
+Implement and improve existing models for data driven products create client ready slides find efficient ways
+to solve problems learn and share knowledge and be productive so you're saying I cannot take three coffee
+breaks each hour that was a horrible joke that was really bad let's take a look at another data scientist job
+and here you'll be responsible for analyzing large data sets the signing of scalable processes to collect
+manipulate process and analyze large data sets you will also develop working prototypes of statistical machine
+learning based algorithms and work closely with Engineers to deliver code across our platform now can you tell
+the difference between these two jobs because they are actually very very different even though they have the
+same job title one is more focusing on data analysis and one is focusing way more on machine learning and that
+is because the data scientist role is very general and they can do a lot of different things so make sure to
+always read the job description when you're applying for a job now let's take a look at these salary of a data
+scientist and here on talent.com the estimated average salary in the US is around 131,000 per year for a data
+scientist now do keep in mind that there's a very wide range of salaries from 105,000 On The Low End to
+175,000 on the high end and your salary will depend a lot you know varing on your region your expertise and
+also the company itself of course we can see the salaries per state with Washington taking the lead and then
+we have California and New York coming up in second and third place and at at the bottom of the page we can
+also see some different salary comparisons with a software engineer making around 126,000 per year and a
+systems engineer making around 115,000 per year now what is going to be the job outlook for a data scientist
+will there be jobs in 10 years and what does the job market actually look like well according to the US Bureau
+of Labor Statistics there are currently an estimated 168,000 data scientist jobs in the us alone with data
+from 2022 over the next 10 years this number is expected to grow by 35% and I can tell you that this growth is
+much faster than average but at the same time 168,000 jobs are actually not that many in a country of over 300
+million people so we'll continue this discussion a little bit more and talk about the competition and such
+once we get to the pros and cons section perhaps more important than the salary and anything else is the job
+satisfaction so let's see if people are actually happy with their positions or if they would do things
+differently according to a ranking by US news they rank data scientist as the fourth best technology job out
+there they also rank data scientist at number seven in stem which means science technology engineering and
+Mathematics jobs now at the same time the scor card definitely isn't perfect and the salary is at a 6.7 out of
+10 which I would perhaps even put a little bit higher but for some reason they decided to give it only a 6.7
+the future growth is 9.6 and as we look at earlier the growth is actually looking really good the work life
+balance is at a five which kind of goes hand in hand with dress at 4.7 and I think it's quite understandable
+because while it can be a really exciting job it's definitely not the easiest thing to leave everything at the
+office when you clock out and just forget about your data scientist job now I skipped one thing on the list
+because I wanted to discuss it last and that is the job market in this rating they're actually giving the job
+market a 3.8 out of 10 and that's not great but if the future growth is so good and the salary is great and
+everything then why is the job market so bad and the simple answer is of course competition because even
+though the growth is great if we look at the actual number of jobs well there are not actually that many data
+scientist jobs out there and with data scientist being one of the most popular jobs that everyone desires
+right now it's not that surprising that the job market can be very tough but this is actually a perfect
+transition to talk about the pros and cons of this career now I have a disclaimer first because these are not
+my experiences but what other people think and I've read a lot of reviews gone through discussion topics and
+different forums and just generally gathered things that people find to be pros and cons of this career these
+are really really important things that you should definitely know before you get started and if you don't
+know this then you might end up going down the wrong path and doing something that's actually a terrible
+option for you so we should probably you know figure this out as soon as possible so first as you can see the
+demand is great and the job market is certainly growing at a pretty fast pace the salaries are also very
+competitive and it's a job that you can do remotely of course as long as your company allows it there are many
+different career paths and ways to specialize and actually make more money in the process and it also involves
+constant learning and following new technologies which can be really exciting and perhaps most importantly
+you're able to work with data to make an impact but before we end this video we need to cover some of the cons
+now all downsides are not equal for all people because if I say that a job is very intense some people are
+going to absolutely love it and some people are going to hate it and find it really stressful so kind of be
+aware of who you are and what you prefer before taking these downsides in because they might actually be a
+positive thing for you first we have the constant learning and modern data science is a pretty new field and
+things are changing and evolving all the time so to stay relevant you will have to keep learning it can also
+be somewhat of a high pressure environment because the work that you're doing is very Visual and managers have
+high expectations of data professionals perhaps especially because data is known to be so important right now
+the managers actually believe that you're able to do more than you can in your limited amount of time there's
+also a stronger technical Foundation required for a data scientist than for example a data analyst and this is
+also refle Ed in the pay but just be aware that you're not really going to be able to take a 3-month course
+and then just end up becoming a data scientist suddenly it does require some serious skills and a lot of
+Education and Training there's also the discussion of Automation and I think a lot of you guys have been
+waiting for that but I cannot really predict what is going to be automated nor am I some sort of automation
+expert but it's likely that some of the responsibilities will be automated or at least integrated with AI
+That's not to say that the job is going to be replaced but I do think that some tasks are going to be changed
+that also brings us to the continual learning where you have to adapt to new things because the field is Ever
+Changing if you like this video and want more of them then please drop a like And subscribe and also check out
+this video because if you're interested in data science it is one of the most popular videos on my channel and
+I think you'll find it really really helpful thanks for watching

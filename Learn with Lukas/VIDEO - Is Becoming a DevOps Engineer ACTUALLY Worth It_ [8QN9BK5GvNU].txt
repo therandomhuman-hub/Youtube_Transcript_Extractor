@@ -1,0 +1,81 @@
+Title: Is Becoming a DevOps Engineer ACTUALLY Worth It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 8QN9BK5GvNU
+URL: https://www.youtube.com/watch?v=8QN9BK5GvNU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T06:26:00+00:00
+
+Kind: captions Language: en is becoming a devops engineer actually worth it this could offend some people but
+instead of just saying yes like everyone else we're going to take a closer look in this video and see if this
+job really is so great or if it's overrated and something that you should avoid we're going to start with the
+breakdown of the job responsibilities and then we'll talk about salaries future growth and will there actually
+be jobs in the future and you know how does the reality look like we'll cover job satisfaction and how real
+devops Engineers feel about their jobs and finally we're going to talk about the pros and cons and I'm not
+going to hold back in this video at all so drop a like And subscribe to this channel if you want more videos
+like this and let's get started now just really quick before we get into all this stuff what does a devops
+engineer actually do there are a couple of core key tasks the first one is Automation and they help streamline
+and automate the development and operations processes they may also configure and manage different development
+and deployment tools and of course this includes troubleshooting and monitoring the performance of the
+different systems and to do this there's quite a bit of collaboration with different teams now in simple terms
+devops is the bridge between the software development and the operations team moving on we're going to talk
+about the job outlook for devops engineers and this is going to be focused on the United States but you should
+still be able to get an indication of how the job market looks like regardless of where you live so I got to
+be honest finding some good data about this has been harder than I expected but I was eventually able to find
+a really good Insight which clearly demonstrates the path devops is taking in the future at least when it
+comes to job growth we're going to take a look at the devops market size and how it is expected to grow in the
+future according to Mordor intelligence we can expect roughly 22% compound annual growth rate until 2029 and
+in simple terms this means that if you add up the anticipated growth during the upcoming years it is expected
+to be around 22% growth per year for the devops market it means that the devops market is growing
+significantly faster than average and that is a very good sign if you're looking for jobs in the field more
+growth means more investment in devops from different companies and therefore more jobs available to us that
+brings us on to the next point which is going to be the salary of a devops engineer the average is very high
+at around $130,000 per year and the data is based on 10,000 devops engineer salaries in the US now on the low
+end we can see around 110,000 per year and around 165,000 per year on the high end so the range of these
+averages is very very wide and how much you actually make is going to depend on a couple of different factors
+including your location your experience but also of course the company itself that you work for on this map we
+can also see where the highest salaries are concentrated in the US and as you can see Washington New York and
+California are kind of taking the lead here when it comes to salaries and jobs but perhaps most importantly
+how are people actually feeling about their jobs are they happy and if they could start over again and do
+everything from scratch would they still be become a devops engineer or would they spend their time on
+something else let's talk about job satisfaction and include more than just the salary and the job outlook
+because in the end there are many many more factors to consider when you choose a career and you might be
+looking for a good work life balance you might be looking for you know work from home options or something
+like that so that's what we're going to talk about now and while it's definitely impossible to say how
+satisfied everybody is as it largely depends on the company and the person themselves we do have some general
+data that we can use to see how satisfied people are in comparison to other jobs and on Glass St we have over
+20,000 devops Engineers from 9,000 different companies and they've rated their experience with the devops job
+according to this data work life balance got a four out of five which is pretty good I would say the
+compensation and the benefits of the job received a 3.8 and career opportunities received a 4 out of five as
+well now even though these numbers are not a five out of five by any means if we compare these numbers numers
+to other jobs they're actually looking very good but again numbers don't really tell us everything and that is
+why we're now going to move into the pros and cons here I want to talk more about the specific things that
+people like and the things that people dislike about the job that can't really be seen through numbers now as
+a disclaimer these are not my experiences I've read reviews I've gone through discussion forums different
+topics and just gathered things that people find to be pros and cons of this job and these are really really
+important things that you should know before you get started and if if you don't know them then well you might
+end up in a lot of trouble you might go down the wrong path and you might do something that's a terrible
+option for you so let's clear everything up right now so it is very hard to summarize everything because
+experiences can vary a lot from person to person and what I say as a pro might be a very bad thing for you or
+the opposite and it just depends on who you are but these are often considered some of the main pros and cons
+there are a lot of good opportunities in devops with high paying salaries there are plenty of jobs available
+for those with the right skills and the growth as we saw before is also looking very good and if we talk a
+little bit more about the actual things you'll do it can be very exciting because of the versatility and the
+growing field you will also communicate and get to know people across different teams and what you're doing is
+basically having a real impact on the business outcome and it's very important to make everything works but of
+course as with all jobs there are some downsides as well that you may want to consider and the first one is
+that all companies may not understand the devops and how to actually implement it properly and there may be
+some frustrations where in Theory it would be really simple and you would just do one thing but in reality
+that's not how it's being implemented in your company and people are not really implementing things properly
+that can be frustrating and there's of course also the aspect of learning and learning new technologies can be
+really fun but it does require a specific mindset that appreciates learning and if you're watching this video
+then that's probably you but for the average person it might not be the most fun thing having to continuously
+learn new technologies and new things and if you just want to learn a skill once and then be set for life then
+devops is probably not going to be the best choice but you can still enjoy it there may also be some confusion
+regarding what your exact job responsibilities are going to be and this is a complaint that I noticed many
+times when I was searching for cons these are just some experiences and that it can also work really good for
+others I think devops is a fantastic field of course assuming that you're the right fit and that devops is
+something for you I'm going to leave some resources in the description to help you get started and if you do
+want to continue watching a video that I highly recommend then check out this video on the screen right now I
+think you like it and thanks for watching this video

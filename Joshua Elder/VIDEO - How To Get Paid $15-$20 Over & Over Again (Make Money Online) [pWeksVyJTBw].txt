@@ -1,0 +1,114 @@
+Title: How To Get Paid $15-$20 Over & Over Again (Make Money Online)
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: pWeksVyJTBw
+URL: https://www.youtube.com/watch?v=pWeksVyJTBw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T05:59:31+00:00
+
+Kind: captions Language: en and we take approximately [Music] $30 just times $1,000 that is $330,000 just for
+a five minute setup there's a trend going on right now where people just like you are making as much as $600
+per day on day one starting with absolutely zero Capital this opportunity is 100% legitimate worldwide and a
+skill you can learn in the next 15 minutes and then get paid $15 to $20 for every 3 to 5 minutes of work check
+this out this one user has gotten paid over $20,000 for completing this simple service for people how do I
+know this well he had over 1,000 reviews and charges $20 every time he completes the service for someone so
+what is this service exactly well if we jump over to Google Trends you can see there are two topics that are
+getting tons of Interest right now so it's important to capitalize on them right now these topics are Demar
+and dkim but what the heck do they mean in short by February 2024 Gmail and Yahoo are introducing requirements
+affecting email deliverability essentially email marketers are not going to be able to use an email address
+from a free service provider such as Yahoo and Gmail to send emails from you'll essentially need your own paid
+domain and email address to be able to send mass emails from autoresponder services like get response aweber
+and many many others so instead of being able to send from for example bestpet toys atgmailcom it needs to be
+support at bestpet toys.com what you will be able to do to make money from this trend is to ensure people have
+their own domain and email address and also set up their DeMark and and dkim settings properly so in this
+video here's what I'm going to show you I'm going to show you how to set up dmark and dkim settings for
+clients and I'm also going to show you the website you'll use to be able to get clients so you can get paid
+$15 to $20 for literally 3 to 5 minutes of work and if you stay till the end of this video I'll show you how
+to get even more clients by placing simple ads on these two websites so now I'm going to show you how to set
+up dkim and D Mark settings for your clients the example that we're going to use here is get response and Go
+Daddy just understand that your clients might be using different services and you could just simply do a
+simple Google or YouTube search to figure out how to set up the dmark and dkim settings for those specific
+services so in this case when we log in to get response it has a warning right here that essentially just
+shows us how to go ahead and set this all up so let's go ahead and show you how to do that right now so first
+off we want to make sure that we configure dkim properly so what it wants us to do is it wants us to generate
+a dkim key so what we're going to do is go over to the dashboard and then we're going to click on tools email
+and domains which it takes us straight over to the page right here and we can see that we've got a domain
+connected already to our git response account all we need to do is click on update DNS record and what we want
+to do is make sure that we go to domain authenticated with dkim and what we're going to do is we're going to
+copy and we're going to paste this over to GoDaddy so we're going to go over to our GoDaddy domains we're
+going to scroll down to the domain that we want to go ahead and edit the DNS on and we're going to scroll down
+and click cck on edit DNS now when we do this what we're going to do is we're going to go ahead and we're
+going to add uh the name the data and the TTL right here so we're just going to click on add new record we're
+going to choose the option right here we're going to select txt and then we're going to go back over here for
+reference we're going to copy this we're going to jump back over here we're going to go ahead and paste it
+right here and then we're going to also copy the value that we have over here and again we're going to go
+ahead and we're going to paste and then what we want to do is we want to go ahead and click on Save now you
+can see that I've actually already saved this record so we're just going to scroll down here I'm going to show
+you that we've in fact already completed this and you can actually see that right let's see if we can find it
+right here okay you can see that it's got that full entire key I'm just going to go ahead and paste it in the
+browser so we can see the reference here too as well but you can see that we pasted both of those values
+respectively here and here now that is part one now for part two what we want to do is we want to go ahead and
+jump back over to the next step which is setting up SPF okay and the way that I got here just so you guys know
+is I simply just if we go back to the homepage right here we click on dkim right here and it's going to show
+us how to configure the exact way that I showed you and then also we want to make sure that we configure the
+other feature which of course is the SPF and you can see that that's down right here so we're going to go
+ahead and click on that as well and then what we're going to do is do the same thing for the SPF record we're
+going to copy this to the record value and we're going to also copy and paste the at sign to the name host so
+we're just going to jump back over here to our domain and then what we're going to do is simply add a new
+record choose the option which was text once again and then it's going to be at and then the value is going to
+be this value that we have right here we're going to copy this and then we're going to paste it straight over
+right here and then as far as the TTL that's going to be custom and it's going to be 3600 okay and I believe
+they state that correctly right here at the bottom 3600 once we do that we go ahead and click on Save and then
+again it's going to show that record which I've already added right here as well once that is done then the
+domain is set up and ready to go and when we go back to the get response page right here and we go back home
+we're going to go ahead and we're going to make sure that we're logged in here which we should be already and
+we've authenticated everything so if we click on authenticate our domain now right here we can see that dkim
+is in fact AU authenticated and it is in fact confirmed we are now set up and ready to go so we can actually
+send out emails from this from address and we are very highly unlikely to end up in the spam folder you too
+can do this with clients that are dealing with get response as well as GoDaddy the way that I just showed you
+again if you are dealing with clients that might be using aweber or some other autoresponder service or some
+other domain service other than go Daddy it's very easy just do your research on YouTube or Google just like I
+did and then there's articles and resources that will show you how to set up dmark and DK uh dkim settings so
+for example if we went to Google or even duck ducko and typed in how to set up dmark and DK and like for
+aweber for example we should see check it out here is a few videos and an article that shows us exactly how to
+do it with respective uh with respect to a Weber of course so now that we've completed that the question
+becomes how the heck Josh do we go ahead and get clients so the first thing that we want to do is post our gig
+on Fiverr now here's what's crazy when I type in SPF dmark you could see for example this provider right here
+five star review over 1,000 reviews so if we take 1,000 for example let me just pull out the trustee
+calculator I'll actually just do it on my phone right here and we take approximately [Music] $30 just times
+1,000 that is $30,000 just for a five minute setup $30,000 that this person has made just for fixing SPF and
+dkim inside of the DNS record just the same way that I showed you here's another one that has five star
+reviews completed over a thousand uh of these gigs at $15 so again time is of the essence so you want to make
+sure that you're posting your gig right now so you can start gaining exposure now obviously there's going to
+be some competition of other people that are also providing the same service so so what we want to do to put
+this on steroids and give us an unfair advantage and take this a step further is we want to create a YouTube
+video where we can essentially show people how to set this up properly and then offer our gig as a done for
+you service if they don't want to have to do it themselves so for example what I just showed you in this video
+you can show someone else now they might be using different Services which is fine cuz guess what if they're
+not using git response and GoDaddy you can go ahead and provide your own done for you service for whatever
+Services they use and you can charge them between that $15 and $30 Mark so just simply doing a YouTube video
+or you can just put your gig in the description of that YouTube video tutorial and that's one great way that
+you can really start expanding and getting more customers another way is to simply just go to facebook.com and
+what we want to do is we want to provide this service to people that are in the online business space any
+company that uses an autoresponder service which is pretty much any company that provides physical Goods or
+digital uh digital Goods products or Services we can actually serve so all you would need to do is you can go
+to the search here and type in small business okay and then go to groups and you can join all of these groups
+so look small business this one gets 10 posts per day we want to join the groups that have the most members
+and the most posts per day Once We join these groups we can just create a simple post talking about the
+problems right now with email marketing especially with Yahoo and Gmail and what people need to do to make the
+proper changes so their emails end up in their customers inbox instead of their spam folder and then you could
+just simply ask people if they'd like to learn more to ensure they get high deliverability to ensure they
+don't end up in spam and then as people comment below that post then you can send them out a link to your
+YouTube video or to your gig that offers that done for you service very very easy and straightforward and you
+can join numerous small business groups entrepreneur groups uh make money online groups marketing groups and
+the way that you can just simply do that again is just by typing that in right here on Facebook and then once
+again going over to groups and then joining the right groups and then just doing this consistently once you
+start gaining momentum you get some reviews you'll start ranking higher uh within fiverr's search engine so
+when somebody types in DeMark or they type in SPF or dkim you will show up at the top of Fiverr so it's
+literally that easy you could start doing this today without any money out of pocket this works worldwide now
+if you want to step-by-step game plan a paint by numbers game plan on how to go from0 to $10,000 per month
+consistently I've got some resources Below in the description to where you can learn more so go ahead check
+those out hopefully you got value if you did subscribe tick the Bell icon so you can receive more videos like
+this that teach you cutting edge strategies and ways to make money online take care and we'll see you in the
+next one

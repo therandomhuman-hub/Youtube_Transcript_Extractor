@@ -1,0 +1,63 @@
+Title: How I Would Learn to be a Data Analyst (For FREE)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: ZGKYVxFAbyE
+URL: https://www.youtube.com/watch?v=ZGKYVxFAbyE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T06:23:08+00:00
+
+Kind: captions Language: en your application has been denied and it's the seventh time this week but at least
+they're finally responding this is the reality for many data analysts they've spent months learning only to be
+stuck in an endless loop of getting a job and unfortunately the numbers show that most never make it and it's
+because of a huge mistake because you can still become a data analyst and it's one of the best jobs for
+beginners with a 70,000 per year entry level salary and the opportunity to work from home and you don't need
+any experience or a degree but it's not easy let's be real but if you follow this road map you'll become job
+ready guaranteed and the first step is to learn how to think like a data analyst you need to learn the basics
+and for this you can use a course like Google data analytics but nowadays there's also plenty of different
+options from IBM Microsoft data camp and more I'll give you a road map so you don't need to remember the exact
+courses next as a data analyst you will use Excel but when you need to work with larger data sets it's not the
+best option and instead the data is stored in a database which you manage with a query language inex directly
+the most popular language is called structured query language or SQL and most data analyst job listings will
+require some level of SQL so we should probably learn it I like the learn SQL basics for data science course
+by UC Davis you can also take a free tutorial on YouTube or on a practice site I've heard many people that
+thought they knew SQL until they got to an interview so it's worth putting some time into it now some things
+are best done via code and it's harder in the beginning but once you know it it opens you up to a new world of
+opportunities but do not worry there's no need to become a programmer now there are currently two main
+programming languages used in data analytics and python which is the general programming language used across
+many different fields and data analysts will basically use Python and then certain packages which are helpful
+for working with data like creating data visualizations or analyzing data with python and for example pandas
+numai and math plot lib R is another programming language often used in Academia and research and while it's
+not as popular as python it's it's still very useful and I would go with python anyway if I wasn't sure but
+both are good options the top rated python course I know is called python for everybody I mean just look at
+the numbers but you need to quickly switch to a python for data course because there's so many things to learn
+in Python so you want to focus quickly I recommend the Google advanced data analytics certificate and you're
+basically almost exclusively using python here you can even try python for data science or something like that
+although some things will be above our level so it just depends on what you want to do now recruiters like
+those who are good at data visualization softwares and here you can create graphs reports dashboards and other
+visualizations and you can use python or Excel to create these two but these specific softwares have some
+advantages too and the main softwares are powerbi and Tableau and they're both kind of just as popular so it
+doesn't really matter that much you can try this course from Microsoft which teaches you how to be a data
+analyst using powerbi or you can try this course from data Camp teaching you how to do the same using Tableau
+pick your favorite or if you're an overachiever learn both they basically do the same things now at this point
+you have the core skills so we can start begin fixing some issues and first how's your level of excel IBM has
+a course called Excel for data analytics and it's only 11 hours so it's very very efficient and I do recommend
+that you try it out because if you find it easy or doable your level is probably good but if you don't then
+you can focus more and one course that you can take is called Excel for business it's pretty long and you
+don't need the entire thing but it's very good practice especially if you notice that you're kind of lacking a
+bit of excel moving on to projects the next step and most people should start with guided projects where you
+basically follow along doing a project with a mentor and here are some that I recommend on the screen you can
+also find them online for free on YouTube projects are a great way of learning and also to start building your
+own portfolio but eventually you'll want to start making your own projects because they're more customizable
+and more valuable both to learn but also as a portfolio project you can either start from scratch or you can
+also improve and adapt one of your guided portfolio projects now since times are tough let's be realistic and
+people are competing for the same number of jobs it's good to consider any way to stand out and one option
+here is to get a certification so here are the two most popular certifications for beginners and how to
+prepare for them so the first one is the Tableau Data analyst certification and they have a free learning path
+or you can go to data camp and prepare using their structured learning track the next one is Microsoft p L300
+and it's also known as the Microsoft powerbi data analyst certification so if you are a powerbi user you
+should definitely go for this one and you can use the Microsoft powerbi data analyst course on corsera to
+prepare quite efficiently for it I will leave a free data analyist road map with the exact courses in the
+description now you know all the skills and how you can learn them but to get a job you will also need a
+portfolio which I cover more in detail in this video somewhere on the screen because I think that's for you
+cuz you want to become a data analyst right
