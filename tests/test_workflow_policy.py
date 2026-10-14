@@ -10,8 +10,8 @@ def test_archive_workflow_has_four_daily_runs_and_does_not_cancel_active_work():
     assert 'cron: "17 0,6,12,18 * * *"' in workflow
     assert "cancel-in-progress: false" in workflow
     assert "timeout-minutes: 340" in workflow
-    assert 'default: "12"' in workflow
-    assert "github.event.inputs.max_items_per_channel || '12'" in workflow
+    assert 'default: "0"' in workflow
+    assert "github.event.inputs.max_items_per_channel || '0'" in workflow
 
 
 def test_archive_workflow_reports_failures_and_publishes_zips():
@@ -72,7 +72,7 @@ def test_archive_watchdog_recovers_missed_schedule_without_duplicate_runs():
     assert "github.rest.actions.listWorkflowRuns" in watchdog
     assert "github.rest.actions.createWorkflowDispatch" in watchdog
     assert 'workflow_id: workflowId' in watchdog
-    assert 'max_items_per_channel: "12"' in watchdog
+    assert 'max_items_per_channel: "0"' in watchdog
     assert "cancel-in-progress: false" in watchdog
 
 
