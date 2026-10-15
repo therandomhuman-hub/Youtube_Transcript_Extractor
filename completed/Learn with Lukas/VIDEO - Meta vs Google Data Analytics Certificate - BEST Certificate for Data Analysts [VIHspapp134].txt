@@ -1,0 +1,82 @@
+Title: Meta vs Google Data Analytics Certificate - BEST Certificate for Data Analysts
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: VIHspapp134
+URL: https://www.youtube.com/watch?v=VIHspapp134
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:28:42+00:00
+
+Kind: captions Language: en today we're comparing the Google and new meta data analyst certificates until
+recently Google was by far the most popular option but now with meta's new program this might be about to
+change and we're already seeing a lot of people enroll in this course instead now I'm not going to go super in
+depth into these courses as I've already made a detailed video for each one and the focus here in this video
+is going to be on comparing them against each other let's start by taking a quick look at both of these
+certificates and if you do take the wrong course you'll waste a lot of time which you don't want so let's just
+fix this right away the Google one is beginner level and it's 6 months at 10 hours a week and over 2 million
+people are enrolled in this one and it's a lot of people now of course everyone did not complete it but it's
+still a lot of people and the goal here is to prepare you for an entrylevel job as a data analyst if we look
+at the courses you'll see that it kind of follows the data analytics life cycle and in the first few courses
+you'll learn the basics and how to think like a data analyst you then move over to Preparing processing and
+analyzing data and finally you'll learn about data visualizations as well as some R Pro programming Now The
+Meta certificate is similar in many ways it is also beginner level although it's 5 months at 10 hours a week
+instead of 6 months like the Google one it's very new so at the moment of this recording less than 10,000
+people are enrolled this can actually be a good thing as well because it makes your certificate more unique
+but then we'll talk more about this later now the goal here is to help you launch a career in data analytics
+starting from zero as well and in this one the key skills you'll gain are SQL pandas data analysis and Python
+programming but if we take a look at the courses you will see that instead of eight courses there are only
+five courses in the program there's an introduction to data analytics and there's a course about spreadsheets
+and SQL the third course is about working with python and course number four is about statistics they will
+give you kind of an introduction to statistics which is really helpful because data analysis heavily relies on
+it and finally course 5 has not been released yet but it's kind of an introduction to data management all
+right let's move on to some of the differences and I will divide this up into three separate categories and
+the first one is going to be the general differences the second one the curriculum itself and finally the
+skills you learn because there are some differences in these courses that you should be aware of before you
+start now both of these programs are from very credible institutions I mean it's meta and Google and they both
+have their own course programs they've launched a lot of courses in the past and of course Google has the
+advantage that it's been around longer for the data analytics course but on the other hand I would also say
+that meta makes your certificate more unique as it's still very new and there are very few people that have
+this one now when it comes to the time to completion they both claim to be around 5 or 6 months at 10 hours a
+week so it's very similar but I did find something very suspicious and if you do take a look at the curriculum
+that's when I found an issue now I actually added up the time for each course in the Google certificate and I
+got 192 hours in total that kind of makes sense it's what you would expect right now I will say that most
+people tend to complete it way faster and cut this time in half but it's still very interesting because when
+you go further and you look at the meta certificate and you take all the courses and you add them up together
+it's way less the final course has not been released yet so I just assume that it's 22 hours which is pretty
+similar to other courses but here the total length is only 106 hours and this means that the Google
+certificate is 86 hours longer and it's practically near double the time but as a disclaimer since meta's
+course is not fully released I don't know if there are going to be more courses or if the last one is going to
+be like 60 hours or something we'll have to and we'll have to find out there does seem to be some content
+missing and I don't know if it's intentional because they want to cut down the curriculum and just focus on
+being more concise or if they are going to add more courses like the Google one where they have like eight
+courses instead of five or something I did also find one thing that's missing from the metacourse and that is
+the Capstone project at the moment there is no such project available for the metacourse and a Capstone
+project it's kind of a final project that you can do which you then put in your portfolio after and if they do
+release a Capstone project I would say that this course instantly becomes a few points better because that
+would really help Google has a Capstone project and some modules on job preparation so in that aspect I would
+say that Google definitely wins when it comes to Preparing you for jobs focusing on projects and actually
+building a resume and a portfolio for you there's also the different skills and this one is very very
+important because you can spend so much time learning but if you don't learn the right skills then it really
+isn't going to help you as much and here we actually have that each course focuses on very specific skills and
+there is a big difference between meta and Google meta has a course on spreadsheets and a course on SQL as
+well as a course on python where you'll work with some common libraries like pandas you might also work with
+SQL in the final course I don't know cuz it's not been released yet Google also has a course on SQL which is
+very good but they do also focus on r instead of python Google generally isn't known to be the most technical
+course it does more focus on you know the mindset and actually operating like a data analyst thinking
+analytically and being able to solve problems and they're teaching you a lot of stuff but it's not a lot of
+Hands-On work to be honest and this brings me to my final conclusion and I wouldn't say that it really
+replaces the Google certificate it's a lengthier course at a slower pace and there is no python but on the
+other hand this meta course is shorter it covers some more statistics as well as python instead of R and if
+you're a beginner looking to just get started fast both options are very good it just depends on your goals
+and meta has purposely made it similar to Google just in their own way I would say that a good way to make use
+of these courses is to take Google first or something else and then continue with the meta course it's going
+to give you the full slow Google experience as well as more practice with SQL deeper understanding of
+statistics and also an introduction to python as well so it's going to teach you a lot of different things if
+I had the time and I wanted to take both courses that's the way I would go about it the Capstone project is
+also worth considering and if you do take the meta course exclusively I would highly recommend doing some
+projects on the side which you can start doing from sites like kaggle or just a quick Google search this will
+help you build your portfolio and keep progressing after you take the course because for most the goal is not
+just to take a course and finish it but to learn apply the skill and finally become job ready I'm going to
+leave a link to the meta course in the description and I do highly recommend that you try it out yourself all
+teachers and courses have a different style so you have to find what works for you thanks for watching and
+I'll leave a link in the description and I'll see you in the next video

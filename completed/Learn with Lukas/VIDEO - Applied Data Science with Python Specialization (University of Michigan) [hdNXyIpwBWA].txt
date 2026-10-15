@@ -1,0 +1,94 @@
+Title: Applied Data Science with Python Specialization (University of Michigan)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: hdNXyIpwBWA
+URL: https://www.youtube.com/watch?v=hdNXyIpwBWA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:36:20+00:00
+
+Kind: captions Language: en python is the number one programming language to learn it opens you up to some of
+the highest paying jobs in software engineering automation data science and many more Fields with six figure
+salaries all over the place sometimes even for entrylevel jobs with python there are jobs that you can get
+even without a degree as this skill is so valuable but the fact is that most people don't know python well
+enough to do any of these things they've perhaps taken a course learn the basic syntax but that is it if
+you're able to Learn Python for a specific reason and actually apply you to something then you're in a very
+good position to get a high-paying job today I'll review the applied data science with python specialization
+from the University of Michigan available on corsera it is one of the top ranked and most popular python
+courses out there specifically for data science and data analytics I'll go through everything you need to know
+about this course the cost and time to completion the exact skills you learn the demand for these skills on
+the job market as well as any pros and cons to taking this certificate or if there are better options for you
+I've reviewed many data science from python courses in the past so I'm kind of able to compare this course
+with a lot of other courses out there to make sure that this is really the best option for you so this is an
+intermediate level specialization but it's actually for beginners it says no previous experience is necessary
+and the only reason why it's called intermediate is because in the last few courses it does actually get
+pretty Advanced but it's not a problem since you take the courses in a recommended order and we'll get to all
+of that stuff later anyway way it is 4 months at 10 hours per week although as usual with many of these
+corsera online programs it's quite hard to say how long it's going to take you but most of the time a little
+bit shorter it is a very generous time estimate it also comes with a flexible learning schedule the cost of
+the specialization is around 50 bucks per month and lower depending on your region it is also included in the
+corsera Plus subscription which I believe gives you access to around 4,000 courses so my strategy has been to
+you know take multiple courses at once and save money cuz you don't don't have to pay for each individual
+course they also offer financial aid for those who cannot afford it now what about the skills you learn well
+the general summary is that you'll gain new insights into your data you will learn to apply data science
+methods and techniques and acquire analysis skills but more specifically you'll learn to conduct an
+inferential statistical analysis enhance data analysis with applied machine learning and also determine
+whether a visualization is good or bad and analyze the connectivity of a social network some of these things
+are not going to make sense out of context but we'll get back to these specific courses in a second now you
+also receive a verifiable certificate at the end but you do have to complete all of the courses to receive
+this I don't think you'll get a certificate for each course although you can double check you can add the
+certificate to your LinkedIn or just print it out as a nice decoration on your wall personally I think
+certificates can be a good motivator and keep you going but they're no not the most valuable things on the job
+market because unfortunately it is possible to sheet in some of the online courses and kind of pass it without
+without actually learning anything I absolutely don't advise anyone to do that because the real value are the
+skills you that you learn but it's still you know an issue and that's why employers perhaps don't see them as
+highly or value them as highly as some other options here are the instructors there are four of them but the
+main instructor is Christopher Brooks he's a research assistant professor at the University of Michigan now
+let's take a look at some of the courses more in depth the first one is an introduction to data science in
+Python 34 hours long and has a 4.5 rating you learn a few things including lambdas and manipulation of CSV
+files common python features for data science query data frame structures for cleaning and processing and also
+distributions sampling and te tests which are important statistical concepts for data science in course 2
+which is 24 hours long and has a 4.5 rating as well you'll dig into applied plotting sharding and data
+representation in Python and it's just all about data visualization next up we have the applied machine
+learning in Python course and this is a pretty long course of 31 hours and has a 4.6 rating then we have the
+applied text mining in Python and finally applied social network analysis in Python something that's a little
+bit interesting is that the first course in the program has around 27,000 ratings whereas the final course has
+less than 3,000 ratings so a lot of people are dropping off and never finishing the specialization and I'll
+talk about why I once we get to the pros and cons it's going to be way easier if you have a degree let's just
+be honest but you can still access these jobs and see success even without a degree the first job is a data
+analyst with an average salary of around 50 to 80,000 per year and they interpret data turn it into insights
+and inform business decisions they often use Python and different libraries so Having learned some data
+science skills and python together will be really helpful on the job market it's also one of the jobs that you
+can get without a degree and of course it is going to be very competitive but if you're dedicated I believe
+that you can do it then we have the data scientist and they do more advanced stuff than data analyst generally
+speaking and they're therefore paid higher with an average salary of around 85 to 140,000 per year of course
+depending on where you live and the company it's a very broad range we also have the machine learning engineer
+where you focus on well Machine learning and python is essential here as well and their salary ranges around
+100 to 150k per year and that is expected because it's even more advanced than the other rules and has higher
+requirements in general we also have the data engineer where you basically focus on the architecture and
+pipelines to store and process data they can use python as well for scripting and automation tasks and make
+around 90 to 130,000 per year we also have the bi developer or other similar roles in business intelligence
+and they use data to help make better decisions their average salary range is around 70 to 110,000 and python
+is also used in a ton of other jobs that we haven't even mentioned from statistician to research scientists to
+even software Engineers it Automation and many more jobs even outside of data science so wherever you go
+python is probably going to be very Ed useful all right we've gone through the formalities and the cours is
+more in depth so let's talk a little bit more about the actual details and let's start to analyze the
+specialization and look at the pros and cons and whether it's the best option for you first it is a very
+popular course and that's good because the materials has really been vetted by hundreds of thousands of people
+going through the course before you it is also pretty affordable and financial aid it does exist it is very
+specific to data science which I like because there are so many General python courses and they can be pretty
+B boring because you don't really apply it to anything that you find interesting so it is more fun to both
+learn something and apply something when you can do it right away and when you have a solid reason for
+learning it can you take this one even if you don't work or even if you don't want to work in data science I
+think yes and it can help you learn python many of the tasks are going to be specific to data science so if
+you're interested in another field perhaps it's not the best option for you I do like that it really
+introduces you to many different areas of data science from machine learning to data analysis and data
+visualization so that's also a plus but again the main issue that I see with this course is that if you're
+taking it for the wrong reason if you want to become a data analyst I think there are some better courses for
+you because you don't have to learn all of these things and this is more if you want like the classic data
+science roles I usually do have more complaints about courses when I review them but for this one that's
+pretty much it I think you should try it out yourself because that is the best way to find out if it's really
+for you and there could be something that you dislike about the learning format or whatever but you don't know
+that until you try it out in my opinion it is a fantastic course overall that really does the job that it's
+supposed to which is teach you python for data science I'll leave a link to the free trial in the description
+as well as any special promos going on and thanks for watching I hope to see you in the next video

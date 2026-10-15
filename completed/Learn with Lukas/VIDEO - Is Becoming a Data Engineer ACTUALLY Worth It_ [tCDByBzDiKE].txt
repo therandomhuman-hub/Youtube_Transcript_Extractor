@@ -1,0 +1,79 @@
+Title: Is Becoming a Data Engineer ACTUALLY Worth It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: tCDByBzDiKE
+URL: https://www.youtube.com/watch?v=tCDByBzDiKE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:38:00+00:00
+
+Kind: captions Language: en is becoming a data engineer actually worth it this could offend some people but
+instead of saying yes like everyone else we're going to take a closer look in this video and see if this job
+really is so great or if it's overrated and something that you should avoid we're going to start with a
+breakdown of the job responsibilities and then we'll talk about salaries job outlook and future growth as well
+as job satisfaction and how real data Engineers feel about their jobs finally we're going to talk about the
+pros and cons and I'm not going to hold back in this video at all so drop a like And subscribe and let's get
+started so first what does a data engineer actually do well they design and construct data management systems
+develop and maintain ETL processes to extract transform and load data they may have to integrate different
+data management Technologies and different tools as well as optimize the actual data storage and data
+retrieval and in general ensure that the data is of high quality that it's secure and that it's accessible to
+those who need it all in all there's supposed to make the data useful to the company so that for example a
+data scientist can take this data to investigate and solve a business problem they're basically the backbone
+of the data team in the company let's talk about salaries and according to talent.com the average salary of a
+data engineer in the US is around 130,000 per year we can see that the range is very wide with salaries on
+average 107,000 on the low end but up to 172,000 on the high end there's going to be a huge difference between
+people depending on their experience level their location and even the company itself for example you'll often
+make way more money at top tech companies or top startups here we can see the different salaries based on the
+different states in the US and as you can see West Virginia does not have a lot of data recorded so I wouldn't
+be so sure about this one but then we can see that California Washington and New York are in the top which is
+quite reasonable and if we scroll all the way to the bottom we'll see that the salaries decreased by at least
+$3 to $440,000 per year so there can be a huge salary difference between where you're located even in the same
+country but of course different places have different cost of living and different taxes and all that stuff as
+well so there's multiple things to consider moving on to the job outlook for a data engineer will there
+actually be jobs in 5 years or in 10 years and what does the growth look like in 2022 the US government
+predicted a 35% increase in the next 10 years for data scientist roles this does not include data Engineers
+but the massive growth is not limited to the data scientist role because we can expect it to be similar for
+data engineer because without data Engineers well data scientists are not able to do their work properly I
+also found a really interesting article and here we're looking at the job market and the demand by years of
+experience and there's often talk about there not being any entry-level jobs I hear that all the time and now
+we can actually see the reality we can see that only 11% of the jobs required less than one year of experience
+so about on10th of the jobs were entry level we can also see that about 7% of the jobs require 2 years of
+experience but of course you would add these up to get a total amount of jobs we can see that 32% required 3
+years of experience 8% of the jobs required four years of experience and 32% 5 years and 6 years of experience
+and 7even plus years at 1.5% and 88.5% from this data we can see that around 90% of data engineering jobs
+required at least one year of experience so it's no wonder that it's difficult to find your first job but
+according to this data it also means that once you get past 2 years of experience it becomes significantly
+easier in the beginning when you start out at a entry level you only have access to about 11% of the total
+jobs on the job market for data Engineers by your next year it moves to 18% and by year three you have access
+to 50% of the data engineering jobs instead of the 11% that you started with so you basically have five times
+as many jobs to apply to and I really love this visualization because it actually proves the point that as you
+get more experience it does become significantly easier and I think as beginners this is something really good
+to look at if we're feeling demotivated when facing the challenges of the junior job market moving on we're
+going to cover job satisfaction and this is really important because salary is one thing but job satisfaction
+requires us to look at a much bigger picture there aren't that many sources for this but I found some insights
+on glass store and here work life balance has been rated 3.9 from 25,000 reviews of data Engineers the
+compensation and benefits have been rated a 3.7 out of five but there is a lot more to say about this one than
+just looking at the numbers so let's move on to the pros and cons of the data engineering role but first
+here's a disclaimer from me so these are not my experiences I've read reviews gone through discussion topics
+and forums and just generally gathered things that people find to be pros and cons of this job these are
+really important things that you should know before you get started and if you don't know this then you might
+end up going down the wrong path and doing something that's a terrible option for you there's a relatively
+high demand for data engineers and it's across various Industries if we compare it to roles like the data
+scientist and data analyst even though I know they're not you know completely comparable the data engineer is
+a less well-known role but it's actually very good and the people that are working as data Engineers are
+usually making good money they're doing important work and they have a lot of career opportunities it's a
+field that's also growing as data is becoming more and more important and the quantities and complexities are
+just increasing for that reason I think it's a relatively safe bet as well although of course some
+responsibilities might change with AI as for most jobs now let's talk about some of the downsides of becoming
+a data engineer the first thing is that it actually requires a lot of technical skill to get started I mean
+you're working with really important stuff the data pipelines the data storage and each mistake can cause a
+lot of harm to the company this is why you'll need a lot of skills to become a data engineer both technical
+skills that you can apply as well as a solid education there are ways to become a data engineer without a
+degree and there are many different paths as always but most companies are going to appreciate a degree and
+some experience working with data is always also going to be helpful it can also be a pretty stressful job as
+you're doing so many different important things and there may be complex problems tight deadlines and
+situations where people rely on your work to continue the project sometimes the work can also be repetitive
+and if you're a more creative person out for you know analyzing data and Gathering insights then perhaps the
+data engineer is not the best job for you but all in all it's a very good role for the right person and check
+out this video somewhere on the screen if you're interested in data science as it's one of my most popular
+videos and I'll see you over

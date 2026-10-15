@@ -1,0 +1,96 @@
+Title: 7 Tech Jobs That AI May ACTUALLY Replace
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: cAYxWLIK9c0
+URL: https://www.youtube.com/watch?v=cAYxWLIK9c0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:39:48+00:00
+
+Kind: captions Language: en tech jobs are just weird right now the salaries are high and the jobs are awesome
+and Tech was generally considered to be a safe bet for the future but now it suddenly like takes the worst
+option that will see their jobs replaced first now a disclaimer this is not one of those awful videos where
+someone just pretends to know exactly how AI will develop even though they have no idea just to get a few
+views on YouTube and I just want to be honest I'm not an expert nor can I predict the future so we're going to
+discuss and find out together in this video now personally I don't think everyone's being replaced and there
+are a lot of different tech jobs so it's hard to you know include all in one video but we're already seeing
+some changes in the job market and I think that there are some tech jobs that are at risk and I mean at a huge
+risk of being replaced probably pretty soon so the first one is going to be the basic software development
+role now I'm not going to jump on the bandwagon of just saying that software developers are going to be
+replaced however I do think that there's going to be some changes especially when it comes to jobs that mainly
+do basic programming tasks and I think it's pretty self-explanatory AI can already generate code from natural
+language descriptions and I would say that this potentially reduces the demand for entry level or Junior
+software developers that mainly focus on writing basic code applications next up we have the technical support
+analysts and these guys are basically the people that provide technical support to customers or different
+clients for example over the phone but also by email or live shat we've already seen some form of AI shat
+spots being used into many of these support systems or can I integr graded and that's not always been very
+successful I've seen some cases with companies like getting sued because they're bot saying a lot of
+misleading things so I don't really think that we're completely there of you know full replacement but I think
+that when it comes to the basic support jobs we might see some changes in the future and it's important to be
+aware of them number three is going to be the quality assurance tester and that's also known as QA and this is
+a job that you basically test things like software or other things that the company needs to be tested before
+they release something and you know for the public to use it so your job is basically to find bugs and detect
+any issues that need to be fixed it is actually a really important job because when you develop something
+there's going to be a few bugs and quality assurance testers basically make sure that everything works
+smoothly however there will be more and more automated tools that are able to do some of these tasks as well
+like for example identify different bugs and performance issues and all that kind of stuff now it's still a
+really complex field and a lot of things will require human or at least very high level thinking so I don't
+really think that it's going to be the most replaceable job by AI however all of these jobs I think it's like
+mainly the responsibilities that will be replaced perhaps not the entire job but it's also important to plan
+for some of the responsibilities to change and that's the entire point of this video if you think that nothing
+is going to change then I think you're wrong because well when we have better tools then people are obviously
+going to be using them and companies are going to use them too next up is a little bit different and it's
+basically the systems administrator now it's pretty self-explanatory although the systems you'll be managing
+can very very depending on what role and you know what you're going to be doing in your specific job however
+when it comes to AI tools they can often manage and monitor different networks and system performances and it
+can also help predict failures and you know actually help with the quality assurance and it can kind of manage
+itself to some extent that is why I think that system administrators are going to see some differences in
+their job responsibilities in the future I'll say that as AI gets more integrated I also think that it's going
+to make you know actually require more system administrators because things are going to be much more
+complicated ated the systems are more complex and as we rely on them more and more there's bound to be
+something that's going to happen so I don't think that it's like the most replaceable job overall but I do
+think that the responsibility is going to change a lot for the system administrators number five is also going
+to be an administrator role and here we have the database administrator now databases are basically the backup
+of data storage and data is really really important it's the new gold in our society however when it comes to
+databases they are pretty complex and there's a lot that can go wrong if you make a mistake so that also means
+that human errors are not really tolerated and they can cause a lot of issues with just one simple mistake
+that is why I think that when it comes to automated tools they'll be highly appreciated and we'll see less and
+less direct Hands-On work in this field with databases with different automated tools that can perform checks
+and you know do backups optimize the databases make sure security is implemented properly all that kind of
+stuff that will kind of take away some responsibilities from the database administrator and and we're already
+starting to see it now how the role is going to be impacted exactly I don't know let's just be honest about
+that but I also think on the optimistic side that it's such an important thing that they're not going to give
+it entirely to Ai and I don't think that we're anywhere close to full automation you know by any means number
+six is going to be the web developer so I actually talked about developers previously but I do think that this
+one deserves kind of a special mention because you can develop a lot of different things you know we have the
+web development and that's mainly about developing websites the thing is that there are already a lot of tools
+that can help you do this although it's of course different being a web developer and a web designer however I
+do think that when it comes to designing websites many websites They Don't Really require a lot of the custom
+design and and while some companies are definitely going to want a more customized website I do think that the
+basic you know requirements of the web development field are going to go up because we're already seeing like
+the fact that a lot of these basic websites are just being created in another tool or by Ai and I think that's
+going to be more and more focused on created by AI in the future at least faster and easier to create websites
+and the market will have to adjust according to that now number seven is going to be the SEO specialist and
+SEO stands for search engine optimization and it's basically where you adapt content on your website or
+whatever you're doing to be suitable for search engines it helps Google or whatever search engine you use
+promote your content more and people will be able to find you if you do you know Implement proper SEO but
+here's the thing AI is going to be a game changer when it comes to search content is going to be able to be
+produced in a completely different way and at a completely different rate there's actually a new thing on
+YouTube which is like when you upload a video you have to put a disclaimer that you haven't been using AI to
+generate the content and it's really obvious that things are changing in this space and what I would say is
+that when it comes to SEO there are two different things to be concerned about and first it's kind of the fact
+that AI can become so good at understanding these algorithms and the demands for Effective search engine
+optimization that it's simp going to outperform humans but another worry that people might have is that AI
+will change the entire game of search because what if people don't search anymore what if they just use AI now
+we're already starting to see a lot of people just use chat gept for whatever questions that they have I don't
+think that it's going to be something that Google accepts because they make so much money on search that
+they're going to find a way to improve search and make sure that people keep using it but I do think that SEO
+will be changing we just don't know exactly how and we'll see that in the future I hope this gave you an
+insight to some of the tech jobs that I think will be impacted by AI now I don't think that all of the jobs
+will be replaced or something like that but I do think that some of the responsibilities will definitely
+change and be replaced by AI but again this video is just a discussion and I'm not somebody that can look into
+the future and see exactly what's going to happen therefore I also want to know what you guys think so let me
+know in the comments and we can you know get a better idea together I think that's the best way to move
+forward with all this AI stuff going on thanks for watching and please remember to subscribe if you enjoy this
+video and check out this video next I think it's something for you and the YouTube algorithm picked it
+specifically for you as well

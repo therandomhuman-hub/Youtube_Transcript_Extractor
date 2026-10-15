@@ -1,0 +1,82 @@
+Title: Meta Data Analyst Professional Certificate Is Finally Here (BIG NEWS)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: -WoA6PMJwXw
+URL: https://www.youtube.com/watch?v=-WoA6PMJwXw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:42:46+00:00
+
+Kind: captions Language: en meta has just released their new data analytics professional certificate
+challenging Google in the process it is efficient has exactly the right skills including Python and SQL for
+beginners to get a data analyst job and it contains a new approach to learning data analytics that we've all
+been waiting for in this video I'll go through everything you need to know about this new certificate and
+we're also going to compare this course to some other options to make sure that you're spending your time on
+the most useful course and spoiler alert this certificate is definitely worth it but it's not always the best
+option and it does depend on where you're starting from so drop a like And subscribe and let's begin our
+investigation all right so just a quick summary this one is 5 months at 10 hours a week but it is always a
+very generous estimate and you can definitely do it faster meta's goal with this course is to help you build
+in demand skills and gain credentials to go from beginner to job ready in five months or less that is a bold
+statement let's see how it holds up the core things you'll learn is first how to to collect clean sort
+evaluate and visualize data so the basic data analyst tasks very important it also includes some analytical
+techniques to help you make data driven decisions the entire course is built on the emn framework which is a
+life cycle basically the steps a data analyst will go through during their work emn stands for obtain data
+scrub data explore the data model the data and finally interpret our results it's a fancy term but in general
+it's just the data analytics life cycle and finally you'll also develop an understanding of data management
+and using data assets when you complete the program you'll get a certificate of completion and another bonus
+is that this course was recently updated or actually recently published in April 2024 as data analytics is an
+everchanging field it is a good idea to use the most recent material to learn which is definitely an advantage
+all right now let's take a look at each course one by one the first course is called introduction to data
+analytics and it's 14 hours and you'll learn how to apply the data analysis process in reality the next course
+is called Data analysis with spreadsheets and SQL so it's kind of a combination of using both of these tools
+it is 25 hours and then we have a python and data analytics course and this one is very interesting because
+python together with SQL are the two most in demand tools for data analysts so having both in one course is
+incredibly valuable and in this one you'll also use a specific python Library called pandas which is very
+popular for data analytics and highly desired by employers it offers data structures and operations that are
+fantastic for data manipulation and Analysis such as the pandas data frame in my opinion this could be the
+most useful course in the program the next one is also very important although it's a bit more theoretical
+this course is called statistics for marketing and in this course you're going to be applying your data
+analysis knowledge to marketing specifically and here you'll learn the basic principles of descriptive and
+inferential statistics as well as how to create basic statistical models many other data analyst programs
+forget this so I do appreciate that they bring in statistics as a core part of their curriculum it's still
+very short at only 16 hours but will give you a lot of valuable knowledge the final course is called
+introduction to data management and at the time of this recording it has not been released yet as it's a very
+new program but it shouldn't affect you when you're getting started and taking the certificate and that brings
+us on to how new the certificate is normally I would be worried when it's an untested program that it's pretty
+new and that many people haven't completed but meta developed a fantastic course called marketing analytics
+and they're also a well-known company they've made many courses in the past and so far the reviews are very
+good so I wouldn't really worry about this one anyway the final course covers the basics of data collection
+and data quality management how to store data and how to work a little bit with big data as well finally it
+also talks about data security privacy and data governance let's move on to some important things to know
+before you start and then we'll compare it to some of the other top certificates for data analysts one really
+important downside that I haven't figured out an answer to Is the lack of a Capstone project so far I see no
+Capstone project in the course from the information available so far and a Capstone project is basically a
+final project where you put all of your skills together into one final project it looks great in your
+portfolio and will teach you a lot of the the practical skills directly Hands-On I'm not sure if they're
+planning on implementing one in this program it's highly possible that they are planning to do so in the
+future because many other courses have a Capstone project but we don't know to be honest the Capstone project
+is not 100% essential there are a lot of great projects available all over the internet that you can do
+yourself and the main reason why a Capstone project is so good in a course is because it actually forces you
+to complete a full project it is very easy to just get caught up in a lot of other things and never actually
+finish a project so as long as you're able to do that I don't think it's going to be a problem so if you do
+take this course just make sure that you're going to also be applying what you learn to a project after you're
+done with the course that is going to be very advantageous and way more valuable than just taking the course
+alone now let's compare this one to some other certificates the basic Google data analytics certificate is a
+fantastic option as well it is longer and in my opinion less practical as it is known to be one of those
+courses that we spend a lot of time on Theory and understanding the underlying Concepts that can be really
+valuable for a beginner as well but if you do want to get some Hands-On practice I do think that metas course
+is a better option the Google course also works with r whereas this one uses Python and python is generally
+seen to be a better option for beginners in data science as it is more versatile and used by more companies
+but both are good options if we compare this one to the IBM certificate I would say that they are very similar
+and the IBM course also has you know slight more focus on python but it does not cover statistics IBM courses
+are also known to be a little bit rough on the edges still very valuable and if you have the time you could
+complete both of them to get a lot of Hands-On practice I also want to compare it to the Microsoft powerbi
+data analyst certificate and this one is very popular right now and it's really good if you want to learn
+powerbi specifically but it is not a general data analyst certificate like this one so they're not really
+comparable and if you want to you can start with a meta certificate and then if you want to specialize in
+powerbi later then you can take the powerbi course as well so as a quick summary I warmly welcome meta to the
+data analyst certificate game they're really focusing on useful skills and it is a good professional
+certificate overall in my opinion best idea is to combine this one with projects or another course focusing on
+specific tools for the best results thanks for watching this video and I'll leave a link to the course in the
+description below where you can try it out for free you don't have to sign up using my link but I really
+appreciate it and as always thanks for watching and I'll see you in the next video

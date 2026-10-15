@@ -1,0 +1,77 @@
+Title: FASTEST Way to Become a Data Analyst - GUARANTEED Job
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: PTfssYLJoks
+URL: https://www.youtube.com/watch?v=PTfssYLJoks
+Language: en-US
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-15T11:16:43+00:00
+
+Kind: captions Language: en-US Becoming a data analyst is actually harder than ever. While it's the perfect
+job for beginners and pays really, really well over the median entry level salary of 74,000 per year. You can
+often work from home and it's definitely a futureproof career. The problem is that the job market is crowded
+with new people and if you just, for example, get the Google data analytics certificate just like everyone
+else, you'll be competing with over 1.4 million other people. The honest truth is that your chance of becoming
+a data analyst is incredibly slim unless you fix this. And by the end of this video, you'll know exactly how
+to get a job just like this one. First, as a new data analyst, even if you've no specific prior experience or
+education. The only problem with a certificate like the Google Data Analytics is that they claim to make you
+job ready. They surely help, but we got to do a few other things to get a job as data analyst. First, we have
+to be qualified and we have to be credible. When I say qualified, I mean do you have a basic understanding
+about data analysis? This doesn't mean we have to be some expert. You can learn many things in your role and
+you just need a few key things. Okay, so how do you know if you're qualified and if you have these things? I
+would say that if you feel confident that you know the basics of data analysis and that you're someone that's
+able to learn things quickly and pick up new things on the job, then you're qualified for an entry level job
+as a data analyst. Some of the most important things that you should know or how to ask effective questions,
+how to search and find the right data to answer your questions, and then how to clean and process this data.
+After this, you need to be able to use this data to answer your questions with the intention of making high
+quality, data driven decisions. To do this, you may need to create data visualizations, which is another key
+skill. No data can be visualized in many ways. You can use Tableau, you can use Python, or you could even use
+spreadsheets or slides. It really doesn't matter too much as long as you're able to get the job done. If you
+feel like you can do all of these things at a basic level with some guidance, then you are ready to move on to
+step two. Step two is being credible because we need to prove ourselves. When somebody is looking at your
+resume, they don't know you. And if you don't look credible enough on paper, they're never even going to
+apply. They simply don't have the time or will to take a risk. We need to find a way to quickly show someone
+looking at your resume that we're credible. And there's two ways that we can do this. This is where it starts
+to get really, really interesting. So the first step is to get a certificate or a degree. This is because it's
+helpful having certain degrees, for example, a degree in statistics, computer science or a few other fields.
+But the degree isn't actually that important because there's very few degrees that teach data analysis.
+Instead, I would get a certificate like the Google Data Analytics that course is truly amazing, but it's not
+really enough to land a job as a new data analyst. The thing you need is a portfolio, and more importantly,
+you need something to fill the portfolio with, something that makes you stand out. Don't worry, we're not
+going to spend weeks on this. The easiest way to do this is using guided projects. Now these guided projects
+can be found on Coursera. You click Explore Data science and then go to the projects under 2 hours or select
+English. As you can see, we have over 400 projects available to us. These projects are included in the
+Coursera premium's subscription, but I'll show you 100% free alternative after. So we'll click on this project
+data analysis for Python and form a business decision. This project will take us about an hour or so and it's
+very simple, even of a split screen with a step by step video on one side and your work on the other side. All
+you have to do is follow along and you'll have a project completed really quick that you can put in your
+portfolio for example, this project is great if you know better. Python. The other free option is to head to
+Kaggle. Kaggle is a free data science platform by Google. You can sign up there and create an account. Now
+there are hundreds of thousands of datasets available for free to make a portfolio project. Pick a dataset
+that sounds interesting to you in this case will search for FIFA World Cup all goals. Now we're going to
+create some questions to answer for a project. And don't overcomplicate this. Make it simple. For example, one
+of my questions could be what country have scored more goals in total since the first World Cup in 1932 2022?
+That's a pretty easy question that we can answer with Dataset. We'll click here to download the data as a as
+we file, and now we want to open it up somewhere. In this case, I'm just going to use Google Sheets since this
+is already a pretty small dataset. We're going to import the data and once we have that, we're ready to start
+processing, cleaning and understanding the data. And again, don't overcomplicate it. Just make sure the data
+looks good. You remove any potential errors and create any new columns. You need to answer your questions.
+Once you've done this, you have a few options. Either you can visualize your findings and or using Python, or
+you can create visualizations directly in sheets, which is really simple. Now, whether you do a go to project
+or option to yourself, you need to create a portfolio. We can actually do this right in Kaggle completely for
+free. All we have to do is click on Create New Notebook and then upload or project. You can upload your clean
+data. You could upload a presentation, you could even upload some visualizations or code. It really depends on
+what kind of project you've made, and it's great to include as much as you can about the entire work process
+and how you came to your conclusion. That's going to be so much more helpful for recruiters and demonstrate
+your skills much better rather than just putting a graph and a question. Once you've done this click save and
+then all you have to do is copy the link of your Kaggle profile or the specific notebook and paste it into
+your resume. In this case, we're using Canva and the free templates to create or resume. If you want to be a
+little bit more advanced, you can actually create a separate column called Projects with a quick summary of
+your projects on your resume. Just make sure that they know how to access the full projects, and most people
+don't have the time or will to go to another site and shake out a complex project. This will be very helpful.
+Now, the last question is, how many projects do I need in my portfolio? Well, it really depends. First, go for
+quality over quantity, but as a starting point for new data analyst, I would recommend 3 to 4 quality projects
+if they're short and try to include a longer one as well, which you can use as your primary project. If you
+completed the IBM or Google Data Analytics certificate, you'll already have at least one project already,
+which you can put in your portfolio right away. Well, check out my other videos here where Ihelp you get a job
+as a data analyst.

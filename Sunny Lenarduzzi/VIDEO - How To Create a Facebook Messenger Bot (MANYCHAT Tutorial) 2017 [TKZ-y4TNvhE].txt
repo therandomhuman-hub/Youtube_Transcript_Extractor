@@ -1,0 +1,109 @@
+Title: How To Create a Facebook Messenger Bot (MANYCHAT Tutorial) 2017
+Channel: Sunny Lenarduzzi
+Type: VIDEO
+Video ID: TKZ-y4TNvhE
+URL: https://www.youtube.com/watch?v=TKZ-y4TNvhE
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-15T14:56:22+00:00
+
+Kind: captions Language: en Sunny Lenarduzzi: Today I'm gonna teach you how to create your own Facebook
+messenger bot and how you can use it to grow your business and your brand. For the bright side of branding,
+business, and being your own boss. In just a second I'm gonna tell you why and how I use my Facebook messenger
+bot for my business but before I do make sure that you hit that little bell beside the subscribe button to
+make sure you get notified whenever I post a new video which is every single Tuesday right here on my YouTube
+channel. Okay so when it comes to a Facebook messenger bot if you're thinking, "What is that?" Or you're just
+curious about how they work I use mine to promote any new content that I have, to increase my response time on
+my Facebook page which really increases customer service, and also to grow my email list and to promote my new
+products and services for increased conversions, increased sales, and increased business. If you want to
+create your own, free Facebook messenger bot this is how you do it. First thing's first, ManyChat is where
+it's at. This is for the most part what people are using to create their Facebook messenger bot. All you have
+to do to get started is you can get started for free, keep the free account, everything I'm gonna show you in
+this video is with a free account and just hit get started for free and it'll ask you to sign in with Facebook
+through your Facebook for business page so that's the second thing you need is a Facebook for business profile
+which you can see here this is my Facebook for business profile. Just a ManyChat account and link it, just
+follow the steps with your Facebook for business page because that's where your bots will come through. I'm
+gonna show you three things in this video that are really important to having your ManyChat messenger bot set
+up and running. We're gonna get started with the Welcome Message. You're gonna go over to the left side once
+you've followed the steps to set up your account, left side of the screen go to automation, and then you're
+gonna go down to the welcome message. Anytime someone messages me through my Facebook for business page they
+will get this message. It increases your response time which actually shows up on your Facebook for business
+page so if it says you have a 99% response time or one minute response time on your Facebook page that's a
+really good sign that you're an active business and that you care about your customers and community. I like
+that this is set up and I'm not having to actually respond to every single message that comes through my
+Facebook for business page because it's physically impossible to be active on it all the time and get anything
+else done. This is how it's set up and I'm gonna show you how I set this up on ManyChat. When you go to the
+welcome message you're gonna go up to the top right hand side and you can edit your welcome message here. When
+it says, "First name here," it actually codes it so Craig is who messaged me and it says Craig right there.
+That's just the code that helps you customize your message to whoever messages you. I like the way mine is set
+up, this is really important to have this at the bottom because then if people don't want to receive your
+broadcasts or don't want to have messenger communication from you they can just press stop or type stop and
+they won't receive any more messages. Here's the rad part about these welcome messages, so I say, "Until I can
+get back to you here are a few options to take a look at," I have a link to the BYOBoss store, I have a link
+to my YouTube channel Checklist, and then to add one of these you can add up to three, I'll say YouTube for
+Bosses Course. Let's say I'm gonna add that in there, what I can do if you're a brick and mortar business, if
+you want people to call you, depending on what your conversion method is you can actually add in a phone
+number as well to have people call you from this messenger bot. You can send them into a sequence, you can
+send them into a website, whatever you want to use as a conversion. For me I'm gonna add in the URL for
+YouTube for Bosses so that's done. Here's the extra amazing part, if somebody clicks on this I can add a tag
+for say YouTube for Bosses August launch, let's just say that's the tag, so anybody who clicks on this link
+gets tagged with YouTube for Bosses August Launch and that means if I want to send a follow up message to just
+this group of people who clicked on this particular link I can now do that through ManyChat, I can just
+message the people who have that tag so it makes it customizable. All right, so let's say that is done for
+now, I'm gonna delete this off here because I don't actually want that link on there but now you understand
+how to set that up. This is really important to set this up first, have a welcome message on your Facebook for
+business page. The next thing I want to show you is broadcasting. This is when you have something special that
+you want to send out. For example if I'm doing let's say a live training on my Facebook page I want people to
+know where to tune in. I did a training with Mastin Kipp not too long ago on my Facebook page I just said,
+"We're going live in less than an hour with Mastin Kipp, tune in to the link below," and the link takes them
+to my Facebook page which then allows them to watch live when we're going live. I sent this right before I
+went live and it built in a burst of engagement and viewers for that live stream so it's just a good little
+reminder and it works the exact same way, it's just a button in here, and all I did was add in the link to the
+live stream. If you want to broadcast a message to your subscribers in your messenger bot this is how you do
+it. Super, super simple. Say that's all I want to add in there, I can absolutely do that. Let's say they click
+on this link, you can actually also send a follow up reply so you can see that you could totally send out more
+sequences and do a whole follow up communication with the people that are responding to your messenger bots.
+I'm just gonna say here, "See you soon," if they respond to the message so that's what it's going to look
+like, it's just gonna be a really quick little response, you can add emojis or whatever you'd like as well.
+You can do that and you can see now, so say they say something back to that they'll get a little "See you
+soon," response as soon as someone clicks that button. That's a really great way to actually have a
+conversation through the messenger bot and create further relationships with your subscribers. Now I'm sure
+you're probably thinking, "Okay, wait how do I actually get subscribers for my messenger bot?" Well that comes
+from the growth tools. There are a ton of ways for you to get new subscribers for your messenger bot so you
+actually have people to broadcast your messages to. You can choose new growth tools up here, I'm just gonna
+click on this growth tool here, this is for a landing page. Now you can do a ton of different things, like I
+said you can do a bar on your website so these are things that are going to pop up or be overlays on your
+website or you can do an embeddable button or widget on your website as well. These are super easy to set up,
+this is not what I'm gonna show you right now because you can actually just go through this and do these
+steps, they're very easy follow on your own. What I do want to show you is just setting up a simple ManyChat
+landing page. If you don't even have a website you can get started with this because it basically sets up a
+little landing page that's customized to you with a link to subscribe to your Facebook messenger bot. All you
+do is in those growth tools you're gonna click on landing page, this is the easiest way to get started with
+subscribers. You can customize it however you like, you can change the text in here so let's say, I'm just
+gonna make it really simple, "Want to subscribe to my messenger bot?" obviously you'll want something a little
+more creative than this. I'm gonna say, "Can't wait to chat with you. I'll be sure to keep you posted on new
+videos and content," so that's kind of what they're subscribing for so it headlines subscribing for. Then you
+can customize the actual button so if you want to make it white or you can make it blue, whatever you like
+better. The button size you can make larger or smaller, the larger the better because then people are more
+likely to click on it, and you can also add an image in here so if I wanted to add an image of my face or
+something like that I could do that here as well. You can also change the color so if I wanted to make the
+colors something completely different I could do that, I would never choose green but just for this purpose to
+show you. That's how it sets it up, then when somebody actually clicks on it they get a thank you message.
+Again, you can just edit in here whatever you want the thank you message to say, you can edit how it looks as
+well, and then you can add sequences and follow up sequences for this as well. I'm not gonna show you how to
+do that because we don't really need to get into that when you're just starting out, but it's something that
+you can definitely do down the road but what I do want to show you is this is why it's so simple. This is why
+this is the easiest way to start growing your subscriber base with your messenger bot, because you have your
+own little landing page now where you can send people to to subscribe to your messenger bot. There you go, so
+that's as simple as it is. You know how to set up and create your welcome message, you know how to send a
+broadcast that's customized, and you also know how to start growing your subscriber base for your Facebook
+messenger bots so that you have a whole list of people outside of your email list that you can communicate
+messages with and to for your business and brand. That's how you set up your own Facebook messenger bot, I
+hope you found this video helpful and I'm gonna be sharing some tips in the coming weeks about you can
+actually use your Facebook messenger bot to promote and increase your views on your YouTube channel. If you do
+want to increase your views and increase your subscribers don't forget to grab my Zero to 100 Thousand
+subscribers YouTube Guide below this video. If you like this video hit that like button, share it with anyone
+who might find this helpful and be sure to subscribe. I will see you in the next video. Have you been thinking
+about using YouTube to grow your business but you're not sure where to start and you're scared of wasting time
+on the wrong steps? Let me be your guide and I'll show you the right steps to ranking on page one for more
+views, subscribers, and leads for your business. Learn more at bossyoutubestrategy.com. Speaker 2: (Singing)

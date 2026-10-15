@@ -1,0 +1,110 @@
+Title: 7 BEST SQL Certifications For Data Analysts
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: faco6DV2n7g
+URL: https://www.youtube.com/watch?v=faco6DV2n7g
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:51:24+00:00
+
+Kind: captions Language: en if you're struggling to get a job in data science and data analytics you're not
+alone but there are ways to speed up the process and actually get hired one such way is a certification and
+this method is often overlooked they think it's too hard that it's not worth it but if you truly get the right
+certification it can be the easiest way to stand out and get that data job you're looking for today I'll talk
+about the top SQL certifications now I want to emphasize that everyone doesn't need a certification if you
+already have a decade of experience then it's probably a waste of time but when you don't have any experience
+or very little experience companies look at your profile and think why should we hire this person and that's
+when they see that you're certified in SQL the top skill for most data roles and that's a game changer and now
+with a massive amount of beginners and new people if you're looking to stand out and actually get a job it
+could be worth considering getting certified today I'm just going to list all the great certifications out
+there and we'll talk about which one you should get if you want to become a data analyst data scientist data
+engineer and more let's get started first up on the list we have the Microsoft Asia database administrator
+associate certification that's a long name this one is a little bit different which is why I'm starting with
+it so we can get to the more clear SQL certifications later so what does the certification contain well it's
+all about managing SQL server and Asia SQL services and it will focus on operational aspects like security
+performance and high availability all super important stuff now the price is $165 in the United States but it
+will depend on your region and you can renew it completely for free which I think is a huge plus as well I
+absolutely hate when certifications require you to pay to renew them all the time and it's just really really
+annoying I do understand that they need to make some money but still stop it guys all you do to renew this
+certification is you take their online learning course and then an online assessment in your own time you know
+no test or anything you have to pay for or schedule very efficient now let's talk about the exam itself that
+you need to complete to get the certification it is called a dp300 first who should take the certification
+well it is for database administrators managing SQL server and Ager SQL databases both on premises and in the
+cloud now this certification is not only for those with experience in database Administration but can also
+benefit beginners as long as you have the foundational knowledge I think that it could even be useful for data
+Engineers or even data analysts looking to get certified and expand their asure database management skills but
+if you're looking for those roles I think the other certifications will be even better for you now how do you
+prepare well you can take their free learning path on aia's official website including database Administration
+security and performance optimization and just having a good understanding of databases is going to be really
+helpful in general next up on the list we have the mySQL database developer now what is this certification
+going to teach you well according to the page itself it will certify an individual's expertise in utilizing
+connectors apis designing and maintaining MySQL databases optimizing different SQL queries and managing Json
+and document stores for datadriven applications now that's a lot of stuff but we're going to break down who
+the certification is for the price is around 100 to 250 bucks depending on your location and your situation
+for example it is cheaper for students which I think is great because students usually have less to spend now
+I haven't found any price differences between the countries I did actually think that I was going to find
+something like that during the exam itself you'll have 90 minutes to take the exam you will get 65 different
+questions and you need a score of 62% or above to pass which is not that bad actually now as you can see it is
+a lot of questions so it's not focusing on reasoning and long form questions but it's more just testing your
+knowledge in all sorts of areas really really quickly it's mainly multiple choice questions so let's talk
+about who the certification is for and how to prepare for it it is designed for roles to specialize in
+developing and maintaining data driven applications using MySQL this means that it's not for complete
+beginners it's best for those with some experience it does require practical database development skills so
+you'll need handson experience and not just Theory alone so how do you prepare for it well they have their own
+learning path with 31 hours of training it's not supposed to teach you everything from scratch but rather help
+you prepare for the exam and that is an important distinction you'll still have to learn things on the side
+not just from this one you know training course the first course is called MySQL for developers and I think
+that might reveal something now let's move on to the next one this is also an oracle certification but it is
+different from the previous one here we have the Oracle database SQL certified associate certification can
+they please stop with these long names to sum this sert up quickly you'll be tested on your SQL skills and
+working with Oracle database server this involves you know writing queries insert update delete statements and
+also some data definition and data control language more importantly let us take a look at the exam you have
+to pass here is the name on the screen I'm not going to try to pronounce it and I don't expect you to remember
+this one I already forgot the name myself anyway it contains 63 multiple choice questions and you need 63
+beautiful percent to pass you have 120 Minutes to complete the exam and the price is around 100 to 250 bucks
+as well now who should take this certification so this one is more focusing on General SQL skills sure you'll
+work with their database but if we compare it to their certification mentioned earlier the mySQL database
+developer this one is less specific I mean the previous sech was for database developers and this one isn't
+really for a specific role like that so if you're looking for a more General SQL certification I think the
+Oracle database SQL certified associate will win this round all right let's move on to number four but first
+if you do like my channel subscribe press the Bell to get updates and we'll meet again in a future video thank
+you and let's continue all right next up on the list we have the number five and that is mic Microsoft Asia
+data engineer associate certification as you can tell by the name it's more specific than some of the other
+ones but I still think that it's a very useful SQL certification and it also showcases a ton of other skills
+especially if you're leaning more towards data engineering first it is all about learning to manage and
+analyze data using Microsoft Azure and their different cloud services that is a key skill for an aszure data
+engineer so you'll be tested on that it is also in the requirements for the certification and they write that
+you must have solid knowledge of data processing languages including SQL Python and Scala now for the price
+it's 165 bucks in the US £13 in the UK and 44,800 Indian rupees which means the cost varies depending on your
+location so it's just best to check on the official Microsoft website now let's talk about the exam this
+certification requires passing the DP 203 exam and if we take a look at the skills measured section we can see
+that it's 15 to 20% design and Implement data storage 40 to 45% develop data processing so that's the main
+part and finally 30 to 35% about securing monitoring and optimizing data storage and data processing the exam
+is for data professionals with a background in SQL Python and Scala that are looking to focus on learning and
+getting certified in Asia's data services focusing on data engineering for that reason I wouldn't recommend it
+for beginners especially if you're looking for something like a data analyst role but you can always give
+their exam preparation material a try to see where you're at that's pretty fun all right now we're getting
+into a really interesting certification this is actually an entry level search and it can be really valuable
+for getting jobs promotions and just becoming more confident since you're certified number six the IBM
+associate certified DBA and DBA again stands for database administrator now this one focuses on db2 or
+database 2 which is a group of database products by IBM themselves which isn't that surprising considering how
+it's their certification you're going to be tested on quite a bit of stuff in this one let's just go through
+it really quick according to IBM and I quote the database associate should have an in-depth knowledge of the
+basic to intermediate tasks required in day-to-day Administration basic seel understand how to create
+databases and database objects and have a basic knowledge of database security and transaction isolation we'll
+take a closer look at the exam content more in detail to break this down now the exam has 63 questions and you
+will need to answer 44 of these correctly to pass the exam which isn't that bad either you have 90 minutes to
+do so so it's also not focusing as much on reasoning and such it's more just testing your knowledge quickly
+there are seven different sections in the exam the first one is planning which accounts for 11% of the grade
+next working with SQL and XML are favorite part at 21% next security 8% operations 16 data concurrency 11
+application design 21% and finally working with database objects at 12% so this is an entry-level exam
+according to IBM but why should you take it it can be worth both to have the piece of paper paper to show to
+employers but also to motivate you to keep learning those are the main reasons they have a course that they
+recommend you take but they do emphasize hands-on experience first now without a job yet that's quite
+difficult to get in some ways but you can still do it with projects and actually working with these tools
+yourself handson that is an essential part of preparing for this exam some final words if you're a beginner
+you don't need a certification to get a job take a look at your portfolio your resume and everything like that
+first and then perhaps it's worth considering if you want to take it one step further it can be a great
+experience both to learn and also to get certified but it will take some some serious time to prepare for it I
+also have another video here with the top seven data analyst certifications which you can check out right here
+as well and I'll see you in the next video thanks for watching

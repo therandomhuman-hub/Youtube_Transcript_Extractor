@@ -1,0 +1,98 @@
+Title: How To Self-Study a Computer Science Degree Fast
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: qAAkr0hzTxM
+URL: https://www.youtube.com/watch?v=qAAkr0hzTxM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:51:57+00:00
+
+Kind: captions Language: en I'm going to show you exactly how to self-study a computer science degree let's
+say you don't want to spend thousands of dollars and 4 years to get a CS degree but rather do it in 6 months
+and get all the necessary skills fast for a low cost or even free now at this point it might sound like
+complete BS so is it even possible I want to clarify that no it's not equivalent to a computer science degree
+there is a reason why it takes a couple of years to get one so it's not exactly going to be 100% equivalent
+but through the way I'm going to show you you can learn all of the most useful skills from a CS degree and do
+it in a fraction of the time so why would you want to do this in the first place well learning these
+fundamentals of computer science gives you a solid foundation for some of the highest paying jobs in Tech it
+gives you a deeper understanding of Concepts in fields like data science AI machine learning software
+engineering cyber security and just it in general without the necessary computer science fundamentals you
+won't really be able to do everything you want so you'll always be limited in some way so in this video Let's
+just fix this step one the first step to self-studying a computer science degree is actually deciding how much
+you want to study and how much you want to learn because here it's really all about prioritizing what to learn
+you're not getting a degree for the sake of it like many people do at universities so you should only learn
+exactly what you need for your future job or whatever you're looking to do there are a couple of different
+areas of Cs and some are more important than others and I'll start by just mentioning these areas and then
+I'll show you exactly how how to actually selfstudy them first we have the programming fundamentals now this
+is all about learning how to actually code but also includes specific ways like objectoriented programming and
+such and then if you want to become a programmer you'll want to focus more on this part now a CS degree isn't
+all that much about programming actually compared to what most people think next we also have data structures
+and algorithms and data structures are basically ways of storing data whereas algorithms are kind of like
+instructions given for the computer to execute both of these data structures and algorithms can be really
+simple or really complex depending on what's necessary we also use computer systems and architecture and this
+kind of includes how computers work and the architecture behind them you'll learn about the turing machine
+vyan architecture and build on top of all of this to understand the many different aspects of computers now
+databases are of specific importance and that is why a CS degree goes kind of into depth about databases
+database design and also working with relational databases through a language called SQL or structured query
+language this is relatively easy to learn by yourself it doesn't have any complicated syntax and it's pretty
+straightforward and it's also really really useful for many jobs in the industry now we also have mathematics
+for computer science and this is kind of the part that you'll spend most of your time on if you haven't
+studied this before while computer science certainly isn't like a physics major or something like that there
+are still quite a few challenging math courses and the most common math courses for CS majors are calculus
+discrete math and linear your algebra and for good reason this part is going to be challenging but now with so
+many great resources online you know tutorials YouTube videos all that kind of stuff you can definitely do
+this even from home just imagine the people that were learning this straight from a textbook with no YouTube
+no Google no shat GPT and no forums with millions of questions already answered so you'll be fine after this
+you can also take a look at the theory of computation you know the more theoretical aspects of computer
+science but I wouldn't Focus too much on this now it's just going to feel overwhelming doing all of this at
+once and I think it's kind of good to keep the plan simple if you know that you have 10 areas to study ahead
+of you then it can feel really tough especially if those are math and theoretical computer science so take it
+one step at a time and also know that you don't have to learn everything but everything that you learn is
+valuable in some way although it might not be applicable to every single job right away so now step two how
+can you actually study this well I've decided to put together a road map based on a couple of different
+courses available on corsera and this is because all of the material can be accessed for free now you can also
+just use a YouTube course or find some other resource that's completely fine I'm just giving you this example
+if you do want a certificate after completing the courses you will have to pay but you can also just take all
+of these courses for free on the platform without a monthly subscription so let's get started first to learn
+discret math we have the introduction to discret mathematics for CS specialization from UC San Diego now this
+one is 3 months at 10 hours per week I think you can do it a little bit faster but it's also quite challenging
+so perhaps not and this one will give you a solid introduction to what the scree math actually is because
+frankly if you come from a non-technical background chances are that you haven't even heard about this and um
+next we also have statistics and probability now this course is from the University of Amsterdam will give you
+a basic introduction the downside is that this is by no means the same level that you'll do in a real CS
+degree it's just kind of an introduction to the field but the point is that it's supposed to give you a
+general understanding of Cs because we don't have four years to learn every single thing if you do struggle
+with the math part I would definitely recommend YouTube but especially videos that involve exercises as well
+for example three blue one brown or Trev Tor for those kind of math courses next let's talk about programming
+fundamentals so here's a course that you can use to learn objectoriented programming in Java and this is what
+many CS Majors learn because Java is a pretty good language to teach the fundamentals of programming combined
+with kind of objectoriented programming it is a very highquality course by UC San Diego and Duke University
+but you can also just take something else especially like with programming there are so many different sites
+and resources available you don't have to take this particular course next we also have data structures and
+algorithms and this is often really challenging for people but here's a pretty good course that you can take
+it's called data structures and algorithms by UC San Diego as well and if you want to study computer
+architecture and operating systems you can take the Google It support certificate and that can really help us
+well it's a little bit you know beginner friendly just overarching covering all of the different aspects but I
+do think that it's really really valuable as well and it's going to give you a know General introduction to
+many different things you absolutely don't have to complete all of it especially if you have some experience
+before but it can still give you a good you know fundamental understanding of it in general we also have
+networks which I also think you can learn through that certificate and again you won't become an expert but
+they do teach you the most important things today and what's actually useful now a reason why a CS degree
+takes so long is because all of the theoretical stuff you're not just focusing on programming you're doing a
+lot of the well theoretical stuff and some of it is more relevant and useful than others so here you kind of
+focus on those aspects next we also have software engineering specifically and I think this course Java
+programming and software engineering Fundamentals by Duke can help you with that as well it is beginner level
+it goes through things that you've learned before like in the previous programming course so you may want to
+take pieces of it but it can still be really valuable finally I think the course learn SQL basics for data
+science is a pretty good option there are also a couple of other ones if you come from another field the third
+step is to specialize so far it's kind of been a very general introduction to the areas of computer science
+but it is a very General Degree so to get a good job you'll need to specialize in something and actually focus
+and this is where you can really shine let's say you want a software role then focus on learning the necessary
+skills for that role and if you want to go ahead and work in cyber security then learn those skills whatever
+you want to do it will be easier with your new computer science understanding I also recommend MIT open course
+whereare and all of their courses are available for free it's pretty much the same as on campus just that
+you're accessing it on their website online or YouTube or edx I think now it can also be really hard to stay
+motivated so I do recommend courses with certificates and kind of progress reports to keep you going it is
+always really easy learning the first month or at least the first week but then it just gets harder and harder
+and consistency is the key here whether you just want to self study for fun or get better jobs I wish you good
+luck and thanks for watching this video and I'll see you in the next one

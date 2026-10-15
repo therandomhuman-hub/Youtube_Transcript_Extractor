@@ -1,0 +1,17 @@
+Title: How He Hacked Flock Cameras
+Channel: Jack Neel
+Type: SHORT
+Video ID: t7IHAJYY8tY
+URL: https://www.youtube.com/watch?v=t7IHAJYY8tY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:38:08+00:00
+
+Kind: captions Language: en So, Flock, their CEO came out and said they hadn't been hacked ever. They said
+that three times, but you broke into Flock's system four separate times. Is that right? >> Yeah, but let me
+explain. This is called cybersecurity research. [music] Hacking is a little bit different, even though it's
+the exact same thing. An API key is essentially a password, and you're never meant to hardcode these API keys.
+This is like a high school project level basic security feature. That API key had access to everything that
+Flock does. All 5,000 police departments, 6,000 private communities, and 1,000 private businesses would have
+been exploitable, readable through that API key. This is probably one of the biggest cybersecurity failures of
+this decade. And it chance to be a massive threat to our national security. As I hope

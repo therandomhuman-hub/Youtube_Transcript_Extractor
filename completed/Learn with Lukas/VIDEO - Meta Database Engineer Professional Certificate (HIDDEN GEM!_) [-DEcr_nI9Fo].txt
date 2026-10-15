@@ -1,0 +1,75 @@
+Title: Meta Database Engineer Professional Certificate (HIDDEN GEM!?)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: -DEcr_nI9Fo
+URL: https://www.youtube.com/watch?v=-DEcr_nI9Fo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:40:21+00:00
+
+Kind: captions Language: en I'm going to give you an honest review of The Meta database engineer professional
+certificate now I've reviewed lots of different data science courses on this channel and today we're going to
+find out if this is something worth taking meta is a great company and data engineering is a fantastic field
+to get into with a median salary of 130,000 per year and lots of different job openings data is more important
+than ever and data engineering is a field that's only going to grow in the future but still before you invest
+money of your time into this we need to see that it's really going to help you get a job and learn the most
+useful skills in the most efficient way so let's get started when landing on this page we'll see that it's
+supposed to launch your career as a database engineer and build job ready skills for an in demand career and
+also earn a credential from meta of course there's no degree or experience required to get started now in my
+opinion this sounds a little bit too good to be true and I'll debunk some of the myths around this certificate
+later but in general it is really good and meta wouldn't lie about this stuff I mean they have their
+reputation at stake now when it comes to the professional certificate it is a nine course series and beginner
+level it is 6 months at 6 hours per week but since it's self-paced you can really take it as fast as you want
+I mean I've often completed six-month courses in one or two months because I spent a little bit too much time
+on it so if you want to do that you can do that too the price is around 50 bucks per month depending on your
+location and it is included in the corsera Plus subscription now what I like about this one is that you get
+access to I believe 7,000 courses for just one subscription so if you want to learn something else on the side
+it is very coste efficient as you can take multiple courses at once for the same price they do also offer
+financial aid and some other stuff so check that out if you need it as well now let's take a look at the
+learning objectives and what you're going to learn in this course as you can see here you learn about SQL and
+its syntax and how to use SQL to deal with databases you will also write code in Python and create
+applications to connect MySQL databases you learn how to create the actual databases themselves from scratch
+and learn how to add new data and manage the databases as well as kind of optimize it for performance
+reliability and of course security finally you learn about some Advanced Data modeling Concepts in general the
+skills you'll gain are just database management tabular records database Administration SQL Python and of
+course specifically for these use cases and you'll also work with a database management system called MySQL
+and it's a very popular one so that's great too now as I mentioned you'll get a verifiable certificate at the
+end of all the nine courses and it's going to look something like this according to meta some of the jobs that
+this will help you prepare for are the database engineer the data engineer and the junior data engineer
+depending on your prior experience now we're finally here let's take a closer look at each of the courses one
+by one because if we're going to be spending time on these courses well we should definitely confirm that
+they're actually worth it that the content is worth spending time on so first we have an introduction to
+databases and it is 27 hours and has a 4.7 out of 5 rating next version control at 13 hours then database
+structures and management with mySQL at at 32 hours and advanced MySQL topics at 18 hours and then programming
+in Python at 44 hours this one is the most timec consuming course of the professional certificate but if you
+have some experience with python or programming this is going to be relatively easy as it's just teaching you
+the programming fundamentals then database clients 40 hours and this is working with databases you know also
+integrating Python and MySQL together and course S as you notice is quite a lot of material but that's the
+point core 7 is Advanced Data modeling at 18 hours and then we have the database engineer Capstone of 18 hours
+again this one is really going to depend on how fast you complete the final project which is what they call or
+which is what they mean by saying Capstone project now the final course is just coding and interview prep but
+that is going to be very useful as well so don't overlook this course it's basically all about problem solving
+and specifically solving problems using Code so how does the job market look like for somebody that completed
+this program there are a ton of open data engineering roles which we can find out with just a quick search on
+LinkedIn and as you can see there are a ton of jobs available and indeed right here and also on glass store
+here as well now most jobs will require some form of experience or formal education I do want to emphasize
+that all jobs don't require a degree but most of them do so if you have a relevant degree like in computer
+science or another technical field that will be insanely helpful but if you don't you still shouldn't give up
+on your dreams and the reason why this professional certificate exists is to help you break into the field
+regardless of your qualifications to do that you may have to get an internship work your way up Etc but there
+are different ways to get there especi to those High salaries if you are consistent I think it's a really
+exciting field I mean data is everywhere and it's not like fewer data Engineers will be needed it's quite the
+opposite and everyone needs help dealing with their data you know storing their data moving it transforming it
+that's where data engineer basically comes in to make data useful it is like the foundation of data science
+now let's talk about the pros and cons regarding this certificate specifically and I think it's pretty
+affordable first it's accessible to anyone for that reason it's you know online and it's pretty long compared
+to most online courses and I think that's a good thing you get to dig a little bit deeper than somebody just
+taking a one week or a one month program and that's a good and they also focus on Hands-On practice this which
+I really appreciate cuz that's the best way to learn you're going to learn SQL Python and many relevant skills
+for many data jobs both including the data jobs but even outside of data my only real concern and one of the
+downsides here is that I think these online courses sometimes make it out to be a little bit easier than it
+actually is to get a job in data engineering so make sure to do some research see if it's something that you
+really want to get into because you'll need to be dedicated to it to get a job if you're not sure I would just
+try out the for free they usually offer some free trials and you can also just audit the course and I'll leave
+a link to all of that stuff in the description thanks for watching have an amazing week guys and I hope to see
+you in the next video

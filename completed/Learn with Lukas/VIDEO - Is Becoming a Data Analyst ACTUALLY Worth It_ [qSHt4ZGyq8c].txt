@@ -1,0 +1,107 @@
+Title: Is Becoming a Data Analyst ACTUALLY Worth It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: qSHt4ZGyq8c
+URL: https://www.youtube.com/watch?v=qSHt4ZGyq8c
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:47:06+00:00
+
+Kind: captions Language: en have you seen videos about data analyst jobs talking about how awesome it is the
+salaries are high you can often work from home and it's easy to get a job even as a beginner today we're going
+to be serious and talk about the reality now is it still worth becoming a data analyst or is it just too
+competitive is it going to be replaced by AI or is the job not as good as people actually think we're going to
+start with a breakdown of the job responsibilities and then we'll talk about salaries job outlook and future
+growth as well as job satisfaction and how real data anal feel about their jobs finally we're going to talk
+about the pros and cons of this job and I'm not going to hold back in this video at all so drop a like And
+subscribe to the channel and let's get started now there are some key responsibilities that you'll usually
+have as a data analyst but it's also going to depend on the company that you work for let us take a look at
+the Google data analytics certificate it is one of the most popular data analytics courses out there and their
+curriculum is actually following something called the data analytics life cycle so if we look at curriculum we
+can actually see the different activities that a data analyst would do we'll start at course two because
+course one is just foundational course and here you can see that it's all about asking questions to make data
+driven decisions and that is really important because before we're able to solve any problem or before we're
+able to do any useful work we need to know why we're doing what we're doing and what the problem is that we're
+trying to solve that is why you need to ask proper questions and find out what the objectives are as soon as
+possible to do this you'll need to communicate with stakeholders which can be people in your company it can be
+your boss your clients and so on and this part is actually really significant and it's not just about working
+with data but this setup can take a lot of time as well next we have prepare data for exploration and now that
+we know what we're trying to do we need to find the right data and gather it so that we're able to make it
+useful in the future somehow in the next step we have to process data from Dirty to clean and that is because
+the data that we've collected is probably not in the best format for analysis or for use perhaps there are
+even more issues with the data itself which completely makes it unusable and the objective here is basically
+to turn it into something that we can actually use and analyze and this brings us to our next step which is
+analyze data to answer our questions next share data through the art of visualization so if you've been
+analyzing something and then you actually gather these insights then you want to make sure that these can be
+spread and shared in the best possible way to the right people that actually need this information to do this
+you allow to create effective data visualizations and finally we have data analysis with r programming now R
+is just one of many different tools that you can use to accomplish your work as a data analyst so it doesn't
+have to be specifically R all right so now we already covered the basics of the role let us get into all the
+specific details and the pros and cons and everything you need to know the salary of a data analyst in the US
+is around 880,000 per year on the low end we have about 59,000 and on the high end about 120,000 now the
+salaries can vary a lot depending on your location your company and your experience and I actually think this
+estimate is a little bit High compared to what I've seen on some other websites but it's around the 70 80,000
+per year range I've also seen some people in the comments that are making 60k per year and other people that
+are making 150 and it's actually crazy how big the salary differences can be I mean we're only talking about
+the US so this is all in the same country now perhaps even more important is the job outlook and how the jobs
+are going to look like in the future will the job market be very competitive or will there be enough job jobs
+for people available and here's where it becomes a little bit difficult because there are a lot of jobs
+available if you are very experienced and there is a high demand for data Professionals in general and The
+Field's growing pretty fast I mean it's really really important but not necessarily at the entry level which
+creates a problematic situation for many people now let me show you some real stats instead this is from the
+US Bureau of Labor Statistics focusing on the data scientist role now I know that this is not a data analyst
+specific but I just want to show you how the data field is growing in general and as you can see by the
+description the objective of these two roles are very similar they use analytical tools and techniques to
+extract meaningful insights from data so pretty similar to a data analyst for the data scientist role you can
+see that the typical entry level education is a bachelor's degree and that is the same for the data analyst
+role but you can also get a job without one it's just going to be a lot easier with a degree because companies
+value degrees whether you think degrees are good or you think they're overrated let's just be honest about
+that that especially at the entry level jobs companies really value it now when it comes to the job outlook we
+can see a projected growth of 35% from 2022 to 32 and this is absolutely insane and much faster than average
+we're going to talk more about this when we get to the downsides because it does not include things like
+competition and how hard it actually is to get a job now let's talk about whether people are actually happy or
+how they're feeling about their data analyst's job and I don't think that it's enough to talk about salaries
+because there's so many different things to take into account for job satisfaction according to pay scale data
+analyst rated their job 3.8 out of five according to 1,700 responses this is very good and data analysts are
+generally highly satisfied with their jobs but I read some of the reviews more in detail and one common
+pattern that I found was that people were generally happy with their job responsibilities in some cases they
+thought that it was a little bit stressful but it wasn't something that came up too often I did find that
+there was one issue though people were not always that happy about their salaries and we talked about salaries
+and if you compare it to most jobs it's actually pretty good but if you compare it to for example a data
+engineer a data scientist or other really technical data roles then the salary isn't actually that high and
+this is also one of the reasons why some people might transition into other data roles later speaking about
+that let's talk about the different career paths so here on pay scale they show three main career paths after
+becoming a data analyst but of course there are many many many options options so here you can either become a
+senior data analyst and then go from there you can also go the manager route which is also a little bit
+similar but you can also transition into a data scientist role or something like that to do so you may have to
+learn more skills but there are also many skills that overlap and your experience is going to be valuable on
+your resume for many of the other data roles as well now we're finally at the most important section of this
+video and we're going to talk about the pros and cons but before we get into it I just want to put out the
+disclaimer here that these are not my experiences but rather I investigated what other people think I've read
+a lot of reviews gone through discussion topics and forums and just in general gathered things that people
+find to be pros and cons at this job and these are really really important things that you should know before
+you get started and if you don't know them then you might end up going down the wrong path and doing something
+that's a terrible option for you so let's check it out starting with the pros it's generally known to be a
+very interesting job as it involves you know constant learning and skill development it is also a job that is
+in high demand across many different Industries so you can work for a company that you like and do something
+that you find interesting it is also a job that you can technically do from home although not all companies
+offer that of course and the salaries are also pretty good especially when you get to more senior levels or
+become a manager and you can also transition into many other roles with the skills that you gain and the
+experience that you also gain in the process now let's talk about some of the cons and some reasons why some
+people should not become data analysts and I'm saying some people because everything does not apply to
+everyone if I say that a job is intense then some people are going to say that's awesome I like intense
+environments so it's all up to you and who you are but now let's get into what is often considered to be some
+of the downsides of this job the first one is that it can be stressful due to deadlines and working with
+different clients and stakeholders and it can also be more communication than some people might think if you
+assume that you're just going to be digging into Data all day then you might be really unpleasantly surprised
+when you have to be in meetings and really dig deep and communicate and understand requirements to actually
+move forward with the project it can also be pretty competitive data analyst role has really been promoted as
+this not so technical yet still high-paying Tech job and it's led a lot of people to wanting to become data
+analysts now there are a lot of jobs out there but it can be pretty competitive especially at the entry level
+Technologies are also changing and it does require continuous learning and upskilling and for some people
+that's fantastic I think you should never stop learning but it's important to keep that in mind I also want to
+say that it's important that you don't get discouraged or encouraged by somebody on YouTube it's up to you to
+make your own decisions do your own research and see if this job is something for you but if you do want to
+become a data analyst and I think you should check out this video over here or I have no idea where it is but
+somewhere on the screen and it's one of my most popular videos that I made for aspiring data analysts so check
+it out wherever it is and I'll see you over there thanks for watching

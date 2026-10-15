@@ -1,16 +1,16 @@
 Channel name: Sunny Lenarduzzi
 Channel URL: https://www.youtube.com/@SunnyLenarduzzi
-Last updated UTC: 2026-10-14T12:47:50+00:00
+Last updated UTC: 2026-10-15T15:54:06+00:00
 Discovered in current scan: 563
 Manifest total: 563
-Transcripts saved: 161
-No captions: 7
-Resolved items (saved transcript or explicit no-caption outcome): 168
+Transcripts saved: 490
+No captions: 9
+Resolved items (saved transcript or explicit no-caption outcome): 499
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
-Failures: 0
+Failures: 1
 Authentication required: 0
 Rate limited: 0
-Still discovered/pending: 395
+Still discovered/pending: 63
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

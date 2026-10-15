@@ -1,0 +1,106 @@
+Title: Is The Springboard Data Science Bootcamp Actually Worth It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: q6gFmHbThgQ
+URL: https://www.youtube.com/watch?v=q6gFmHbThgQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:49:53+00:00
+
+Kind: captions Language: en the average salary for data scientists is over 100,000 per year and according to
+the US Bureau of Labor Statistics the number of jobs will grow by 35% during the next 10 years which is much
+faster than average everyone wants to become a data scientist but how and where do you start now you can do it
+alone learn everything by yourself but it is very difficult especially to get job ready another option that is
+still pretty difficult but way easier is by taking a boot camp with mentors coaching accountability and a
+clear path now I want to clarify that both ways work fine and boot camps are certainly not for everyone I just
+really want to make that clear because I don't want you to rush into paying for a boot camp but in this video
+I'll talk about option number two and sponsored by springboard and I'm very excited to review their data
+science boot camp now I generally don't partner with boot camps as I think you can learn for free online
+however springboard is an exception as they have a fantastic track record of helping people get jobs beginners
+who took this boot camp have been hired by Amazon Shopify Samsung and many more top companies and it doesn't
+take years to complete it just takes a few months part time now I also check the reviews online to see what
+people actually think because that's what matters the most and they have 4.6 from over 1,500 students on
+course report 4.5 from over 500 graduates on Career Karma and they have another 1,600 reviews on switch up.org
+with another 4. 6 out of five stars they even have a job guarantee but we'll get to all of that stuff later
+all right so before anything else let me just quickly tell you about springboard they have boot camps to help
+you quickly transition into a new job and in this case to a data scientist job I always think it's unfair to
+compare a course to a full degree because you spend years compared to just a few months but the reason why
+these boot camps are so short yet still so valuable is because they focus on the most in demand skills boot
+cams can for that reason be really good for people both without a degree but also with a degree if you just
+want to boost your skills and become job ready now one of the key features of the springboard boot camp which
+we'll talk about later is that they include a lot of support and access to mentors coaches and a full
+community now their data science boot camp is approximately 6 months with 15 to 20 hours of study per week so
+that you can actually do it part-time if you want to it is made for people that work or study or do something
+else which I think is really nice because taking 6 months off to just a study can be really difficult both
+financially but also just the fact that life comes in between sometimes now it's also worth looking at the
+numbers especially as it is a data science boot camp according to data from springb themselves of past
+graduates from this boot camp they've seen an average salary increase of around 25,000 per year now that is
+huge and it might seem a little bit suspicious at first but many roles in data science offer High salaries so
+it's not that surprising they also have a 12mth month job placement rate of 89.2% this means that about 9 out
+of 10 people that take this boot camp have a job in the industry within 12 months of completing it they also
+have a job placement program where they actually help you get hired at a company but we'll talk more about
+that later as well finally they have around 4,000 students that have enrolled in the boot camp so far the
+reason why I'm telling you all of this is because I think it's really important to look at the past
+experiences and the actual results that people are getting not just what I'm telling you because my goal is
+just to show you the reality and help you decide if it's something for you now let us take a look at the
+course a little bit more in depth it is a completely online and flexible learning schedule now the actual
+course aspect is divided up into 28 mini projects and three different Capstone projects and they're basically
+focusing on doing a lot of projects and teaching you with practical Hands-On approaches instead of just
+reading materials and watching videos which I do think is a much better way to learn now that you're doing it
+actually Hands-On when it comes to the actual curriculum it covers eight different topics which you'll go
+through over these six months I'm just going to mention them really quickly first we have pre-work where you
+basically fill up your foundations to make sure that you're at an adequate level the next topic is what is
+data science then we have problem identification the python data science stack applying the data science
+method data wrangling SQL and databases really important for all of these data roles and then we have
+statistics and exploratory and data analysis then python statistics in exploratory data analysis or Eda then
+we actually move over a little bit to machine learning with an overview and then supervised learning
+unsupervised learning feature engineering as well as building machine learning applications finally we're back
+to the lighter stuff yet still really useful data storytelling and then you'll be able to specialize in
+something that you find interesting in your three different options are a generalist path so that you learn
+all sorts of data science skills you can also focus on the business intelligence part which is more focusing
+towards using data to help businesses make good decisions finally there is also the third option which focuses
+more on machine learning and then we have projects and career support which we'll talk more about now so when
+it comes to projects I already mentioned that you'll learn by doing so you'll do a lot of projects during
+these 6 months 28 mini projects and three of these major projects to be exact what this means is that you
+learn something get an assignment and then actually do something yourself now more specifically there are four
+different steps that are listed here on their site first you'll identify a business problem then you'll do all
+sorts of stuff with data like acquiring it wrangling exploring and whatever you want to do with it finally
+you'll use machine learning to make different predictions using your data and then you'll also try to make the
+data as useful as possible for the business with storytelling and sharing all of your insights this is not
+only good to help you learn but also to build a solid portfolio that you can show to employers once you
+graduate from this program here you can also see some of the portfolio projects that past students have done
+let us start with the first project by Kristen who graduated from this program back in 2019 she did a Capstone
+project called the build building a Netflix inspired algorithm for rock climbers very specific and I'm sure
+that it's something she's pretty interested in which is also a really good thing cuz you can actually work on
+something that you find interesting her projects are available here on GitHub as we can see with all of the
+different steps and everything and how she did it Frank over here did another project on computer translation
+of ASL finger spelling now I don't know any of these people but I can tell you that building a solid project
+like this is going to look fantastic in your portfolio and you'll do multiple of them now there is a really
+important part that we've kind of missed let talk about the mentorship more in depth so one of the main
+reasons why you would sign up for a boot camp compared to an online course is because of the community the
+coaching and those aspect in this one you'll have both access to mentors and support during the program but
+also after the program you have the opportunity to connect both in a group setting and also work one onone
+with your data science Mentor now I cannot tell you the exact Mentor that you'll have but I can show you some
+examples of mentors that they work with Ryan here is a machine learning engineer at Facebook or meta Samira is
+a principal data science scientist at Uber and Eric is a data scientist at instacart as a personal side note
+for me one of the main things about having mentors can also be the both the accountability aspect but also the
+networking aspect usually if you're a self-learner it's not going to be very easy to access people that are
+working as principal data scientists because they're very very busy sure you could try to reach out but it's
+not certain that you're going to get help from these people and here you are I'm not going to spend too much
+time on the career coaching but they do offer you resume advice networking how to find jobs negotiation enie
+practice and all that kind of stuff as well now we're going to move over to some pros and also some of the
+downsides of this boot camp and first I want to talk about the fact that yes it is more expensive than just
+taking an online course they do offer some different payment terms but I would definitely not suggest this if
+you're in a bad financial situation I do think that the price is Justified because they offer actual
+mentorship support and real accountability which you don't get in other places but it's certainly not for
+everyone they do also have a job guarantee which I think is worth mentioning but you will need a bachelor's
+degree for the job guarantee to be active so be aware that there are some requirements you need to fulfill now
+my conclusion is that this boot camp and boot camps in general are definitely not for everyone if you want the
+lowest cost then it's not the best option but for the right person this boot camp can be the difference
+between Landing your dream job and never getting anywhere if you want the accountability you want mentors you
+want coaching and you want a clear path to a data scientist job then I don't think there's any better place on
+springboard now I made a deal with springboard and they're actually giving you $1,000 off if you sign up with
+a link in the description and this is a significant discount so if you want to learn more about it just check
+the link out in the description and whatever you decide to do I wish you all the best and now I'll just leave
+you with some comments from students because I think that's what matters the most and these ones have been
+verified as well thanks for watching

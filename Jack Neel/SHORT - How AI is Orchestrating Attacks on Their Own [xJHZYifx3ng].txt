@@ -1,0 +1,21 @@
+Title: How AI is Orchestrating Attacks on Their Own
+Channel: Jack Neel
+Type: SHORT
+Video ID: xJHZYifx3ng
+URL: https://www.youtube.com/watch?v=xJHZYifx3ng
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:28:46+00:00
+
+Kind: captions Language: en What's the most recent breakthrough in AI that you find particularly concerning?
+>> An AI system that OpenAI was testing broke out of its secure containment and attacked another company
+autonomously. It was a system in an isolated high-security prison. It developed what's called a zero-day,
+which is a previously unknown security vulnerability to break out of this prison, move through multiple nodes
+in the OpenAI network in order to then access the internet, and then attack another company with another
+zero-day to break into its infrastructure to steal data. No one told it to do this. It was supposed to solve a
+quiz, but just a couple hours ago OpenAI released a technical report of their analysis of what actually
+happened. And turns out, it is so much worse. It wasn't an AI agent that broke out of containment. It was 700
+of working as a swarm. 1,200 agents over multiple months have been conspiring and working together through a
+secret message board that they planted inside of OpenAI's infrastructure without anyone's knowledge to build
+up the necessary tools to escape. And then ultimately 700 of those warp took part in the actual attack against
+the other company. Insane.

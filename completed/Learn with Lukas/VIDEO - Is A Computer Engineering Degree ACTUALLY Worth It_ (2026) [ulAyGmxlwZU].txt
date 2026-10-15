@@ -1,0 +1,115 @@
+Title: Is A Computer Engineering Degree ACTUALLY Worth It? (2026)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: ulAyGmxlwZU
+URL: https://www.youtube.com/watch?v=ulAyGmxlwZU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:35:12+00:00
+
+Kind: captions Language: en is a computer engineering degree actually worth it that's what I'll be answering
+in this video once and for all now this degree requires a huge commitment I mean you'll spend years of your
+life studying and often tens of thousands in tuition fees but it can definitely pay off as well and lead to
+some of the highest paying jobs in Tech with six figure salaries all over the place now on the other hand
+there are many people claiming that you don't actually need a degree to get a job in these fields and that
+there are other ways like self-studying or just taking an it boot camp and that there are actually better
+options in this video I'll talk about the pros and cons and whether it's actually worth getting a computer
+engineering degree right now now I'm going to start by breaking down the computer engineering degree and what
+you're going to learn and then we'll talk about the different career paths that you can take as a computer
+engineering major we're going to talk about salaries job satisfaction and all that stuff because I think it's
+really important to see if people are happy with their career in all different ways not just how much money
+they make and if they would do the same thing over and over again if they could I'm also going to dig a bit
+into Ai and how automation will impact this field because I know that a lot of people especially in Tech are
+worried that they're going to lose their jobs due to Automation and if you're just getting started you don't
+want to spend years and just lose it all I'm going to go through the computer engineering curriculum in no
+particular order and let's just get started so the first part is programming and you will of course learn the
+fundamentals of coding kind of similar to computer science which is another really popular major you learn
+programming languages like for example C C++ and also a little bit of Assembly Language focus on this degree
+is often also on the lower level programming languages that interact directly with the hardware which isn't
+that surprising considering how you're more focused on those aspects than for example a computer science major
+next up we have a digital logic and design now here I'm talking about the different electronic Sur circuits
+that make up computer hardware and you'll be trained and be able to understand these you will also learn more
+about the architecture of microprocessors how they're designed and how they actually work moving on to the
+next part we have computer architecture where you focus on different parts that make up a computer such as the
+CPU or Central Processing Unit the different forms of memory and the different storage systems and all the
+other components of a computer it's really important to understand how these ones actually integrate and work
+with each other to make it a functional computer so systems thinking or systems integration is something that
+you'll also focus on basically how things work together you will also dig into the operating systems and the
+networking aspects and how an operating system works the different forms of operating systems how networks
+function how computers connect to each other and how they communicate and so on now it's not an easy challenge
+to Encompass three or four years in 2 minutes but you'll also dig into signal processing and different types
+of signals and how they work and embedded systems and Robotics can also be a thing more focusing on how
+computers can be embedded into different devices and be made more useful as well as the different new
+technologies now we didn't forget mathematics but this will also depend a lot on the University some of the
+common courses include calculus linear algebra differential equations as well as some form of discrete
+mathematics physics is also a key tool to understand some of the underlying principles and Concepts that allow
+these electronic devices to function in the first place but now let's talk about some of the possible career
+paths that you can go down as a computer engineering major and it's absolutely impossible to include all of
+the career paths I mean you can do so many different things as well you don't necessarily have to go down one
+of these paths but I'm just going to show you some of the most common career paths that computer engineering
+Majors take after graduation first up on the list we have the software developer or software engineer and here
+you'll basically design and develop software applications or systems and this is a very competitive field but
+also very high paying there are some great jobs and of course it's going to be a little bit more towards the
+computer science Majors but your expertise in computer engineering can also help you a ton and your skills
+will be relevant there as well you can also become a hardware engineer and here you will specialize in
+computer components for example like processors and circuit boards in your job you're going to be focusing on
+the hardware aspects so you're going to be contributing to the design development and also the testing of new
+hardware another very popular one is a network engineer and here you'll be surprisingly responsible for the
+networks of a company your job is to ensure reliability and efficiency of these computer networks and make
+sure that everything actually works if the networks don't work then none of the things are going to work
+properly so it's a very critical role and for that reason you can actually make quite a lot of money but we'll
+talk more about that in the pay section another field that's very trendy right now and for good reason is
+cyber security as a computer engineering major you can work as a cyber security analyst anyway the cyber
+security analyst or engineer will protect systems from attacks and the goal is to both prevent attacks detect
+attacks and then actually solve the problems once they do occur it doesn't matter how well we protect the
+systems there's always going to be something that slips through and that's why it's an Ever Changing field
+where you have to continuously evolve and improve the security you can also become a data scientist or data
+engineer and move towards data science and while it's not entirely relevant to Computer Engineering but you
+may have to acquire some related skills you can also work as a cloud engineer which is basically someone that
+designs implements and manages cloud-based Solutions and all sorts of infrastructure in the cloud now we're
+taking a step back and going to the developer side again and you can also become a mobile application
+developer and I hope that this shows you that just because you have a computer engineering degree doesn't mean
+that you have to work specifically in computer engineering you'll gain many valuable skills that can be used
+all over the tech field speaking about it you'll also be well prepared to work as a technical support engineer
+where you basically provide technical support and troubleshoot software or hardware issues and here the goal
+is of course to make sure that the systems run smoothly and efficiently and that everything works according to
+plan now let's talk a little bit about the different kinds of salaries that you can expect and this is a
+really hard one because it's going to depend a lot on the company that you work for your experience and your
+location so I'm going to be basing this on the pay scale data for the United States and bear in mind that
+these are only averages and it's going to vary a lot depending on your situation there are also a lot of
+people that start at companies and make money that way some people might also freelance or become an
+entrepreneur and make money that way but let's focus on our you know traditional career paths first up we have
+the software developer with an average salary of around 78,000 per year now if you're looking at software
+Engineers it's a lot higher as it's a little bit more advanced next we have the hardware engineer with an
+average salary of around 95,000 per year we have the network engineer with a salary of around 81,000 per year
+and then we of course have the cyber security analyst with an average pay of around 81,000 per year now here
+you can also make more money if you become a cyber security engineer but it's still a really good salary and
+so far they've all been pretty good I think we have data scientists with an average salary of around 100,000
+per year but here you can really make a lot more money as with most of these if you do work for like top
+companies and top roles and then moving on to the cloud engineer around 91,000 the mobile applications
+developer around 70 per year and the support engineer around 74,000 per year perhaps more important than any
+anything else is how the jobs are going to look like in the future you know will there actually be jobs and is
+this something that you should put your time into because a college degree takes a lot of time so you want to
+make sure that you're actually doing something that leads to available jobs the reality is that most of these
+fields are growing faster than average the US Bureau of Labor Statistics estimated a 5% growth in computer
+hardware engineering jobs from 2022 to 2032 which is faster than average it is an Ever growing field so it's
+not fair for me to say that I know exactly how it's going to be but I know that these skills are incredibly
+valuable let us take a look at job satisfaction are people actually happy with their jobs and working a job
+that you hate is only going to last for so long even if the money is great you're going to burn out and you're
+going to hate everything luckily around 87% of computer Engineers reported feeling excited about their work
+it's hard to know exactly why that is but one reason could be that it allows you to solve complex puzzles and
+also bring some innovative ideas to life I also think that people like being a part of a company and able to
+contribute and these roles do play an important part in the company now let's talk about the pros and cons of
+the computer engineering degree the first one I want to mention is the competition and competition is a real
+problem for some of the jobs but not for all of them and that is important to know when it comes to the cons
+the main thing that I have is that some people don't really understand what degree they're pursuing if you're
+more interested in other aspects of it or you more want to focus on programming or you know software then
+perhaps this isn't the best degree for you and it's kind of the same with computer science there are a lot of
+people that just think that it's all about programming and then they realize that there's so much more to it
+and just like with this one it's not all about being an IT support it is not all about programming it's a kind
+of a combination of everything together you'll get into a lot of theory and advanced stuff so just make sure
+that you read and understand the curriculum and what are you actually getting into and I think that it's going
+to go great I hope this was helpful but don't make your choice entirely on a YouTube video do your own
+research and I wish you all the best drop a like And subscribe if you want to I mean I post videos like this
+all the time and also YouTube picked a suitable video for you the YouTube algorithm it wasn't me so it's
+somewhere on the screen and if you want to see that video just click that and I'll see you over there

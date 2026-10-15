@@ -1,0 +1,76 @@
+Title: Is The Big Data Specialization ACTUALLY Worth It? (Big Data Certificate)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: aSlpuQ98s3o
+URL: https://www.youtube.com/watch?v=aSlpuQ98s3o
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:34:36+00:00
+
+Kind: captions Language: en is the Big Data specialization by UC San Diego actually worth it this has been a
+highly requested video and it is one if not the most popular course for Big Data out there for complete
+beginners and these are some of the highest paying skills out there in data science right now the reason they
+made this program is that most people are lacking these skills and companies are not able to hire enough
+people with experience in Big Data but this opportunity for beginners is not going to last forever it's not
+going to be the same in a couple of years so now is actually the best time to learn these skills and really
+cash in we're going to go through everything you need to know about this certificate starting with the time
+the completion the potential jobs and different salaries after taking the course as well as a full breakdown
+of the learning material we're also going to look at the demand for these skills on the job market and finally
+of course I'll talk about some pros and cons to consider and whether this course is the best option for you to
+land a job all right let's just quickly go through the basics and then get into the real stuff it's a beginner
+level program with no previous experience or education necessary it is nearly 10,000 reviews from people that
+completed the specialization which I might give you you know some confidence that it's a decent course now
+it's about 3 months at 10 hours a week with a completely flexible schedule and as always I do need to point
+out that most of these people tend to complete these programs a little bit faster than expected and I
+completed most programs in about half the time myself and you guys have confirmed that you have a similar
+experience on corsera the purpose of the specialization is to help you unlock value in massive data set you
+will learn the fundamental Big Data methods in six courses which we'll talk about later the price is worth
+mentioning and it's a subscription usually 50 bucks a month and lower depending on your region and location
+and if you do compare it to boot camps which usually charge thousands of dollars or a college degree you know
+which is tens of thousands I think it's pretty reasonable now I'm by no means comparing this to a full degree
+where you spend years studying but you'll learn some of the most in demand skills and not waste time with
+filler courses which is a definitely a plus they also offer financial aid for the those who cannot afford it
+as well as a free trial which I'll leave a link to in the description because you shouldn't really have to
+invest any money unless you're really sure that the course is for you so the key skills or tools that you'll
+gain knowledge in are big data neo4j mongod DB and Apache spark you'll get a verifiable certificate which you
+can add to your LinkedIn profile or print out and it's a nice achievement to have after spending your time
+learning something let us take a deeper look at the courses and what you're going to learn big data is a very
+big field feel free to unsubscribe for that joke and so the things that you actually learn are really
+important and you cannot just learn everything in the first course out of six you'll be introduced to Big Data
+as a whole and it's roughly 17 hours and will teach you about all the fundamental stuff and it has a rating of
+4.6 stars in the next course you'll work with big data modeling and management systems and you'll learn about
+how to collect store and organize your data using Big Data Solutions then we have big data integration and
+processing and then machine learning with big data so they're also introducing you to some fun fundamental ml
+Concepts in this course as well you don't need any experience with machine learning for this program but it's
+still good to be introduced to it these fields are related and you may want to look for a job in machine
+learning as well later they pay really well and offer a ton of cool job opportunities this course will help
+you make sense of all the data that you have by exploring analyzing and leveraging this data effectively in
+the last you know traditional course we have graphic analytics for big data and then just a Capstone project
+and this is really valuable because you get to apply what you learned throughout the course and make a project
+which you can then show to recruiters later so I always try to recommend programs that actually have projects
+because they'll be very valuable in your portfolio now what about Big Data as a field you know let's take a
+look at some of the opportunities the jobs available after this course will depend on your prior experience
+and if you don't have anything else no other courses no education I will say that you're probably going to
+have to study a little bit more it's still a pretty short course and you're not going to learn everything
+required for most of these jobs some of the jobs that you can work work towards are the data scientist role
+with an average pay of 120,000 per year of course the big data engineer another 120,000 per year big data
+analyst around 80,000 machine learning engineer obviously with a lot more studying and usually a degree as
+well there's also the business intelligence Analyst at around 70,000 per year and database administrator at
+around 120,000 and many many more jobs that you can get the salaries will vary depending on your location the
+company and your experience level let's take a look at some of the pros and cons about this course
+specifically I'm going to be completely honest and I do have some stuff to complain about as well starting
+with the good stuff I really like how the course is real world focused and it also includes some Hands-On
+projects and learning that way it is also flexible allowing for anyone to take it and it's pretty affordable
+compared to other options corsera is nice they offer good experience and I've really enjoyed the courses I've
+taken on corsera now when it comes to the downsides you're not really going to receive that much support they
+do offer some learning communities with chat rooms but that is pretty much it they you know you have no
+coaching and you're really going through everything by yourself and if that's fine great but if you do need
+more accountability to make sure that you see success then it might be a problem so it's worth considering the
+next thing is that it's from a university and universities don't often have the most updated material due to
+bureaucracy and this one seems to be pretty updated but just keep that in mind as well and finally this course
+isn't actually a good idea for everyone even if it's a great course because consider how you'll integrate this
+with your own learning whether it's going to boost your career opportunities and if there's actually a purpose
+to take this course if you for example want to become a data analyst or just learn about data science in
+general perhaps you should take a more General course because this one is very specific to Big Data for the
+right person this can be a fantastic course I'll leave a link in the description where you can try the course
+out for free for an entire week but you can also find it online if you don't wish to use my link

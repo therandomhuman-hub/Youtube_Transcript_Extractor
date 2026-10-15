@@ -1,0 +1,64 @@
+Title: Data Science Explained In 5 Minutes
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: QK-1J18Rd_k
+URL: https://www.youtube.com/watch?v=QK-1J18Rd_k
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:45:26+00:00
+
+Kind: captions Language: en if you want to become a data scientist then this video is for you we're living in
+a world of data we take pictures we use Google Maps to find a restaurant and we visit websites watch videos
+and send a lot of messages all the time and everything we do generates data and while data can be used for bad
+things it can also be used for lots of good things too such as finding the right treatment for a patient or
+even developing a new medicine but data is only as good as what we do with it because raw data isn't useful at
+all it's kind of like an uncut ch gem it holds the potential that only the right expertise and the right
+skills or the right tools can unlock and this is where data science comes in now data science is not a new
+thing it's been used for thousands of years and it was used all the way back in ancient Egypt to predict
+floods and grow crops so that people could just feed their families data science is all about turning raw data
+into gold or data into insights and we're just going to go through a basic version of the data science process
+together right now you start by collecting data from somewhere because you need a data source and perhaps the
+data is already available we just have to download it or get it sent to us and in other cases we may have to
+actually find the data and retrieve it ourselves collect it somehow but actually the process starts way before
+you even start collecting your data because we actually need to define the question or the problem that we're
+trying to solve and this is going to guide and direct everything we do after next again the data is kind of
+like an uncut gem so we need to clean our data and this is really critical because if our data is incorrect or
+it contains a lot of Errors we're not going to be able to to use it properly either it's just going to end up
+in a lot of mistakes and a lot of issues and the reason why we spend so much time data cleaning is because
+imagine if you build a house and thinking that the ground is solid only to have the ground collapse and the
+entire house going down with it and then we're going to explore our data using something called Eda or
+exploratory data analysis and here we're kind of looking for patterns and things that stand out in the data
+set and it gives us a really valuable first look into the data as well and it's very important for the future
+steps that are to come next we'll get into something called Data modeling and a model in data science is kind
+of like a tool that helps you make sense of your data to build a model you choose a method that is appropriate
+and then you use your existing data to train this model and basically the model kind of learns from the data
+you prepared make predictions or find patterns but how do we know if the model that we made is good or not
+well we evaluate it by testing it of course and next there's also a step that we cannot forget and it's
+communication both during all the steps but especially to explain your finding to relevant stakeholders or
+whoever you have to explain it to communication is really important during all of the steps but especially to
+explain your findings because your goal is to make your findings clear and understandable and actually useful
+to the right people for example using graphs or other forms of data visualizations the key thing here is to
+share your insights or outcomes from your work to your stakeholders and these people are usually not as
+technical as you nor do they have a lot of time to spare so you'll have to keep it clear and concise with
+effective communication but next next we'll have to deploy a model and this means making your model available
+for real practical use and you basically take the model that you built and tested and start using it to make
+predictions or analyze data in a real world environment and it's pretty hard to say how this looks exactly but
+it could be integrating the model into a business process or the actual software that you're using now over
+time the data or the actual situation itself that you're studying might completely change and that's normal
+that is why the next step maintenance involves updating your model to ensure that it stays accurate and
+relevant in the future as well and you might have to feed some new data into it or just adjust the model as
+needed in general I want to clarify that the data science process is not always perfect you may go back and
+forth between different steps and do multiple iterations to achieve your goals or just focus on one thing more
+for a certain project and that's completely normal now let's talk about money and the pay of a data scientist
+in the US is around 124,000 per year depending on your experience of course this is a fantastic salary and
+many of the other data r pay great as well a data engineer makes around 76 to 184,000 per year on the high end
+a data analyst around 50 to over 100,000 per year and there's just so many different ways and you know so many
+different jobs that you can do in data science and how you start and the career that you take will depend on
+your prior experience and your education of course if you do come from a more technical background you'll have
+some of the more technical roles like a data scientist available to you but even if you come from a
+non-technical background or you have zero relevant experience you can still start a career in data science
+it's certainly not going to be easy to get a job but you can find a lot of great resources for free even on
+YouTube and after you take courses it's a really good idea to start building your own projects and building
+your portfolio as this is going to help you get hired in the long run check the description for a free data
+science road map with the exact courses included made together with industry experts and I'll see you in the
+next video

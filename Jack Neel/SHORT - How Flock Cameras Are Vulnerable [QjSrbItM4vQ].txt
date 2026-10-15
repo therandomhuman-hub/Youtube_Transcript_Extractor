@@ -1,0 +1,15 @@
+Title: How Flock Cameras Are Vulnerable
+Channel: Jack Neel
+Type: SHORT
+Video ID: QjSrbItM4vQ
+URL: https://www.youtube.com/watch?v=QjSrbItM4vQ
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:34:58+00:00
+
+Kind: captions Language: en If I'm a hacker who wants to do damage to Flock system or perhaps the United
+States, and I get access to an API [music] key, what can I do? >> Well, you could have done pretty much
+whatever the heck you wanted to. You could have started falsifying records in their system. You could have
+started deleting records from the system. You could have spied on practically every single American, whether
+it's a politician, whether it's going to be generals, whether it's going to be FBI agents, or like many
+policemen do, their ex-wives. That's what you could do with that API key. That's the problem.

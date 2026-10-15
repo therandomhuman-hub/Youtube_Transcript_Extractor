@@ -1,0 +1,112 @@
+Title: How to Live Stream on Facebook from your Desktop with OBS (Open Broadcast Software)
+Channel: Sunny Lenarduzzi
+Type: VIDEO
+Video ID: hIeVQWkF6vo
+URL: https://www.youtube.com/watch?v=hIeVQWkF6vo
+Language: en
+Transcript source: YouTube subtitles
+Collected UTC: 2026-10-15T15:02:09+00:00
+
+Kind: captions Language: en SunnyLenarduzzi: For the bright side of branding, business and being your own
+boss. Hey Boss, it's Sunny Lenarduzzi. Welcome to The Sunny Show - for the bright side of branding, business
+and being your own boss. It has been a minute since I've done a tech tutorial, and there's one question that
+I've been asked so much over the last couple months. I feel like I'm being forced into doing this tutorial.
+I’m kind of going back to my roots of doing this tech tutorial, so I'm excited to share this one with you
+guys. You guys know that I use live streaming all of the time especially when I'm launching products or I'm
+launching courses. I love to use live streaming, and I'm often asked when I do my live stream, "How do I make
+them look so good?" Well, there's a little secret and a few tools that I use to livestream from my desktop and
+make them look perfectly branded for my business, and you can do the same thing in a matter of a few steps so
+that's what I'm sharing today. Let's dive in to the techie tutorial. Okay, so step number one is to make your
+graphics. We are going to do 1920 by 1080, and those are the dimensions that you want to be using for your
+livestream graphics. We're going to design in Canva, I use Canva for pretty much all of our design in the
+business, I love it. You've heard me talk about it before. It's one of my favorite tools. Okay, so what we
+want to do is say I'm doing a live stream on how to get more YouTube views. This is a paid Canva account but
+you can also do this in a free account. How to get more YouTube views. Okay, so we're going to do that in our
+brand font which is this, and we're going to move this over here. I'm going to make this bigger move that up
+and then I'm actually going to put a background on it, so let's do just a gold background. Oops. What I meant
+to do with that elements, you do that any of these shapes there, I'm just going to use a square and we're
+going to make that square gold. What I'm going to then do is move this over here, move this like that and
+we're going to arrange that, so that's in the back and this is in the front. I will then add another subtext
+that has my name on it, that way if people are sharing the live stream which fleetly will be, people will know
+who's hosting it and it gives you more brand recognition. Let's make that a little bit smaller. That's going
+to go right there, okay. That is going to be just our graphic for when we go live. Now, what I also want to do
+is I want to create a cover graphic, so what we want to do here is have something that people can see while
+they're waiting before you go live. The value of this is that you can go live without actually being on camera
+before you start your training so that people can know where the link is, and can be there in the waiting room
+almost before you start your live stream. For this, I do the background in black usually. What we're going to
+do is add text, and we're going to say, YouTube training starting soon. One little added tip here that I
+really like to do to encourage engagement because the more engagement you get on your live stream the more
+reach your live stream is going to get on Facebook live. What I like to do is put a question on here as well,
+so let's make this 88, it's really big. Then what I'm going to do is add a question, so we're going to say,
+what is your YouTube channel name, so we will do this guy and will do that in let's say 42 and we'll do that
+in gold, and we'll say comment below. That way you get the conversation started before you even come on
+camera, and you'll see exactly what I mean by this in just a second, so everything is centered. It looks good.
+When you go to download it you just hit download, and then you're going to drag the folder, it will show up in
+your downloads up here, and you drag it onto your desktop or into an area that you can easily pull from. We're
+going to do is we're going to drag this guy on to the desktop, so it's easily accessible. That is step one of
+designing your graphics in Canva. Step two is opening up OBS. Hello. Okay, so there's a few things that you
+definitely want to have here, so I'm actually going to delete this guys, we can start from scratch. To add in
+elements to your live stream, you just go down here and press add, so we're going to add something in just a
+second but if you guys are a little overwhelmed by what OBS is, it's Open Broadcast Software this is what I
+use and a lot of people use to broadcast live on Facebook from their computer. What you want to do is first
+and foremost you put a link below that we follow every time we go live, because it makes the process a lot
+easier it's a quick step by step of how to do it. We want to first and foremost before we go live on Facebook
+and remember that link is below if you want to review it every time you go live, but before we actually go
+live we need to make sure that the live stream is going to look good. I'm going to walk you through this. The
+first thing that we have here, the first element is actually me on camera we want that to be visible to the
+audience when I'm live. If I turn that off, you can't see me anymore, so that element is there. The next thing
+is the screen so I can actually share my screen with the audience while I'm doing a live stream. The last
+thing I want to add in here is the images, so we're going to do intro graphic. Okay, so we're going to upload
+this because this is the graphic that we created in Canva, so it's going to be this guy, so add that in, and
+you'll see we're going to go. All right. This will be the very first thing people see when we go live. If I
+take that off and that's what I do when I go live, I just quickly press the eye and then people will see me
+and not see that intro graphic. The next style we want to add in is the, we'll call it like the title graphic,
+which will have my name and the title of the training on it. What we're going to use here is this guy.
+[inaudible 00:06:48] like this, move that over slightly and what we're going to do is we're going to move this
+guy below the video capture device because we want to make sure that people can actually see me. Now, this is
+something you can kind of play with, you can kind of like how it like that. I mean I can move my positioning.
+You can play with the graphics, I've done graphics that don't have this exact set up before and actually have
+a computer graphic on there and I put myself in the computer screen. So you can do really whatever you like,
+you can just have it set up like this so you have the white bars in the top and bottom, or like I said I could
+just adjust my position and have a full screen of me on camera. You can set it up however you want to see what
+you're looking for and just kind of play around with it. Those are the graphics that you need, so when you
+start your live stream this is what people will see. Obviously, that red thing will be on, and then when you
+take that off, "Hi. Here we are. Let's start the live training," so that is step number two of setting up OBS
+to be branded, so when you go live on Facebook it looks good and it looks like your brand colors. Okay, step
+number three is actually going live. We're going to go live on my Facebook page, I'm going to show you the set
+up to go live on a Facebook page. There's also a way to go live in a group using this method, and like I said
+this link is below this video because it's a great resource so kudos to iag.me on creating great guide for
+going live no matter if it's a Facebook page or a group, but what we're going to do first and foremost is
+we're going to go live on a page. This is how to do it, so what you're going to do is go to your page, this is
+my page Facebook.com/SunnyLenarduzzi and I have gone into the publishing tools, then videos, and I want to hit
+go live. This is really, really important this link right here, the stream key, we're going to need that in
+just a second. What we're going to do is go next, and you can post your title of your video, so we'll say,
+YouTube Training, put any links that you want to have in there, and then the video title we'll just call it
+the same thing. Training, oops, and then any tags so we'll say YouTube, Video Marketing, that's good, and
+Social Media. What we're going to do is we're going to make sure that we put this stream key now, so now we
+connect the two. We've gone on the Facebook page, we've set everything up. Now, what we need to do is go to
+settings in OBS, go to stream, and then you're going to copy, and well not copy, you're going to paste the
+stream key that you just copied from Facebook right here. We've done that and then we go start streaming this,
+this is not mean they are actually live on Facebook yet. This is before you actually go live so you can just
+see what it's going to look like. We're going to start streaming, and then we go back here, and in just a
+second it'll pick up and show us that it's actually working. Now you can what that's going to look like so we
+don't want that to be the openings, we want to do is change it to this, and you'll see it change just second.
+There's about a, I don't know 10 second lag here, so just keep that in mind when you are going live. There you
+go. That's what people are going to see, and then all you do is hit go live, and you are live on your Facebook
+page. My other tip for this is when you are going to go live using this method, I do recommend having your
+phone or another computer set up so you can actually monitor comments while you're going live and also be
+adjusting your graphics or showing your screen on one computer and doing the comments on the other computer.
+There you go, that's how you go live on Facebook using your computer and making it look branded. Now that you
+know how to make your live streams look amazing, and there's actually a link that I always refer to when I'm
+about to go live and it's a recap of everything that I was told you guys, so you can grab that below this
+video. The great article just with all of the steps you need to know if this wasn't clear enough for you but
+it should be, and if you want to launch your own course and you're interested in using live streaming and
+getting started in growing your business through course creation, I have a course concept checklist that you
+definitely want to snag below this video as well. Don't forget to join thousands of entrepreneurs in the Be
+Your Own Mastermind group, you join for free below this video at the link and have the support of thousands of
+bosses from all over the world who are trying to live a life on their own terms. If you like this video hit
+the like button below, share it with somebody who needs to know this techie tutorial trick and be sure to
+subscribe. Thank you guys so much for watching, I'll see you in the next video. Have you been thinking about
+using YouTube to grow your business, but you're not sure where to start and you're scared of wasting time on
+the wrong steps? Let me be your guide and I'll show you the right steps to ranking on page one for more views,
+subscribers and leads for your business. Learn more at Bossyoutubestrategy.com.

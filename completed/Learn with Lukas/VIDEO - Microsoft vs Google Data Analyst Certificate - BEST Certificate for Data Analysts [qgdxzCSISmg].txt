@@ -1,0 +1,70 @@
+Title: Microsoft vs Google Data Analyst Certificate - BEST Certificate for Data Analysts
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: qgdxzCSISmg
+URL: https://www.youtube.com/watch?v=qgdxzCSISmg
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:29:16+00:00
+
+Kind: captions Language: en today we're comparing the Google and the new Microsoft data analyst certificates
+until recently the Google one was by far the most popular option but now with Microsoft's new program this
+might be about to change and we're already seeing a lot of people enroll in the new course instead now I'm not
+going to be going super into depth into these as I've already made detailed videos and the focus here is going
+to be on comparing them against each other let's start by taking a quick look at both of these certificates
+and the thing is that if you do take the wrong course you'll waste a lot of time so let's clear everything up
+right now starting with the Google data analytics certificate it is 6 months at 10 hours a week for complete
+beginners and the goal is to help you become a data analyst from zero they do claim to make you job ready but
+as many people know at this point that's not really the case they are going to teach you a lot of useful
+skills for sure but you will need a lot more things to become a data analyst and this one course alone is not
+going to be enough Google's curriculum is basically following a data analysis life cycle and it kind of starts
+with asking the right questions cleaning preparing and processing data and then there's a course about how to
+analyze data as well as creating effective data visualizations and finally there's some programming with r and
+a Capstone project but that's pretty much it for this course the Microsoft 1 is very new but so far the
+reviews have been great and even though it's only been around a short while it already has over 100,000 people
+enrolled and that is a crazy amount for such a short time and it must break some record now it's also beginner
+level at 5 months at 10 hours a week so lengthwise they are very similar I do need to say that most people
+tend to complete the Google course faster than 6 months I've often seen it be completed in around 2 to 3
+months for most people now the curriculum here looks very different compared to the Google course and every
+course is working with the tool called powerbi which is a data visualization tool using powerbi you can create
+things like dashboards charts and different graphs and you can do a a lot of different things with powerbi and
+it's one of the most in demand skills for data analysts now the course itself starts with an introduction and
+preparing some data you learn about ETL and different ways of moving data into the right place processing data
+transforming data and all that stuff and there's also a course about data modeling and a course about data
+analysis and a course about data visualization but now let's move on to some of the differences and here is
+where it gets really really interesting because there are a lot of similarities but also a lot of huge
+differences first I'm going to share some general differences and then we're going to talk about the
+curriculum itself and finally the certificates and how valuable they actually are on the job market and what
+you can do with them and the thing is that both companies are very credible Microsoft and Google and
+lengthwise the courses are very similar as you've seen Microsoft course is expected to take Learners one month
+less so it's going to be around 40 hours more to take the Google course but again it's a little bit more
+technical as well for the Microsoft one so I would say that most people are probably going to spend around the
+same time and it's not going to be a deal breaker but when it comes to the curriculum and the skills that
+you'll learn we obviously have powerbi as the main focus of Microsoft's course it's going to be used in every
+single course in the program but if you do want to learn other things like Python and SQL which you should
+then they're going to have to be learned on the side so it's definitely not a complete course teaching you all
+of the skills rather focusing on powerbi on the other hand Google's course is not very technical at all and
+you're not going to become an expert in any of the technical skills even though you will work with more tools
+you'll do some things in Google Sheets do a little bit of SQL and also some R programming language but it's
+really not that much and you will have to specialize later if you do want to learn the technical skills now
+let's talk about the certificate itself and when you complete the Google course you will receive a piece of
+paper a certificate from Google and corsera and this is a great achievement and it shows that you've taken the
+time to complete the course but it's not really some sort of Industry recognized paper that's going to make
+employers throw themselves at you but when comes to the Microsoft course you'll also receive a certificate
+just like the Google one but they do also offer something else and this is really interesting the Microsoft
+program actually helps you prepare for the official Microsoft certification and this exam is called pl300 and
+is a formal exam that you take online or you go at a test center and you basically take an exam once and then
+you're officially a Microsoft certified data analyst and that is going to be a huge plus to your officially
+certified data analyst that you can put on your resume now this is something that's external to corsera and
+you will have to pay for it it's not included in the corsera subscription or something and it's around $200
+for the certification although it will depend on your location but a bonus is that if you do complete the
+Microsoft certificate on corsera you will also receive a 50% discount voucher so your course on corsera is
+kind of paying for itself if you decide to take the certification after now my final conclusion is that the
+Google one is more like a general entry level certification it's going to teach you a lot of things like how
+to think like a data analyst but not really the specific skills that much on the other hand the Microsoft
+course is entirely dedicated to powerbi and it's also going to teach you a lot of it but you know it has the
+benefit of doing a certification it actually prepares you for a specific skill and both courses are great
+options it just depends on where you're starting from and what your goals are obviously someone that wants to
+learn Tableau should not take the powerbi course because that makes no sense and I'll leave a link to the
+course in the description or both courses including any currently ongoing discounts so check that out below
+and good luck with whatever course you decide to take

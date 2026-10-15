@@ -1,0 +1,101 @@
+Title: Top 6 BEST Data Engineering Certifications (Google + Microsoft Certifications)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: KT687H3zABY
+URL: https://www.youtube.com/watch?v=KT687H3zABY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:31:15+00:00
+
+Kind: captions Language: en the six best data engineering certifications that is what we'll talk about in this
+video drop a like for more videos like this and let's get started now getting a certification is a great way
+to force yourself to learn the right skills and then get a proof that you have the right skills the main
+benefit is actually that you can show it to employers which makes you credible and in turn more employable on
+the job market but the problem is that not all certifications are the same and if you pick the wrong sht
+you'll waste weeks if not months with little to no reward there are are plenty of people who get
+certifications and never see any progress that's just the honest truth now this video actually took me many
+days of research and I'm going to share every little secret with you in this video we'll cover both Advanced
+and beginner level searchs that you can get to land your first job in no specific order so make sure to stick
+around until the end even if all of the certifications will not be relevant for you now you should be aware of
+them early so that you can take them in the future when you are ready and use them to improve your career get
+new opportunities and just increase your salary and opportunities overall number one on the list is going to
+be Google professional data engineer you'll be tested on your ability to design data processing systems store
+data maintain automated data workloads ingest and process data and finally prepare and use data for analysis
+so basic data engineering tasks is what you're going to be tested on The Price is a maximum of $200 or lower
+depending on your location and it's a 2hour exam available in English and only Japanese surprisingly and has
+50 to 60 multiple choice questions so no open-ended questions which I know a lot of you guys really don't want
+so that's why I'm mentioning it there are no prerequisites for this one although they do recommend three years
+of Industry experience including onee designing and managing Solutions using Google Cloud so as with the
+previous Google search we mentioned the best way to prepare is just to get some experience and then check the
+details of the exam and fill in the gaps as you go number two is going to be the Cloudera certified data
+engineer this one is very very interesting the Sam itself is very different than the other ones that we
+mentioned so far because it actually contains 5 to 10 Hands-On tasks which you'll have to perform by working
+with the Cloudera Enterprise cluster so their own tool it's going to test your ability even deeper than the
+other ones because you actually have to apply to yourself the price is $330 for the entire certification
+you'll have a time limit of 240 minutes which is pretty long for a certification like this and it means that
+you'll be sitting there for 4 hours if you want to now it might sound like a ton of time but also consider the
+fact that you're doing Hands-On tasks which means that you'll not just be answering a simple question but
+rather Implement a working solution and multiple tasks because there are actually multiple things that you
+have to implement the requirements and how to prepare are very vague for this one I mean they're looking for
+somebody with in-depth experience developing data engineering solutions they do have some more specific
+information on their page but in general it's certainly more for the advanced person number three on the data
+engineering list is going to be the AWS certified data engineer associate and this one is going to be way
+better for people who are not experts who are more looking to you know get a new job or get their first job
+this one will focus on correlated AWS Services your ability to ingest and transform data as well as build data
+pipelines while applying programming Concepts design data models manage data life cycles and ensure quality of
+your data again common data engineering tasks focusing on using AWS Services the price is around 150 bucks but
+may vary depending on your location and it is 130 minutes for the exam 65 multiple choice questions and this
+one is also part of the associate level exams to give you a better idea I want to explain these different
+levels so that you know what level you should focus on if you're taking AWS exam Amazon web services or AWS
+has four different certification levels the first one is called foundational certifications and then we have
+Associates we also have professional and Specialty now there's not a data engineering certification at the
+foundational level so this is actually the earliest or the most inner level friendly data engineering
+certification that you can get from Amazon they still recommend 2 to 3 years of data engineering expertise or
+at least one to two years specifically working with AWS but these are just recommendations and there are
+actually no specific prerequisites so if you are an overachiever and you're able to study up on all of this on
+your own you're able to do projects and really learn Hands-On you could take this one even without work
+experience now I'm not saying that it's going to be easy or the best option for beginners in any way but I'm
+just saying that if you are an over AER these requirements are usually meant to scare you away rather than
+make you sign up for the certification so you may want to consider it to prepare for this one you can start by
+understanding the exam and what questions they ask and then you can learn about the different topics as well
+as go to their exam preparation guide and finally they have a practice exam which I highly highly recommend
+that you take to see what your level is at perhaps even before you get started studying for it because if
+you're so far away then maybe you want to focus on something else another bonus with the AWS certifications
+that you might have missed is that getting a certification will actually give you 50% on your next exam so if
+you want to get multiple ones from Amazon you can save a lot of money by just taking one and getting a
+discount on the next one all right number four on the list is the data bricks certified data engineer
+associate and this one is beginner level for once I mean there's been a lot of more advanced one on this list
+but we do have some beginner ones as well and I think those ones are important because most of you guys are
+going to be at the beginner level but it's still important to be aware of all of them the objective here is to
+use the data bricks Lakehouse platform to complete introductory level data engineering tasks if we look at the
+details of the exam it's actually divided up into five different sections the first one is the data bricks
+Lakehouse platform which is 24% of the exam part two is elt with spark SQL and Python and elt stands for
+extract load and transform and this is around 29% of the exam contents then incremental data processing at 22%
+production pipelines at 16 and finally data governance at another 9% when it comes to the price it's 200 bucks
+for the certification and you have 90 minutes to answer 45 multiple choice questions they don't have any
+prerequisites but they do recommend related training and they also recommend 6 months of hands-on experience
+with data engineering and the tasks outlined in the exam guide I do believe that it should be achievable even
+without a job because you can get experience from projects and other forms of learning not just work
+experience but if you do have more experience and you want to go for another certification that's slightly
+more advanced they do also have a professional level certification for this one they recommend one year of
+hands-on experience instead of 6 months so it's still relatively beginner friendly it covers data brakes tools
+data processing data modeling security and governance monitoring and logging and testing and deployment the
+main thing to consider about this one is that if it's relevant to your career you have to decide if the datab
+breakes Lakehouse platform is something that you want to focus on if you want to focus on other platforms or
+tools then it's probably not going to be the best option so you may want to consider that before you get
+started all right number five or actually number six is the Microsoft Azure data engineering associate
+certification first it's all about learning to manage and analyze data using Microsoft Azure and different
+cloud services they also focus a lot on SQL in this one and it's a key skill for the Asia data engineer so
+you'll be tested on that as well in the requirements they write that you must have a solid knowledge of data
+processing languages including SQL Python and Scala now for the price is 165 bucks in the US £13 in the UK and
+4,800 Indian Rupees at the moment of this recording the cost varies depending on your location so it's best to
+check the official Microsoft website for the exam you need to pass the dp23 exam and if we do take a look at
+the skills measured section we can see that it's roughly 15 to 20% design and Implement data storage 40 to 45%
+develop data processing which is going to be the main part of the exam and finally 35 or 30 to 35% about
+securing monitoring and optimizing data storage and data processing this exam is for data professionals with a
+background in SQL Python and Scala that are looking to focus on learning and getting certified in Asia's data
+services focusing on data engineering for that reason I would not recommend it for beginners but you can
+always give it a try as long as you check out the exam preparation material and see where you are currently at
+and it can also be a very fun learning experience to just try where you're at for different certifications I'm
+going to leave all the links in the description and check out this video next handpicked by the YouTube
+algorithm for you I hope this was helpful have an amazing week guys

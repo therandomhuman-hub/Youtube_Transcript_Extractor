@@ -1,0 +1,157 @@
+Title: Top 10 BEST Data Scientist Certifications
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: Kuabb2e5GeY
+URL: https://www.youtube.com/watch?v=Kuabb2e5GeY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:31:45+00:00
+
+Kind: captions Language: en in this video we'll cover the 10 best data science and machine learning
+certifications subscribe for more and let's get right into it getting a certification is pretty simple you
+take a one-time exam and you get certified and there's a good reason to do so it can help you get your first
+job get a promotion or just increase your salary and you can prove to companies that you have the desired
+skills and by doing so you're more employable but there's a huge problem people are wasting months on
+certifications with little or nothing to show for it they're getting certified but they're still unemployed
+and struggling it's because not all Sears are the same and if you pick the wrong certification you're not just
+losing out on opportunities but you're going backwards and wasting precious time of your life and many if not
+most certifications are not worth it today we'll talk about the best data science and machine learning searchs
+that are actually worth it will'll cover both Advanced and beginner certificates that just about anyone can
+benefit from to get a job it took me many late nights and a ton of research to make this video and now I'll
+share my best findings with you so I hope you appreciate it and let's begin first up on the list we have the
+Microsoft Asia data scientist associate this is an intermediate level certification but we'll talk about some
+beginners certifications as well now for this one you can leverage it even as somebody relatively new which
+we'll talk about as well it's made for the data scientist role and according to Microsoft themselves you'll
+manage data ingestion and preparation model training deployment as well as machine learning Solutions
+monitoring with python Azure machine learning and machine learning flow the this is a Microsoft certification
+so you will be focusing on using the Microsoft tools specifically Asia in this one it is one of the most in
+demand skills in data science competing with other Cloud platforms like AWS and Google Cloud platform more
+specifically the skills that you'll focus on in this course include design and prepare a machine learning
+solution explore data and trade models prepare a model for deployment as well as deploy and retrain a model
+you'll have 100 minutes to complete the exam itself and it's a onetime thing which you can do either on site
+or from the comfort of your own home you will be monitored by a proctor during the entire duration of the test
+but it's still way more practical than having to schedule an examine a physical test center and go all the way
+there but I do know that there are some people that prefer doing it in person as well so both options are
+available the price is around $165 on the high end in for example countries like the us but it will depend on
+your location so do check that out as well and before I get asked this because I always get asked this will I
+have to renew my certification and if so is that free or do I have to pay for it and to be honest it does
+depend on the certification for Microsoft ones you generally don't have to pay because they actually allow you
+to renew most of them for free and that also applies for this certification which is definitely a plus now
+let's talk a little bit about who the certification is for and in my opinion you should definitely have some
+experience in data science focusing on machine learning sometimes the jobs can be very different even if they
+have the same title so if you do have a a data scientist role but you're mainly doing data analysis related
+tasks then perhaps this one is not going to be the easiest for you however the only real requirement listed by
+Microsoft are that you've been using aure machine learning and ml flow and you have some practical experience
+and it's quite vague exactly what you need to learn but they do also have a practical assessment which I
+highly recommend that you take to see how you're doing and if it's something that you could pass relatively
+easy or if you would need a lot of studying to pass this one next up on our list we have the open CER C ified
+data scientist this is technically not just one certification because they do have three different levels the
+first one is called level one certified data scientist we also have level two Master Certified data scientist
+and level three distinguished certified data scientist so these searchs can be very relevant regardless of
+your level before anything you probably wonder who they are and why you should get a certification with them
+that's a valid question and they're basically an organization founded in 1996 in San Francisco in the United
+States and they create standards as well as offer certifications for different skills now this one is slightly
+different than the other certifications that we're going to talk about and here you don't actually take a test
+which is very interesting you don't have to take any exam at all and there's no course or anything to learn
+rather what you do is that you submit your profile and you'll be evaluated on different criteria and see if
+you meet them and if you do meet these criteria you'll be awarded a certification right away with no exam or
+anything to do so clearly this is not something for a complete beginner however there is also something called
+the associates data scientist by the open group and that is one that you can get without any professional
+experience and it's kind of a lower level search of the same type this more entry-level search is specifically
+made for people that have built skills in you know education environments by taking courses and doing some
+projects and to give them an opportunity to validate these skills with a certification I think that is
+fantastic because it's something that many people worry about because they've learned a lot of stuff they've
+done projects they've gained experience but because it's not work experience they believe that it's not
+valuable and fine everything is not going to be the same as work experience but it can still be really really
+valuable and useful and I do appreciate that the open group has a certification like this which actually
+focuses on students beginners and people that want to break into the field the only requirement is that you've
+done some projects or that you've done some form of academic training and gotten hands-on experience but it
+does not have to be work experience the interesting thing about this one is that it's not related to a
+specific tool as well like a microsof soft or Google certification and I would say that it's both a good and a
+bad thing because if you do have a specific tool like Microsoft Asia that you want to learn and be certified
+in that can be a really good thing but if you just want to get a general one this might be a better option
+next up on the list we have the SAS and data science certification now SAS stands for statistical analysis
+system and it's basically a software suite for analytics and business intelligence in this certification
+you'll be tested on your ability to manipulate and gain insights from big data which with a variety of SAS and
+open source tools you'll also make business recommendations with complex machine learning models and finally
+you'll deploy models at scale using SAS they actually offer four different certifications and that can help
+you launch a career in data science according to themselves you can either take just one but optionally you
+can also take a combination of different certifications if you want to and if you have the time personally
+because there are a lot of other good ones on the list I would just pick the one that's most relevant to you
+so you have some time left to do the other ones if you want to the first one is called a data curation
+professional data curation is the organization and integration of data collected from various sources and they
+do recommend that you've taken relevant training which you can read more about on their page and they also
+suggest that you have two to three months of handson experience using SAS data management tools you can
+definitely get this from either projects or from work experience so this one is available to you even at the
+entry level as long as you spend enough time and prepare for it properly the next one is called advanced
+programming professional now this one is more focusing on the SAS programming language and if you want to get
+certified in that specifically then this is a great option there are not these detailed requirements listed
+but I did find a free practice exam on their website which you can check out as well and that is a very good
+way to test your level before paying anything for the exam we also have the advanced analytics professional
+and this one is specifically focused on well analytics and using SAS and their different tools for this one
+you'll need to pass three different exams and the first one is predictive modeling then Advanced predictive
+modeling and finally text analytics time series experimentation and optimization so it's three different exams
+that you have to pass and for that reason you should definitely read more about this if you're interested as
+it's going to be a significant time commitment and finally we have the AI and machine learning professional
+and there are also multiple exams in this one but it's all focusing on machine learning as expected I do think
+that these certifications are good for people looking to break into the field the price seems to be around 150
+to 200 bucks for the exam could vary depending on your country but the main thing to consider here is if SAS
+is actually relevant to you now it's a great thing to learn but I would only get these ones if you're
+specifically looking to get certified in SAS otherwise there are better options on the list next up is going
+to be the data science certifications from data camp this one is focusing on collecting analyzing and
+interpreting large amounts of data using machine learning and AI as well as communicating results to
+stakeholders the tools you'll use RR or python you can actually choose as well as SQL or structured query
+language the exam itself is completely free but you will need a subscription which is I think 25 bucks a month
+and it does take around 2 hours to complete you can prepare for it in any way you want they do have some
+specific preparation courses and also a preparations exam which I do recommend that you take before attempting
+the exam I'm going to make a full video on this one and some other certifications later so make sure that you
+subscribe so that you don't miss that and while this one certainly isn't like like a certification by Google
+or Microsoft or something like that I would still say that it's recognized and welln it's not going to make
+companies throw themselves at you and think that you're an expert data scientist but the main advantage is
+that it's free as long as you have the subscription so you don't lose anything by giving it a try and I'll
+leave a link to it in the description as well moving on to number five which is going to be the Google
+professional machine learning engineer I think it's pretty obvious what this one is about but more
+specifically they test you on your ability to architect lowcost ml Solutions scale protypes into machine
+learning models automate and orchestrate machine learning pipelines collaborate to manage data models serve
+and scale models and finally monitor machine learning Solutions you'll have 2 hours for the exam and it's 50
+to 60 multiple choice questions no open-ended questions and a cost 200 bucks to take the exam a onetime fee
+although the price may depend on your region as well it is for people with 3 years of Industry experience
+including one or more years designing and managing Solutions using Google Cloud so this one is not really an
+entry certification it's more for somebody that's been in the field and they're looking to increase their pay
+opportunities or you know their General job opportunities and get certified that is why the main preparation
+for this exam is actually work experience so you can just review the sample questions and see exactly what
+they're looking for and then fill in the gaps and finally take the test but I would not recommend this one if
+you don't have some experience number six is going to be the AWS certified machine learning specialty and in
+the exam guide it says that it focuses on applying machine learning approaches for a given business problem
+and also identifying appropriate AWS services to implement your machine learning Solutions and design and
+Implement scalable cost optimized reliable and secure machine learning Solutions now the price is 300 bucks as
+a one-time fee and it's 180 minutes to complete the exam with 65 questions they're all the multiple choice or
+multiple response there are no open-ended questions and you can take it online or at the physical test centers
+this one is not for beginners either I just want to put that out there but we are going to get to a lot of
+more beginner certifications in just a second it's a specialty level certification which means that you should
+have a few years of relevant machine learning experience and working with AWS number seven is going to be the
+postgis SQL 13 associate certification and this one will test you on your ability to maintain and manage a
+postr SQL server and applications in a production environment now if you don't know what poster SQL is there
+are many different database Management systems or dbms and post SQL is one of them some other examples would
+be MySQL or Microsoft SQL Server the syntax varies a little bit depending on the type but generally speaking
+the differences are not that significant and if you do know the basics of SQL you can pretty much learn any
+version of cql when you need to the price of the certification is around $200 and it may change depending on
+your location but I was not able to find any information about that on their page the exam you need to pass
+takes 60 minutes so it's a really quick certification it's it's filled with multiple choice questions and you
+just need 70% or above to pass the exam just like most of the other ones you can do them online you buy access
+to take the exam and you can take it anywhere within 6 weeks when you complete the exam you'll receive a
+certification and a badge from Enterprise DB to put on your LinkedIn or print out and do whatever you want
+with it but again the most important question is who should take the certification and I would say that it's
+suitable for beginners and those with intermediate postra SQL experience because it kind of validates skill in
+managing and operating post SQL databases and covers the foundational aspects of postgress SQL there are many
+ways to prepare for it and on their website they list one course as a prerequisite now I would be a little bit
+suspicious about this one it's called foundations a post SQL and guess who the course is from it's actually
+from them and it's their own course and surprisingly it's very very expensive 1,200 bucks for their short
+course now luckily you don't need to take that exact one and I think that if you do I mean you could do it and
+it could be good idea but there are some really good other options as well you can learn using other resources
+online and just make sure that you don't miss any key Concepts if you do decide to selfstudy this one without
+their course because you don't want to pay for the exam over and over again and you know have to retake it
+because that can get very expensive too but if you're looking to learn postc SQL you can do that even on
+YouTube there are a ton of great videos out there so there's really nothing holding you back I'm going to
+leave all the links in the description and check out this video next handpicked by the YouTube algorithm for
+you I hope this was helpful have an amazing week guys

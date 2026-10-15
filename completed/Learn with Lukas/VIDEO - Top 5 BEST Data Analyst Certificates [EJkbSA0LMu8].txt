@@ -1,0 +1,86 @@
+Title: Top 5 BEST Data Analyst Certificates
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: EJkbSA0LMu8
+URL: https://www.youtube.com/watch?v=EJkbSA0LMu8
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:56:48+00:00
+
+Kind: captions Language: en what is the best data analytic certificate this question has really been bothering
+me for a long time now because you only have so much time to spend on courses so which one should you take if
+you want to get a job as fast as possible starting from zero I'm going to go through a ton of data analytic
+certificates for beginners and we'll find out which one is the best for you together first up on the list we
+have the Microsoft powerbi data analyst certificate this is a beginner level certificate and the estimated
+time to completion is roughly 5 months at 10 hours per week but as with most corsera programs that's usually a
+stretch and people complete it faster now this is going to surprise you but the course is all about using
+powerbi and the tools you will use are powerbi Excel and a little bit of SQL as well the first course is all
+about preparing data for analysis with Excel next harnessing the power of data with powerbi and then you'll
+move into extract transform and load data in powerbi or ETL as it's called Next data modeling in you guessed
+powerbi data analysis and visualization so here's where the data analyst gets to really sh then creative
+designing in powerbi and finally deploy and maintain assets along with the final Capstone project now let's
+talk about the pros and potential downsides of this certificate this one is a little bit unique as it will
+prepare you for the pl300 certification this is a real certification from Microsoft where you take an exam and
+you get certified so if you want to take that exam this is a fantastic course to take you'll also become very
+strong in powerbi and specialization is the key to success the main downsides are that you'll have to fill in
+the gaps with more SQL a programming language and more next let's talk about the data Camp data analyst
+certification this is technically not just one course with a certificate at the end like the other courses
+here you can learn whatever you need through all of the resources and all of their courses on the entire
+platform and then when you're ready for the exam you can take the exam I like data cam personally and they
+have over 13 million Learners so I'm I don't think I'm alone in this the platform is more practical and more
+Hands-On than a lot of other platforms although it's not perfect of course and it's also pretty affordable now
+for the certification they will test you on SQL and one programming language either r or python that's for you
+to choose which I think is a huge plus as well the topics you'll be tested on include data management
+communication exploratory analysis coding for production analytics and finally statistical experimentation now
+the pros and cons anyway I like that it's a practice focused platform it's more about learning skills and less
+about Theory I heard somebody called Data camp dualingo for programming which is both good and bad the
+potential downsides are that it's a bunch of different courses by different people so some courses are going
+to be great While others aren't as good and don't forget to get off the platform and do some projects yourself
+as well data Camp is just so comfortable great platform but we've got some amazing courses up next next on the
+list we have the IBM data analyst certificate and now we're back on corsera this one will teach you a few key
+skills we have Excel SQL or structured query language we have python including specific libraries like numpy
+and pandis as well as minimal introduction to cognos analytics which is a bi Suite kind of like powerbi or
+Tableau the first course is an introduction to data analytics then Excel Basics data visualization and
+dashboards with Excel and cognos next python for data science Ai and development and for those of you that are
+familiar with the IBM data science certificate some of these courses actually overlap so a small tip if you
+want to get both of them for some reason then that might be helpful for you anyway next a python project
+databases and SQL for data science with python data analysis data visualization and finally a Capstone project
+at the end all right so pros and cons learning python is fantastic it's also more Hands-On that the Google
+course and I think the only real downside I see is that the Google courses are generally more smooth and a
+little bit more professionally made this one can be a little bit rough at times it's just ugly presentations
+but it gets the job done if you want to give this one a try I think it's a great option moving on to the
+classic Google data analytics certificate with around 2 million enrollments at the time of this video nobody's
+missed this one but how does it compare against the other certificates it is for beginners and 6 months to
+complete at 10 hours per week but I think it's also an exaggeration the tools you'll be using are Google
+Sheets SQL R and Tableau there is no python in this course whatsoever now I'm just going to cut to the shase
+for this one I really like that it's by Google they have a strong brand both in the quality sense but also as
+a certificate it's also a very fundamental program they'll go through the basic slowly teach you the mindset
+and how to really think and operate like a data analyst on the other hand they don't really go that much into
+depth and it's something that many people have complained about especially when it comes to the skills you're
+not going to learn a significant amount of SQL or Tableau or anything for that matter they do have quite a bit
+of stuff for Excel to be honest but it's mainly used to teach you the concepts it is also a pretty slow course
+but that can also be a plus for a beginner as I mentioned finally the lack of python is a downside in my
+opinion but it's still pretty cool to be introduced to R and perhaps you're somebody that even prefers to
+program in r as it's also very popular and there are plenty of jobs available if you know R even if you don't
+know python personally I think that this course is fantastic but I don't think that it's enough if you take
+this one you'll have to do something else after but that's not so bad after all moving on to the next course
+the Google advanc data analytics certificate and perhaps you could take this one after let's find out this one
+is supposed to work as the next step after completing the classic Google certificate now you can also do this
+one as a beginner but remember that Google intended for you to complete them in the right order so make sure
+that you have the appropriate skills if you decide to take this one just as a standalone course now this one
+is way more data science focused and less you know specifically targeted to data analysts even though the name
+suggests so but we'll talk more about that soon the tools you learn in this course are sheets Python and
+Tableau it is 6 months at 10 hours per week and the first course is called foundations of data science next
+get started with python then translate data into insights and course four is all about statistics which is
+really interesting math and statistics are key part of data science especially if you decide to go into the
+more advanced or that feels wrong to say more technical roles like data science scientist machine learning
+engineer and so on next regression analysis simplify complex data relationships and course 6 goes Way Beyond
+the scope of a junior data analyst or a data analyst entirely it is called the nuts and bolts of machine
+learning and finally a Capstone project now this course has some strong benefits to it it focuses entirely on
+python which I think is fantastic it also goes much more in depth than the original course which is perhaps
+not that surprising I mean it's supposed to be Advanced but for a data analyst job some data science Concepts
+and even machine learning is more than you need but I guess it's still pretty cool to you know know that the
+downsides are that it contains no SQL which you'll have to learn on the side I recommend the site learn Sequel
+and I'll leave all the resources mentioned in the description now it's about personal preference as well let
+me know in the comments which one you think is the best or if I missed the course that you think is even
+better thanks for watching

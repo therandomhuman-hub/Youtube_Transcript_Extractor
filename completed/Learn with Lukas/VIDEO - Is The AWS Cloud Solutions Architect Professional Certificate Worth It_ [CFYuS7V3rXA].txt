@@ -1,0 +1,79 @@
+Title: Is The AWS Cloud Solutions Architect Professional Certificate Worth It?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: CFYuS7V3rXA
+URL: https://www.youtube.com/watch?v=CFYuS7V3rXA
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:46:00+00:00
+
+Kind: captions Language: en is the AWS Cloud Solutions architect professional certificate actually worth it it
+is known as the number one course out there for those looking to gain Cloud skills and get hired even if you
+have no prior experience but today I want to see if it actually lives up to all the hype now they claim that
+you'll gain the skills and knowledge to design architecture Solutions on AWS and also prepare for your AWS
+certified Solutions architect certification exam but the main thing that everybody wants to know is that if it
+can actually help you get a job so I'm going to start by covering the time to complete the certificate the
+cost and you know all the basic details we're going to talk about the pros and cons of this one compared to
+other options when you're looking to learn these skills because they are really high paying but you only have
+so much time to learn all of these Cloud skills so you really want to pick the best courses out there and the
+courses that you pick are really really important now AWS stands for Amazon web services and it's basically
+Amazon's cloud computing platform cloud computing is a solution to provide companies with all sorts of
+resources and that includes you know storage computing power databases and so much more all available on the
+cloud some of the reasons why companies love these Cloud Solutions is because they don't have to set
+everything up themselves and they can actually save a lot of time by not having to do so and also money of
+course plus the fact that they can also scale up and down as they actually need this now this course is
+supposed to work as kind of an entry level access point for people to become a Solutions architect working
+with AWS and helping compan companies use Amazon web services it's taught in English and it's of course by
+Amazon which is pretty good as well you're actually learning Straight From the Source it is intermediate level
+but if you actually look at the experience required well then there is no experience required and all that
+means is basically that corsera they think that this one is a little bit harder than their other programs that
+it's generally speaking more difficult and more technical but it's still kind of at the entry level now if we
+talk about the specifics it is 2 months at 10 hours a week and the price is usually 50 bucks a month of course
+depending on your country but it's included in the corsera Plus subscription I've taken a ton of courses on
+this platform all under the one same subscription and I think it's definitely worth it especially if you take
+you know multiple courses at once because it doesn't really cost any more money it's just the same thing even
+if you get like 10 courses or one course you're still paying the same monthly fee but they do also offer
+financial aid for those who need it as well now the skills you'll gain from this one are data laks AWS
+Management console certification preparation a well basically preparing you for the seert and Cloud
+architecture and also specifically the architecture for AWS or Amazon web services now once you complete the
+course you'll get two different achievements and one is basically a certificate at the end which you get
+automatically if you take the course those ones are not super valuable I think it's more nice to have and of
+course you can add them to your LinkedIn profile but it's more supposed to be kind of there for motivation the
+real value is the industry certification which you can get if you want to now if we click on learn more here
+you will actually see that this certificate on corsera will help you prepare for the industry recognized AWS
+certified Solutions architect associate exam now this one is really valuable actually because you schedule an
+exam which takes around 130 minutes and I think the price is around 150 bucks I'm not sure if they offer like
+discounts for specific countries or financial aid you might want to check that out as well anyway the exam has
+65 questions which are either multiple choice Voice or multiple responses and you can take it completely
+online which is amazing but if you want to you could also go to a you know physical test center if you prefer
+the old way of taking the exam the good old you know traditional paper and Pen but now before we look at all
+the details of the course let's take a look at the career resources they offer and corsera they well they
+offer resume reviews through a resumé tool that students get access to you basically upload your resume and
+it's going to check the resume for you to see how you can improve and one tool that I've actually used myself
+which is also available is their mock interview platform I think it's called Big interview and you basically
+sit in front of a screen and you go through some common like interview questions and scenarios and the more
+you practice the better and more comfortable you'll feel during an interview kind of like with everything so
+access to this platform for practice is definitely a plus now they also have some kind of job search guide but
+I haven't really seen anyone actually use that um so you can look into that if you're interested all right so
+now let's take a look at the courses first we have the AWS Cloud technical Essentials and 25 hours and has a
+4.8 rating out of five so that's very good you'll describe terms and concepts related to AWS learn about
+different security measures and kind of just understand what AWS actually offers to companies that's pretty
+good to know because that's where you're going to be teaching the companies about so it's a good idea to know
+that yourself next we have 21 hours of architecting Solutions on AWS you'll learn about software architecture
+data analysis data visualization and also just some general stuff about accounts with AWS next course is all
+about introduction to data Lakes on AWS and it's 14 hours you'll learn what a data Lake actually is where to
+start and how to build a secure and scalable one in AWS and that's pretty much it now the final course of this
+one is all about exam preparation because it's the exam that we talked about before the certification but now
+let's get into the pros and cons and just right away I will say that the certification is a huge plus there
+are many courses that teach you things but they're very few courses that actually prepare you for a real you
+know valuable certification exam by Amazon if you compare two completely equal candidates although that would
+be very unlikely and one has a certification and one doesn't have a certification then it's pretty clear who
+wins the next thing is that cloud skills are highly in demand and very useful and can help you advance in your
+career fast as well and this course is really affordable it's easy to get started with and it's relatively
+short for all the good things that you're going to learn the only downside I see is that it's perhaps not
+something something that you're actually ready for I mean Cloud skills are great but you should have a reason
+to why you're learning AWS like what kind of job are you looking for do you actually need the skill and also
+consider what other skills you need to learn to be able to get to that job perhaps for you it's a good idea to
+take this course and also some other course to you know add skills together regardless I think it's a great
+course and I wish you good luck with everything and thanks for watching make sure to drop a like And subscribe
+if you want more videos like this and I'll see you in the next video

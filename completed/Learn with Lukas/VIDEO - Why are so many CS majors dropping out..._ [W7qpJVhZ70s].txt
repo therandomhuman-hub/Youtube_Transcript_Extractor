@@ -1,0 +1,85 @@
+Title: Why are so many CS majors dropping out...?
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: W7qpJVhZ70s
+URL: https://www.youtube.com/watch?v=W7qpJVhZ70s
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:27:37+00:00
+
+Kind: captions Language: en computer science is one of the highest Dropout rates out of any college major
+people sign up they're really excited about their degrees and they spend a few months or even years and then
+completely give up the big question is why why are there so many people dropping out of their computer science
+degrees that's what we're going to cover in this video now as I was doing research for this video I quickly
+found out there's not just one simple answer but rather a few different things that each play a part and if
+you are a computer science major or if you're thinking about majoring in CS you'll definitely want to know
+these things before you start I also need to say that there's nothing wrong about dropping out and sometimes
+you might pick the wrong major and that's completely fine but we really want to avoid it at all costs because
+it's going to be expensive it's going to technically be a waste of time and it will include a lot of work for
+nothing in return now I have four reasons I want to share with you and the first one is just a lack of
+interest and it's pretty self-explanatory but I also have a new perspective on it the thing is that a lot of
+people have been told that computer science is this magic path to high-paying career with a job that you'll
+love or at least you'll love the money and the thing is that it's true to some extent computer science is
+really a fantastic major and it does offer a lot of great jobs when you graduate although of course not
+directly but sometimes you'll have to start small and then reach these high-paying jobs but it's still a very
+good degree and it's popular for good reason the thing is though that money isn't really everything and I
+think the marketing of the computer science degree or at least the you know popularity of it has pushed a lot
+of people into CS that aren't really made for computer science they would much rather pursue something else
+and computer science is not going to be an easy major if you're not passionate about what you're actually
+doing or you at least want it to some extent if you don't then it's going to be hard just like any major now
+of course there are more difficult degrees than computer science but if you do hate what you're doing then
+eventually when you fail your third course you're going to realize that you should have done something else
+and gone from something that you actually enjoy as well the next reason I'm going to talk about is unreal
+expectations and this is really a big one here I'm not talking about a lack of interest but rather a lack of
+understanding and what I mean is understanding what computer science actually is I've made another video about
+this entirely but to sum it up quickly computer science is not all about programming programming and you know
+writing code is just a way to implement some aspects of computer science and it's not computer science
+computer science is actually about the study of computation which is a much bigger scope and this means that
+if you do get into computer science assuming that you'll be programming all the time at least in your major
+you'll be quickly surprised when you realize they're not even 50% of the classes involve programming there
+will be quite a bit of math computer architecture algorithms databases networks and all sorts of stuff that
+you would never expect if you only ran into it thinking that it's like some kind of software engineering boot
+camp now many software Engineers do have a computer science degree because it teaches you a lot of the
+fundamental things but still when it comes to the actual programming is it's very far from being a front-end
+developer or some sort of course like that and that is also why a complaint from many computer science Majors
+is that they don't really get prepared for programming jobs and they actually have to learn it on the side so
+if you want to focus more on that then you might have to learn it you know in addition to the computer science
+degree if you want to pursue a career that involves writing a lot of code and that can also be an indication
+that if you entirely want to focus on writing code perhaps the computer science degree is not going to be the
+best option unless you want to lay that solid foundation and then get to write more code later now the third
+reason I have as to why people study computer science and actually drop out would be assignment fatigue now
+this one is really related to all of the other ones and they're not really operating in a vacuum by any means
+and the thing is that once you realize that you are not interested in what you're studying and you also kind
+of assume that it was something else the assignments are going to be so much harder now I just said that it's
+not all about programming but there are still quite a few assignments and work that you have to do outside of
+class you know level of this work that you have to do is it's obviously going to depend on where you're
+studying and where you're from and I don't have a perfect explanation of exactly how many assignments you're
+going to get or what you're going to be doing exactly but for people that already struggle with the first few
+points it can be really the icing on the cake or the thing that you know makes them break now I did find some
+things that actually help people succeed but before we get into those I just want to cover reason number four
+and that would actually be proper preparation and the thing is that we talked about a lot more things than
+just programming and a lot of people didn't really expect the math and the heavier theoretical courses like
+theoretical computer science so you should definitely look into the curriculum and actually be aware of what
+you're getting into so that you can actually adequately prepare and in many cases you're not really going to
+have to prepare too much but you want to make sure that you at least remember some of the high school things
+so that you can build on top of that when you do get started now I want to talk about the good things and what
+we can actually do because I think that's the most important thing the first thing that I found to help people
+succeed in the computer science degree is to just embrace the theory and try to really enjoy the theoretical
+side and understand it as well because it can be really useful and exciting now everything is not going to be
+super useful later but some things are definitely going to be useful even if you don't realize it at this
+moment the next thing is to not underestimate any courses and actually give them the time that they desire
+build a solid foundation but of course you want to have enough time to be able to do all of this and that's
+where time management comes in a significant reason why people drop out of college in general is because they
+can't keep up with the pace they find it too stressful they have too much to do and eventually they have to
+give up in some cases it's by you know circumstances completely out of your control but in other cases it
+might just be poor time management and time management and you know managing your time effectively can really
+help establishing a routine can be a good idea making you know sure you're actually studying when you think
+you're studying and not just being busy because one hour of work can pay off more than 5 hours if you just
+spend you know dabbling and doing some things should be doing and finally maintaining physical and mental
+health has been found to be insanely helpful for whatever you're doing but especially for studying a degree
+and of course this varies from person to person but it's all about you know exercising getting enough sleep
+eating properly and just trying to stay healthy now I can tell you that especially with sleep I'm really not
+the best at this as you can probably tell but it is really important and we should all get better at managing
+our health I do have another video about computer science that I think you like somewhere here on the screen
+and it's been really highly appreciated by everyone that's watched it or at least most people I think so make
+sure to check it out and I'll see you over there

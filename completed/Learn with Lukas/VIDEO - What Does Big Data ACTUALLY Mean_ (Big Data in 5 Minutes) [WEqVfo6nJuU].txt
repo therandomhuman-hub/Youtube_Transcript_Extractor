@@ -1,0 +1,63 @@
+Title: What Does Big Data ACTUALLY Mean? (Big Data in 5 Minutes)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: WEqVfo6nJuU
+URL: https://www.youtube.com/watch?v=WEqVfo6nJuU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:48:50+00:00
+
+Kind: captions Language: en big data is one of the highest paying skills right now in a rapidly growing field
+with lots of job opportunities today I'll explain exactly what Big Data actually is now everything we do
+generates data from running with our fitness watch to reviewing a restaurant or just using your app on your
+phone whether you think that's creepy or not it's simply the reality and data is everywhere and companies that
+want to succeed nowadays make sure to use data in their favor when making decisions and when creating products
+just think about Google Maps they have so much data about everything you need and almost every single location
+in the entire world like can you even imagine that but when it comes to such big quantities how do you store
+maintain and actually make all of this data useful somehow in the beginning this was a huge problem and our
+conventional tools were not able to handle this data when the volume got so excessive it created a number of
+new opportunities but also a many new challenges and that's where the field of Big Data came to be simply
+because we needed a way to deal with huge amounts of data and be able to make it useful and our conventional
+tools were not able to handle it now more formly big data refers to huge amounts of data in various forms and
+because of its size it requires specific techniques and tools to manage it big data is not just about the
+amount itself it's also about managing all sorts of data types simultaneously and also the generation of new
+data because it's not just a one-time thing some companies today are generating so much data all the time like
+think about Apple with their billions of devices generating dat data all the time they need to gather store
+and deal with all of this data and with it being generated in real time so it's not just about existing data
+for all of these reasons it's no wonder that this field is so complex and offers many great job opportunities
+because companies simply need people to help them with this big data can also be used in healthc care for
+example to analyze patient data for better treatment plans and here it's not about just one patient but
+perhaps millions of patients to find patterns and draw conclusions and you know find things that could help
+improve the treatment of everyone at the healthc care facilities Big Data can also be used in retail we can
+analyze someone's purchasing Behavior but if we really want to find the best insights we have to look at
+thousands or even hundreds of thousands of their customers and their purchases overall instead of just looking
+at one person that's how we really find what the data is trying to tell us so that we can understand these you
+know big customer buying patterns and sell more of our products and make more money for the company but even
+more traditional Industries they use Big Data as as well for example in banking there are millions of
+transactions happening every single minute and not enough people to you know sit around and verify them by
+hand therefore they built a lot of algorithms and stuff to detect fraudulent activities and stop potential
+threats and scammers and it's absolutely critical for our financial system to work and can you guess how they
+built all of these security procedures well they've analyzed millions of transactions now what kind of jobs
+can you get if you want to work in big data and this is very interesting because there are B both jobs that
+are specific to Big Data but there are also many jobs that cannot use these big data skills in their work to
+accomplish things so it's not just hey you know work in big data and that's it now you could become a big data
+engineer and as you might have heard the job title is kind of similar to data engineer and it's relatively
+similar but you're working specifically with big data and they basically specialize in designing implementing
+and managing Big Data infrastructure as well as any other tools used and to get a job as a Big Data engineer
+you'll often need a degree or some experience in data science for example as a data engineer and you should be
+very familiar with you know databases cloud computing and Big Data Technologies overall your work is really
+important because issues and mistakes when dealing with these huge data set can lead to enormous amounts of
+problems in the future you could also become a data scientist now they often deal with large and more complex
+data sets as well and some of these would even qualify as big data now to become a data scientist you will
+need some skills statistical analysis machine learning predictive modeling as well as a programming language
+and different tools to do your job and often a degree too now you can become a data scientist even without a
+degree but it's certainly not going to be easy by any means and you may have to go about it a little bit
+differently so what does the future of Big Data actually look like well we're generating more data all the
+time at a faster pace and that's why the future is actually Big Data we'll need more efficient ways of storing
+this data dealing with the data but perhaps most importantly using the data so I think getting into big data
+is definitely futureproof career now there are many ways to get started in Big Data some people recommend
+taking data science courses you know focusing on data engineering specifically there are many different good
+and affordable free courses out there and I will leave some resources in the description as well thanks for
+watching this video please drop a like And subscribe if you did enjoy it and also somewhere on the screen here
+there should be another video that I think you might be interested in or at least the YouTube algorithm think
+so so check it out somewhere over here

@@ -1,0 +1,97 @@
+Title: Top 6 BEST Data Engineering Certificates in 2025
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: ZgNp1Ul_xyY
+URL: https://www.youtube.com/watch?v=ZgNp1Ul_xyY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:20:28+00:00
+
+Kind: captions Language: en a data engineering certificate is a great way to learn the right skills and also
+get appr Pro that you've taken a highquality course in the form of a certificate but the problem is that there
+are so many different options and there's not enough time for all of them and there's also a risk here if you
+do take the wrong course the wrong certificate you'll waste a lot of time without reaching your goals because
+all courses are not the same and some are absolutely useless in this video we'll cover the top six data
+engineering certificates to determine the best I could show you the list right away way but that's not helpful
+at all you need to understand why and see the big picture to determine which course is best for you this
+5minute video could save you months and help you get a job way faster because if you learn the right skills
+and take the best courses you'll be more employable it is that simple but I promise I'll be as quick as
+possible so let's begin the first one on the list is the IBM data engineer certificates this one is really
+exciting because it's a mix of different programs and it's very comprehensive but still it's only 5 months at
+10 hours a week and its beginner level so it's pretty easy to complete this one you'll actually focus on the
+practical skills and knowledge of data engineers and what they use in their daily roles you'll work with nosql
+and big data using mongod DB Cassandra cloudant Hadoop Apache spark SQL ML and streaming it also teaches you
+relational databases creating designing and managing them and don't forget ETL and data pipelines you'll also
+learn all about that stuff extract transform load and classic data engineer engering tasks I'm not going to go
+through every course but as you notice some of these are actually in other IBM certificates such as the IBM
+data sign certificate and that is also why you'll see some courses with 30,000 ratings and some courses that
+barely have 200 it's that they're part of other programs as well so they take the ratings from those programs
+now I think this one is a pretty comprehensive course and if we do look at the reviews there are 4,200 reviews
+for the 4.6 rating and two of these 13 courses are also practical projects with one python project and one
+final Capstone project so you should at least have two projects in your portfolio when you complete this one
+building a portfolio early is definitely going to help you on the job market and I don't really have anything
+negative to say about this one I do think that it's going to teach you a lot of the core data engineering
+skills but is it going to help you get a job in data engineering right away I would say no it's still quite a
+short course and most people that get into the field either have some experience or degree and if you don't
+then continue learning or get into another data role and then you can progress from there and eventually reach
+your goals next we have a Google specialization and it's data engineering big data and machine learning on
+Google Cloud platform now gcp is a cloud computing platform similar to AWS and Microsoft Asia and in this one
+you'll focus on data engineering but do it specifically with Google's own cloud so this one is for you with
+some experience in data engineering and you're specifically looking to focus on Google Cloud platform you
+don't need to be an expert but you do need some basic understanding of the concepts that you're going to be
+working with in this course it's pretty short at only 1 month at 10 hours a week so it's basically 40 hours
+and there are five different courses the first one teaches you big data and machine learning on Google Cloud
+the next one focuses on data lakes and data warehouses and then building data batch pipelines and then
+resilient streaming analytics systems on Google cloud and finally it's smart analytics machine learning and
+artificial intelligence so again who should take this course I think it's somebody who's looking to specialize
+in this platform with some experience of data engineering you don't need to be an expert ER but if you're
+looking to learn the fundamentals from scratch I don't think that it's the right course the next one is even
+better though and I'll explain why it's the Microsoft Asia data engineering professional certificate this one
+is also intermediate level and you should have some understanding of data engineering and tools SL programming
+languages like SQL python or Scala it is 3 months to 10 hours a week so it's pretty short as well there are 10
+different courses in this one all of which focus on data engineering tasks and Microsoft as the interesting
+thing here is the final course which is called prepare for DP 203 now DP 203 is also known as Microsoft
+certified Asia data engineering associate it's a real certification that you can take on Microsoft's website
+where you basically take a formal exam viewed by a proctor and then you pass and you become certified by
+Microsoft and the thing is that this entire program is preparing you for this certification so while it's
+giving you a professional certificate that teaches you everything it is also giving you the option to prepare
+for a real certificate ification if you want to take it and that is probably the main benefit if you're
+already taking a course then why not take a course that specifically prepares you for an industry recognized
+certification now of course make sure that you look into this one and see that it's something for you I talk
+more about the certification in my data engineering video and I'll show you how to find this video at the end
+of this video because I've still got a lot of great certificates left to show you number four on the list is
+from Duke University and this one is one of the most prestigious schools in the US and now you can take a
+course from them get certified this one is called python bash and SQL Essentials for data engineering and it's
+4 months at 5 hours a week so the estimated workload is around 80 hours they don't require any programming or
+data engineering knowledge but you're going to learn a lot in the program so it's supposed to be for beginners
+they do recommend that you understand the basics of Linux but honestly it's fine as long as you understand
+what it is and there's a whole course about it in the program now there are four different courses the first
+one will teach you Python and specifically the panda library and how to apply to data engineering there's also
+a course about Linux as I said and Bash as well as scripting with python and SQL and finally web applications
+and command line tools for data engineering the main benefit here is that if you're looking to Learn Python
+bash and SQL this is a fantastic opportunity to do so while applying it to data engineering one major mistake
+that people make when they learn a programming language is that they learn it for a general use case but for
+example when it comes to python there's so much that you can learn you can use Python to literally build
+anything it's super versatile so if you focus on the data engineering aspect then you should specifically
+Learn Python for data engineering specialization is really the key to success and you don't have time to learn
+everything about python so I really appreciate that there are courses that actually specialize and focus on
+the skills that you want to learn now the next course on the list is also from duke and it's pretty similar
+and it's called applied python data engineering specialization I do have some pros and cons so wait a moment
+now this one requires a stronger mathematical Foundation and programming knowledge it's 5 months to 10 hours a
+week and it's slightly longer than the other one but this one actually focuses on elevating your coding skills
+with data engineering and using big data for decision making analysis Ai and machine learning there are only
+three courses in the program and it's not as popular and it's also pretty new but I think it's an untapped gem
+the first course is focusing on spark Hadoop and Snowflake and learning these tools the next one is
+virtualization Docker and kubernets and finally finally data visualization with python so who is this course
+for well I would say certainly not complete beginners since you have other things to spend your time on like
+the fundamentals but it's more for somebody with some experience that want to focus on these things I'm also
+slightly suspicious about their views and it's only received 3.7 and 3.5 and that's not terrible but for these
+courses it's not the best either I think it's because people enroll in this one thinking that it's going to be
+easier than it actually is but it does require significant experience especially on the mathematical side and
+when it comes to the actual curriculum I do think that it looks very good so if you are the right fit then you
+can definitely give it a try picking a course is a lot about personal preference as well as where you're
+starting from and what you want to learn and I want to hear your opinion in the comments share which one is
+your favorite and why and your opinion might help somebody else or help me make another video in the future
+I've shown you many Great Courses but the most important thing is just to get started and if you're confused
+just pick one and give it a try and I'll leave a link in the descript destion where you can try them out for
+free thanks for watching and good luck on your journey

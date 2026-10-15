@@ -1,0 +1,51 @@
+Title: I'll Teach You Data Engineering in 4 Minutes
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 6jXCgNG2JXw
+URL: https://www.youtube.com/watch?v=6jXCgNG2JXw
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:46:34+00:00
+
+Kind: captions Language: en data is everywhere but you already know that but do you know who's responsible for
+all of this data well it's the data engineer there are lots of roles like the data analyst data scientist and
+machine learning engineer that use data but for them to be able to use this data and actually make it useful
+somebody needs to build a system to collect and store it and that is where a data engineer comes in the thing
+is that it kind of works like a pyramid the data engineer lays the foundation and if the foundation isn't good
+the entire thing is going to collapse now hopefully the data engineer of your company is as good as the ones
+that build the pyramids because they've been around quite a while so what are the key responsibilities of data
+Engineers well the first thing is data collection and this basically means that data Engineers will create
+pipelines to store data from various sources it could be a company database the data might be available
+somewhere else but the purpose here is to get it all into one place where we can really understand it and
+store it more properly and actually make make it useful and that brings us on to the second part which is data
+storage it is really important that data is stored securely and in a matter that makes it accessible for other
+people in the organization that want to use this data for example to make important decisions and conclusions
+now we can't always store and use the data right away so we may have to transform this data and this is also a
+key responsibility of data Engineers they may clean and transform the raw format into a format that can
+actually be made useful for the company it is also all about about data availability and you want the data to
+be available to data scientists and to analysts and machine learning Engineers for whatever you need it for
+now let's talk about the skills and tools that you'll actually need to become a data engineer some of the key
+tools that you should know are SQL or SQL used for managing databases more specifically relational databases
+and in general a strong understanding of database systems and different forms of architecture it is also
+helpful to be strong in a programming language like python which is widely used as well now one thing that's
+becoming more and more important in data engineering is the use of cloud as it's becoming more popular in
+companies in general large data sets are the New Deal and therefore we need to know how to deal with them for
+that reason it's great to know a Cloud solution for example AWS or Google Cloud platform or Microsoft Asia the
+most popular ones are AWS and Microsoft Asia but there are also a lot of other good Alternatives and some of
+the other tools commonly used are Pache Hadoop for processing large data sets and also spark for data process
+processing I recommend this website where you can actually see the skills that our employers are looking for
+directly on the site and the data is scraped directly from real job listings so that you actually know what
+they're looking for on the real job market not just what some random guy on YouTube is telling you although I
+do try to base my opinions on real data now how do you break into Data engineering well there are of course
+many many ways just like with any job and it depends on your prior experience or education or lack of
+Education many data Engineers will have a bachelor's degree at least in for example computer science or a
+related field but also other degrees like a master's can be pretty common as well some people go directly into
+Data engineering whereas other people go from another data role or some other technical role and then
+transition into Data engineering this might also be a better option if you don't have a strong educational
+background or you know solid degree as it can be quite difficult to get your first job without a degree in
+data engineering if you're starting out all in all I think data engineering is a very very exciting field and
+it's only going to grow in the future and I wish you all the best starting your career in data engineering or
+perhaps you're more interested in data science or data analytics thanks for watching this video please drop a
+like And subscribe if you did enjoy it and also somewhere on the screen here there should be another video
+that I think you might be interested in or at least a YouTube algorithm think so so check it out somewhere
+over here

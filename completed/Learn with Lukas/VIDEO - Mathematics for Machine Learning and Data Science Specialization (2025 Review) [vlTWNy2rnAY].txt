@@ -1,0 +1,80 @@
+Title: Mathematics for Machine Learning and Data Science Specialization (2025 Review)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: vlTWNy2rnAY
+URL: https://www.youtube.com/watch?v=vlTWNy2rnAY
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:25:54+00:00
+
+Kind: captions Language: en can you learn all the math you need for data science and machine learning in two
+months in two months you absolutely don't have time to learn everything that's just the honest truth but you
+also don't need absolutely everything what if you only wanted to learn the most useful things that actually
+gets you a job machine learning has become this VIP Club that people believe is so hard to enter and for good
+reason but I kind of want to break that barrier down a little bit today but math is fundamental to data
+science and machine learning and if you don't have the appropriate math skills you're not going to get a job
+companies are going to laugh at you whether you have a degree or not and that is why I'm so excited to review
+the mathematics for machine learning and data science specialization on corsera you don't need a degree or any
+experience other than a basic high school math education to take this course and it's going to quickly cover
+the fundamental math for machine learning now I'm going to go through this one and everything you need to know
+about the specialization from the time to completion the cost the exact things you'll learn and what math this
+course actually contains but perhaps more importantly why they actually teach you these skills and how they
+can help you you get a job so the course is relatively short and it's only 3 months at 5 hours per week so if
+you do spend a bit more time each week you can definitely get this done within a month learning the
+fundamentals of mathematics for machine learning in a month sounds like a great proposal later I'll talk about
+whether this course is actually enough to get a job though because it does depend on a few different things
+the price is around 50 bucks a month depending on your location they do also offer financial aid for those who
+cannot afford it so if you do it in a month it's literally 50 bucks for everything so what are you going to
+learn in this course more exactly according to corsera you'll get a deep understanding of the math that makes
+machine learning algorithms work because machine learning is built on math and logic so you get to understand
+the relevant mathematical concept that machine learning Builds on next fundamental skills that employers
+desire helping you Ace machine learning interview questions and land your dream job now that sounds like a
+great sales pitch but getting a job is not just about how well you can talk about machine learning during an
+interview later in this video we'll talk about how to use this course to actually get a drop and finally
+statistical techniques to empower you to get more out of your data analysis when it comes to the math in this
+course you're going to be learning four main things we have a calculus linear algebra statistics and
+probability now these are huge fields of mathematics but everything is not that relevant for machine learning
+so it's a very specific part of it the skills they list in this course are bean statistics mathematics
+although I'm not sure how that helps us it's pretty basic statement linear regression machine learning also
+big surprise right and probability the first course is called linear algebra now linear algebra is the study
+of vectors spaces and Transformations it is one of the building blocks of machine learning and data science as
+it's kind of like the language for describing patterns and relationships in this first course you'll work with
+systems of linear equations and solving them as well as vectors and linear Transformations and finally
+determines and Igan vectors this first course is around 21 hours and has a 4.5 rating what about the calculus
+course it's 25 hours and has a 4.8 rating waiting and you're obviously not going to be able to learn all of
+calculus in 24 hours but you'll start to grasp some of the most useful Concepts and it's going to be very
+helpful if you have some experience here because again calculus is a huge concept there are usually multiple
+courses about this and 25 hours is not going to be enough to learn the core skills and actually be able to
+apply them but you can definitely learn some of it in general calculus is about understanding change you may
+recognize terms like derivatives integrals and so on and calculus basically helps us understand change as well
+as predict future Trends so very relevant for machine learning in week one it's all about derivatives and
+optimization and then we move on to gradients and gradient descent finally optimization in neural networks and
+Newton's method the final course includes 28 hours of digging into probability and statistics specifically for
+ML and data science probability provides the framework for dealing with uncertainty and more specifically the
+potential outcomes and estimating the likelihood of these potential outcomes which is essential for making
+predictions in machine learning statistics is also important as that helps us understand and prepare the data
+we can use statistical techniques to get insights from the data which helps us to understand and evaluate it
+week one of this course is an introduction to probability and the different types of probability distributions
+for example the binomial distribution and the famous normal distribution week two goes deeper into these
+distributions as well as distributions with multiple variables you can describe them by their mean median mode
+but also things like varians skewness and crosis and more then you'll get into sampling and point estimation
+and here's where you start to focus on on statistics rather than probability you learn about samples
+population and Core Concepts and theorems finally you'll dig into confidence intervals and hypothesis testing
+now I'm going to jump straight to the pros and cons of taking this course as well as my final recommendation
+and I think it's a great course it helps with lowering the barrier between machine learning and most people
+that's already very high and the course is Affordable it's fast and it comes in a flexible learning format and
+you're learning from the best at Deep learning AI but let's talk about who I think the course is good for as
+well as some of the downsides the TR truth is that if you haven't studied this kind of math before it is by no
+means perfect it's doing its best but ideally you would have to go back and study these as complete courses
+for example at a college but I still think that it's going to give you a nice introduction to the fundamental
+math of machine learning and that's really valuable in itself you can then study more and fill in the gaps as
+you go because if you want to get a job in machine learning you'll often need a degree and some experience
+anyway so this course is definitely not enough to get a job unfortunately right away of course there are
+different paths that you can take but just keep that in mind the person that it's perfect for is someone with
+a degree that's taken some relevant math courses and this will freshen up your memory a lot and also help you
+apply that to machine learning and also teach you know some data science and machine learning aspects if
+you've studied it before you'll look at it with a pair of new eyes that now make you think about machine
+learning it can also look good on your resume to show that you've taken some extra time to learn the
+fundamentals good luck on your journey and I'll leave a link to the specialization in the description with a
+7-Day free trial as well as any promotions going on right now thanks for watching and I hope to see you in the
+next video

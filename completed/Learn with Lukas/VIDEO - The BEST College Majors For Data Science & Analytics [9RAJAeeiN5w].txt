@@ -1,0 +1,85 @@
+Title: The BEST College Majors For Data Science & Analytics
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 9RAJAeeiN5w
+URL: https://www.youtube.com/watch?v=9RAJAeeiN5w
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:43:56+00:00
+
+Kind: captions Language: en in this video we're going to talk about the best college degrees for a data
+science so if you're looking to move into the field and get a job after college for example as a data
+scientist a data engineer machine learning engineer or even a data analyst we're going to go through what
+degrees are best for you now this is not an easy thing to research because there are so many different ways
+and so many different degrees that you can take and there are people in data science that don't even have a
+degree at all so I want to give you this one just as a disclaimer that there's not just one way but I'm going
+to show you some degre and some paths that are proven to work for people we're going to talk about the college
+degrees themselves and then we'll also talk about the electives as well as some other courses and different
+things that you can do during your time as a student because it is not just about the degree itself it is also
+about all the other things that you do in addition to the degree to be able to see success as soon as possible
+after you graduate and actually get a job in data science our first candidate on the list is surprisingly
+computer science now computer science is probably going to be the most popular degree of all of them that I'll
+talk about today and there's a good reason for that the thing about computer science is that it gives you a
+solid foundation in programming algorithms data structures software development and even kind of introduces
+you to some of the data science aspects you'll often get to work with cqel a little bit you'll know about
+databases and all that is going to be very useful now I do want to emphasize that everything in this degree is
+not going to be absolutely essential for data science and it's a very General Degree kind of like the business
+major but for it but it can still be really valuable especially if it's something that you're interested in
+after completing a CS degree you can move into many different fields and many different careers I'm actually
+making another video specifically on the different careers you can break into after CS degree all right so
+number two is going to be statistics the important thing here is that you also learn many skills that are more
+applicable to the kind of more advanced roles in data science and I mean it feels a little bit weird to say
+that because all roles can be advanced in their own way but for example if you want to move towards research
+or you want to move towards data scientist machine learning engineer then you'll have a really solid
+foundation for those jobs of course you know you'll have to study some things as well but you're building a
+really solid foundation now of course you don't need to specifically study statistics to get a solid
+foundation and even when it comes to the mathematics part there is also the mathematics degree and that one
+can be really helpful as well it can be especially helpful if it includes courses in for example Applied
+Mathematics probability and also statistics which are more you know specifically relevant to data science
+something to consider is that if you're coming from this background you're going to have it a little bit
+harder and a little bit easier than a computer science major for different reasons you may have a more solid
+understanding of the underlying math and statistics but you may also be missing some of the Practical
+implementation for example programming and you know being able to work in different programming languages so
+whatever Direction you come from there will usually be something that you have to kind of you know fill in the
+gaps well actually there is kind of one perfect degree which I'll just mentioned before and that is of course
+the data science degree now the downside to this one is that it's very specific to data science and if if you
+want to do something else then you're not really going to have the same opportunities as for example a CS
+major it is also a much newer degree and not offered in as many places at all compared to a CS or you know
+even a math or statistics degree now so far it's mainly been about math and computer science degrees but there
+are also a lot of people with all sorts of degrees for example we have economics and if the program offers
+certain specializations which we'll talk about later they can be more useful than in other cases so it depends
+on the economics degree that you're taking the thing is that economics degrees often involve data analysis and
+some form of modeling as well as statistical methods it can also give you a little bit more insight into
+specific areas if you want to work in a specific field because data science can often be a lot not just about
+understanding the theory and methods but also how to make it useful for the company and apply things to real
+world problems it requires multiple skill sets of course depending on the job now next I want to talk about
+engineering degrees and there are a lot of different engineering degrees and I might make another video on
+that as well but they'll also give you that quantitative and solid foundation which can help you in data
+science of course again you'll have to learn many of the skills on the side and it's not just going to be like
+a degree where you learn the programming language or you learn how to build a machine learning model that's
+obviously something that you'll do on the side but it can still give you a solid foundation to be able to
+learn these things by your own I also want to talk about it degrees because whether it information system or
+we're talking about you know I information technology these ones can also give you a solid foundation and
+teach you about database management and more but of course a lot of things are not going to be exactly related
+and I think that's completely fine because you don't need to have a super specialized data science degree to
+work in data science and I think that's one of the patterns that we're starting to see at this point now part
+two is something that's also really important because in addition to the major that you're taking it is also
+important to consider taking specific elective courses that can enhance your data science skills here it is
+going to be a lot about some courses in programming you know for example in python or R and there are some
+very popular languages for data science you might also be able to focus a little bit more on band statistics
+or modeling as well as machine learning and AI if that's something that you want to focus on there's also
+database management and SQL which are absolutely key skills as well as data visualization and Analysis
+especially if you want to more you know Focus towards the data analyst job or something like that now I want
+to talk a bit about the degree itself and whether you actually need one when it comes to the skills you can
+actually learn these things by yourself and we really live in an amazing period with an abundance of resources
+online and there are very few things that you cannot learn online for free or at a local cost so why do people
+then get degrees anyway and well it's because first Society pressures you to do so and there are many
+employers that value degrees and will sometimes only look at candidates that have a bachelor's or even a
+master's in some cases now if you don't have a degree and you don't want to get a degree or you can't then I
+still don't think that you should give up because there are ways to break into data science even without a
+degree assume that it's going to be hard even if you have a degree but especially if you don't however I do
+think that if you're someone that really wants to break into the field and you're passionate about it that I
+believe in you so good luck on your journey and I hope to see you in the next video and if you did enjoy this
+video make sure to drop a like And subscribe so that you receive my new videos every single week and also on
+the screen somewhere here there should be another video for you to watch selected by the YouTube algorithm and
+yeah thanks for watching I'll see you in the next video

@@ -1,0 +1,95 @@
+Title: The Full Data Analysis Process Explained For Beginners
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: 5fHUbmRphPM
+URL: https://www.youtube.com/watch?v=5fHUbmRphPM
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:39:14+00:00
+
+Kind: captions Language: en this is the only video you'll ever need to learn the data analysis process I'm
+going to share these six simple steps at data analyst will go through you don't need any experience with data
+analysis to understand these steps so let's get started in the first step of the data analysis process we need
+to Define our objectives which are the goals of our analysis this is absolutely critical because it will guide
+the entire analysis and make sure that we focus on the right things there are often a lot of conclusions that
+can be drawn from the data but we only need what's relevant for our task at hand that is why we Define the
+question or the problem they're trying to solve and in some cases it's clear right away but often you'll have
+to communicate with stakeholders in an attempt to figure out the underlying question we're trying to answer in
+some cases you might formulate a hypothesis that you wish to test you believe that you should stock 300% more
+inventory to prepare for Black Friday that's a pretty good hypothesis now go and check the actual data from
+past years go and verify it and adjust your recommendations accordingly the next step is to gather the data
+that you need now data can be in all sorts of forms and some are way easier to gather and work with than
+others your job here in the data analysis process is to identify these different sources where your data
+exists it could be in an online database it could be company records that you've stored in the past that
+already exist in the company or it could be in some other public data set many organizations and governments
+perform studies and publish this data for anyone to use of course sometimes selling it and in some cases you
+might have to conduct surveys or interviews yourself to get the data that you need let's say that you want to
+know what your customers think about your company then it's probably a good idea to collect that yourself CU
+otherwise you're not going to find it anywhere you can also scrape and collect data from websites and the
+internet but that's a whole different realm in all cases it's very important to verify the usage rights of the
+data to make sure you stay within the legal Frameworks or issues could come up creeping up there have been a
+lot of noise about recent development in Ai and how that complies with data privacy laws and different
+copyright laws and other ethical guidelines in general and I think it's going to be really interesting to see
+what happens there now it's also critical that you understand the size and the form of the data to ensure that
+you have the means to store and process it for more advanced projects this is where a data engineer may come
+in who kind of works with the infrastructure and collecting of data and more specifically the next step in the
+data analysis process is to clean our data and the thing is our analysis is really only as good as our data
+allows it to be and if our data contains errors or other issues it could lead to bad analysis and therefore
+bad decision making so let's avoid that now there are a couple of ways to go about this and one way is to
+start looking for obvious errors in the data right away and correct them but sometimes the errors are not as
+obvious and there are techniques to deal with that but it's not just about removing errors I mean sometimes
+we're missing entire parts of our data let's say that we have a customer with no email address no phone number
+nothing then we really don't have a complete customer record in our data and we have to consider whether we
+could try to fix this and recover some of the information or just delete the entire customer from our data set
+there are different ways to deal with it depending on the circumstances another error that often comes up is
+about formats and data comes in lots of different formats and we need them to be consistent so that we're able
+to compare customer purchase dates with each other for example they need to be in the same date format this is
+called standardization and there's also the aspect of duplicates I mean a customer could have been entered
+into the database twice when they buy when they bought two different things and we also have to remove these
+duplicates or we'll go and spend money and think that we have more customers than we actually have all right
+so now the data is as clean as possible so we can move on to data processing We Begin this step with some
+something called a data transformation and this basically includes modifying data to a suitable format or a
+structure that we can use for analysis the data is already clean and now it's just about getting it into the
+right format we can do simple transformations in Excel using pivot tables or way more advanced Transformations
+using for example popular programming languages like R and python this is also where we start to organize data
+in a meaningful order and try to filter out irrelevant parts of our data set because a data set can be huge
+and have lots of different things we can look at but if we're only trying to answer or analyze a specific then
+it doesn't make sense to look at everything at the same time it's just going to get way too messy so that is
+why we sort and filter the data to show exactly what we need for upcoming analysis in the best possible way
+you can also group parts of your data into categories or smaller segments to do specific analysis on those
+which is called a data segmentation and a really important term you should know is data aggregation this is
+about summarizing data for example in Excel we could do this using a simple formula to calculate the average
+of a column or the total that is a form of summarizing a form of data aggregation now we're finally at the
+analyze step where we get to draw our conclusions and acquire insights from our data and now there are many
+different forms of analysis techniques and based on your initial question or problem as well as the insights
+you're trying to get and the tools you have available you can decide which one to go for often when you have a
+data set you'll want to spend some more time trying to understand it better first and then decide to do what's
+next and this form of analysis is called exploratory data analysis or Eda we also have descriptive analysis
+which is the basic and commonly used technique used to understand the past or the current state of something
+there's also predictive analysis and surprisingly it is used to make predictions based on past data there's
+also time series analysis which is focusing on how different variabl change over time and again these are just
+some common examples there are many different analytical techniques and you'll have to find one that works for
+you moving on to the next step of the data analysis process but this one is a little bit different because for
+a long time now we've just dealt with the data and tried to extract useful insights but now it's time to
+actually share them with our stakeholders our boss or clients colleagues whatever because nothing that we find
+is going to be as useful as possible if we're not able to get these insights to the right place and to the
+right people where they're actually needed and that is why we use something called visualizations which for
+example are charts and different graphs to present our findings we can use tools like Excel Tableau or python
+again to create effective data visualizations there's a reason why they say one image tells more than a
+thousand words and the same applies to data visualizations now we're not just going to make beautiful graphs
+we also compile our findings in a report this is something that we often should have done along on the way as
+well as well as you know documenting our procedure so that it can be recreated and traced think about the
+scientific method this is data science after all the people we share our findings with are often not data
+experts so perhaps they're not even that technical at all so we Tred to break down complex findings into
+simpler terms to make it easier for anyone to understand now your stakeholder could be super technical and
+they want to hear all the details but in most cases understandably they just want a concise and effective
+version of your insights here is also where your presentation skills come in now presentation it is not just
+about the words that you say but it's about how you actually communicate and this is something that you can
+practice and train just as I'm doing right now and let's take it all from the beginning so first we Define the
+question We Gather the data we clean it we process it we analyze it and finally share the results and perhaps
+also we take some action on these results but I want to emphasize that it's not always this straightforward
+and all the steps are not always necessary and you may also go back and forth between the steps it's just an
+overlying concept it's not you know the specific details for each case I'm going to leave some helpful
+resources in the description including a free data analyst road map for beginners with no degree or experience
+required thank you for watching this video and I'll see you in the next one which should be on the screen
+somewhere here if you can find it I would love to see you over there

@@ -1,0 +1,133 @@
+Title: Data Analysis JUST Became TOO EASY!! (Datalab Review)
+Channel: Learn with Lukas
+Type: VIDEO
+Video ID: l7xqU9qNpiE
+URL: https://www.youtube.com/watch?v=l7xqU9qNpiE
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T10:34:03+00:00
+
+Kind: captions Language: en in this video we'll talk about a new and really exciting way to get better
+insights from your data in a more accessible and faster way this video is sponsored by data camp and today I
+will review their new data lab platform but don't worry you can use it for free as well and this will be
+valuable regardless of your level and to give you some context and help you understand this platform first let
+me tell you about data Camp itself data Camp is an e-learning company focusing on data science skills as you
+might guess by the name I've made multiple videos on data camp in the past and for good reason because it's
+one of the most popular learning platforms with over 11 million Learners it's affordable easy to use and they
+have a ton of other courses and different stuff to help you learn data skills and become a data analyst a data
+scientist a data engineer and many more roles now why am I telling you all of this well it's highly relevant
+to the data lab platform that they've been working on they know data analysis inside and out and now they've
+basically combined all of this knowledge into one platform to make it even more accessible and way easier so
+in this video I want to go through everything you need to know to decide if data lab is something for you and
+to get started working with data lab we'll cover exactly what it is its essential features and a simple
+product demo to show you what it looks like when working with some data and trying to uncover some insights
+using data lab I will also cover some common questions you might have when you get started and this video will
+be good whether you're somebody with some experience just looking to learn about this new platform or a
+complete beginner looking to level up your skills and learn how data LAB Works because the truth is that the
+landscape is changing quickly and having a platform like this can be a GameChanger so whether you want to use
+it right now or perhaps in the future you should definitely be aware of how data LAB Works all right let's get
+to the basics data lab's mission is to translate data into insights literally the goal is to break the barrier
+between data and these different insights from our data and with these different insights we can make Better
+Business decisions which is really really precious as you probably know data is often called the new gold
+because companies can get valuable data to help them improve and actually beat their competitors and make more
+money now data lab itself is basically a way to lower the technical barrier making it accessible to more
+people and it can also help you do these tasks way faster all right so let's move on to some of the key
+features of data lab you can do many different things to accomplish your goal of translating data into
+insights and data lab is built in many different features I will cover some of the most important ones you
+should be aware of before you get started first up on the list we have ai and AI is literally everywhere right
+now and it's what everyone is talking about it can definitely be a buzzword but it can also be really useful
+if you leverage it properly in this case data lab has a feature where you can chat with the AI which is
+basically an AI chatbot just like when you're writing to a chatbot you can have a conversation ask questions
+get detailed answers which can help you get better insights without having deep technical knowledge another
+key feature is the collaborative environment there are definitely projects that you do on your own but a large
+part of using it in companies is the ability to work with other people data lab does have a collaborative
+nature which means that you can work together easily and review each other's results we also have something
+called a data connectivity and this is absolutely crucial because if you have a platform like data lab that
+does not connect to suitable data sources then it's not going to be very helpful data lab can connect to lots
+of different data sources and some examples include basic CSV files or different Google Sheets data but you
+can also connect it to snowflake or big query and many different other sources and that is going to be a huge
+plus because it is very crucial to get the correct data that you need into the system so that people can
+analyze it and draw the conclusions that you're looking for and if you're not able to you know extract the
+data and actually bring it to where you need it then there's no purpose in using a tool I also just briefly
+want to mention something that we'll get into a little bit more later but this is going to be interesting for
+those of you who are more technical who want to have more control over what you're doing and who are perhaps a
+little bit afraid that a tool like this is not going to give you the complete flexibility and the full control
+that you're really looking for if you already know how to code and you're used to working with code it can
+feel really discouraging to give away all that control to an AI or an assistant but in this case you don't
+have to do that just like any generative AI data lab is is not going to be perfect and instead of denying that
+data Camp has actually taken the better path they know that there might be some mistakes and they know that
+people want more control and that is why data lab is actually powered by code so the actual assistant writes
+and runs code that you can edit review and work with you're actually not giving away that autonomy and you're
+still keeping the poor responsibilities yourself and you can always check all the work now before we get into
+a real demonstration I also just briefly want to mention security and one major concern that people usually
+have especially when working with AI tools which has been a massive topic of discussion lately is security
+it's all fun in games when you're working with some test data that doesn't really matter but to make something
+really useful you have to be willing and comfortable using actual real business data whether that's your data
+or some company data and that is why data security and data privacy in general are so vital when it comes to
+tools like this to ensure this data Camp actually provides Enterprise security and they are certified
+according to the ISO 270001 certification and that basically means that they've been certified according to
+the relevant ISO standards and that they are taking the necessary actions to secure your data some specific
+ways that they do this are through encryption at all stages and they also have some secure signin options and
+user control for organizations for example when you don't want everybody to have access to all of the data
+that you're working with at once and again these are just some of the many actions that they take regarding
+security it is really really important and I highly appreciate that they focus on this so you can also read
+more about this on their own page all right welcome to a quick demonstration of how data LAB Works and its
+capabilities so I personally think that the best way to learn something is by actually doing and applying it
+so I'm just going to show you how it works a very simple example but just to give you a little bit of insight
+into how you can use data lab so as you can see right here I'm on this kind of main page of data lab and you
+can access this through the link that I'll put in the description it is very simple to access and here you can
+see a couple of different things so I've already created a notebook but we're going to do this together as
+well and as you can see over here this is just the workbooks that you can see or workbook it's called workbook
+not notebook sorry and then you can see search databases templates data sets and all of this is basically
+stored so if you have something like this you can import this connect your database whatever you want to do
+and you can also see the different templates here some different things uh to give you an example of what you
+can do with the data labs and different templates and also some test data sets that you can work with uh if
+you want to and many of these are from kaggle for example so let's say you want to work with the video game
+sales data which I've actually talked about in the past you can just import that and work with that right away
+now in this case I'm going to show you an example so what we're going to do is we're going to click on new
+workbook and now we just created a workbook and I'll call this new new workbook right that's a pretty good
+example for a new workbook next thing that we're going to do is we're actually going to be using these like
+generative AI style prompts and we're going to click this this is basically the chat so we're going to click
+on analyze ticket sales and it's basically going to start this for us and just show us an very basic example
+so you can see that when I clicked on this it showed me how many events are happening in different cities
+showed the top 20 on a graph and it basically included this data set and you can see that what it did find out
+was that it's giving us an answer here the top 20 cities with the highest number of events are held by New
+York City with 2,647 and this is correct according to the data followed by Los Angeles with 312 Las Vegas 300
+very simple but just giving us a very clear answer which is exactly what we're looking for we're looking for
+the top 20 on the graph and you can see that we're getting this right here now I'm actually going to be asking
+this another question which is going to be can you show the top 20 cities with the most events on a graph
+let's so let's see its abilities to graph this now we're going to wait a little bit it's going to be analyzing
+writing the code and then executing the code and then returning a graph to us and as you can see top 20 cities
+with most events just as we asked for and you can see that New York City is leading here we have Los Angeles
+Las Vegas just like the data set that we were looking at now there are many different things that you could do
+with this data but in our case I'm quite curious you know when is this data from do we have any information
+about that so I'm going to ask when is this data from or this data set does not include specific information
+about the time period covers to determine the time frame of data we will need to examine different tables so
+sure let's do that so now we actually receive that the data covers events that took place throughout the year
+2008 from January the 1st to December 31st 2008 and basically it's really important here to also verify this
+of course you want to go into Data check it yourself but still we able to get these insights very very very
+quickly and that is kind of the the main benefit you're basically working with an assistant and having
+somebody help you out you still need to do work of course and you still need to verify everything you still
+need to make sure that you're doing the right thing but it's basically like having an assistant that does some
+of the hard tasks for you or some of especially some of the repetitive tasks now what I'm going to be doing
+next is I'm actually going to click on code and I want to show you the code that it's been writing to do this
+and this is very very very interesting so as you can see this is the basic code that it's been writing you can
+see here that well this is the main data set itself for generating the um as you can see right here this and
+then you can see here that the next thing is just importing plug L it's basically writing some python code
+here it's creating a data frame in pandas to create this graph so it's basically being created here then it's
+being plotted and now finally what happened was that use some SQL code to acquire the final thing that we can
+see down here with the start date and end date and what's really cool as well is if we want to you know modify
+something let's say we want to set the limit to 30 we can actually do that and we can update this we can run
+the code and it's going to change it so we can see the top 30 ones so basically that is how it works also if
+we want to put in another city or we want to change something else or just rename whatever we want to do we
+can do this let's say we're looking to rename top 20 cities with most events and all of these cities are in
+North America so what we could do is we could put let's say top where is top 20 cities in in North America
+with most events and as you can see we just run this code and there we go and of course this can also be
+modified by AI but I just want to show you that you actually have full control over the code and this is one
+of the main main benefits with data lab to get started with data lab and try it out yourself you only need to
+create an account at data camp and it's completely free to create an account and get started and you'll be
+able to get up and running right away they do also offer some premium plans for those who want to access all
+of the features right away but if you want to try it out and see if it's something for you then I definitely
+think the starter version will be sufficient and that is completely free to use I'll leave a link to data lab
+in the description where you can try it out for free thanks for watching and I hope to see you in the next
+video
