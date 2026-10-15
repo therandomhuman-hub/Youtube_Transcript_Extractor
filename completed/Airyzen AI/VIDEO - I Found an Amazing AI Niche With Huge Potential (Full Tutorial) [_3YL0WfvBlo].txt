@@ -1,0 +1,26 @@
+Title: I Found an Amazing AI Niche With Huge Potential (Full Tutorial)
+Channel: Airyzen AI
+Type: VIDEO
+Video ID: _3YL0WfvBlo
+URL: https://www.youtube.com/watch?v=_3YL0WfvBlo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T15:58:41+00:00
+
+Kind: captions Language: en I made these viral guess the challenge by emoji videos using AI and a single free
+master prompt. In this video, I am going to show you exactly how to make them step by step. And yes, I'm
+giving this prompt to you absolutely free. No passwords, no tricks. Just make sure to watch this video until
+the end so you don't make any mistakes while creating your video. Let's get started. Let's head straight over
+to Claude AI. Copy the master prompt from the description. Paste it right here and hit enter. Claude will
+instantly give you 10 different categories. For this video, I'll type one and press enter. Now, Claude gives
+us 10 fresh ideas. Here is a quick tip. If you don't like any of them, just type more ideas and Claude will
+give you 10 brand new options. I'm choosing idea number one. Claude will now give us two things, an image
+prompt and a video prompt. Now, let's start creating the video. Copy the first image prompt from Claude and
+open Flow AI. Paste the text here and copy these exact settings for the image model nano banana 2.1 ratio 9-6
+and x1. Then hit enter. In just a few seconds, your base image is ready. Next, go back to claude and copy the
+video prompt. Inside Flow AI, click the three dots on your new image and click add to prompt. Paste your video
+prompt and change your settings to ratio 9 to6 model omni 1.1 flash 720p 10 seconds duration and x1. Hit enter
+and your video will generate. Now simply edit this video clip a bit in any video editor and you are completely
+ready to upload it to any platform you want. Check out the final result. >> Can you solve this country puzzle?
+Iceland. >> If you loved this workflow, make sure to hit that subscribe button for more easy AI tutorials.
+Grab your free master prompt in the description below. Try it out and I'll see you in the next

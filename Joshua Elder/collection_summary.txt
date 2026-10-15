@@ -1,16 +1,16 @@
 Channel name: Joshua Elder
 Channel URL: https://www.youtube.com/@JoshuaElderLive
-Last updated UTC: 2026-10-15T15:54:37+00:00
+Last updated UTC: 2026-10-15T17:09:13+00:00
 Discovered in current scan: 1737
 Manifest total: 1737
-Transcripts saved: 1525
+Transcripts saved: 1616
 No captions: 32
-Resolved items (saved transcript or explicit no-caption outcome): 1557
+Resolved items (saved transcript or explicit no-caption outcome): 1648
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
-Failures: 1
-Authentication required: 0
+Failures: 0
+Authentication required: 1
 Rate limited: 0
-Still discovered/pending: 179
+Still discovered/pending: 88
 Whisper fallback enabled: False
 HTTP 429 events this run: 0
 

@@ -1,11 +1,11 @@
 Channel name: Bahaa AI
 Channel URL: https://www.youtube.com/@BahaaAI
-Last updated UTC: 2026-10-15T10:18:22+00:00
-Discovered in current scan: 33
-Manifest total: 34
-Transcripts saved: 31
+Last updated UTC: 2026-10-15T15:59:52+00:00
+Discovered in current scan: 34
+Manifest total: 35
+Transcripts saved: 32
 No captions: 3
-Resolved items (saved transcript or explicit no-caption outcome): 34
+Resolved items (saved transcript or explicit no-caption outcome): 35
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
 Authentication required: 0
