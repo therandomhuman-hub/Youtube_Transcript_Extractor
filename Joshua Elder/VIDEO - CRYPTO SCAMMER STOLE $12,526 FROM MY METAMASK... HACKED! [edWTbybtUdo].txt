@@ -1,0 +1,152 @@
+Title: CRYPTO SCAMMER STOLE $12,526 FROM MY METAMASK... HACKED!
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: edWTbybtUdo
+URL: https://www.youtube.com/watch?v=edWTbybtUdo
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T23:48:46+00:00
+
+Kind: captions Language: en so i genuinely believe this is probably the most important crypto video that you
+watch all year because this is going to help you save thousands if not millions of dollars this year and
+potential lost crypto due to hackers or fishers online what we don't realize is many times we're giving access
+to our metamask wallet without us even really knowing it and i've been doing investigative work on this for
+the past three hours or so and finally figured out how i lost not only 12 192 dollars but then 334 dollars and
+then somebody else randomly lost dollars right here so i'm gonna break down exactly how this happened and how
+this information can save really your life when it comes to your finances when it comes to crypto so hope you
+get lots of value from this please drop the video like please subscribe to the channel because i'm documenting
+my journey showing you guys the successes the failures that go along with building a crypto business and a
+crypto portfolio so let's go ahead let's talk about how i almost lost or i did lose between twelve thousand
+four hundred and twelve thousand five hundred dollars so you can see that this is my you know this is my
+address right here for my meta mask wallet and this morning i went ahead and connected my wallet to one of the
+projects i'm a part of elephant money here i went ahead and connected and i wanted to go ahead and sell some
+and take some profits so i entered the amount right here i clicked on sell and for some reason the button was
+not working so what did i do i just grabbed the token address right here i went over to pancake swap i put it
+in here and i converted all of those funds to busd and you can actually if we jump over to my actual address
+which we'll do right here you can see where this happened okay so if we scroll down here and let's go ahead
+and let's find this transaction you can see this was more recent i decided to take out the rest of my funds
+and i'll talk about that in just a second but let's go to view all here and we'll be able to find this right
+here so took eleven thousand two hundred six dollars that i converted from elephant to binance busd and then i
+took some profits from drip i took some profits from the manor farm and you can see all the sudden right when
+i was about to send these profits over to binance they were stolen they went out to this address right here
+that you see on this page okay you can see there's twelve thousand eight hundred forty five dollars not only
+do they take two transactions for me but they took a transaction from this address too and this address is
+this one here right and so i'm like okay well what the heck happened how did somebody just randomly steal
+money directly from my metamask wallet i didn't go to any phishing site recently i didn't give away my keys i
+didn't do anything like that like what the heck happened so i wanted to see the similarities in the contracts
+that this address and my wallet right here interacted with now i couldn't see any specific addresses that we
+interacted with but i did notice that we have both interacted with busd projects so what i did is i took this
+address right here you can see this is the same address ongoing that's sending small amounts of usd to this
+guy's address here that was scammed as well and so what i did is i'm like okay let's go ahead and copy this
+okay so first of all i went ahead and i clicked on the actual address and then you can see the contract right
+here and i copied it and i just went over to google and i pasted it right here and i just clicked on this
+first listing and i came to this page and the search results show this contract address is for some busd miner
+now again we both got busd stolen from us okay he got 317 i got 12 192 and also 334. so thinking about this
+i'm like okay what was i involved with the last few months that had to do with busd well i've gotten into a
+bust machine i've gotten into um other busd projects uh bnb royal was one that just stuck in my head because a
+few months ago one of my business partners lost roughly twelve thousand five hundred dollars too which is
+weird that it was like right on the on the dot not only that he lost a bunch of cake too so what i did is i
+went over to let's go over to bmb royal and let's go ahead and let's connect with metamask so i'm going to go
+ahead and connect here okay and i'm going to go to busd royal this is one of the the daps that i got involved
+with later on and this was audited by hayes crypto which is a reputable auditor but they've later said that
+somehow i'm not sure exactly how this works bnb royal was able to create like extra pools and use those extra
+pools that hadn't been audited to steal people's funds okay i'm not sure exactly how the dynamics of that work
+but that's sort of what they did and they explained it on the hayes crypto website so i can type in i think i
+need to type in haze crypto here we go hayes crypto audit b and b royal and let's see if they it pulls up and
+shows uh the update of what had happened i'm gonna let that load for just a second and this is what we're
+gonna do this is crucial you guys this is going to save you so much time so much money and help you avoid
+stress and heartache and hopefully you guys don't lose what i've lost or even more some of you guys already
+have and i hope that this video saves those of you guys and gives you some peace of mind because i know a lot
+of you guys are like you don't want to use your metamask account right now because you're afraid that anything
+that you do anything that you deposit might just get stolen and taken away immediately i'm going to tell you
+how that happens so i'm going to click on claim here and i want you to watch what happens it says that i have
+a balance here and what they did scammers they and that's just a nice way of putting it you see that there's
+still money in the contract balance no there's not because if you click on verified contract right here you
+can see that the balance is zero so what they're trying to get people to do is think that there's a contract
+balance here think that they have busd to claim and they're going to click on claim and watch what happens
+look at this it says three of three transactions need to be completed okay now if i go back and look at these
+other transactions look give permission to access your usdc and when i click on edit permission look it has an
+unlimited amount of usdc that i will give them access to so every time i deposit usdc on the binance smart
+chain network i've given them permission to steal that okay so what they're doing is they're i click a button
+and then all of a sudden there's these transactions that i need to complete usually there's just one right but
+there's multiples and not just multiples but they're wow i just can't believe this they're pre-approving a
+limit of billions so i'm going to click reject on this and let me show you the other one let's go back to the
+other one give permission to access your ethereum again same number so i'm giving them a spend limit that they
+can take from my account if i were to confirm this okay click reject again i'm gonna click reject again so
+that's what's happening to people you get in dapps like this and this dap came out months ago and then once
+you go ahead and you verify and if i was to confirm one of those you wonder okay now i've given them access to
+my funds and i've created this agreement with my meta mask and with bmw royal how do i remove that agreement
+in other words and so just going down this rabbit hole and doing this research and thinking about these
+different projects that i've been involved with what i did after i figured this out and i actually figured
+this out about a month ago after my friend had gotten scammed and i'm like okay what had happened i didn't for
+some reason i had busd in my wallet even the past few days and bnb royal didn't take money from my wallet for
+whatever reason and it had decided to to happen today when i had the most money in my wallet so i don't know
+if they're watching wallets or what they're doing but let's go ahead and let's jump back here so what i did is
+i said so what i did is i went back to google and i'm like okay if metamask is connected to a website can they
+hack you right so i came across this article right here in metamask i scrolled down and i clicked on this link
+and it led me to this page right here i've been hacked scammed unauthorized transactions on my account it says
+if you were hacked this would most likely be due to a few possible reasons your computer was compromised with
+malware spyware you have visited visited a malicious fishing website you gave your private key or seed phrase
+secret recovery phrase to someone over your site didn't do any of these three but then i went down here right
+you gave a web three site smart contract unlimited access to your funds and when i saw that i thought about
+what had happened to my friend and then when i had done research on b b royal and clicked the claim button
+with this because i had a small amount of busd in my account at the time so if they were going to take money
+whatever i was willing to connect to the website and see so i could help him out so when i clicked claim it
+brought all those windows up and so it allowed me to kind of come full circle when i saw this i'm like this is
+what happened i gave a web 3 site smart contract unlimited access to my funds even though i didn't think i did
+because they didn't take any my busd the past few days and i got involved in bnb royal months ago so i'm like
+okay maybe i didn't give them access to my funds and he did he accidentally clicked confirm without really
+reading the fine print but here we are today and it happened to me so i went over to this dap starter io that
+it says to go to because you can check who you gave access to and revoke it here so i jumped jumped over here
+i clicked on check allowances now the problem with this is this is an allowance checker just for the ethereum
+network not for the binance smart chain network so here's the next thing that i did going down the rabbit hole
+even further i went ahead and i went to google and i typed in token allowance checker binance smart chain see
+google is my best friend i found this article i scrolled down it showed me all i needed to do was go to bsc
+scan dot com forward slash token approval checker here and it led me to this section of bsc scan and boom this
+answered all of my questions i went ahead and i connected my wallet i was able to see the approved amount
+these different agreements that i created with these different dapps and look at this right here i was going
+to wait until this video to delete this this is how i lost my phones today i gave them access on november 17
+2021 to take up to 999 million 989 of busd now that i know this when you connect to a website and you give
+them access to your funds when you just connect to the website i think you're fine okay as long as you don't
+sign any agreements or anything like i've done here just connecting to a website is usually okay but as soon
+as you start confirming transactions you don't know if you're just convert confirming the transaction for a
+gas fee or if you're confirming an approved amount that they can take from your metamask wallet you need to
+make sure you read the fine print so you know which one you're doing so what you can do here though is we can
+click on click to revoke so what i did is i connected my meta mask here and we're going to go ahead and we're
+going to revoke this i'm going to click on revoke i'm going to click on confirm and i'm going to click on view
+transaction and we're going to wait for just a second and once this is done then we're going to be able to see
+that it's not on the list anymore okay and they can no longer take more funds from my wallet i'm still going
+to be super cautious i'm going to start sending smaller funds um now what i decided to do because i mean i had
+taken a bunch of profit from this project unfortunately i love the project but because i took all my profits
+and now i'm at more risk because i took all the profits i could and now everything that i'm playing with is
+the money the principal money that i started with i didn't want to start over and hope that it's going to
+increase another you know 100 percent so i'm going to see if this drops if it doesn't that's okay but
+unfortunately i had to pull out of you know this portion of this project i'm still in stamp stampede and trunk
+but i'm no longer an elephant and this is why you know i got scammed and i want to mitigate my losses so all
+in all fortunately at the end of the day i lost about seven hundred dollars when it's all said and done which
+it could have been a lot worse that could have been principal amount that i lost but fortunately it was
+profits so i'm okay and uh you know today i could have the opportunity to make all that money back in another
+project and that's what i'm gonna probably attempt to do but if we jump back over here it looks like this
+hayes crypto it's not loading but i'm just going to type it in crypto b b royal scam let's see um yep here it
+is blog b b royal see if this pulls up now yep scam project detected bnb royal has been audited by hazecrypta
+but we have only audited the bnb pool now bnb royal has additional three pools which are not audited by hayes
+crypto with this the project owner maine has possibilities conduct unethical acts such as rug pull and
+withdrawing funds from the three other pools the owner has to leave their accounts as not responding
+responding to our messages so yeah this is unfortunate and look i'll be usd for my meta mask wallet gone this
+explains why my bs busd has gone missing and can't make claims anymore telegram account has gone inactive and
+another group opened the group is called bnb feed so they just pop up again and they scam more people so this
+is unfortunate but it's a very valuable lesson to learn i was thinking of just taking this and giving it to my
+my mastermind members but i believe that this is something that everybody needs to have knowledge on and
+everybody needs to hear because this is going to save you guys tens of thousands or millions of dollars so i
+hope this helps if you got value from this please drop the video like subscribe to the channel if you like the
+idea of making money with crypto and you know just following my journey so you can learn from my victory so
+you can learn from my mistakes and if you want more insight more knowledge as well i'm going to include some
+resources in the description below that you can check out again go ahead like if you got tons of value from
+this subscribe to this video and let me know in the comments have you been through a scam how much have you
+lost tell me your story below okay appreciate you guys love you guys this is josh elder signing off and we'll
+see you guys in the next video this is another you know just rule to not quit on yourself either keep going
+there's so many times i could have quit on crypto i could have quit on my other businesses but i didn't i
+didn't let one event define me it's not going to keep me from you know staying involved into projects and
+de-fire anything of that nature it's like letting one relationship that you may have had that went bad and
+sour define all your other relationships we're not gonna let that happen right appreciate you guys we'll see
+you guys in the next video take care

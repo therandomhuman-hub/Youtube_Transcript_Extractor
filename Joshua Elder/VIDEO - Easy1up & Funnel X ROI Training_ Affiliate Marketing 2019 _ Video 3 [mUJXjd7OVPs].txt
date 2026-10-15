@@ -1,0 +1,110 @@
+Title: Easy1up & Funnel X ROI Training: Affiliate Marketing 2019 | Video 3
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: mUJXjd7OVPs
+URL: https://www.youtube.com/watch?v=mUJXjd7OVPs
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T02:47:59+00:00
+
+Kind: captions Language: en all righty welcome to the next video in this video what we're gonna do is we're
+going to import the funnel X shared funnel for my account to your account and then we're going to import our
+email follow-up series okay so the first thing that you're going to want to do is you'll log in to your click
+funnels account once you're logged in to your click funnels account in another window then I want you to come
+back to this video and I want you to click the link below this video and that link is going to look just like
+this this is a share funnel link once you click this link it will import my funnel into your account and there
+will be a little progress bar it's a little green progress bar once that reaches the end it'll then say view
+funnel and when you select view funnel it will take you exactly where we were before it's going to take you to
+this page okay once you have that funnel imported what we want to do is number one we want to recognize the
+links that are at the top of each video okay so this first opt-in we've got a link right here the second you
+know this this video we have a link right here so on and so forth what we want to do is we want to take this
+email follow-up series and when we import these emails into our autoresponder you're gonna want to remove this
+link each of these links in each of the emails why will these are my links you want to make sure that all
+cells are tracked back to you and not me so what I've done is I've given you access to my funnel X email
+swipes which are gonna also be below this video you'll click a link it'll take you right to this Google Docs
+page right here and it'll say email one and then the second line right here will always be the subject of your
+email okay in other words this will be the headline that people first see when they check their email INBOX
+and when they click that email then they will see obviously the rest of the copyright here so in the subject
+line we want to enter this in and in the body we want to copy and paste this in there okay and then what we
+can also do instead of just having Josh right here you could put Josh and your name so in this case would be
+Josh and Sue if your name Sue right and so it'll show that we're kind of partnered together so there's not a
+disconnect when people come through your funnel okay so we want to make sure we get these imported we change
+out the link so for example this is email one and then this right here is going to be video one okay right
+below the opt-in so you'll click here and then you'll take this and you'll copy it now it's kind of an ugly
+link right now and so what we can do is we can actually click the funnel step Settings button right here and
+then we can change the path so if we wanted to change it to like funnel XK study you can see right here like
+funnel XK study one then we can change it to that and then we would update funnel step okay in my case I
+already have this path so I don't want to duplicate that so I'm just gonna put another one here for tutorial
+purposes and you're gonna be able to see that link right here so what you could do is you could take this link
+you can copy it and then you would paste it right here of course this is after you took the email and you've
+copied it and pasted it into your follow-up autoresponder okay so we might be using get response you might be
+using Aweber you might be using Carter what I want you to do is once again I want you to go to Google because
+I know a lot of you guys you've been around the block a few times you've joined different systems you've
+joined you know a system that promoted a weber and then another system that promoted get response and then
+another system that promoted car truck and so what you're just gonna do is you're going to type in so if it's
+a weber how to create follow-up email series in a weber okay and then how to create a follow-up email series
+and get response in car truck and what you could do is you can navigate in each of the back offices of these
+you know autoresponder platforms and there's usually a Help section that will show you how to import you know
+emails into the autoresponder so what we want to do is we want to take all these emails that we have here day
+by day I think I've got let's see how many days worth I have I have a total of let's see about nine emails and
+I'll be adding more here and I'll notify you guys when I do add follow-ups so we have nine so we can add up to
+nine here so we want to make sure we switch out these links with the links of each of these videos so this
+would be video - email - we change this link here and then we got email three video three four five six seven
+eight nine okay and I think this might be an extra one that I've got here for an for a email I have yet to
+import yeah which is this video here so I'll be putting that in a little bit later so you want to complete two
+right here and just follow exactly what I outline to you and then to connect your autoresponder after you've
+done that now we need to connect the autoresponder so it communicates with the landing page right here now
+there's a few ways to do this one way is to simply do it through integrations which we've pretty much already
+have done if in the last video I believe it was the last video you connected your autoresponder your API so
+communicated with clickfunnels once you do that you just click on integrations up here once you edit the page
+right so we click Edit Page right here we got to this page and then we're going to select the integration and
+if we've integrated it through the API you're gonna be able to see your autoresponder here and so in this case
+we're gonna select get response and then we're gonna go to action and we're gonna select add the campaign and
+then we're gonna select a list okay now assuming that you've created your first email autoresponder series
+right you went here you type this in how to create a follow-up email series in convertkit Aweber GetResponse
+whatever you're using then what's gonna happen is you're gonna create a new list and then you're gonna create
+a follow-up series for that specific list and what's gonna happen once you do that and we jump back over here
+what we're gonna do is we're going to select that list from the drop down menu so in this case I don't have a
+specific list and get response okay because I cancelled my get response account so what you're gonna do is
+since you've already integrated your autoresponder I'm assuming that you have and you follow the last video
+what you'll select is refresh list from API and then when you select a drop down you should be able to see
+your list appear right so you have to have a list to create a follow-up series to create a follow-up series
+once again I know I'm repeating myself you want to make sure you go to Google and type in how to create email
+follow-up series in whatever autoresponder you have once you do that and you simply select your list from the
+drop-down menu you select save right here you're good to go it's now connected the only thing that you need to
+do now is you need to delete this Josh elder right here and enter your name so whatever your website is if you
+have a website if you don't have a website you could just leave copyright 2018 and then of course at some
+point you're gonna want a privacy policy terms and conditions and earnings disclaimer and if you followed my
+automation segment of this this is where I show you how to do all this stuff so it's going to be in a separate
+module here in the membership site what I'll do is I will link a link down in the description that will lead
+you directly to that so you can make sure that you get your privacy policy terms and conditions earnings
+disclaimer set up now this isn't a must-have if you're using like if you're running solo ads this specific
+funnel that I'm giving to you I've used for free traffic for YouTube so it's gonna work best if you're
+leveraging free traffic from YouTube okay if you're using this funnel and you're sending it out as a solo ad
+you know that's great and everything but I haven't tested it out with a solo out quite yet okay so that's just
+something to keep in mind that each funnel is gonna work differently with each traffic source so I found this
+funnel to work extremely well with of course YouTube traffic so once you get this setup right and you save
+we're gonna go ahead and leave here we're going to need to create what's called a bridge video okay and I'm
+actually gonna show you exactly how to do that in the next video because what we want to do is we're gonna
+we're gonna want to bridge the relationship between you and your subscribers and myself so if you just send
+people straight to a funnel that's sent straight to me how are you gonna build a relationship with these
+people because you're gonna be the difference maker when it comes to you know converting your leads to cells
+yeah I can do it to a certain point but at some point when everybody has access to my funnel a lot of people
+the market does begin to get become a little bit saturated and so what you want to do is you want to use an
+automated system that may be out there a lot of people have but you want to add your personal touch to it
+which means you want to add your brand or you want to add your face onto it you know at some point so make
+sure that you complete the steps up to this point make sure that you import this funnel make sure that you
+switch out the links in the autoresponder make sure that you create your follow-up series and what we'll be
+doing in the next video is we will create our bridge page or bridge video and then we'll make sure that we
+change out the links within our landing pages here that we're sending people to so it's you know your link
+right here instead of my link okay so I hope you got value from this video and complete all the steps as I
+outline them in this video the biggest challenge that you're gonna have is obviously adding all these
+follow-ups to your autoresponder guys this is about reefs being resourceful I know I've said this but you need
+to be resourceful when it comes to this because platforms will change I could show you guys exactly where to
+click how to set up your autoresponder in Aweber or get responsible what happens is these platforms constantly
+change right the websites change the way everything's integrated changes and so I would have to you know keep
+on creating brand new videos and you guys don't want to depend on me either like it you know god forbid if
+something was to happen to me you want to be able to go out there and you know stand on your own two feet be
+completely independent in your business and learn how to be resourceful and if you don't know how to do
+something figure it out on your own and that's what's led to my you know success so with that being said make
+sure you complete the steps in this video and we'll see you in the next video bye bye

@@ -1,0 +1,252 @@
+Title: How To Make Money On PancakeSwap In 2021 Tutorial!
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: pgwijImW_00
+URL: https://www.youtube.com/watch?v=pgwijImW_00
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T00:25:29+00:00
+
+Kind: captions Language: en hey what's going on joshua elder here welcome back to the channel and today i want
+to show you how to make money on pancake swap here in 2021 if you're brand new to the channel make sure that
+you go ahead and subscribe to the channel because i'm uploading videos on a frequent basis teaching you how to
+build a life and business full of freedom passion and fulfillment and also don't forget to take that bell icon
+to be notified of all future videos that i upload when i upload them also got something very very exciting for
+you today i'm giving away a hundred dollars in the form of ethereum so what i'm doing is asking a question
+sometime throughout this video and then all you need to do is post the answer along with your ethereum address
+in the comments box below also to qualify again make sure that you've liked this video make sure that you've
+subscribed and make sure that you've also ticked that bell icon okay so without further ado let's go ahead and
+jump to the computer screen and let's show you exactly how to make money with pancake swap here in 2021 so
+what is pancake swap so pancake swap is a decentralized exchange what that means is there's not a specific
+company or an entity that really owns pancake swap there's not an order book but rather liquidity providers
+that provide liquidity to customers that want to exchange from one token to another so for example if i wanted
+to exchange b and b for cardano i could do that if i wanted to exchange b usd for cardano or for bnb i could
+do that if i wanted to exchange busd for cake i could do that so it makes it very very easy for you to
+exchange from one token to another with small fees without having to deal with a centralized exchange so the
+way that these tokens are being able to really have the availability to be exchanged for is through these
+pools and these farms so what you could do on the other side of things if you're not a buyer you could be the
+person that's providing or lending out the tokens in the form of these liquidity pools so if i wanted to go
+ahead and provide liquidity to this specific pool this cake pool right here i'm going to get an apr of 83.37
+percent so in other words we're acting as our own bank so why would you number one keep money in a traditional
+bank or keep your tokens in your digital wallet when you could lend these tokens out to pancake swap in the
+form of liquidity so people can exchange for them and earn an apr percentage and you could see here
+specifically you could stake cake in all of these pools and earn the given token that is you know exclaimed
+right here so you've got well you've got dairy you've got chr you got cyc a lot of these i don't even know
+what they are and you can see that the apr percentage is different on each one of them so the idea to making
+money with pancake swap is providing being a liquidity provider and providing tokens to others so they can go
+ahead and purchase those tokens and you can earn a percentage of the fees in the form of an apr so let me go
+ahead and jump to the guide right here and show you step by step exactly how you can start staking and lend
+your tokens out so you can get paid in that apr on a daily basis and withdraw those rewards those funds
+whenever it is that you want so the first thing that you need to do is download metamask in binance chain
+wallet now at the time of the creation of the video there's going to be a link below and you'll be able to
+instantly get access to this guide there's going to be images and everything step by step showing you how to
+do this exactly how i'm showing you in this video so just know that once you get access to this guide it will
+be updated with all those images and these will be hyperlinks you can just directly link out to them but in
+this video right here we're just going to go over to the new new search tab i'm just going to type in download
+metamask over here and we're just going to click on right here and it's going to be the first listing so
+you're just going to go ahead and click on that you can also just simply go to metamask.io forward slash
+download and you'll just click the download button right here and it's going to take you over to the chrome
+section where you can go ahead and install metamask for chrome so make sure that you have a chrome browser
+google chrome browser and you're installing metamask on that okay so you just click on install metamask for
+chrome follow the on-screen instructions save your seed phrase that's like your security code and then just
+simply complete the step-by-step instructions and you'll be good to go and set up for meta mask now after you
+go ahead and set up metamask you're also going to set up binance chain wallet okay so i'll just create another
+tab i'm just going to type in binance chain wallet download as you can see right here and we're going to click
+on this first listing and you can go ahead and you can download it of course i've already got both the
+metamask and binance chain wallet downloaded and you can see that they're installed right here in the upper
+right hand corner once you've installed both of these respectively then click on the little puzzle piece it
+shows extensions right here and make sure that the pins highlighted next to both of these binance chain wallet
+and meta mask as you can see when i toggle it on and off it will show up on the taskbar and so if you notice
+that you installed both of these but it's not showing up on the taskbar again all you got to do is click the
+puzzle piece right here make sure that the pins toggle on next to each of these plugins okay now what both of
+these are are digital wallets where you can store your cryptocurrency and we're going to need these to be able
+to stake inside of the pancake pool and also to transact on the exchange and of course to send and receive
+tokens okay so once those are installed you've saved your seed phrase you've completed this step-by-step
+on-screen instructions set up your password and everything you're now good to go for the next step which is we
+want to create a custom rpc and meta mask with the following rules so you're going to go over here to metamask
+click on the fox here and you're going to notice that you're on the ethereum main net which is what you're
+going to see right here and what we're going to want to do is we're going to want to click the drop down here
+and go to custom rpc now it says network name that's where you're going to copy smart chain you're going to
+paste it right here where you can manually enter these new rpc rule you want to make sure again copy and paste
+so you can see that i have all these pre-loaded because i've done this before i'm just going to copy those
+over chain id is going to be 56 currency symbol is going to be bnb and the block explorer is going to be
+bscscan.com and then you're going to click on save okay once you click on save then you're going to be able to
+go to the drop down up here and you'll see smart chain right here and you'll just simply select smart chain
+and now you're going to see this logo here with bnb of course i've got some bnb in here you're not going to
+have any bnb in here yet which we're going to go ahead and purchase and bnb is simply just binance coin okay
+so once you've got that installed then what we're going to do is open up a binance dot us or binance.com
+account okay now it depends on the country that you're in will determine what website that you get access to
+now i'm from the united states so i use binance.us if you go to binance.com you're out of the united states i
+would recommend doing that first if it doesn't allow you to get through then you may not be able to purchase
+bnb from binance because that's what we're going to need to do if you cannot purchase bnb from binance then
+you're going to go over to crypto.com and i will include this in the instructions as well this is crypto.com
+and what you'll do is you'll go here on your phone whether you've got an iphone or an android and you'll go
+ahead and you'll download download crypto.com to your phone now after you've done that whether you've been
+able to get access to binance us binance.com or crypto.com the next steps are pretty straightforward and the
+same regardless of what exchange you are able to get access to now just know that binance.com and binance.us
+they are centralized exchanges so where pancake swap is decentralized binance.usbinance.com is a centralized
+exchange as well as crypto.com and coinbase and other exchanges out there okay so just know that so if you're
+purchasing from binance.us we're going to need to purchase the bnb token so what you'll do is just go to
+binance again.com or us depending on where you're at in the world go ahead and try both of those and then
+you'll go ahead and create an account okay which should be in the upper right hand corner you can see i'm
+already logged in here but you're gonna see register okay when you register then you're gonna go to buy crypto
+you just gotta select buy crypto right here and then you can click on the drop down here where it says buy and
+we're going to type in bnb we're going to go ahead and buy some bnb right so what we're going to do or
+hypothetically in my case so what you're going to do is just type in how much bnb you want to buy so you can
+either select okay i want to purchase in you know in the form of of course the bnb currency or usd currency so
+usd is a little bit more relatable so i could just put you know 100 right here okay which is exactly point 24
+b and b okay okay so point 24 b and b and then what you would do right here on the drop down for payment
+method is you can add a payment method now there's a few that you can add there's uh bank wire there's debit
+and there is of course ach which is bank transfer so you're going to select add new payment method right here
+and you're going to select ach debit card or domestic wire now debit card and domestic wire your funds will be
+available instantly to start uh you know taking those funds out of binance okay that will allow you to move
+your funds where with ach you're going to have to wait five to seven days your funds will be readily available
+to trade but you can't transfer those funds out and that's just the unfortunate thing about ach so in this
+case we're going to want to choose debit card or domestic wire so choose one of those respectively of course
+domestic wire you're going to have to go into your bank it's you're going to have to give them all the
+information on the wire and by the way binance very reputable company you don't have to worry about you know
+losing your funds or anything of that nature and if that happens uh they're obviously backed okay so if you
+just want to test a small amount i would recommend just selecting debit card and entering your debit card in
+once you do that then it's going to pretty much take you back it should take you back to this screen and then
+all you got to do again we decided to do 100 here right then all you got to do with the payment method from
+the drop down is select your debit card that you now have added and then just simply select buy so step five
+is if you are in a country that doesn't allow you to use the bep 20 withdrawal network use the bep 2 network
+and send it to the binance chain wallet which is the binance chain network so what that means is is if we jump
+over here we're on withdraw you could see that the withdraw network because we're in the united states it's
+only allowing us to use the bep to withdraw network now if we were in another country that allows us to get
+access to binance.com you're going to see bep20 listed here as well in that case you can just select bep 20
+and withdraw straight to your metamask but since we're in the us we're going to need to first send it to our
+binance chain wallet and then we need to convert it over to the bep 20 network okay which is a little bit
+different so what we're going to do here in this case is we're going to jump back over to our binance chain
+wallet right here and we want to make sure that we have binance chain network selected and this is our account
+number right here we're just going to select copy right here these two little windows and then we're going to
+go over here we're going to paste that right here and then i like to just select max bmb however much b and b
+we have available in our wallet you don't need a memo in this case just make sure that you've entered the
+whole entire address make sure the address begins with bnb and so i will look at you know just cross reference
+this you can also click on this little arrow right here and you can see our full address right here as well so
+we can cross-reference we can even copy again right here and just cross-reference that with this address make
+sure they match and then go ahead and select submit okay now of course i don't have any bnb but you will and
+you'll just complete the verification instructions after you do that wait about five minutes okay and you're
+going to see b and b show up in your wallet right here now what we need to do is we need to go ahead and
+convert from a bep 2 token to a bep 20 token okay so what we're going to need to do is just go over here go to
+binance chain network from the drop down and then click on finance smart chain network then we're just simply
+going to copy this address we're going to jump back over to the binance chain network and we're going to do a
+cross chain transfer so we're just going to select on send we're going to select and paste that address and
+you're going to notice that it says note cross chain transfer to binance smart chain so now we're converting
+it over to a bep 20 token and we're going to go ahead and select our amount and make sure that you don't
+select the whole entire amount okay i would leave about five to ten dollars with a bnb in your binance chain
+wallet okay that's for transaction fees because every time you transact in your wallet then there's gas fee
+that's charged so you can see that i've got .18 available i'd probably just do like you know maybe 0.8 that i
+transfer over okay and then i'd select send and when i do that give it a couple minutes or a few seconds and
+it's going to be readily available over here on the binance smart chain network now that it's on the finance
+smart chain network now what we can do is we can transfer from the binance chain wallet over to metamask so
+now that we are now using the finance smart chain network in other words the bep 20 network we can now
+transfer from this wallet to metamask if we want to that's completely up to you because i simply just use this
+binance chain wallet to facilitate going from the bep 2 network to the bep 20 network that's really why i want
+to use this wallet to begin with or else i would just have meta mask now if you want to you could just
+continue to use the binance chain wallet if you want to because if i go over here and we want to go ahead and
+we want to connect to wallet okay so i'm just going to go back to the exchange and if i were to select connect
+right here i can actually connect my binance chain wallet now i'm just more experienced with metamask that's
+why i just transfer my funds over from binance chain wallet to metamask but you can leave it as is if you want
+but in this case we're going to pretend we're using metamask so what i would do is i would go over here to
+metamask okay make sure that smart chain selected i'm going to copy my account number right here we're going
+to jump back over now that our funds of course are in the binance chain network wallet we're going to send
+them over to metamask so i'm just going to paste the address right here and then the amount i want to send
+again leave a little bit in there for gas 510 bucks worth and then click on send and that will be sent now to
+metamask okay so your funds will show up here so now what we want to do now that we have bnb in our metamask
+wallet then what we want to do is we want to connect our wallet to pancake swap okay so what we're going to do
+is we're going to go over here to pancake swap and we're gonna click on connect and then we're gonna select
+metamask okay you can see it shows my account number right here and we're all connected now now that we're
+connected if you're somebody that's from the uk or somebody that that was able to get access to binance.com
+and you have the availability to use the bep 20 withdrawal network you would select that here okay and then
+you could just simply send your funds straight to metamasks you just copy your account and paste it right here
+okay you're going to notice it looks a little bit different it starts with 0x in most cases because we're
+using the you know kind of the the uh the binance smart chain network okay so again you'll notice that says
+the withdrawal address format is wrong and that's because i got bep2 selected but if pep20 was available we
+don't even need to use the binance chain wallet and we can just select pep20 and send it straight over to
+metamask okay but in this case having to use the us website so i can't do that we just really want to drive
+that home so we're going to go back to pancake swap and now what we can do now that we've got bnb in our
+wallet we now need to purchase some cake so we can start staking and lending out our tokens into the pools so
+we're just going to go make sure that bnb is selected right here and we're going to exchange that for cake so
+we're going to type in cake we're going to select cake right here and then depending on how much b and b you
+have inside of your wallet you could make the decision on how much you want to go ahead and convert over to
+cake so i've got like .07 in here which really isn't enough to really get anything this is primarily just for
+transaction fees that i've got in here right now so again if you've got 2b and b transfer over maybe 1.8 1.9
+bnb over to cake so i just put like 1.8 right here because again you want to leave some b and b inside of your
+wallet for future transactions and also this current transaction because again it's used as gas for fees so
+you'd see 1.8 will be converted over to 36.44 cake and so we would just click on approve right here follow the
+on-screen instructions and then we'll find cake inside of our metamask wallet now because i want to show you
+this tutorial i'm going to see if it'll at least let me do i want to try and do like .01 is like point 20 cake
+which is fine so um we can also you know leave the slippage tolerance to 0.5 that's completely fine as well
+don't need to really worry about that it's a little bit more advanced for another video and then we're just
+going to click on swap okay then i'm going to confirm swap and then click on confirm again and it says
+transaction submitted and we can go ahead and view that on bsc scan okay so we're going to give this just a
+second and it should be done here fairly quickly in the next 5 to 30 seconds so just give it some time here
+and again we can jump over here and this is also the transaction on bsc scan and you can see that it was in
+fact a success now what we could do is we can click on the pancake swap token within bsc scan of our
+transaction and it's going to pull it up the actual token and its contract address right here what we want to
+do is we want to copy that address we want to go over to meta mask okay this is kind of an extra step it's not
+mandatory but it will allow you to see your cake in your wallet so you see where it says all these assets
+right here these are all the different tokens i have in my metamask wallet on the binance smart chain now just
+because you transact and you convert b and b to cake in this case doesn't mean your cake's going to show up in
+your wallet even though it is in fact there what you need to do is add the contract address if you don't see
+it in your wallet you're just simply going to go down at the very bottom click on add token and then just
+paste the contract address right here and then click next of course it says token has already been added in my
+case so once you click on next you're going to see that it is in fact in your wallet so you can see that i've
+got .201 cake okay so now what we can do now that i have cake in my wallet i can simply just go over to the
+pools and i can stake my cake so i'm just going to click select manual cakes i'm going to click on details i'm
+going to click on stake i'm going to click on max and then i'm going to click on confirm which is like four
+dollars in cake i'm going to click on confirm again and give it just a little bit it's confirming the
+transaction and boom i've now have cake staked as you can see right here let's let this complete your cake
+funds have been staked in the pool and then you're going to see that i'm going to start earning cake and all i
+got to do is click on collect and every time i collect there's new cake that's going to be added into my
+metamask wallet now the reason why i selected this one the apr is 83.33 the apy is 126.28 percent on this
+autocakes you might be wondering why don't you select this well there is a there actually used to be it looks
+like maybe they removed it there used to be a like a two percent okay there's a yeah there's a two percent
+performance fee and a point one percent unstaking fee which i didn't like but it does auto compound for you or
+this does not auto compound you have to collect and then you can restake what you collect by clicking the plus
+button and of course it says insufficient but you would have cake in your wallet and you could click on max
+and then stake more cake so you can compound once a day on the cake that you've earned and stake what you're
+earning and do that just every 24 hours so we click on this little calculator here this is calculated based on
+current rates compounding once a daily which i just showed you how to do rates are estimates provided for your
+convenience only and by no means represent guaranteed returns so anytime i want to go ahead and unstake i just
+click on this minus sign click on max and i can unstake all my cake as well and then i can even jump back to
+trade go to the exchange and i can click from the drop down click on cake and go ahead and convert that to bnb
+i can convert it to a stable coin which is pegged to the dollar i can convert it back to you know to busd and
+then transfer that out of an exchange like binance straight into my bank account and that is how you make
+money using pancake swap and providing liquidity in pools and earning an apr so you can simply you know do the
+calculations right here for every 1000 cake that you stake you're going to get point 11 cake so if you work
+out the math if we go ahead and like pull out a trusty calculator here we can go ahead and determine okay
+point let's say we go ahead and stake five thousand dollars right so for every thousand dollars it's point one
+one cake that we're earning so in other words we're staking five thousand that would be five times point one
+one one one per day equals point five five cake now the value of cake right now is 20 bucks so if we go ahead
+and do 0.55 times 20 we're earning about 11 bucks a day which isn't bad whatsoever right i mean that's a start
+not to mention if the price of cake goes up then our cake that we've now earned it also staked increases in
+value which is super super powerful so we can see this realized not only at its current price but also the
+future price of cake now you do want to be careful of course because you want to purchase your cake at the
+right times so right now it's 20 and 31 cents so if you were to purchase cake right now and stake it yeah
+you're earning that apr but if the value of the coin goes down you can suffer what's called in permanent loss
+now i'm not a financial advisor on this video is for educational purposes but we're at a point where we're
+coming out of kind of a recent bear market a flash crash that had occurred and so cake was as high as like 43
+dollars and now it's down still on sale right around 20 so lots of potential for cake lots of potential for
+earning this apr again you can calculate based off of you know yours your risk tolerance how much you would
+like to go ahead and you know allocate to cake and to the specific pool so if we go ahead you know and we do
+you know ten thousand dollars for example that's ten times point one one that's going to be 1.1 cake so we
+times that by its current price which is about 20 bucks to make this easy that's 22 dollars per day times 30
+days and this is without the increase in price of cake the gains that you would realize just by holding the
+token as well that's 660 bucks an extra 660 bucks per month instead of just keeping it in a digital wallet
+just sitting there not earning you anything so i think this is the future of the banking system this is d phi
+decentralized finance that you guys just realized in this video so i want to give you the chance now to win
+100 in ethereum all you have to do is tell me exactly what the apr is right now not on this video but you know
+present time what is the apr of the manual cake pool so go ahead and go over to pancake swap go down to pools
+find out what the manual cake apr is and go ahead and post that below in the comments along with your ethereum
+address which you would be able to find if you go over here to networks ethereum net you just simply copy your
+account and also paste that below too so what's the current apr also paste your ethereum address and i'm going
+to pick somebody at random again that like this video subscribe to the channel take the bell icon and also
+answer the question what's the current apr of the manual cake pool and also post your address i hope you got
+value from this video if you want to learn more about building an online business from scratch leveraging
+cryptocurrency there is a free telegram group below that you can go ahead and check out also there are going
+to be links to binance if you want to go ahead and purchase your crypto from binance i do get credit from that
+there's also going to be this document completed with images i would encourage you to go ahead and check that
+out too as well if you want something step by step that you can also read that accompanies this video okay
+thank you so much for watching this hope you enjoyed it and we'll see you in the next video

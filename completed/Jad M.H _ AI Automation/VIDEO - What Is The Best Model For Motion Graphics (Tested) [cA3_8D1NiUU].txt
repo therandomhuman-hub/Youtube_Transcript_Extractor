@@ -1,0 +1,79 @@
+Title: What Is The Best Model For Motion Graphics (Tested)
+Channel: Jad M.H  | AI Automation
+Type: VIDEO
+Video ID: cA3_8D1NiUU
+URL: https://www.youtube.com/watch?v=cA3_8D1NiUU
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-14T22:00:06+00:00
+
+Kind: captions Language: en I gave Claude Opus 5.5, Gemini 4 Argon, and GBT6 Astra the same job. Make the
+first 30 seconds of a music video, same song, same lyric, the same shot list, same images. The three best
+models in the world right now. And I'm not going to tell you which one won. I'm going to show you what each
+one made, the time that it took, and how much it cost it. And you will be the judge of it. And all the way to
+the end, we're going to look at the results. What are people sharing on Twitter? because recently Argon just
+got released and people are being very vocal about it. Be sure to subscribe because I drop weekly skills for
+free. So, let's get straight into it. So, let me explain to you the setup. I made the song locally with Aceep
+with $0. The images and clips are from Nano Banano, Cling, and Hicksfield. And by the way, I was able to get
+an offer for you guys on Hicksfield. The link is in description. Take a look at the promo and if it fits your
+budget, you should definitely get it. If not, that's fine. They also offer an API so you can pay as you go.
+Just click on the link and then the video gets rerendered by Hyperfix which is open source right now on my
+Mac. Every model got all of that. The same prompt word for word and the same skills. So basically the only
+thing that changes is the model. We're only looking at one thing, the motion graphics. Each model had to do
+everything on its own. The design, the effects, the code checking on its own work and rerendering the final
+video. No help from me whatsoever. The only thing I sent was the same keep going message when the tool paused.
+Now fair because I know some of you are going to ask. I ran Gemini through an open router but not in the chat
+window where you paste a prompt and get one answer back. I ran inside open code which is a coding agent just
+like cloud code. I gave it the full context. It had access to the whole project folder, the song, the lyrics
+with the timing of the word, the shot list, all the images, and the same skills. And it had the same tools
+Opus had. It could read and write files, run commands, render the video, look at its own frames, and even spin
+up helper agents. GBT got the exact same setup inside Codeex Open's AI's own tool. So, all three had the full
+setup, not just a chat box. The one thing Opus had that they didn't Opus made its version last week. It had a
+50-second test around that. I reviewed it. Gemini and GBT got one prop, no feedback, and the song literally
+stays the same as Opus 5.5. Gemini even named its terminal Wedo Claw Opus 5.5. So, keep that in mind. So,
+let's start immediately with Gemini for Argon cuz it's just the model that recently got released. Gemini split
+the video in five scenes. It opens on their eyes with a cursor. So, I'll stay quiet and I'll let you watch it.
+[music] >> Type one line in the terminal and let it right [music] 5.5 on the other side. No after effects, no
+studio, no [music] team, just writing code. Building every scene, every shape, there's a line, every frame is
+a choice. Easing in, easing out. Get the [music] pixels a voice. I don't touch the timeline. I don't move a
+thing. It's on autopilot, baby. >> Now, the stats. Gemini took about 63 minutes and 179 moto calls. It cost me
+$9.87, which is real money on open router. And to be fair, about $160 of that got wasted on the bug in open
+code, the tool I ride in it. That's not on Gemini. And keep that in mind, that's Argon's launch price. It's
+supposed to be double later. Now, GBT6 Astro GBT splits it into four scenes. Same eye opening and then the
+particles. So, I'll stay again quiet and you watch it. [music] I know it right. Hope it's 5.5 on the other
+[music] side. No after effects, no studio, no team, just writing code. Building [music] every scene. Every
+shape is a line. Every frame is a choice. Easing in, easy and out. Get the pixels a voice. I don't touch the
+timeline. [music] I don't move a thing. It's on autopilot. >> GBT is more impressive. It did all of this in 23
+minutes and 116 calls. It ran on my Chad GBT plan, the $20 plan. It hit the halfway and it costed around $11.
+And then we have Opus 5.5. Opus splits it into four scenes. So I'll stay quiet and you watch this one till
+[music] terminal hit and let it ride 5.5 [music] on the other side. No after effects, no studio, no team, just
+writing code building [music] every scene. Every shape is a line. Every frame is a choice. Easing in, easing
+out. Give the [music] pixels a voice. I don't touch the timeline. I don't move a thing. It's on autopilot. >>
+The final build of these 30 seconds took Opus about 1 hour and 15 minutes with four helpers building the four
+scenes at the same time. Before that, there were 15 seconds test round about 50 minutes, about 544 moto calls
+in total. It ran on my Claude Max plan, the $200 month one, so $0 on top of my subscription. These first 30
+seconds took about 5% of my weekly limits. If you split the $200 across the month, that's about $230 of my
+plan. Now, let's look at the same shots from all three so you can compare. I'll stay quiet and you watching.
+Perfect. No studio, no team. Just caring [music] code. Building every scene. Every shape is a line. Every
+frame is a choice. Easing in, easy out. Get the pixels. >> So, here are the numbers side by side. Opus about 1
+hour and 15 minutes for the final build. Plus a 50-minute test around $544 calls, $0 on top of my $200 max
+plan, about 5% of my weekly limit. Gemini about 63 minutes, 179 calls, $9.87 with no subscription. I just paid
+for what I used. GBT about 23 minutes and $11. Now, let's see what people on X are sharing. Argon came out
+yesterday, so these are all day first test. And every one of them has the video side by side. This one has
+over 500,000 views. Gave Opus 5.5 and Argon the same prompt. Gummy bears, you can play with Opus. And you can
+see the difference here is actually insane. And to be fair, Gemini is still a very, very powerful model, but
+when it comes to this, I'm not entirely sure it can compete with Opus. This one has over 1,200 likes. Argon
+versus Opus 5.5, a Vauxil Pelican riding a bike on top of a jet. This one is Argon versus GBT6 Astra, a pixel
+art night scene. They say Astra took 25 minutes and cost $11. And Argon took 3 minutes and cost 50. And keep
+in mind this account is a company that sells access to these models. Bridgemine gave the same level amp comped
+to six models. Argon toss 80 cents and took under 2 minutes. Opus cost $127 and took 9 and 1/2 minutes. And
+they say Google might be quietly cooking. Jazzy gave Opus and Argon the same pixel art city animation. And
+they say the results came out almost the same. Opus took 15 minutes and cost $8.20 20 cents in claw code.
+Argon took 30 minutes and costs $120 in Devon. And keep in mind, Devon has Argon at 75% of right now. So,
+that's what people are saying. Now, you've seen all three and you've got the numbers. You're the judge. Let me
+know in the comments which one you think won. In my opinion, I'll stick to Opus 5.5 as Enthropic. I'm sure
+they're about to release a model and they're going definitely to be better than Opus 5.5. That's my best bet.
+Thank you for watching. It means a lot to me and these past few days have been actually insane. The growth in
+this channel genuinely means a lot to me and I'm trying to give as much value as I can to you guys. So from
+now on, we will be having weekly calls on school for free just to help you if you have any problems with
+setting up one of the skills. Thank you so much and I'll see you in the next one.

@@ -1,0 +1,211 @@
+Title: How I Got $76,000 In Crypto With NO CREDIT | Passive Income With Polygon (MATIC)
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: jfQVoc3psX0
+URL: https://www.youtube.com/watch?v=jfQVoc3psX0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T00:21:18+00:00
+
+Kind: captions Language: en hey what's going on joshua elder here welcome back to the channel today i want to
+show you a passive income crypto strategy that allowed me to borrow 76 000 worth of polygon which is a
+cryptocurrency and leverage that to grow with the increase in price with this specific coin i'm not paying
+really any interest out of my pocket whatsoever and like i said i didn't require any credit checks it didn't
+require anything other than my own collateral in the form of cryptocurrency so if you're excited for this
+video go ahead drop the video like go ahead and subscribe to the channel if you haven't already because i'm
+uploading videos pretty frequently teaching you how to build a life and business full of freedom passion and
+fulfillment so without further ado let's go ahead and jump straight into the computer here so here i am on a
+website called ave this is an automated market maker it's a website where you could deposit liquidity which is
+then lent out and then you're paid simply in interest so if i scroll down here you can see these different
+markets we've got version one ave version two we've got just the traditional ave right here and then we've got
+the polygon network ave here and what you could do which is really really powerful for example you can see
+that my borrow apr is 3.51 but then i get a bonus apr back of 1.25 in the form of matic which again is known
+as polygon we'll talk a little bit more about what it is in just a second and then what i can do is i can take
+those borrowed funds and i can deposit them into the liquidity and i can get an extra bonus of 2.53 percent in
+matic and also 0.63 percent you can also see these other different uh coins cryptocurrencies that we can also
+borrow in like for example i borrow die i'm going to get you know i'm going to pay 6.21 percent but for
+borrowing i'm going to get a reward of 2.54 percent matic and i'm also here i'm going to get a 4.51 percent
+apy on my die but then as a bonus it's also going to give me an extra 1.37 percent in the form of matic so you
+can see that these are variable aprs and they do range they can go up they can go down and so what you're
+seeing here may be different than what you might see tomorrow or the next week or the next month so why why
+matic first of all so matic just recently announced they are rebranding to polygon and you see that the
+current price right now is a dollar and 35 cents if we look at the chart here you can see it's still very very
+bullish obviously we had that uh that flash crash on the you know may 22nd that happened but recovering really
+really nicely but you're gonna see you know throughout the course uh in the history of the specific coin a
+nice upwards trend so specifically what is polygon the best way that i can really explain it is when you think
+about ethereum right ethereum has very high uh you know congestion in their network from time to time even
+when they when they don't have high congestion the fees can be pretty high the gas fees the transaction fees
+so polygon imagine the ethereum as a freeway as a highway right and the highway gets congested what if you had
+a really cool off ramp that went on to another separate highway with the same you know kind of amount of lanes
+going into the same destination that is exactly what polygon is when gas fees are high when the ethereum main
+net gets congested you can simply just switch over to the polygon network it's a layer two solution and you
+can transact your ethereum and your other coins on that network and pay lower fees and then at some point you
+can convert it back to the ethereum main net and transact there if you wish so it's a really good solution to
+the high gas fees that ethereum is going through right now and so there is a very very good high probability
+that polygon is going to you know 10 20 30 x plus you know some people are saying it's gonna go five ten
+dollars twenty dollars by september and i'm inclined to believe that too as well so there's a huge incentive
+right now for people to switch over to the polygon network because of the utility use and also because of the
+availability to borrow matic and get paid to borrow matic and also stake that matic for an apy so this is my
+uh my dashboard here inside of ave so simply what i did is i just clicked on enter app and then the app will
+bring me to my dashboard of course you're not going to see this quite yet because i've already deposited but
+what you're going to want to do is number one if you want to go ahead and earn these rewards and stake matic
+or polygon in other words and have the availability to borrow from it then you number one you need to get
+matic in the first place so the way that you're going to get matic is you're going to go over to you can go to
+coin market cap you can just go up here in the search bar you can type in polygon or matic again they're still
+in the process of rebranding you'll click here and you'll see this screen with the chart that we're on right
+now you can just simply scroll down and you can see all the different places that you can buy matic from so
+you can buy matic from coinbase which is where i bought it binance.us binance if you're in the uk who will be
+global so on and so forth and so once you buy matic then what you want to do is you want to go ahead and set
+up meta mask for the matic network just like you would do for the binance smart chain just like you would do
+with other chains that you're adding other networks in other words that you're adding you'd simply just click
+on meta mask here and you can and you can click on matic mainnet which is what i'm on right now but assuming
+if you're just getting started you're probably on the ethereum main net you just click that drop down and you
+can scroll down and you can add custom rpc so you can see i do have the binance smart chain right here
+actually two versions of it and i've also got the matic main net right here so how do we go ahead and add the
+matic mainnet so we can go ahead and transact in matic well you can go to google you can type in matic meta
+mask you can put install if you want to it looks like that's what's popping up and it's gonna be the first
+result setting up metamask for polygon you can click on that i'll also include this below uh the instructions
+but all you really need to do just like adding any other network as i stated click on the fox here click on
+the drop down scroll down click on custom rpc and you're just going to copy and paste over the network name
+new rpc rule chain id symbol so on and so forth block explorer and then simply save and once it's saved you're
+going to see matic pop up right here and likely you're going to have a zero balance so what we want to do is
+we want to make sure that we go ahead and we purchase matic from coinbase or one of those other exchanges that
+i explained to you after you do that the next thing that you need to do is you need to transfer your matic
+over to the ethereum mainnet okay so you just click this address share it inside of your exchange when you're
+withdrawing send it this to this address and it can take a few hours uh coinbase it took about three to four
+hours for me to finally get my matic so once you do that the next step is to click on go to google.com click
+on the search bar here and just type in matic bridge and it's going to take you to the first result here which
+is wallet.matic.network you can simply just go straight to this site if you want to as well and now what we
+need to do is we need to essentially take that matic that we now have on the ethereum main net and we need to
+send it to the matic mainnet here and the way that we do that is using this bridge right here so all you would
+do assuming that you now have matic in your ethereum wallet okay here all you need to do is click the drop
+down here find where it says matic now i don't have any matic in my wallet right now on the ethereum mainnet
+but you will you'll scroll down and you'll just simply find it and then all you got to do is enter the amount
+that you want to send over to the polygon network and click on transfer complete the on-screen instructions
+it's going to take seven to eight minutes once it's done your matic is now going to go from the ethereum
+mainnet over to the matic main net and of course you're going to see that pop up right here okay now sometimes
+there's a little hiccups like before you could see that i had like 2matic now it says 0.5895 sometimes you
+need to like refresh and switch back and forth as you can see i just did that now it shows that i've got my 2
+again that's just kind of a bug that's going on with metamask right now but nonetheless i'm glad that i could
+show you that within this video so what we could do now now that we have our matic over on the matic main net
+is we can now deposit it in ave now before i do that i want to mention one thing about matic on the ethereum
+main net you might not see matic show up and your other assets right here when you send matic to your wallet
+now just be sure that it is here you just need to simply add the token so it actually appears and shows up in
+your wallet right here on the taskbar even though it is already there so all you need to do is click on a new
+tab and you can type in polygon erc 20 address okay and it's going to take you over to ether scan and we need
+to make sure that this is the correct contract here so i'm just going to scroll uh go back and just ensure
+that this in fact is the correct address and if you need to find any addresses guys that's all you need to do
+is just simply go to google and type in polygon erc20 address okay and it should always be the first listing
+and then all you need to do is copy the contract here now this should be the correct one and it will let us
+know but typically it'll show what the current price is to as well and it's not so you do also have to be
+careful that you're adding the right token and you're not adding some duplicate copycat i'm just going to go
+down and click on add token and paste and you can see nothing nothing's popping up let's see yeah nothing's
+popping up so this is not the correct um that just might be the contract address not the actual polygon
+address so we're going to type in matic erc20 token address boom and there it is right there one dollar and 44
+cents so this is the correct one so it's still going by the name of matic so i just you want to make sure that
+you use that right now and it did show the current price point you could see in the google results so i know
+that this is the correct one so we're just going to click on copy address right here go over to meta mask
+scroll down click on add token paste right here and boom you're going to click on the matic network token
+right here and click on next you'll be good to go you can see that i've obviously already added this so now
+it's going to show up so you can see that it's actually physically there and then of course you know switch
+over to the matic mainnet just like i showed you using this bridge right here okay now that we've done that
+we're going to go over to ave over here and we're going to go to app.avey.com or you can just go to aver.com
+right aave and it's going to take you to the home page right here just like i showed you and just click on
+enter app and then once you enter the app then click on deposit now what you're going to do next is you're
+going to go ahead and deposit matic by simply just clicking here and then entering the amount to deposit you
+can see that i've only got two available but at this point you should have some available now that you've
+switched from the uh you know you've purchased from coinbase another exchange you switched over from the uh
+ethereum main net to the matic mainnet and it should be available for you to deposit you're just going to
+enter the amount you want to deposit continue i'm just going to put one here just so you guys can see how this
+works you're gonna click on deposit and just complete the on-screen instructions okay make sure of course up
+here in metamask you're connected to the matic mainnet now if it's having issues pulling up this screen
+because i've seen it like it'll just be on a load screen and it won't pull up then i'll switch back to the
+ethereum main net and then back to the matic main net and it should then work again another small bug in the
+system nothing too crazy so we're gonna click on deposit once we deposit then we can go to my dashboard and it
+should have your available deposits right here and then what we can do is we can go over to borrow now click
+on borrow and then we can click on armatic that we can borrow from if we want to borrow more matic okay but
+now we've got collateral at this point that we can borrow from so if i show you if i go over here to markets
+for example right making sure that we're on the polygon network over here and not one of these other networks
+or markets make sure you're on the the polygon and then what you could do is you could look at these different
+assets right and we can click on matic right here and you're going to notice a few different things here the
+maximum ltv that we can borrow from our collateral is 50 percent the liquidation threshold is 65 which we
+don't want to we don't want to get liquidated okay which means they essentially will take all of our funds
+because our portfolio value reaches a certain threshold okay of how much versus how much we've borrowed and we
+don't want to go any higher than 65 percent or we can get liquidated and there's a penalty along with that so
+it says used as collateral yes which means you can borrow more polygon after you deposit polygon but there's
+no stable borrowing as you can see right here okay and stable borrowing is just simply there's a set api and
+it doesn't change or you can see that this of course does change and right now the borrow apy is three point
+five one percent and you can see up here it'll show you it changes drastically day to day but even at its
+lowest it still pays for itself the interest that you would otherwise pay the overall interest that you would
+get versus the interest that you would pay is higher so you're essentially borrowing for free and so let me
+explain this so once we decide to go ahead and borrow right so we go over here we want to go ahead and borrow
+now we've got collateral we could borrow up to 50 we just go to borrow we click on matic here and then we can
+go up here and decide how much we want to go ahead and borrow so just for the sake of this video i'm going to
+go ahead and borrow let's go ahead and borrow 194 dollars okay and you'll see this health factor here you want
+to make sure that you keep it in the green as much as you can based off of your risk tolerance so you don't
+get that margin call right so you don't borrow too much and over collateralize so let's go ahead and click on
+continue click on the variable apy that's what it is currently click on continue and you can see that there's
+an error here and sometimes that happens you'll get an error from time to time don't ask me why that happens
+let's try one more time you can see it's now working we're gonna click on borrow and again make sure that you
+have somatic inside of your metamask the one thing that i want to mention that i didn't mention before is when
+you're first depositing before you borrow you need to make sure you leave at least two one to two extra matic
+in your wallet because those are used as gas fees okay i made the mistake before where i deposited and then
+after i deposited i deposited the whole entire amount so there was no amount of matic left over to pay for my
+transactions so make sure that you leave somatic in there okay so we're going to click on confirm you can see
+that it's pending now and once it finishes which it just finished that was pretty quick it's going to be added
+under in my assets right here you can see that i got 392 now okay so you go back to the dashboard and now what
+i can do is i can re-up and i can deposit so i can borrow and deposit which yeah will raise my ltv but not as
+much as borrowing and then putting it in another pool maybe on another gap right so what we can do is we can
+have more leverage because number one we're borrowing here and then we're depositing here which of course
+raises our collateral and also raises what we've borrowed together but will continually allow us to borrow
+more so what we could simply do now is we can go over here and deposit right so let me just jump back over to
+borrow real quick so i can show you guys available borrow is 6112. you're going to see this go back up because
+again i'm depositing sort of in this in the same dap here so we're going to go ahead and deposit and we're
+going to click on deposit you can see my new health factor is going to be 1.44 i'm going to break that down in
+just a second for you guys in a little bit more detail but you can see that this is pending right now
+sometimes this can take 10 seconds sometimes it can take about two minutes but regardless while that is
+pending i want to jump back over and i want to show you a few different things here so you understand this on
+a little bit of a deeper level so we're going to go over to my dashboard here okay and i want you to pay
+attention to a few things number one you can see the apy right here when i borrow i'm gonna have to pay 3.52
+apy but i'm getting a reward of 1.24 for borrowing plus if i take those funds and deposit them here and stake
+them i'm going to get an extra 2.5 percent apr in matic rewards plus 0.64 apy in matic so if we add these
+three numbers up right 1.24 plus 2.54 that is more than the apy that i'm paying for borrowing does that make
+sense so i'm essentially able to borrow for free which is really really cool right now i don't know how long
+this is going to last but there's great opportunity right now so let me help you ensure that you don't over
+leverage now you want to keep your health factor typically in the green mine's in the orange right now 1.5
+would put you in the green but i look at it this way if i pull up my trusty calculator right here okay go
+ahead and pull this up and we take our collateral amount okay right here which is 169 169 218 and we times
+that by 65 percent 65 percent of that right which would lead us to a margin call to liquidation which is what
+we don't want but we want to figure out at what price point of matic will we get liquidated that's what we're
+figuring out right now so we take that times it by 0.65 65 percent that's 109 991 then what we do is we divide
+that by the amount of matic that we have 126.036 and that is roughly 87 cents so as long as we don't hit 87
+cents in matic we're going to be fine we're not going to get liquidated so just so you guys know i did go
+ahead and deposit about 110 000 to be able to borrow this 75 454 that i'm at now okay but those are the
+numbers that's what you want to pay attention to is is that threshold and you could be aggressive as you want
+but just know you know we can jump back and we can look at the chart here and you can see when we had that
+flash crash it was down to right around 80 cents um it's not pulling up right now but if i go back three
+months here we go is right around 89 cents okay so you have to be very very aware because anything can happen
+in crypto it is high risk okay you can see those transactions still pending which is fine but you completely
+understand and get the point and then what i can do is i can continue to borrow more matic or i can even
+borrow a stable coin now a great thing about stable coins is they don't change in price um they don't they
+won't go from like a dollar to 50 cents to 25 cents like what matic can do and so it's a more conservative bet
+and you're still going to get these rewards here as you can see in die and usdt so you want to go ahead and
+borrow over here now that you've deposited matic you can borrow usdtu at usdc and die just know that their ltv
+is going to be different for each of these and some of them don't allow you to borrow from them they don't
+allow you to collateralize so if i go back over here to markets we click on usdt for example we can't use this
+as collateral okay so just keep that in mind so that is it for this video i really hope that you got loads and
+loads of value from it and that uh you use um this this specific gap here ave the ability to borrow make sure
+that you are careful and you follow the protocol that i gave you in this video now i am not a financial
+advisor this is not financial advice this is more so education but there's a huge opportunity for people to
+make profit in matic okay polygon whatever you want to call it right if you got value from this go ahead like
+comment if you have any questions below and subscribe to the channel because i'm uploading videos pretty
+frequently teaching you how to build a life and business full of freedom passion and fulfillment and if you
+ever want to claim your rewards that you're getting right here you can just click the claim button here and
+follow the on-screen instructions and claim of course you got your current ltv right here you got your
+collateral here you've got how much you've borrowed here your health factor right here and if you click on
+details here it will show you current ltv max ltv and this is the liquidation threshold here so just keep that
+in mind okay so much loved you guys and we'll see you in the next video and if you want to know more about how
+to get involved in the right crypto currencies having the right education at the right time because the crypto
+marketplace is all about timing i highly recommend joining my telegram group and checking out the resources in
+the resource section below okay thank you so much for jumping on today for getting this value we'll talk to
+you very soon
