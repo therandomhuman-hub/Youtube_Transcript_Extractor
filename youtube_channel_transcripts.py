@@ -17,6 +17,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -315,9 +316,25 @@ def ensure_yt_dlp_components() -> bool:
 
 
 class RateLimitManager:
+    """Per-worker pacing with one thread-safe cooldown state per state file.
+
+    Multiple channel workers may use separate pacing timers, but a 429 response
+    from any worker pauses all workers sharing this state path.
+    """
+
+    _registry_lock = threading.RLock()
+    _shared_states: dict[str, dict[str, Any]] = {}
+    _shared_locks: dict[str, threading.RLock] = {}
+
     def __init__(self, state_path: Path):
-        self.state_path = state_path
-        self.state = self._load()
+        self.state_path = state_path.resolve()
+        state_key = str(self.state_path)
+        with self._registry_lock:
+            if state_key not in self._shared_states:
+                self._shared_states[state_key] = self._load()
+                self._shared_locks[state_key] = threading.RLock()
+            self.state = self._shared_states[state_key]
+            self._state_lock = self._shared_locks[state_key]
         self.last_operation_at = 0.0
         self.run_429_events = 0
         self.run_cooldowns = 0
@@ -334,7 +351,9 @@ class RateLimitManager:
         return {"cooldown_until": 0.0, "consecutive_429": 0, "total_429_events": 0, "last_429_at": ""}
 
     def _save(self) -> None:
-        atomic_json_write(self.state_path, self.state)
+        # Callers hold the re-entrant state lock so writes cannot clobber updates.
+        with self._state_lock:
+            atomic_json_write(self.state_path, self.state)
 
     @staticmethod
     def is_rate_limited(exc: Exception) -> bool:
@@ -348,27 +367,37 @@ class RateLimitManager:
 
     def wait_if_blocked(self, reason: str = "") -> None:
         while True:
-            remaining = float(self.state.get("cooldown_until", 0) or 0) - time.time()
-            if remaining <= 0: return
+            with self._state_lock:
+                remaining = float(self.state.get("cooldown_until", 0) or 0) - time.time()
+            if remaining <= 0:
+                return
             self.run_cooldowns += 1
             print(f"YouTube 429 cooldown ({reason}); waiting {int(remaining + .999)}s", flush=True)
             time.sleep(min(20.0, remaining))
 
     def note_success(self) -> None:
         self.successful_operations += 1
-        changed = self.state.get("consecutive_429", 0) != 0 or float(self.state.get("cooldown_until", 0) or 0) != 0
-        self.state["consecutive_429"] = 0; self.state["cooldown_until"] = 0.0
-        if changed: self._save()
+        with self._state_lock:
+            # An in-flight success must not erase a newer worker's active cooldown.
+            cooldown_until = float(self.state.get("cooldown_until", 0) or 0)
+            if time.time() >= cooldown_until:
+                changed = self.state.get("consecutive_429", 0) != 0 or cooldown_until != 0
+                self.state["consecutive_429"] = 0
+                self.state["cooldown_until"] = 0.0
+                if changed:
+                    self._save()
         if self.successful_operations % PROACTIVE_PAUSE_EVERY_OPERATIONS == 0:
             time.sleep(random.uniform(PROACTIVE_PAUSE_MIN, PROACTIVE_PAUSE_MAX))
 
     def note_429(self, context: str) -> float:
-        consecutive = int(self.state.get("consecutive_429", 0) or 0) + 1
-        total = int(self.state.get("total_429_events", 0) or 0) + 1
-        delay = min(RATE_LIMIT_MAX_COOLDOWN, max(600.0 if consecutive >= RATE_LIMIT_HARD_PAUSE_AFTER else 0.0, RATE_LIMIT_BASE_COOLDOWN * (2 ** (consecutive - 1))))
-        delay = min(RATE_LIMIT_MAX_COOLDOWN, delay * random.uniform(.9, 1.2))
-        self.state.update({"cooldown_until": time.time() + delay, "consecutive_429": consecutive, "total_429_events": total, "last_429_at": utc_now()})
-        self._save(); self.run_429_events += 1
+        with self._state_lock:
+            consecutive = int(self.state.get("consecutive_429", 0) or 0) + 1
+            total = int(self.state.get("total_429_events", 0) or 0) + 1
+            delay = min(RATE_LIMIT_MAX_COOLDOWN, max(600.0 if consecutive >= RATE_LIMIT_HARD_PAUSE_AFTER else 0.0, RATE_LIMIT_BASE_COOLDOWN * (2 ** (consecutive - 1))))
+            delay = min(RATE_LIMIT_MAX_COOLDOWN, delay * random.uniform(.9, 1.2))
+            self.state.update({"cooldown_until": time.time() + delay, "consecutive_429": consecutive, "total_429_events": total, "last_429_at": utc_now()})
+            self._save()
+        self.run_429_events += 1
         print(f"HTTP 429 during {context}; cooldown {int(delay)}s", flush=True)
         return delay
 
