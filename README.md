@@ -39,7 +39,7 @@ updated/<Channel Name>/*new transcript copies + new_transcripts.json*
 
 ## Schedule
 
-The workflow uses UTC cron `17 0,6,12,18 * * *`: 00:17, 06:17, 12:17 and 18:17 UTC (four runs per day). That is 05:47, 11:47, 17:47 and 23:47 India Standard Time. GitHub may delay scheduled runs during periods of high load. Manual runs support an optional `max_channels` test limit and `max_items_per_channel`. The scheduled default is `max_items_per_channel=0` (unlimited): the collector attempts every pending item for each channel in configured order, subject to the collection job's finite runtime ceiling. Set a positive value only for controlled test runs.
+The workflow uses UTC cron `17 0,6,12,18 * * *`: 00:17, 06:17, 12:17 and 18:17 UTC (four runs per day). That is 05:47, 11:47, 17:47 and 23:47 India Standard Time. GitHub may delay scheduled runs during periods of high load. Manual runs support optional `max_channels`, `max_items_per_channel`, and `channel_workers` inputs. Collection runs three channels concurrently by default (`channel_workers=3`, configurable from 1 to 5). Within each channel, transcript attempts remain sequential and checkpoint after every attempt. The scheduled default is `max_items_per_channel=0` (unlimited), so no fixed item cap applies to any one channel; the collection job still has a finite runtime ceiling.
 
 ## Install and run locally
 
@@ -65,7 +65,7 @@ A channel is not labeled complete if enumeration failed, a transcript file is mi
 - `<channel>/transcript_manifest.json`: durable per-video processing state.
 - `<channel>/transcript_audit.csv`: per-video audit.
 - `<channel>/collection_summary.txt`: human-readable totals and scan results.
-- `.youtube_rate_limit_state.json`: persisted YouTube 429 cooldown.
+- `.youtube_rate_limit_state.json`: shared, synchronized YouTube 429 cooldown used by all channel workers.
 
 For private/account-required videos, authorized browser cookies can be configured locally. Do not commit cookies or credentials to this repository.
 
@@ -87,7 +87,9 @@ Add the secret under **Settings → Secrets and variables → Actions → New re
 
 - The collector is scheduled four times per day: 00:17, 06:17, 12:17 and 18:17 UTC.
 - A newer scheduled or manually started run does not cancel an active collection. Only one collector uses the shared concurrency group at a time; GitHub can keep a single pending run.
-- The scheduled default is unlimited per channel (`max_items_per_channel=0`). It processes pending items in configured channel order until channels are resolved or the collection step reaches its 340-minute timeout. A long channel can therefore consume most of one run; per-item checkpoints preserve progress for the next run.
+- The scheduled default is unlimited per channel (`max_items_per_channel=0`), with three channel workers by default. Different channels are collected concurrently; each channel's own items remain sequential to avoid racing its manifest. Set `channel_workers` to 1-5 in workflow dispatch; three is the default to improve throughput without creating an unnecessarily high number of concurrent YouTube request streams.
+- All workers share a synchronized YouTube HTTP 429 cooldown state. If any worker receives a rate-limit response, other workers see the same cooldown before starting subsequent requests. Channel state/checkpoint writes are serialized to prevent concurrent workers from overwriting each other's progress.
+- The collection step still has a 340-minute timeout. On timeout, per-item checkpoints preserve completed work for future runs.
 - Collection is capped at 340 minutes inside a 350-minute job timeout. The run checkpoint and finalization steps record partial progress and package already-completed channels even when collection fails or times out.
 - Routine collection is scheduled four times per day. A watchdog checks twice per hour and dispatches a recovery run if the archive has been quiet for over 5 hours and no run is active. Narrow push filters also launch collection after changes to channel configuration or collector code; transcript/state commits are excluded from those paths, preventing recursive runs. Ordinary test/docs edits run validation only.
 - The publish step fetches and rebases against the latest `main`, retries safe pushes, and never force-pushes over newer commits.
