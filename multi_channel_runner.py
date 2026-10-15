@@ -5,12 +5,15 @@ import json
 import os
 import shutil
 import sys
+import threading
 import traceback
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parent
+_STATE_LOCK = threading.RLock()
 sys.path.insert(0, str(ROOT))
 import youtube_channel_transcripts as extractor  # noqa: E402
 
@@ -20,10 +23,13 @@ def utc_now() -> str:
 
 
 def safe_json_write(path: Path, payload: Any) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    temp = path.with_suffix(path.suffix + ".tmp")
-    temp.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    temp.replace(path)
+    # Multiple channel workers checkpoint one shared state file. Serialize
+    # snapshots and replacements to prevent concurrent writes from clobbering.
+    with _STATE_LOCK:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        temp = path.with_suffix(path.suffix + ".tmp")
+        temp.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+        temp.replace(path)
 
 
 def read_channels(path: Path) -> list[str]:
@@ -167,7 +173,8 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
                     remote_components: set[str], use_whisper: bool, whisper_model_name: str,
                     browser: str | None, max_items_per_channel: int = 0) -> dict[str, Any]:
     key = channel_url.casefold()
-    channel_state = state["channels"].setdefault(key, {})
+    with _STATE_LOCK:
+        channel_state = state["channels"].setdefault(key, {})
     folder = locate_channel_folder(root, channel_url)
     archived = locate_channel_folder(completed_root, channel_url)
     # Prefer an active working folder if a prior new upload could not be
@@ -237,21 +244,22 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
             folder_label = folder.relative_to(root).as_posix()
         except ValueError:
             folder_label = str(folder)
-        channel_state.update({
-            "channel_url": channel_url, "channel_name": name or folder.name,
-            "status": "IN_PROGRESS", "folder": folder_label,
-            "saved_this_run": saved_now, "attempted_this_run": attempted_this_run,
-            "saved_total": saved_checkpoint, "known_items": total_checkpoint,
-            "video_count": sum(1 for rec in checkpoint_records if str(rec.get("type", "VIDEO")).upper() != "SHORT"),
-            "short_count": sum(1 for rec in checkpoint_records if str(rec.get("type", "")).upper() == "SHORT"),
-            "auth_required_count": sum(1 for rec in checkpoint_records if rec.get("status") == "AUTH_REQUIRED"),
-            "no_caption_items": sum(1 for rec in checkpoint_records if rec.get("status") == "NO_CAPTIONS"),
-            "unresolved_items": unresolved_checkpoint,
-            "batch_limit_reached": batch_limit_reached, "scan_errors": fatal_scan_errors,
-            "last_checked_at": utc_now()
-        })
-        state["updated_at"] = utc_now()
-        safe_json_write(root / "channel_state.json", state)
+        with _STATE_LOCK:
+            channel_state.update({
+                "channel_url": channel_url, "channel_name": name or folder.name,
+                "status": "IN_PROGRESS", "folder": folder_label,
+                "saved_this_run": saved_now, "attempted_this_run": attempted_this_run,
+                "saved_total": saved_checkpoint, "known_items": total_checkpoint,
+                "video_count": sum(1 for rec in checkpoint_records if str(rec.get("type", "VIDEO")).upper() != "SHORT"),
+                "short_count": sum(1 for rec in checkpoint_records if str(rec.get("type", "")).upper() == "SHORT"),
+                "auth_required_count": sum(1 for rec in checkpoint_records if rec.get("status") == "AUTH_REQUIRED"),
+                "no_caption_items": sum(1 for rec in checkpoint_records if rec.get("status") == "NO_CAPTIONS"),
+                "unresolved_items": unresolved_checkpoint,
+                "batch_limit_reached": batch_limit_reached, "scan_errors": fatal_scan_errors,
+                "last_checked_at": utc_now()
+            })
+            state["updated_at"] = utc_now()
+            safe_json_write(root / "channel_state.json", state)
 
     for index, item in enumerate(entries, start=1):
         existing = extractor.item_has_saved_transcript(item, manifest, folder)
@@ -300,8 +308,9 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
     is_archived_folder = folder.parent.resolve() == completed_root.resolve()
     if status == "COMPLETED":
         channel_folder = folder if is_archived_folder else archive_completed_channel(folder, completed_root)
-        channel_state.update({"status": "COMPLETED", "folder": str(Path("completed") / channel_folder.name),
-                              "completed_at": channel_state.get("completed_at") or utc_now()})
+        with _STATE_LOCK:
+            channel_state.update({"status": "COMPLETED", "folder": str(Path("completed") / channel_folder.name),
+                                  "completed_at": channel_state.get("completed_at") or utc_now()})
     else:
         # A new unresolved upload means this channel is no longer fully archived.
         # Move the updated manifest back to the working area and remove any stale
@@ -317,7 +326,8 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
         elif archived is not None and archived.exists():
             shutil.rmtree(archived)
         channel_folder = folder
-        channel_state.update({"status": "IN_PROGRESS", "folder": folder.name})
+        with _STATE_LOCK:
+            channel_state.update({"status": "IN_PROGRESS", "folder": folder.name})
 
     if is_update:
         updated_channel_folder = updated_root / channel_folder.name
@@ -352,7 +362,8 @@ def process_channel(channel_url: str, root: Path, completed_root: Path, updated_
               "unresolved_items": unresolved, "scan_errors": fatal_scan_errors,
               "folder": str(channel_folder.relative_to(root)) if channel_folder.is_relative_to(root) else str(channel_folder),
               "last_checked_at": utc_now()}
-    channel_state.update(result)
+    with _STATE_LOCK:
+        channel_state.update(result)
     return result
 
 
@@ -382,11 +393,16 @@ def main() -> int:
     parser.add_argument("--max-items-per-channel", type=int,
                         default=int(os.getenv("MAX_ITEMS_PER_CHANNEL", "0") or "0"),
                         help="Max transcript attempts per channel per run; 0 means unlimited")
+    parser.add_argument("--channel-workers", type=int,
+                        default=int(os.getenv("CHANNEL_WORKERS", "3") or "3"),
+                        help="Concurrent channel workers (1-5; default 3)")
     args = parser.parse_args()
     if args.max_channels < 0:
         parser.error("--max-channels must be non-negative")
     if args.max_items_per_channel < 0:
         parser.error("--max-items-per-channel must be non-negative")
+    if not 1 <= args.channel_workers <= 5:
+        parser.error("--channel-workers must be between 1 and 5")
     root = Path(args.output_dir).resolve()
     channels_file = Path(args.channels_file)
     if not channels_file.is_absolute():
@@ -415,25 +431,39 @@ def main() -> int:
         print(f"Cannot start extractor: {exc}", flush=True)
         safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "STARTUP_FAILED", utc_now()))
         return 2
-    for index, channel_url in enumerate(channels, start=1):
-        print("\n" + "=" * 76 + f"\nCHANNEL {index}/{len(channels)}: {channel_url}", flush=True)
+    def collect_one(index: int, channel_url: str) -> dict[str, Any]:
+        print(f"\nCHANNEL {index}/{len(channels)} queued: {channel_url}", flush=True)
         try:
-            result = process_channel(channel_url, root, completed_root, updated_root, state, runtime_name,
+            return process_channel(
+                channel_url, root, completed_root, updated_root, state, runtime_name,
                 runtime_path, remote_components, use_whisper, whisper_model_name, browser,
-                args.max_items_per_channel)
-        except KeyboardInterrupt:
-            print("Interrupted; transcripts and manifests are preserved for the next run.", flush=True)
-            safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "INTERRUPTED", utc_now()))
-            break
+                args.max_items_per_channel
+            )
         except Exception as exc:
             traceback.print_exc()
-            result = {"channel_url": channel_url, "status": "ERROR", "error": extractor.explain_error(exc), "last_checked_at": utc_now()}
-        results.append(result)
-        state["channels"][channel_url.casefold()] = {**state["channels"].get(channel_url.casefold(), {}), **result}
-        state["updated_at"] = utc_now()
-        safe_json_write(state_path, state)
-        safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "RUNNING"))
-        print(json.dumps(result, ensure_ascii=False), flush=True)
+            return {"channel_url": channel_url, "channel_name": extractor.fallback_folder_name(channel_url),
+                    "status": "ERROR", "error": extractor.explain_error(exc), "last_checked_at": utc_now()}
+
+    worker_count = min(args.channel_workers, len(channels))
+    print(f"Starting {worker_count} concurrent channel worker(s).", flush=True)
+    configured_order = {url.casefold(): index for index, url in enumerate(channels)}
+    with ThreadPoolExecutor(max_workers=worker_count, thread_name_prefix="youtube-channel") as executor:
+        futures = {
+            executor.submit(collect_one, index, channel_url): channel_url
+            for index, channel_url in enumerate(channels, start=1)
+        }
+        for future in as_completed(futures):
+            channel_url = futures[future]
+            result = future.result()
+            results.append(result)
+            results.sort(key=lambda row: configured_order.get(str(row.get("channel_url", "")).casefold(), len(channels)))
+            with _STATE_LOCK:
+                key = channel_url.casefold()
+                state["channels"][key] = {**state["channels"].get(key, {}), **result}
+                state["updated_at"] = utc_now()
+                safe_json_write(state_path, state)
+                safe_json_write(report_path, make_run_report(run_started_at, len(channels), results, "RUNNING"))
+            print(json.dumps(result, ensure_ascii=False), flush=True)
     auth_blocked = sum(int(x.get("auth_required_count", 0) or 0) > 0 for x in results)
     errors = sum(x.get("status") in {"ERROR", "SCAN_FAILED"} for x in results)
     final_status = "PARTIAL_AUTH_BLOCKED" if auth_blocked else ("FAILED" if results and errors == len(results) else "COMPLETED")
