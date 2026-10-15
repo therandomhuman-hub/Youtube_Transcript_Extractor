@@ -1,0 +1,70 @@
+Title: A/B Split Testing Techniques To Improve Landing Page Conversions
+Channel: Joshua Elder
+Type: VIDEO
+Video ID: eBOSpgpsOW0
+URL: https://www.youtube.com/watch?v=eBOSpgpsOW0
+Language: en-orig
+Transcript source: YouTube automatic captions
+Collected UTC: 2026-10-15T06:36:27+00:00
+
+Kind: captions Language: en hey guys what's going on Joshua elder here and welcome to another over the
+shoulder case study video in this video we're going to do some split testing I'm going to show you how to
+properly split test a campaign and we're going to use a three-step bridge funnel as a test in this process you
+don't know what a bridge funnel is I will leave a link in the resource section below in the description giving
+you access to a video that kind of outlines what a bridge funnel is but in this video we're going to do some
+split testing just primarily on the capture page now you can split tests of course bridge pages sales pages
+and typically with the software click funnels you can split tests up to three but it looks like they recently
+updated their web-based software and it looks like right now unless I just can't find it you can split test
+two pages at a time so I want to show you how to do proper split testing and I'm going to show you the results
+of this campaigned I just recently started so if we look at each of these capture pages let me open this up
+here these capture pages you'll notice this it says free video reveals the online system I use to profit two
+hundred forty four thousand four dollars and twenty cents in the past 14 months then I have this image right
+here with a play button where people can click of course see the opt-in form and then there's a button below
+right here so there's really one two three four and I guess you could say five is this background and then six
+of this background and then even seven and a little text below but so there's about seven different things
+that we can split test I'm on this specific capture page and then state that most people make is they'll split
+test more than one aspect at once right so those split tests maybe this image here and they'll change the
+color of the button you don't want to do that you want to make sure that you're like a scientist your slit
+testing your testing one variable at a time okay so when I switch over to this capture page you're going to
+notice that there's one specific difference all right can you see it obviously that the text is a little bit
+different right the structure which I should probably fix that sort of the exact same but you'll notice that
+in parentheses here we have click below to get a hundred percent free instant access all right so that's the
+difference there's more of a clear call-to-action right here because I'm guessing the idea that some people
+look like this some people may not some people may scroll down and click this here right you know right here
+but if you give people instructions I know that that raises conversion rates right but overall you'll notice
+that I'm just split testing one single thing all right and that one single thing is I just added click below
+to get 100% free instant access you know once I get higher conversions by doing that would say this gives us
+higher conversions maybe I will delete the free video reveals at the top right or maybe I will delete this
+image right here that has the play button that makes it look like a like a videos about to play I maybe I'll
+delete this down here maybe I'll delete the background right so you want to be constantly testing once you
+find a winner test it against something else once you find a winner out of that then test it again against
+something else so let me show you the results that we've gotten from this campaign I just barely started and
+what I see a lot of people do too as well is go quit on a campaign before they even get enough data especially
+with paid traffic they're afraid to lose money so they end up spending more money because they're not getting
+enough data to find out really what's working and what's not working ok so if I click this little down arrow
+you can see that I have the control the controlled capture page so let me just bring it up again so this is my
+control right here and this is the variation right here so you'll notice that the control page views we have
+all is 23 and then unique this is unique people right and then overall page views so looks like a couple
+people probably refresh the page or you-tube came to the website more than once that's 23 out of that we got
+19 unique people and 7 have opted in right and that's 36 point 84 which it's an OK conversion rate on the
+opt-in typically anything like right around 45 50 percent is pretty dang good anything over 50 percent is
+phenomenal but they do say the average in the industry is right around 20 percent but this is traffic from
+YouTube ok we just started testing this last night this is traffic from YouTube and I know that traffic is
+going to convert a lot higher than any other traffic because it's more targeted right so we got right around
+36 to 37 percent conversion rates we got 48 uniques here 19 here I'm going to probably wait until this gets
+right like right around 100 unique visitors to decide which one's going to be a winner right so once we do
+that then we'll take the winner and will test the winner against something else so I think I'm going to do is
+I might just remove that that image with the play button and see if that improves conversion rates or make you
+know market rates worse so what we'll see though I'll keep you guys updated with this specific case study and
+you guys are able to see kind of live over the shoulder what I'm doing day-by-day inside my business 1% free
+no strings attached whatsoever for you guys and if you did get value from this video please out first of all
+like this video subscribe to this channel and let me know in the comments the questions that you have about
+split testing any questions you have about split testing let me know what you're currently getting on your
+capture page conversions right now and what traffic sources you're using in the comments box below I would
+absolutely love to hear and most importantly you can check out the links below in the description if you don't
+have access to click funnels yet you can get act with the click funnels you can also check out this specific
+funnel that I'm using right now and you can feel free to go through it and copy it and deploy it in your
+business if you're looking to get started in a business you can also go to the link in the description as well
+there'll be a specific link if you're looking to get started in some sort of business as well so completely up
+to you whatever you decide to do I hope you keep coming back for more videos with that said this is Josh elder
+signing off you guys have a great day take care [Music]

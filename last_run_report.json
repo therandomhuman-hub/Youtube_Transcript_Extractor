@@ -1,19 +1,19 @@
 {
-  "run_id": "38641837810",
-  "run_number": "31",
+  "run_id": "38682094196",
+  "run_number": "32",
   "run_status": "PARTIAL_FAILURE",
-  "run_at": "2026-10-14T21:58:36+00:00",
-  "run_started_at": "2026-10-14T21:58:36+00:00",
-  "updated_at": "2026-10-15T03:38:48+00:00",
-  "finished_at": "2026-10-15T03:38:48+00:00",
+  "run_at": "2026-10-15T04:33:47+00:00",
+  "run_started_at": "2026-10-15T04:33:47+00:00",
+  "updated_at": "2026-10-15T10:13:59+00:00",
+  "finished_at": "2026-10-15T10:13:59+00:00",
   "configured_channels": 20,
   "processed_channels": 8,
   "remaining_channels": 12,
   "completed_channels": 7,
   "in_progress_channels": 1,
   "error_channels": 0,
-  "saved_transcripts_this_run": 469,
-  "no_caption_items": 22,
+  "saved_transcripts_this_run": 455,
+  "no_caption_items": 35,
   "results": [
     {
       "channel_url": "https://www.youtube.com/@One-Person-Business",
@@ -32,14 +32,14 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/One Person Business",
-      "last_checked_at": "2026-10-14T21:59:00+00:00"
+      "last_checked_at": "2026-10-15T04:34:12+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JadM.H",
       "channel_name": "Jad M.H  | AI Automation",
       "status": "COMPLETED",
-      "saved_this_run": 1,
-      "attempted_this_run": 1,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "batch_limit_reached": false,
       "saved_total": 190,
       "known_items": 191,
@@ -51,7 +51,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Jad M.H _ AI Automation",
-      "last_checked_at": "2026-10-14T22:00:06+00:00"
+      "last_checked_at": "2026-10-15T04:34:43+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JasonWardrop",
@@ -70,7 +70,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Jason Wardrop",
-      "last_checked_at": "2026-10-14T22:01:01+00:00"
+      "last_checked_at": "2026-10-15T04:35:35+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@timdanilovhi",
@@ -89,7 +89,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Tim Danilov Biz",
-      "last_checked_at": "2026-10-14T22:01:26+00:00"
+      "last_checked_at": "2026-10-15T04:35:55+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@EverygenAI",
@@ -108,7 +108,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Everygen AI",
-      "last_checked_at": "2026-10-14T22:01:48+00:00"
+      "last_checked_at": "2026-10-15T04:36:13+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@DevenSeenath",
@@ -127,7 +127,7 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/Deven Seenath",
-      "last_checked_at": "2026-10-14T22:03:26+00:00"
+      "last_checked_at": "2026-10-15T04:37:47+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@AIpreneur2176",
@@ -146,27 +146,27 @@
       "unresolved_items": 0,
       "scan_errors": [],
       "folder": "completed/AIpreneur",
-      "last_checked_at": "2026-10-14T22:03:49+00:00"
+      "last_checked_at": "2026-10-15T04:38:10+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JoshuaElderLive",
       "channel_name": "Joshua Elder",
       "status": "IN_PROGRESS",
       "folder": "Joshua Elder",
-      "saved_this_run": 468,
-      "attempted_this_run": 477,
-      "saved_total": 639,
+      "saved_this_run": 455,
+      "attempted_this_run": 468,
+      "saved_total": 1094,
       "known_items": 1737,
-      "unresolved_items": 1090,
-      "no_caption_items": 8,
+      "unresolved_items": 622,
+      "no_caption_items": 21,
       "video_count": 885,
       "short_count": 852,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-15T03:38:23+00:00"
+      "last_checked_at": "2026-10-15T10:13:20+00:00"
     }
   ],
   "workflow_step_outcome": "failure",
-  "finalized_at": "2026-10-15T03:38:48+00:00",
+  "finalized_at": "2026-10-15T10:13:59+00:00",
   "partial_channel_checkpoints": [
     {
       "channel_url": "https://www.youtube.com/@AIpreneur2176",
@@ -182,7 +182,7 @@
       "video_count": 56,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T22:03:49+00:00"
+      "last_checked_at": "2026-10-15T04:38:10+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@DevenSeenath",
@@ -198,7 +198,7 @@
       "video_count": 247,
       "short_count": 485,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T22:03:26+00:00"
+      "last_checked_at": "2026-10-15T04:37:47+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@EverygenAI",
@@ -214,15 +214,15 @@
       "video_count": 5,
       "short_count": 0,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T22:01:48+00:00"
+      "last_checked_at": "2026-10-15T04:36:13+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JadM.H",
       "channel_name": "Jad M.H  | AI Automation",
       "status": "COMPLETED",
       "folder": "completed/Jad M.H _ AI Automation",
-      "saved_this_run": 1,
-      "attempted_this_run": 1,
+      "saved_this_run": 0,
+      "attempted_this_run": 0,
       "saved_total": 190,
       "known_items": 191,
       "unresolved_items": 0,
@@ -230,7 +230,7 @@
       "video_count": 43,
       "short_count": 148,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T22:00:06+00:00"
+      "last_checked_at": "2026-10-15T04:34:43+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JasonWardrop",
@@ -246,23 +246,23 @@
       "video_count": 291,
       "short_count": 37,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T22:01:01+00:00"
+      "last_checked_at": "2026-10-15T04:35:35+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@JoshuaElderLive",
       "channel_name": "Joshua Elder",
       "status": "IN_PROGRESS",
       "folder": "Joshua Elder",
-      "saved_this_run": 468,
-      "attempted_this_run": 477,
-      "saved_total": 639,
+      "saved_this_run": 455,
+      "attempted_this_run": 468,
+      "saved_total": 1094,
       "known_items": 1737,
-      "unresolved_items": 1090,
-      "no_caption_items": 8,
+      "unresolved_items": 622,
+      "no_caption_items": 21,
       "video_count": 885,
       "short_count": 852,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-15T03:38:23+00:00"
+      "last_checked_at": "2026-10-15T10:13:20+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@One-Person-Business",
@@ -278,7 +278,7 @@
       "video_count": 113,
       "short_count": 12,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T21:59:00+00:00"
+      "last_checked_at": "2026-10-15T04:34:12+00:00"
     },
     {
       "channel_url": "https://www.youtube.com/@timdanilovhi",
@@ -294,12 +294,12 @@
       "video_count": 75,
       "short_count": 36,
       "auth_required_count": 0,
-      "last_checked_at": "2026-10-14T22:01:26+00:00"
+      "last_checked_at": "2026-10-15T04:35:55+00:00"
     }
   ],
   "checkpoint_channel_count": 8,
-  "checkpoint_saved_this_run_total": 469,
+  "checkpoint_saved_this_run_total": 455,
   "auth_blocked_channels": 0,
-  "attempted_transcripts_this_run": 478,
+  "attempted_transcripts_this_run": 468,
   "failure_reason": "The transcript collection step failed or timed out; saved files, manifests, channel state, and available partial checkpoints were preserved."
 }
