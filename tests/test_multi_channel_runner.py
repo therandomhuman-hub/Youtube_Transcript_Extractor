@@ -308,3 +308,76 @@ def test_unlimited_channel_budget_processes_all_pending_items(tmp_path, monkeypa
     assert result["known_items"] == 3
     assert result["unresolved_items"] == 0
     assert (completed / "Unlimited Example" / "transcript_manifest.json").is_file()
+
+
+def test_main_processes_channels_concurrently_with_configured_worker_limit(tmp_path, monkeypatch):
+    import threading
+    import time
+
+    channels_file = tmp_path / "channels.txt"
+    channels_file.write_text(
+        "\n".join(f"https://www.youtube.com/@Channel{i}" for i in range(6)) + "\n",
+        encoding="utf-8",
+    )
+    lock = threading.Lock()
+    active = 0
+    max_active = 0
+
+    def fake_runtime_settings():
+        return "deno", "/usr/bin/deno", set(), False, "small", None
+
+    def fake_process_channel(channel_url, *args, **kwargs):
+        nonlocal active, max_active
+        with lock:
+            active += 1
+            max_active = max(max_active, active)
+        time.sleep(0.05)
+        with lock:
+            active -= 1
+        return {
+            "channel_url": channel_url,
+            "channel_name": channel_url.rsplit("@", 1)[-1],
+            "status": "COMPLETED",
+            "saved_this_run": 0,
+            "attempted_this_run": 0,
+            "saved_total": 1,
+            "known_items": 1,
+            "unresolved_items": 0,
+            "no_caption_items": 0,
+        }
+
+    monkeypatch.setattr(runner, "load_runtime_settings", fake_runtime_settings)
+    monkeypatch.setattr(runner, "process_channel", fake_process_channel)
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        [
+            "multi_channel_runner.py",
+            "--channels-file", str(channels_file),
+            "--output-dir", str(tmp_path / "output"),
+            "--channel-workers", "3",
+        ],
+    )
+
+    assert runner.main() == 0
+    assert max_active == 3
+
+
+def test_rate_limit_managers_share_cooldown_state_across_workers(tmp_path):
+    from concurrent.futures import ThreadPoolExecutor
+    import youtube_channel_transcripts as engine
+
+    state_path = tmp_path / ".youtube_rate_limit_state.json"
+    managers = [
+        engine.RateLimitManager(state_path),
+        engine.RateLimitManager(state_path),
+        engine.RateLimitManager(state_path),
+    ]
+    assert managers[0].state is managers[1].state is managers[2].state
+
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        list(executor.map(lambda i: managers[i % 3].note_429(f"test worker {i}"), range(6)))
+
+    assert managers[0].state["total_429_events"] == 6
+    assert managers[0].state["consecutive_429"] == 6
+    assert managers[1].state["cooldown_until"] > 0
