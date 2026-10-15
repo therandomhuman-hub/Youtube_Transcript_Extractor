@@ -69,7 +69,8 @@ jobs:
               ref: "main",
               inputs: {
                 max_channels: "0",
-                max_items_per_channel: "0"
+                max_items_per_channel: "0",
+                channel_workers: "3"
               }
             });
             core.notice(
