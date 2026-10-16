@@ -1,7 +1,7 @@
 Channel name: Learn with Lukas
 Channel URL: https://www.youtube.com/@learnwithlukas
-Last updated UTC: 2026-10-16T04:32:16+00:00
-Discovered in current scan: 332
+Last updated UTC: 2026-10-16T11:23:11+00:00
+Discovered in current scan: 333
 Manifest total: 333
 Transcripts saved: 248
 No captions: 85

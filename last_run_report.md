@@ -1,10 +1,10 @@
 # YouTube Transcript Archive — Run Report
 
-- **Run ID:** 38850707509
+- **Run ID:** 38892918386
 - **Run status:** PARTIAL_AUTH_BLOCKED
 - **Workflow step outcome:** failure
-- **Started (UTC):** 2026-10-16T04:27:39+00:00
-- **Finished/finalized (UTC):** 2026-10-16T04:33:50+00:00
+- **Started (UTC):** 2026-10-16T11:18:56+00:00
+- **Finished/finalized (UTC):** 2026-10-16T11:24:41+00:00
 
 ## Run totals
 
