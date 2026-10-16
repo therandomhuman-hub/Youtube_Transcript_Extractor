@@ -1,14 +1,14 @@
 Channel name: Alex
 Channel URL: https://www.youtube.com/@alexpdfbusiness
-Last updated UTC: 2026-10-16T11:24:02+00:00
-Discovered in current scan: 51
-Manifest total: 51
+Last updated UTC: 2026-10-16T16:41:46+00:00
+Discovered in current scan: 52
+Manifest total: 52
 Transcripts saved: 51
 No captions: 0
 Resolved items (saved transcript or explicit no-caption outcome): 51
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
-Authentication required: 0
+Authentication required: 1
 Rate limited: 0
 Still discovered/pending: 0
 Whisper fallback enabled: False

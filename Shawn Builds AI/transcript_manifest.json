@@ -2,7 +2,7 @@
   "zK7r8zJG2pY": {
     "video_id": "zK7r8zJG2pY",
     "type": "VIDEO",
-    "title": "How to Use ChatGPT Astra AI Better Than 99% Of People (Beginner to Pro)",
+    "title": "The Most Valuable ChatGPT Astra AI Training You’ll Ever Watch",
     "url": "https://www.youtube.com/watch?v=zK7r8zJG2pY",
     "channel": "Shawn Builds AI",
     "status": "SAVED",
@@ -1033,5 +1033,20 @@
     "discovered_at": "2026-10-15T10:16:31+00:00",
     "last_discovered_at": "2026-10-15T10:16:31+00:00",
     "updated_at": "2026-10-15T10:17:18+00:00"
+  },
+  "Pf53G4PQou0": {
+    "video_id": "Pf53G4PQou0",
+    "type": "VIDEO",
+    "title": "12 Cheat Codes to Make Money With Gemini 4 Argon",
+    "url": "https://www.youtube.com/watch?v=Pf53G4PQou0",
+    "channel": "Shawn Builds AI",
+    "status": "AUTH_REQUIRED",
+    "source": "",
+    "language": "",
+    "filename": "",
+    "message": "ERROR: [youtube] Pf53G4PQou0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "discovered_at": "2026-10-16T16:38:07+00:00",
+    "last_discovered_at": "2026-10-16T16:38:07+00:00",
+    "updated_at": "2026-10-16T16:38:22+00:00"
   }
 }

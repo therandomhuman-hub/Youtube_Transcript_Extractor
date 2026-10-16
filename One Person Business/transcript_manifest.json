@@ -1873,5 +1873,20 @@
     "discovered_at": "2026-10-14T16:18:23+00:00",
     "last_discovered_at": "2026-10-14T16:18:23+00:00",
     "updated_at": "2026-10-14T16:19:04+00:00"
+  },
+  "MHJsQb_D9OM": {
+    "video_id": "MHJsQb_D9OM",
+    "type": "VIDEO",
+    "title": "This AI Creates Digital Products From a YouTube Link",
+    "url": "https://www.youtube.com/watch?v=MHJsQb_D9OM",
+    "channel": "One Person Business",
+    "status": "AUTH_REQUIRED",
+    "source": "",
+    "language": "",
+    "filename": "",
+    "message": "ERROR: [youtube] MHJsQb_D9OM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "discovered_at": "2026-10-16T16:36:19+00:00",
+    "last_discovered_at": "2026-10-16T16:36:19+00:00",
+    "updated_at": "2026-10-16T16:36:32+00:00"
   }
 }

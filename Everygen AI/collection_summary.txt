@@ -1,14 +1,14 @@
 Channel name: Everygen AI
 Channel URL: https://www.youtube.com/@EverygenAI
-Last updated UTC: 2026-10-16T11:19:53+00:00
-Discovered in current scan: 5
-Manifest total: 5
+Last updated UTC: 2026-10-16T16:36:59+00:00
+Discovered in current scan: 6
+Manifest total: 6
 Transcripts saved: 4
 No captions: 1
 Resolved items (saved transcript or explicit no-caption outcome): 5
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
-Authentication required: 0
+Authentication required: 1
 Rate limited: 0
 Still discovered/pending: 0
 Whisper fallback enabled: False

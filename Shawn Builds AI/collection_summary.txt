@@ -1,14 +1,14 @@
 Channel name: Shawn Builds AI
 Channel URL: https://www.youtube.com/@shawnbuildsai
-Last updated UTC: 2026-10-16T11:20:59+00:00
-Discovered in current scan: 69
-Manifest total: 69
+Last updated UTC: 2026-10-16T16:38:22+00:00
+Discovered in current scan: 70
+Manifest total: 70
 Transcripts saved: 69
 No captions: 0
 Resolved items (saved transcript or explicit no-caption outcome): 69
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
 Failures: 0
-Authentication required: 0
+Authentication required: 1
 Rate limited: 0
 Still discovered/pending: 0
 Whisper fallback enabled: False
