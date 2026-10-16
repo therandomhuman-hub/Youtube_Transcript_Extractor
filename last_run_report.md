@@ -1,10 +1,10 @@
 # YouTube Transcript Archive — Run Report
 
-- **Run ID:** 38933171833
+- **Run ID:** 38966753068
 - **Run status:** PARTIAL_AUTH_BLOCKED
 - **Workflow step outcome:** failure
-- **Started (UTC):** 2026-10-16T16:35:56+00:00
-- **Finished/finalized (UTC):** 2026-10-16T16:42:09+00:00
+- **Started (UTC):** 2026-10-16T21:04:24+00:00
+- **Finished/finalized (UTC):** 2026-10-16T21:11:04+00:00
 
 ## Run totals
 
@@ -12,12 +12,12 @@
 |---|---:|
 | Configured channels | 20 |
 | Channels checked/reported | 20 |
-| Completed channels | 12 |
-| In-progress channels | 8 |
+| Completed channels | 11 |
+| In-progress channels | 9 |
 | Channels with errors | 0 |
-| Authentication-blocked channels | 8 |
+| Authentication-blocked channels | 9 |
 | Channels not reached in this run | 0 |
-| Transcript attempts in this run | 8 |
+| Transcript attempts in this run | 9 |
 | Transcripts saved in this run | 0 |
 | No-caption outcomes recorded in this run snapshot | 150 |
 
@@ -34,7 +34,7 @@
 | [Everygen AI](https://www.youtube.com/@EverygenAI) | IN_PROGRESS | 4 / 6 | 1 | 1 | 1 | `Everygen AI` |
 | [Deven Seenath](https://www.youtube.com/@DevenSeenath) | COMPLETED | 723 / 732 | 9 | 0 | 0 | `completed/Deven Seenath` |
 | [AIpreneur](https://www.youtube.com/@AIpreneur2176) | COMPLETED | 55 / 56 | 1 | 0 | 0 | `completed/AIpreneur` |
-| [Joshua Elder](https://www.youtube.com/@JoshuaElderLive) | IN_PROGRESS | 1616 / 1738 | 32 | 90 | 1 | `Joshua Elder` |
+| [Joshua Elder](https://www.youtube.com/@JoshuaElderLive) | IN_PROGRESS | 1616 / 1739 | 32 | 91 | 1 | `Joshua Elder` |
 | [Isaac](https://www.youtube.com/@isaacverse) | COMPLETED | 9 / 9 | 0 | 0 | 0 | `completed/Isaac` |
 | [Shawn Builds AI](https://www.youtube.com/@shawnbuildsai) | IN_PROGRESS | 69 / 70 | 0 | 1 | 1 | `Shawn Builds AI` |
 | [E'Calm](https://www.youtube.com/@emmiescalm) | IN_PROGRESS | 32 / 33 | 0 | 1 | 1 | `E'Calm` |
@@ -43,7 +43,7 @@
 | [Victor Bigbro](https://www.youtube.com/@VictorBigbro) | COMPLETED | 85 / 86 | 1 | 0 | 0 | `completed/Victor Bigbro` |
 | [Jack Neel](https://www.youtube.com/@jackneel) | IN_PROGRESS | 690 / 1000 | 1 | 309 | 1 | `Jack Neel` |
 | [Bahaa AI](https://www.youtube.com/@BahaaAI) | COMPLETED | 32 / 35 | 3 | 0 | 0 | `completed/Bahaa AI` |
-| [Learn with Lukas](https://www.youtube.com/@learnwithlukas) | COMPLETED | 248 / 333 | 85 | 0 | 0 | `completed/Learn with Lukas` |
+| [Learn with Lukas](https://www.youtube.com/@learnwithlukas) | IN_PROGRESS | 248 / 334 | 85 | 1 | 1 | `Learn with Lukas` |
 | [Sunny Lenarduzzi](https://www.youtube.com/@SunnyLenarduzzi) | COMPLETED | 550 / 563 | 13 | 0 | 0 | `completed/Sunny Lenarduzzi` |
 | [Alex](https://www.youtube.com/@alexpdfbusiness) | IN_PROGRESS | 51 / 52 | 0 | 1 | 1 | `Alex` |
 | [Money Guy](https://www.youtube.com/@IamMoneyGuy) | COMPLETED | 42 / 42 | 0 | 0 | 0 | `completed/Money Guy` |
