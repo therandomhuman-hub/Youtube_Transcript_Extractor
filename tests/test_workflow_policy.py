@@ -1,18 +1,35 @@
 from pathlib import Path
+import re
 
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def test_archive_workflow_has_four_daily_runs_and_does_not_cancel_active_work():
-    workflow = (ROOT / ".github" / "workflows" / "transcript-archive.yml").read_text(encoding="utf-8")
+def test_no_workflow_has_scheduled_trigger():
+    workflow_dir = ROOT / ".github" / "workflows"
+    workflow_files = sorted(workflow_dir.glob("*.yml"))
+    assert workflow_files, "Expected GitHub Actions workflow files to exist."
 
-    assert 'cron: "17 0,6,12,18 * * *"' in workflow
+    scheduled = [
+        path.name
+        for path in workflow_files
+        if re.search(r"(?m)^  schedule:\s*$", path.read_text(encoding="utf-8"))
+    ]
+    assert not scheduled, f"Scheduled workflows must remain disabled: {scheduled}"
+
+
+def test_archive_workflow_is_manual_only_and_does_not_cancel_active_work():
+    workflow = (ROOT / ".github" / "workflows" / "transcript-archive.yml").read_text(encoding="utf-8")
+    triggers = workflow.split("permissions:", 1)[0]
+
+    assert "\n  schedule:" not in triggers
+    assert "\n  push:" not in triggers
+    assert "\n  workflow_dispatch:" in triggers
     assert "cancel-in-progress: false" in workflow
     assert "timeout-minutes: 340" in workflow
     assert 'default: "0"' in workflow
     assert "github.event.inputs.max_items_per_channel || '0'" in workflow
-    assert 'channel_workers:' in workflow
+    assert "channel_workers:" in workflow
     assert 'default: "3"' in workflow
     assert "github.event.inputs.channel_workers || '3'" in workflow
     assert "CHANNEL_WORKERS_INPUT:" in workflow
@@ -41,42 +58,18 @@ def test_archive_workflow_reports_failures_and_publishes_zips():
     assert "git push --force" not in workflow
 
 
-def test_archive_collection_push_trigger_is_limited_to_recovery_relevant_files():
-    workflow = (ROOT / ".github" / "workflows" / "transcript-archive.yml").read_text(encoding="utf-8")
-    triggers = workflow.split("permissions:", 1)[0]
-
-    # Changes to collector configuration/code recover the archive immediately,
-    # while transcript/state commits cannot recursively launch another collector.
-    assert "\n  push:" in triggers
-    assert "branches: [main]" in triggers
-    for path in (
-        '"channels.txt"',
-        '".github/workflows/transcript-archive.yml"',
-        '"multi_channel_runner.py"',
-        '"youtube_channel_transcripts.py"',
-        '"scripts/finalize_run_report.py"',
-        '"scripts/package_completed.py"',
-        '"scripts/package_all_channels.py"',
-        '"requirements.txt"',
-    ):
-        assert path in triggers
-    assert '"channel_state.json"' not in triggers
-    assert '"last_run_report.json"' not in triggers
-    assert '"completed/**"' not in triggers
-    assert "  schedule:" in triggers
-    assert "  workflow_dispatch:" in triggers
-
-
-def test_archive_watchdog_recovers_missed_schedule_without_duplicate_runs():
+def test_archive_watchdog_is_manual_only_and_keeps_safe_dispatch_logic():
     watchdog = (ROOT / ".github" / "workflows" / "archive-watchdog.yml").read_text(encoding="utf-8")
+    triggers = watchdog.split("permissions:", 1)[0]
 
-    assert 'cron: "13,43 * * * *"' in watchdog
+    assert "\n  schedule:" not in triggers
+    assert "\n  workflow_dispatch:" in triggers
     assert "actions: write" in watchdog
     assert "thresholdHours = 5" in watchdog
     assert "activeStatuses" in watchdog
     assert "github.rest.actions.listWorkflowRuns" in watchdog
     assert "github.rest.actions.createWorkflowDispatch" in watchdog
-    assert 'workflow_id: workflowId' in watchdog
+    assert "workflow_id: workflowId" in watchdog
     assert 'max_items_per_channel: "0"' in watchdog
     assert 'channel_workers: "3"' in watchdog
     assert "cancel-in-progress: false" in watchdog
