@@ -5000,13 +5000,13 @@
     "title": "How to start a faceless youtube channel from zero",
     "url": "https://www.youtube.com/watch?v=wkUBRMUeBaw",
     "channel": "Learn with Lukas",
-    "status": "AUTH_REQUIRED",
+    "status": "FAILED",
     "source": "",
     "language": "",
     "filename": "",
-    "message": "ERROR: [youtube] wkUBRMUeBaw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "message": "All attempted caption tracks failed. automatic:en-orig:vtt -> yt-dlp completed but no vtt subtitle appeared",
     "discovered_at": "2026-10-16T21:09:15+00:00",
     "last_discovered_at": "2026-10-16T21:09:15+00:00",
-    "updated_at": "2026-10-16T21:09:29+00:00"
+    "updated_at": "2026-10-17T04:26:55+00:00"
   }
 }

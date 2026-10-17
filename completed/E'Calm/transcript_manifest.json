@@ -485,13 +485,13 @@
     "title": "How I Make $120,642.83/month Posting AI Videos On YouTube (Full System)",
     "url": "https://www.youtube.com/watch?v=pQqp7zJZlq8",
     "channel": "E'Calm",
-    "status": "AUTH_REQUIRED",
+    "status": "NO_CAPTIONS",
     "source": "",
     "language": "",
     "filename": "",
-    "message": "ERROR: [youtube] pQqp7zJZlq8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "message": "No parseable YouTube caption tracks were advertised",
     "discovered_at": "2026-10-16T16:38:47+00:00",
     "last_discovered_at": "2026-10-16T16:38:47+00:00",
-    "updated_at": "2026-10-16T21:07:31+00:00"
+    "updated_at": "2026-10-17T04:24:53+00:00"
   }
 }

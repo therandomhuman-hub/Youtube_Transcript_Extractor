@@ -9815,14 +9815,14 @@
     "title": "How Crypto Scammers Easily Steal Your Waller",
     "url": "https://www.youtube.com/watch?v=yS1aGUV5wOE",
     "channel": "Jack Neel",
-    "status": "AUTH_REQUIRED",
+    "status": "NO_CAPTIONS",
     "source": "",
     "language": "",
     "filename": "",
-    "message": "ERROR: [youtube] yS1aGUV5wOE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "message": "No parseable YouTube caption tracks were advertised",
     "discovered_at": "2026-10-10T06:52:18+00:00",
     "last_discovered_at": "2026-10-10T06:52:18+00:00",
-    "updated_at": "2026-10-16T21:09:54+00:00"
+    "updated_at": "2026-10-17T04:27:00+00:00"
   },
   "9ZA6ZIxyrQ4": {
     "video_id": "9ZA6ZIxyrQ4",
@@ -10224,10 +10224,10 @@
     "source": "",
     "language": "",
     "filename": "",
-    "message": "ERROR: [youtube] g29ytkaUVLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "message": "All attempted caption tracks failed. automatic:en-orig:vtt -> ERROR: [youtube] g29ytkaUVLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
     "discovered_at": "2026-10-10T06:52:18+00:00",
     "last_discovered_at": "2026-10-10T06:52:18+00:00",
-    "updated_at": "2026-10-15T17:09:37+00:00"
+    "updated_at": "2026-10-17T04:27:16+00:00"
   },
   "K-nry8MKPAs": {
     "video_id": "K-nry8MKPAs",
