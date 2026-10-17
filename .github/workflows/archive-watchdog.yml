@@ -1,10 +1,7 @@
 name: YouTube Archive Schedule Watchdog
 
 on:
-  # Runs between the archive's four main schedule slots and recovers missed triggers.
-  schedule:
-    # Retry the health check twice per hour if a hosted runner fails to start.
-    - cron: "13,43 * * * *"
+  # Scheduled watchdog dispatches are disabled; manual invocation only.
   workflow_dispatch:
 
 permissions:
