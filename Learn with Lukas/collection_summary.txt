@@ -1,14 +1,14 @@
 Channel name: Learn with Lukas
 Channel URL: https://www.youtube.com/@learnwithlukas
-Last updated UTC: 2026-10-17T04:26:55+00:00
+Last updated UTC: 2026-10-17T09:46:06+00:00
 Discovered in current scan: 334
 Manifest total: 334
 Transcripts saved: 248
 No captions: 85
 Resolved items (saved transcript or explicit no-caption outcome): 333
 No-caption outcomes remain visible in the audit and do not count as saved transcripts.
-Failures: 1
-Authentication required: 0
+Failures: 0
+Authentication required: 1
 Rate limited: 0
 Still discovered/pending: 0
 Whisper fallback enabled: False
