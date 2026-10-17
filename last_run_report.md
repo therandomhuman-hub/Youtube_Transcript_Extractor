@@ -1,10 +1,10 @@
 # YouTube Transcript Archive — Run Report
 
-- **Run ID:** 39025681697
+- **Run ID:** 39045326295
 - **Run status:** PARTIAL_AUTH_BLOCKED
 - **Workflow step outcome:** failure
-- **Started (UTC):** 2026-10-17T10:38:57+00:00
-- **Finished/finalized (UTC):** 2026-10-17T10:45:09+00:00
+- **Started (UTC):** 2026-10-17T15:30:32+00:00
+- **Finished/finalized (UTC):** 2026-10-17T15:37:00+00:00
 
 ## Run totals
 
@@ -12,12 +12,12 @@
 |---|---:|
 | Configured channels | 20 |
 | Channels checked/reported | 20 |
-| Completed channels | 16 |
-| In-progress channels | 4 |
+| Completed channels | 14 |
+| In-progress channels | 6 |
 | Channels with errors | 0 |
-| Authentication-blocked channels | 4 |
+| Authentication-blocked channels | 6 |
 | Channels not reached in this run | 0 |
-| Transcript attempts in this run | 4 |
+| Transcript attempts in this run | 6 |
 | Transcripts saved in this run | 0 |
 | No-caption outcomes recorded in this run snapshot | 157 |
 
@@ -28,7 +28,7 @@
 | Channel | Status | Saved / known | No captions | Unresolved | Attempted | Folder |
 |---|---|---:|---:|---:|---:|---|
 | [One Person Business](https://www.youtube.com/@One-Person-Business) | COMPLETED | 124 / 126 | 2 | 0 | 0 | `completed/One Person Business` |
-| [Jad M.H  \| AI Automation](https://www.youtube.com/@JadM.H) | COMPLETED | 190 / 192 | 2 | 0 | 0 | `completed/Jad M.H _ AI Automation` |
+| [Jad M.H  \| AI Automation](https://www.youtube.com/@JadM.H) | IN_PROGRESS | 190 / 193 | 2 | 1 | 1 | `Jad M.H _ AI Automation` |
 | [Jason Wardrop](https://www.youtube.com/@JasonWardrop) | IN_PROGRESS | 327 / 329 | 1 | 1 | 1 | `Jason Wardrop` |
 | [Tim Danilov Biz](https://www.youtube.com/@timdanilovhi) | COMPLETED | 111 / 111 | 0 | 0 | 0 | `completed/Tim Danilov Biz` |
 | [Everygen AI](https://www.youtube.com/@EverygenAI) | COMPLETED | 4 / 6 | 2 | 0 | 0 | `completed/Everygen AI` |
@@ -45,7 +45,7 @@
 | [Bahaa AI](https://www.youtube.com/@BahaaAI) | COMPLETED | 32 / 35 | 3 | 0 | 0 | `completed/Bahaa AI` |
 | [Learn with Lukas](https://www.youtube.com/@learnwithlukas) | IN_PROGRESS | 248 / 334 | 85 | 1 | 1 | `Learn with Lukas` |
 | [Sunny Lenarduzzi](https://www.youtube.com/@SunnyLenarduzzi) | COMPLETED | 550 / 563 | 13 | 0 | 0 | `completed/Sunny Lenarduzzi` |
-| [Alex](https://www.youtube.com/@alexpdfbusiness) | COMPLETED | 51 / 52 | 1 | 0 | 0 | `completed/Alex` |
+| [Alex](https://www.youtube.com/@alexpdfbusiness) | IN_PROGRESS | 51 / 53 | 1 | 1 | 1 | `Alex` |
 | [Money Guy](https://www.youtube.com/@IamMoneyGuy) | COMPLETED | 42 / 42 | 0 | 0 | 0 | `completed/Money Guy` |
 
 ## Interpretation

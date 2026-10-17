@@ -2878,5 +2878,20 @@
     "discovered_at": "2026-10-15T21:21:11+00:00",
     "last_discovered_at": "2026-10-15T21:21:11+00:00",
     "updated_at": "2026-10-15T21:21:23+00:00"
+  },
+  "lUqjRmtN7bE": {
+    "video_id": "lUqjRmtN7bE",
+    "type": "VIDEO",
+    "title": "The New Claude Motion Is Awesome (Scary Good)",
+    "url": "https://www.youtube.com/watch?v=lUqjRmtN7bE",
+    "channel": "Jad M.H  | AI Automation",
+    "status": "AUTH_REQUIRED",
+    "source": "",
+    "language": "",
+    "filename": "",
+    "message": "ERROR: [youtube] lUqjRmtN7bE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "discovered_at": "2026-10-17T15:31:06+00:00",
+    "last_discovered_at": "2026-10-17T15:31:06+00:00",
+    "updated_at": "2026-10-17T15:31:11+00:00"
   }
 }

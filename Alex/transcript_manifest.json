@@ -778,5 +778,20 @@
     "discovered_at": "2026-10-16T16:41:38+00:00",
     "last_discovered_at": "2026-10-16T16:41:38+00:00",
     "updated_at": "2026-10-17T04:27:50+00:00"
+  },
+  "V0CsbGb7IoY": {
+    "video_id": "V0CsbGb7IoY",
+    "type": "VIDEO",
+    "title": "the lazy way to make money with ai that actually works",
+    "url": "https://www.youtube.com/watch?v=V0CsbGb7IoY",
+    "channel": "Alex",
+    "status": "AUTH_REQUIRED",
+    "source": "",
+    "language": "",
+    "filename": "",
+    "message": "ERROR: [youtube] V0CsbGb7IoY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies",
+    "discovered_at": "2026-10-17T15:36:06+00:00",
+    "last_discovered_at": "2026-10-17T15:36:06+00:00",
+    "updated_at": "2026-10-17T15:36:18+00:00"
   }
 }
