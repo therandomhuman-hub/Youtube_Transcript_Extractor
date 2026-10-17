@@ -1,10 +1,10 @@
 # YouTube Transcript Archive — Run Report
 
-- **Run ID:** 39022072794
+- **Run ID:** 39025681697
 - **Run status:** PARTIAL_AUTH_BLOCKED
 - **Workflow step outcome:** failure
-- **Started (UTC):** 2026-10-17T09:41:37+00:00
-- **Finished/finalized (UTC):** 2026-10-17T09:48:51+00:00
+- **Started (UTC):** 2026-10-17T10:38:57+00:00
+- **Finished/finalized (UTC):** 2026-10-17T10:45:09+00:00
 
 ## Run totals
 
@@ -17,8 +17,8 @@
 | Channels with errors | 0 |
 | Authentication-blocked channels | 4 |
 | Channels not reached in this run | 0 |
-| Transcript attempts in this run | 7 |
-| Transcripts saved in this run | 2 |
+| Transcript attempts in this run | 4 |
+| Transcripts saved in this run | 0 |
 | No-caption outcomes recorded in this run snapshot | 157 |
 
 > **Run note:** The transcript collection step failed or timed out; saved files, manifests, channel state, and available partial checkpoints were preserved.
@@ -41,7 +41,7 @@
 | [Airyzen AI](https://www.youtube.com/@airyzenai) | COMPLETED | 27 / 27 | 0 | 0 | 0 | `completed/Airyzen AI` |
 | [Udo Onyekwere](https://www.youtube.com/@udo_dagreat) | COMPLETED | 63 / 63 | 0 | 0 | 0 | `completed/Udo Onyekwere` |
 | [Victor Bigbro](https://www.youtube.com/@VictorBigbro) | COMPLETED | 85 / 86 | 1 | 0 | 0 | `completed/Victor Bigbro` |
-| [Jack Neel](https://www.youtube.com/@jackneel) | IN_PROGRESS | 692 / 1000 | 3 | 305 | 4 | `Jack Neel` |
+| [Jack Neel](https://www.youtube.com/@jackneel) | IN_PROGRESS | 692 / 1000 | 3 | 305 | 1 | `Jack Neel` |
 | [Bahaa AI](https://www.youtube.com/@BahaaAI) | COMPLETED | 32 / 35 | 3 | 0 | 0 | `completed/Bahaa AI` |
 | [Learn with Lukas](https://www.youtube.com/@learnwithlukas) | IN_PROGRESS | 248 / 334 | 85 | 1 | 1 | `Learn with Lukas` |
 | [Sunny Lenarduzzi](https://www.youtube.com/@SunnyLenarduzzi) | COMPLETED | 550 / 563 | 13 | 0 | 0 | `completed/Sunny Lenarduzzi` |
